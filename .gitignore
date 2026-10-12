@@ -35,3 +35,8 @@ node_modules/
 # MCP local state
 .mcp.json
 mcp.json
+
+# Temporary video download fragments and frames
+*.ytdl
+tmp_frame_*.jpg
+.pytest_cache/

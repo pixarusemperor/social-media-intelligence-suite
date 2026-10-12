@@ -1,10 +1,27 @@
+"""
+process_all_channels.py - Metadata & Asset Scaffolding from Apify Datasets
+
+Connects to Apify Client, iterates through datasets for @vitalnasser, @produitsdigitauxtorif,
+and @nolimitvousdv, and scaffolds channel directory structures containing:
+  - metadata.json (raw schema dump)
+  - metadata.md (human-readable markdown summary)
+  - thumbnail.jpg (high-resolution stream thumbnail)
+"""
+
 import os
 import re
+import sys
 import json
+import argparse
 import urllib.request
 from apify_client import ApifyClient
 
 CHANNELS = [
+    {
+        "name": "vitalnasser",
+        "dataset_id": "wwgAsCH5h9ExfjMQA",
+        "url": "https://www.youtube.com/@vitalnasser"
+    },
     {
         "name": "produitsdigitauxtorif",
         "dataset_id": "DaUda2lzr8Wzq8meo",
@@ -18,28 +35,40 @@ CHANNELS = [
 ]
 
 BASE_DIR = "/root/Apify"
-APIFY_TOKEN = os.environ.get("APIFY_TOKEN")
-if not APIFY_TOKEN:
-    env_file = os.path.join(BASE_DIR, ".env")
-    if os.path.exists(env_file):
-        with open(env_file, "r") as f:
-            for line in f:
-                if line.startswith("APIFY_TOKEN="):
-                    APIFY_TOKEN = line.strip().split("=", 1)[1].strip()
-                    break
+
+def get_apify_token():
+    """Retrieves Apify API token from environment or local .env file."""
+    token = os.environ.get("APIFY_TOKEN")
+    if not token:
+        env_file = os.path.join(BASE_DIR, ".env")
+        if os.path.exists(env_file):
+            with open(env_file, "r") as f:
+                for line in f:
+                    if line.startswith("APIFY_TOKEN="):
+                        token = line.strip().split("=", 1)[1].strip()
+                        break
+    return token
 
 def sanitize_filename(name):
+    """Sanitizes strings for safe cross-platform folder and file naming."""
     clean = re.sub(r'[\\/*?:"<>|]', "", name)
     clean = re.sub(r'\s+', " ", clean).strip()
     return clean[:100]
 
-def process_channel(channel_info):
+def process_channel(channel_info, token):
+    """
+    Scaffolds video subfolders and extracts metadata for a target channel.
+    
+    Args:
+        channel_info: Dict containing channel name, dataset_id, and url.
+        token: Valid Apify API token.
+    """
     name = channel_info["name"]
     dataset_id = channel_info["dataset_id"]
     output_dir = os.path.join(BASE_DIR, name)
     os.makedirs(output_dir, exist_ok=True)
 
-    client = ApifyClient(APIFY_TOKEN)
+    client = ApifyClient(token)
     items = list(client.dataset(dataset_id).iterate_items())
     print(f"\n==========================================")
     print(f"Processing channel @{name} ({len(items)} live streams)")
@@ -58,35 +87,41 @@ def process_channel(channel_info):
         thumbnail_path = os.path.join(subfolder_path, "thumbnail.jpg")
         if thumbnail_url and not os.path.exists(thumbnail_path):
             try:
-                urllib.request.urlretrieve(thumbnail_url, thumbnail_path)
-                print(f"  [{idx}/{len(items)}] Downloaded thumbnail for {video_id}")
+                req = urllib.request.Request(
+                    thumbnail_url,
+                    headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+                )
+                with urllib.request.urlopen(req, timeout=15) as resp, open(thumbnail_path, "wb") as out:
+                    out.write(resp.read())
             except Exception as e:
-                print(f"  [{idx}/{len(items)}] Thumbnail error: {e}")
+                print(f"  [!] Failed to download thumbnail for {video_id}: {e}")
 
         # Save metadata.json
         json_path = os.path.join(subfolder_path, "metadata.json")
         with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(item, f, ensure_ascii=False, indent=2)
+            json.dump(item, f, indent=2, ensure_ascii=False)
 
-        # Build metadata.md
+        # Save metadata.md
         md_path = os.path.join(subfolder_path, "metadata.md")
         desc = item.get("text") or item.get("description") or "No description provided."
-        
-        views_formatted = f"{item.get('viewCount', 0):,}" if isinstance(item.get('viewCount'), (int, float)) else str(item.get('viewCount', 'N/A'))
+        duration = item.get("duration") or "N/A"
+        date = item.get("date") or "N/A"
+        views = item.get("viewCount") or item.get("views") or 0
+        likes = item.get("likes") or 0
+        comments = item.get("commentsCount") or 0
+        url = item.get("url") or f"https://www.youtube.com/watch?v={video_id}"
+        channel_name = item.get("channelName") or name
 
         md_content = f"""# {title}
 
-## Video Overview
 - **Video ID:** `{video_id}`
-- **Direct URL:** [{item.get('url', f'https://www.youtube.com/watch?v={video_id}')}]({item.get('url', f'https://www.youtube.com/watch?v={video_id}')})
-- **Channel:** [{item.get('channelName', name)}]({item.get('channelUrl', channel_info['url'])})
-- **Channel ID:** `{item.get('channelId', '')}`
-- **Published Date:** {item.get('date', 'N/A')}
-- **Duration:** {item.get('duration', 'N/A')}
-- **Views:** {views_formatted}
-- **Likes:** {item.get('likes', 'N/A')}
-- **Comments Count:** {item.get('commentsCount', 'N/A')}
-- **Type:** Live Stream Recording
+- **Channel:** {channel_name}
+- **URL:** [{url}]({url})
+- **Published Date:** {date}
+- **Duration:** {duration}
+- **Views:** {views:,}
+- **Likes:** {likes:,}
+- **Comments:** {comments:,}
 
 ---
 
@@ -95,25 +130,33 @@ def process_channel(channel_info):
 
 ---
 
-## Full Description
-```text
+## Description
+```
 {desc}
 ```
-
----
-
-## Technical & Extraction Details
-- **Apify Dataset ID:** `{dataset_id}`
-- **Original Thumbnail URL:** {thumbnail_url}
 """
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(md_content)
 
-    print(f"Finished generating metadata for @{name}")
+        print(f"[{idx:02d}/{len(items):02d}] {clean_title[:50]}... -> OK")
 
 def main():
-    for ch in CHANNELS:
-        process_channel(ch)
+    parser = argparse.ArgumentParser(description="Extract livestream metadata from Apify datasets.")
+    parser.add_argument("channel", nargs="?", default="all", choices=["all", "vitalnasser", "produitsdigitauxtorif", "nolimitvousdv"],
+                        help="Target channel to process (default: all)")
+    args = parser.parse_args()
+
+    token = get_apify_token()
+    if not token:
+        print("ERROR: APIFY_TOKEN is not set in environment or .env file.")
+        sys.exit(1)
+
+    channels = CHANNELS if args.channel == "all" else [c for c in CHANNELS if c["name"] == args.channel]
+
+    for ch in channels:
+        process_channel(ch, token)
+
+    print("\nMetadata processing complete!")
 
 if __name__ == "__main__":
     main()

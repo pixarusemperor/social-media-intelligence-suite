@@ -73,11 +73,12 @@ An end-to-end, cost-free, automated pipeline to archive, extract rich metadata, 
 
 | Video Title | Video ID | Duration | Size | Resolution | Audio Level | Verdict |
 |---|---|---|---|---|---|---|
-| De Simples Africains Génèrent Entre 1500€... | `1sb5k9uIGWI` | 01:52:19 | 501.7 MB | 720p @ 30fps | -18.2 dB (active) | **100% Verified** |
+| De Simples Africains Génèrent Entre 1500€... | `1sb5k9uIGWI` | 03:16:53 | 501.7 MB | 720p @ 30fps | -18.2 dB (active) | **100% Verified** |
 
 ### 3. `@nolimitvousdv` (Latest Live Stream)
 - **Archive Path:** `nolimitvousdv/`
 - **Total Download Size:** ~480.8 MB
+- *Scope Note:* All 26 broadcasts were cataloged with rich metadata and thumbnails (`01_` to `26_`), while video downloading was selectively focused on the latest live stream (`macbYitqP_k`) per user requirement.
 
 | Video Title | Video ID | Duration | Size | Resolution | Audio Level | Verdict |
 |---|---|---|---|---|---|---|
@@ -113,8 +114,12 @@ An end-to-end, cost-free, automated pipeline to archive, extract rich metadata, 
 ### 1. Prerequisites
 - Python 3.10+
 - `ffmpeg` and `ffprobe` (v6.0+)
-- `yt-dlp` (latest version)
 - `tor` and `privoxy` (for zero-cost unmetered gateway)
+
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+```
 
 ### 2. Setup Unmetered Local Gateway
 ```bash
