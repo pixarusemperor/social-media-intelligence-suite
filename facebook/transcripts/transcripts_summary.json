@@ -1,15 +1,54 @@
 {
-  "catalog_generated_at": "2026-10-18T14:04:17.718507+00:00",
+  "catalog_generated_at": "2026-10-18T15:30:47.216016+00:00",
   "total_transcripts": 9,
   "total_duration_sec": 2734.5,
   "total_duration_formatted": "45m 35s",
-  "total_words": 6837,
+  "total_words": 6840,
   "total_cost_usd": 0.0,
   "methods_breakdown": {
     "native_facebook_captions": 7,
-    "local_whisper_asr": 2
+    "groq_whisper_large_v3": 1,
+    "local_whisper_asr": 1
   },
   "transcripts": [
+    {
+      "id": "1780664616506559",
+      "title": "849K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED",
+      "url": "https://www.facebook.com/watch/?v=1780664616506559",
+      "uploader": "TED",
+      "duration": 193.92,
+      "method": "groq_whisper_large_v3",
+      "method_description": "Groq LPU High-Accuracy ASR (whisper-large-v3)",
+      "language": "English",
+      "track_type": "groq_whisper_large_v3",
+      "views": 493058,
+      "likes": null,
+      "comments": null,
+      "extraction_time_sec": 39.42,
+      "cost_usd": 0.0,
+      "extracted_at": "2026-10-18T15:28:24.992184+00:00",
+      "asr_stats": {
+        "provider": "Groq LPU",
+        "model": "whisper-large-v3",
+        "detected_language": "English",
+        "transcription_time_sec": 2.44,
+        "audio_duration_sec": 194.04,
+        "speedup_factor": 79.5,
+        "rate_limits": {
+          "limit_requests": 2000,
+          "remaining_requests": 1999,
+          "reset_requests": "43.2s",
+          "region": "fra",
+          "updated_at": "2026-10-18T15:28:24.988665+00:00",
+          "consumption_percentage": 0.05
+        }
+      },
+      "word_count": 399,
+      "segments_count": 39,
+      "formatted_duration": "3m 14s",
+      "preview_snippet": "[00:00:00] So I have a friend, she's an actress, she's in her 60s, and a couple of days before Christmas she was at the post office. [00:00:08] Out of nowhere s",
+      "folder_rel": "1780664616506559_849K views · 18K reactions Women are oft"
+    },
     {
       "id": "2508186872926502",
       "title": "Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine",
@@ -64,38 +103,6 @@
       "formatted_duration": "0m 16s",
       "preview_snippet": "[00:00:08] Hum hum.",
       "folder_rel": "3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par"
-    },
-    {
-      "id": "1780664616506559",
-      "title": "848K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED",
-      "url": "https://www.facebook.com/watch/?v=1780664616506559",
-      "uploader": "TED",
-      "duration": 193.92,
-      "method": "local_whisper_asr",
-      "method_description": "Method B: Zero-Cost Local ASR (faster-whisper base int8)",
-      "language": "en",
-      "track_type": "asr_generated",
-      "views": 492381,
-      "likes": null,
-      "comments": null,
-      "extraction_time_sec": 48.11,
-      "cost_usd": 0.0,
-      "extracted_at": "2026-10-18T14:03:20.403523+00:00",
-      "asr_stats": {
-        "detected_language": "en",
-        "language_probability": 0.997,
-        "transcription_time_sec": 32.53,
-        "audio_duration_sec": 193.94,
-        "speedup_factor": 5.96,
-        "model_size": "base",
-        "compute_type": "int8",
-        "device": "cpu"
-      },
-      "word_count": 396,
-      "segments_count": 58,
-      "formatted_duration": "3m 14s",
-      "preview_snippet": "[00:00:00] So I have a friend. [00:00:03] She's an actress. She's in her 60s.",
-      "folder_rel": "1780664616506559_848K views · 18K reactions Women are oft"
     },
     {
       "id": "1641765340829741",

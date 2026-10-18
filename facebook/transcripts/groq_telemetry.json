@@ -1,0 +1,61 @@
+{
+  "created_at": "2026-10-18T15:25:22.752662+00:00",
+  "last_updated": "2026-10-18T15:28:24.988747+00:00",
+  "latest_rate_limits": {
+    "limit_requests": 2000,
+    "remaining_requests": 1999,
+    "reset_requests": "43.2s",
+    "region": "fra",
+    "updated_at": "2026-10-18T15:28:24.988665+00:00",
+    "consumption_percentage": 0.05
+  },
+  "cumulative_totals": {
+    "total_requests": 2,
+    "successful_requests": 2,
+    "failed_requests": 0,
+    "total_audio_seconds": 209.16,
+    "total_audio_hours": 0.058,
+    "total_audio_bytes": 837288,
+    "total_latency_seconds": 2.904
+  },
+  "request_history": [
+    {
+      "timestamp": "2026-10-18T15:25:27.595398+00:00",
+      "request_id": "req_01m57sw9tqeqgav3x56n99zp7h",
+      "model": "whisper-large-v3",
+      "audio_file": "optimized.mp3",
+      "duration_sec": 15.12,
+      "file_size_bytes": 60804,
+      "status_code": 200,
+      "latency_sec": 0.463,
+      "rate_limits": {
+        "limit_requests": 2000,
+        "remaining_requests": 1998,
+        "reset_requests": "1m26.4s",
+        "region": "fra",
+        "updated_at": "2026-10-18T15:25:27.595369+00:00",
+        "consumption_percentage": 0.1
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2026-10-18T15:28:24.988694+00:00",
+      "request_id": "req_01m57t1n2xe7brsjr9n6jg1j8c",
+      "model": "whisper-large-v3",
+      "audio_file": "optimized.mp3",
+      "duration_sec": 194.04,
+      "file_size_bytes": 776484,
+      "status_code": 200,
+      "latency_sec": 2.441,
+      "rate_limits": {
+        "limit_requests": 2000,
+        "remaining_requests": 1999,
+        "reset_requests": "43.2s",
+        "region": "fra",
+        "updated_at": "2026-10-18T15:28:24.988665+00:00",
+        "consumption_percentage": 0.05
+      },
+      "error": null
+    }
+  ]
+}

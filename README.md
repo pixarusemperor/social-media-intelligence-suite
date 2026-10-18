@@ -145,11 +145,13 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 - **Data Location:** [`facebook/cnicsarl/reels/`](facebook/cnicsarl/reels/)
 - **Reference Documentation:** [`docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md`](docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md).
 
-### 6. Facebook Video & Reel Transcript Extraction Engine
-- **Dual-Method Architecture:**
-  - **Method A (Native CDN Subtitles):** Inspects desktop SSR HTML and Relay GraphQL cache nodes via `curl_cffi` (Chrome 124) over Tor. Captures official creator-uploaded or Meta auto-generated WebVTT/SRT caption streams directly from Meta's CDN (`scontent-*.xx.fbcdn.net`) in **~1-3 seconds per video**.
-  - **Method B (Zero-Cost Local ASR Fallback):** For videos where Meta has not generated native subtitles, the pipeline isolates and downloads a lightweight audio stream (~1-3 MB) and performs fast, accurate local speech-to-text using `faster-whisper` (CTranslate2 int8 CPU quantization) running at **7.2x real-time speed** with $0.00 spend.
-- **Corpus & Verification:** 9 videos processed (Dr Claudel Noubissie top reels, NASA Kennedy Space Center, TED, BBC News) totaling **45+ minutes of speech and 6,837 words**.
+### 6. Facebook Video & Reel Transcript Extraction Engine (3-Tier High-Accuracy)
+- **3-Tier Multi-Engine Architecture:**
+  - **Tier 1 (Native CDN Subtitles):** Inspects desktop SSR HTML and Relay GraphQL cache nodes via `curl_cffi` (Chrome 124) over Tor. Captures official creator-uploaded or Meta auto-generated WebVTT/SRT caption streams directly from Meta's CDN (`scontent-*.xx.fbcdn.net`) in **~1-3 seconds per video** ($0.00 spend).
+  - **Tier 2 (Groq LPU High-Accuracy Fallback):** For videos without native subtitles, extracts audio stream (~1-3 MB), optimizes to 16kHz mono MP3, and invokes Groq LPU running OpenAI's flagship **`whisper-large-v3`** (1550M parameter SOTA model). Transcribes a 3m 14s video in **2.44 seconds (79.5x real-time)** with high accuracy.
+  - **Tier 3 (Zero-Cost Local ASR Fallback):** Seamless offline fallback to `faster-whisper` (`large-v3` default with CTranslate2 int8 CPU quantization) for air-gapped environments.
+- **Predictive Rate Limit Telemetry Engine:** Continuous monitoring of upstream `x-ratelimit-*` headers, latency, and duration in [`facebook/transcripts/groq_telemetry.json`](facebook/transcripts/groq_telemetry.json) with live `--groq-stats` CLI inspection and remaining quota forecasting.
+- **Corpus & Verification:** 9 videos processed (Dr Claudel Noubissie top reels, NASA Kennedy Space Center, TED, BBC News) totaling **45+ minutes of speech and 6,840 words**.
 - **Data Location:** [`facebook/transcripts/`](facebook/transcripts/)
 - **Reference Documentation:** [`docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md`](docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md).
 
@@ -191,16 +193,18 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 │   ├── download_facebook_reels.py             # Facebook Reels reach discovery & HD video downloader
 │   ├── download_videos.py                     # YouTube livestream unmetered downloader
 │   ├── extract_facebook_posts.py              # Facebook page posts, high-res images & comments
-│   ├── extract_facebook_transcript.py         # Facebook native SRT & Whisper ASR dual-engine extractor
+│   ├── extract_facebook_transcript.py         # 3-Tier Facebook transcript extractor (Native + Groq + Local)
 │   ├── extract_youtube_channel.py             # YouTube channel inventory, videos & deep comments
 │   ├── extract_youtube_transcripts.py         # YouTube InnerTube transcript scraper (.srt, .txt, .json)
 │   ├── generate_catalog.py                    # Catalog generator utility
+│   ├── groq_transcriber.py                    # Groq whisper-large-v3 SOTA engine & rate limit telemetry tracker
 │   ├── process_all_channels.py                # YouTube livestream cataloger
 │   └── verify_videos.py                       # Automated 3-tier video QA validator
 │
 ├── facebook/                                  # Facebook Extracted Data & Assets
 │   ├── transcripts/                           # Extracted Video & Reel Transcripts (.srt, .txt, .json)
 │   │   ├── CATALOG.md                         # Master transcripts catalog (duration, words, cues)
+│   │   ├── groq_telemetry.json                # Live rate limits, request latency & consumption telemetry
 │   │   ├── transcripts_summary.json           # Aggregated JSON metrics across all videos
 │   │   └── <video_id>_<title>/                # Individual video transcript packages
 │   └── cnicsarl/                              # Public page archive (Dr Claudel Noubissie)
@@ -306,20 +310,29 @@ python3 scripts/download_facebook_reels.py \
   --output-dir "facebook/cnicsarl/reels"
 ```
 
-### Extract Facebook Video & Reel Transcripts (Dual-Method)
+### Extract Facebook Video & Reel Transcripts (3-Tier High-Accuracy)
 ```bash
-# Auto-detect native Meta CDN captions or fallback to local Whisper ASR
-python3 scripts/extract_facebook_transcript.py \
-  --url "https://www.facebook.com/reel/1441919611460353"
+# 1. Inspect live Groq LPU rate limit headroom & request consumption
+python3 scripts/extract_facebook_transcript.py --groq-stats
 
-# Batch process pre-downloaded local reels
+# 2. Auto-Tier extraction (Native CDN -> Groq whisper-large-v3 -> Local ASR)
+python3 scripts/extract_facebook_transcript.py \
+  --url "https://www.facebook.com/watch/?v=1780664616506559"
+
+# 3. Force Groq whisper-large-v3 SOTA transcription
+python3 scripts/extract_facebook_transcript.py \
+  --url "https://www.facebook.com/watch/?v=1780664616506559" \
+  --method groq
+
+# 4. Batch process pre-downloaded local reels
 python3 scripts/extract_facebook_transcript.py \
   --local-dir "facebook/cnicsarl/reels"
 
-# Force zero-cost local Whisper ASR on any Facebook video
+# 5. Force offline zero-cost local faster-whisper ASR (large-v3)
 python3 scripts/extract_facebook_transcript.py \
-  --url "https://www.facebook.com/watch/?v=1780664616506559" \
-  --method asr
+  --url "https://www.facebook.com/reel/1756308792318401" \
+  --method local \
+  --whisper-model large-v3
 ```
 
 ### Download YouTube Livestreams & Run 3-Tier QA

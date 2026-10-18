@@ -33,6 +33,17 @@ from pathlib import Path
 from datetime import datetime, timezone
 from curl_cffi import requests
 
+# Groq High-Accuracy Transcriber & Telemetry Monitor
+try:
+    from groq_transcriber import GroqTranscriber, GroqRateLimitMonitor, load_groq_api_key
+    GROQ_AVAILABLE = True
+except ImportError:
+    try:
+        from scripts.groq_transcriber import GroqTranscriber, GroqRateLimitMonitor, load_groq_api_key
+        GROQ_AVAILABLE = True
+    except ImportError:
+        GROQ_AVAILABLE = False
+
 DEFAULT_TOR_PROXY = "socks5://127.0.0.1:9050"
 DEFAULT_PRIVOXY = "http://127.0.0.1:8118"
 DEFAULT_OUTPUT_DIR = "/root/Apify/facebook/transcripts"
@@ -511,15 +522,22 @@ def extract_facebook_transcript(
     output_base_dir: str = DEFAULT_OUTPUT_DIR,
     method: str = "auto",
     language: str = "auto",
-    whisper_model: str = "base",
+    groq_model: str = "whisper-large-v3",
+    whisper_model: str = "large-v3",
     whisper_device: str = "cpu",
     whisper_compute: str = "int8",
     proxy: str = DEFAULT_TOR_PROXY,
     overwrite: bool = False,
-    local_file: str = None
+    local_file: str = None,
+    groq_api_key: str = None
 ) -> dict:
     """
     Main extraction function for a single Facebook video or reel.
+    Methods:
+      - 'auto': Native CDN captions -> Groq whisper-large-v3 -> Local faster-whisper
+      - 'native': Force Native CDN captions only
+      - 'groq': Force Groq whisper-large-v3 LPU transcription
+      - 'local' / 'asr': Force local faster-whisper
     """
     video_id = extract_video_id(url_or_id)
     canonical_url = normalize_facebook_url(url_or_id)
@@ -562,14 +580,11 @@ def extract_facebook_transcript(
 
     # Determine native captions availability
     native_captions_pool = {}
-    # Combine yt-dlp subtitles
     for loc, tracks in yt_meta.get('subtitles', {}).items():
         native_captions_pool[loc] = {'tracks': tracks, 'type': 'uploaded'}
-    # Combine yt-dlp auto-captions
     for loc, tracks in yt_meta.get('automatic_captions', {}).items():
         if loc not in native_captions_pool:
             native_captions_pool[loc] = {'tracks': tracks, 'type': 'automatic'}
-    # Combine SSR probe
     for loc, data in ssr_data.get('captions', {}).items():
         if loc not in native_captions_pool:
             native_captions_pool[loc] = {'tracks': [{'url': data['url']}], 'type': data.get('type', 'automatic')}
@@ -577,16 +592,16 @@ def extract_facebook_transcript(
     has_native = len(native_captions_pool) > 0
 
     if has_native:
-        print(f"  [Method A Available] Found native captions for languages: {list(native_captions_pool.keys())}")
+        print(f"  [Native Captions Available] Found native captions for languages: {list(native_captions_pool.keys())}")
     else:
-        print("  [Method A Unavailable] No native subtitles or auto-captions found on Facebook.")
+        print("  [Native Captions Unavailable] No native subtitles or auto-captions found on Facebook.")
 
     use_native = False
     if method == "native":
         if not has_native:
             raise RuntimeError(f"Method 'native' was strictly requested, but no native captions exist for {video_id}")
         use_native = True
-    elif method == "asr":
+    elif method in ("asr", "local", "groq"):
         use_native = False
     elif method == "auto":
         use_native = has_native
@@ -617,10 +632,8 @@ def extract_facebook_transcript(
         if extracted_segments and duration_sec == 0.0:
             duration_sec = extracted_segments[-1]['end']
     else:
-        # METHOD B: Local Whisper ASR Fallback
-        print("  [2/4] Executing Method B: Zero-Cost Local ASR Fallback (faster-whisper)...")
-
-        # Determine audio source: local MP4 file or streaming download
+        # ASR FALLBACK (Groq whisper-large-v3 primary -> Local faster-whisper secondary)
+        # Determine audio source: local media file or streaming download
         target_audio_file = None
         temp_audio_dir = None
 
@@ -639,23 +652,56 @@ def extract_facebook_transcript(
                 target_audio_file = download_audio_stream_ytdlp(canonical_url, temp_mp3, proxy=proxy)
                 print(f"  -> Downloaded audio stream: {os.path.getsize(target_audio_file):,} bytes")
 
-        print("  [3/4] Transcribing locally with faster-whisper (CTranslate2 int8 CPU)...")
-        segments, detected_lang, asr_meta, audio_dur = transcribe_audio_whisper(
-            target_audio_file,
-            language=language,
-            model_size=whisper_model,
-            device=whisper_device,
-            compute_type=whisper_compute
-        )
-        extracted_segments = segments
-        final_lang = detected_lang
-        final_method = "local_whisper_asr"
-        method_desc = f"Method B: Zero-Cost Local ASR (faster-whisper {whisper_model} int8)"
-        track_type = "asr_generated"
-        asr_stats = asr_meta
+        # Check if Groq should be used
+        groq_key_resolved = load_groq_api_key(groq_api_key) if GROQ_AVAILABLE else None
+        use_groq = (method in ("auto", "groq")) and (groq_key_resolved is not None)
 
-        if duration_sec == 0.0:
-            duration_sec = audio_dur
+        groq_success = False
+        if use_groq:
+            print(f"  [2/4] Executing High-Accuracy Groq Fallback: Model '{groq_model}'...")
+            try:
+                transcriber = GroqTranscriber(api_key=groq_key_resolved, model=groq_model)
+                segments, detected_lang, groq_meta, audio_dur = transcriber.transcribe_file(
+                    target_audio_file,
+                    language=None if language == "auto" else language
+                )
+                extracted_segments = segments
+                final_lang = detected_lang
+                final_method = "groq_whisper_large_v3"
+                method_desc = f"Groq LPU High-Accuracy ASR ({groq_model})"
+                track_type = "groq_whisper_large_v3"
+                asr_stats = groq_meta
+                if duration_sec == 0.0:
+                    duration_sec = audio_dur
+                groq_success = True
+                print(f"  -> Groq transcription successful: {len(segments)} segments in {groq_meta['transcription_time_sec']}s ({groq_meta['speedup_factor']}x real-time)")
+                if "rate_limits" in groq_meta:
+                    rl = groq_meta["rate_limits"]
+                    print(f"  -> Groq Rate Limits: Remaining {rl.get('remaining_requests')}/{rl.get('limit_requests')} requests | Reset: {rl.get('reset_requests')}")
+            except Exception as e:
+                print(f"  [Warning] Groq transcription error: {e}")
+                if method == "groq":
+                    raise e
+                print("  -> Seamlessly falling back to local faster-whisper...")
+
+        if not groq_success:
+            # Local faster-whisper fallback
+            print(f"  [3/4] Transcribing locally with faster-whisper ({whisper_model} int8 CPU)...")
+            segments, detected_lang, local_meta, audio_dur = transcribe_audio_whisper(
+                target_audio_file,
+                language=language,
+                model_size=whisper_model,
+                device=whisper_device,
+                compute_type=whisper_compute
+            )
+            extracted_segments = segments
+            final_lang = detected_lang
+            final_method = "local_whisper_asr"
+            method_desc = f"Local High-Accuracy ASR (faster-whisper {whisper_model} int8)"
+            track_type = "asr_generated"
+            asr_stats = local_meta
+            if duration_sec == 0.0:
+                duration_sec = audio_dur
 
         # Cleanup temporary audio files if created
         if temp_audio_dir and os.path.exists(temp_audio_dir):
@@ -750,7 +796,8 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
     total_seconds = sum(e.get('duration', 0.0) for e in entries)
     total_words = sum(e.get('word_count', 0) for e in entries)
     native_count = sum(1 for e in entries if 'native' in e.get('method', ''))
-    asr_count = sum(1 for e in entries if 'whisper' in e.get('method', '') or 'asr' in e.get('method', ''))
+    groq_count = sum(1 for e in entries if 'groq' in e.get('method', ''))
+    local_asr_count = sum(1 for e in entries if ('whisper' in e.get('method', '') or 'asr' in e.get('method', '')) and 'groq' not in e.get('method', ''))
 
     summary_data = {
         'catalog_generated_at': datetime.now(timezone.utc).isoformat(),
@@ -761,7 +808,8 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
         'total_cost_usd': 0.0,
         'methods_breakdown': {
             'native_facebook_captions': native_count,
-            'local_whisper_asr': asr_count
+            'groq_whisper_large_v3': groq_count,
+            'local_whisper_asr': local_asr_count
         },
         'transcripts': entries
     }
@@ -774,10 +822,10 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
     catalog_file = base_path / "CATALOG.md"
     with open(catalog_file, "w", encoding="utf-8") as f:
         f.write("# Facebook Video & Reel Transcripts Master Catalog\n\n")
-        f.write(f"> **Pipeline:** Zero-Cost Facebook Video & Reel Transcript Extractor  \n")
+        f.write(f"> **Pipeline:** High-Accuracy Facebook Video & Reel Transcript Extractor  \n")
         f.write(f"> **Total Transcripts:** {len(entries)} | **Total Transcribed Time:** {format_duration(total_seconds)} ({total_seconds:.1f}s)  \n")
         f.write(f"> **Total Word Count:** {total_words:,} words | **Total Cost:** $0.00 (Zero paid proxies / Zero Apify)  \n")
-        f.write(f"> **Method Distribution:** Native Captions: **{native_count}** | Local Whisper ASR: **{asr_count}**  \n")
+        f.write(f"> **Method Distribution:** Native Captions: **{native_count}** | Groq whisper-large-v3: **{groq_count}** | Local Whisper ASR: **{local_asr_count}**  \n")
         f.write(f"> **Last Updated:** {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}  \n\n")
         f.write("---\n\n")
 
@@ -786,7 +834,8 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
         f.write("|:---|:---|\n")
         f.write(f"| **Total Processed Items** | **{len(entries)}** |\n")
         f.write(f"| **Method A (Native Captions)** | **{native_count}** (WebVTT / SRT downloaded from CDN) |\n")
-        f.write(f"| **Method B (Local Whisper ASR)** | **{asr_count}** (faster-whisper CPU int8) |\n")
+        f.write(f"| **Method B (Groq whisper-large-v3)** | **{groq_count}** (High-Accuracy Groq LPU Speech-to-Text) |\n")
+        f.write(f"| **Method C (Local Whisper ASR)** | **{local_asr_count}** (faster-whisper CPU int8) |\n")
         f.write(f"| **Total Audio Duration** | **{format_duration(total_seconds)}** |\n")
         f.write(f"| **Total Spoken Words** | **{total_words:,}** |\n")
         f.write(f"| **Average Spoken Rate** | **{round((total_words / max(total_seconds, 1)) * 60, 1)} words/min** |\n")
@@ -800,7 +849,12 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
         for idx, item in enumerate(entries, 1):
             vid = item.get('id', '')
             title = item.get('title', 'Unknown')
-            method_str = "🟢 Native" if "native" in item.get('method', '') else "⚡ Local ASR"
+            if "native" in item.get('method', ''):
+                method_str = "🟢 Native"
+            elif "groq" in item.get('method', ''):
+                method_str = "🚀 Groq Large-v3"
+            else:
+                method_str = "⚡ Local ASR"
             lang = item.get('language', 'und')
             dur = format_duration(item.get('duration', 0.0))
             words = f"{item.get('word_count', 0):,}"
@@ -830,7 +884,7 @@ def generate_master_catalog(output_base_dir: str = DEFAULT_OUTPUT_DIR) -> str:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Zero-Cost Facebook Video & Reel Transcript Pipeline (Native Captions + Local Whisper ASR Fallback)"
+        description="High-Accuracy Facebook Video & Reel Transcript Pipeline (Native Captions + Groq whisper-large-v3 + Local Whisper ASR)"
     )
     parser.add_argument("--url", help="Facebook Video or Reel URL (or ID)")
     parser.add_argument("--urls", nargs="+", help="Multiple Facebook Video/Reel URLs")
@@ -839,14 +893,29 @@ def main():
     parser.add_argument("--local-file", help="Direct path to a single local MP4 or audio file to transcribe")
     parser.add_argument("--output-dir", default=DEFAULT_OUTPUT_DIR, help="Destination directory for transcripts")
     parser.add_argument("--proxy", default=DEFAULT_TOR_PROXY, help="Proxy for scraping & stream extraction (defaults to Tor socks5://127.0.0.1:9050)")
-    parser.add_argument("--method", choices=["auto", "native", "asr"], default="auto", help="Extraction strategy: auto (native then ASR), native (only native captions), asr (force local whisper ASR)")
-    parser.add_argument("--whisper-model", default="base", choices=["tiny", "base", "small", "medium", "large-v3"], help="faster-whisper model size (default: base)")
+    parser.add_argument("--method", choices=["auto", "native", "groq", "local", "asr"], default="auto", help="Extraction strategy: auto (native -> Groq whisper-large-v3 -> local ASR), native (only native captions), groq (force Groq LPU), local/asr (force local faster-whisper)")
+    parser.add_argument("--groq-model", default="whisper-large-v3", help="Groq Whisper model for high accuracy (default: whisper-large-v3)")
+    parser.add_argument("--groq-key", default=None, help="Groq API key (defaults to GROQ_API_KEY in environment or .env)")
+    parser.add_argument("--groq-stats", "--monitor", action="store_true", help="Display live Groq rate limit & consumption telemetry summary and exit")
+    parser.add_argument("--whisper-model", default="large-v3", choices=["tiny", "base", "small", "medium", "large-v3"], help="faster-whisper local model size for high accuracy (default: large-v3)")
     parser.add_argument("--whisper-device", default="cpu", choices=["cpu", "cuda"], help="Inference device (default: cpu)")
     parser.add_argument("--whisper-compute", default="int8", choices=["int8", "float16", "float32"], help="Computation quantization (default: int8)")
     parser.add_argument("--language", default="auto", help="Target language code (e.g. fr, en, or auto)")
     parser.add_argument("--overwrite", action="store_true", help="Force re-extraction even if transcript exists")
 
     args = parser.parse_args()
+
+    # If monitor/stats requested, display telemetry and exit
+    if args.groq_stats:
+        if GROQ_AVAILABLE:
+            monitor = GroqRateLimitMonitor()
+            print("\n" + "=" * 68)
+            print("GROQ LPU TRANSCRIPTION CONSUMPTION & RATE LIMIT TELEMETRY")
+            print("=" * 68)
+            print(json.dumps(monitor.get_summary(), indent=2))
+        else:
+            print("Groq transcriber module not available.")
+        sys.exit(0)
 
     # Collect target items
     targets = []
@@ -884,7 +953,7 @@ def main():
                 targets.append({'url_or_id': url, 'local_file': video_mp4})
 
     if not targets:
-        print("No targets provided. Use --url, --urls, --input-file, or --local-dir.")
+        print("No targets provided. Use --url, --urls, --input-file, --local-dir, or --groq-stats.")
         sys.exit(1)
 
     print(f"\nDiscovered {len(targets)} target items to transcribe.")
@@ -897,12 +966,14 @@ def main():
                 output_base_dir=args.output_dir,
                 method=args.method,
                 language=args.language,
+                groq_model=args.groq_model,
                 whisper_model=args.whisper_model,
                 whisper_device=args.whisper_device,
                 whisper_compute=args.whisper_compute,
                 proxy=args.proxy,
                 overwrite=args.overwrite,
-                local_file=t.get('local_file')
+                local_file=t.get('local_file'),
+                groq_api_key=args.groq_key
             )
             results.append(res)
         except Exception as e:

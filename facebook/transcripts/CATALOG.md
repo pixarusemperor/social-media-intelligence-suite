@@ -1,10 +1,10 @@
 # Facebook Video & Reel Transcripts Master Catalog
 
-> **Pipeline:** Zero-Cost Facebook Video & Reel Transcript Extractor  
+> **Pipeline:** High-Accuracy Facebook Video & Reel Transcript Extractor  
 > **Total Transcripts:** 9 | **Total Transcribed Time:** 45m 35s (2734.5s)  
-> **Total Word Count:** 6,837 words | **Total Cost:** $0.00 (Zero paid proxies / Zero Apify)  
-> **Method Distribution:** Native Captions: **7** | Local Whisper ASR: **2**  
-> **Last Updated:** 2026-10-18 14:04:17 UTC  
+> **Total Word Count:** 6,840 words | **Total Cost:** $0.00 (Zero paid proxies / Zero Apify)  
+> **Method Distribution:** Native Captions: **7** | Groq whisper-large-v3: **1** | Local Whisper ASR: **1**  
+> **Last Updated:** 2026-10-18 15:30:47 UTC  
 
 ---
 
@@ -14,10 +14,11 @@
 |:---|:---|
 | **Total Processed Items** | **9** |
 | **Method A (Native Captions)** | **7** (WebVTT / SRT downloaded from CDN) |
-| **Method B (Local Whisper ASR)** | **2** (faster-whisper CPU int8) |
+| **Method B (Groq whisper-large-v3)** | **1** (High-Accuracy Groq LPU Speech-to-Text) |
+| **Method C (Local Whisper ASR)** | **1** (faster-whisper CPU int8) |
 | **Total Audio Duration** | **45m 35s** |
-| **Total Spoken Words** | **6,837** |
-| **Average Spoken Rate** | **150.0 words/min** |
+| **Total Spoken Words** | **6,840** |
+| **Average Spoken Rate** | **150.1 words/min** |
 | **External API / Proxy Cost** | **$0.00** |
 
 ---
@@ -26,9 +27,9 @@
 
 | # | Video ID | Title | Method | Lang | Duration | Words | Links |
 |:---:|---|---|:---:|:---:|:---:|:---:|:---|
-| **01** | `2508186872926502` | [Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine](https://www.facebook.com/watch/?v=2508186872926502) | ⚡ Local ASR | `en` | ⏱️ 0m 20s | 📝 0 | [SRT](2508186872926502_Moment man narrowly escapes Russian stri/transcript.srt) · [TXT](2508186872926502_Moment man narrowly escapes Russian stri/transcript.txt) · [JSON](2508186872926502_Moment man narrowly escapes Russian stri/transcript.json) |
-| **02** | `3584692095026133` | [678K views · 3.1K reactions | 🫵🏽 Je ne parle pas encore de mon projet, je ne veux pas qu’on vole, TOTO ! (Je n’ai pas de droits sur la vidéo) | Dr Claudel Noubissie](https://www.facebook.com/watch/?v=3584692095026133) | 🟢 Native | `fr_CA` | ⏱️ 0m 16s | 📝 2 | [SRT](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.srt) · [TXT](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.txt) · [JSON](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.json) |
-| **03** | `1780664616506559` | [848K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED](https://www.facebook.com/watch/?v=1780664616506559) | ⚡ Local ASR | `en` | ⏱️ 3m 14s | 📝 396 | [SRT](1780664616506559_848K views · 18K reactions Women are oft/transcript.srt) · [TXT](1780664616506559_848K views · 18K reactions Women are oft/transcript.txt) · [JSON](1780664616506559_848K views · 18K reactions Women are oft/transcript.json) |
+| **01** | `1780664616506559` | [849K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED](https://www.facebook.com/watch/?v=1780664616506559) | 🚀 Groq Large-v3 | `English` | ⏱️ 3m 14s | 📝 399 | [SRT](1780664616506559_849K views · 18K reactions Women are oft/transcript.srt) · [TXT](1780664616506559_849K views · 18K reactions Women are oft/transcript.txt) · [JSON](1780664616506559_849K views · 18K reactions Women are oft/transcript.json) |
+| **02** | `2508186872926502` | [Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine](https://www.facebook.com/watch/?v=2508186872926502) | ⚡ Local ASR | `en` | ⏱️ 0m 20s | 📝 0 | [SRT](2508186872926502_Moment man narrowly escapes Russian stri/transcript.srt) · [TXT](2508186872926502_Moment man narrowly escapes Russian stri/transcript.txt) · [JSON](2508186872926502_Moment man narrowly escapes Russian stri/transcript.json) |
+| **03** | `3584692095026133` | [678K views · 3.1K reactions | 🫵🏽 Je ne parle pas encore de mon projet, je ne veux pas qu’on vole, TOTO ! (Je n’ai pas de droits sur la vidéo) | Dr Claudel Noubissie](https://www.facebook.com/watch/?v=3584692095026133) | 🟢 Native | `fr_CA` | ⏱️ 0m 16s | 📝 2 | [SRT](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.srt) · [TXT](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.txt) · [JSON](3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/transcript.json) |
 | **04** | `1641765340829741` | [2.4K views · 118 reactions | 🫵🏽 Qui fabrique l’argent ? | Dr Claudel Noubissie](https://www.facebook.com/reel/1641765340829741) | 🟢 Native | `fr_CA` | ⏱️ 8m 31s | 📝 1,241 | [SRT](1641765340829741_2.4K views · 118 reactions 🫵🏽 Qui fabriq/transcript.srt) · [TXT](1641765340829741_2.4K views · 118 reactions 🫵🏽 Qui fabriq/transcript.txt) · [JSON](1641765340829741_2.4K views · 118 reactions 🫵🏽 Qui fabriq/transcript.json) |
 | **05** | `1795163435136329` | [🦠 L’industrie de la maladie !](https://www.facebook.com/reel/1795163435136329) | 🟢 Native | `fr_CA` | ⏱️ 9m 24s | 📝 1,645 | [SRT](1795163435136329_🦠 L’industrie de la maladie !/transcript.srt) · [TXT](1795163435136329_🦠 L’industrie de la maladie !/transcript.txt) · [JSON](1795163435136329_🦠 L’industrie de la maladie !/transcript.json) |
 | **06** | `1749300292847779` | [2.9K views · 182 reactions | 🫵🏽 Entreprendre, c’est DUR ! | Dr Claudel Noubissie](https://www.facebook.com/reel/1749300292847779) | 🟢 Native | `fr_CA` | ⏱️ 7m 25s | 📝 1,067 | [SRT](1749300292847779_2.9K views · 182 reactions 🫵🏽 Entreprend/transcript.srt) · [TXT](1749300292847779_2.9K views · 182 reactions 🫵🏽 Entreprend/transcript.txt) · [JSON](1749300292847779_2.9K views · 182 reactions 🫵🏽 Entreprend/transcript.json) |
@@ -40,14 +41,23 @@
 
 ## 3. Transcripts Text Previews
 
-### #01 — `2508186872926502`: Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine
+### #01 — `1780664616506559`: 849K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED
+
+- **URL:** https://www.facebook.com/watch/?v=1780664616506559
+- **Method:** `Groq LPU High-Accuracy ASR (whisper-large-v3)`
+- **Duration:** 3m 14s | **Word Count:** 399 words
+- **Directory:** [`/root/Apify/facebook/transcripts/1780664616506559_849K views · 18K reactions Women are oft/`](file:///root/Apify/facebook/transcripts/1780664616506559_849K views · 18K reactions Women are oft/)
+
+> [00:00:00] So I have a friend, she's an actress, she's in her 60s, and a couple of days before Christmas she was at the post office. [00:00:08] Out of nowhere s ...
+
+### #02 — `2508186872926502`: Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine
 
 - **URL:** https://www.facebook.com/watch/?v=2508186872926502
 - **Method:** `Method B: Zero-Cost Local ASR (faster-whisper base int8)`
 - **Duration:** 0m 20s | **Word Count:** 0 words
 - **Directory:** [`/root/Apify/facebook/transcripts/2508186872926502_Moment man narrowly escapes Russian stri/`](file:///root/Apify/facebook/transcripts/2508186872926502_Moment man narrowly escapes Russian stri/)
 
-### #02 — `3584692095026133`: 678K views · 3.1K reactions | 🫵🏽 Je ne parle pas encore de mon projet, je ne veux pas qu’on vole, TOTO ! (Je n’ai pas de droits sur la vidéo) | Dr Claudel Noubissie
+### #03 — `3584692095026133`: 678K views · 3.1K reactions | 🫵🏽 Je ne parle pas encore de mon projet, je ne veux pas qu’on vole, TOTO ! (Je n’ai pas de droits sur la vidéo) | Dr Claudel Noubissie
 
 - **URL:** https://www.facebook.com/watch/?v=3584692095026133
 - **Method:** `Method A: Native Facebook Captions (Automatic fr_CA)`
@@ -55,15 +65,6 @@
 - **Directory:** [`/root/Apify/facebook/transcripts/3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/`](file:///root/Apify/facebook/transcripts/3584692095026133_678K views · 3.1K reactions 🫵🏽 Je ne par/)
 
 > [00:00:08] Hum hum. ...
-
-### #03 — `1780664616506559`: 848K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED
-
-- **URL:** https://www.facebook.com/watch/?v=1780664616506559
-- **Method:** `Method B: Zero-Cost Local ASR (faster-whisper base int8)`
-- **Duration:** 3m 14s | **Word Count:** 396 words
-- **Directory:** [`/root/Apify/facebook/transcripts/1780664616506559_848K views · 18K reactions Women are oft/`](file:///root/Apify/facebook/transcripts/1780664616506559_848K views · 18K reactions Women are oft/)
-
-> [00:00:00] So I have a friend. [00:00:03] She's an actress. She's in her 60s. ...
 
 ### #04 — `1641765340829741`: 2.4K views · 118 reactions | 🫵🏽 Qui fabrique l’argent ? | Dr Claudel Noubissie
 
