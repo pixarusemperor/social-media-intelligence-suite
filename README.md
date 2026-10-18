@@ -145,7 +145,15 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 - **Data Location:** [`facebook/cnicsarl/reels/`](facebook/cnicsarl/reels/)
 - **Reference Documentation:** [`docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md`](docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md).
 
-### 6. 50 Social Media Extraction Alternatives & Decision Matrix
+### 6. Facebook Video & Reel Transcript Extraction Engine
+- **Dual-Method Architecture:**
+  - **Method A (Native CDN Subtitles):** Inspects desktop SSR HTML and Relay GraphQL cache nodes via `curl_cffi` (Chrome 124) over Tor. Captures official creator-uploaded or Meta auto-generated WebVTT/SRT caption streams directly from Meta's CDN (`scontent-*.xx.fbcdn.net`) in **~1-3 seconds per video**.
+  - **Method B (Zero-Cost Local ASR Fallback):** For videos where Meta has not generated native subtitles, the pipeline isolates and downloads a lightweight audio stream (~1-3 MB) and performs fast, accurate local speech-to-text using `faster-whisper` (CTranslate2 int8 CPU quantization) running at **7.2x real-time speed** with $0.00 spend.
+- **Corpus & Verification:** 9 videos processed (Dr Claudel Noubissie top reels, NASA Kennedy Space Center, TED, BBC News) totaling **45+ minutes of speech and 6,837 words**.
+- **Data Location:** [`facebook/transcripts/`](facebook/transcripts/)
+- **Reference Documentation:** [`docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md`](docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md).
+
+### 7. 50 Social Media Extraction Alternatives & Decision Matrix
 - A comprehensive evaluation matrix covering 50 alternative ways to extract social media data (Facebook, TikTok, Instagram, YouTube, Reddit, X/Twitter, etc.) without Apify or paid proxies.
 - Evaluated and ranked on a 100-point scale across 5 criteria:
   1. Reliability & Stability (25 pts)
@@ -173,6 +181,7 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 │   ├── ARCHITECTURE.md                        # Unmetered Tor+Privoxy gateway & networking
 │   ├── FACEBOOK_PAGE_POSTS_EXTRACTION.md      # Facebook Relay SSR scraping reverse-engineering
 │   ├── FACEBOOK_REELS_REACH_AND_DOWNLOAD.md   # Facebook Reels pre-download reach & HD downloading
+│   ├── FACEBOOK_TRANSCRIPT_EXTRACTION.md      # Facebook Native WebVTT/SRT + Whisper ASR pipeline
 │   ├── FAILURES_AND_CRITERIA.md               # Livestream failure taxonomy & QA criteria
 │   ├── VERIFICATION_PIPELINE.md               # 3-Tier validation engineering guide
 │   ├── YOUTUBE_CHANNEL_AND_VIDEO_INTELLIGENCE.md # YouTube channel & deep comments documentation
@@ -182,6 +191,7 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 │   ├── download_facebook_reels.py             # Facebook Reels reach discovery & HD video downloader
 │   ├── download_videos.py                     # YouTube livestream unmetered downloader
 │   ├── extract_facebook_posts.py              # Facebook page posts, high-res images & comments
+│   ├── extract_facebook_transcript.py         # Facebook native SRT & Whisper ASR dual-engine extractor
 │   ├── extract_youtube_channel.py             # YouTube channel inventory, videos & deep comments
 │   ├── extract_youtube_transcripts.py         # YouTube InnerTube transcript scraper (.srt, .txt, .json)
 │   ├── generate_catalog.py                    # Catalog generator utility
@@ -189,6 +199,10 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 │   └── verify_videos.py                       # Automated 3-tier video QA validator
 │
 ├── facebook/                                  # Facebook Extracted Data & Assets
+│   ├── transcripts/                           # Extracted Video & Reel Transcripts (.srt, .txt, .json)
+│   │   ├── CATALOG.md                         # Master transcripts catalog (duration, words, cues)
+│   │   ├── transcripts_summary.json           # Aggregated JSON metrics across all videos
+│   │   └── <video_id>_<title>/                # Individual video transcript packages
 │   └── cnicsarl/                              # Public page archive (Dr Claudel Noubissie)
 │       ├── CATALOG.md                         # Markdown catalog of 20 extracted posts
 │       ├── posts_summary.json                 # Aggregated JSON metadata for all 20 posts
@@ -292,6 +306,22 @@ python3 scripts/download_facebook_reels.py \
   --output-dir "facebook/cnicsarl/reels"
 ```
 
+### Extract Facebook Video & Reel Transcripts (Dual-Method)
+```bash
+# Auto-detect native Meta CDN captions or fallback to local Whisper ASR
+python3 scripts/extract_facebook_transcript.py \
+  --url "https://www.facebook.com/reel/1441919611460353"
+
+# Batch process pre-downloaded local reels
+python3 scripts/extract_facebook_transcript.py \
+  --local-dir "facebook/cnicsarl/reels"
+
+# Force zero-cost local Whisper ASR on any Facebook video
+python3 scripts/extract_facebook_transcript.py \
+  --url "https://www.facebook.com/watch/?v=1780664616506559" \
+  --method asr
+```
+
 ### Download YouTube Livestreams & Run 3-Tier QA
 ```bash
 # Download all archived livestream channels
@@ -312,6 +342,7 @@ Detailed engineering write-ups and analysis reports are located in the [`docs/`]
 | [`docs/50_SOCIAL_MEDIA_EXTRACTION_ALTERNATIVES.md`](docs/50_SOCIAL_MEDIA_EXTRACTION_ALTERNATIVES.md) | Exhaustive 50-method matrix comparing scrapers across TikTok, Instagram, Facebook, YouTube, Reddit, X. |
 | [`docs/FACEBOOK_PAGE_POSTS_EXTRACTION.md`](docs/FACEBOOK_PAGE_POSTS_EXTRACTION.md) | Reverse-engineering Facebook Relay SSR streaming chunks, unauthenticated scraping & comment parsing. |
 | [`docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md`](docs/FACEBOOK_REELS_REACH_AND_DOWNLOAD.md) | Pre-download reach discovery via `play_count_reduced` and HD video stream demuxing. |
+| [`docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md`](docs/FACEBOOK_TRANSCRIPT_EXTRACTION.md) | Facebook Native WebVTT/SRT CDN extraction + zero-cost local faster-whisper CPU fallback pipeline. |
 | [`docs/YOUTUBE_TRANSCRIPTS_EXTRACTION.md`](docs/YOUTUBE_TRANSCRIPTS_EXTRACTION.md) | YouTube InnerTube API reverse engineering for zero-cost transcript extraction. |
 | [`docs/YOUTUBE_CHANNEL_AND_VIDEO_INTELLIGENCE.md`](docs/YOUTUBE_CHANNEL_AND_VIDEO_INTELLIGENCE.md) | Multi-tab channel inventory audit, video performance metrics, and deep comment thread parsing. |
 | [`docs/VERIFICATION_PIPELINE.md`](docs/VERIFICATION_PIPELINE.md) | Detailed 3-tier QA validation pipeline specification (containers, audio levels, preview grids). |

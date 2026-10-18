@@ -1,0 +1,33 @@
+{
+  "id": "3584692095026133",
+  "title": "678K views · 3.1K reactions | 🫵🏽 Je ne parle pas encore de mon projet, je ne veux pas qu’on vole, TOTO ! (Je n’ai pas de droits sur la vidéo) | Dr Claudel Noubissie",
+  "url": "https://www.facebook.com/watch/?v=3584692095026133",
+  "uploader": "Dr Claudel Noubissie",
+  "duration": 16.18,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Automatic fr_CA)",
+  "language": "fr_CA",
+  "track_type": "automatic",
+  "views": 358290,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 6.66,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:03:38.307726+00:00",
+  "asr_stats": null,
+  "word_count": 2,
+  "segments_count": 1,
+  "formatted_duration": "0m 16s",
+  "segments": [
+    {
+      "id": 1,
+      "start": 8.801,
+      "end": 12.481,
+      "duration": 3.68,
+      "start_srt": "00:00:08,801",
+      "end_srt": "00:00:12,481",
+      "start_txt": "[00:00:08]",
+      "text": "Hum hum."
+    }
+  ]
+}

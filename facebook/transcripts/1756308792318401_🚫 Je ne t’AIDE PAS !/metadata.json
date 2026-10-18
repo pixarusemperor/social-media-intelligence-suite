@@ -1,0 +1,21 @@
+{
+  "id": "1756308792318401",
+  "title": "🚫 Je ne t’AIDE PAS !",
+  "url": "https://www.facebook.com/reel/1756308792318401",
+  "uploader": "Dr Claudel Noubissie",
+  "duration": 354.38,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Automatic fr_CA)",
+  "language": "fr_CA",
+  "track_type": "automatic",
+  "views": 3674,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 5.29,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:01:58.525969+00:00",
+  "asr_stats": null,
+  "word_count": 761,
+  "segments_count": 81,
+  "formatted_duration": "5m 54s"
+}

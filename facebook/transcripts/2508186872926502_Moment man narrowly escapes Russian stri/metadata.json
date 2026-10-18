@@ -1,0 +1,30 @@
+{
+  "id": "2508186872926502",
+  "title": "Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine",
+  "url": "https://www.facebook.com/watch/?v=2508186872926502",
+  "uploader": "BBC News",
+  "duration": 20.33,
+  "method": "local_whisper_asr",
+  "method_description": "Method B: Zero-Cost Local ASR (faster-whisper base int8)",
+  "language": "en",
+  "track_type": "asr_generated",
+  "views": 6057234,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 12.23,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:03:54.141919+00:00",
+  "asr_stats": {
+    "detected_language": "en",
+    "language_probability": 0.564,
+    "transcription_time_sec": 1.72,
+    "audio_duration_sec": 20.33,
+    "speedup_factor": 11.8,
+    "model_size": "base",
+    "compute_type": "int8",
+    "device": "cpu"
+  },
+  "word_count": 0,
+  "segments_count": 0,
+  "formatted_duration": "0m 20s"
+}

@@ -1,0 +1,833 @@
+{
+  "id": "1756308792318401",
+  "title": "🚫 Je ne t’AIDE PAS !",
+  "url": "https://www.facebook.com/reel/1756308792318401",
+  "uploader": "Dr Claudel Noubissie",
+  "duration": 354.38,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Automatic fr_CA)",
+  "language": "fr_CA",
+  "track_type": "automatic",
+  "views": 3674,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 5.29,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:01:58.525969+00:00",
+  "asr_stats": null,
+  "word_count": 761,
+  "segments_count": 81,
+  "formatted_duration": "5m 54s",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.321,
+      "duration": 4.321,
+      "start_srt": "00:00:00,000",
+      "end_srt": "00:00:04,321",
+      "start_txt": "[00:00:00]",
+      "text": "Si vous donnez mille francs à quelqu'un tous les matins pour"
+    },
+    {
+      "id": 2,
+      "start": 4.321,
+      "end": 8.481,
+      "duration": 4.16,
+      "start_srt": "00:00:04,321",
+      "end_srt": "00:00:08,481",
+      "start_txt": "[00:00:04]",
+      "text": "rien, juste parce que vous estimez qu'il faut l'aider."
+    },
+    {
+      "id": 3,
+      "start": 8.481,
+      "end": 12.541,
+      "duration": 4.06,
+      "start_srt": "00:00:08,481",
+      "end_srt": "00:00:12,541",
+      "start_txt": "[00:00:08]",
+      "text": "Lundi vous lui donnez mille francs mardi mille francs"
+    },
+    {
+      "id": 4,
+      "start": 12.541,
+      "end": 17.761,
+      "duration": 5.22,
+      "start_srt": "00:00:12,541",
+      "end_srt": "00:00:17,761",
+      "start_txt": "[00:00:12]",
+      "text": "mercredi mille francs ainsi de suite toutes les semaines tous"
+    },
+    {
+      "id": 5,
+      "start": 17.761,
+      "end": 21.841,
+      "duration": 4.08,
+      "start_srt": "00:00:17,761",
+      "end_srt": "00:00:21,841",
+      "start_txt": "[00:00:17]",
+      "text": "les mois le jour où vous allez arrêter de donner les mille"
+    },
+    {
+      "id": 6,
+      "start": 21.841,
+      "end": 28.321,
+      "duration": 6.48,
+      "start_srt": "00:00:21,841",
+      "end_srt": "00:00:28,321",
+      "start_txt": "[00:00:21]",
+      "text": "francs là, il est capable de vous poignarder. Parce qu'il"
+    },
+    {
+      "id": 7,
+      "start": 28.321,
+      "end": 34.821,
+      "duration": 6.5,
+      "start_srt": "00:00:28,321",
+      "end_srt": "00:00:34,821",
+      "start_txt": "[00:00:28]",
+      "text": "aura développé une attitude qui consiste à budgétiser votre"
+    },
+    {
+      "id": 8,
+      "start": 34.821,
+      "end": 41.821,
+      "duration": 7.0,
+      "start_srt": "00:00:34,821",
+      "end_srt": "00:00:41,821",
+      "start_txt": "[00:00:34]",
+      "text": "argent, votre aide. Ça va créer en lui un mécanisme"
+    },
+    {
+      "id": 9,
+      "start": 41.821,
+      "end": 46.121,
+      "duration": 4.3,
+      "start_srt": "00:00:41,821",
+      "end_srt": "00:00:46,121",
+      "start_txt": "[00:00:41]",
+      "text": "automatique. Il va se dire de toutes les manières, tous les"
+    },
+    {
+      "id": 10,
+      "start": 46.121,
+      "end": 49.781,
+      "duration": 3.66,
+      "start_srt": "00:00:46,121",
+      "end_srt": "00:00:49,781",
+      "start_txt": "[00:00:46]",
+      "text": "matins j'aurais mille francs qui provient de tels. Il a déjà"
+    },
+    {
+      "id": 11,
+      "start": 49.781,
+      "end": 55.121,
+      "duration": 5.34,
+      "start_srt": "00:00:49,781",
+      "end_srt": "00:00:55,121",
+      "start_txt": "[00:00:49]",
+      "text": "budgétisé, il a déjà programmé. Vous avez créé une forme"
+    },
+    {
+      "id": 12,
+      "start": 55.121,
+      "end": 59.201,
+      "duration": 4.08,
+      "start_srt": "00:00:55,121",
+      "end_srt": "00:00:59,201",
+      "start_txt": "[00:00:55]",
+      "text": "d'addiction chez lui, il sait qu'il doit avoir mille francs"
+    },
+    {
+      "id": 13,
+      "start": 59.201,
+      "end": 63.041,
+      "duration": 3.84,
+      "start_srt": "00:00:59,201",
+      "end_srt": "00:01:03,041",
+      "start_txt": "[00:00:59]",
+      "text": "provenant de vous. Le jour où pour une raison quelconque,"
+    },
+    {
+      "id": 14,
+      "start": 63.041,
+      "end": 65.261,
+      "duration": 2.22,
+      "start_srt": "00:01:03,041",
+      "end_srt": "00:01:05,261",
+      "start_txt": "[00:01:03]",
+      "text": "peut-être vous avez des difficultés, peut-être vous"
+    },
+    {
+      "id": 15,
+      "start": 65.261,
+      "end": 68.201,
+      "duration": 2.94,
+      "start_srt": "00:01:05,261",
+      "end_srt": "00:01:08,201",
+      "start_txt": "[00:01:05]",
+      "text": "n'avez pas d'argent ce jour, peut-être vous avez d'autres"
+    },
+    {
+      "id": 16,
+      "start": 68.201,
+      "end": 72.221,
+      "duration": 4.02,
+      "start_srt": "00:01:08,201",
+      "end_srt": "00:01:12,221",
+      "start_txt": "[00:01:08]",
+      "text": "priorités, il va se dire mais attends. Pourquoi tu as enlevé"
+    },
+    {
+      "id": 17,
+      "start": 72.221,
+      "end": 75.461,
+      "duration": 3.24,
+      "start_srt": "00:01:12,221",
+      "end_srt": "00:01:15,461",
+      "start_txt": "[00:01:12]",
+      "text": "mon argent pour donner à quelqu'un d'autre? J'ai besoin"
+    },
+    {
+      "id": 18,
+      "start": 75.461,
+      "end": 78.881,
+      "duration": 3.42,
+      "start_srt": "00:01:15,461",
+      "end_srt": "00:01:18,881",
+      "start_txt": "[00:01:15]",
+      "text": "de mes mille francs, il peut devenir violent, il peut même"
+    },
+    {
+      "id": 19,
+      "start": 78.881,
+      "end": 85.001,
+      "duration": 6.12,
+      "start_srt": "00:01:18,881",
+      "end_srt": "00:01:25,001",
+      "start_txt": "[00:01:18]",
+      "text": "commencer à vous calomnier. À vous dénigrer, à vos insulter."
+    },
+    {
+      "id": 20,
+      "start": 85.001,
+      "end": 87.281,
+      "duration": 2.28,
+      "start_srt": "00:01:25,001",
+      "end_srt": "00:01:27,281",
+      "start_txt": "[00:01:25]",
+      "text": "Parce que vous n'avez pas appliqué quelque chose de"
+    },
+    {
+      "id": 21,
+      "start": 87.281,
+      "end": 95.261,
+      "duration": 7.98,
+      "start_srt": "00:01:27,281",
+      "end_srt": "00:01:35,261",
+      "start_txt": "[00:01:27]",
+      "text": "simple. La réciprocité. N'aidez jamais quelqu'un pour rien"
+    },
+    {
+      "id": 22,
+      "start": 95.261,
+      "end": 100.081,
+      "duration": 4.82,
+      "start_srt": "00:01:35,261",
+      "end_srt": "00:01:40,081",
+      "start_txt": "[00:01:35]",
+      "text": "plusieurs fois, jamais. Vous pouvez aider quelqu'un"
+    },
+    {
+      "id": 23,
+      "start": 100.081,
+      "end": 105.101,
+      "duration": 5.02,
+      "start_srt": "00:01:40,081",
+      "end_srt": "00:01:45,101",
+      "start_txt": "[00:01:40]",
+      "text": "spontanément comme ça. Mais si ça devrait se répéter, il faut"
+    },
+    {
+      "id": 24,
+      "start": 105.101,
+      "end": 110.801,
+      "duration": 5.7,
+      "start_srt": "00:01:45,101",
+      "end_srt": "00:01:50,801",
+      "start_txt": "[00:01:45]",
+      "text": "une réciprocité, sinon vous allez devenir l'objet du"
+    },
+    {
+      "id": 25,
+      "start": 110.801,
+      "end": 114.981,
+      "duration": 4.18,
+      "start_srt": "00:01:50,801",
+      "end_srt": "00:01:54,981",
+      "start_txt": "[00:01:50]",
+      "text": "raquettage. Qu'est-ce que ça signifie? Vous pouvez"
+    },
+    {
+      "id": 26,
+      "start": 114.981,
+      "end": 118.221,
+      "duration": 3.24,
+      "start_srt": "00:01:54,981",
+      "end_srt": "00:01:58,221",
+      "start_txt": "[00:01:54]",
+      "text": "rencontrer quelqu'un qui a un problème, ça vous touche"
+    },
+    {
+      "id": 27,
+      "start": 118.221,
+      "end": 120.921,
+      "duration": 2.7,
+      "start_srt": "00:01:58,221",
+      "end_srt": "00:02:00,921",
+      "start_txt": "[00:01:58]",
+      "text": "particulièrement, vous souhaitez vraiment aider la"
+    },
+    {
+      "id": 28,
+      "start": 120.921,
+      "end": 124.161,
+      "duration": 3.24,
+      "start_srt": "00:02:00,921",
+      "end_srt": "00:02:04,161",
+      "start_txt": "[00:02:00]",
+      "text": "personne, ce qui est quelque chose de noble et vous décidez"
+    },
+    {
+      "id": 29,
+      "start": 124.161,
+      "end": 126.261,
+      "duration": 2.1,
+      "start_srt": "00:02:04,161",
+      "end_srt": "00:02:06,261",
+      "start_txt": "[00:02:04]",
+      "text": "de lui apporter une contribution qui peut être"
+    },
+    {
+      "id": 30,
+      "start": 126.261,
+      "end": 130.221,
+      "duration": 3.96,
+      "start_srt": "00:02:06,261",
+      "end_srt": "00:02:10,221",
+      "start_txt": "[00:02:06]",
+      "text": "financière, qui peut être matériel. Lorsque vous le"
+    },
+    {
+      "id": 31,
+      "start": 130.221,
+      "end": 134.941,
+      "duration": 4.72,
+      "start_srt": "00:02:10,221",
+      "end_srt": "00:02:14,941",
+      "start_txt": "[00:02:10]",
+      "text": "faites, dites à la personne que la contribution que je"
+    },
+    {
+      "id": 32,
+      "start": 134.941,
+      "end": 138.541,
+      "duration": 3.6,
+      "start_srt": "00:02:14,941",
+      "end_srt": "00:02:18,541",
+      "start_txt": "[00:02:14]",
+      "text": "t'apporte c'est pour atteindre tel objectif, tel objectif, tel"
+    },
+    {
+      "id": 33,
+      "start": 138.541,
+      "end": 145.201,
+      "duration": 6.66,
+      "start_srt": "00:02:18,541",
+      "end_srt": "00:02:25,201",
+      "start_txt": "[00:02:18]",
+      "text": "objectif. Si c'est possible de rédiger ça, rédiger ça. Si"
+    },
+    {
+      "id": 34,
+      "start": 145.201,
+      "end": 149.641,
+      "duration": 4.44,
+      "start_srt": "00:02:25,201",
+      "end_srt": "00:02:29,641",
+      "start_txt": "[00:02:25]",
+      "text": "c'est possible de documenter ça, documenter ça. Vous lui"
+    },
+    {
+      "id": 35,
+      "start": 149.641,
+      "end": 153.481,
+      "duration": 3.84,
+      "start_srt": "00:02:29,641",
+      "end_srt": "00:02:33,481",
+      "start_txt": "[00:02:29]",
+      "text": "apportez votre aide mais vous devez documenter ce pourquoi"
+    },
+    {
+      "id": 36,
+      "start": 153.481,
+      "end": 156.901,
+      "duration": 3.42,
+      "start_srt": "00:02:33,481",
+      "end_srt": "00:02:36,901",
+      "start_txt": "[00:02:33]",
+      "text": "vous lui avez apporté cette aide. Et à quoi ça doit servir"
+    },
+    {
+      "id": 37,
+      "start": 156.901,
+      "end": 162.681,
+      "duration": 5.78,
+      "start_srt": "00:02:36,901",
+      "end_srt": "00:02:42,681",
+      "start_txt": "[00:02:36]",
+      "text": "et quel objectif ça doit permettre d'atteindre."
+    },
+    {
+      "id": 38,
+      "start": 162.681,
+      "end": 166.361,
+      "duration": 3.68,
+      "start_srt": "00:02:42,681",
+      "end_srt": "00:02:46,361",
+      "start_txt": "[00:02:42]",
+      "text": "Lorsqu'il faudra aider cette personne pour la deuxième fois,"
+    },
+    {
+      "id": 39,
+      "start": 166.361,
+      "end": 170.861,
+      "duration": 4.5,
+      "start_srt": "00:02:46,361",
+      "end_srt": "00:02:50,861",
+      "start_txt": "[00:02:46]",
+      "text": "elle doit d'abord vous présenter un rapport de ce"
+    },
+    {
+      "id": 40,
+      "start": 170.861,
+      "end": 174.461,
+      "duration": 3.6,
+      "start_srt": "00:02:50,861",
+      "end_srt": "00:02:54,461",
+      "start_txt": "[00:02:50]",
+      "text": "qu'elle a fait avec la précédente aide. Elle doit vous"
+    },
+    {
+      "id": 41,
+      "start": 174.461,
+      "end": 178.301,
+      "duration": 3.84,
+      "start_srt": "00:02:54,461",
+      "end_srt": "00:02:58,301",
+      "start_txt": "[00:02:54]",
+      "text": "montrer comment elle a réussi à atteindre ses objectifs ou au"
+    },
+    {
+      "id": 42,
+      "start": 178.301,
+      "end": 183.041,
+      "duration": 4.74,
+      "start_srt": "00:02:58,301",
+      "end_srt": "00:03:03,041",
+      "start_txt": "[00:02:58]",
+      "text": "moins à 80%, à quatre-vingt-dix %. Ça veut dire que la"
+    },
+    {
+      "id": 43,
+      "start": 183.041,
+      "end": 187.241,
+      "duration": 4.2,
+      "start_srt": "00:03:03,041",
+      "end_srt": "00:03:07,241",
+      "start_txt": "[00:03:03]",
+      "text": "prochaine aide, elle va la mériter. Tu ne seras plus"
+    },
+    {
+      "id": 44,
+      "start": 187.241,
+      "end": 191.081,
+      "duration": 3.84,
+      "start_srt": "00:03:07,241",
+      "end_srt": "00:03:11,081",
+      "start_txt": "[00:03:07]",
+      "text": "simplement une aide consécutive. Ce sera la suite"
+    },
+    {
+      "id": 45,
+      "start": 191.081,
+      "end": 195.341,
+      "duration": 4.26,
+      "start_srt": "00:03:11,081",
+      "end_srt": "00:03:15,341",
+      "start_txt": "[00:03:11]",
+      "text": "logique d'un travail qui a été effectué et elle mérite donc de"
+    },
+    {
+      "id": 46,
+      "start": 195.341,
+      "end": 198.501,
+      "duration": 3.16,
+      "start_srt": "00:03:15,341",
+      "end_srt": "00:03:18,501",
+      "start_txt": "[00:03:15]",
+      "text": "pouvoir passer au Palais supérieur. Ça va créer dans"
+    },
+    {
+      "id": 47,
+      "start": 198.501,
+      "end": 201.801,
+      "duration": 3.3,
+      "start_srt": "00:03:18,501",
+      "end_srt": "00:03:21,801",
+      "start_txt": "[00:03:18]",
+      "text": "compensation parce que la personne saura qu'elle a obtenu"
+    },
+    {
+      "id": 48,
+      "start": 201.801,
+      "end": 205.161,
+      "duration": 3.36,
+      "start_srt": "00:03:21,801",
+      "end_srt": "00:03:25,161",
+      "start_txt": "[00:03:21]",
+      "text": "cette aide pour la deuxième fois, grâce à ses efforts,"
+    },
+    {
+      "id": 49,
+      "start": 205.161,
+      "end": 207.621,
+      "duration": 2.46,
+      "start_srt": "00:03:25,161",
+      "end_srt": "00:03:27,621",
+      "start_txt": "[00:03:25]",
+      "text": "grâce à son travail. Ce sera donc comme une forme de"
+    },
+    {
+      "id": 50,
+      "start": 207.621,
+      "end": 211.301,
+      "duration": 3.68,
+      "start_srt": "00:03:27,621",
+      "end_srt": "00:03:31,301",
+      "start_txt": "[00:03:27]",
+      "text": "compensation de son travail, compensation de sa discipline."
+    },
+    {
+      "id": 51,
+      "start": 211.301,
+      "end": 215.121,
+      "duration": 3.82,
+      "start_srt": "00:03:31,301",
+      "end_srt": "00:03:35,121",
+      "start_txt": "[00:03:31]",
+      "text": "Si vous venez vous donner 5000 à la personne, vous lui dites,"
+    },
+    {
+      "id": 52,
+      "start": 215.121,
+      "end": 220.161,
+      "duration": 5.04,
+      "start_srt": "00:03:35,121",
+      "end_srt": "00:03:40,161",
+      "start_txt": "[00:03:35]",
+      "text": "prends ça. Va te débrouiller avec. Vous voyez encore la"
+    },
+    {
+      "id": 53,
+      "start": 220.161,
+      "end": 222.501,
+      "duration": 2.34,
+      "start_srt": "00:03:40,161",
+      "end_srt": "00:03:42,501",
+      "start_txt": "[00:03:40]",
+      "text": "personne deux semaines après, vous donnez encore cinq-mille,"
+    },
+    {
+      "id": 54,
+      "start": 222.501,
+      "end": 225.561,
+      "duration": 3.06,
+      "start_srt": "00:03:42,501",
+      "end_srt": "00:03:45,561",
+      "start_txt": "[00:03:42]",
+      "text": "prends ça, bats-toi avec. Faut donner encore cinq-mille,"
+    },
+    {
+      "id": 55,
+      "start": 225.561,
+      "end": 229.101,
+      "duration": 3.54,
+      "start_srt": "00:03:45,561",
+      "end_srt": "00:03:49,101",
+      "start_txt": "[00:03:45]",
+      "text": "prends ça, bats-toi avec, sans évaluer ce que la personne a eu"
+    },
+    {
+      "id": 56,
+      "start": 229.101,
+      "end": 232.461,
+      "duration": 3.36,
+      "start_srt": "00:03:49,101",
+      "end_srt": "00:03:52,461",
+      "start_txt": "[00:03:49]",
+      "text": "à faire avec les précédentes sondages. Ce qui va se passer,"
+    },
+    {
+      "id": 57,
+      "start": 232.461,
+      "end": 235.821,
+      "duration": 3.36,
+      "start_srt": "00:03:52,461",
+      "end_srt": "00:03:55,821",
+      "start_txt": "[00:03:52]",
+      "text": "c'est que si vous répétez sa Régulièrement, cette personne"
+    },
+    {
+      "id": 58,
+      "start": 235.821,
+      "end": 240.381,
+      "duration": 4.56,
+      "start_srt": "00:03:55,821",
+      "end_srt": "00:04:00,381",
+      "start_txt": "[00:03:55]",
+      "text": "va devenir votre bourreau parce qu'elle va budgétiser votre"
+    },
+    {
+      "id": 59,
+      "start": 240.381,
+      "end": 243.741,
+      "duration": 3.36,
+      "start_srt": "00:04:00,381",
+      "end_srt": "00:04:03,741",
+      "start_txt": "[00:04:00]",
+      "text": "argent. Elle va considérer désormais que tous les jours"
+    },
+    {
+      "id": 60,
+      "start": 243.741,
+      "end": 247.941,
+      "duration": 4.2,
+      "start_srt": "00:04:03,741",
+      "end_srt": "00:04:07,941",
+      "start_txt": "[00:04:03]",
+      "text": "j'ai 5000 qui provient de telle personne et je vais utiliser ça"
+    },
+    {
+      "id": 61,
+      "start": 247.941,
+      "end": 251.841,
+      "duration": 3.9,
+      "start_srt": "00:04:07,941",
+      "end_srt": "00:04:11,841",
+      "start_txt": "[00:04:07]",
+      "text": "pour mon repas, payer mon loyer, payer mon déplacement"
+    },
+    {
+      "id": 62,
+      "start": 251.841,
+      "end": 256.041,
+      "duration": 4.2,
+      "start_srt": "00:04:11,841",
+      "end_srt": "00:04:16,041",
+      "start_txt": "[00:04:11]",
+      "text": "ainsi de suite. Donc elle va programmer désormais votre aide"
+    },
+    {
+      "id": 63,
+      "start": 256.041,
+      "end": 259.701,
+      "duration": 3.66,
+      "start_srt": "00:04:16,041",
+      "end_srt": "00:04:19,701",
+      "start_txt": "[00:04:16]",
+      "text": "dans sa vie. Dans le jour où vous allez stopper cette aide,"
+    },
+    {
+      "id": 64,
+      "start": 259.701,
+      "end": 262.101,
+      "duration": 2.4,
+      "start_srt": "00:04:19,701",
+      "end_srt": "00:04:22,101",
+      "start_txt": "[00:04:19]",
+      "text": "elle aura l'impression que vous êtes en train de vouloir la"
+    },
+    {
+      "id": 65,
+      "start": 262.101,
+      "end": 264.561,
+      "duration": 2.46,
+      "start_srt": "00:04:22,101",
+      "end_srt": "00:04:24,561",
+      "start_txt": "[00:04:22]",
+      "text": "tuer parce que vous êtes en train de lui empêcher de"
+    },
+    {
+      "id": 66,
+      "start": 264.561,
+      "end": 267.801,
+      "duration": 3.24,
+      "start_srt": "00:04:24,561",
+      "end_srt": "00:04:27,801",
+      "start_txt": "[00:04:24]",
+      "text": "manger, lui empêcher de se déplacer, lui empêcher de se"
+    },
+    {
+      "id": 67,
+      "start": 267.801,
+      "end": 270.801,
+      "duration": 3.0,
+      "start_srt": "00:04:27,801",
+      "end_srt": "00:04:30,801",
+      "start_txt": "[00:04:27]",
+      "text": "loger parce que c'est grâce à cette aide qu'elle gère toutes"
+    },
+    {
+      "id": 68,
+      "start": 270.801,
+      "end": 275.741,
+      "duration": 4.94,
+      "start_srt": "00:04:30,801",
+      "end_srt": "00:04:35,741",
+      "start_txt": "[00:04:30]",
+      "text": "ces charges-là. Désormais, n'aidez plus jamais de manière"
+    },
+    {
+      "id": 69,
+      "start": 275.741,
+      "end": 279.921,
+      "duration": 4.18,
+      "start_srt": "00:04:35,741",
+      "end_srt": "00:04:39,921",
+      "start_txt": "[00:04:35]",
+      "text": "consécutive. Si vous ne demandez pas, vous n'imposez"
+    },
+    {
+      "id": 70,
+      "start": 279.921,
+      "end": 284.361,
+      "duration": 4.44,
+      "start_srt": "00:04:39,921",
+      "end_srt": "00:04:44,361",
+      "start_txt": "[00:04:39]",
+      "text": "pas des comptes-rendus. Vérifiables, avec des faits,"
+    },
+    {
+      "id": 71,
+      "start": 284.361,
+      "end": 288.621,
+      "duration": 4.26,
+      "start_srt": "00:04:44,361",
+      "end_srt": "00:04:48,621",
+      "start_txt": "[00:04:44]",
+      "text": "avec des preuves. Parce que cette loi de compensation va"
+    },
+    {
+      "id": 72,
+      "start": 288.621,
+      "end": 291.621,
+      "duration": 3.0,
+      "start_srt": "00:04:48,621",
+      "end_srt": "00:04:51,621",
+      "start_txt": "[00:04:48]",
+      "text": "vous sauver la vie. Et c'est la raison pour laquelle dans la"
+    },
+    {
+      "id": 73,
+      "start": 291.621,
+      "end": 294.681,
+      "duration": 3.06,
+      "start_srt": "00:04:51,621",
+      "end_srt": "00:04:54,681",
+      "start_txt": "[00:04:51]",
+      "text": "description de cette vidéo en commentaire et dans ma bio,"
+    },
+    {
+      "id": 74,
+      "start": 294.681,
+      "end": 297.681,
+      "duration": 3.0,
+      "start_srt": "00:04:54,681",
+      "end_srt": "00:04:57,681",
+      "start_txt": "[00:04:54]",
+      "text": "j'ai laissé un lien. Je voudrais que tu puisses cliquer"
+    },
+    {
+      "id": 75,
+      "start": 297.681,
+      "end": 301.281,
+      "duration": 3.6,
+      "start_srt": "00:04:57,681",
+      "end_srt": "00:05:01,281",
+      "start_txt": "[00:04:57]",
+      "text": "dessus, remplis le formulaire pour t'apprendre des astuces de"
+    },
+    {
+      "id": 76,
+      "start": 301.281,
+      "end": 304.041,
+      "duration": 2.76,
+      "start_srt": "00:05:01,281",
+      "end_srt": "00:05:04,041",
+      "start_txt": "[00:05:01]",
+      "text": "ce type-là qui vont te permettre de ne plus te"
+    },
+    {
+      "id": 77,
+      "start": 304.041,
+      "end": 307.521,
+      "duration": 3.48,
+      "start_srt": "00:05:04,041",
+      "end_srt": "00:05:07,521",
+      "start_txt": "[00:05:04]",
+      "text": "retrouver dans des difficultés particulières de avec tes"
+    },
+    {
+      "id": 78,
+      "start": 307.521,
+      "end": 311.601,
+      "duration": 4.08,
+      "start_srt": "00:05:07,521",
+      "end_srt": "00:05:11,601",
+      "start_txt": "[00:05:07]",
+      "text": "proches parce que parfois des petits détails comme ça peuvent"
+    },
+    {
+      "id": 79,
+      "start": 311.601,
+      "end": 315.081,
+      "duration": 3.48,
+      "start_srt": "00:05:11,601",
+      "end_srt": "00:05:15,081",
+      "start_txt": "[00:05:11]",
+      "text": "faire toute la différence. Rendez-vous demain pour une"
+    },
+    {
+      "id": 80,
+      "start": 315.081,
+      "end": 317.621,
+      "duration": 2.54,
+      "start_srt": "00:05:15,081",
+      "end_srt": "00:05:17,621",
+      "start_txt": "[00:05:15]",
+      "text": "nouvelle chronique."
+    },
+    {
+      "id": 81,
+      "start": 323.281,
+      "end": 326.781,
+      "duration": 3.5,
+      "start_srt": "00:05:23,281",
+      "end_srt": "00:05:26,781",
+      "start_txt": "[00:05:23]",
+      "text": "Et"
+    }
+  ]
+}

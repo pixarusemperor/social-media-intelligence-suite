@@ -1,0 +1,1263 @@
+{
+  "id": "1641765340829741",
+  "title": "2.4K views · 118 reactions | 🫵🏽 Qui fabrique l’argent ? | Dr Claudel Noubissie",
+  "url": "https://www.facebook.com/reel/1641765340829741",
+  "uploader": "Dr Claudel Noubissie",
+  "duration": 510.63,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Automatic fr_CA)",
+  "language": "fr_CA",
+  "track_type": "automatic",
+  "views": 1166,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 5.07,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:02:25.511279+00:00",
+  "asr_stats": null,
+  "word_count": 1241,
+  "segments_count": 124,
+  "formatted_duration": "8m 31s",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.485,
+      "duration": 3.485,
+      "start_srt": "00:00:00,000",
+      "end_srt": "00:00:03,485",
+      "start_txt": "[00:00:00]",
+      "text": "Qui fabrique l'argent?"
+    },
+    {
+      "id": 2,
+      "start": 5.545,
+      "end": 11.785,
+      "duration": 6.24,
+      "start_srt": "00:00:05,545",
+      "end_srt": "00:00:11,785",
+      "start_txt": "[00:00:05]",
+      "text": "Fabrique l'argent. Je veux que tu me donnes un peu ta réponse"
+    },
+    {
+      "id": 3,
+      "start": 11.785,
+      "end": 17.605,
+      "duration": 5.82,
+      "start_srt": "00:00:11,785",
+      "end_srt": "00:00:17,605",
+      "start_txt": "[00:00:11]",
+      "text": "en commentaire. L'argent que nous utilisons là, qui fabrique"
+    },
+    {
+      "id": 4,
+      "start": 17.605,
+      "end": 25.145,
+      "duration": 7.54,
+      "start_srt": "00:00:17,605",
+      "end_srt": "00:00:25,145",
+      "start_txt": "[00:00:17]",
+      "text": "ça? Pourquoi est-ce que c'est lui qui fabrique ça? Ça a été"
+    },
+    {
+      "id": 5,
+      "start": 25.145,
+      "end": 27.865,
+      "duration": 2.72,
+      "start_srt": "00:00:25,145",
+      "end_srt": "00:00:27,865",
+      "start_txt": "[00:00:25]",
+      "text": "décidé quand?"
+    },
+    {
+      "id": 6,
+      "start": 28.545,
+      "end": 31.745,
+      "duration": 3.2,
+      "start_srt": "00:00:28,545",
+      "end_srt": "00:00:31,745",
+      "start_txt": "[00:00:28]",
+      "text": "Parce que je voudrais que tu réfléchisses un peu à ça hein."
+    },
+    {
+      "id": 7,
+      "start": 31.745,
+      "end": 37.025,
+      "duration": 5.28,
+      "start_srt": "00:00:31,745",
+      "end_srt": "00:00:37,025",
+      "start_txt": "[00:00:31]",
+      "text": "C'est une question pertinente. Qui fabrique l'argent? Les gens"
+    },
+    {
+      "id": 8,
+      "start": 37.025,
+      "end": 41.405,
+      "duration": 4.38,
+      "start_srt": "00:00:37,025",
+      "end_srt": "00:00:41,405",
+      "start_txt": "[00:00:37]",
+      "text": "meurent pour de l'argent. Tous les jours lorsqu'on se lève, on"
+    },
+    {
+      "id": 9,
+      "start": 41.405,
+      "end": 45.485,
+      "duration": 4.08,
+      "start_srt": "00:00:41,405",
+      "end_srt": "00:00:45,485",
+      "start_txt": "[00:00:41]",
+      "text": "essaie de chercher de l'argent. Les gens se compromettent pour"
+    },
+    {
+      "id": 10,
+      "start": 45.485,
+      "end": 49.505,
+      "duration": 4.02,
+      "start_srt": "00:00:45,485",
+      "end_srt": "00:00:49,505",
+      "start_txt": "[00:00:45]",
+      "text": "de l'argent. Les femmes se prostituent pour de l'argent"
+    },
+    {
+      "id": 11,
+      "start": 49.505,
+      "end": 53.185,
+      "duration": 3.68,
+      "start_srt": "00:00:49,505",
+      "end_srt": "00:00:53,185",
+      "start_txt": "[00:00:49]",
+      "text": "aujourd'hui, même les hommes se prostituent pour de l'argent."
+    },
+    {
+      "id": 12,
+      "start": 53.185,
+      "end": 60.285,
+      "duration": 7.1,
+      "start_srt": "00:00:53,185",
+      "end_srt": "00:01:00,285",
+      "start_txt": "[00:00:53]",
+      "text": "Les gens tuent pour avoir de l'argent. La vie est centrée"
+    },
+    {
+      "id": 13,
+      "start": 60.285,
+      "end": 65.805,
+      "duration": 5.52,
+      "start_srt": "00:01:00,285",
+      "end_srt": "00:01:05,805",
+      "start_txt": "[00:01:00]",
+      "text": "sur l'argent. Chacun essaie d'avoir une activité pour"
+    },
+    {
+      "id": 14,
+      "start": 65.805,
+      "end": 69.885,
+      "duration": 4.08,
+      "start_srt": "00:01:05,805",
+      "end_srt": "00:01:09,885",
+      "start_txt": "[00:01:05]",
+      "text": "gagner de l'argent. Lorsqu'on est, on fréquente pendant vingt"
+    },
+    {
+      "id": 15,
+      "start": 69.885,
+      "end": 74.925,
+      "duration": 5.04,
+      "start_srt": "00:01:09,885",
+      "end_srt": "00:01:14,925",
+      "start_txt": "[00:01:09]",
+      "text": "ans, 30 ans pour avoir le maximum de diplômes possibles"
+    },
+    {
+      "id": 16,
+      "start": 74.925,
+      "end": 81.465,
+      "duration": 6.54,
+      "start_srt": "00:01:14,925",
+      "end_srt": "00:01:21,465",
+      "start_txt": "[00:01:14]",
+      "text": "pour augmenter sa probabilité de gagner de l'argent. Chacun"
+    },
+    {
+      "id": 17,
+      "start": 81.465,
+      "end": 84.965,
+      "duration": 3.5,
+      "start_srt": "00:01:21,465",
+      "end_srt": "00:01:24,965",
+      "start_txt": "[00:01:21]",
+      "text": "se bat comme il peut pour trouver un domaine d'activité"
+    },
+    {
+      "id": 18,
+      "start": 84.965,
+      "end": 88.905,
+      "duration": 3.94,
+      "start_srt": "00:01:24,965",
+      "end_srt": "00:01:28,905",
+      "start_txt": "[00:01:24]",
+      "text": "qui va lui permettre de gagner de l'argent. Mais moi je"
+    },
+    {
+      "id": 19,
+      "start": 88.905,
+      "end": 91.725,
+      "duration": 2.82,
+      "start_srt": "00:01:28,905",
+      "end_srt": "00:01:31,725",
+      "start_txt": "[00:01:28]",
+      "text": "voudrais laisser tous ces éléments-là et me poser la"
+    },
+    {
+      "id": 20,
+      "start": 91.725,
+      "end": 97.645,
+      "duration": 5.92,
+      "start_srt": "00:01:31,725",
+      "end_srt": "00:01:37,645",
+      "start_txt": "[00:01:31]",
+      "text": "question qui fabrique l'argent? Est-ce que les personnes qui"
+    },
+    {
+      "id": 21,
+      "start": 97.645,
+      "end": 100.885,
+      "duration": 3.24,
+      "start_srt": "00:01:37,645",
+      "end_srt": "00:01:40,885",
+      "start_txt": "[00:01:37]",
+      "text": "fabriquent l'argent travaillent comme nous pour gagner de"
+    },
+    {
+      "id": 22,
+      "start": 100.885,
+      "end": 106.345,
+      "duration": 5.46,
+      "start_srt": "00:01:40,885",
+      "end_srt": "00:01:46,345",
+      "start_txt": "[00:01:40]",
+      "text": "l'argent? Je vais prendre un autre exemple. Actuellement par"
+    },
+    {
+      "id": 23,
+      "start": 106.345,
+      "end": 109.765,
+      "duration": 3.42,
+      "start_srt": "00:01:46,345",
+      "end_srt": "00:01:49,765",
+      "start_txt": "[00:01:46]",
+      "text": "exemple dans la zone franc en Afrique, nous utilisons le"
+    },
+    {
+      "id": 24,
+      "start": 109.765,
+      "end": 115.705,
+      "duration": 5.94,
+      "start_srt": "00:01:49,765",
+      "end_srt": "00:01:55,705",
+      "start_txt": "[00:01:49]",
+      "text": "franc CFA. Au point où il y a même des détecteurs de faux"
+    },
+    {
+      "id": 25,
+      "start": 115.705,
+      "end": 123.105,
+      "duration": 7.4,
+      "start_srt": "00:01:55,705",
+      "end_srt": "00:02:03,105",
+      "start_txt": "[00:01:55]",
+      "text": "billets. Mais si celui qui fabrique l'argent, fabrique les"
+    },
+    {
+      "id": 26,
+      "start": 123.105,
+      "end": 127.845,
+      "duration": 4.74,
+      "start_srt": "00:02:03,105",
+      "end_srt": "00:02:07,845",
+      "start_txt": "[00:02:03]",
+      "text": "bons billets et il vient dans la zone franc avec pour lancer"
+    },
+    {
+      "id": 27,
+      "start": 127.845,
+      "end": 132.005,
+      "duration": 4.16,
+      "start_srt": "00:02:07,845",
+      "end_srt": "00:02:12,005",
+      "start_txt": "[00:02:07]",
+      "text": "un business. Comment est-ce qu'on va faire pour savoir?"
+    },
+    {
+      "id": 28,
+      "start": 132.045,
+      "end": 135.425,
+      "duration": 3.38,
+      "start_srt": "00:02:12,045",
+      "end_srt": "00:02:15,425",
+      "start_txt": "[00:02:12]",
+      "text": "Parce que par exemple la monnaie que nous on utilise"
+    },
+    {
+      "id": 29,
+      "start": 135.425,
+      "end": 137.965,
+      "duration": 2.54,
+      "start_srt": "00:02:15,425",
+      "end_srt": "00:02:17,965",
+      "start_txt": "[00:02:15]",
+      "text": "dans la zone franc, elle n'est même pas fabriquée en Afrique,"
+    },
+    {
+      "id": 30,
+      "start": 137.965,
+      "end": 146.705,
+      "duration": 8.74,
+      "start_srt": "00:02:17,965",
+      "end_srt": "00:02:26,705",
+      "start_txt": "[00:02:17]",
+      "text": "elle est fabriquée en Occident, en France en chamallien bon si"
+    },
+    {
+      "id": 31,
+      "start": 146.705,
+      "end": 150.245,
+      "duration": 3.54,
+      "start_srt": "00:02:26,705",
+      "end_srt": "00:02:30,245",
+      "start_txt": "[00:02:26]",
+      "text": "ceux qui fabriquent l'argent là, s'ils impriment un"
+    },
+    {
+      "id": 32,
+      "start": 150.245,
+      "end": 152.825,
+      "duration": 2.58,
+      "start_srt": "00:02:30,245",
+      "end_srt": "00:02:32,825",
+      "start_txt": "[00:02:30]",
+      "text": "milliard, parce que c'est l'impression, c'est c'est une"
+    },
+    {
+      "id": 33,
+      "start": 152.825,
+      "end": 155.945,
+      "duration": 3.12,
+      "start_srt": "00:02:32,825",
+      "end_srt": "00:02:35,945",
+      "start_txt": "[00:02:32]",
+      "text": "impression comme lorsqu'on imprime les livres, juste que"
+    },
+    {
+      "id": 34,
+      "start": 155.945,
+      "end": 159.425,
+      "duration": 3.48,
+      "start_srt": "00:02:35,945",
+      "end_srt": "00:02:39,425",
+      "start_txt": "[00:02:35]",
+      "text": "voilà l'impression se fait avec un certain cahier de charges"
+    },
+    {
+      "id": 35,
+      "start": 159.425,
+      "end": 164.385,
+      "duration": 4.96,
+      "start_srt": "00:02:39,425",
+      "end_srt": "00:02:44,385",
+      "start_txt": "[00:02:39]",
+      "text": "pour pouvoir respecter un certain type de rigueur. S'ils"
+    },
+    {
+      "id": 36,
+      "start": 164.385,
+      "end": 168.885,
+      "duration": 4.5,
+      "start_srt": "00:02:44,385",
+      "end_srt": "00:02:48,885",
+      "start_txt": "[00:02:44]",
+      "text": "impriment un milliard de francs et ils donnent les un milliard"
+    },
+    {
+      "id": 37,
+      "start": 168.885,
+      "end": 174.685,
+      "duration": 5.8,
+      "start_srt": "00:02:48,885",
+      "end_srt": "00:02:54,685",
+      "start_txt": "[00:02:48]",
+      "text": "là à un de leurs frères. On le met dans un jet privé, il"
+    },
+    {
+      "id": 38,
+      "start": 174.685,
+      "end": 181.405,
+      "duration": 6.72,
+      "start_srt": "00:02:54,685",
+      "end_srt": "00:03:01,405",
+      "start_txt": "[00:02:54]",
+      "text": "atterrit directement à Lomé ou à Abidjan ou à Douala. Il sort"
+    },
+    {
+      "id": 39,
+      "start": 181.405,
+      "end": 186.145,
+      "duration": 4.74,
+      "start_srt": "00:03:01,405",
+      "end_srt": "00:03:06,145",
+      "start_txt": "[00:03:01]",
+      "text": "de son jet privé avec ses un milliard imprimé chez eux"
+    },
+    {
+      "id": 40,
+      "start": 186.145,
+      "end": 190.105,
+      "duration": 3.96,
+      "start_srt": "00:03:06,145",
+      "end_srt": "00:03:10,105",
+      "start_txt": "[00:03:06]",
+      "text": "là-bas. Il arrive ici chez nous, il achète un terrain de"
+    },
+    {
+      "id": 41,
+      "start": 190.105,
+      "end": 195.865,
+      "duration": 5.76,
+      "start_srt": "00:03:10,105",
+      "end_srt": "00:03:15,865",
+      "start_txt": "[00:03:10]",
+      "text": "300 millions. Il construit un immeuble de 600 millions et il"
+    },
+    {
+      "id": 42,
+      "start": 195.865,
+      "end": 199.645,
+      "duration": 3.78,
+      "start_srt": "00:03:15,865",
+      "end_srt": "00:03:19,645",
+      "start_txt": "[00:03:15]",
+      "text": "lance son activité. Nous on va savoir comment? Puisque quand"
+    },
+    {
+      "id": 43,
+      "start": 199.645,
+      "end": 202.585,
+      "duration": 2.94,
+      "start_srt": "00:03:19,645",
+      "end_srt": "00:03:22,585",
+      "start_txt": "[00:03:19]",
+      "text": "tu vas prendre ton détecteur de faux bien, tu détectes, tu vois"
+    },
+    {
+      "id": 44,
+      "start": 202.585,
+      "end": 206.845,
+      "duration": 4.26,
+      "start_srt": "00:03:22,585",
+      "end_srt": "00:03:26,845",
+      "start_txt": "[00:03:22]",
+      "text": "que ce sont Les bombiers. Quand tu lui demandes de justifier"
+    },
+    {
+      "id": 45,
+      "start": 206.845,
+      "end": 209.125,
+      "duration": 2.28,
+      "start_srt": "00:03:26,845",
+      "end_srt": "00:03:29,125",
+      "start_txt": "[00:03:26]",
+      "text": "les revenus, il te dit que non, je suis un investisseur"
+    },
+    {
+      "id": 46,
+      "start": 209.125,
+      "end": 213.685,
+      "duration": 4.56,
+      "start_srt": "00:03:29,125",
+      "end_srt": "00:03:33,685",
+      "start_txt": "[00:03:29]",
+      "text": "occidental. J'ai mon entreprise en France depuis 20 ans. Il te"
+    },
+    {
+      "id": 47,
+      "start": 213.685,
+      "end": 216.505,
+      "duration": 2.82,
+      "start_srt": "00:03:33,685",
+      "end_srt": "00:03:36,505",
+      "start_txt": "[00:03:33]",
+      "text": "sort les papiers qu'on lui a aussi donné là-bas, même. Tu"
+    },
+    {
+      "id": 48,
+      "start": 216.505,
+      "end": 219.565,
+      "duration": 3.06,
+      "start_srt": "00:03:36,505",
+      "end_srt": "00:03:39,565",
+      "start_txt": "[00:03:36]",
+      "text": "regardes et c'est vrai, tu tapes son site, c'est réel. Tu"
+    },
+    {
+      "id": 49,
+      "start": 219.565,
+      "end": 222.205,
+      "duration": 2.64,
+      "start_srt": "00:03:39,565",
+      "end_srt": "00:03:42,205",
+      "start_txt": "[00:03:39]",
+      "text": "demandes à son état. Est-ce que vous connaissez le garçon? On"
+    },
+    {
+      "id": 50,
+      "start": 222.205,
+      "end": 224.305,
+      "duration": 2.1,
+      "start_srt": "00:03:42,205",
+      "end_srt": "00:03:44,305",
+      "start_txt": "[00:03:42]",
+      "text": "dit oui on le connaît, non non c'est un il est riche depuis"
+    },
+    {
+      "id": 51,
+      "start": 224.305,
+      "end": 227.125,
+      "duration": 2.82,
+      "start_srt": "00:03:44,305",
+      "end_srt": "00:03:47,125",
+      "start_txt": "[00:03:44]",
+      "text": "plus de vingt ans. C'est une richesse familiale. On va"
+    },
+    {
+      "id": 52,
+      "start": 227.125,
+      "end": 230.785,
+      "duration": 3.66,
+      "start_srt": "00:03:47,125",
+      "end_srt": "00:03:50,785",
+      "start_txt": "[00:03:47]",
+      "text": "savoir comment? Et il devient ton concurrent? Alors qu'on a"
+    },
+    {
+      "id": 53,
+      "start": 230.785,
+      "end": 233.485,
+      "duration": 2.7,
+      "start_srt": "00:03:50,785",
+      "end_srt": "00:03:53,485",
+      "start_txt": "[00:03:50]",
+      "text": "imprimé l'argent, on lui a donné. Toi tu dois tuer les"
+    },
+    {
+      "id": 54,
+      "start": 233.485,
+      "end": 236.645,
+      "duration": 3.16,
+      "start_srt": "00:03:53,485",
+      "end_srt": "00:03:56,645",
+      "start_txt": "[00:03:53]",
+      "text": "gens pour avoir l'argent. Tu dois vendre la pour avoir"
+    },
+    {
+      "id": 55,
+      "start": 236.645,
+      "end": 239.885,
+      "duration": 3.24,
+      "start_srt": "00:03:56,645",
+      "end_srt": "00:03:59,885",
+      "start_txt": "[00:03:56]",
+      "text": "l'âge. Tu dois te prostituer pour avoir l'âge, tu dois"
+    },
+    {
+      "id": 56,
+      "start": 239.885,
+      "end": 243.425,
+      "duration": 3.54,
+      "start_srt": "00:03:59,885",
+      "end_srt": "00:04:03,425",
+      "start_txt": "[00:03:59]",
+      "text": "produire vite cent vidéos par seconde pour gagner un peu de"
+    },
+    {
+      "id": 57,
+      "start": 243.425,
+      "end": 246.305,
+      "duration": 2.88,
+      "start_srt": "00:04:03,425",
+      "end_srt": "00:04:06,305",
+      "start_txt": "[00:04:03]",
+      "text": "monétisation sur les réseaux pour ceux qui monétisent même"
+    },
+    {
+      "id": 58,
+      "start": 246.305,
+      "end": 250.565,
+      "duration": 4.26,
+      "start_srt": "00:04:06,305",
+      "end_srt": "00:04:10,565",
+      "start_txt": "[00:04:06]",
+      "text": "leur compte. Tu dois vendre les produits, tu imagines le nombre"
+    },
+    {
+      "id": 59,
+      "start": 250.565,
+      "end": 253.985,
+      "duration": 3.42,
+      "start_srt": "00:04:10,565",
+      "end_srt": "00:04:13,985",
+      "start_txt": "[00:04:10]",
+      "text": "de savons qu'il faut vendre pour gagner un milliard. Toi"
+    },
+    {
+      "id": 60,
+      "start": 253.985,
+      "end": 256.925,
+      "duration": 2.94,
+      "start_srt": "00:04:13,985",
+      "end_srt": "00:04:16,925",
+      "start_txt": "[00:04:13]",
+      "text": "qui vends les savons sur TikTok là. Tu connais le nombre de"
+    },
+    {
+      "id": 61,
+      "start": 256.925,
+      "end": 259.745,
+      "duration": 2.82,
+      "start_srt": "00:04:16,925",
+      "end_srt": "00:04:19,745",
+      "start_txt": "[00:04:16]",
+      "text": "savons qu'il faut vendre pour gagner un milliard? Quand je"
+    },
+    {
+      "id": 62,
+      "start": 259.745,
+      "end": 261.725,
+      "duration": 1.98,
+      "start_srt": "00:04:19,745",
+      "end_srt": "00:04:21,725",
+      "start_txt": "[00:04:19]",
+      "text": "dis gagner un milliard, ça veut dire que tu as épargné un"
+    },
+    {
+      "id": 63,
+      "start": 261.725,
+      "end": 264.685,
+      "duration": 2.96,
+      "start_srt": "00:04:21,725",
+      "end_srt": "00:04:24,685",
+      "start_txt": "[00:04:21]",
+      "text": "milliard. Parce que lui il est venu avec un milliard en cash."
+    },
+    {
+      "id": 64,
+      "start": 264.685,
+      "end": 268.985,
+      "duration": 4.3,
+      "start_srt": "00:04:24,685",
+      "end_srt": "00:04:28,985",
+      "start_txt": "[00:04:24]",
+      "text": "Tu sais combien d'huiles de toilette tu dois vendre jusqu'à"
+    },
+    {
+      "id": 65,
+      "start": 268.985,
+      "end": 273.265,
+      "duration": 4.28,
+      "start_srt": "00:04:28,985",
+      "end_srt": "00:04:33,265",
+      "start_txt": "[00:04:28]",
+      "text": "ce que tu épargnes un milliard?"
+    },
+    {
+      "id": 66,
+      "start": 274.045,
+      "end": 282.705,
+      "duration": 8.66,
+      "start_srt": "00:04:34,045",
+      "end_srt": "00:04:42,705",
+      "start_txt": "[00:04:34]",
+      "text": "Toi qui vends les livres là, les livres électroniques là. Tu"
+    },
+    {
+      "id": 67,
+      "start": 282.705,
+      "end": 285.045,
+      "duration": 2.34,
+      "start_srt": "00:04:42,705",
+      "end_srt": "00:04:45,045",
+      "start_txt": "[00:04:42]",
+      "text": "sais combien de livres il faut vendre pour épargner un"
+    },
+    {
+      "id": 68,
+      "start": 285.045,
+      "end": 292.545,
+      "duration": 7.5,
+      "start_srt": "00:04:45,045",
+      "end_srt": "00:04:52,545",
+      "start_txt": "[00:04:45]",
+      "text": "milliard? Ce manga truqué. Nous vivons dans un monde truqué."
+    },
+    {
+      "id": 69,
+      "start": 292.545,
+      "end": 296.445,
+      "duration": 3.9,
+      "start_srt": "00:04:52,545",
+      "end_srt": "00:04:56,445",
+      "start_txt": "[00:04:52]",
+      "text": "Sauf que c'est tellement truqué au point où personne ne se pose"
+    },
+    {
+      "id": 70,
+      "start": 296.445,
+      "end": 298.425,
+      "duration": 1.98,
+      "start_srt": "00:04:56,445",
+      "end_srt": "00:04:58,425",
+      "start_txt": "[00:04:56]",
+      "text": "même les questions. Non moi je vais me poser cette question."
+    },
+    {
+      "id": 71,
+      "start": 298.425,
+      "end": 301.785,
+      "duration": 3.36,
+      "start_srt": "00:04:58,425",
+      "end_srt": "00:05:01,785",
+      "start_txt": "[00:04:58]",
+      "text": "Qui fabrique l'argent? Et pourquoi c'est eux qui"
+    },
+    {
+      "id": 72,
+      "start": 301.785,
+      "end": 306.725,
+      "duration": 4.94,
+      "start_srt": "00:05:01,785",
+      "end_srt": "00:05:06,725",
+      "start_txt": "[00:05:01]",
+      "text": "fabriquent? Qui a décidé? Même si on avait décidé avant,"
+    },
+    {
+      "id": 73,
+      "start": 306.725,
+      "end": 309.785,
+      "duration": 3.06,
+      "start_srt": "00:05:06,725",
+      "end_srt": "00:05:09,785",
+      "start_txt": "[00:05:06]",
+      "text": "pourquoi on ne changeait pas? Pourquoi il continue de"
+    },
+    {
+      "id": 74,
+      "start": 309.785,
+      "end": 312.245,
+      "duration": 2.46,
+      "start_srt": "00:05:09,785",
+      "end_srt": "00:05:12,245",
+      "start_txt": "[00:05:09]",
+      "text": "fabriquer notre argent? Et même si c'est nous-même qui"
+    },
+    {
+      "id": 75,
+      "start": 312.245,
+      "end": 317.825,
+      "duration": 5.58,
+      "start_srt": "00:05:12,245",
+      "end_srt": "00:05:17,825",
+      "start_txt": "[00:05:12]",
+      "text": "fabriquons, on va choisir qui? On va choisir qui? Parce que"
+    },
+    {
+      "id": 76,
+      "start": 317.825,
+      "end": 321.485,
+      "duration": 3.66,
+      "start_srt": "00:05:17,825",
+      "end_srt": "00:05:21,485",
+      "start_txt": "[00:05:17]",
+      "text": "après aussi parfois on se dit si déjà nos dirigeants veulent"
+    },
+    {
+      "id": 77,
+      "start": 321.485,
+      "end": 324.065,
+      "duration": 2.58,
+      "start_srt": "00:05:21,485",
+      "end_srt": "00:05:24,065",
+      "start_txt": "[00:05:21]",
+      "text": "déjà assez d'argent avec l'argent qui est imprimé"
+    },
+    {
+      "id": 78,
+      "start": 324.065,
+      "end": 327.545,
+      "duration": 3.48,
+      "start_srt": "00:05:24,065",
+      "end_srt": "00:05:27,545",
+      "start_txt": "[00:05:24]",
+      "text": "ailleurs. Si c'est eux même qui ont la machine pour imprimer ne"
+    },
+    {
+      "id": 79,
+      "start": 327.545,
+      "end": 331.225,
+      "duration": 3.68,
+      "start_srt": "00:05:27,545",
+      "end_srt": "00:05:31,225",
+      "start_txt": "[00:05:27]",
+      "text": "sont morts hein. Parce que imagine-toi je peux comprendre"
+    },
+    {
+      "id": 80,
+      "start": 331.225,
+      "end": 334.385,
+      "duration": 3.16,
+      "start_srt": "00:05:31,225",
+      "end_srt": "00:05:34,385",
+      "start_txt": "[00:05:31]",
+      "text": "ce sont les autres qui impriment notre argent un"
+    },
+    {
+      "id": 81,
+      "start": 334.385,
+      "end": 336.905,
+      "duration": 2.52,
+      "start_srt": "00:05:34,385",
+      "end_srt": "00:05:36,905",
+      "start_txt": "[00:05:34]",
+      "text": "certain volume monétaire pour qu'il n'y ait pas d'inflation"
+    },
+    {
+      "id": 82,
+      "start": 336.905,
+      "end": 339.545,
+      "duration": 2.64,
+      "start_srt": "00:05:36,905",
+      "end_srt": "00:05:39,545",
+      "start_txt": "[00:05:36]",
+      "text": "dans notre pays même si on peut remettre tout ça en question."
+    },
+    {
+      "id": 83,
+      "start": 339.545,
+      "end": 341.765,
+      "duration": 2.22,
+      "start_srt": "00:05:39,545",
+      "end_srt": "00:05:41,765",
+      "start_txt": "[00:05:39]",
+      "text": "On part à l'école faire quoi si on peut pas faire ça nous-même."
+    },
+    {
+      "id": 84,
+      "start": 341.765,
+      "end": 345.605,
+      "duration": 3.84,
+      "start_srt": "00:05:41,765",
+      "end_srt": "00:05:45,605",
+      "start_txt": "[00:05:41]",
+      "text": "Bon laissons même ça. Nous donne. Il faut savoir que quand"
+    },
+    {
+      "id": 85,
+      "start": 345.605,
+      "end": 349.645,
+      "duration": 4.04,
+      "start_srt": "00:05:45,605",
+      "end_srt": "00:05:49,645",
+      "start_txt": "[00:05:45]",
+      "text": "ils impri Parce que c'est une prestation non. Donc quand ils"
+    },
+    {
+      "id": 86,
+      "start": 349.645,
+      "end": 352.765,
+      "duration": 3.12,
+      "start_srt": "00:05:49,645",
+      "end_srt": "00:05:52,765",
+      "start_txt": "[00:05:49]",
+      "text": "impriment notre argent, on les paye pour imprimer. Comme quand"
+    },
+    {
+      "id": 87,
+      "start": 352.765,
+      "end": 354.925,
+      "duration": 2.16,
+      "start_srt": "00:05:52,765",
+      "end_srt": "00:05:54,925",
+      "start_txt": "[00:05:52]",
+      "text": "toi tu payes pour imprimer ton livre. Bon l'essence est"
+    },
+    {
+      "id": 88,
+      "start": 354.925,
+      "end": 358.045,
+      "duration": 3.12,
+      "start_srt": "00:05:54,925",
+      "end_srt": "00:05:58,045",
+      "start_txt": "[00:05:54]",
+      "text": "question, ça va donner les molitaires. Si on décide"
+    },
+    {
+      "id": 89,
+      "start": 358.045,
+      "end": 361.165,
+      "duration": 3.12,
+      "start_srt": "00:05:58,045",
+      "end_srt": "00:06:01,165",
+      "start_txt": "[00:05:58]",
+      "text": "d'imprimer maintenant l'argent là ici, tu t'imagines, si un"
+    },
+    {
+      "id": 90,
+      "start": 361.165,
+      "end": 363.825,
+      "duration": 2.66,
+      "start_srt": "00:06:01,165",
+      "end_srt": "00:06:03,825",
+      "start_txt": "[00:06:01]",
+      "text": "gars va déjà les milliards qu'on faisait ailleurs,"
+    },
+    {
+      "id": 91,
+      "start": 363.825,
+      "end": 366.985,
+      "duration": 3.16,
+      "start_srt": "00:06:03,825",
+      "end_srt": "00:06:06,985",
+      "start_txt": "[00:06:03]",
+      "text": "imagine-toi c'est le gars qui vole les milliards là qui a"
+    },
+    {
+      "id": 92,
+      "start": 366.985,
+      "end": 371.885,
+      "duration": 4.9,
+      "start_srt": "00:06:06,985",
+      "end_srt": "00:06:11,885",
+      "start_txt": "[00:06:06]",
+      "text": "maintenant la machine pour imprimer l'argent. Ça devait"
+    },
+    {
+      "id": 93,
+      "start": 371.885,
+      "end": 375.305,
+      "duration": 3.42,
+      "start_srt": "00:06:11,885",
+      "end_srt": "00:06:15,305",
+      "start_txt": "[00:06:11]",
+      "text": "être le point parce que dès que sa copine l'appelle là qui"
+    },
+    {
+      "id": 94,
+      "start": 375.305,
+      "end": 377.345,
+      "duration": 2.04,
+      "start_srt": "00:06:15,305",
+      "end_srt": "00:06:17,345",
+      "start_txt": "[00:06:15]",
+      "text": "chérit il y a les nouvelles iPhone qui viennent de sortir"
+    },
+    {
+      "id": 95,
+      "start": 377.345,
+      "end": 382.445,
+      "duration": 5.1,
+      "start_srt": "00:06:17,345",
+      "end_srt": "00:06:22,445",
+      "start_txt": "[00:06:17]",
+      "text": "là. Il dit imprimez-moi un peu deux millions là. Envoyez ça à"
+    },
+    {
+      "id": 96,
+      "start": 382.445,
+      "end": 386.885,
+      "duration": 4.44,
+      "start_srt": "00:06:22,445",
+      "end_srt": "00:06:26,885",
+      "start_txt": "[00:06:22]",
+      "text": "la fille là. Il va acheter un terrain. Imprime-moi un peu"
+    },
+    {
+      "id": 97,
+      "start": 386.885,
+      "end": 390.125,
+      "duration": 3.24,
+      "start_srt": "00:06:26,885",
+      "end_srt": "00:06:30,125",
+      "start_txt": "[00:06:26]",
+      "text": "d'un milliard là tu viens me donner à la maison. C'est"
+    },
+    {
+      "id": 98,
+      "start": 390.125,
+      "end": 395.185,
+      "duration": 5.06,
+      "start_srt": "00:06:30,125",
+      "end_srt": "00:06:35,185",
+      "start_txt": "[00:06:30]",
+      "text": "qu'elle inflation de elle nous tuer. Donc j'ai besoin d'avoir"
+    },
+    {
+      "id": 99,
+      "start": 395.185,
+      "end": 397.825,
+      "duration": 2.64,
+      "start_srt": "00:06:35,185",
+      "end_srt": "00:06:37,825",
+      "start_txt": "[00:06:35]",
+      "text": "ton avis en commentaire mon gars. Qui qui imprime l'argent?"
+    },
+    {
+      "id": 100,
+      "start": 397.825,
+      "end": 400.885,
+      "duration": 3.06,
+      "start_srt": "00:06:37,825",
+      "end_srt": "00:06:40,885",
+      "start_txt": "[00:06:37]",
+      "text": "Et pourquoi c'est lui qui imprime? Et pourquoi"
+    },
+    {
+      "id": 101,
+      "start": 400.885,
+      "end": 402.925,
+      "duration": 2.04,
+      "start_srt": "00:06:40,885",
+      "end_srt": "00:06:42,925",
+      "start_txt": "[00:06:40]",
+      "text": "jusqu'aujourd'hui c'est lui qui aime? Pourquoi nous-même on"
+    },
+    {
+      "id": 102,
+      "start": 402.925,
+      "end": 408.085,
+      "duration": 5.16,
+      "start_srt": "00:06:42,925",
+      "end_srt": "00:06:48,085",
+      "start_txt": "[00:06:42]",
+      "text": "imprime pas? Pourquoi on imprime pas? Vous allez me dire"
+    },
+    {
+      "id": 103,
+      "start": 408.085,
+      "end": 410.185,
+      "duration": 2.1,
+      "start_srt": "00:06:48,085",
+      "end_srt": "00:06:50,185",
+      "start_txt": "[00:06:48]",
+      "text": "que oui ici tout le monde a l'argent, les gens ne vont plus"
+    },
+    {
+      "id": 104,
+      "start": 410.185,
+      "end": 412.405,
+      "duration": 2.22,
+      "start_srt": "00:06:50,185",
+      "end_srt": "00:06:52,405",
+      "start_txt": "[00:06:50]",
+      "text": "travailler machin. Oui je suis d'accord non? Mais pourquoi eux"
+    },
+    {
+      "id": 105,
+      "start": 412.405,
+      "end": 416.845,
+      "duration": 4.44,
+      "start_srt": "00:06:52,405",
+      "end_srt": "00:06:56,845",
+      "start_txt": "[00:06:52]",
+      "text": "ils priment pour nous? C'est bizarre n'est-ce pas? En tout"
+    },
+    {
+      "id": 106,
+      "start": 416.845,
+      "end": 419.245,
+      "duration": 2.4,
+      "start_srt": "00:06:56,845",
+      "end_srt": "00:06:59,245",
+      "start_txt": "[00:06:56]",
+      "text": "cas au lieu de se poser trop de questions compliquées, moi je"
+    },
+    {
+      "id": 107,
+      "start": 419.245,
+      "end": 421.405,
+      "duration": 2.16,
+      "start_srt": "00:06:59,245",
+      "end_srt": "00:07:01,405",
+      "start_txt": "[00:06:59]",
+      "text": "te recommande à toi si tu veux rejoindre mon équipe, nous"
+    },
+    {
+      "id": 108,
+      "start": 421.405,
+      "end": 424.545,
+      "duration": 3.14,
+      "start_srt": "00:07:01,405",
+      "end_srt": "00:07:04,545",
+      "start_txt": "[00:07:01]",
+      "text": "avons un groupe qui s'appelle Propulsion. Lorsque tu intè"
+    },
+    {
+      "id": 109,
+      "start": 424.545,
+      "end": 426.765,
+      "duration": 2.22,
+      "start_srt": "00:07:04,545",
+      "end_srt": "00:07:06,765",
+      "start_txt": "[00:07:04]",
+      "text": "groupe, nous travaillons ensemble sur des projets et"
+    },
+    {
+      "id": 110,
+      "start": 426.765,
+      "end": 429.045,
+      "duration": 2.28,
+      "start_srt": "00:07:06,765",
+      "end_srt": "00:07:09,045",
+      "start_txt": "[00:07:06]",
+      "text": "nous faisons aussi la promotion de tous les membres de notre"
+    },
+    {
+      "id": 111,
+      "start": 429.045,
+      "end": 432.165,
+      "duration": 3.12,
+      "start_srt": "00:07:09,045",
+      "end_srt": "00:07:12,165",
+      "start_txt": "[00:07:09]",
+      "text": "groupe pour pouvoir développer leurs activités. Le groupe"
+    },
+    {
+      "id": 112,
+      "start": 432.165,
+      "end": 436.545,
+      "duration": 4.38,
+      "start_srt": "00:07:12,165",
+      "end_srt": "00:07:16,545",
+      "start_txt": "[00:07:12]",
+      "text": "l'accès coûte 10 000 francs 25 euros pour les personnes qui"
+    },
+    {
+      "id": 113,
+      "start": 436.545,
+      "end": 439.485,
+      "duration": 2.94,
+      "start_srt": "00:07:16,545",
+      "end_srt": "00:07:19,485",
+      "start_txt": "[00:07:16]",
+      "text": "sont à l'extérieur du Cameroun. C'est valable pendant 12 mois."
+    },
+    {
+      "id": 114,
+      "start": 439.485,
+      "end": 442.365,
+      "duration": 2.88,
+      "start_srt": "00:07:19,485",
+      "end_srt": "00:07:22,365",
+      "start_txt": "[00:07:19]",
+      "text": "Donc si tu veux rejoindre ce groupe tu me fais un WhatsApp"
+    },
+    {
+      "id": 115,
+      "start": 442.365,
+      "end": 445.005,
+      "duration": 2.64,
+      "start_srt": "00:07:22,365",
+      "end_srt": "00:07:25,005",
+      "start_txt": "[00:07:22]",
+      "text": "au numéro plus deux-cent-trente-sept"
+    },
+    {
+      "id": 116,
+      "start": 445.005,
+      "end": 448.245,
+      "duration": 3.24,
+      "start_srt": "00:07:25,005",
+      "end_srt": "00:07:28,245",
+      "start_txt": "[00:07:25]",
+      "text": "six-cent-soixante-dix-sept soixante-et-un quatre-vingt-dix"
+    },
+    {
+      "id": 117,
+      "start": 448.245,
+      "end": 451.605,
+      "duration": 3.36,
+      "start_srt": "00:07:28,245",
+      "end_srt": "00:07:31,605",
+      "start_txt": "[00:07:28]",
+      "text": "onze. Tu me fais un WhatsApp à ce numéro. Tu précises que tu"
+    },
+    {
+      "id": 118,
+      "start": 451.605,
+      "end": 455.985,
+      "duration": 4.38,
+      "start_srt": "00:07:31,605",
+      "end_srt": "00:07:35,985",
+      "start_txt": "[00:07:31]",
+      "text": "veux rejoindre notre groupe. Trop je vais t'envoyer les"
+    },
+    {
+      "id": 119,
+      "start": 455.985,
+      "end": 458.565,
+      "duration": 2.58,
+      "start_srt": "00:07:35,985",
+      "end_srt": "00:07:38,565",
+      "start_txt": "[00:07:35]",
+      "text": "modalités pour que tu puisses nous rejoindre. Je crois que"
+    },
+    {
+      "id": 120,
+      "start": 458.565,
+      "end": 460.365,
+      "duration": 1.8,
+      "start_srt": "00:07:38,565",
+      "end_srt": "00:07:40,365",
+      "start_txt": "[00:07:38]",
+      "text": "nous on est obligé de faire comme ça pour gagner de"
+    },
+    {
+      "id": 121,
+      "start": 460.365,
+      "end": 463.485,
+      "duration": 3.12,
+      "start_srt": "00:07:40,365",
+      "end_srt": "00:07:43,485",
+      "start_txt": "[00:07:40]",
+      "text": "l'argent parce que les autres impriment mais nous on est"
+    },
+    {
+      "id": 122,
+      "start": 463.485,
+      "end": 467.325,
+      "duration": 3.84,
+      "start_srt": "00:07:43,485",
+      "end_srt": "00:07:47,325",
+      "start_txt": "[00:07:43]",
+      "text": "obligé de se battre, de travailler, d'avoir 800 idées"
+    },
+    {
+      "id": 123,
+      "start": 467.325,
+      "end": 470.505,
+      "duration": 3.18,
+      "start_srt": "00:07:47,325",
+      "end_srt": "00:07:50,505",
+      "start_txt": "[00:07:47]",
+      "text": "par seconde, de ne pas pleurer face aux difficultés pour nous"
+    },
+    {
+      "id": 124,
+      "start": 470.505,
+      "end": 475.025,
+      "duration": 4.52,
+      "start_srt": "00:07:50,505",
+      "end_srt": "00:07:55,025",
+      "start_txt": "[00:07:50]",
+      "text": "en sortir. Rendez-vous demain pour une nouvelle chronique."
+    }
+  ]
+}

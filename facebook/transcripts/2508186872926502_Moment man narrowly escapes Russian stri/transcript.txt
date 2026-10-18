@@ -1,0 +1,13 @@
+# Moment man narrowly escapes Russian strike in Sviatopetrivske, Ukraine
+URL: https://www.facebook.com/watch/?v=2508186872926502
+Video ID: 2508186872926502
+Duration: 20.33s (0m 20s)
+Language: en
+Method: Method B: Zero-Cost Local ASR (faster-whisper base int8)
+Word Count: 0
+Segments Count: 0
+Extracted At: 2026-10-18T14:03:54.141919+00:00
+Cost: $0.00 (Zero paid proxies / Zero Apify)
+
+================================================================================
+

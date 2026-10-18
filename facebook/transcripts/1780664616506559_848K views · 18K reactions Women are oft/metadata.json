@@ -1,0 +1,30 @@
+{
+  "id": "1780664616506559",
+  "title": "848K views · 18K reactions | Women are often told they’re overreacting when they feel uncomfortable or violated, explains Tracee Ellis Ross — and it’s time for that to change. Here’s how she says a woman’s fury holds wisdom that everyone should listen to: http://t.ted.com/Ck1x8D9 | TED",
+  "url": "https://www.facebook.com/watch/?v=1780664616506559",
+  "uploader": "TED",
+  "duration": 193.92,
+  "method": "local_whisper_asr",
+  "method_description": "Method B: Zero-Cost Local ASR (faster-whisper base int8)",
+  "language": "en",
+  "track_type": "asr_generated",
+  "views": 492381,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 48.11,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:03:20.403523+00:00",
+  "asr_stats": {
+    "detected_language": "en",
+    "language_probability": 0.997,
+    "transcription_time_sec": 32.53,
+    "audio_duration_sec": 193.94,
+    "speedup_factor": 5.96,
+    "model_size": "base",
+    "compute_type": "int8",
+    "device": "cpu"
+  },
+  "word_count": 396,
+  "segments_count": 58,
+  "formatted_duration": "3m 14s"
+}

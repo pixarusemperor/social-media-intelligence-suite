@@ -1,0 +1,43 @@
+{
+  "id": "1557618349384047",
+  "title": "221K views · 1.2K reactions | The aircraft lineup just keeps getting bigger. ✈️ MAX POWER, a new aerospace expo, is set for Nov. 7-8 at NASA's Kennedy Space Center in Florida. The event features flyovers and static displays, including NASA's F-15, F-18, T-38, and ER-2 aircraft. Learn how to secure your spot on the flightline: https://www.nasa.gov/maxpower/ | NASA - National Aeronautics and Space Administration",
+  "url": "https://www.facebook.com/watch/?v=1557618349384047",
+  "uploader": "NASA - National Aeronautics and Space Administration",
+  "duration": 17.77,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Uploaded en_US)",
+  "language": "en_US",
+  "track_type": "uploaded",
+  "views": 53174,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 7.43,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:01:26.148107+00:00",
+  "asr_stats": null,
+  "word_count": 20,
+  "segments_count": 2,
+  "formatted_duration": "0m 18s",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.302,
+      "duration": 2.302,
+      "start_srt": "00:00:00,000",
+      "end_srt": "00:00:02,302",
+      "start_txt": "[00:00:00]",
+      "text": "Come see NASA aircraft at MAX POWER NASA Kennedy Space Center"
+    },
+    {
+      "id": 2,
+      "start": 13.713,
+      "end": 15.749,
+      "duration": 2.036,
+      "start_srt": "00:00:13,713",
+      "end_srt": "00:00:15,749",
+      "start_txt": "[00:00:13]",
+      "text": "MAX POWER NASA Kennedy Space Center November 7-8 nasa.gov/maxpower"
+    }
+  ]
+}

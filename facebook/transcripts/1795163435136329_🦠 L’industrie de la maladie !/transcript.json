@@ -1,0 +1,1663 @@
+{
+  "id": "1795163435136329",
+  "title": "🦠 L’industrie de la maladie !",
+  "url": "https://www.facebook.com/reel/1795163435136329",
+  "uploader": "Dr Claudel Noubissie",
+  "duration": 564.22,
+  "method": "native_facebook_captions",
+  "method_description": "Method A: Native Facebook Captions (Automatic fr_CA)",
+  "language": "fr_CA",
+  "track_type": "automatic",
+  "views": 1358,
+  "likes": null,
+  "comments": null,
+  "extraction_time_sec": 5.09,
+  "cost_usd": 0.0,
+  "extracted_at": "2026-10-18T14:02:20.183939+00:00",
+  "asr_stats": null,
+  "word_count": 1645,
+  "segments_count": 164,
+  "formatted_duration": "9m 24s",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.625,
+      "duration": 2.625,
+      "start_srt": "00:00:00,000",
+      "end_srt": "00:00:02,625",
+      "start_txt": "[00:00:00]",
+      "text": "Habitudes de vie des parce que quand je dis modifier les"
+    },
+    {
+      "id": 2,
+      "start": 2.625,
+      "end": 5.925,
+      "duration": 3.3,
+      "start_srt": "00:00:02,625",
+      "end_srt": "00:00:05,925",
+      "start_txt": "[00:00:02]",
+      "text": "chiffres et on ne comprend pas. Si je dis que euh pour être"
+    },
+    {
+      "id": 3,
+      "start": 5.925,
+      "end": 8.745,
+      "duration": 2.82,
+      "start_srt": "00:00:05,925",
+      "end_srt": "00:00:08,745",
+      "start_txt": "[00:00:05]",
+      "text": "reconnu comme souffrance, j'ai pas envie d'indexer une maladie"
+    },
+    {
+      "id": 4,
+      "start": 8.745,
+      "end": 12.405,
+      "duration": 3.66,
+      "start_srt": "00:00:08,745",
+      "end_srt": "00:00:12,405",
+      "start_txt": "[00:00:08]",
+      "text": "particulière. Si on dit que tu dois si on fait un test et le"
+    },
+    {
+      "id": 5,
+      "start": 12.405,
+      "end": 14.565,
+      "duration": 2.16,
+      "start_srt": "00:00:12,405",
+      "end_srt": "00:00:14,565",
+      "start_txt": "[00:00:12]",
+      "text": "test affiche dix, ça veut dire que tu souffres d'une maladie."
+    },
+    {
+      "id": 6,
+      "start": 14.565,
+      "end": 19.005,
+      "duration": 4.44,
+      "start_srt": "00:00:14,565",
+      "end_srt": "00:00:19,005",
+      "start_txt": "[00:00:14]",
+      "text": "Hum hum. On le dit. Je dois être à cinq. Non, on va"
+    },
+    {
+      "id": 7,
+      "start": 19.005,
+      "end": 22.005,
+      "duration": 3.0,
+      "start_srt": "00:00:19,005",
+      "end_srt": "00:00:22,005",
+      "start_txt": "[00:00:19]",
+      "text": "produire les tests. Oui. En Occident. On va envoyer les"
+    },
+    {
+      "id": 8,
+      "start": 22.005,
+      "end": 25.365,
+      "duration": 3.36,
+      "start_srt": "00:00:22,005",
+      "end_srt": "00:00:25,365",
+      "start_txt": "[00:00:22]",
+      "text": "tests dans tout le monde entier. À l'hôpital de on va te"
+    },
+    {
+      "id": 9,
+      "start": 25.365,
+      "end": 28.665,
+      "duration": 3.3,
+      "start_srt": "00:00:25,365",
+      "end_srt": "00:00:28,665",
+      "start_txt": "[00:00:25]",
+      "text": "faire des tests. Si tu si le test affiche dix, on va dire"
+    },
+    {
+      "id": 10,
+      "start": 28.665,
+      "end": 31.005,
+      "duration": 2.34,
+      "start_srt": "00:00:28,665",
+      "end_srt": "00:00:31,005",
+      "start_txt": "[00:00:28]",
+      "text": "que tu es victime de cette maladie sans prendre en compte"
+    },
+    {
+      "id": 11,
+      "start": 31.005,
+      "end": 34.085,
+      "duration": 3.08,
+      "start_srt": "00:00:31,005",
+      "end_srt": "00:00:34,085",
+      "start_txt": "[00:00:31]",
+      "text": "qu'il y a des variables chez toi qui peuvent être génétiques"
+    },
+    {
+      "id": 12,
+      "start": 34.085,
+      "end": 37.225,
+      "duration": 3.14,
+      "start_srt": "00:00:34,085",
+      "end_srt": "00:00:37,225",
+      "start_txt": "[00:00:34]",
+      "text": "environnementales. Peuvent faire en sorte que chez toi on"
+    },
+    {
+      "id": 13,
+      "start": 37.225,
+      "end": 39.265,
+      "duration": 2.04,
+      "start_srt": "00:00:37,225",
+      "end_srt": "00:00:39,265",
+      "start_txt": "[00:00:37]",
+      "text": "ne doit pas prendre ça à 10 on doit prendre peut-être ça à"
+    },
+    {
+      "id": 14,
+      "start": 39.265,
+      "end": 41.785,
+      "duration": 2.52,
+      "start_srt": "00:00:39,265",
+      "end_srt": "00:00:41,785",
+      "start_txt": "[00:00:39]",
+      "text": "douze ou à quatre ça dépend. Hum hum. Mais sauf que toi on"
+    },
+    {
+      "id": 15,
+      "start": 41.785,
+      "end": 44.365,
+      "duration": 2.58,
+      "start_srt": "00:00:41,785",
+      "end_srt": "00:00:44,365",
+      "start_txt": "[00:00:41]",
+      "text": "vient de te diagnostiquer. Et quand ton diagnostic ça veut"
+    },
+    {
+      "id": 16,
+      "start": 44.365,
+      "end": 47.125,
+      "duration": 2.76,
+      "start_srt": "00:00:44,365",
+      "end_srt": "00:00:47,125",
+      "start_txt": "[00:00:44]",
+      "text": "que ton médecin va te donner une recommandation en terme de"
+    },
+    {
+      "id": 17,
+      "start": 47.125,
+      "end": 49.765,
+      "duration": 2.64,
+      "start_srt": "00:00:47,125",
+      "end_srt": "00:00:49,765",
+      "start_txt": "[00:00:47]",
+      "text": "prise en charge par rapport à ton régime alimentaire. Il va"
+    },
+    {
+      "id": 18,
+      "start": 49.765,
+      "end": 52.225,
+      "duration": 2.46,
+      "start_srt": "00:00:49,765",
+      "end_srt": "00:00:52,225",
+      "start_txt": "[00:00:49]",
+      "text": "te dire de ne plus consommer l'huile rouge bizarrement. Il"
+    },
+    {
+      "id": 19,
+      "start": 52.225,
+      "end": 54.685,
+      "duration": 2.46,
+      "start_srt": "00:00:52,225",
+      "end_srt": "00:00:54,685",
+      "start_txt": "[00:00:52]",
+      "text": "va te demander de ne plus consommer. Oui, il va te"
+    },
+    {
+      "id": 20,
+      "start": 54.685,
+      "end": 56.605,
+      "duration": 1.92,
+      "start_srt": "00:00:54,685",
+      "end_srt": "00:00:56,605",
+      "start_txt": "[00:00:54]",
+      "text": "demander de ne plus consommer un certain nombre de choses"
+    },
+    {
+      "id": 21,
+      "start": 56.605,
+      "end": 62.425,
+      "duration": 5.82,
+      "start_srt": "00:00:56,605",
+      "end_srt": "00:01:02,425",
+      "start_txt": "[00:00:56]",
+      "text": "qu'on produit. Bon je préfère dire bizarrement tu vois. Donc"
+    },
+    {
+      "id": 22,
+      "start": 62.425,
+      "end": 65.525,
+      "duration": 3.1,
+      "start_srt": "00:01:02,425",
+      "end_srt": "00:01:05,525",
+      "start_txt": "[00:01:02]",
+      "text": "du coup, il vient de modifier ton habitude aliment vient de"
+    },
+    {
+      "id": 23,
+      "start": 65.525,
+      "end": 68.405,
+      "duration": 2.88,
+      "start_srt": "00:01:05,525",
+      "end_srt": "00:01:08,405",
+      "start_txt": "[00:01:05]",
+      "text": "modifier toute ta vie parce que la plupart des c'est un"
+    },
+    {
+      "id": 24,
+      "start": 68.405,
+      "end": 72.845,
+      "duration": 4.44,
+      "start_srt": "00:01:08,405",
+      "end_srt": "00:01:12,845",
+      "start_txt": "[00:01:08]",
+      "text": "traitement à vie. Sauf que 5 ans, 10 ans après, les mêmes"
+    },
+    {
+      "id": 25,
+      "start": 72.845,
+      "end": 75.965,
+      "duration": 3.12,
+      "start_srt": "00:01:12,845",
+      "end_srt": "00:01:15,965",
+      "start_txt": "[00:01:12]",
+      "text": "personnes effectuent une autre étude que tu n'auras tant, on"
+    },
+    {
+      "id": 26,
+      "start": 75.965,
+      "end": 80.225,
+      "duration": 4.26,
+      "start_srt": "00:01:15,965",
+      "end_srt": "00:01:20,225",
+      "start_txt": "[00:01:15]",
+      "text": "s'était trompés. Ah. Ce n'est pas dix. Parce que ceux qui"
+    },
+    {
+      "id": 27,
+      "start": 80.225,
+      "end": 82.745,
+      "duration": 2.52,
+      "start_srt": "00:01:20,225",
+      "end_srt": "00:01:22,745",
+      "start_txt": "[00:01:20]",
+      "text": "sont déjà à partir de huit ont déjà un facteur de risque"
+    },
+    {
+      "id": 28,
+      "start": 82.745,
+      "end": 85.925,
+      "duration": 3.18,
+      "start_srt": "00:01:22,745",
+      "end_srt": "00:01:25,925",
+      "start_txt": "[00:01:22]",
+      "text": "tellement important que dans 5 ans, ils vont développer la"
+    },
+    {
+      "id": 29,
+      "start": 85.925,
+      "end": 88.565,
+      "duration": 2.64,
+      "start_srt": "00:01:25,925",
+      "end_srt": "00:01:28,565",
+      "start_txt": "[00:01:25]",
+      "text": "maladie. Donc on va commencer à diagnostiquer à neuf. Ou à"
+    },
+    {
+      "id": 30,
+      "start": 88.565,
+      "end": 93.025,
+      "duration": 4.46,
+      "start_srt": "00:01:28,565",
+      "end_srt": "00:01:33,025",
+      "start_txt": "[00:01:28]",
+      "text": "huit. Toi qui étais à huit avant en bonne santé tu te"
+    },
+    {
+      "id": 31,
+      "start": 93.025,
+      "end": 95.785,
+      "duration": 2.76,
+      "start_srt": "00:01:33,025",
+      "end_srt": "00:01:35,785",
+      "start_txt": "[00:01:33]",
+      "text": "retrouves dans la définition de la maladie. Je sais que tu es"
+    },
+    {
+      "id": 32,
+      "start": 95.785,
+      "end": 98.065,
+      "duration": 2.28,
+      "start_srt": "00:01:35,785",
+      "end_srt": "00:01:38,065",
+      "start_txt": "[00:01:35]",
+      "text": "malade. Et tu vas commencer à prendre le traitement à vie"
+    },
+    {
+      "id": 33,
+      "start": 98.065,
+      "end": 100.645,
+      "duration": 2.58,
+      "start_srt": "00:01:38,065",
+      "end_srt": "00:01:40,645",
+      "start_txt": "[00:01:38]",
+      "text": "aussi. Tu vois? Sauf que nous qu'est-ce que nous on décide"
+    },
+    {
+      "id": 34,
+      "start": 100.645,
+      "end": 103.765,
+      "duration": 3.12,
+      "start_srt": "00:01:40,645",
+      "end_srt": "00:01:43,765",
+      "start_txt": "[00:01:40]",
+      "text": "dans tout ça rien? Tu vois c'est eux qui mènent les études"
+    },
+    {
+      "id": 35,
+      "start": 103.765,
+      "end": 106.405,
+      "duration": 2.64,
+      "start_srt": "00:01:43,765",
+      "end_srt": "00:01:46,405",
+      "start_txt": "[00:01:43]",
+      "text": "et même quand les études sont menées chez nous c'est financé"
+    },
+    {
+      "id": 36,
+      "start": 106.405,
+      "end": 110.725,
+      "duration": 4.32,
+      "start_srt": "00:01:46,405",
+      "end_srt": "00:01:50,725",
+      "start_txt": "[00:01:46]",
+      "text": "par eux. Parce que un médecin moi qui suis médecin le sort de"
+    },
+    {
+      "id": 37,
+      "start": 110.725,
+      "end": 113.185,
+      "duration": 2.46,
+      "start_srt": "00:01:50,725",
+      "end_srt": "00:01:53,185",
+      "start_txt": "[00:01:50]",
+      "text": "la fac de médecine j'ai toutes les connaissances du monde."
+    },
+    {
+      "id": 38,
+      "start": 113.185,
+      "end": 116.665,
+      "duration": 3.48,
+      "start_srt": "00:01:53,185",
+      "end_srt": "00:01:56,665",
+      "start_txt": "[00:01:53]",
+      "text": "J'ai envie de faire une étude ici à Yaoundé pour savoir à"
+    },
+    {
+      "id": 39,
+      "start": 116.665,
+      "end": 119.545,
+      "duration": 2.88,
+      "start_srt": "00:01:56,665",
+      "end_srt": "00:01:59,545",
+      "start_txt": "[00:01:56]",
+      "text": "combien est-ce qu'on devrait définir le taux pour que nous"
+    },
+    {
+      "id": 40,
+      "start": 119.545,
+      "end": 122.425,
+      "duration": 2.88,
+      "start_srt": "00:01:59,545",
+      "end_srt": "00:02:02,425",
+      "start_txt": "[00:01:59]",
+      "text": "on puisse être défini comme étant euh des dans la"
+    },
+    {
+      "id": 41,
+      "start": 122.425,
+      "end": 124.525,
+      "duration": 2.1,
+      "start_srt": "00:02:02,425",
+      "end_srt": "00:02:04,525",
+      "start_txt": "[00:02:02]",
+      "text": "définition de la maladie. Mais comment il fait pour faire"
+    },
+    {
+      "id": 42,
+      "start": 124.525,
+      "end": 128.125,
+      "duration": 3.6,
+      "start_srt": "00:02:04,525",
+      "end_srt": "00:02:08,125",
+      "start_txt": "[00:02:04]",
+      "text": "l'étude? Tous les moyens. Il prend les moyens où? Je suis"
+    },
+    {
+      "id": 43,
+      "start": 128.125,
+      "end": 130.585,
+      "duration": 2.46,
+      "start_srt": "00:02:08,125",
+      "end_srt": "00:02:10,585",
+      "start_txt": "[00:02:08]",
+      "text": "obligé de vendre un laboratoire pharmaceutique dit au"
+    },
+    {
+      "id": 44,
+      "start": 130.585,
+      "end": 132.865,
+      "duration": 2.28,
+      "start_srt": "00:02:10,585",
+      "end_srt": "00:02:12,865",
+      "start_txt": "[00:02:10]",
+      "text": "laboratoire en question que j'ai envie de mener l'étude ici"
+    },
+    {
+      "id": 45,
+      "start": 132.865,
+      "end": 135.745,
+      "duration": 2.88,
+      "start_srt": "00:02:12,865",
+      "end_srt": "00:02:15,745",
+      "start_txt": "[00:02:12]",
+      "text": "en Afrique pour contextualiser l'étude par rapport à notre euh"
+    },
+    {
+      "id": 46,
+      "start": 135.745,
+      "end": 138.145,
+      "duration": 2.4,
+      "start_srt": "00:02:15,745",
+      "end_srt": "00:02:18,145",
+      "start_txt": "[00:02:15]",
+      "text": "environnement. Le laboratoire il y a pas de problème puisque"
+    },
+    {
+      "id": 47,
+      "start": 138.145,
+      "end": 140.965,
+      "duration": 2.82,
+      "start_srt": "00:02:18,145",
+      "end_srt": "00:02:20,965",
+      "start_txt": "[00:02:18]",
+      "text": "de toutes les manières ça c'est un intérêt pour nous. Le"
+    },
+    {
+      "id": 48,
+      "start": 140.965,
+      "end": 144.025,
+      "duration": 3.06,
+      "start_srt": "00:02:20,965",
+      "end_srt": "00:02:24,025",
+      "start_txt": "[00:02:20]",
+      "text": "laboratoire finance l'étude. Quel laboratoire a financer une"
+    },
+    {
+      "id": 49,
+      "start": 144.025,
+      "end": 146.605,
+      "duration": 2.58,
+      "start_srt": "00:02:24,025",
+      "end_srt": "00:02:26,605",
+      "start_txt": "[00:02:24]",
+      "text": "étude? Qui va permettre de dire à la fin que son test ne sert à"
+    },
+    {
+      "id": 50,
+      "start": 146.605,
+      "end": 151.245,
+      "duration": 4.64,
+      "start_srt": "00:02:26,605",
+      "end_srt": "00:02:31,245",
+      "start_txt": "[00:02:26]",
+      "text": "rien. Aucun laboratoire donc du coup les études sont biaisées"
+    },
+    {
+      "id": 51,
+      "start": 151.245,
+      "end": 154.405,
+      "duration": 3.16,
+      "start_srt": "00:02:31,245",
+      "end_srt": "00:02:34,405",
+      "start_txt": "[00:02:31]",
+      "text": "et les études en question permettent de définir les"
+    },
+    {
+      "id": 52,
+      "start": 154.405,
+      "end": 156.445,
+      "duration": 2.04,
+      "start_srt": "00:02:34,405",
+      "end_srt": "00:02:36,445",
+      "start_txt": "[00:02:34]",
+      "text": "politiques publiques. La preuve c'est qu'à la fin de cette"
+    },
+    {
+      "id": 53,
+      "start": 156.445,
+      "end": 159.925,
+      "duration": 3.48,
+      "start_srt": "00:02:36,445",
+      "end_srt": "00:02:39,925",
+      "start_txt": "[00:02:36]",
+      "text": "étude on va dire que désormais le ministère de la Santé du"
+    },
+    {
+      "id": 54,
+      "start": 159.925,
+      "end": 162.745,
+      "duration": 2.82,
+      "start_srt": "00:02:39,925",
+      "end_srt": "00:02:42,745",
+      "start_txt": "[00:02:39]",
+      "text": "pays en question a la définition parce que en"
+    },
+    {
+      "id": 55,
+      "start": 162.745,
+      "end": 165.085,
+      "duration": 2.34,
+      "start_srt": "00:02:42,745",
+      "end_srt": "00:02:45,085",
+      "start_txt": "[00:02:42]",
+      "text": "fonction de notre contexte c'est maintenant les chiffres"
+    },
+    {
+      "id": 56,
+      "start": 165.085,
+      "end": 167.785,
+      "duration": 2.7,
+      "start_srt": "00:02:45,085",
+      "end_srt": "00:02:47,785",
+      "start_txt": "[00:02:45]",
+      "text": "de cette étude qu'on va prendre en compte et le laboratoire va"
+    },
+    {
+      "id": 57,
+      "start": 167.785,
+      "end": 170.485,
+      "duration": 2.7,
+      "start_srt": "00:02:47,785",
+      "end_srt": "00:02:50,485",
+      "start_txt": "[00:02:47]",
+      "text": "continuer l'accompagnement en disant que bon, on subventionne"
+    },
+    {
+      "id": 58,
+      "start": 170.485,
+      "end": 172.885,
+      "duration": 2.4,
+      "start_srt": "00:02:50,485",
+      "end_srt": "00:02:52,885",
+      "start_txt": "[00:02:50]",
+      "text": "vos médicaments, on subventionne vos tests, on"
+    },
+    {
+      "id": 59,
+      "start": 172.885,
+      "end": 175.225,
+      "duration": 2.34,
+      "start_srt": "00:02:52,885",
+      "end_srt": "00:02:55,225",
+      "start_txt": "[00:02:52]",
+      "text": "subventionne la prise en charge et ainsi de suite. C'est pour"
+    },
+    {
+      "id": 60,
+      "start": 175.225,
+      "end": 176.545,
+      "duration": 1.32,
+      "start_srt": "00:02:55,225",
+      "end_srt": "00:02:56,545",
+      "start_txt": "[00:02:55]",
+      "text": "ça que je me dis, quand quelqu'un parle"
+    },
+    {
+      "id": 61,
+      "start": 176.545,
+      "end": 178.825,
+      "duration": 2.28,
+      "start_srt": "00:02:56,545",
+      "end_srt": "00:02:58,825",
+      "start_txt": "[00:02:56]",
+      "text": "d'obscurantisme, ça veut dire qu'il ne comprend même pas ce"
+    },
+    {
+      "id": 62,
+      "start": 178.825,
+      "end": 181.825,
+      "duration": 3.0,
+      "start_srt": "00:02:58,825",
+      "end_srt": "00:03:01,825",
+      "start_txt": "[00:02:58]",
+      "text": "que c'est que l'Afrique. C'est l'Afrique qui a tout conçu."
+    },
+    {
+      "id": 63,
+      "start": 181.825,
+      "end": 184.585,
+      "duration": 2.76,
+      "start_srt": "00:03:01,825",
+      "end_srt": "00:03:04,585",
+      "start_txt": "[00:03:01]",
+      "text": "Simplement parce que nous sommes la civilisation la plus"
+    },
+    {
+      "id": 64,
+      "start": 184.585,
+      "end": 187.525,
+      "duration": 2.94,
+      "start_srt": "00:03:04,585",
+      "end_srt": "00:03:07,525",
+      "start_txt": "[00:03:04]",
+      "text": "ancienne, c'est c'est on s'arrête uniquement à ça pour"
+    },
+    {
+      "id": 65,
+      "start": 187.525,
+      "end": 191.405,
+      "duration": 3.88,
+      "start_srt": "00:03:07,525",
+      "end_srt": "00:03:11,405",
+      "start_txt": "[00:03:07]",
+      "text": "comprendre que avant que l'éducation occidentale nos"
+    },
+    {
+      "id": 66,
+      "start": 191.405,
+      "end": 193.325,
+      "duration": 1.92,
+      "start_srt": "00:03:11,405",
+      "end_srt": "00:03:13,325",
+      "start_txt": "[00:03:11]",
+      "text": "ancêtres faisaient comment? On parle quand même des des"
+    },
+    {
+      "id": 67,
+      "start": 193.325,
+      "end": 196.505,
+      "duration": 3.18,
+      "start_srt": "00:03:13,325",
+      "end_srt": "00:03:16,505",
+      "start_txt": "[00:03:13]",
+      "text": "ancêtres qui ont eu à bâtir des des des monuments comme les"
+    },
+    {
+      "id": 68,
+      "start": 196.505,
+      "end": 199.085,
+      "duration": 2.58,
+      "start_srt": "00:03:16,505",
+      "end_srt": "00:03:19,085",
+      "start_txt": "[00:03:16]",
+      "text": "pyramides. Je veux dire quand tu regardes une pyramide, tu"
+    },
+    {
+      "id": 69,
+      "start": 199.085,
+      "end": 201.065,
+      "duration": 1.98,
+      "start_srt": "00:03:19,085",
+      "end_srt": "00:03:21,065",
+      "start_txt": "[00:03:19]",
+      "text": "comprends que ceux qui l'ont fait avec des connaissances"
+    },
+    {
+      "id": 70,
+      "start": 201.065,
+      "end": 203.825,
+      "duration": 2.76,
+      "start_srt": "00:03:21,065",
+      "end_srt": "00:03:23,825",
+      "start_txt": "[00:03:21]",
+      "text": "assez pointues en physique, assez pointues en chimie, assez"
+    },
+    {
+      "id": 71,
+      "start": 203.825,
+      "end": 206.705,
+      "duration": 2.88,
+      "start_srt": "00:03:23,825",
+      "end_srt": "00:03:26,705",
+      "start_txt": "[00:03:23]",
+      "text": "pointues en pratiquement toutes les disciplines. Quand ils"
+    },
+    {
+      "id": 72,
+      "start": 206.705,
+      "end": 208.925,
+      "duration": 2.22,
+      "start_srt": "00:03:26,705",
+      "end_srt": "00:03:28,925",
+      "start_txt": "[00:03:26]",
+      "text": "portaient les blocs de pierres là et que ça frappait le pied"
+    },
+    {
+      "id": 73,
+      "start": 208.925,
+      "end": 211.025,
+      "duration": 2.1,
+      "start_srt": "00:03:28,925",
+      "end_srt": "00:03:31,025",
+      "start_txt": "[00:03:28]",
+      "text": "de quelqu'un, il avait une fracture t'imaginer qu'on"
+    },
+    {
+      "id": 74,
+      "start": 211.025,
+      "end": 212.945,
+      "duration": 1.92,
+      "start_srt": "00:03:31,025",
+      "end_srt": "00:03:32,945",
+      "start_txt": "[00:03:31]",
+      "text": "soignait sa fracture, on soignait sa fracture, comment"
+    },
+    {
+      "id": 75,
+      "start": 212.945,
+      "end": 215.585,
+      "duration": 2.64,
+      "start_srt": "00:03:32,945",
+      "end_srt": "00:03:35,585",
+      "start_txt": "[00:03:32]",
+      "text": "sans éducation occidentale. Ça veut dire qu'ils avaient des"
+    },
+    {
+      "id": 76,
+      "start": 215.585,
+      "end": 217.865,
+      "duration": 2.28,
+      "start_srt": "00:03:35,585",
+      "end_srt": "00:03:37,865",
+      "start_txt": "[00:03:35]",
+      "text": "connaissances assez pointues dans pratiquement toutes les"
+    },
+    {
+      "id": 77,
+      "start": 217.865,
+      "end": 220.785,
+      "duration": 2.92,
+      "start_srt": "00:03:37,865",
+      "end_srt": "00:03:40,785",
+      "start_txt": "[00:03:37]",
+      "text": "disciplines. Donc quand quelqu'un dit que Quand vous"
+    },
+    {
+      "id": 78,
+      "start": 220.785,
+      "end": 223.125,
+      "duration": 2.34,
+      "start_srt": "00:03:40,785",
+      "end_srt": "00:03:43,125",
+      "start_txt": "[00:03:40]",
+      "text": "rejettez l'école occidentale, ça veut dire que vous sombrez"
+    },
+    {
+      "id": 79,
+      "start": 223.125,
+      "end": 225.105,
+      "duration": 1.98,
+      "start_srt": "00:03:43,125",
+      "end_srt": "00:03:45,105",
+      "start_txt": "[00:03:43]",
+      "text": "dans l'obscurantisme, ça veut dire qu'il ne sait même pas ce"
+    },
+    {
+      "id": 80,
+      "start": 225.105,
+      "end": 228.825,
+      "duration": 3.72,
+      "start_srt": "00:03:45,105",
+      "end_srt": "00:03:48,825",
+      "start_txt": "[00:03:45]",
+      "text": "que c'est. Mais je suis aussi contre ceux qui j'ai décidé de"
+    },
+    {
+      "id": 81,
+      "start": 228.825,
+      "end": 233.685,
+      "duration": 4.86,
+      "start_srt": "00:03:48,825",
+      "end_srt": "00:03:53,685",
+      "start_txt": "[00:03:48]",
+      "text": "vous offrir un cadeau. Particulièrement spécial que je"
+    },
+    {
+      "id": 82,
+      "start": 233.685,
+      "end": 237.585,
+      "duration": 3.9,
+      "start_srt": "00:03:53,685",
+      "end_srt": "00:03:57,585",
+      "start_txt": "[00:03:53]",
+      "text": "vais vous présenter tout de suite. Le premier cadeau que je"
+    },
+    {
+      "id": 83,
+      "start": 237.585,
+      "end": 241.965,
+      "duration": 4.38,
+      "start_srt": "00:03:57,585",
+      "end_srt": "00:04:01,965",
+      "start_txt": "[00:03:57]",
+      "text": "vais vous offrir c'est un ensemble de formations vidéos"
+    },
+    {
+      "id": 84,
+      "start": 241.965,
+      "end": 248.265,
+      "duration": 6.3,
+      "start_srt": "00:04:01,965",
+      "end_srt": "00:04:08,265",
+      "start_txt": "[00:04:01]",
+      "text": "produites durant l'année 2025. Des formations d'une durée de 3"
+    },
+    {
+      "id": 85,
+      "start": 248.265,
+      "end": 252.285,
+      "duration": 4.02,
+      "start_srt": "00:04:08,265",
+      "end_srt": "00:04:12,285",
+      "start_txt": "[00:04:08]",
+      "text": "à 5 heures de temps et je pense qu'en fonction de votre profil,"
+    },
+    {
+      "id": 86,
+      "start": 252.285,
+      "end": 256.005,
+      "duration": 3.72,
+      "start_srt": "00:04:12,285",
+      "end_srt": "00:04:16,005",
+      "start_txt": "[00:04:12]",
+      "text": "ces formations vont vous être d'une incroyable utilité"
+    },
+    {
+      "id": 87,
+      "start": 256.005,
+      "end": 259.545,
+      "duration": 3.54,
+      "start_srt": "00:04:16,005",
+      "end_srt": "00:04:19,545",
+      "start_txt": "[00:04:16]",
+      "text": "surtout que vous pourriez les suivre qu'importe l'endroit du"
+    },
+    {
+      "id": 88,
+      "start": 259.545,
+      "end": 262.725,
+      "duration": 3.18,
+      "start_srt": "00:04:19,545",
+      "end_srt": "00:04:22,725",
+      "start_txt": "[00:04:19]",
+      "text": "monde à partir duquel vous vous trouvez. Je vous fais la liste"
+    },
+    {
+      "id": 89,
+      "start": 262.725,
+      "end": 266.505,
+      "duration": 3.78,
+      "start_srt": "00:04:22,725",
+      "end_srt": "00:04:26,505",
+      "start_txt": "[00:04:22]",
+      "text": "de ces formations qui sont au nombre de 12 et qui sont"
+    },
+    {
+      "id": 90,
+      "start": 266.505,
+      "end": 272.885,
+      "duration": 6.38,
+      "start_srt": "00:04:26,505",
+      "end_srt": "00:04:32,885",
+      "start_txt": "[00:04:26]",
+      "text": "disponibles en format vidéo en format audio et en résumé PDF."
+    },
+    {
+      "id": 91,
+      "start": 272.885,
+      "end": 277.065,
+      "duration": 4.18,
+      "start_srt": "00:04:32,885",
+      "end_srt": "00:04:37,065",
+      "start_txt": "[00:04:32]",
+      "text": "Ça c'est le premier cadeau que je vous offre. Donc vous allez"
+    },
+    {
+      "id": 92,
+      "start": 277.065,
+      "end": 281.145,
+      "duration": 4.08,
+      "start_srt": "00:04:37,065",
+      "end_srt": "00:04:41,145",
+      "start_txt": "[00:04:37]",
+      "text": "recevoir douze liens dans ces douze liens vous allez avoir"
+    },
+    {
+      "id": 93,
+      "start": 281.145,
+      "end": 286.185,
+      "duration": 5.04,
+      "start_srt": "00:04:41,145",
+      "end_srt": "00:04:46,185",
+      "start_txt": "[00:04:41]",
+      "text": "accès à toutes ces douze master class et dans chaque dossier de"
+    },
+    {
+      "id": 94,
+      "start": 286.185,
+      "end": 289.905,
+      "duration": 3.72,
+      "start_srt": "00:04:46,185",
+      "end_srt": "00:04:49,905",
+      "start_txt": "[00:04:46]",
+      "text": "master class vous allez avoir le fichier vidéo de la master"
+    },
+    {
+      "id": 95,
+      "start": 289.905,
+      "end": 293.505,
+      "duration": 3.6,
+      "start_srt": "00:04:49,905",
+      "end_srt": "00:04:53,505",
+      "start_txt": "[00:04:49]",
+      "text": "class le fichier audio de la master class que vous pourriez"
+    },
+    {
+      "id": 96,
+      "start": 293.505,
+      "end": 297.105,
+      "duration": 3.6,
+      "start_srt": "00:04:53,505",
+      "end_srt": "00:04:57,105",
+      "start_txt": "[00:04:53]",
+      "text": "écouter en pratiquant une autre activité dans votre véhicule"
+    },
+    {
+      "id": 97,
+      "start": 297.105,
+      "end": 303.645,
+      "duration": 6.54,
+      "start_srt": "00:04:57,105",
+      "end_srt": "00:05:03,645",
+      "start_txt": "[00:04:57]",
+      "text": "avec un casque et le résumé PDF avec les exercices à faire. Ça"
+    },
+    {
+      "id": 98,
+      "start": 303.645,
+      "end": 307.005,
+      "duration": 3.36,
+      "start_srt": "00:05:03,645",
+      "end_srt": "00:05:07,005",
+      "start_txt": "[00:05:03]",
+      "text": "c'est le premier cadeau que je vous offre et ce n'est pas"
+    },
+    {
+      "id": 99,
+      "start": 307.005,
+      "end": 311.625,
+      "duration": 4.62,
+      "start_srt": "00:05:07,005",
+      "end_srt": "00:05:11,625",
+      "start_txt": "[00:05:07]",
+      "text": "tout. Le deuxième cadeau que je vous offre c'est ce livre. Le"
+    },
+    {
+      "id": 100,
+      "start": 311.625,
+      "end": 315.225,
+      "duration": 3.6,
+      "start_srt": "00:05:11,625",
+      "end_srt": "00:05:15,225",
+      "start_txt": "[00:05:11]",
+      "text": "titre c'est un médecin atypique. C'est certainement"
+    },
+    {
+      "id": 101,
+      "start": 315.225,
+      "end": 318.765,
+      "duration": 3.54,
+      "start_srt": "00:05:15,225",
+      "end_srt": "00:05:18,765",
+      "start_txt": "[00:05:15]",
+      "text": "l'un de mes meilleurs livres parce que dans ce livre je"
+    },
+    {
+      "id": 102,
+      "start": 318.765,
+      "end": 322.605,
+      "duration": 3.84,
+      "start_srt": "00:05:18,765",
+      "end_srt": "00:05:22,605",
+      "start_txt": "[00:05:18]",
+      "text": "raconte mon parcours. Je partage mon expérience. Je"
+    },
+    {
+      "id": 103,
+      "start": 322.605,
+      "end": 325.665,
+      "duration": 3.06,
+      "start_srt": "00:05:22,605",
+      "end_srt": "00:05:25,665",
+      "start_txt": "[00:05:22]",
+      "text": "présente mes échecs et je permets à toutes les personnes"
+    },
+    {
+      "id": 104,
+      "start": 325.665,
+      "end": 329.505,
+      "duration": 3.84,
+      "start_srt": "00:05:25,665",
+      "end_srt": "00:05:29,505",
+      "start_txt": "[00:05:25]",
+      "text": "qui veulent s'inspirer de mon parcours, de pouvoir faire"
+    },
+    {
+      "id": 105,
+      "start": 329.505,
+      "end": 332.985,
+      "duration": 3.48,
+      "start_srt": "00:05:29,505",
+      "end_srt": "00:05:32,985",
+      "start_txt": "[00:05:29]",
+      "text": "beaucoup mieux que moi. C'est un livre qui est écrit de"
+    },
+    {
+      "id": 106,
+      "start": 332.985,
+      "end": 338.365,
+      "duration": 5.38,
+      "start_srt": "00:05:32,985",
+      "end_srt": "00:05:38,365",
+      "start_txt": "[00:05:32]",
+      "text": "manière assez simple, facile à lire vous allez beaucoup"
+    },
+    {
+      "id": 107,
+      "start": 338.365,
+      "end": 342.385,
+      "duration": 4.02,
+      "start_srt": "00:05:38,365",
+      "end_srt": "00:05:42,385",
+      "start_txt": "[00:05:38]",
+      "text": "rigoler en lisant parce qu'il y a beaucoup d'anecdotes donc"
+    },
+    {
+      "id": 108,
+      "start": 342.385,
+      "end": 345.745,
+      "duration": 3.36,
+      "start_srt": "00:05:42,385",
+      "end_srt": "00:05:45,745",
+      "start_txt": "[00:05:42]",
+      "text": "vous allez avoir ce livre comme deuxième cadeau et le dernier"
+    },
+    {
+      "id": 109,
+      "start": 345.745,
+      "end": 349.765,
+      "duration": 4.02,
+      "start_srt": "00:05:45,745",
+      "end_srt": "00:05:49,765",
+      "start_txt": "[00:05:45]",
+      "text": "cadeau que vous allez recevoir c'est une adhésion à notre"
+    },
+    {
+      "id": 110,
+      "start": 349.765,
+      "end": 353.845,
+      "duration": 4.08,
+      "start_srt": "00:05:49,765",
+      "end_srt": "00:05:53,845",
+      "start_txt": "[00:05:49]",
+      "text": "groupe qui s'appelle Propulsion. Propulsion c'est un"
+    },
+    {
+      "id": 111,
+      "start": 353.845,
+      "end": 356.845,
+      "duration": 3.0,
+      "start_srt": "00:05:53,845",
+      "end_srt": "00:05:56,845",
+      "start_txt": "[00:05:53]",
+      "text": "groupe que nous avons créé, il y a de cela plusieurs mois"
+    },
+    {
+      "id": 112,
+      "start": 356.845,
+      "end": 360.385,
+      "duration": 3.54,
+      "start_srt": "00:05:56,845",
+      "end_srt": "00:06:00,385",
+      "start_txt": "[00:05:56]",
+      "text": "déjà. C'est un groupe WhatsApp dans lequel aujourd'hui nous"
+    },
+    {
+      "id": 113,
+      "start": 360.385,
+      "end": 364.465,
+      "duration": 4.08,
+      "start_srt": "00:06:00,385",
+      "end_srt": "00:06:04,465",
+      "start_txt": "[00:06:00]",
+      "text": "sommes plus de 300 membres et à l'intérieur de ce groupe nous"
+    },
+    {
+      "id": 114,
+      "start": 364.465,
+      "end": 369.085,
+      "duration": 4.62,
+      "start_srt": "00:06:04,465",
+      "end_srt": "00:06:09,085",
+      "start_txt": "[00:06:04]",
+      "text": "travaillons ensemble pour être propulsé vers le sommet. Tous"
+    },
+    {
+      "id": 115,
+      "start": 369.085,
+      "end": 373.265,
+      "duration": 4.18,
+      "start_srt": "00:06:09,085",
+      "end_srt": "00:06:13,265",
+      "start_txt": "[00:06:09]",
+      "text": "les jours je partage des chroniques, des conseils, une"
+    },
+    {
+      "id": 116,
+      "start": 373.265,
+      "end": 375.725,
+      "duration": 2.46,
+      "start_srt": "00:06:13,265",
+      "end_srt": "00:06:15,725",
+      "start_txt": "[00:06:13]",
+      "text": "fois par semaine le groupe est ouvert pour permettre aux"
+    },
+    {
+      "id": 117,
+      "start": 375.725,
+      "end": 378.545,
+      "duration": 2.82,
+      "start_srt": "00:06:15,725",
+      "end_srt": "00:06:18,545",
+      "start_txt": "[00:06:15]",
+      "text": "membres de faire la promotion de leurs activités, de parler"
+    },
+    {
+      "id": 118,
+      "start": 378.545,
+      "end": 381.425,
+      "duration": 2.88,
+      "start_srt": "00:06:18,545",
+      "end_srt": "00:06:21,425",
+      "start_txt": "[00:06:18]",
+      "text": "de leurs produits, de leurs services, de poser des"
+    },
+    {
+      "id": 119,
+      "start": 381.425,
+      "end": 384.725,
+      "duration": 3.3,
+      "start_srt": "00:06:21,425",
+      "end_srt": "00:06:24,725",
+      "start_txt": "[00:06:21]",
+      "text": "questions afin que nous puissions y répondre tous les"
+    },
+    {
+      "id": 120,
+      "start": 384.725,
+      "end": 388.145,
+      "duration": 3.42,
+      "start_srt": "00:06:24,725",
+      "end_srt": "00:06:28,145",
+      "start_txt": "[00:06:24]",
+      "text": "vendredis à vingt heures. Nous avons une master class en ligne"
+    },
+    {
+      "id": 121,
+      "start": 388.145,
+      "end": 392.165,
+      "duration": 4.02,
+      "start_srt": "00:06:28,145",
+      "end_srt": "00:06:32,165",
+      "start_txt": "[00:06:28]",
+      "text": "sur un thème en général de deux à 3 heures de temps pour"
+    },
+    {
+      "id": 122,
+      "start": 392.165,
+      "end": 395.185,
+      "duration": 3.02,
+      "start_srt": "00:06:32,165",
+      "end_srt": "00:06:35,185",
+      "start_txt": "[00:06:32]",
+      "text": "permettre aux membres de continuellement se former,"
+    },
+    {
+      "id": 123,
+      "start": 395.185,
+      "end": 399.465,
+      "duration": 4.28,
+      "start_srt": "00:06:35,185",
+      "end_srt": "00:06:39,465",
+      "start_txt": "[00:06:35]",
+      "text": "s'améliorer, tendre vers l'excellence. Une fois par nous"
+    },
+    {
+      "id": 124,
+      "start": 399.465,
+      "end": 402.285,
+      "duration": 2.82,
+      "start_srt": "00:06:39,465",
+      "end_srt": "00:06:42,285",
+      "start_txt": "[00:06:39]",
+      "text": "partageons dans le groupe la base de donner des membres du"
+    },
+    {
+      "id": 125,
+      "start": 402.285,
+      "end": 404.925,
+      "duration": 2.64,
+      "start_srt": "00:06:42,285",
+      "end_srt": "00:06:44,925",
+      "start_txt": "[00:06:42]",
+      "text": "groupe pour permettre aux membres de pouvoir faire du"
+    },
+    {
+      "id": 126,
+      "start": 404.925,
+      "end": 408.885,
+      "duration": 3.96,
+      "start_srt": "00:06:44,925",
+      "end_srt": "00:06:48,885",
+      "start_txt": "[00:06:44]",
+      "text": "networking trouver les partenaires des clients, des"
+    },
+    {
+      "id": 127,
+      "start": 408.885,
+      "end": 411.765,
+      "duration": 2.88,
+      "start_srt": "00:06:48,885",
+      "end_srt": "00:06:51,765",
+      "start_txt": "[00:06:48]",
+      "text": "investisseurs et comprendre comment est-ce qu'on peut"
+    },
+    {
+      "id": 128,
+      "start": 411.765,
+      "end": 415.425,
+      "duration": 3.66,
+      "start_srt": "00:06:51,765",
+      "end_srt": "00:06:55,425",
+      "start_txt": "[00:06:51]",
+      "text": "utiliser ces informations pour pouvoir être propulsé vers le"
+    },
+    {
+      "id": 129,
+      "start": 415.425,
+      "end": 418.425,
+      "duration": 3.0,
+      "start_srt": "00:06:55,425",
+      "end_srt": "00:06:58,425",
+      "start_txt": "[00:06:55]",
+      "text": "sommet et surtout c'est un groupe d'entraide, c'est un"
+    },
+    {
+      "id": 130,
+      "start": 418.425,
+      "end": 421.365,
+      "duration": 2.94,
+      "start_srt": "00:06:58,425",
+      "end_srt": "00:07:01,365",
+      "start_txt": "[00:06:58]",
+      "text": "groupe dans lequel nous partageons nos difficultés et"
+    },
+    {
+      "id": 131,
+      "start": 421.365,
+      "end": 425.385,
+      "duration": 4.02,
+      "start_srt": "00:07:01,365",
+      "end_srt": "00:07:05,385",
+      "start_txt": "[00:07:01]",
+      "text": "ensemble nos progressons pour pouvoir être beaucoup plus"
+    },
+    {
+      "id": 132,
+      "start": 425.385,
+      "end": 428.705,
+      "duration": 3.32,
+      "start_srt": "00:07:05,385",
+      "end_srt": "00:07:08,705",
+      "start_txt": "[00:07:05]",
+      "text": "performants. Donc voilà les trois cadeaux que je vous offre"
+    },
+    {
+      "id": 133,
+      "start": 428.705,
+      "end": 434.485,
+      "duration": 5.78,
+      "start_srt": "00:07:08,705",
+      "end_srt": "00:07:14,485",
+      "start_txt": "[00:07:08]",
+      "text": "tous ces Trois cadeaux pendant les 48 prochaines heures vont"
+    },
+    {
+      "id": 134,
+      "start": 434.485,
+      "end": 438.985,
+      "duration": 4.5,
+      "start_srt": "00:07:14,485",
+      "end_srt": "00:07:18,985",
+      "start_txt": "[00:07:14]",
+      "text": "vous revenir au prix de 10000 francs. Oui, vous avez très"
+    },
+    {
+      "id": 135,
+      "start": 438.985,
+      "end": 444.325,
+      "duration": 5.34,
+      "start_srt": "00:07:18,985",
+      "end_srt": "00:07:24,325",
+      "start_txt": "[00:07:18]",
+      "text": "bien compris. Le cadeau un, le cadeau de et le cadeau trois,"
+    },
+    {
+      "id": 136,
+      "start": 444.325,
+      "end": 449.245,
+      "duration": 4.92,
+      "start_srt": "00:07:24,325",
+      "end_srt": "00:07:29,245",
+      "start_txt": "[00:07:24]",
+      "text": "les trois cadeaux au prix de dix-mille francs ou de 25 euros"
+    },
+    {
+      "id": 137,
+      "start": 449.245,
+      "end": 452.905,
+      "duration": 3.66,
+      "start_srt": "00:07:29,245",
+      "end_srt": "00:07:32,905",
+      "start_txt": "[00:07:29]",
+      "text": "pour les personnes qui résident à l'extérieur du Cameroun."
+    },
+    {
+      "id": 138,
+      "start": 452.905,
+      "end": 456.205,
+      "duration": 3.3,
+      "start_srt": "00:07:32,905",
+      "end_srt": "00:07:36,205",
+      "start_txt": "[00:07:32]",
+      "text": "C'est ma manière de vous témoigner ma gratitude. C'est"
+    },
+    {
+      "id": 139,
+      "start": 456.205,
+      "end": 459.745,
+      "duration": 3.54,
+      "start_srt": "00:07:36,205",
+      "end_srt": "00:07:39,745",
+      "start_txt": "[00:07:36]",
+      "text": "ma manière de vous montrer à quel point votre soutien m'a"
+    },
+    {
+      "id": 140,
+      "start": 459.745,
+      "end": 462.865,
+      "duration": 3.12,
+      "start_srt": "00:07:39,745",
+      "end_srt": "00:07:42,865",
+      "start_txt": "[00:07:39]",
+      "text": "permis de me développer et de rester résilient. C'est ma"
+    },
+    {
+      "id": 141,
+      "start": 462.865,
+      "end": 465.505,
+      "duration": 2.64,
+      "start_srt": "00:07:42,865",
+      "end_srt": "00:07:45,505",
+      "start_txt": "[00:07:42]",
+      "text": "manière de permettre aux personnes qui n'ont pas les"
+    },
+    {
+      "id": 142,
+      "start": 465.505,
+      "end": 468.865,
+      "duration": 3.36,
+      "start_srt": "00:07:45,505",
+      "end_srt": "00:07:48,865",
+      "start_txt": "[00:07:45]",
+      "text": "moyens de bénéficier de mes services au moins une fois"
+    },
+    {
+      "id": 143,
+      "start": 468.865,
+      "end": 473.365,
+      "duration": 4.5,
+      "start_srt": "00:07:48,865",
+      "end_srt": "00:07:53,365",
+      "start_txt": "[00:07:48]",
+      "text": "durant cette année de pouvoir sacrifier quelques bières pour"
+    },
+    {
+      "id": 144,
+      "start": 473.365,
+      "end": 477.385,
+      "duration": 4.02,
+      "start_srt": "00:07:53,365",
+      "end_srt": "00:07:57,385",
+      "start_txt": "[00:07:53]",
+      "text": "obtenir un cadeau spécial afin de débuter l'année"
+    },
+    {
+      "id": 145,
+      "start": 477.385,
+      "end": 480.445,
+      "duration": 3.06,
+      "start_srt": "00:07:57,385",
+      "end_srt": "00:08:00,445",
+      "start_txt": "[00:07:57]",
+      "text": "deux-mille-vingt-six de la meilleure des manières. Je vais"
+    },
+    {
+      "id": 146,
+      "start": 480.445,
+      "end": 483.205,
+      "duration": 2.76,
+      "start_srt": "00:08:00,445",
+      "end_srt": "00:08:03,205",
+      "start_txt": "[00:08:00]",
+      "text": "laisser un lien dans la description de cette vidéo en"
+    },
+    {
+      "id": 147,
+      "start": 483.205,
+      "end": 487.045,
+      "duration": 3.84,
+      "start_srt": "00:08:03,205",
+      "end_srt": "00:08:07,045",
+      "start_txt": "[00:08:03]",
+      "text": "commentaire et dans ma bio. Vous cliquez dessus vous"
+    },
+    {
+      "id": 148,
+      "start": 487.045,
+      "end": 490.045,
+      "duration": 3.0,
+      "start_srt": "00:08:07,045",
+      "end_srt": "00:08:10,045",
+      "start_txt": "[00:08:07]",
+      "text": "remplissez le formulaire. Nous allons vous contacter pour vous"
+    },
+    {
+      "id": 149,
+      "start": 490.045,
+      "end": 492.865,
+      "duration": 2.82,
+      "start_srt": "00:08:10,045",
+      "end_srt": "00:08:12,865",
+      "start_txt": "[00:08:10]",
+      "text": "envoyer nos moyens de paiement et une fois que vous allez"
+    },
+    {
+      "id": 150,
+      "start": 492.865,
+      "end": 496.525,
+      "duration": 3.66,
+      "start_srt": "00:08:12,865",
+      "end_srt": "00:08:16,525",
+      "start_txt": "[00:08:12]",
+      "text": "payer les 10000 francs ou les 25 euros pour les personnes à"
+    },
+    {
+      "id": 151,
+      "start": 496.525,
+      "end": 499.345,
+      "duration": 2.82,
+      "start_srt": "00:08:16,525",
+      "end_srt": "00:08:19,345",
+      "start_txt": "[00:08:16]",
+      "text": "l'extérieur du Cameroun, vous allez immédiatement recevoir"
+    },
+    {
+      "id": 152,
+      "start": 499.345,
+      "end": 504.285,
+      "duration": 4.94,
+      "start_srt": "00:08:19,345",
+      "end_srt": "00:08:24,285",
+      "start_txt": "[00:08:19]",
+      "text": "les trois cadeaux. Le lien avoir accès aux 12 formations"
+    },
+    {
+      "id": 153,
+      "start": 504.285,
+      "end": 510.145,
+      "duration": 5.86,
+      "start_srt": "00:08:24,285",
+      "end_srt": "00:08:30,145",
+      "start_txt": "[00:08:24]",
+      "text": "le livre Un médecin atypique et enfin une adhésion à notre"
+    },
+    {
+      "id": 154,
+      "start": 510.145,
+      "end": 514.845,
+      "duration": 4.7,
+      "start_srt": "00:08:30,145",
+      "end_srt": "00:08:34,845",
+      "start_txt": "[00:08:30]",
+      "text": "groupe propulsion. En 2026, je vous prépare les choses"
+    },
+    {
+      "id": 155,
+      "start": 514.845,
+      "end": 517.645,
+      "duration": 2.8,
+      "start_srt": "00:08:34,845",
+      "end_srt": "00:08:37,645",
+      "start_txt": "[00:08:34]",
+      "text": "exceptionnelles, trop parler ces maladies, vous allez"
+    },
+    {
+      "id": 156,
+      "start": 517.645,
+      "end": 520.945,
+      "duration": 3.3,
+      "start_srt": "00:08:37,645",
+      "end_srt": "00:08:40,945",
+      "start_txt": "[00:08:37]",
+      "text": "découvrir progressivement ce que nous préparons pour vous."
+    },
+    {
+      "id": 157,
+      "start": 520.945,
+      "end": 524.845,
+      "duration": 3.9,
+      "start_srt": "00:08:40,945",
+      "end_srt": "00:08:44,845",
+      "start_txt": "[00:08:40]",
+      "text": "Merci pour votre soutien, merci pour votre accompagnement et à"
+    },
+    {
+      "id": 158,
+      "start": 524.845,
+      "end": 528.325,
+      "duration": 3.48,
+      "start_srt": "00:08:44,845",
+      "end_srt": "00:08:48,325",
+      "start_txt": "[00:08:44]",
+      "text": "très bientôt pour de nouvelles aventures. Dans la vie on peut"
+    },
+    {
+      "id": 159,
+      "start": 528.325,
+      "end": 531.805,
+      "duration": 3.48,
+      "start_srt": "00:08:48,325",
+      "end_srt": "00:08:51,805",
+      "start_txt": "[00:08:48]",
+      "text": "choisir de voir soit des murs, soit des escaliers. Et moi j'ai"
+    },
+    {
+      "id": 160,
+      "start": 531.805,
+      "end": 537.045,
+      "duration": 5.24,
+      "start_srt": "00:08:51,805",
+      "end_srt": "00:08:57,045",
+      "start_txt": "[00:08:51]",
+      "text": "choisi va se dérouler dans la ville de"
+    },
+    {
+      "id": 161,
+      "start": 539.905,
+      "end": 546.985,
+      "duration": 7.08,
+      "start_srt": "00:08:59,905",
+      "end_srt": "00:09:06,985",
+      "start_txt": "[00:08:59]",
+      "text": "ensemble plus puissant. Prenez conscience. Intéressons-nous au"
+    },
+    {
+      "id": 162,
+      "start": 546.985,
+      "end": 550.705,
+      "duration": 3.72,
+      "start_srt": "00:09:06,985",
+      "end_srt": "00:09:10,705",
+      "start_txt": "[00:09:06]",
+      "text": "travail et cherchons la connaissance. Cherchons la"
+    },
+    {
+      "id": 163,
+      "start": 550.705,
+      "end": 554.845,
+      "duration": 4.14,
+      "start_srt": "00:09:10,705",
+      "end_srt": "00:09:14,845",
+      "start_txt": "[00:09:10]",
+      "text": "compétence. Se distraire c'est bien. Mais on doit travailler"
+    },
+    {
+      "id": 164,
+      "start": 554.845,
+      "end": 559.665,
+      "duration": 4.82,
+      "start_srt": "00:09:14,845",
+      "end_srt": "00:09:19,665",
+      "start_txt": "[00:09:14]",
+      "text": "d'abord. Avant de se distraire."
+    }
+  ]
+}
