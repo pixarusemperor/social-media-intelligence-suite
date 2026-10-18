@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:02,640
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,680 --> 00:00:04,720
+going to show you how to create
+
+3
+00:00:02,640 --> 00:00:06,880
+unlimited hooks with AI that print
+
+4
+00:00:04,720 --> 00:00:08,880
+money. First, go to chatbt.com. Select
+
+5
+00:00:06,880 --> 00:00:10,960
+this plus icon and then select agent
+
+6
+00:00:08,880 --> 00:00:12,480
+mode. Next, paste in this exact prompt
+
+7
+00:00:10,960 --> 00:00:14,720
+and hit enter. When that's done, you're
+
+8
+00:00:12,480 --> 00:00:16,640
+going to get a list of 20 quotes. Copy
+
+9
+00:00:14,720 --> 00:00:19,440
+that entire list of quotes. Next, go to
+
+10
+00:00:16,640 --> 00:00:21,840
+claude.ai. Make sure you have sonnet 4.5
+
+11
+00:00:19,440 --> 00:00:22,960
+selected and paste in this exact prompt.
+
+12
+00:00:21,840 --> 00:00:24,800
+Next, you're going to attach three
+
+13
+00:00:22,960 --> 00:00:26,080
+documents to the bottom of this claude
+
+14
+00:00:24,800 --> 00:00:27,760
+message before you select enter.
+
+15
+00:00:26,080 --> 00:00:29,600
+Finally, at the end of this message,
+
+16
+00:00:27,760 --> 00:00:31,680
+paste the list of the 20 quotes that you
+
+17
+00:00:29,600 --> 00:00:33,040
+got from our first chat GBT step. Now,
+
+18
+00:00:31,680 --> 00:00:35,040
+you can select enter. And just like
+
+19
+00:00:33,040 --> 00:00:36,560
+that, you already have 20 fantastic
+
+20
+00:00:35,040 --> 00:00:38,160
+hooks and headlines that you can use in
+
+21
+00:00:36,560 --> 00:00:40,000
+your marketing. And if you want more,
+
+22
+00:00:38,160 --> 00:00:41,600
+just ask. If you want the entire SOP
+
+23
+00:00:40,000 --> 00:00:43,040
+with all the prompts and resources you
+
+24
+00:00:41,600 --> 00:00:45,600
+need to execute this, just go to my
+
+25
+00:00:43,040 --> 00:00:47,120
+Instagram, marksbrands, and DM me the
+
+26
+00:00:45,600 --> 00:00:50,480
+word chat, and I'll send it to you for
+
+27
+00:00:47,120 --> 00:00:50,480
+free. See you in the next video. Peace.
+

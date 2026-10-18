@@ -1,0 +1,1816 @@
+1
+00:00:00,000 --> 00:00:02,120
+Hey guys, it's Mark here. In this video,
+
+2
+00:00:01,240 --> 00:00:04,200
+I'm going to show you how to test
+
+3
+00:00:02,120 --> 00:00:05,720
+Facebook Ads post Andromeda update.
+
+4
+00:00:04,200 --> 00:00:07,640
+First, I'll be walking you through my
+
+5
+00:00:05,720 --> 00:00:08,960
+personal Facebook Ads testing structure.
+
+6
+00:00:07,640 --> 00:00:11,040
+Second, I'm going to show you how to
+
+7
+00:00:08,960 --> 00:00:13,000
+actually set up this exact structure
+
+8
+00:00:11,040 --> 00:00:14,480
+within your ad account. And third, I'm
+
+9
+00:00:13,000 --> 00:00:16,280
+going to tell you why this structure
+
+10
+00:00:14,480 --> 00:00:18,440
+works so freaking well. So, the
+
+11
+00:00:16,280 --> 00:00:20,840
+Andromeda update basically flipped my
+
+12
+00:00:18,440 --> 00:00:23,280
+entire creative strategy on its head
+
+13
+00:00:20,840 --> 00:00:26,480
+because pre-Andromeda, I was very heavy
+
+14
+00:00:23,280 --> 00:00:27,680
+on testing a [ __ ] load of variations.
+
+15
+00:00:26,480 --> 00:00:29,040
+So, when you're testing ads, you can
+
+16
+00:00:27,680 --> 00:00:30,400
+kind of put them into two categories.
+
+17
+00:00:29,040 --> 00:00:31,720
+You can put them into a lot more, but
+
+18
+00:00:30,400 --> 00:00:33,800
+generally the way that I think about it
+
+19
+00:00:31,720 --> 00:00:36,160
+is you have your variations and you have
+
+20
+00:00:33,800 --> 00:00:38,760
+your new concept. So, if you can't tell
+
+21
+00:00:36,160 --> 00:00:41,520
+by the name, variations are very small
+
+22
+00:00:38,760 --> 00:00:43,880
+changes to existing winning ads. New
+
+23
+00:00:41,520 --> 00:00:45,160
+concepts are basically completely unique
+
+24
+00:00:43,880 --> 00:00:46,560
+creative material that you're bringing
+
+25
+00:00:45,160 --> 00:00:48,200
+into your ad account. So, like I said,
+
+26
+00:00:46,560 --> 00:00:49,720
+it flipped it on its head. What I used
+
+27
+00:00:48,200 --> 00:00:51,840
+to do was the majority of the ads that I
+
+28
+00:00:49,720 --> 00:00:53,720
+was launching, roughly about like 80% I
+
+29
+00:00:51,840 --> 00:00:55,240
+would say, was actually variations
+
+30
+00:00:53,720 --> 00:00:56,760
+because once you find a winner, you can
+
+31
+00:00:55,240 --> 00:00:58,320
+just create winner after winner after
+
+32
+00:00:56,760 --> 00:00:59,920
+winner after winner and skyrocket your
+
+33
+00:00:58,320 --> 00:01:02,120
+win rate because you're just making
+
+34
+00:00:59,920 --> 00:01:03,400
+these tiny changes to your ads. And of
+
+35
+00:01:02,120 --> 00:01:05,720
+course, new concepts would have been the
+
+36
+00:01:03,400 --> 00:01:07,400
+other 20%. But now, this has basically
+
+37
+00:01:05,720 --> 00:01:10,800
+been completely flipped to the point
+
+38
+00:01:07,400 --> 00:01:13,840
+where my creatives are 80% new concepts
+
+39
+00:01:10,800 --> 00:01:15,720
+and 20% variations. And when I'm testing
+
+40
+00:01:13,840 --> 00:01:18,080
+new ads from like a brand new product,
+
+41
+00:01:15,720 --> 00:01:19,920
+let's say, I am pushing much harder on
+
+42
+00:01:18,080 --> 00:01:21,560
+testing new concepts instead of one
+
+43
+00:01:19,920 --> 00:01:22,880
+concept with a bunch of variations. So
+
+44
+00:01:21,560 --> 00:01:25,560
+first, let's talk about the structure.
+
+45
+00:01:22,880 --> 00:01:28,440
+To launch new ads, I recommend typically
+
+46
+00:01:25,560 --> 00:01:30,720
+using a CBO. CBO stands for campaign
+
+47
+00:01:28,440 --> 00:01:32,560
+budget optimization and sounds like a
+
+48
+00:01:30,720 --> 00:01:34,080
+big fancy word. All it means is that you
+
+49
+00:01:32,560 --> 00:01:35,800
+set the budget at the campaign level
+
+50
+00:01:34,080 --> 00:01:37,680
+instead of ad set level and Facebook
+
+51
+00:01:35,800 --> 00:01:39,880
+will determine how to spend your
+
+52
+00:01:37,680 --> 00:01:41,520
+campaign budget across the various ad
+
+53
+00:01:39,880 --> 00:01:42,920
+set. Now, I'm going to come back to the
+
+54
+00:01:41,520 --> 00:01:45,080
+actual budget and how you want to
+
+55
+00:01:42,920 --> 00:01:47,240
+calculate how much you should spend. But
+
+56
+00:01:45,080 --> 00:01:49,360
+inside of your CBO, you're going to have
+
+57
+00:01:47,240 --> 00:01:50,880
+multiple ad sets. The number ultimately
+
+58
+00:01:49,360 --> 00:01:53,000
+is up to you, but if you're launching
+
+59
+00:01:50,880 --> 00:01:54,760
+something new, I recommend at least two
+
+60
+00:01:53,000 --> 00:01:57,560
+or three ad sets in here. So again, back
+
+61
+00:01:54,760 --> 00:01:58,560
+to a CBO, if I set the budget at a $100,
+
+62
+00:01:57,560 --> 00:02:02,120
+it doesn't mean that it's going to
+
+63
+00:01:58,560 --> 00:02:03,880
+perfectly spend $33 here, $33 here, and
+
+64
+00:02:02,120 --> 00:02:06,760
+$33 here. No, of course not. It could
+
+65
+00:02:03,880 --> 00:02:08,600
+quite literally spend $99
+
+66
+00:02:06,760 --> 00:02:10,120
+in this one ad set and 50 cents here and
+
+67
+00:02:08,600 --> 00:02:11,840
+50 cents here. Unlikely to happen, but a
+
+68
+00:02:10,120 --> 00:02:13,600
+lot of times one ad set does cannibalize
+
+69
+00:02:11,840 --> 00:02:16,000
+things, but that's actually okay. This
+
+70
+00:02:13,600 --> 00:02:18,160
+entire philosophy of how I structure my
+
+71
+00:02:16,000 --> 00:02:19,640
+ad testing centers around letting
+
+72
+00:02:18,160 --> 00:02:21,360
+Facebook do the majority of the heavy
+
+73
+00:02:19,640 --> 00:02:22,800
+lifting for you. So, inside each of
+
+74
+00:02:21,360 --> 00:02:24,480
+these ad sets, the ad set level is
+
+75
+00:02:22,800 --> 00:02:26,760
+typically where you set your targeting.
+
+76
+00:02:24,480 --> 00:02:28,360
+So, who are you really going after? And
+
+77
+00:02:26,760 --> 00:02:30,920
+what I do inside of these ad sets is I
+
+78
+00:02:28,360 --> 00:02:32,680
+keep them completely broad, which means
+
+79
+00:02:30,920 --> 00:02:35,560
+Advantage Plus placements. Typically,
+
+80
+00:02:32,680 --> 00:02:37,880
+I'm running in terms of ages 18 to 65
+
+81
+00:02:35,560 --> 00:02:39,440
+plus and I'm running male and female. Of
+
+82
+00:02:37,880 --> 00:02:40,760
+course, if you're only selling to one
+
+83
+00:02:39,440 --> 00:02:41,720
+demographic, then select the one that's
+
+84
+00:02:40,760 --> 00:02:43,000
+most relevant to you. But if you're
+
+85
+00:02:41,720 --> 00:02:44,160
+selling to both, keep it broad. Now, at
+
+86
+00:02:43,000 --> 00:02:46,360
+this point, you may be wondering, "Mark,
+
+87
+00:02:44,160 --> 00:02:47,920
+why do you have three ad sets if they're
+
+88
+00:02:46,360 --> 00:02:49,600
+all going to be identical? They're all
+
+89
+00:02:47,920 --> 00:02:51,720
+broad, they're all Advantage Plus, and
+
+90
+00:02:49,600 --> 00:02:53,160
+they're all 18-65 plus. Everything is
+
+91
+00:02:51,720 --> 00:02:54,720
+broad. Why do you have three of them?"
+
+92
+00:02:53,160 --> 00:02:56,280
+Well, the reason I have three is because
+
+93
+00:02:54,720 --> 00:02:58,600
+they're not actually identical. You see,
+
+94
+00:02:56,280 --> 00:03:00,360
+inside each of these ad sets, if this is
+
+95
+00:02:58,600 --> 00:03:01,440
+ad set one, this is ad set two and this
+
+96
+00:03:00,360 --> 00:03:03,520
+is ad set three, I'm actually going to
+
+97
+00:03:01,440 --> 00:03:05,720
+have three different creatives in each
+
+98
+00:03:03,520 --> 00:03:07,120
+of these three ad sets. Again, I'm just
+
+99
+00:03:05,720 --> 00:03:09,360
+using three. If you want to have more
+
+100
+00:03:07,120 --> 00:03:11,040
+ads per ad set, you can. But here's the
+
+101
+00:03:09,360 --> 00:03:14,200
+point that I'm trying to make. You want
+
+102
+00:03:11,040 --> 00:03:16,840
+to segment these ad sets by ad concept.
+
+103
+00:03:14,200 --> 00:03:19,600
+So, let's say ad set one is ad concept
+
+104
+00:03:16,840 --> 00:03:21,080
+one, ad set two is ad concept two, and
+
+105
+00:03:19,600 --> 00:03:23,360
+ad set three is ad concept three. And
+
+106
+00:03:21,080 --> 00:03:25,920
+then inside, let's say you have three
+
+107
+00:03:23,360 --> 00:03:27,960
+creatives each, which these three would
+
+108
+00:03:25,920 --> 00:03:29,720
+actually be variations of that one
+
+109
+00:03:27,960 --> 00:03:31,800
+concept, okay? I'll explain kind of what
+
+110
+00:03:29,720 --> 00:03:35,040
+I mean, but this would be a total of, if
+
+111
+00:03:31,800 --> 00:03:38,040
+we count the actual ads, 1 2 3 4 5 6 7 8
+
+112
+00:03:35,040 --> 00:03:39,720
+9 total ads for this ad launch. But
+
+113
+00:03:38,040 --> 00:03:43,360
+these three ads are going to be
+
+114
+00:03:39,720 --> 00:03:44,640
+variations of this one new concept. So,
+
+115
+00:03:43,360 --> 00:03:46,240
+the reason why I said you can have as
+
+116
+00:03:44,640 --> 00:03:48,560
+many ad sets as you want in here is cuz
+
+117
+00:03:46,240 --> 00:03:50,720
+you could have five ad sets in here, but
+
+118
+00:03:48,560 --> 00:03:52,920
+only one ad per ad set and each one is a
+
+119
+00:03:50,720 --> 00:03:54,840
+new concept. I think the sweet spot is
+
+120
+00:03:52,920 --> 00:03:57,160
+not one. I think it's like anywhere from
+
+121
+00:03:54,840 --> 00:03:59,680
+three to 10, but [ __ ] I have ad sets
+
+122
+00:03:57,160 --> 00:04:01,600
+running that have 20 plus ads in there.
+
+123
+00:03:59,680 --> 00:04:03,800
+So, you know, 30 plus ads, 50 plus ads,
+
+124
+00:04:01,600 --> 00:04:05,840
+some of them. There isn't a rule here,
+
+125
+00:04:03,800 --> 00:04:07,880
+okay? I'll tell you what I recommend is
+
+126
+00:04:05,840 --> 00:04:09,920
+anywhere from three to five ad sets,
+
+127
+00:04:07,880 --> 00:04:11,960
+which means three to five concepts,
+
+128
+00:04:09,920 --> 00:04:14,720
+completely unique concepts, and anywhere
+
+129
+00:04:11,960 --> 00:04:16,080
+from two to five variations in each of
+
+130
+00:04:14,720 --> 00:04:18,960
+those ad set. And by the way, this is
+
+131
+00:04:16,080 --> 00:04:21,440
+mostly relevant to images and videos. I
+
+132
+00:04:18,960 --> 00:04:23,280
+typically do my testing with images cuz
+
+133
+00:04:21,440 --> 00:04:24,280
+you can typically just do it faster. But
+
+134
+00:04:23,280 --> 00:04:26,480
+if you want to test with images and
+
+135
+00:04:24,280 --> 00:04:29,120
+videos, you can. I would recommend
+
+136
+00:04:26,480 --> 00:04:31,320
+segmenting them in the ad set or even in
+
+137
+00:04:29,120 --> 00:04:33,160
+a completely different CBO because
+
+138
+00:04:31,320 --> 00:04:35,600
+typically what I see is if you throw a
+
+139
+00:04:33,160 --> 00:04:37,600
+bunch of images and videos in the same
+
+140
+00:04:35,600 --> 00:04:38,920
+ad set, one of them will cannibalize
+
+141
+00:04:37,600 --> 00:04:40,240
+everything else. Like all the videos
+
+142
+00:04:38,920 --> 00:04:42,120
+will get spent and the images will get
+
+143
+00:04:40,240 --> 00:04:43,520
+no spend, which of course you don't want
+
+144
+00:04:42,120 --> 00:04:45,120
+cuz you still want to make sure you test
+
+145
+00:04:43,520 --> 00:04:47,120
+those images, right? So, I'll do a
+
+146
+00:04:45,120 --> 00:04:49,360
+separate CBO if you're going to combine
+
+147
+00:04:47,120 --> 00:04:51,640
+images and videos. For me, I just keep
+
+148
+00:04:49,360 --> 00:04:53,560
+it simple. Just pick one, only videos or
+
+149
+00:04:51,640 --> 00:04:55,000
+only images, and run with that. Now,
+
+150
+00:04:53,560 --> 00:04:57,240
+let's talk about the budget. How do you
+
+151
+00:04:55,000 --> 00:04:58,960
+calculate the budget for a CBO? Well, I
+
+152
+00:04:57,240 --> 00:05:01,520
+have a golden rule that I would have at
+
+153
+00:04:58,960 --> 00:05:04,200
+least $10 allocated out of my total
+
+154
+00:05:01,520 --> 00:05:05,880
+budget per ad in the CBO. So like I
+
+155
+00:05:04,200 --> 00:05:08,680
+said, how many ads do we have in the CBO
+
+156
+00:05:05,880 --> 00:05:11,960
+right now? Well, 1 2 3 4 5 6 7 8 9. If
+
+157
+00:05:08,680 --> 00:05:15,840
+we take nine and multiply it by $10,
+
+158
+00:05:11,960 --> 00:05:18,040
+that is a total of $90 a day, a day,
+
+159
+00:05:15,840 --> 00:05:19,680
+yes, that you want to run this CBO ad.
+
+160
+00:05:18,040 --> 00:05:22,000
+So, you take the number of ads across
+
+161
+00:05:19,680 --> 00:05:24,200
+all of the ad sets total, multiply that
+
+162
+00:05:22,000 --> 00:05:26,080
+by 10, and that is going to be the
+
+163
+00:05:24,200 --> 00:05:28,000
+minimum daily budget that you run with.
+
+164
+00:05:26,080 --> 00:05:30,960
+The one exception to this rule is I
+
+165
+00:05:28,000 --> 00:05:32,760
+would never recommend that you run a CBO
+
+166
+00:05:30,960 --> 00:05:34,600
+at less than $50 a day. I don't care
+
+167
+00:05:32,760 --> 00:05:37,320
+what your budget is. If you don't have
+
+168
+00:05:34,600 --> 00:05:39,160
+enough cash set aside to run a $50 a day
+
+169
+00:05:37,320 --> 00:05:40,640
+CBO, you should not be running paid ads.
+
+170
+00:05:39,160 --> 00:05:42,120
+It's my personal opinion. If you don't
+
+171
+00:05:40,640 --> 00:05:43,520
+like it, I do not care. So now that
+
+172
+00:05:42,120 --> 00:05:45,200
+we've gone over the structure, let's
+
+173
+00:05:43,520 --> 00:05:47,040
+actually build this inside of the ad
+
+174
+00:05:45,200 --> 00:05:48,280
+account. So, I've got almost a brand new
+
+175
+00:05:47,040 --> 00:05:50,520
+ad account here. What we're going to do
+
+176
+00:05:48,280 --> 00:05:52,680
+is go select create new campaign. We're
+
+177
+00:05:50,520 --> 00:05:54,280
+going to hit sales and hit continue. I'm
+
+178
+00:05:52,680 --> 00:05:56,120
+not going to go over naming conventions
+
+179
+00:05:54,280 --> 00:05:57,320
+in this particular video, but name it
+
+180
+00:05:56,120 --> 00:05:58,880
+something that makes sense for you at
+
+181
+00:05:57,320 --> 00:06:00,200
+the campaign, ad set, and ad level.
+
+182
+00:05:58,880 --> 00:06:02,520
+Here, we're going to set the campaign
+
+183
+00:06:00,200 --> 00:06:04,240
+budget. Let's use our example to $90 a
+
+184
+00:06:02,520 --> 00:06:06,440
+day and make sure that you have campaign
+
+185
+00:06:04,240 --> 00:06:07,520
+budget selected. Everything else here,
+
+186
+00:06:06,440 --> 00:06:09,560
+we're not going to touch. We're going to
+
+187
+00:06:07,520 --> 00:06:11,120
+keep it exactly as is and move on to the
+
+188
+00:06:09,560 --> 00:06:12,840
+ad set level. Here we are at the ad set
+
+189
+00:06:11,120 --> 00:06:14,960
+level. We're going to have website
+
+190
+00:06:12,840 --> 00:06:16,920
+conversion location. Performance goal is
+
+191
+00:06:14,960 --> 00:06:18,040
+going to be max conversions. Data set is
+
+192
+00:06:16,920 --> 00:06:19,280
+going to be the pixel that you're
+
+193
+00:06:18,040 --> 00:06:20,640
+currently running your traffic to.
+
+194
+00:06:19,280 --> 00:06:22,880
+Conversion event, we are going to be
+
+195
+00:06:20,640 --> 00:06:25,080
+optimizing for purchases. I almost
+
+196
+00:06:22,880 --> 00:06:27,000
+exclusively optimize for purchases and
+
+197
+00:06:25,080 --> 00:06:30,880
+almost exclusively run sales campaigns
+
+198
+00:06:27,000 --> 00:06:32,560
+because anything else is mostly mostly,
+
+199
+00:06:30,880 --> 00:06:33,760
+with very rare exceptions, a complete
+
+200
+00:06:32,560 --> 00:06:36,080
+waste of your time and money. Now, we're
+
+201
+00:06:33,760 --> 00:06:38,360
+going to keep scrolling down. Under the
+
+202
+00:06:36,080 --> 00:06:40,320
+attribution window, I typically do 7-day
+
+203
+00:06:38,360 --> 00:06:41,720
+click and 1-day view and I keep the view
+
+204
+00:06:40,320 --> 00:06:44,520
+through completely turned off. You can
+
+205
+00:06:41,720 --> 00:06:46,200
+do testing on this once you get a little
+
+206
+00:06:44,520 --> 00:06:48,440
+bit more advanced, but initially this is
+
+207
+00:06:46,200 --> 00:06:49,840
+a super standard setup, 7-day click
+
+208
+00:06:48,440 --> 00:06:51,280
+1-day view. Now, onto the budget and
+
+209
+00:06:49,840 --> 00:06:55,360
+schedule. I always schedule my ads for
+
+210
+00:06:51,280 --> 00:06:57,000
+the next day at 6:00 a.m. EST. This
+
+211
+00:06:55,360 --> 00:06:59,080
+account is actually in PSD, but imagine
+
+212
+00:06:57,000 --> 00:07:00,760
+it was in EST. I typically run my ads
+
+213
+00:06:59,080 --> 00:07:02,480
+right around that time to start getting
+
+214
+00:07:00,760 --> 00:07:04,240
+active. Next, what we're going to do is
+
+215
+00:07:02,480 --> 00:07:06,240
+edit the location. So, I do the majority
+
+216
+00:07:04,240 --> 00:07:07,400
+of my testing in the United States.
+
+217
+00:07:06,240 --> 00:07:09,480
+We're just going to search United States
+
+218
+00:07:07,400 --> 00:07:11,400
+here, select it, and remove Singapore,
+
+219
+00:07:09,480 --> 00:07:13,440
+which is there for some reason, and
+
+220
+00:07:11,400 --> 00:07:15,000
+continue to scroll down. Minimum age,
+
+221
+00:07:13,440 --> 00:07:17,160
+you can keep. Languages, I typically
+
+222
+00:07:15,000 --> 00:07:18,800
+keep broad as well in the US because
+
+223
+00:07:17,160 --> 00:07:20,120
+it's an English majority speaking
+
+224
+00:07:18,800 --> 00:07:21,560
+country, at least that's what my
+
+225
+00:07:20,120 --> 00:07:23,520
+customers are going to be buying in. And
+
+226
+00:07:21,560 --> 00:07:25,360
+then finally down here, as I said, we
+
+227
+00:07:23,520 --> 00:07:27,800
+keep it broad. We're going to have the
+
+228
+00:07:25,360 --> 00:07:30,040
+Advantage Plus placements on. So, there
+
+229
+00:07:27,800 --> 00:07:31,280
+is nothing for you to edit within here.
+
+230
+00:07:30,040 --> 00:07:32,560
+You can keep it completely broad, don't
+
+231
+00:07:31,280 --> 00:07:34,080
+touch anything. All right, now we are at
+
+232
+00:07:32,560 --> 00:07:35,640
+the ad level. Once again, apply your
+
+233
+00:07:34,080 --> 00:07:37,000
+naming conventions here. Keep it nice
+
+234
+00:07:35,640 --> 00:07:39,440
+and neat and organized. You're going to
+
+235
+00:07:37,000 --> 00:07:41,920
+have create ad selected, single image or
+
+236
+00:07:39,440 --> 00:07:43,360
+video. You can keep multi-advertiser ad
+
+237
+00:07:41,920 --> 00:07:45,120
+selected. Now, let me tell you this one
+
+238
+00:07:43,360 --> 00:07:47,360
+time. I'm going to upload an ad here
+
+239
+00:07:45,120 --> 00:07:49,840
+just as an example and I'm going to show
+
+240
+00:07:47,360 --> 00:07:52,440
+you how much nonsense Facebook tries to
+
+241
+00:07:49,840 --> 00:07:54,120
+push on you with their updates. I am
+
+242
+00:07:52,440 --> 00:07:55,400
+utterly amazed because I still spend
+
+243
+00:07:54,120 --> 00:07:57,480
+time in my ad accounts every single day,
+
+244
+00:07:55,400 --> 00:08:01,680
+but I'm amazed at how many [ __ ]
+
+245
+00:07:57,480 --> 00:08:01,680
+settings, and that's me putting it
+
+246
+00:08:11,600 --> 00:08:15,400
+very lightly, there are for Facebook to
+
+247
+00:08:13,680 --> 00:08:17,240
+try to take your money. Majority of them
+
+248
+00:08:15,400 --> 00:08:19,120
+are a complete waste of time and money.
+
+249
+00:08:17,240 --> 00:08:20,880
+So, just follow what I do here. This is
+
+250
+00:08:19,120 --> 00:08:22,800
+basically the only setting that it's
+
+251
+00:08:20,880 --> 00:08:23,920
+actually okay to keep it on. And even
+
+252
+00:08:22,800 --> 00:08:25,080
+then, I haven't split tested
+
+253
+00:08:23,920 --> 00:08:26,280
+extensively, but keeping it on
+
+254
+00:08:25,080 --> 00:08:27,640
+personally doesn't hurt. Under
+
+255
+00:08:26,280 --> 00:08:29,280
+destination, you're going to put the
+
+256
+00:08:27,640 --> 00:08:31,320
+website URL that you're driving traffic
+
+257
+00:08:29,280 --> 00:08:33,320
+to. Make sure that this matches the ad
+
+258
+00:08:31,320 --> 00:08:34,880
+the uh if you put your URL in the ad
+
+259
+00:08:33,320 --> 00:08:36,280
+copy as well, make sure that it matches
+
+260
+00:08:34,880 --> 00:08:38,520
+one to one. And also make sure you
+
+261
+00:08:36,280 --> 00:08:40,400
+deselect optimize website destination
+
+262
+00:08:38,520 --> 00:08:42,520
+because if that's on, it will send to
+
+263
+00:08:40,400 --> 00:08:44,040
+traffic outside of that direct domain,
+
+264
+00:08:42,520 --> 00:08:46,240
+which we don't want. Display link, you
+
+265
+00:08:44,040 --> 00:08:48,080
+can keep empty. Browser add-ons, you can
+
+266
+00:08:46,240 --> 00:08:50,040
+keep at none. You don't want to have any
+
+267
+00:08:48,080 --> 00:08:51,360
+add-ons. Now, let's actually upload the
+
+268
+00:08:50,040 --> 00:08:53,160
+creative. Let's say we're running image
+
+269
+00:08:51,360 --> 00:08:55,160
+ads in this case, we go ahead and select
+
+270
+00:08:53,160 --> 00:08:57,040
+image ad. So, as we're going through the
+
+271
+00:08:55,160 --> 00:08:58,400
+creative setup, again, make sure that
+
+272
+00:08:57,040 --> 00:08:59,760
+just about every setting here is turned
+
+273
+00:08:58,400 --> 00:09:01,360
+off. If you want to split test it later
+
+274
+00:08:59,760 --> 00:09:03,200
+down the line, you can. But for me
+
+275
+00:09:01,360 --> 00:09:05,440
+personally, I keep everything off here.
+
+276
+00:09:03,200 --> 00:09:08,240
+So, promo codes is unchecked, branding
+
+277
+00:09:05,440 --> 00:09:09,760
+off, site links off, products off. We're
+
+278
+00:09:08,240 --> 00:09:11,480
+going to hit next and actually upload
+
+279
+00:09:09,760 --> 00:09:12,840
+the creative. And just like that, we got
+
+280
+00:09:11,480 --> 00:09:15,320
+our phenomenal creative there. If you
+
+281
+00:09:12,840 --> 00:09:18,120
+want to take a look, boom, beautiful 10x
+
+282
+00:09:15,320 --> 00:09:19,600
+row ads coming very soon. Now, I don't
+
+283
+00:09:18,120 --> 00:09:20,600
+adjust any of the aspect ratios here.
+
+284
+00:09:19,600 --> 00:09:22,360
+We're going to hit next. Now, you're
+
+285
+00:09:20,600 --> 00:09:24,280
+going to fill in your copy, primary
+
+286
+00:09:22,360 --> 00:09:26,200
+text, the headline, and the description
+
+287
+00:09:24,280 --> 00:09:27,520
+is all there and it's a fantastic
+
+288
+00:09:26,200 --> 00:09:30,760
+message, run more ads. Going to hit
+
+289
+00:09:27,520 --> 00:09:32,520
+next. Image generation, deselect all. It
+
+290
+00:09:30,760 --> 00:09:33,680
+won't even let me deselect it. Now,
+
+291
+00:09:32,520 --> 00:09:35,200
+under enhancements, you want to make
+
+292
+00:09:33,680 --> 00:09:36,320
+sure all of these are turned off. And be
+
+293
+00:09:35,200 --> 00:09:38,080
+careful cuz there's a lot of them. So,
+
+294
+00:09:36,320 --> 00:09:40,000
+you got to scroll down. For example,
+
+295
+00:09:38,080 --> 00:09:41,760
+overlays, turn off, visual touch-ups,
+
+296
+00:09:40,000 --> 00:09:43,640
+music, text improvements, all turned
+
+297
+00:09:41,760 --> 00:09:44,880
+off, animation off as well. All right,
+
+298
+00:09:43,640 --> 00:09:46,960
+there we go. There's our lovely
+
+299
+00:09:44,880 --> 00:09:48,840
+beautiful ad. Let's keep cooking. Keep
+
+300
+00:09:46,960 --> 00:09:50,600
+scrolling down. Call to action, I
+
+301
+00:09:48,840 --> 00:09:53,520
+usually have learn more. I actually have
+
+302
+00:09:50,600 --> 00:09:55,000
+seen a slight lift in learn more versus
+
+303
+00:09:53,520 --> 00:09:56,880
+shop now, but I think most of the time
+
+304
+00:09:55,000 --> 00:09:58,000
+it's pretty trivial. So, depends also
+
+305
+00:09:56,880 --> 00:10:00,240
+what kind of ad you're running. So, I
+
+306
+00:09:58,000 --> 00:10:02,040
+keep it a learn more. If you are going I
+
+307
+00:10:00,240 --> 00:10:03,960
+set this up for one ad, I'll just
+
+308
+00:10:02,040 --> 00:10:05,520
+duplicate it, you know, two times, and
+
+309
+00:10:03,960 --> 00:10:07,200
+I'll go in and edit the creative to
+
+310
+00:10:05,520 --> 00:10:08,840
+change it to a different variation. And
+
+311
+00:10:07,200 --> 00:10:11,320
+after that is created, I'll duplicate
+
+312
+00:10:08,840 --> 00:10:13,640
+this ad set two times, so I have three
+
+313
+00:10:11,320 --> 00:10:15,640
+ad sets in here. The CBO budget is
+
+314
+00:10:13,640 --> 00:10:17,520
+currently set to $90 a day, three ad
+
+315
+00:10:15,640 --> 00:10:20,280
+sets, three concepts, three ads per
+
+316
+00:10:17,520 --> 00:10:21,640
+concept, for a total of nine total ads,
+
+317
+00:10:20,280 --> 00:10:23,400
+as you can see here. And they're all
+
+318
+00:10:21,640 --> 00:10:25,120
+going to be beginning to run tomorrow
+
+319
+00:10:23,400 --> 00:10:26,800
+directly at 6:00 a.m. Eastern. I
+
+320
+00:10:25,120 --> 00:10:28,440
+actually made a separate video to this
+
+321
+00:10:26,800 --> 00:10:30,160
+that is unlisted on my YouTube channel
+
+322
+00:10:28,440 --> 00:10:32,040
+right now, where there's so many
+
+323
+00:10:30,160 --> 00:10:33,520
+questions that come up after you launch
+
+324
+00:10:32,040 --> 00:10:34,920
+the ads. It's like, how do I know when
+
+325
+00:10:33,520 --> 00:10:36,320
+to kill an ad? How do I know when to
+
+326
+00:10:34,920 --> 00:10:37,840
+scale an ad? What if an ad doesn't get
+
+327
+00:10:36,320 --> 00:10:39,200
+spend? I briefly covered that, but it's
+
+328
+00:10:37,840 --> 00:10:41,200
+a little bit more nuanced. What about
+
+329
+00:10:39,200 --> 00:10:42,920
+testing landers? Do you ever use ABOs?
+
+330
+00:10:41,200 --> 00:10:45,400
+There's like a million questions that
+
+331
+00:10:42,920 --> 00:10:47,160
+occur once you click publish ads, and
+
+332
+00:10:45,400 --> 00:10:48,360
+you actually start getting data. So, I
+
+333
+00:10:47,160 --> 00:10:49,480
+put together a separate video. If you
+
+334
+00:10:48,360 --> 00:10:51,520
+want to get access to that, just go to
+
+335
+00:10:49,480 --> 00:10:55,040
+my Instagram, it's at markbuildsbrands,
+
+336
+00:10:51,520 --> 00:10:56,360
+and DM me the word law, like l a w,
+
+337
+00:10:55,040 --> 00:10:57,680
+because these are laws of scaling. Now,
+
+338
+00:10:56,360 --> 00:11:00,360
+the last thing I want to touch on here
+
+339
+00:10:57,680 --> 00:11:02,200
+is why does this strategy actually work?
+
+340
+00:11:00,360 --> 00:11:04,120
+Well, we have seen, or at least I have
+
+341
+00:11:02,200 --> 00:11:05,960
+seen over the years, Facebook push many,
+
+342
+00:11:04,120 --> 00:11:08,000
+many updates to the point where I
+
+343
+00:11:05,960 --> 00:11:09,040
+remember in 2019, they said that CBOs
+
+344
+00:11:08,000 --> 00:11:11,080
+were going to be mandatory, and they
+
+345
+00:11:09,040 --> 00:11:12,960
+were going to just delete ABOs off the
+
+346
+00:11:11,080 --> 00:11:14,520
+face of the earth. So, every time that
+
+347
+00:11:12,960 --> 00:11:16,160
+Facebook will launch an update, you have
+
+348
+00:11:14,520 --> 00:11:17,480
+to kind of take with a grain of salt,
+
+349
+00:11:16,160 --> 00:11:19,360
+and most importantly, trust the data.
+
+350
+00:11:17,480 --> 00:11:20,760
+So, for me, I have a lot of freaking
+
+351
+00:11:19,360 --> 00:11:22,200
+data. Not only do I have my own ad
+
+352
+00:11:20,760 --> 00:11:23,560
+accounts that I run, I have friends' ad
+
+353
+00:11:22,200 --> 00:11:25,920
+accounts that I'm looking at, but I also
+
+354
+00:11:23,560 --> 00:11:27,800
+have all of our students inside of BBA,
+
+355
+00:11:25,920 --> 00:11:29,080
+where we are instructing them the best
+
+356
+00:11:27,800 --> 00:11:30,720
+testing structure. Which So, we've been
+
+357
+00:11:29,080 --> 00:11:32,400
+doing a lot of testing internally to
+
+358
+00:11:30,720 --> 00:11:34,000
+find out what that best structure is,
+
+359
+00:11:32,400 --> 00:11:35,680
+and this is what we found works really,
+
+360
+00:11:34,000 --> 00:11:37,400
+really well. So, the number one reason
+
+361
+00:11:35,680 --> 00:11:38,640
+why it works is just straight data. You
+
+362
+00:11:37,400 --> 00:11:40,400
+know, there's a lot of people that will
+
+363
+00:11:38,640 --> 00:11:42,080
+say, "Oh, this is like not optimal, or
+
+364
+00:11:40,400 --> 00:11:44,280
+you should do, you know, straight up ASC
+
+365
+00:11:42,080 --> 00:11:46,160
+campaign." Look, to be honest, I really
+
+366
+00:11:44,280 --> 00:11:48,320
+don't give a [ __ ] I care about data
+
+367
+00:11:46,160 --> 00:11:49,720
+over anything. A lot of times, Facebook
+
+368
+00:11:48,320 --> 00:11:51,080
+says, "This is how the Facebook machine
+
+369
+00:11:49,720 --> 00:11:52,680
+operates." And all the [ __ ] I don't
+
+370
+00:11:51,080 --> 00:11:54,080
+care. I listen to what the data says,
+
+371
+00:11:52,680 --> 00:11:55,840
+and I am willing to test just about
+
+372
+00:11:54,080 --> 00:11:57,400
+anything in pursuing the right kind of
+
+373
+00:11:55,840 --> 00:11:59,520
+data. But more importantly than that,
+
+374
+00:11:57,400 --> 00:12:01,360
+the real reason why it works is because
+
+375
+00:11:59,520 --> 00:12:02,960
+of what I was mentioning earlier, where,
+
+376
+00:12:01,360 --> 00:12:05,400
+you know, I have shifted much more of my
+
+377
+00:12:02,960 --> 00:12:07,920
+ads to being more unique, more creative
+
+378
+00:12:05,400 --> 00:12:09,920
+diversity, and increasing my ratio of
+
+379
+00:12:07,920 --> 00:12:11,480
+variations to new concepts. But I don't
+
+380
+00:12:09,920 --> 00:12:13,760
+necessarily want you to think about it
+
+381
+00:12:11,480 --> 00:12:15,080
+in terms of like ratios, like 80/20. I
+
+382
+00:12:13,760 --> 00:12:17,160
+think the right way to actually think
+
+383
+00:12:15,080 --> 00:12:19,000
+about how you approach your testing is
+
+384
+00:12:17,160 --> 00:12:20,680
+you basically just change the order in
+
+385
+00:12:19,000 --> 00:12:21,960
+which you're testing variations and new
+
+386
+00:12:20,680 --> 00:12:23,720
+concepts. So, again, like I said
+
+387
+00:12:21,960 --> 00:12:26,640
+earlier, the way that I used to do
+
+388
+00:12:23,720 --> 00:12:28,960
+testing is let's say one concept, like
+
+389
+00:12:26,640 --> 00:12:31,520
+one new concept, and then variation,
+
+390
+00:12:28,960 --> 00:12:33,600
+variation, variation, variation. Just
+
+391
+00:12:31,520 --> 00:12:36,000
+like this, right? And the only
+
+392
+00:12:33,600 --> 00:12:37,920
+difference now is that instead of just
+
+393
+00:12:36,000 --> 00:12:40,040
+testing with one new concept, I'm
+
+394
+00:12:37,920 --> 00:12:41,880
+testing with many. I showed you in this
+
+395
+00:12:40,040 --> 00:12:43,800
+video an example of three, but typically
+
+396
+00:12:41,880 --> 00:12:46,720
+I'm testing with even more than that.
+
+397
+00:12:43,800 --> 00:12:48,360
+Sometimes as many as 10 new concepts for
+
+398
+00:12:46,720 --> 00:12:50,160
+a single product test. So, if I were to
+
+399
+00:12:48,360 --> 00:12:51,720
+visualize it, it's more like this. Like
+
+400
+00:12:50,160 --> 00:12:52,560
+if this were kind of the the five ad
+
+401
+00:12:51,720 --> 00:12:55,040
+sets that I'm running, it's new
+
+402
+00:12:52,560 --> 00:12:57,120
+concepts, and then all the variations in
+
+403
+00:12:55,040 --> 00:12:58,760
+here, right? So, yes, I'm actually
+
+404
+00:12:57,120 --> 00:13:01,240
+testing more ads typically when I'm
+
+405
+00:12:58,760 --> 00:13:03,000
+launching, and that's not a hard rule.
+
+406
+00:13:01,240 --> 00:13:04,600
+The point is,
+
+407
+00:13:03,000 --> 00:13:06,560
+if it hasn't been made abundantly clear
+
+408
+00:13:04,600 --> 00:13:08,680
+by this point, is that you need to
+
+409
+00:13:06,560 --> 00:13:10,360
+prioritize more creative diversity and
+
+410
+00:13:08,680 --> 00:13:12,040
+new concepts in your testing, and less
+
+411
+00:13:10,360 --> 00:13:13,920
+variation testing. Because one is
+
+412
+00:13:12,040 --> 00:13:15,200
+clearly going to move the needle way
+
+413
+00:13:13,920 --> 00:13:16,280
+more than the other. And I know, like
+
+414
+00:13:15,200 --> 00:13:18,800
+the number one objection here,
+
+415
+00:13:16,280 --> 00:13:21,680
+especially when you run CBOs, is, "Well,
+
+416
+00:13:18,800 --> 00:13:23,440
+what if like this ad set gets no spend?"
+
+417
+00:13:21,680 --> 00:13:25,160
+Or like, "What if this ad or these few
+
+418
+00:13:23,440 --> 00:13:26,840
+ads get no spend or being cannibalized
+
+419
+00:13:25,160 --> 00:13:28,920
+by the other?" Well, good. You don't
+
+420
+00:13:26,840 --> 00:13:31,280
+necessarily need to test every single
+
+421
+00:13:28,920 --> 00:13:33,440
+individual ad at the same level of ad
+
+422
+00:13:31,280 --> 00:13:35,120
+spend across, you know, every single ad
+
+423
+00:13:33,440 --> 00:13:37,600
+concept that you're running. Sometimes,
+
+424
+00:13:35,120 --> 00:13:39,480
+sometimes, if Facebook doesn't spend on
+
+425
+00:13:37,600 --> 00:13:40,920
+that particular creative at all, or
+
+426
+00:13:39,480 --> 00:13:42,160
+very, very little, then it means that
+
+427
+00:13:40,920 --> 00:13:43,640
+that creative wasn't that that good to
+
+428
+00:13:42,160 --> 00:13:45,200
+begin with in the first place. So,
+
+429
+00:13:43,640 --> 00:13:46,960
+that's not a hard rule. Sometimes,
+
+430
+00:13:45,200 --> 00:13:49,360
+Facebook is [ __ ] I'll be the first
+
+431
+00:13:46,960 --> 00:13:51,200
+[ __ ] one to admit sometimes Facebook
+
+432
+00:13:49,360 --> 00:13:53,080
+will not spend on a creative, even
+
+433
+00:13:51,200 --> 00:13:55,120
+though it has a like the lowest cost per
+
+434
+00:13:53,080 --> 00:13:56,480
+conversion. So, it's a tough balance.
+
+435
+00:13:55,120 --> 00:13:58,800
+You know, all I can say is that this is
+
+436
+00:13:56,480 --> 00:14:01,760
+supported by data, and I can say one
+
+437
+00:13:58,800 --> 00:14:02,880
+thing for 100% sure in my heart of
+
+438
+00:14:01,760 --> 00:14:04,640
+hearts, which is that you need to be
+
+439
+00:14:02,880 --> 00:14:06,800
+prioritizing creative diversity
+
+440
+00:14:04,640 --> 00:14:08,480
+post-Andromeda. This variation spamming
+
+441
+00:14:06,800 --> 00:14:10,400
+game is just not nearly as effective as
+
+442
+00:14:08,480 --> 00:14:12,400
+it was previously. I kind of alluded to
+
+443
+00:14:10,400 --> 00:14:13,880
+it earlier, but this strategy is exactly
+
+444
+00:14:12,400 --> 00:14:15,400
+what we teach inside of Brand Builds
+
+445
+00:14:13,880 --> 00:14:17,120
+Academy. So, if you're interested in
+
+446
+00:14:15,400 --> 00:14:19,080
+like having somebody actually like help
+
+447
+00:14:17,120 --> 00:14:20,360
+you out, you know, set this up, and more
+
+448
+00:14:19,080 --> 00:14:21,680
+importantly, like the feedback loop that
+
+449
+00:14:20,360 --> 00:14:22,840
+comes after it, you can always click the
+
+450
+00:14:21,680 --> 00:14:24,120
+first link in the description and fill
+
+451
+00:14:22,840 --> 00:14:25,680
+out an application. We'll see if you're
+
+452
+00:14:24,120 --> 00:14:26,760
+a good fit. Other than that, guys, thank
+
+453
+00:14:25,680 --> 00:14:30,520
+you so much for watching. I'll see you
+
+454
+00:14:26,760 --> 00:14:30,520
+legends in the next one. Peace.
+

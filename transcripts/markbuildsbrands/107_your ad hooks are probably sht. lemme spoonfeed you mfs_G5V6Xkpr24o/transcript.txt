@@ -1,0 +1,1371 @@
+# your ad hooks are probably sh*t. lemme spoonfeed you mfs
+URL: https://www.youtube.com/watch?v=G5V6Xkpr24o
+Category: stream
+Duration: 3180s
+Published: 20260908
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] In this video, I'm going to be going
+[00:00:01] over
+[00:00:02] ad hooks specifically. So, I I think the
+[00:00:05] best way to understand anything and to
+[00:00:07] get really really good at anything is
+[00:00:08] you can break down this big thing. In
+[00:00:10] this case, it's just going to be hooks
+[00:00:11] into its various component parts. In
+[00:00:14] fact, when I was younger and when I was
+[00:00:15] a kid, that was one of my favorite
+[00:00:16] things to do. It wasn't to like always
+[00:00:18] play with the toys. It was to completely
+[00:00:20] disassemble them and understand how all
+[00:00:22] the pieces work together, then figure
+[00:00:24] out how to put it all back together.
+[00:00:25] That was one of my uh one of the
+[00:00:28] activities I really enjoyed when I was
+[00:00:29] younger. And I think that's part of the
+[00:00:31] reason why I'm good at what I do now.
+[00:00:32] It's because in order to truly
+[00:00:34] understand something, you should
+[00:00:35] understand how all the parts work
+[00:00:36] together. And you should strip it down
+[00:00:39] as much as you possibly can to its bare
+[00:00:41] bone uh elements, the foundations. And
+[00:00:44] if you understand those, then only then
+[00:00:46] can you build on top of that. The issue
+[00:00:47] is a lot of you guys go to uh you know
+[00:00:50] you go to get hooked or whatever, you
+[00:00:52] swipe some ads, you swipe some copy, you
+[00:00:53] throw it into Claude, you say rewrite
+[00:00:55] this. And Claude is not good at writing
+[00:00:58] hooks in general. [clears throat] Um I
+[00:01:00] don't actually use Claude a lot for
+[00:01:03] uh for copy overall. Um if I do, the
+[00:01:08] most
+[00:01:10] recent model I would ever use for
+[00:01:12] writing copy is Opus or Sonnet 4.6. I
+[00:01:14] would not go beyond that. and eventually
+[00:01:16] those are going to be deprecated as
+[00:01:17] well. So at at that point you got to
+[00:01:20] find other alternatives for writing
+[00:01:22] copy. So uh I've been writing a lot of
+[00:01:25] copy with chatbt over the last few
+[00:01:27] months. I've been writing copy with
+[00:01:28] Grock over the last few months. Um but
+[00:01:31] just so that you know typically most
+[00:01:32] these LLMs they work pretty similarly
+[00:01:35] unless you are feeding in a ton of
+[00:01:39] really really good context around how to
+[00:01:41] actually write good hooks. as soon as
+[00:01:42] you go to rewrite it with AI and just
+[00:01:45] expect the swipe to work, it's probably
+[00:01:47] going to [ __ ] up the swipe in the first
+[00:01:48] place. And that's why swiping is, you
+[00:01:51] know, difficult thing to uh to to really
+[00:01:54] make work sometimes, especially if it
+[00:01:56] works. Then you're really [ __ ] Like
+[00:01:57] it's good, but then you're [ __ ]
+[00:01:58] because you have no idea why it's
+[00:01:59] actually working. Um anyway, to strip it
+[00:02:01] down to its its component pieces. What
+[00:02:03] do we have the hook, right? Let's talk
+[00:02:05] about video ads specifically. That's
+[00:02:07] going to be the majority of what this
+[00:02:09] video will be about. I'll I'll maybe
+[00:02:10] have a little bit about some uh primary
+[00:02:13] text on native static so we can talk
+[00:02:14] about the hook there because that's also
+[00:02:16] incredibly incredibly important. But
+[00:02:18] let's talk about videos first. So in
+[00:02:20] regards to videos,
+[00:02:23] right?
+[00:02:26] Videos, if you take the first roughly 3
+[00:02:29] to 5 seconds of a video ad, that is what
+[00:02:31] we define as the hook. And with video,
+[00:02:34] it's not just something that you're
+[00:02:35] reading. Like it's it's an experience.
+[00:02:37] Like watching a video is an experience.
+[00:02:39] And there's three things that kind of
+[00:02:41] make up said experience. Um, which is
+[00:02:44] your hook. So like this entire piece al
+[00:02:46] together is your let's just call like
+[00:02:50] the hook, right? So first thing that we
+[00:02:52] have is going to be
+[00:02:55] the actual the actual copy. Right? This
+[00:02:58] is one of the most important pieces. I
+[00:03:01] think this actually used to be even more
+[00:03:02] important and now it's starting to shift
+[00:03:05] in another direction which I'll get to.
+[00:03:07] But one of the three pieces is your
+[00:03:08] copy. The other is going to be your
+[00:03:10] scroll stopper, which is essentially the
+[00:03:13] video portion. So you have text that is
+[00:03:16] being stated. That's the copy. And then
+[00:03:18] you have the actual video being played
+[00:03:21] behind said text. And that is of course
+[00:03:23] your scroll stopper. And then the third
+[00:03:26] and final thing, if you think there
+[00:03:27] can't be possibly anything else, there
+[00:03:29] is because here we have the visual, we
+[00:03:31] have the
+[00:03:34] text on screen. And then we have to have
+[00:03:36] the audio as well, which is going to be
+[00:03:37] the third and final thing, which is
+[00:03:38] going to be what actually happens in the
+[00:03:40] background audio-wise to bring together
+[00:03:43] this hook. [clears throat] So these
+[00:03:46] three things make up your hook. If I had
+[00:03:48] to put it into percentages of which is
+[00:03:50] most important, I would say audio is
+[00:03:52] probably like 5% maybe 10% max. You
+[00:03:56] know, a lot of people watch ads even
+[00:03:58] with their sound turned off. So that
+[00:04:00] alone should tell you that it's not
+[00:04:01] anywhere near the most important thing.
+[00:04:03] I would say 5 to 10%. And then we're
+[00:04:05] going to have these two things which
+[00:04:07] carry the most amount of weight. If you
+[00:04:08] ask me a few years ago before this this
+[00:04:11] algorithm update from Facebook and the
+[00:04:13] few algo updates that have been from
+[00:04:15] Facebook over the last uh year, yeah,
+[00:04:19] roughly year, um
+[00:04:22] you'll notice that having more diversity
+[00:04:25] when it comes to your scroll stoppers
+[00:04:27] specifically
+[00:04:29] is a really good thing
+[00:04:31] because that means that you're
+[00:04:32] increasing the level of diversity across
+[00:04:34] them compared to keeping everything in
+[00:04:35] the ad the same and only changing like
+[00:04:37] the copy. of the hook.
+[00:04:40] So,
+[00:04:41] for that reason, um, before that, I
+[00:04:45] think copy was literally the most
+[00:04:47] important thing. And the reason I can
+[00:04:48] tell you why is because there are comp I
+[00:04:51] mean, [ __ ] there's still companies now,
+[00:04:53] but [clears throat] like the old school
+[00:04:55] VSSL, like VSSL is a video sales letter,
+[00:04:57] the old school VSSLs, which we could we
+[00:04:59] could say VSSLs are being run as ads all
+[00:05:01] the time. Old school VSSLs, the way that
+[00:05:04] they would work is you would literally
+[00:05:05] take a text sales letter. You take a TSL
+[00:05:08] and you would convert it into a video.
+[00:05:11] And the way you do that is you would
+[00:05:13] just have this dude, you know, voicing
+[00:05:16] over uh the particular script because,
+[00:05:19] you know, here's here's something you
+[00:05:20] may not know. Uh most copywriters,
+[00:05:23] myself included, you know, a lot of them
+[00:05:26] relatively antisocial. [laughter]
+[00:05:28] And if if at least not antisocial, don't
+[00:05:31] like showing their face on camera
+[00:05:32] actively all the time. That's probably
+[00:05:33] the reason they became, you know, a
+[00:05:35] copywriter.
+[00:05:37] so that they didn't have to do that. And
+[00:05:39] so this guy is basically like speaking
+[00:05:41] and narrating a PowerPoint presentation
+[00:05:44] that's like a 100 plus slides. And
+[00:05:46] that's that was like the uh the
+[00:05:51] genesis I guess of the VSSL. Um Keith
+[00:05:56] Bowman, you know, you know. So that was
+[00:05:59] that was essentially the invention of
+[00:06:00] the VSSL. And the reason I say that is
+[00:06:03] because in the same way that you have a
+[00:06:06] VSSL, it was literally just text on a
+[00:06:08] white background. It's like black text
+[00:06:10] on a white background. The most basic
+[00:06:11] [ __ ] of all time. Yet, these would
+[00:06:12] print, you know, eight plus figures if
+[00:06:14] you had a phenomenal phenomenal VSSL and
+[00:06:17] you had really good traffic being sent
+[00:06:18] to it. That could that can be an eight
+[00:06:20] plus figure VSSL right there. And I have
+[00:06:22] specific ones like in mind that I can
+[00:06:24] think of that I have watched that are
+[00:06:27] literally just black words on a white
+[00:06:30] [ __ ] PowerPoint. That's it.
+[00:06:34] Now, the reason I bring this up is
+[00:06:36] because there's no there's no video
+[00:06:38] element to this whatsoever. Like, yes,
+[00:06:40] it's a video because it's recorded and
+[00:06:42] there's this visual element to it, but
+[00:06:44] it's not like the way that we know VSSLs
+[00:06:46] today. But this is how VSSLs were
+[00:06:48] legitimately created. Like this is this
+[00:06:50] is truly the foundation here. And again,
+[00:06:53] the reason I go down this whole [ __ ]
+[00:06:55] rabbit hole about VSSLs is because this
+[00:06:58] skews very very heavily in the text
+[00:07:00] direction, specifically the copy. The
+[00:07:02] copy will make or break a VSSL. But with
+[00:07:05] ads, because they're so short and
+[00:07:06] because of these new algorithm
+[00:07:07] algorithmic updates that we had from
+[00:07:09] Facebook, we know that the scroll
+[00:07:11] stopper is slowly increasing and its
+[00:07:14] overall weight in the formula of how to
+[00:07:16] make a successful hook. becoming more
+[00:07:18] and more important, you know, over time
+[00:07:24] because this element of not having
+[00:07:27] similar ads, this element of creative
+[00:07:29] diversity,
+[00:07:31] it's becoming more and more important as
+[00:07:32] we see. So, in any case, I would still
+[00:07:35] probably give more weight to the uh the
+[00:07:38] copy. Like, I would say this is probably
+[00:07:39] going to be 60%.
+[00:07:41] And then I would give I guess that' be
+[00:07:43] 35% here to the scroll stopper. So, when
+[00:07:46] you're creating your hook, right, the
+[00:07:48] most important part of the ad, keep this
+[00:07:51] in mind. If you're not spending
+[00:07:53] proportionate amounts of time on each of
+[00:07:55] these, like the far majority of your
+[00:07:57] time on copy, and then second that only
+[00:07:58] the visuals that's going to be happening
+[00:08:00] behind the copy, then you're probably
+[00:08:02] wasting your time and not spending it in
+[00:08:04] uh in areas that that are going to be
+[00:08:06] highly effective. Okay, so that's the
+[00:08:09] the first thing. Now, just like
+[00:08:11] anything, let's talk about let's talk
+[00:08:13] about the copy and the scroll stopper
+[00:08:14] specifically, right? That's like 95% of
+[00:08:17] of your success of a good hook. It's
+[00:08:18] funny because if you look at like
+[00:08:21] ads overall, it's like 90%
+[00:08:26] your creative.
+[00:08:30] If you look at creatives,
+[00:08:35] your success is like 90% the hook.
+[00:08:42] Dude, what is what the [ __ ] is wrong
+[00:08:43] with this [ __ ] thing?
+[00:08:47] And then if you look at the hook,
+[00:08:50] [laughter]
+[00:08:52] it's 90%
+[00:08:56] the copy
+[00:08:59] and uh scroll stopper, right? So, if
+[00:09:05] you're looking where you should spend
+[00:09:06] your time in ecom in general and you're
+[00:09:07] running paid ads, everything points
+[00:09:10] here. And now let's take it deeper like
+[00:09:14] copy
+[00:09:15] and uh scroll stopper
+[00:09:18] 90% of your success of those things is
+[00:09:21] what? Who can tell me? Type it in the
+[00:09:24] chat right now. What is 90%
+[00:09:26] of your success in copywriting and 90%
+[00:09:30] of your success in creatives in general?
+[00:09:33] What does it come down to? Tell me.
+[00:09:35] [snorts]
+[00:09:46] >> [snorts]
+[00:09:50] >> Someone said
+[00:09:52] voice of customer visual. No hook. No,
+[00:09:58] we just said the hook. You We can't go
+[00:10:00] backwards. We have Okay. Who's the first
+[00:10:03] person to get it?
+[00:10:07] meter metarin co whatever your name is
+[00:10:10] bro you got it bro it's research 90% is
+[00:10:14] research and just like anything that is
+[00:10:16] where we're gonna start okay so I put
+[00:10:19] out a video on on uh a secondary YouTube
+[00:10:22] channel that I have with one of our BBA
+[00:10:24] students William highly recommend you go
+[00:10:26] watch it just search up Mark Builds
+[00:10:28] Brands reviews but William was William
+[00:10:30] has done well over seven figures over
+[00:10:32] the last year and I was asking him like
+[00:10:36] what are the main inflection points
+[00:10:37] where you were like unsuccessful and
+[00:10:39] then became successful and he hopped on
+[00:10:42] a call with one of our coaches. Um, and
+[00:10:45] shout out to this this coach, you know,
+[00:10:46] you know who you are. Shout out to you,
+[00:10:48] bro, for giving him this advice. But I
+[00:10:50] have this whole foundational docs
+[00:10:52] process, right? I make it so easy for
+[00:10:55] you to have incredibly good research. In
+[00:10:59] fact, I'm going to take it a step
+[00:11:00] further,
+[00:11:02] right? You want to have the best
+[00:11:03] foundational [ __ ] docs on the planet,
+[00:11:04] do this.
+[00:11:09] run it on perplexity
+[00:11:14] and specifically you're going to run it
+[00:11:16] on perplexity computer.
+[00:11:19] This is an additional feature of uh just
+[00:11:21] an agentic computer that is run by
+[00:11:24] perplexity itself to do research. Let me
+[00:11:27] tell you what happened when I did my
+[00:11:29] research on Perplexity computer. when I
+[00:11:33] ran it against regular perplexity.
+[00:11:35] All right, we're going to do like per
+[00:11:38] and then we're [ __ ] And then we're
+[00:11:40] going to do
+[00:11:43] per comp perplexity computer. All right,
+[00:11:48] so I was ranking it on a few different a
+[00:11:51] few different things. Number one is I
+[00:11:53] was looking at how many sources is it
+[00:11:54] using
+[00:11:57] and when it came to sources
+[00:11:59] just regular perplexity I think gave a
+[00:12:02] total of uh by the way I told this to
+[00:12:04] our BBA guys like weeks and weeks ago.
+[00:12:07] [clears throat] Um the sources I believe
+[00:12:10] it got like 130 on perplexity roughly.
+[00:12:15] Perplexity computer 580.
+[00:12:20] Next thing I'm looking at is the length.
+[00:12:22] So, how many pages of research can I
+[00:12:24] actually get right on Perplexity
+[00:12:27] Standard? Um,
+[00:12:31] I think I got about 22 pages. Perplexity
+[00:12:35] computer I got 73.
+[00:12:41] Next thing I'm looking at is domains.
+[00:12:44] So like, okay, maybe you scoured 130
+[00:12:46] sources, but every single one of them
+[00:12:49] was like Kora or Reddit and you didn't
+[00:12:52] have any diversity in your sources
+[00:12:55] domains. I believe Perplexity got like I
+[00:12:59] don't know, I think like seven or so.
+[00:13:02] Um, Perplexity Computer
+[00:13:06] last time I ran this
+[00:13:08] got over 30 domains.
+[00:13:12] So, when it comes to comparing tools,
+[00:13:14] you know, to me there's a pretty clear
+[00:13:16] winner. And by the way, I'm always split
+[00:13:17] testing like these research tools. In
+[00:13:19] fact, I split tested Perplexity Computer
+[00:13:22] against another thing that actually did
+[00:13:24] better than Perplexity, but not as good
+[00:13:26] as Perplexity Computer, and that was my
+[00:13:28] own Hermes Agent.
+[00:13:31] I literally had a Hermes agent follow
+[00:13:34] this prompt as well and it did better in
+[00:13:37] every area compared to Perplexity, but
+[00:13:40] it did not beat Perplexity Computer. So,
+[00:13:42] the overall winner was absolutely
+[00:13:45] Perplexity Computer. Just so that you
+[00:13:47] know, when it comes to research, I have
+[00:13:48] my foundational docs. Um, somebody if
+[00:13:51] you could please share them. Share the
+[00:13:52] foundational docs uh document if I have
+[00:13:55] any mods in the chat. I don't know if
+[00:13:57] you guys could share it, that'd be
+[00:13:58] great.
+[00:13:59] Um, but research is where everything
+[00:14:02] comes from. Now, the reason I brought up
+[00:14:04] William in that BBA interview is because
+[00:14:08] on that call that he had with one of our
+[00:14:10] coaches, our coaching, our coaches gave
+[00:14:12] him a very, very specific piece of
+[00:14:14] feedback. And that was, "Did you do the
+[00:14:16] foundational doc?" And he was like,
+[00:14:17] "Yes." And then he was like, "Did you
+[00:14:20] read the full research document from top
+[00:14:22] to bottom?" And William at the time
+[00:14:24] said, "No,
+[00:14:27] you can have AI do work for you, but to
+[00:14:29] become a great marketer, you have to
+[00:14:31] understand you need to know your
+[00:14:34] customer better than they know
+[00:14:35] themselves." I'm not saying your AI
+[00:14:38] agent needs to know your customer better
+[00:14:41] than they know themselves. You do. You
+[00:14:43] do. If there's one document that you
+[00:14:45] should read in the entire foundational
+[00:14:46] docs, it is your [ __ ] research doc.
+[00:14:49] And what you should do is get really
+[00:14:51] high quality research, sit down for an
+[00:14:54] hour. Uh, pop it open in a Google doc,
+[00:14:57] whatever you want to do. And what you're
+[00:14:59] going to do is go through and just
+[00:15:01] [ __ ]
+[00:15:03] see if I have a You're just going to go
+[00:15:05] and highlight [ __ ] You're going to
+[00:15:07] highlight the takeaways. Highlight.
+[00:15:09] You're going to add comments, right?
+[00:15:13] Going to add little, you know, comments
+[00:15:14] here and there. Comments here and there.
+[00:15:16] and you're just going to go down this
+[00:15:17] entire longass document and understand
+[00:15:20] your market to a level that nobody
+[00:15:22] nobody ever really has. And when you do
+[00:15:25] that, you'll be able to understand
+[00:15:27] things when you're creating your
+[00:15:28] landers, when you're creating your ads,
+[00:15:29] when you're writing your [ __ ] hooks,
+[00:15:31] which is what I'm talking about in this
+[00:15:32] video right now, that your AI will never
+[00:15:35] actually pick up.
+[00:15:37] It'll pick it up if you ask it directly.
+[00:15:40] But this is one of those like unknown
+[00:15:43] knowns where if you don't ask directly
+[00:15:46] about something super specific that you
+[00:15:47] highlighted, for example, then the AI is
+[00:15:49] not going to bring it up themselves. So
+[00:15:51] they can help with ideiation, but they
+[00:15:53] should help your own ideation that is
+[00:15:56] already there existing. Does that make
+[00:15:58] sense? This alone, I think for many of
+[00:16:01] you that are struggling finding and
+[00:16:03] creating profitable ads, you need to
+[00:16:05] [ __ ] understand your customers, bro.
+[00:16:07] I was talking to another uh another BBA
+[00:16:09] student actually. He went through this
+[00:16:12] process. I told him, "Did you read it?"
+[00:16:13] He said, "No." I said, "Go read your
+[00:16:14] [ __ ] research doc." He took an exact
+[00:16:16] quote from the research document, ran
+[00:16:19] that quote, that quote as a hook for a
+[00:16:21] native static, and now it's one of his
+[00:16:22] most profitable ads that he's running.
+[00:16:28] It's all there. It's all there. You just
+[00:16:30] have to stop being a lazy [ __ ] and read
+[00:16:32] it.
+[00:16:34] Now, the re the foundational docs
+[00:16:36] process is, you know, one of many ways
+[00:16:39] that you can do really good research,
+[00:16:40] right? We have, let me write this down.
+[00:16:43] Foundational
+[00:16:50] foundational dicks, foundational docks.
+[00:16:54] So the next method that you can use for
+[00:16:57] research is what I call intentional
+[00:17:04] doom scrolling.
+[00:17:09] And this is where you set up a burner
+[00:17:11] account on Facebook and Instagram,
+[00:17:13] especially Facebook.
+[00:17:16] You literally get it on your phone
+[00:17:18] ideally. If not, try to use the mobile
+[00:17:20] version on your desktop and you're going
+[00:17:22] to legitimately doom scroll after
+[00:17:24] training your burner account on your
+[00:17:26] particular market by going and liking
+[00:17:28] other pages, uh, by commenting on post,
+[00:17:30] by clicking on links, by going through
+[00:17:32] the entire checkout process, aband
+[00:17:34] hitting checkout. You're going to train
+[00:17:35] your algorithm. I don't need to go over
+[00:17:36] how to create a burner account, like how
+[00:17:38] to create a burner profile, but that's
+[00:17:40] exactly what you do. And then you're
+[00:17:41] going to start intentionally doom doom
+[00:17:43] scrolling. You want to doom scroll and
+[00:17:45] you want to be sucked in, but you also
+[00:17:47] want to be conscious. You don't want to
+[00:17:48] be completely subconscious separated
+[00:17:50] from the fact you're just consuming
+[00:17:52] useless media. You're consuming media
+[00:17:54] with the intention of identifying hooks
+[00:17:56] of identifying emotional hot points by
+[00:17:59] looking at the comments, looking at the
+[00:18:00] top comments of like these really
+[00:18:03] polarizing posts and using those as
+[00:18:05] hooks, using those as additional points
+[00:18:07] of research. This is super super uh
+[00:18:10] underrated in general. And you want to
+[00:18:12] observe like what is making you stop
+[00:18:14] scrolling
+[00:18:15] because even when you're in a niche,
+[00:18:18] there's this uh you just kind of get
+[00:18:22] lulled into the doom scrolling, but
+[00:18:23] eventually there's going to be something
+[00:18:25] that you scroll and you're like, "Holy
+[00:18:27] shit." And that is the kind of content
+[00:18:30] you want to emulate when it comes to
+[00:18:32] writing really good hooks. And that is
+[00:18:34] an incredible form of research that most
+[00:18:36] people just do not um just do not do.
+[00:18:40] Okay. So, as an example, right, with the
+[00:18:44] deep research that I'm speaking about
+[00:18:46] and the
+[00:18:48] uh what's the [ __ ] name?
+[00:18:53] Foundational docs. Yes.
+[00:19:01] [snorts]
+[00:19:05] What I'm talking about. Now, this one is
+[00:19:07] a little bit shorter, right? Uh, but
+[00:19:09] what I'm talking about is going through
+[00:19:12] with a highlighter like this and just
+[00:19:15] highlighting [ __ ]
+[00:19:17] Specifically, the main things I'm going
+[00:19:18] to be looking at is going to be the
+[00:19:21] customer beliefs, emotions, hopes, and
+[00:19:23] fears. I want to look at all these pain
+[00:19:25] points, and I want to literally
+[00:19:27] underline things, bold it, like do
+[00:19:28] whatever you want to do. But this is
+[00:19:30] going to train your brain on how to
+[00:19:32] think when it comes to writing and
+[00:19:35] writing really good hooks. So, I don't
+[00:19:37] think I need to go through that, but
+[00:19:38] that's exactly what you would do.
+[00:19:43] Okay. So, if you've done your research,
+[00:19:45] you're already better than 99% of people
+[00:19:48] when it comes to writing really good
+[00:19:49] ads. And again, I don't mean just
+[00:19:51] conducting the foundational docs, like
+[00:19:52] go farther because the moment that
+[00:19:55] something becomes like mainstream and
+[00:19:57] standard practice, everybody uses the
+[00:19:59] [ __ ] foundational docs now. So, if
+[00:20:01] you're running the same product as
+[00:20:02] somebody else, how do you have any
+[00:20:04] competitive advantage over them? Hm. You
+[00:20:06] don't. You [ __ ] don't. Which means
+[00:20:09] you're going to lose to them. Your AI is
+[00:20:11] going to come up with the exact same ad
+[00:20:12] angles as theirs. So now you're really
+[00:20:16] in the [ __ ] [ __ ] and you got you
+[00:20:17] got some work to do. So just like
+[00:20:19] anything, when something becomes
+[00:20:20] standard practice, when it becomes the
+[00:20:22] norm, you still have to follow this
+[00:20:24] fundamental [ __ ] principle of
+[00:20:27] marketing, which is creating contrast.
+[00:20:37] And yes, I wrote this in red. It's to
+[00:20:40] explain the [ __ ] point.
+[00:20:43] You want to create as much contrast as
+[00:20:45] humanly possible.
+[00:20:48] All right. So, I want to look at a few
+[00:20:52] different ads here, and we're going to
+[00:20:55] break them down together, and I'm going
+[00:20:57] to tell you why they're successful,
+[00:20:59] and you're going to be able to emulate
+[00:21:01] those for yourself. I'll tell you this
+[00:21:03] as one final note before we do this. One
+[00:21:06] of my copywriting mentors, uh, she
+[00:21:08] taught me about a concept called your
+[00:21:10] copy diet. And your copy diet is the
+[00:21:13] copy that you're reading to train
+[00:21:15] yourself to become become a better
+[00:21:16] copywriter. In the same way that if you
+[00:21:18] have a really [ __ ] diet and all you eat
+[00:21:20] is [ __ ] McDonald's and you eat
+[00:21:22] [ __ ] [ __ ] fast foods every
+[00:21:24] [ __ ] meal of the day,
+[00:21:27] then your body's going to represent
+[00:21:28] that. In the same way, if you're reading
+[00:21:30] really [ __ ] copy and you just continue
+[00:21:32] to train your your your copy chops that
+[00:21:35] this is good, it's not good and you're
+[00:21:39] just going to make yourself and your AI
+[00:21:40] spit out really really poor quality
+[00:21:42] copy. So, when it comes to swiping and
+[00:21:45] analyzing successful competitors, I only
+[00:21:48] look for these brands that are doing
+[00:21:50] like
+[00:21:52] that that I know that there's a strong
+[00:21:55] direct response
+[00:21:57] presence in the hooks. And I'll show you
+[00:22:00] exactly what I mean because I got some
+[00:22:01] good examples here. All right, let's
+[00:22:02] look at this one first.
+[00:22:05] [snorts]
+[00:22:34] All righty. Again, we're analyzing video
+[00:22:36] hooks here. Maybe if I have some time at
+[00:22:37] the end, I'll try to get to image hooks.
+[00:22:39] But let's take a little look see what we
+[00:22:42] got here.
+[00:22:44] >> Can you see it?
+[00:22:46] >> I think so. Yeah. Oh, yeah. Yeah, yeah,
+[00:22:48] yeah. Oh, wow. Yeah.
+[00:22:49] >> Oh, wow.
+[00:22:52] >> Okay.
+[00:22:55] Please steal this. Okay. Please steal
+[00:22:58] this. Specifically asking if they can
+[00:23:00] see something. If you ask like, "Can you
+[00:23:03] see this? Do you see this? Do you see
+[00:23:06] what I'm looking at?" You're not giving
+[00:23:08] people a demand, but you are
+[00:23:11] commanding an action that is a
+[00:23:14] subliminal
+[00:23:16] uh what's the [ __ ] word? Micro
+[00:23:18] commitment.
+[00:23:20] It's a subliminal micro commitment.
+[00:23:22] You'll notice if you study some really
+[00:23:24] good uh sales people, especially sales
+[00:23:26] people like in person, like you think of
+[00:23:28] somebody like Tony Robbins, like this
+[00:23:29] dude sells people for a [ __ ] living,
+[00:23:32] literally. And he gets on these stages
+[00:23:34] in front of, you know, tens of thousands
+[00:23:36] of people. And he gets these people to
+[00:23:38] [ __ ] run up to the stage all through
+[00:23:40] his words and his actions and how he
+[00:23:41] speaks.
+[00:23:43] And he understands this concept of
+[00:23:45] getting micro commitments from people.
+[00:23:46] If you've ever been to a Tony Robbins
+[00:23:48] event, which I have, and it was it was
+[00:23:51] [ __ ] crazy. [snorts]
+[00:23:54] What is he always asking you to do? He's
+[00:23:55] like, "Raise your hand if you're this.
+[00:23:57] Raise your hand if you're that. Raise
+[00:23:57] your hand if you're this." Micro
+[00:23:58] commitment. Micro commitment. [ __ ]
+[00:24:00] micro commitment. Another one. Everybody
+[00:24:02] stand up. He starts clapping. Everybody
+[00:24:04] stand up. Everybody stand up. It's like
+[00:24:06] he's getting people bought in with every
+[00:24:08] individual word. Anytime that
+[00:24:11] you tell somebody to do something and
+[00:24:12] they do it, no matter how small, that's
+[00:24:14] a micro commitment and that's getting
+[00:24:15] them closer and closer and closer to
+[00:24:18] becoming a customer. Everything in the
+[00:24:20] way that he speaks and talks, you want
+[00:24:22] to get really good at copy, just go, you
+[00:24:24] know, go go watch some some Tony Robbins
+[00:24:26] events, dude, and you'll see exactly
+[00:24:29] everything that he does. It's just so
+[00:24:30] incredibly intentional. Nothing is by
+[00:24:32] accident. Not the way that he speaks,
+[00:24:34] the way that he [ __ ] claps, uh,
+[00:24:37] everything that he asks his audience to
+[00:24:39] do. I'm not even a Tony Robbins lover
+[00:24:41] like that. Like, I I'm neutral about the
+[00:24:43] dude, but I understand who's got game
+[00:24:45] and who understands this [ __ ] at a
+[00:24:47] psychotic level. And he is one of those
+[00:24:49] people. He's absolutely one of those
+[00:24:51] people.
+[00:24:52] >> Can you see it
+[00:24:54] >> already?
+[00:24:57] Really [ __ ] good. Also understand the
+[00:24:58] inflection in the voice. like the
+[00:25:01] inflection of the voice. So here, let's
+[00:25:02] break this down, right? Because we
+[00:25:03] talked about this triangle, this
+[00:25:06] beautiful triangle we have up here of
+[00:25:07] copy, audio, and scroll stopper. In this
+[00:25:09] case,
+[00:25:11] in this case, the audio is actually the
+[00:25:14] way that partly the way that this woman
+[00:25:16] is talking. This was a dude that was
+[00:25:18] just like, can you see this? Versus this
+[00:25:21] woman who has this upward inflection in
+[00:25:23] her voice, this upspeak at the very end
+[00:25:25] to signify like a question and get you
+[00:25:28] more bought in because you want to know
+[00:25:29] the answer. And also she says, "Can you
+[00:25:32] see it?" What the [ __ ] am I supposed to
+[00:25:34] see?
+[00:25:36] Open open [laughter] loop.
+[00:25:40] Um, so that's kind of the audio piece,
+[00:25:42] right? Let's look at the copy. So the
+[00:25:43] copy is twofold here. We have the copy
+[00:25:45] that's actually on the screen,
+[00:25:47] [clears throat]
+[00:25:48] number one, which we'll get into, but we
+[00:25:50] also have the copy of the audio. And the
+[00:25:54] audio is basically, can you see it? And
+[00:25:56] then these guys reacting to whatever it
+[00:25:58] is.
+[00:25:59] >> I think so. Oh yeah. Oh yeah. Yeah.
+[00:26:01] Yeah. Oh wow. Yeah.
+[00:26:02] >> Oh wow.
+[00:26:03] >> That was it. Right. That's that's the
+[00:26:05] [ __ ] hook right there. It's like can
+[00:26:06] you see it? I think I can see it. Oh
+[00:26:08] wow. Oh wow. Oh wow.
+[00:26:11] You know. So
+[00:26:14] now that's from a copyrightiting
+[00:26:16] perspective. You know there's not a
+[00:26:18] whole lot to dissect there. It's just
+[00:26:21] a wild reaction to something where we
+[00:26:23] don't actually know what the [ __ ] is
+[00:26:24] happening except for this woman's
+[00:26:25] shoulder or neck is moving. Right now,
+[00:26:27] let's look at the copy that is actually
+[00:26:30] on
+[00:26:34] uh the screen here. Let me see if I can
+[00:26:35] zoom in a little bit more. Yeah. Okay.
+[00:26:38] To the [ __ ] who gave me this
+[00:26:40] device, this is the first time I felt a
+[00:26:42] brain orgasm. So,
+[00:26:45] few things that were done right here. To
+[00:26:47] the [ __ ] [ __ ] blurred
+[00:26:49] out, but also anytime you include
+[00:26:51] cursing in a hook, you're just asking
+[00:26:53] for polarity. Cursing is one of those
+[00:26:55] things that, you know, I feel like it's
+[00:26:57] become relatively normalized over the
+[00:26:59] last like 20 years, but it's still very
+[00:27:01] polarizing. Like if somebody curses, you
+[00:27:04] can assume certain things about that
+[00:27:05] person in the same way that if somebody
+[00:27:07] is super against cursing that you can
+[00:27:09] also assume certain things about that as
+[00:27:10] well. It it creates a divide. It's
+[00:27:12] polarizing.
+[00:27:15] And polariz polarizing is almost
+[00:27:17] synonymous with creating contrast. If
+[00:27:20] you have if you have a high degree of
+[00:27:21] polarity,
+[00:27:23] like if you think of like political
+[00:27:25] polarity, there's also political
+[00:27:26] contrast. Very very uh almost synonyms
+[00:27:29] for one another.
+[00:27:32] So to [ __ ] who gave me this
+[00:27:34] device, another open loop here. Very
+[00:27:36] simple way to do this. Anytime you're
+[00:27:38] speaking, always say this instead of
+[00:27:40] explaining what this is because she's
+[00:27:42] saying this device, I can barely see it.
+[00:27:44] Like I would not see this as voucher
+[00:27:46] scrolling on her phone. the fact that
+[00:27:47] there's something around her neck right
+[00:27:48] now.
+[00:27:54] This is the first time I felt a brain
+[00:27:56] orgasm.
+[00:27:58] Dope, dope, dope [ __ ] term there. Um,
+[00:28:02] in all caps with an emoji and also kind
+[00:28:05] of designed to look a little bit more
+[00:28:06] native with this kind of like Tik Tok
+[00:28:08] Instagram text. It's very, very subtle
+[00:28:10] detail that I don't even know if it's
+[00:28:12] intentional, but you know, it is what it
+[00:28:14] is. But the brain orgasm piece is really
+[00:28:17] [ __ ] sick. That's almost like a
+[00:28:20] unique mechanism of the solution a
+[00:28:22] little bit. Um, if not, it's just a cool
+[00:28:25] term for the outcome that you can get
+[00:28:27] from using this product.
+[00:28:33] So having [ __ ] and excuse me and
+[00:28:37] orgasm in the same sentence,
+[00:28:41] think about the level of contrast you're
+[00:28:42] create creating there and curiosity. A
+[00:28:45] lot of copy, especially hooks, is just
+[00:28:47] opening as many loops as you possibly
+[00:28:49] can. Opening these tabs in the brain of
+[00:28:52] the person watching the video,
+[00:28:56] knowing that you're going to close them
+[00:28:57] later down the down the line. Now, if I
+[00:29:00] were to be a psycho about this, I think
+[00:29:02] the one thing that could have been done
+[00:29:03] better from this text here is just the
+[00:29:07] length. Because again, think of who's
+[00:29:10] going to be watching this, and they're
+[00:29:11] mostly going to be watching on their
+[00:29:13] phone. Roughly, your phone is going to
+[00:29:14] be about this size. Like, if I hold my
+[00:29:16] phone up to the screen, that would be
+[00:29:18] the actual size. I think I have a iPhone
+[00:29:20] 16. So, this is the actual size. I'm not
+[00:29:24] going to read this entire thing as
+[00:29:26] there's speaking going on in the
+[00:29:28] background. I if this were me to adjust
+[00:29:30] this and turn it to something even
+[00:29:32] better, the text on screen should be way
+[00:29:35] more simple. It should be shorter. It
+[00:29:37] should be simple, but it should still
+[00:29:38] punch.
+[00:29:41] So, I think the stronger piece is going
+[00:29:43] to be brain orgasm.
+[00:29:49] Even like first time feeling a brain
+[00:29:52] orgasm, that's better. Still a little
+[00:29:54] bit too long. Um,
+[00:29:58] I think even something as simple as like
+[00:30:00] brain orgasm alone creates a ton of
+[00:30:02] curiosity.
+[00:30:04] >> Can you see it?
+[00:30:05] >> I think so. Yeah. Oh, yeah. Yeah. Yeah.
+[00:30:08] >> Also, just so you know how in-depth I go
+[00:30:10] with these these ad reviews, do you
+[00:30:12] notice how the camera angles are
+[00:30:14] changing? Right. So, first initially, it
+[00:30:17] actually starts in this angle. This is
+[00:30:19] this is that zero minutes in the ad. It
+[00:30:22] lasts for a a few milliseconds. And then
+[00:30:24] it goes to a new camera angle right
+[00:30:26] there. That was under one second.
+[00:30:29] [snorts] And now she's looking off
+[00:30:31] camera, but she's looking to the other
+[00:30:33] camera, but now she's looking off camera
+[00:30:34] directly. And we already have a dynamic
+[00:30:37] camera switch, which, you know, camera
+[00:30:39] uh angle switches can also improve
+[00:30:41] retention a lot because you want to keep
+[00:30:43] it dynamic typically every, you know,
+[00:30:45] two to four seconds.
+[00:30:46] >> Can you see it?
+[00:30:48] >> I think so. Oh, yeah. Oh, yeah. Yeah.
+[00:30:50] Yeah. Oh wow.
+[00:30:51] >> And then whatever the [ __ ] is happening
+[00:30:53] obviously is is a nice little open loop
+[00:30:55] of whatever is actually happening.
+[00:30:56] >> Oh yeah.
+[00:30:56] >> Oh wow.
+[00:30:58] >> Oh
+[00:30:59] okay. I
+[00:31:02] >> All right. We get it. So when people
+[00:31:05] talk about like Mark, I have this
+[00:31:06] winning ad.
+[00:31:09] How do I make more of them? How do I
+[00:31:10] make variations? How do I make
+[00:31:12] iterations? And what I've what I've
+[00:31:15] spoken about here for the last like five
+[00:31:17] or 10 minutes is the first 5 seconds of
+[00:31:19] this ad. This is 2 minutes long. I think
+[00:31:22] a lot of you just don't realize the
+[00:31:25] sheer level of depth you should go to
+[00:31:27] when you analyze your ad creatives,
+[00:31:29] especially the successful ones. Because
+[00:31:31] whether you understand it or not,
+[00:31:33] there's all these psychological triggers
+[00:31:35] that are happening um underneath the
+[00:31:38] surface that I can see as somebody who's
+[00:31:40] been practicing copy for like eight
+[00:31:42] years, but most people just don't see it
+[00:31:46] or they just choose not to analyze this
+[00:31:48] deeply because they're [ __ ] lazy. So,
+[00:31:52] that was a cool ad. Uh kind of like a
+[00:31:54] product demo
+[00:31:56] and super high curiosity, super duper
+[00:31:59] broad as well. Like this is the textbook
+[00:32:01] definition of like a top offunnel
+[00:32:03] creative. Even though the product is
+[00:32:05] immediately being shown, this product
+[00:32:07] >> product demos typically are a little bit
+[00:32:09] more middle or bottom funnel, but here
+[00:32:11] it's being used in a way that's
+[00:32:12] definitely top of funnel. Let's move on
+[00:32:13] to the next ad here.
+[00:32:23] All right, these guys scaling up their
+[00:32:25] uh creative production as you can see
+[00:32:28] already in September. have tested triple
+[00:32:30] the ads that they were testing in
+[00:32:33] August.
+[00:32:36] Let's take a look here.
+[00:32:39] >> Look at that. That's freaky. Ladies, if
+[00:32:41] you are over 40 and
+[00:32:44] >> Okay, so this is
+[00:32:47] [ __ ] This one's a little bit similar to
+[00:32:49] the other because it's also like showing
+[00:32:51] the outcome, but it's not an actual
+[00:32:52] demo. No, it is actually a demo of the
+[00:32:54] product. Um, but what you have here is
+[00:32:58] kind of like a micro hook into a
+[00:33:01] qualifying hook. The micro hook is what
+[00:33:03] you see in the first few seconds. So,
+[00:33:05] let's let's check it out.
+[00:33:10] Also, a very very short clip in the
+[00:33:11] beginning that was probably
+[00:33:12] unintentional, but just, you know, I do
+[00:33:14] notice the text on screen. We see bring
+[00:33:16] the med spa home for one price. I think
+[00:33:19] that's [ __ ] weak, but
+[00:33:23] you know, it's better than nothing, I
+[00:33:24] suppose.
+[00:33:26] Look at that.
+[00:33:27] >> Also, the
+[00:33:29] captions on screen are relatively small.
+[00:33:31] I think uh it's not too bad. I guess you
+[00:33:34] zoom out. This would be on your phone. I
+[00:33:37] think for this market is probably okay,
+[00:33:38] but I I like to be very maniacal about
+[00:33:41] the size of uh text, whether it's on
+[00:33:43] ads, whether it's on uh landers. Most of
+[00:33:46] you probably are going to increase your
+[00:33:49] conversion rate across any asset that
+[00:33:50] you have if you just make the text
+[00:33:52] larger.
+[00:33:54] Like I I remember learning this in like
+[00:33:56] 2020 I think from this email copywriter
+[00:33:59] dude. He was like, "Yeah, I was sending
+[00:34:01] out emails to my list, you know, every
+[00:34:03] single day." And I was running a promo
+[00:34:05] and every day I just increased the font
+[00:34:07] size by one or two pixels and every day
+[00:34:10] my conversions went up. It was a split
+[00:34:12] test he was running and it was like
+[00:34:14] every single day my conversions went up
+[00:34:15] and and the emails converted better and
+[00:34:17] better and better.
+[00:34:19] So, I was like, "Fuck, if that's true
+[00:34:21] with email copyrighting, I wonder who's
+[00:34:23] doing that on their landers. I wonder
+[00:34:24] who's doing that in their creatives."
+[00:34:27] Clarity is one of the most important
+[00:34:29] principles in copyrightiting. Don't try
+[00:34:31] to impress people with how cool your
+[00:34:33] copy is. Just try to be incredibly
+[00:34:35] clear.
+[00:34:37] >> That's freaky.
+[00:34:38] >> So, that's kind of the micro hook here.
+[00:34:41] It's the first two seconds and then from
+[00:34:43] two seconds to however many seconds
+[00:34:44] after that, we have the qualifier.
+[00:34:48] Look at that. That's freaky.
+[00:34:51] >> Look at that. That's freaky. So, I don't
+[00:34:54] have a whole lot to say here. Just kind
+[00:34:56] of the the shock factor, but notice
+[00:35:00] notice.
+[00:35:06] >> Can you see it?
+[00:35:08] >> You see it? You seeing a trend here? Can
+[00:35:11] you see it here?
+[00:35:14] >> Look at that.
+[00:35:18] You [ __ ] are you [ __ ] putting two
+[00:35:20] and two together little [ __ ] [ __ ]
+[00:35:24] Not only a micro commitment, but the
+[00:35:26] most micro commitment, most important
+[00:35:28] micro commitment you could ever [ __ ]
+[00:35:30] have, which is to get people to continue
+[00:35:32] watching the [ __ ] ad. Look at that.
+[00:35:33] Do you see this? Do you [ __ ] see
+[00:35:35] that? You guys ever see these videos uh
+[00:35:37] trending on social media where it's like
+[00:35:41] somebody's using an old audio,
+[00:35:45] but it's a new video and the old audio
+[00:35:47] is like, "Whoa, look at that. Do you see
+[00:35:50] that? What the [ __ ] is that?" And then
+[00:35:52] the video literally is showing nothing.
+[00:35:54] It's like showing nothing interesting,
+[00:35:55] yet the video will have like hundreds of
+[00:35:57] thousands of views because the person is
+[00:36:00] continually telling them to like look at
+[00:36:01] something and you're like, "What the
+[00:36:02] [ __ ] What the [ __ ] am I looking at
+[00:36:04] here? And then that's just getting them
+[00:36:06] cons to consume more and more and more
+[00:36:09] of that video.
+[00:36:12] So both of these ads are doing this very
+[00:36:14] very well by not only getting that micro
+[00:36:16] commitment but getting them to consume
+[00:36:17] more simply by using this visual
+[00:36:19] explainer. Look at this. Look at that.
+[00:36:21] Look at me. [ __ ] you. You know
+[00:36:24] >> that's freaky.
+[00:36:27] Ladies, if you are over 40 and menopause
+[00:36:30] has started doing that little gravity
+[00:36:32] trick on your face, then you need to
+[00:36:34] listen up.
+[00:36:34] >> So, that's kind of the the qualifier
+[00:36:36] hook after. Um, this was originally
+[00:36:40] invented by Prince of Print himself,
+[00:36:42] Sergey Halbert. This is kind of like the
+[00:36:44] if then. Ultimately, you want to qualify
+[00:36:47] as many people as possible within that
+[00:36:49] hook. And she's going for menopause,
+[00:36:52] ladies over 40, you know, skincare
+[00:36:53] issues, then you need to listen up. So
+[00:36:55] once again getting another tie down on
+[00:36:58] why they need to watch the rest of this
+[00:37:00] creative. So I don't really want to
+[00:37:02] analyze the rest of this because
+[00:37:04] actually let me let me break down this
+[00:37:06] um very quickly the the qualifier hook
+[00:37:10] because they're actually using hook
+[00:37:11] stacking here which is using one hook
+[00:37:12] right on top of another in order to
+[00:37:14] maximize retention and get more people
+[00:37:15] to watch your ad. So the first hook was
+[00:37:18] like a micro hook super duper short
+[00:37:20] using the product.
+[00:37:22] >> Look at that. That's freaky. just
+[00:37:24] saying, "Look at that." Getting that
+[00:37:25] micro commitment. Next,
+[00:37:26] >> ladies, if you
+[00:37:28] >> We have the woman actually using the
+[00:37:30] product the entire time. If this was
+[00:37:31] just a lady looking at the camera, maybe
+[00:37:33] with a product in her hand, um you're
+[00:37:36] not going to get as good retention where
+[00:37:38] you're compared to doing something like
+[00:37:40] this where you're actively doing
+[00:37:41] something. Like, I'm sure we've all also
+[00:37:43] came across those videos on uh IG or
+[00:37:45] other platforms where somebody's like
+[00:37:48] telling a story, but they're like doing
+[00:37:49] something the entire time. they're like
+[00:37:50] cooking or like solving a [ __ ]
+[00:37:52] Rubik's cube or like whatever they're
+[00:37:54] doing something because your brain is
+[00:37:57] now,
+[00:37:58] you know, your ears are listening to
+[00:38:00] what the person is saying, but now your
+[00:38:02] eyes have something to feast upon that's
+[00:38:03] not just like the person talking. It's
+[00:38:04] like them accomplishing something. So,
+[00:38:07] you're able to trigger even more
+[00:38:08] dopamine to uh to consume the ad. Let's
+[00:38:11] look at Let's look at one more. This is
+[00:38:13] actually going way uh longer than I
+[00:38:15] thought for for each ad, but
+[00:38:19] I actually think it's better to go
+[00:38:21] through viewer creatives, but go way
+[00:38:23] more in-depth because dude, everybody
+[00:38:26] posts these [ __ ] videos and like
+[00:38:27] there's a reason that I don't post
+[00:38:29] videos like this where it's like
+[00:38:30] breaking down the successful ad. [ __ ]
+[00:38:33] you, bro. Anybody can [ __ ] do that.
+[00:38:36] Anybody. I think at least I'm going
+[00:38:39] really deep into this and I'm like I'm
+[00:38:40] spending five plus minutes on the first
+[00:38:43] two seconds of the video.
+[00:38:46] But these these people that are like
+[00:38:48] here's why this you know ad was
+[00:38:50] successful and they're like okay he had
+[00:38:52] a really high curiosity hook. Like no
+[00:38:55] [ __ ] [ __ ] dude like wow you
+[00:38:57] understand advertising 101. You got to
+[00:39:00] have a good hick. What good [ __ ]
+[00:39:01] hook? This is news to me
+[00:39:05] you know. [ __ ] you. Let's get Let's
+[00:39:08] Let's get into some real [ __ ] [ __ ]
+[00:39:10] huh? Okay,
+[00:39:12] I don't remember this one. Let's see.
+[00:39:14] Um, really strong thumbnail, though.
+[00:39:16] Super strong thumbnail. Let's see what
+[00:39:17] we got.
+[00:39:19] >> Look what this fake under eye device did
+[00:39:21] to my face.
+[00:39:23] >> All right, let's break it down. So, we
+[00:39:26] have the curse word. So, same rules
+[00:39:28] apply there of of creating that
+[00:39:30] polarity. Um, cur uh bleeping it out, I
+[00:39:34] think, creates actually more auditory
+[00:39:36] contrast as well. In the same way, uh I
+[00:39:40] know audio is like not the most
+[00:39:41] important thing, blah blah blah, but to
+[00:39:44] create that level of contrast through
+[00:39:45] the audio,
+[00:39:47] um I think that's [ __ ] badass. I
+[00:39:49] mean, I remember when these these songs
+[00:39:52] were coming out when I was younger. I
+[00:39:53] was like in middle school, and they
+[00:39:55] would legitimately bleep [ __ ] out. They
+[00:39:57] wouldn't just like remove the the curse
+[00:39:59] word. Like, it would be like the beep
+[00:40:01] like in the song. It's like my all my
+[00:40:03] attention went to the beep now. like you
+[00:40:04] you were trying to get me to forget
+[00:40:06] about the curse word. Now I really want
+[00:40:07] to [ __ ] know what what was [ __ ]
+[00:40:09] happening there. Same principle here.
+[00:40:11] So, we actually get some really
+[00:40:12] interesting uh polarity and contrast
+[00:40:15] created just with that beeping sound
+[00:40:16] beeping out the curse word. Plus, it's
+[00:40:18] going to be more compliant on Facebook.
+[00:40:20] I've run stuff uh ads where you're
+[00:40:22] cursing actively in the ad. And I think
+[00:40:25] if it's very minimal, it has a really
+[00:40:27] minimal impact on your your CPMs, your
+[00:40:29] conversions overall. Like I get them
+[00:40:30] approved no problem personally,
+[00:40:33] but I like this better personally.
+[00:40:37] >> This look what this fake under eye
+[00:40:40] device did to my face.
+[00:40:41] >> So we got one of these green screen um
+[00:40:44] hooks here.
+[00:40:49] [laughter]
+[00:40:50] Dude, I mean, wait a minute. Who the who
+[00:40:53] the [ __ ] face is this?
+[00:40:56] This [ __ ]
+[00:41:00] This is like the Is this one of the Is
+[00:41:03] this the captain of the ship from
+[00:41:04] Wall-E? That [ __ ] movie of the
+[00:41:06] robots?
+[00:41:08] Those super overweight [ __ ] people.
+[00:41:10] What kind of
+[00:41:12] [laughter]
+[00:41:14] What kind of [ __ ] squashed faced
+[00:41:17] [ __ ] skull is this
+[00:41:20] [ __ ] butternut butter squash looking
+[00:41:23] ass face, bro? Golly goodness gracious.
+[00:41:27] I don't even like looking at this.
+[00:41:29] That's actually a good principle though
+[00:41:30] when it comes to creating like these
+[00:41:32] visual the visual element of the hook
+[00:41:34] here. You want to create what I call
+[00:41:38] like the uh I'll just call it like the
+[00:41:41] car crash effect, which is like if
+[00:41:43] you're at your house and you walk
+[00:41:45] outside and you're just kind of looking
+[00:41:47] at the cars that are passing you and
+[00:41:49] there's a bad [ __ ] accident, like
+[00:41:52] really bad between two cars. You don't
+[00:41:56] want to look, but you can't help but
+[00:41:59] look. You know, you know that kind of
+[00:42:02] feeling if you look at some really crazy
+[00:42:04] native statics, it's the exact same
+[00:42:06] principle. It's like I don't want to
+[00:42:07] look at this. Like looking at this
+[00:42:09] genuinely makes me uncomfortable, but I
+[00:42:11] can't stop looking at it. That's kind of
+[00:42:13] the element that you should create when
+[00:42:14] it comes to your your visual piece of
+[00:42:17] the hook. those squirrel stoppers is you
+[00:42:20] want to make something that is
+[00:42:22] borderline
+[00:42:26] uncomfortable, borderline disgusting,
+[00:42:29] but like you feel like you still have to
+[00:42:31] look at it, you know, like you just
+[00:42:32] can't look away.
+[00:42:33] >> This look what this
+[00:42:36] >> Once again, we have the same This is
+[00:42:39] crazy. I didn't intentionally pick
+[00:42:40] these. Um, these were just in in one of
+[00:42:43] my swipe files, but notice how all three
+[00:42:46] of these ads that we have now reviewed
+[00:42:48] have used the exact same concept of this
+[00:42:50] micro commitment saying, "Look at look
+[00:42:52] at something in some way, shape, or
+[00:42:54] form. And they're all profitable." Well,
+[00:42:58] I don't know if they're profitable, but
+[00:42:58] they're all successful ads.
+[00:43:01] All of them.
+[00:43:04] And they all use the same principle.
+[00:43:05] Isn't that interesting? Hm. It's almost
+[00:43:07] like maybe you should [ __ ] listen
+[00:43:09] listen to what I [ __ ] say. Huh? H
+[00:43:13] Maybe that's a maybe that's a good
+[00:43:14] [ __ ] idea. What do you think?
+[00:43:17] All right.
+[00:43:19] In this case, we have the exact same
+[00:43:20] text as we do the copy. So, there's not
+[00:43:25] a ton to break down here. We have the
+[00:43:26] look. We have the the cursing. Uh once
+[00:43:28] again, we have underey device. The
+[00:43:30] previous one also had the word sorry
+[00:43:33] this one also had the word device right
+[00:43:35] here
+[00:43:37] did to my face.
+[00:43:41] I think if I were to take over this ad
+[00:43:43] and I was like you know we have to step
+[00:43:45] this up somehow. I would probably make
+[00:43:47] this last uh this image in the back. I
+[00:43:52] would make it a video and I would make
+[00:43:53] it dynamic.
+[00:43:55] >> Thising fake under eye device did my
+[00:43:57] face. Look what this fake under eye
+[00:44:01] device did to my face.
+[00:44:02] >> Okay, that's like a whole three ass
+[00:44:04] seconds right there. Like 3 seconds
+[00:44:06] staring at an image. I mean, granted, we
+[00:44:08] have her in video form, which is good,
+[00:44:10] but if I were to take it over, I would
+[00:44:11] want to see this uh X-ray scan, I guess.
+[00:44:16] I'd want to see it dynamically changing
+[00:44:19] in a really weird way, you know, a way
+[00:44:20] that makes me go like, "What the [ __ ] I
+[00:44:22] need to watch the rest of this."
+[00:44:26] So
+[00:44:29] yeah, um
+[00:44:32] I think at this point I'm gonna I'm
+[00:44:35] going to pause because I've been I've
+[00:44:37] been yapping for a bit. I was not even
+[00:44:38] looking at the chat. I don't know what
+[00:44:40] what's going on there, but let me take a
+[00:44:41] second to look and we can move to Q&A
+[00:44:44] now.
+[00:44:46] We can move to Q&A. So whatever
+[00:44:48] questions you guys got, feel free to
+[00:44:49] drop them in the chat. I got about I
+[00:44:52] actually don't have that much time. I
+[00:44:53] got like five minutes. I got like five
+[00:44:56] minutes and I got to bounce. [snorts]
+[00:44:59] Who is this guy and why is he naked?
+[00:45:02] He must be new here.
+[00:45:05] Yeah, let's drop some questions in the
+[00:45:06] chat, guys. I'll I'll rapid fire get to
+[00:45:08] as many um
+[00:45:12] as many [ __ ]
+[00:45:16] as many [ __ ] people as I can.
+[00:45:23] >> [snorts]
+[00:45:25] >> Okay, great question. Young JB,
+[00:45:28] good to see you, bro. Hey, Mark, how do
+[00:45:30] you know when you're either not selling
+[00:45:32] somebody enough on the ad or landing
+[00:45:33] page when you have good CTR but no
+[00:45:35] sales? It's one of the most difficult
+[00:45:37] things, bro, when it comes to
+[00:45:38] advertising because you have to be able
+[00:45:40] to read the data, but you also have to
+[00:45:42] be able to read between the data. So, if
+[00:45:45] you have really good CTR, I'd want to
+[00:45:46] know what CTR because a good CTR means
+[00:45:49] like different things to different
+[00:45:50] people. But I would say if you have a
+[00:45:53] really good CTR, let's say it's above
+[00:45:54] like 5%. Um, but no sales,
+[00:46:00] you got to break down your metrics
+[00:46:03] associated with your funnel first to see
+[00:46:05] what is within KPI and what is outside
+[00:46:07] KPI. It's really easy to spend money on
+[00:46:09] ads and be like, "My CTR is great. No
+[00:46:12] sales." uh you know, but it was like why
+[00:46:15] was there no sales?
+[00:46:17] Let's let's isolate it first to rule out
+[00:46:19] every possible reason why it's maybe not
+[00:46:23] the lander. Okay, let's look at the link
+[00:46:25] click to landing page view drop off. It
+[00:46:27] should be no more than 20%. Let's look
+[00:46:28] at the add to cart ratio for products
+[00:46:31] like in the 40 to $80 price ration price
+[00:46:34] range. It should be like 8 to 10%. More
+[00:46:36] than $80, it should be like seven or
+[00:46:38] eight%.
+[00:46:40] So, is that within KPI? Yes. No. Cool.
+[00:46:42] How about add to cart to purchase ratio?
+[00:46:44] Um, for most products, it should be
+[00:46:46] around 30%. So, if you get 10 add to
+[00:46:48] carts, at least three should go through
+[00:46:49] and purchase. Okay, which one of those
+[00:46:51] is outside of KPI? There's a different
+[00:46:53] answer to all of those. So, for most
+[00:46:55] people, it's add to cart ratio. And you
+[00:46:58] have to be able to look at your lander
+[00:46:59] and then go back to your creative and
+[00:47:01] rewatch it, reread it if it's like a
+[00:47:03] native static, and understand the kind
+[00:47:06] of traffic that you are attracting
+[00:47:08] through your marketing words. Because
+[00:47:10] something that Facebook does not admit,
+[00:47:12] but they 100% do is they use your
+[00:47:15] primary text to determine your targeting
+[00:47:17] to to some degree. 100%. Maybe it's only
+[00:47:21] 10% of their uh information that they
+[00:47:23] use to determine targeting. But the
+[00:47:25] reason I can say this with such
+[00:47:26] confidence is because if you run
+[00:47:28] something like a native static, you
+[00:47:29] know, if you simply change the text, the
+[00:47:32] primary text, you can target completely
+[00:47:35] different kinds of people. If it was
+[00:47:36] only targeting based off the creative,
+[00:47:38] you would never come to that conclusion.
+[00:47:41] So that's how you know it's not just the
+[00:47:42] creative that determines your targeting.
+[00:47:44] It's the creative and the copy. That's
+[00:47:45] especially true for images. It's less
+[00:47:47] true for videos. But in general, you
+[00:47:49] have to go and read your uh creative and
+[00:47:52] read your copy associated with it. What
+[00:47:54] I see super frequently, bro, is a lot of
+[00:47:57] guys try to like CTR max on their
+[00:48:00] creatives now with native status.
+[00:48:01] They're like, "Oh, look at me. I got 30%
+[00:48:03] [ __ ] CTR. Oh, I'm at like a 10% CTR
+[00:48:05] link. Then you read the copy and you're
+[00:48:07] like, look at the people you're speaking
+[00:48:09] to, bro. Like, these people have no
+[00:48:10] interest in buying from you. So, now
+[00:48:12] you're just optimizing around these
+[00:48:14] people. Um, because if Facebook doesn't
+[00:48:16] have any conversion data to optimize on,
+[00:48:19] they're going to initially use a little
+[00:48:20] bit of the engagement data. And once
+[00:48:23] again, the targeting partially is due to
+[00:48:26] the text that you have in your primary
+[00:48:27] copy. So unfortunately I can't tell you
+[00:48:30] just like you know exactly what it is
+[00:48:33] for you because I don't know your
+[00:48:34] numbers and your data and I haven't seen
+[00:48:35] your ads but it should be a combination
+[00:48:37] of reading the data and reading between
+[00:48:39] the data to understand most often what I
+[00:48:42] see is people going way way way too top
+[00:48:44] of funnel. They run like these native
+[00:48:45] statics that the the hook is like my dog
+[00:48:49] died and it's my fault. They're like,
+[00:48:51] "Oh, Jesus Christ, bro." Like, yes, of
+[00:48:53] course you have a 50% [ __ ]
+[00:48:55] click-through rate. And then somehow
+[00:48:58] you got to [ __ ] tie the [ __ ] into
+[00:48:59] like a joint supplement for a dog.
+[00:49:03] That's not easy to do. Like, it's
+[00:49:04] possible. And if you crack it, cool. You
+[00:49:06] got the most scalable ads on the [ __ ]
+[00:49:08] planet. But if you don't,
+[00:49:10] now you're just attracting really,
+[00:49:12] really [ __ ] people that just want to
+[00:49:13] read an interesting story and have no
+[00:49:15] desire in buying your product. Not
+[00:49:17] saying it can't work. It can work. But
+[00:49:20] the degree to which you have to be
+[00:49:21] really [ __ ] good at copywriting
+[00:49:22] exponentially increases the more top of
+[00:49:25] funnel you go when it comes to your
+[00:49:26] copy.
+[00:49:29] I don't think people will understand how
+[00:49:30] valuable what I just said actually is.
+[00:49:32] But like if you know then you know
+[00:49:44] how important is a thumbnail considering
+[00:49:46] people mostly get into the ad by
+[00:49:47] scrolling. It used to be way more
+[00:49:49] important. Now ads are autoplayed. So I
+[00:49:52] think it's it's really not like I don't
+[00:49:53] I don't put much emphasis really on the
+[00:49:55] thumbnail at all anymore.
+[00:49:57] Um, hey, I have a 3.5% conversion rate,
+[00:50:00] but my ad cost is higher than my
+[00:50:01] earnings. Should I drop that product or
+[00:50:03] test different ads? Read the data, bro.
+[00:50:04] If you have a three and a half%
+[00:50:06] conversion rate, that's really good. You
+[00:50:07] may just need to make better ads to
+[00:50:09] lower your CPC. So it depends on what
+[00:50:11] your CPC actually is and where the
+[00:50:14] breakdown is occurring on your creative
+[00:50:15] side because your funnel is obviously
+[00:50:17] converting really, really well. So most
+[00:50:19] likely the answer is make better ads.
+[00:50:32] How do you niche down in life? Pick a
+[00:50:34] skill and get good at it, especially not
+[00:50:35] from first world.
+[00:50:39] Um,
+[00:50:42] bro, I think the best the best advice I
+[00:50:45] could give you is don't even don't even
+[00:50:47] try and just
+[00:50:50] let me finish. Don't even try to go do
+[00:50:53] all this research to figure out what you
+[00:50:56] should center your life around. Just try
+[00:50:59] [ __ ] Just start getting your hands
+[00:51:00] dirty. test a bunch of things that you
+[00:51:03] think are a little bit interesting and
+[00:51:05] see where it takes you because you're
+[00:51:06] going to learn very quickly if it's
+[00:51:08] actually something for you, something
+[00:51:09] that you're interested in and something
+[00:51:11] that's going to help you, you know,
+[00:51:13] achieve your your goals with your life.
+[00:51:15] You're going to learn that really
+[00:51:16] quickly. And the only way you're going
+[00:51:17] to know that, it's not the research.
+[00:51:19] It's just through actually doing it. So,
+[00:51:21] the faster you can get into just testing
+[00:51:23] [ __ ] testing [ __ ] the better.
+[00:51:39] All right, I'm not going to lie. These
+[00:51:40] these [ __ ] questions suck. So,
+[00:51:44] I'm sorry. Go rewatch this [ __ ] live
+[00:51:47] and a few other lives. And that's all I
+[00:51:49] got for today. Thank you guys so much
+[00:51:50] for being here. Other than that, I'm
+[00:51:52] going to cue the outro because I got to
+[00:51:54] get out of here pretty soon. But thank
+[00:51:56] you for being here. Share it with a
+[00:51:59] friend or something, bro. Oh, you know
+[00:52:01] what? I got some [ __ ] I got some ball
+[00:52:03] knowledge today. [snorts]
+[00:52:06] I went down a rabbit hole last night.
+[00:52:22] this morning about my [ __ ] I'm bing.
+[00:52:24] She
+[00:52:29] [music]
+[00:52:31] pushing the limit. I'm pushing it up.
+[00:52:32] [ __ ] it up. I'm back with your [ __ ]
+[00:52:34] She g it up.
+[00:52:37] [music]
+[00:52:38] Like I'm got a lot of money. I can't
+[00:52:41] relate to you. I don't know what [music]
+[00:52:43] the time you talk to me. Sounded dumb as
+[00:52:45] [ __ ]
+[00:52:47] If you could understand me, [music] I'll
+[00:52:49] ass.
+[00:52:56] >> I'm pushing the limit. I'm pushing it
+[00:52:57] [music] up. I'm [ __ ] it up.

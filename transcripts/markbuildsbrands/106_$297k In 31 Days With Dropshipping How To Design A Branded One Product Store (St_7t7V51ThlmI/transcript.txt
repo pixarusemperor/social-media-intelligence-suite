@@ -1,0 +1,634 @@
+# $297k In 31 Days With Dropshipping | How To Design A Branded One Product Store (Step-By-Step)
+URL: https://www.youtube.com/watch?v=7t7V51ThlmI
+Category: video
+Duration: 1142s
+Published: 20240129
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] ah oh [ __ ] just busted my ass what's up
+[00:00:02] guys in this video I'm going to show you
+[00:00:04] exactly how we made
+[00:00:05] $297,000 Drop Shipping in just $31 days
+[00:00:09] so I'm here inside my store here I'll
+[00:00:10] give it a quick refresh so that you can
+[00:00:11] see everything is real and legit and yep
+[00:00:14] as you can see 297k in sales but really
+[00:00:17] the only reason we were able to do these
+[00:00:19] numbers is because of this number right
+[00:00:21] here we had an average conversion rate
+[00:00:23] of 4% which means that for every 100
+[00:00:25] people who visits our store four of them
+[00:00:27] are going to whip out their credit card
+[00:00:28] and pay us money to buy our product
+[00:00:29] which is a really good conversion rate
+[00:00:31] the reason that that conversion rate is
+[00:00:32] so high is simply because of the very
+[00:00:34] unique way that we set up our landing
+[00:00:36] pages so in this video not only am I
+[00:00:38] going to show you what an actually good
+[00:00:40] landing page looks like cuz I'll be
+[00:00:42] honest most of the people that create
+[00:00:43] drop shipping stores their landing pages
+[00:00:45] look like they were created by a
+[00:00:46] 6-year-old on Aderall you do you could
+[00:00:48] you but I'm actually going to make a
+[00:00:50] high converting landing page for you so
+[00:00:53] you can literally watch over the
+[00:00:54] shoulder and see exactly how we design
+[00:00:56] landing pages that can get you results
+[00:00:58] just like this but let's answer the
+[00:00:59] question it's on everybody's mind out of
+[00:01:01] this
+[00:01:02] $297,000 how much did you actually take
+[00:01:04] home in profit so our total sales were
+[00:01:07] 297k but when you subtract refunds and
+[00:01:09] payment processing fees our net sales
+[00:01:11] were actually
+[00:01:12] $278,000 from there we really had two
+[00:01:14] big expenses number one is our ad spend
+[00:01:16] so this is money we spent on Facebook
+[00:01:17] ads and as you can see here in our ads
+[00:01:19] manager last month we spent
+[00:01:21] $163,000 on Facebook ads and our second
+[00:01:24] big expense was our product cost which
+[00:01:25] is actually how much money we're paying
+[00:01:27] our supplier to ship out our products
+[00:01:28] for us so we had $9,000 in cost a good
+[00:01:31] sold which left us with $847 19 in net
+[00:01:35] profit which is about 20% net profit
+[00:01:37] margins now enough talking let's go
+[00:01:39] ahead and Design This landing page so
+[00:01:40] you can actually make more money and do
+[00:01:42] all the fun stuff that comes with it
+[00:01:43] like buying Lamborghinis retiring your
+[00:01:45] mom and Escaping The Matrix all right so
+[00:01:47] first things first we got to actually
+[00:01:48] create a Shopify store if you hit the
+[00:01:50] first link in the description you can
+[00:01:51] actually get Shopify literally for $1
+[00:01:54] per month for 3 months it's a ridiculous
+[00:01:56] deal so if you don't have a store click
+[00:01:57] that first link in the description and
+[00:01:59] here we're just going to type in our our
+[00:02:00] email create this free Tri so that we
+[00:02:01] can get a store going and now that we're
+[00:02:03] in the store the first thing to do is
+[00:02:04] add a product now I'm not going to go
+[00:02:06] through my entire product research
+[00:02:08] process here if that's something that
+[00:02:09] you want I'll create a separate video
+[00:02:10] just comment product below this video
+[00:02:12] what I'm going to do is head over to
+[00:02:14] shop Hunter and quickly find a product
+[00:02:16] that is generating a lot of sales so
+[00:02:17] that we can design a landing page
+[00:02:19] specifically around that one product so
+[00:02:20] inside shop Hunter I found this product
+[00:02:22] here you may have seen it before shop
+[00:02:24] Hunter says they're doing between like1
+[00:02:26] and $500,000 per day in sales now do I
+[00:02:29] think that's 100 % accurate obviously
+[00:02:31] not but I can click over to their
+[00:02:32] website and activate the similar web
+[00:02:34] extension and see that they have
+[00:02:36] generated between 1 and 300,000 visitors
+[00:02:39] per month which if they have over 100k
+[00:02:40] visitors per month that is enough for me
+[00:02:42] to say that yes this product is
+[00:02:44] validated it's proven to sell so we can
+[00:02:46] design a brand around it so this is the
+[00:02:47] store here if this is your store I
+[00:02:49] apologize in advance it looks fantastic
+[00:02:50] trying to steal someone else's websites
+[00:02:52] or products usually just a fast way to
+[00:02:54] lose money so do not do that but just
+[00:02:56] for example purposes I'm going to use
+[00:02:57] this product and build a nice looking
+[00:02:58] landing page so let's go back to our
+[00:03:00] store and hit add product now for the
+[00:03:01] name of this product I'm going to call
+[00:03:03] this the relaxer back stretcher now for
+[00:03:06] the description you want to lead with
+[00:03:08] one benefit driven sentence and then
+[00:03:09] three bullet points that are also very
+[00:03:11] benefit driven now to do this I actually
+[00:03:13] head over to chat gbt to write up some
+[00:03:14] really quick Copy now to write this
+[00:03:16] little bit of copy you're going to want
+[00:03:17] to go to Amazon and find the exact
+[00:03:20] product that you're trying to sell so I
+[00:03:21] found this product here it's not exactly
+[00:03:23] the same product but you can see that it
+[00:03:25] achieves the same outcome and gets the
+[00:03:26] same result all this description all of
+[00:03:29] this right here you're going to
+[00:03:30] completely ignore we do not care about
+[00:03:32] that you're going to go straight for the
+[00:03:33] reviews and what you're going to do is
+[00:03:34] take the top three most positive reviews
+[00:03:37] the ones that people have found the most
+[00:03:39] helpful right here you're going to paste
+[00:03:41] these into chat gbt with a specific
+[00:03:44] prompt so that it'll write the best
+[00:03:46] benefit driven headline that you can
+[00:03:48] possibly write all right so I pasted the
+[00:03:49] reviews into chat gbt along with uh a
+[00:03:52] few of my custom prompts if you want all
+[00:03:54] the prompts that I use to write every
+[00:03:55] piece of copy on my Ecom Brands just
+[00:03:58] write the word prompt in the comments
+[00:03:59] below and I'll send it to you completely
+[00:04:01] for free all right so I made a few
+[00:04:02] adjustments to the copy pasted it into
+[00:04:03] the description now we want to add three
+[00:04:05] quick benefit driven bullets so that
+[00:04:07] people can briefly get a summary of the
+[00:04:09] outcomes that they're going to
+[00:04:10] experience as a result of using this
+[00:04:12] product we do this because nobody wants
+[00:04:13] to read a long paragraph we're not here
+[00:04:16] writing a [ __ ] novel most people
+[00:04:18] already have the attention of a [ __ ]
+[00:04:20] goldfish and so we need to use that and
+[00:04:22] keep things very very short to the point
+[00:04:24] and always frame things in their
+[00:04:26] perspective it's not about how cool our
+[00:04:29] product is it's about what our product
+[00:04:31] can do to deliver the outcome that these
+[00:04:33] customers actually want which in this
+[00:04:35] case is a relief from back and neck pain
+[00:04:37] so let's head back over to Chad gbt and
+[00:04:39] write some
+[00:04:40] bullets so these three bullets are
+[00:04:42] actually not bad at all so let's copy
+[00:04:44] them and paste them directly into our
+[00:04:45] Shopify store just to make things look a
+[00:04:47] little bit cleaner let's go ahead and
+[00:04:49] add just a tiny bit of formatting for
+[00:04:50] each bullet boom and just like that we
+[00:04:52] got those bullets done we got that
+[00:04:54] initial benefit driven sentence done
+[00:04:56] let's go ahead and hit save and go on to
+[00:04:57] the next step I went over to AliExpress
+[00:04:59] and I found this product here and we can
+[00:05:00] get it shipped for probably right around
+[00:05:02] $5 and after looking at a few other
+[00:05:04] competitors we're going to price our
+[00:05:06] product at $40 so in your Shopify
+[00:05:08] product just scroll down to where it
+[00:05:09] says price and we're going to go ahead
+[00:05:11] and add
+[00:05:12] $39.95 with a compare at price of just a
+[00:05:15] standard 50% off which is $79.95 let's
+[00:05:17] unselect track quantity and hit save so
+[00:05:20] next thing we're going to do is add some
+[00:05:21] super basic product images to our
+[00:05:23] product most people are selling this as
+[00:05:25] a somewhat gender neutral product like
+[00:05:27] if we look at this store here there's 's
+[00:05:29] nothing in particular that's appealing
+[00:05:31] to one gender or the other this is good
+[00:05:33] for both male and females now I'm going
+[00:05:35] to take this product and make it a
+[00:05:36] female specific product because if you
+[00:05:38] think about the problems that many women
+[00:05:40] have a lot of them struggle from lower
+[00:05:42] back pain because of you know these
+[00:05:44] things that they got up here as well as
+[00:05:45] having a lot of children I mean that's a
+[00:05:47] lot of stress on your lower back so I'm
+[00:05:48] going to work that into all of the copy
+[00:05:51] but specifically with the product images
+[00:05:53] we're going to add product images that
+[00:05:54] specifically tailor to women because
+[00:05:56] there's some really high quality product
+[00:05:57] images here on this alliexpress list
+[00:05:59] listing I mean check out these product
+[00:06:00] images there's almost no adjustments
+[00:06:03] that we really have to make to these
+[00:06:04] photos so now we're actually going to
+[00:06:05] upload these photos into our Shopify
+[00:06:07] store so all you have to do is take a
+[00:06:08] quick screenshot of the photos that you
+[00:06:10] actually want to upload and then bring
+[00:06:12] them over to your Shopify and boom we're
+[00:06:13] good to go so you're just going to
+[00:06:14] continue this with all the product
+[00:06:16] images that you want to use and that'll
+[00:06:17] be everything we do on this particular
+[00:06:19] product page so now we're going to go
+[00:06:20] back home and select customize theme so
+[00:06:22] my favorite theme to use is the refresh
+[00:06:24] theme so we're just going to go down
+[00:06:25] here and select add and as this is
+[00:06:27] adding I need to tell you guys there's
+[00:06:28] no such as the Perfect theme I've had
+[00:06:31] stores that have had the most Bare Bones
+[00:06:33] basic design that have generated six
+[00:06:35] figures per month the more important
+[00:06:36] thing is the product the offer the copy
+[00:06:39] and the ads the theme is not going to
+[00:06:41] make or break your success but if you
+[00:06:43] choose one like this one it can make it
+[00:06:44] just a little bit easier so now that
+[00:06:45] this is added we're going to go ahead
+[00:06:46] and select publish and now we're going
+[00:06:48] to go in and actually customize our
+[00:06:50] specific product page so let's not worry
+[00:06:51] about the homepage for now go to
+[00:06:53] products and select default product so
+[00:06:55] the first thing we're going to do is go
+[00:06:56] through and update all of the colors so
+[00:06:57] go up here to theme settings select
+[00:06:59] colors and under scheme one let's go
+[00:07:02] ahead and adjust the background so that
+[00:07:03] it is Pure White and the next thing I
+[00:07:05] want to adjust is The Bu button so I'm
+[00:07:08] going to go here and I want to actually
+[00:07:09] get this exact pink color that is used
+[00:07:12] in this image because I really like the
+[00:07:13] color scheme here so I uploaded into
+[00:07:15] this website here image Color Picker and
+[00:07:16] it gave me this entire color palette so
+[00:07:18] I'm actually going to use this pink
+[00:07:20] right here I'm going to copy the hex
+[00:07:21] code go back over to the store and paste
+[00:07:24] that right in and so far I really like
+[00:07:25] how that looks even on mobile that
+[00:07:27] button is very clear so let's update the
+[00:07:28] rest of the colors the text we're just
+[00:07:30] going to make pure black with the label
+[00:07:31] text we're going to make full white
+[00:07:33] outline button we're going to make the
+[00:07:34] same color as our previous button while
+[00:07:36] we're at it let's go ahead and adjust
+[00:07:38] the header as well to adjust those
+[00:07:40] colors so let's select scheme 2 for that
+[00:07:42] and go and edit all those colors so
+[00:07:44] since our actual logo is going to be
+[00:07:46] around this pink color as well I'm going
+[00:07:47] to keep these buttons fully black so
+[00:07:49] everything else here is all going to be
+[00:07:52] black all right and then finally the
+[00:07:53] announcement bar let's also just adjust
+[00:07:55] the color of that too we'll make that
+[00:07:57] one schem of 3 and just adjust the back
+[00:07:59] background so that it is this pink color
+[00:08:01] and in terms of what we want to label
+[00:08:02] this announcement bar I like to keep it
+[00:08:04] very simple and make it free worldwide
+[00:08:06] shipping on all orders and I'll add a
+[00:08:08] little Emoji up here for any store that
+[00:08:10] I launch I don't just launch it in the
+[00:08:11] US I typically launch it in a bunch of
+[00:08:13] different countries so to know that
+[00:08:14] there's free shipping on all orders no
+[00:08:16] matter where you're living is really
+[00:08:17] important for a high conversion rate
+[00:08:19] next thing we want to do is let's edit
+[00:08:20] the color of this sale button right here
+[00:08:22] so I actually really like red for the
+[00:08:24] sale button because it kind of shouts
+[00:08:25] out at you that there is really big sale
+[00:08:28] going on and although it does differ
+[00:08:29] from our main pink color we want it to
+[00:08:31] be different we want it to stand out so
+[00:08:33] that people can take action on the deal
+[00:08:35] there's also a lot of psychology behind
+[00:08:36] the color red and how it can trigger
+[00:08:38] urgency and action now all of our colors
+[00:08:40] are pretty much done the only thing
+[00:08:42] that's left is to go through and edit
+[00:08:44] all the sections to build out the rest
+[00:08:45] of this landing page so for this little
+[00:08:46] piece of text right here where it says
+[00:08:48] my store my favorite thing to do here is
+[00:08:50] to emphasize our reviews so to do that
+[00:08:53] you're going to add five star emojis in
+[00:08:55] a row and then add some type of rating
+[00:08:56] so then even when you go to mobile which
+[00:08:58] is where most people are going to be
+[00:08:59] buying from you can see it looks very
+[00:09:01] very good and immediately there is
+[00:09:02] social proof that is established so now
+[00:09:04] that we have this main section done we
+[00:09:05] want to add one main headline that is
+[00:09:08] our USP which stands for our unique
+[00:09:10] selling proposition and for me like I
+[00:09:12] said I chose this to be a female
+[00:09:13] specific brand so I'm going to go to the
+[00:09:15] left here and select add section and
+[00:09:16] then select Rich text we're going to
+[00:09:19] write let's adjust a button here and say
+[00:09:22] get yours now and what I've noticed is
+[00:09:23] when you have an emoji on a call to
+[00:09:25] action button it can increase your
+[00:09:27] conversion rate pretty significant so
+[00:09:29] we're going to add that little arrow
+[00:09:30] there so I just wrote another line here
+[00:09:32] that says women experience back pain up
+[00:09:33] to three times more frequently than men
+[00:09:35] we designed this product specifically
+[00:09:36] for women for better posture and less
+[00:09:38] back pain if I wanted to write something
+[00:09:39] better I could spend a little bit more
+[00:09:40] time on it but for now I just want to
+[00:09:41] show you guys the best structure that
+[00:09:43] you can specifically use now let's just
+[00:09:44] go to the settings and edit a few small
+[00:09:46] things to make this flow a little bit
+[00:09:48] better so let's go to scheme three let's
+[00:09:50] deselect make sections full width and
+[00:09:53] just reduce the padding on the top and
+[00:09:54] bottom just a little bit cuz right now
+[00:09:56] it's just way too much let's go with 16
+[00:09:58] there we go all right now this section
+[00:09:59] is completely done let's go ahead and
+[00:10:00] move on to the next one so the next
+[00:10:02] section is going to be an overview of
+[00:10:04] the four specific benefits that this
+[00:10:06] product can achieve for you so let's go
+[00:10:08] to add section and select collapsible
+[00:10:10] content and for the heading I'm just
+[00:10:11] using Y use the and then insert your
+[00:10:14] product name and now these four
+[00:10:15] collapsible roads these are all going to
+[00:10:17] be a different benefit that your product
+[00:10:19] delivers to the customer plus to make
+[00:10:20] this look even better I'm actually going
+[00:10:22] to separate this um on desktop into two
+[00:10:24] separate sections so to do that just
+[00:10:26] select here and then you're going to
+[00:10:28] select another image that is related to
+[00:10:30] your product so I just took another one
+[00:10:31] from AliExpress we're going to select
+[00:10:32] that hit done now you can see it divides
+[00:10:34] it into two separate sections from here
+[00:10:36] and let's even adjust this line I think
+[00:10:37] we can make this even better are you
+[00:10:39] ready for relief now for the row
+[00:10:40] themselves we already wrote three of the
+[00:10:42] main headlines it's back pain posture
+[00:10:45] and the fact that it's versatile so I'm
+[00:10:47] going to expand this into four different
+[00:10:49] benefits that is back pain neck pain
+[00:10:52] posture and the fact that it's portable
+[00:10:54] so to adjust this just select on one
+[00:10:56] particular collapsable row and then edit
+[00:10:57] each individual benefit so let's use
+[00:10:59] eliminates back Paine and then for the
+[00:11:01] icon I'm actually going to select none
+[00:11:02] and then here right before I'm going to
+[00:11:04] use the emoji of the check mark Cuz I
+[00:11:08] think that looks a lot better now for
+[00:11:09] the actual row content once again we
+[00:11:11] pretty much already wrote this section
+[00:11:13] so I'm just going to take what we have
+[00:11:15] up here and have Chad gbt rewrite it so
+[00:11:17] I'm just going to say please rewrite
+[00:11:19] this benefit driven point so let's copy
+[00:11:22] this go back to our store and go back to
+[00:11:24] this first benefit here go ahead and
+[00:11:26] paste at it so I'm just adding one
+[00:11:28] little line here that ties it down so
+[00:11:31] it's one thing to write a benefit but
+[00:11:32] it's another thing to tie down that
+[00:11:33] benefit and really show what their life
+[00:11:35] would be like if they actually get the
+[00:11:37] result that the product is promising so
+[00:11:39] I'm saying this means no more pain
+[00:11:41] filled days and restful nights every
+[00:11:44] time so now that first benefit is done
+[00:11:45] let's go ahead and move through the rest
+[00:11:47] and I'm going to speed up through this
+[00:11:48] part because most of this has already
+[00:11:49] been
+[00:11:51] [Music]
+[00:11:54] written all right and there we go so
+[00:11:56] everything is updated and looks good the
+[00:11:58] only thing is this this image is now
+[00:12:00] creating a lot of white space here so
+[00:12:02] I'm just going to turn this into a 16x9
+[00:12:05] photo um using canva and then upload
+[00:12:08] that back
+[00:12:10] [Music]
+[00:12:12] in so there we go now this image is
+[00:12:14] obviously not perfect if I wanted to
+[00:12:16] take more time I'd probably adjust the
+[00:12:17] image just a little bit more so that it
+[00:12:19] fits perfectly but this will do for now
+[00:12:21] so now that this benefit driven section
+[00:12:23] is completed let's move on to the next
+[00:12:25] one by the way don't forget to hit save
+[00:12:26] this entire time you don't want to lose
+[00:12:27] all of your [ __ ] the next section we
+[00:12:29] want to add is a testimonial section so
+[00:12:31] to do this just hit add new section
+[00:12:33] right below our most recent one and
+[00:12:34] we're going to use this multicolumn
+[00:12:36] section right here here's what women are
+[00:12:37] saying and now ideally here you're using
+[00:12:39] Real reviews I never advocate for using
+[00:12:41] any type of fake reviews but again just
+[00:12:43] for time purposes I'm going to make some
+[00:12:44] up here on the spot so the first line of
+[00:12:46] every little square here this is going
+[00:12:48] to be the most important highlight of
+[00:12:49] the review now again for time purposes
+[00:12:51] I'm going to have chat gbt write some
+[00:12:53] reviews for us right
+[00:12:54] [Music]
+[00:12:57] here all right and now our review
+[00:12:59] section is complete and one thing you
+[00:13:01] may have noticed is that I have little
+[00:13:02] buttons here for a call to action
+[00:13:05] because when you're scrolling through on
+[00:13:06] mobile you never want to be more than
+[00:13:08] one scroll away from your call to action
+[00:13:10] button the first button is going to be
+[00:13:11] should be right above the fold which is
+[00:13:13] the very first section of the page that
+[00:13:15] you can see on your phone or on desktop
+[00:13:16] and one scroll away you can see we have
+[00:13:18] our next call to action then one more
+[00:13:20] scroll you can see we have our next call
+[00:13:22] to action so that's the structure that
+[00:13:23] you want to keep the entire time anytime
+[00:13:25] you're designing a landing page nobody
+[00:13:27] should ever be far from your call to
+[00:13:29] action button especially on mobile now
+[00:13:31] ideally I have some more reviews here
+[00:13:33] you can use a review app like looks
+[00:13:35] reviews because three reviews really
+[00:13:37] isn't enough for people to make an
+[00:13:38] informed buying decision so ideally
+[00:13:40] there's a lot more that you can scroll
+[00:13:42] through but these are good highlights
+[00:13:43] now the final section that we're going
+[00:13:44] to be adding is a very quick FAQ so
+[00:13:47] let's go ahead and add that section
+[00:13:48] we're going to hit add section right
+[00:13:50] here now once again we want to use this
+[00:13:51] collapsible content section but instead
+[00:13:53] we're going to be calling this FAQs now
+[00:13:55] once again we're going to use trusty
+[00:13:58] handy d Cy chat gbt to help us write
+[00:14:00] some really solid FAQs here and again
+[00:14:02] I'm trying to move through this
+[00:14:03] relatively quickly so if I had more time
+[00:14:06] on my hands I would be feeding chat gbt
+[00:14:08] dozens of reviews and if you can't use
+[00:14:11] chat gbt because of their character
+[00:14:12] limit you can use something like Claude
+[00:14:14] 2 and it can take in a lot more data but
+[00:14:17] the same questions you're going to ask
+[00:14:18] and again if you want the exact same
+[00:14:20] prompts that we use for our brand that
+[00:14:22] made us over six figures in a month then
+[00:14:24] just comment the word prompt below and I
+[00:14:26] can send that right over but the point
+[00:14:27] being you want to feed it as much data
+[00:14:29] as possible so that it can create really
+[00:14:31] good FAQs and write really good copy for
+[00:14:33] you for layout let's select row
+[00:14:35] container just to give it a little bit
+[00:14:36] better spacing now here's a prompt that
+[00:14:37] I'm going to write for chat gbt using
+[00:14:39] the reviews above I want you to come up
+[00:14:43] with five potential questions that
+[00:14:46] Prospect would ask before they buy a
+[00:14:50] product these will be used in my FAQ
+[00:14:53] section on my landing
+[00:14:57] page all right so we we got our five
+[00:14:59] FAQs however I also am going to have him
+[00:15:02] answer these questions for me all right
+[00:15:04] so we're just going to paste that right
+[00:15:05] in there let's remove these quotes and
+[00:15:07] that first one is done so I'm going to
+[00:15:08] go ahead and move through the rest speed
+[00:15:10] through this and add all the
+[00:15:14] FAQs boom and we're done once again make
+[00:15:17] sure you hit save you don't want to lose
+[00:15:19] everything that you just work so hard
+[00:15:21] this beautiful beautiful landing page
+[00:15:22] you don't want to lose all that so there
+[00:15:24] we go now guys there's one last thing
+[00:15:25] that we need to add to this landing page
+[00:15:27] to completely tie it together to ensure
+[00:15:29] that you have the highest conversion
+[00:15:30] rate as humanly possible that last
+[00:15:33] section that we need to add here as you
+[00:15:34] can see let's give it a quick scroll
+[00:15:36] through right scrolling through
+[00:15:37] everything looks good we got a call to
+[00:15:38] action button we are immediately met
+[00:15:40] with our USB what makes us different
+[00:15:42] then immediately into benefit driven
+[00:15:45] bullet points along with another image
+[00:15:47] testimonials and reviews FAQs guys the
+[00:15:50] final thing that we're missing here what
+[00:15:51] is it we need another call to action
+[00:15:53] button I just went another scroll and
+[00:15:55] there was nothing to click so to add a
+[00:15:57] button there's no just specific button
+[00:15:59] you know feature that you can add but
+[00:16:00] just go to Rich text and we're going to
+[00:16:02] adjust this button label to be get yours
+[00:16:05] now once again with that emoji for that
+[00:16:07] higher conversion rate and now for the
+[00:16:08] text itself we're actually just going to
+[00:16:10] remove it remove that and then click
+[00:16:12] here remove this one as well so now we
+[00:16:13] just have this final button and
+[00:16:15] everything is good to go now guys just
+[00:16:16] as a bonus there's actually one other
+[00:16:18] section that I want to add that we add
+[00:16:20] to all of our landing pages that every
+[00:16:22] single time no joke it increases the
+[00:16:24] conversion rate and that is adding a
+[00:16:26] benefit driven gift so to do this you're
+[00:16:28] just going to go right underneath this
+[00:16:29] section right here we're going to hit
+[00:16:30] add section we'll move it up after and
+[00:16:32] it's just going to be this image with
+[00:16:33] text section right here now before we
+[00:16:35] edit anything let's go ahead and drag it
+[00:16:37] and move it up so that it is right below
+[00:16:40] our main benefit section now for the
+[00:16:42] text once again we want to use a benefit
+[00:16:44] driven headline so let's say was your
+[00:16:47] back pain dissolve in just 15 minutes a
+[00:16:51] day now here we're not going to put in
+[00:16:52] image this is where our GIF is going to
+[00:16:54] go I went to Google and I searched for
+[00:16:55] backs spine relief GIF now if you can't
+[00:16:58] can't find a good gift for your product
+[00:17:00] simply go to Tik Tok and find a clip of
+[00:17:02] somebody using that product and then use
+[00:17:05] this website and it'll actually create
+[00:17:07] that gift for you but since this one was
+[00:17:09] already created I'm just going to use
+[00:17:10] this one I'm going to right click save
+[00:17:12] go back to our store and let's just
+[00:17:14] upload this image so I just adjusted
+[00:17:15] this line here so that it says get
+[00:17:17] better posture in just 15 minutes per
+[00:17:19] day with this gift that goes along with
+[00:17:21] it now I'm just going to make it a tad
+[00:17:22] bit smaller because it was so so massive
+[00:17:24] so let's actually keep this button here
+[00:17:26] I actually really like having a button
+[00:17:27] in the middle of our other two sections
+[00:17:29] and we're just going to adjust the call
+[00:17:30] to action another way to significantly
+[00:17:32] boost your conversion rate is to use the
+[00:17:34] same call to action in all of your
+[00:17:36] buttons you don't want one to say get
+[00:17:38] yours here and the other one to say buy
+[00:17:39] now they all need to say the same thing
+[00:17:41] now let's just add a little bit of text
+[00:17:43] beneath this headline once again we're
+[00:17:44] going to the ever so trusty chat
+[00:17:47] gbt so all I said was please add a
+[00:17:50] description that explains the how for
+[00:17:51] this benefit driven headline and then I
+[00:17:53] inserted the headline I probably don't
+[00:17:55] need all of this but let's go ahead and
+[00:17:56] copy and paste it right over once again
+[00:17:58] I actually really like this now I could
+[00:18:00] adjust a little this language a little
+[00:18:01] bit to make it more user friendly for
+[00:18:03] lack of a better word like all of your
+[00:18:05] copy should be at the highest a fifth
+[00:18:07] grade level but here I think it looks
+[00:18:08] just fine like this so now let's go top
+[00:18:10] down and look at our new landing page so
+[00:18:12] right off the back got really high
+[00:18:13] quality images a clear sale call the
+[00:18:16] action button a quick benefit driven
+[00:18:18] sentence along with three bullet points
+[00:18:20] our USP and then instantly into the
+[00:18:22] specific benefits of the product with a
+[00:18:24] little bit of details and then you can
+[00:18:26] always expand or not expand any of those
+[00:18:29] a gift once again everything benefit
+[00:18:31] driven some quick reviews and
+[00:18:33] testimonials and then FAQs and last but
+[00:18:36] not Lisa call the action button at the
+[00:18:38] bottom all righty guys that was it for
+[00:18:40] this video so thank you for watching
+[00:18:41] this is obviously my first video on the
+[00:18:43] channel so if you want more content like
+[00:18:45] this be sure to give it a like And
+[00:18:46] subscribe I want to come out with the
+[00:18:48] best Ecom content out there that's
+[00:18:50] different from anything else super super
+[00:18:52] high value you know not beating around
+[00:18:54] the bush being super transparent so if
+[00:18:56] you really like that style of video
+[00:18:57] you're definitely going want to
+[00:18:58] subscribe and stick around so thanks
+[00:19:00] again guys for watching and I'll see you
+[00:19:01] in the next one

@@ -1,0 +1,43 @@
+{
+  "post_id": "1428593339451622",
+  "url": "https://www.facebook.com/cnicsarl/posts/1428593339451622?locale=fr_FR",
+  "creation_time": 1792222011,
+  "date_iso": "2026-10-17T07:26:51+00:00",
+  "date_str": "2026-10-17 07:26:51 UTC",
+  "post_text": "🎵 Même sur scène, il fallait TOUT donner avec l’assiette vide.\n\nSans jamais PLEURER, car c'est INTERDIT !\n\nJe t’offre un CADEAU unique et exclusif ce week-end. \n\n🚨 Si tu es en ligne MAINTENANT,...",
+  "reactions_count": 125,
+  "shares_count": 1,
+  "comments_count": 1,
+  "top_reactions": [
+    "Solidaire",
+    "Haha"
+  ],
+  "comments": [
+    {
+      "comment_id": "4303601993107571",
+      "author": "Stephane Ndame",
+      "text": "Cadeau"
+    }
+  ],
+  "image_urls": [
+    "https://scontent-fra3-2.xx.fbcdn.net/v/t39.99422-6/855434122_1640279867812066_7143723240835886043_n.png?stp=dst-jpg_tt6&cstp=mx1440x960&ctp=p180x540&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Heh2fX6RF0gQ7kNvwEPG9E-&_nc_oc=Adpl7QDc6p0n-1HDApIs1QVBRbaPxYf77RvwEbypDAK9oJXfrk5mcqvijOOwY48huiRu_yyl6qD4pyhxUOhlv3XP&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=WwEqy0vbwXNFkCO-rh8czA&_nc_ss=7f289&oh=00_AQN8Ko0vmzn7zOs-dsvYmGN3ZX0n0fDcQbJEpVz98r633w&oe=6AD9E5E4",
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/852199419_960377939999865_7942996722297925843_n.png?stp=dst-jpg_fb30_tt6&_nc_cat=103&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=0Mcf9iWnWHwQ7kNvwGlywlP&_nc_oc=AdpSgRi0U-gdcYbm_iLmbGrcCbkkCg8609soDuXidQHXIvSV9BAS8V43LZK5L4TNwzeklgfzWV2CYNILi8rpE7Qe&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=WwEqy0vbwXNFkCO-rh8czA&_nc_ss=7f289&oh=00_AQOj80VV1KNWUfbbSTRwqcQrQilYvz4wfUBnODS70ZwQnA&oe=6AD9DB92",
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-1/842034131_2955783184788025_5003610338933907459_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx607x618&ctp=p32x32&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=p8a_1_Mdv9MQ7kNvwHKwiDT&_nc_oc=AdrqzIy2w_aprqNZ7MUguvkZ6W6VFNNX94EitYbegUULHUoR25dJFrhkBk26GmxIieDXCzt8Ixyj99pKRryFkOsK&_nc_zt=24&_nc_ht=scontent-fra3-1.xx&_nc_gid=WwEqy0vbwXNFkCO-rh8czA&_nc_ss=7f289&oh=00_AQOolu7YqpljgVxA0dBE4R4PG5gckJD8oXaJ-9_-H5OULg&oe=6AD9FED9"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_10/images/image_01.png",
+      "size_bytes": 46088,
+      "cdn_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.99422-6/855434122_1640279867812066_7143723240835886043_n.png?stp=dst-jpg_tt6&cstp=mx1440x960&ctp=p180x540&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Heh2fX6RF0gQ7kNvwEPG9E-&_nc_oc=Adpl7QDc6p0n-1HDApIs1QVBRbaPxYf77RvwEbypDAK9oJXfrk5mcqvijOOwY48huiRu_yyl6qD4pyhxUOhlv3XP&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=WwEqy0vbwXNFkCO-rh8czA&_nc_ss=7f289&oh=00_AQN8Ko0vmzn7zOs-dsvYmGN3ZX0n0fDcQbJEpVz98r633w&oe=6AD9E5E4"
+    },
+    {
+      "filename": "image_02.png",
+      "rel_path": "images/image_02.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_10/images/image_02.png",
+      "size_bytes": 26894,
+      "cdn_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/852199419_960377939999865_7942996722297925843_n.png?stp=dst-jpg_fb30_tt6&_nc_cat=103&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=0Mcf9iWnWHwQ7kNvwGlywlP&_nc_oc=AdpSgRi0U-gdcYbm_iLmbGrcCbkkCg8609soDuXidQHXIvSV9BAS8V43LZK5L4TNwzeklgfzWV2CYNILi8rpE7Qe&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=WwEqy0vbwXNFkCO-rh8czA&_nc_ss=7f289&oh=00_AQOj80VV1KNWUfbbSTRwqcQrQilYvz4wfUBnODS70ZwQnA&oe=6AD9DB92"
+    }
+  ]
+}

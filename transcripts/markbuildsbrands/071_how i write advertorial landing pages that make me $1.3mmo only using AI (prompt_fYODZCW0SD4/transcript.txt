@@ -1,0 +1,694 @@
+# how i write advertorial landing pages that make me $1.3m/mo only using AI (prompts included)
+URL: https://www.youtube.com/watch?v=fYODZCW0SD4
+Category: video
+Duration: 1226s
+Published: 20250324
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] hey guys Mark here in this video I'm
+[00:00:01] going to show you how to write a full
+[00:00:02] ADV tutorial completely from scratch
+[00:00:04] using AI now what most people do which
+[00:00:06] is a terrible terrible terrible terrible
+[00:00:07] terrible idea is number one is they find
+[00:00:10] some swipe right they find somebody else
+[00:00:12] that's running an avator and then they
+[00:00:14] go over to you know good old trusty chat
+[00:00:16] gbt or over to Claude you know chat gbt
+[00:00:18] is superior but that's a whole another
+[00:00:19] thing and they basically say hey rewrite
+[00:00:21] this but for my company and this overall
+[00:00:24] is an absolutely terrible way to ever
+[00:00:26] write a successful avator because you're
+[00:00:28] not doing any of your research around
+[00:00:29] your product your audience your offer
+[00:00:31] nothing basically say hey chbt write
+[00:00:33] this make me a millionaire make it print
+[00:00:35] I don't want anything else to do with
+[00:00:36] this and you know as I said that's a
+[00:00:37] terrible strategy and so in this video
+[00:00:39] I'm going to show you the real strategy
+[00:00:40] that you should be following which is
+[00:00:41] much more extensive but once you do all
+[00:00:43] the hard work it's very very easy for
+[00:00:44] you to replicate avator using AI really
+[00:00:47] really quickly if you don't know what an
+[00:00:48] avoral is looks a little something like
+[00:00:50] this where you're basically selling to
+[00:00:52] somebody using a combination of an ad
+[00:00:54] and an editorial so it feels like it was
+[00:00:55] written by a third party or somebody
+[00:00:57] that's completely impartial completely
+[00:00:58] unbiased but in reality selling your
+[00:01:00] product throughout the entire landing
+[00:01:02] page so I actually have a full swipe
+[00:01:03] file I'll leave it in the description of
+[00:01:04] this video that you guys can check out
+[00:01:06] of all hundreds of just really really
+[00:01:08] successful avoral but that's not the
+[00:01:10] purpose of this video the purpose of
+[00:01:11] this video is to show you the new best
+[00:01:13] way for you to actually write an avoral
+[00:01:15] completely from scratch now since we're
+[00:01:17] not using this old process the real
+[00:01:18] process that we're going to follow is
+[00:01:20] actually really really simple first
+[00:01:21] you're going to be doing your research
+[00:01:23] now this is not something that you're
+[00:01:24] going to be doing yourself we're going
+[00:01:25] to use AI to do this once you have your
+[00:01:27] research step number two is you're going
+[00:01:29] to build what I call your foundational
+[00:01:31] docs now your foundational docs is
+[00:01:33] basically a set of three or four
+[00:01:36] different documents that you put
+[00:01:37] together that you constantly feed into
+[00:01:38] Ai and if they have these four documents
+[00:01:40] AI is always always always always always
+[00:01:42] going to spit out just phenomenal high
+[00:01:44] quality copy that is based off of the
+[00:01:46] research that you did prior this is the
+[00:01:48] step that most people Skip and as a
+[00:01:50] result they're never able to write an
+[00:01:51] ADV tutorial that actually converts step
+[00:01:53] number three is you are going to find a
+[00:01:55] successful competitor and swipe them for
+[00:01:58] your own rewriting process step number
+[00:02:00] four is you're actually going to have ai
+[00:02:02] write the full ADV tutorial and then
+[00:02:04] step number five of course one of the
+[00:02:05] most important steps again probably
+[00:02:07] second most important is to Chief okay
+[00:02:10] so chiefing is a process of reviewing
+[00:02:12] your copy and make sure that it's
+[00:02:13] actually ready to be put out into the
+[00:02:15] wild so that you can spend some money on
+[00:02:16] it make some money back in return so
+[00:02:17] let's go ahead and get right into it you
+[00:02:19] know no long-winded intro or anything
+[00:02:20] what I did is I pulled together this
+[00:02:22] full document here I'm not lying to you
+[00:02:24] guys when I tell you this you could give
+[00:02:26] the most sub 5050 IQ individual this
+[00:02:29] document and they would still be able to
+[00:02:30] put out a really really high quality
+[00:02:32] avator this is the best sop I think I
+[00:02:34] may have ever created in my life so
+[00:02:35] we're literally going to follow this
+[00:02:37] step by step right and the first step
+[00:02:39] like I said is research so we're going
+[00:02:40] to copy this prompt and head over to
+[00:02:41] chat gbt and by the way I said this
+[00:02:43] briefly in the intro but I really
+[00:02:45] believe that chat gbt is superior to
+[00:02:46] Claude I actually call chat gbt Chad GPT
+[00:02:49] because Claude tries to be so PC with
+[00:02:52] everything and they don't end up getting
+[00:02:53] as deep into the research as I really
+[00:02:54] want them to plus we're going to use an
+[00:02:56] additional feature in chpt that claw
+[00:02:57] doesn't have that I'm going to show you
+[00:02:59] in just one second so so all you have to
+[00:03:00] do here is take out this little section
+[00:03:02] right here where it says explain what
+[00:03:03] you're selling to and who in this case
+[00:03:06] I'm going to take this actual product
+[00:03:08] right here and I'm basically going to
+[00:03:09] write an adoral for this product so I'm
+[00:03:10] going to go ahead and copy this right
+[00:03:12] here and add a little line in AI that
+[00:03:14] kind of explains actually what we're
+[00:03:15] selling here now very important before I
+[00:03:17] hit send on this what I'm going to do is
+[00:03:19] I'm going to go to the brand that I'm
+[00:03:20] writing for in this case I'm going to go
+[00:03:22] over to web page to PDF and I'm going to
+[00:03:24] convert their entire sales page into a
+[00:03:26] PDF and upload it so that chpt has a
+[00:03:28] little bit of context about the brand
+[00:03:29] that you're running for this your own
+[00:03:31] brand just upload any content that you
+[00:03:33] have it could be PDF of your sales page
+[00:03:34] PDF of your existing ad tutorials just
+[00:03:36] give it as much information as possible
+[00:03:38] on the product itself so I'm going to go
+[00:03:40] ahead and download this and then we're
+[00:03:41] going to upload it right into chat gbt
+[00:03:43] and hit enter and by the way make sure
+[00:03:45] that you guys are using chbt 4.5 I've
+[00:03:47] been doing a lot of experimenting
+[00:03:48] recently with AI and 4.5 honestly is
+[00:03:50] significantly better than 40 a lot of
+[00:03:52] the updates are just like marginal
+[00:03:54] improvements but this one I really feel
+[00:03:55] is significantly better than the
+[00:03:57] previous model now after we've hit these
+[00:03:58] prompts a lot lot of times it's going to
+[00:04:00] give you you know this full analysis
+[00:04:01] which is fantastic we actually don't
+[00:04:03] care about that we really only care
+[00:04:04] about the finished product right now and
+[00:04:06] I'm really just priming chat gbt to be
+[00:04:08] able to put out the best quality copy as
+[00:04:10] humanly possible now I'm going to copy
+[00:04:12] prompt number two here go over to chat
+[00:04:13] gbt paste it in I'm also going to paste
+[00:04:15] two documents about how to properly
+[00:04:17] conduct copyrighting research I have
+[00:04:19] these Linked In the document right here
+[00:04:20] and here can't believe they're giving
+[00:04:21] the [ __ ] away for free so I uploaded
+[00:04:23] these two doc going to hit enter and
+[00:04:24] wait till it finishes the analysis next
+[00:04:26] up we're going to move on to prompt
+[00:04:28] number three so I'm going to copy this
+[00:04:29] here from from the dock pasted over here
+[00:04:30] and once again just fill out this one
+[00:04:32] line here that actually explains the
+[00:04:33] product that we're going to be selling
+[00:04:35] now this prompt is very very important
+[00:04:36] cuz basically what I'm telling it to do
+[00:04:38] is create a prompt for itself so it's
+[00:04:42] kind of like AI Inception I'm creating
+[00:04:43] an AI to do AI research and what we're
+[00:04:46] doing here is basically creating a
+[00:04:47] prompt for it to use the Deep research
+[00:04:49] feature right here on chat gbt so I
+[00:04:52] could write my own prompt no problem but
+[00:04:54] why when I could use AI to write the
+[00:04:55] prompt for me so as soon as I hit enter
+[00:04:57] on this particular prompt it's going to
+[00:04:59] spit out a full prompt I'm literally
+[00:05:00] going to copy and paste directly back
+[00:05:02] into chbt but make sure I have deep
+[00:05:04] research selected so let's hit enter on
+[00:05:06] this
+[00:05:10] prompt all right so it finished the full
+[00:05:12] prompt here so I just copied that entire
+[00:05:14] prompt that it gave me right here and
+[00:05:15] literally just pasted it right back and
+[00:05:17] so let me scroll to the top here no work
+[00:05:20] necessary here like AI just wrote this
+[00:05:21] entire prompt is very very good just
+[00:05:23] make sure you have deep research
+[00:05:24] selected and I'm going to hit enter now
+[00:05:26] when you go through this process
+[00:05:27] typically the AI will ask you a few
+[00:05:28] clarifying question questions yep there
+[00:05:30] it goes right here so you just have to
+[00:05:31] quickly answer those and then it's going
+[00:05:33] to go through the Deep research process
+[00:05:34] so for this particular example I'm going
+[00:05:36] to say yes we are specifically us-based
+[00:05:38] for number two I'm going to say all
+[00:05:39] price ranges and number three I'm going
+[00:05:41] to say yes and after this I literally
+[00:05:43] hit enter it's going to begin the Deep
+[00:05:45] research process now depending on your
+[00:05:47] product your Market Etc this is
+[00:05:49] typically going to take anywhere from 8
+[00:05:51] to 20 minutes so I'm going to step away
+[00:05:53] for a second I'm going to let Chachi
+[00:05:54] cook and I'll be right back all right so
+[00:05:56] I took about 11 minutes and as you can
+[00:05:57] see here oh my God goodness gracious
+[00:06:00] look at all this beautiful beautiful
+[00:06:02] beautiful research that just goes on for
+[00:06:04] so long so what you want to do now is
+[00:06:05] you're going to copy this entire message
+[00:06:07] paste it into a new Doc download that
+[00:06:09] document as a PDF cuz that's going to be
+[00:06:11] one of your foundational documents that
+[00:06:13] you create as I said here in this
+[00:06:15] process there's a set of foundational
+[00:06:16] docs that you need okay one is going to
+[00:06:18] be the research doc all right and at
+[00:06:21] this point you have that done this is
+[00:06:23] the most difficult part which is
+[00:06:25] ironically also the easiest part cuz AI
+[00:06:26] just did all of it for you now we go
+[00:06:28] back to the dock and and we are going to
+[00:06:30] move on to the next foundational
+[00:06:32] document which is going to be our Avatar
+[00:06:34] sheet template so I'm going to copy this
+[00:06:35] prompt here go right here and again I
+[00:06:37] have links all these documents guys in
+[00:06:38] this one Mega document that I created
+[00:06:40] this one here so if you need the Avatar
+[00:06:42] sheet template just go ahead and
+[00:06:43] download that there now we're going to
+[00:06:44] paste this document with the template
+[00:06:46] downloaded also as a PDF and if you
+[00:06:49] don't know how to download these by the
+[00:06:50] way you just go to file download you can
+[00:06:52] select PDF right there we got the Avatar
+[00:06:54] sheet doc uploaded we're going to hit
+[00:06:55] enter and keep cooking now what it's
+[00:06:57] going to do here is fill out based off
+[00:06:59] the research all of the specific details
+[00:07:01] around the Avatar that you currently
+[00:07:03] want to sell to all right so what we're
+[00:07:04] doing now is building the second
+[00:07:07] foundational dock which is going to be
+[00:07:08] our Avatar
+[00:07:12] sheet this is such gold it's even just
+[00:07:15] watching this AI cook right in front of
+[00:07:17] me it is so so
+[00:07:20] good I mean just look at like some of
+[00:07:22] these quotes for this particular product
+[00:07:24] right I need a solution now before
+[00:07:25] another freezing winter hits I'm
+[00:07:27] desperate to stop throwing a money away
+[00:07:29] on inefficient heating finding a safe
+[00:07:30] CED heater is a priority I can't afford
+[00:07:32] another huge bill like I literally can't
+[00:07:34] afford another huge bill that is a
+[00:07:36] massive pain that we're going to be able
+[00:07:37] to tap into with the copy on this ad
+[00:07:40] tutorial so same process we're going to
+[00:07:42] copy all of this right here paste it
+[00:07:44] right into another document called
+[00:07:46] Avatar sheet download as a PDF save it
+[00:07:49] for later next we're going to move on to
+[00:07:51] the third foundational document so let's
+[00:07:53] go ahead and copy this going to paste it
+[00:07:54] right in here and attach the offer brief
+[00:07:56] template so this is going to be the
+[00:07:58] third foundational dock this is all
+[00:07:59] about the actual offer itself so what is
+[00:08:01] the funnel architecture that we want to
+[00:08:03] use what is the level of Consciousness
+[00:08:04] we want to speak to what is the stage of
+[00:08:06] awareness stage of sophistication all
+[00:08:08] that unique mechanism everything all the
+[00:08:10] copy ingredients that you want to put
+[00:08:11] together to actually create a good vssl
+[00:08:12] this is why most people that just like
+[00:08:14] paste in a swipe and say hey Chad do you
+[00:08:17] rewrite this this is where they mess up
+[00:08:18] they don't actually understand the Deep
+[00:08:20] underlying principles behind High
+[00:08:21] converting copy they just blindly swipe
+[00:08:24] and hope that it makes them familiar
+[00:08:25] it's a terrible terrible strategy so
+[00:08:27] here with the offer document we past the
+[00:08:28] prompt in there I'm going to upload the
+[00:08:30] offer doc upload that right there wait
+[00:08:32] for it to upload and just hit enter now
+[00:08:34] it's going to fill out same exact
+[00:08:35] process but it's going to fill out
+[00:08:36] everything regarding the offer
+[00:08:43] itself this is so [ __ ] good like I
+[00:08:45] can't stop saying it bro but this is so
+[00:08:47] insane I like to think that I'm smart
+[00:08:49] that I came up with this but really this
+[00:08:50] is all this all AI doing this [ __ ] man
+[00:08:53] it's
+[00:08:54] incredible all right same process here
+[00:08:56] the offer brief is done we're going to
+[00:08:58] copy all of this information here if you
+[00:09:00] want to add more information to these
+[00:09:01] documents guys you're more than welcome
+[00:09:03] to the quality of the output that you
+[00:09:05] get from AI is directly proportional to
+[00:09:08] the quality of inputs that you feed it
+[00:09:10] so for the people that are like oh gbt
+[00:09:12] doesn't write good copy Cloud doesn't
+[00:09:13] write good copy no you just suck at
+[00:09:15] prompting it so I'm going to save it
+[00:09:16] through another document right now and
+[00:09:18] save it as a PDF save it for later now
+[00:09:21] we're going to head back to the document
+[00:09:23] and going to work on our final
+[00:09:25] foundational document now you don't need
+[00:09:26] to understand what all that text is I
+[00:09:27] know you're going to see it's like oh
+[00:09:28] it's a lot really what doing is creating
+[00:09:30] this final foundational document which
+[00:09:32] is the necessary beliefs that your
+[00:09:35] prospect needs to have in order to
+[00:09:36] actually buy your product I believe that
+[00:09:38] marketing at its core is simply a game
+[00:09:40] of belief change prospects are coming
+[00:09:42] into your business into your website
+[00:09:43] into your funnel with a specific set of
+[00:09:45] beliefs because we always act in
+[00:09:47] accordance with our own beliefs your job
+[00:09:49] is simply to shift those beliefs into
+[00:09:51] empowering beliefs instead of limiting
+[00:09:53] beliefs so that they will actually
+[00:09:54] purchase your product
+[00:09:57] necessary so I'm literally going to take
+[00:09:59] all of this prompt right here don't
+[00:10:01] worry about the text it's basically just
+[00:10:03] going to analyze this transcript we're
+[00:10:04] going to paste it directly in nothing
+[00:10:06] needs to change and have it Analyze This
+[00:10:08] transcript real quick while that is
+[00:10:10] cooking let's go ahead and go to prompt
+[00:10:11] 4 we're going to copy this and note you
+[00:10:13] have to attach the Avatar sheet the
+[00:10:15] offer brief and the research document
+[00:10:17] that you already had created so we're
+[00:10:18] going to copy all of this and then
+[00:10:20] attach those other three foundational
+[00:10:23] documents that we have already created
+[00:10:25] previously so I'm going to paste this
+[00:10:27] here and I'm going to upload the three
+[00:10:29] additional documents as this is going
+[00:10:30] another thing that I do guys just to
+[00:10:32] speed up the process I literally hit
+[00:10:33] enter on chat JT on the prompt and I
+[00:10:36] immediately move on to the next one
+[00:10:37] because again we're not specifically
+[00:10:39] looking for the output yet cuz we have
+[00:10:41] not written an ADV vtorial yet we're
+[00:10:43] really just doing the research we're
+[00:10:44] building up the foundation that's why I
+[00:10:46] call them foundational documents because
+[00:10:48] if you have them you only have to do
+[00:10:49] this once as soon as you have it you're
+[00:10:51] going to upload these documents in the
+[00:10:52] future and liter just start printing
+[00:10:54] really really good copy whether that's
+[00:10:55] vs cells whether that's ads whether it's
+[00:10:56] ad tutorials anything landing page copy
+[00:10:58] you can do it at all so the short of
+[00:11:00] this prompt is I want you to create
+[00:11:03] these beliefs at a maximum of six
+[00:11:05] beliefs that if they have every single
+[00:11:07] one of these beliefs that they will
+[00:11:09] positively buy our product so then we
+[00:11:11] know the only thing that we have to do
+[00:11:13] at that stage is simply make sure that
+[00:11:14] our copy aligns with those six necessary
+[00:11:17] beliefs that they have to have in order
+[00:11:19] to buy the product and our job is done
+[00:11:20] so let's go ahead and hit enter and it's
+[00:11:22] going to go through and create those six
+[00:11:24] necessary
+[00:11:26] beliefs so same process as before guys
+[00:11:28] we're literally going to copy all of
+[00:11:30] these beliefs right here going to paste
+[00:11:31] them into a new Doc save it and download
+[00:11:34] it as a PDF and let's move on to the
+[00:11:36] next step okay so the next step is going
+[00:11:37] to be prompt number five in which case
+[00:11:39] we're literally just going to refresh
+[00:11:41] its memory and now send all the
+[00:11:43] documents together and have them analyze
+[00:11:45] each individual document so that they're
+[00:11:46] completely top of line for the AI if you
+[00:11:48] really want to write good copy with chat
+[00:11:50] jbt don't think of it as an AI think of
+[00:11:52] it as your Junior copywriter you want to
+[00:11:54] guide it you want to have a conversation
+[00:11:55] give it feedback critique it so I'm
+[00:11:57] going to upload these four documents
+[00:11:58] right here at this point all of our
+[00:12:00] foundational documents have been created
+[00:12:02] we have the research doc the Avatar doc
+[00:12:03] the offer brief and the necessary
+[00:12:05] beliefs documents so I just uploaded all
+[00:12:07] those here let's go ahead and hit send
+[00:12:08] and again this is really just to refresh
+[00:12:10] its memory on all the research that is
+[00:12:13] done prior all the hard work the next
+[00:12:14] step in this process is going to be to
+[00:12:16] find a swipe now like I said earlier you
+[00:12:18] can check the link in the description I
+[00:12:20] have a full swipe file already created
+[00:12:21] on get hooked you guys can go and see
+[00:12:22] all the ad tutorials there for
+[00:12:24] Simplicity purposes what I'm going to do
+[00:12:26] is just use this ad tutorial for this
+[00:12:28] product that's already running and just
+[00:12:30] say like you know this one is running
+[00:12:31] successfully currently so I'm just going
+[00:12:33] to take this URL and follow the same
+[00:12:35] process that we did before and do the
+[00:12:37] URL to PDF go ahead and convert it and
+[00:12:39] I'm going to download that so I can send
+[00:12:41] it as the
+[00:12:42] swipe so I'm going to upload that swiped
+[00:12:45] PDF of the adoral that we want to
+[00:12:48] emulate then the next step we're going
+[00:12:49] to go back to our trusty document here
+[00:12:51] and move on to the swipe section all
+[00:12:52] right so we're going to copy all of this
+[00:12:54] right here and paste that entire prompt
+[00:12:55] right into chaty BT by the way as a
+[00:12:57] little side note I'm using this e
+[00:12:59] product this uh internal space heating
+[00:13:01] product this is not a product that i'
+[00:13:02] personally sell and if you're wondering
+[00:13:04] why the reason why is because the main
+[00:13:06] reason that I've seen from this research
+[00:13:08] specifically that people are looking for
+[00:13:09] this product is to save money it's for
+[00:13:11] affordability now this product is
+[00:13:13] definitely affordable I'm going to hit
+[00:13:14] send here while I rant for a little bit
+[00:13:16] this product is definitely affordable if
+[00:13:17] you compare it to like your heating bill
+[00:13:19] however typically audiences that are
+[00:13:21] looking for the cheapest way to do
+[00:13:23] things like I don't never want to
+[00:13:24] compete on price I want to have the
+[00:13:25] premium product in my market cuz it's
+[00:13:27] going to match with premium marketing
+[00:13:29] premium messaging premium copy and so I
+[00:13:31] don't really like selling to markets
+[00:13:33] that are like looking for the cheapest
+[00:13:35] way to do something it's a race to the
+[00:13:36] bottom there's a reason why nobody's
+[00:13:38] able to compete with Walmart in they're
+[00:13:39] extremely low prices or same thing with
+[00:13:41] Amazon just the margins are ridiculously
+[00:13:43] low I'd rather sell premium products to
+[00:13:46] a premium audience so now that we
+[00:13:47] uploaded the swipe and chat BT has
+[00:13:49] analyzed the swipe this step is now
+[00:13:51] completely done so like the research
+[00:13:52] step is done foundational docs created
+[00:13:55] swipe has been uploaded next we get to
+[00:13:57] actually have some fun and start right
+[00:13:59] writing the adoral now one thing that I
+[00:14:01] noticed quick caveat is that when you're
+[00:14:03] writing adoral in any type of copy
+[00:14:05] honestly with chbt you have to be very
+[00:14:07] careful with how much copy you want it
+[00:14:08] to write if I tell it to write the
+[00:14:09] entire aatori start to finish the
+[00:14:11] quality of the output is going to be
+[00:14:13] very low because it's limited with a
+[00:14:14] number of tokens that it can send back
+[00:14:16] to you so for example if there's an
+[00:14:17] adoral that's like 2,000 words and you
+[00:14:19] say hey like rewrite this based off all
+[00:14:21] the foundational research that we did
+[00:14:22] it's only going to send you back like a
+[00:14:24] thousand words so I like to do it in
+[00:14:26] chunks either like first half second
+[00:14:27] half or you know by chunks of the actual
+[00:14:30] avoral inside of my document here I have
+[00:14:32] it go first half to second half so we're
+[00:14:34] going to go to the right section now
+[00:14:36] that we're on that step I'm going to
+[00:14:37] copy this go back to chat jbt paste it
+[00:14:40] and just fill in this information here
+[00:14:42] all right and now that analysis is
+[00:14:43] finished and I filled in the info on
+[00:14:45] this prompt I'm going to hit send and
+[00:14:47] now the fun actually begins where it's
+[00:14:48] actually going to be writing the avator
+[00:14:50] for you now keep in mind I only told it
+[00:14:52] to write the first half so let's look at
+[00:14:54] the first half if it's good we'll have
+[00:14:55] it continue and finish the entire adoral
+[00:14:58] if it needs tweaking if we want to write
+[00:15:00] to a different angle then we'll take
+[00:15:01] some time to readjust it again it should
+[00:15:04] be a conversation at this point like all
+[00:15:06] the hard work has been done it's really
+[00:15:07] just finding the perfect angle for your
+[00:15:09] adventori and making sure that it's
+[00:15:11] being communicated properly another
+[00:15:13] thing just cuz I'm really an annoying
+[00:15:14] [ __ ] is I don't like it when it goes
+[00:15:16] through the side view here I always
+[00:15:17] select answer in chat instead cuz in my
+[00:15:19] opinion sometimes the outputs come out
+[00:15:21] cleaner that could be totally biased but
+[00:15:23] that's just my personal experience oh
+[00:15:24] great I broke
+[00:15:26] it there we go
+[00:15:31] all right so it's in the process of
+[00:15:32] writing this full avator I'm already
+[00:15:34] super excited because for those that
+[00:15:36] don't know here's a headline that I came
+[00:15:37] up with right I couldn't sleep at night
+[00:15:39] terrified about our heating bills till I
+[00:15:40] discovered this new device so massive
+[00:15:43] open loop here created which is exactly
+[00:15:45] what you want with an adventori I'm
+[00:15:46] dying to read the rest of this thing
+[00:15:47] after reading the headline at one simple
+[00:15:49] portable heer finally free my family
+[00:15:50] from the endless stress of skyrocketing
+[00:15:52] energy cost pretty solid headline but
+[00:15:54] the crazy thing here is that this
+[00:15:57] headline here is actually a swipe of one
+[00:16:00] of the most successful headlines of all
+[00:16:02] time a really really old direct response
+[00:16:04] headline I did not tell it to do this so
+[00:16:05] the fact that it did this is really
+[00:16:06] [ __ ] cool sales letter I'm talking
+[00:16:08] about here is this headline here they
+[00:16:09] laughed when I sat down at the pan when
+[00:16:11] I started to play so look at this
+[00:16:12] headline here I couldn't sleep at night
+[00:16:14] terrifying until I discovered this new
+[00:16:15] device so it's like a very very similar
+[00:16:17] format here I'm pretty happy with this
+[00:16:19] first half honestly mostly just based
+[00:16:21] off of the headline because the headline
+[00:16:22] when it comes to split testing things
+[00:16:24] the headline pulls like 90% of your
+[00:16:26] entire ad tutorial and so at this point
+[00:16:28] I could cross reference and start going
+[00:16:29] back and forth with chbt I'm pretty
+[00:16:31] happy with this so I'm going to tell to
+[00:16:32] write the second
+[00:16:35] half and while it's writing that second
+[00:16:37] half I'm going to go ahead and copy the
+[00:16:38] entire first half here and paste it into
+[00:16:41] its own
+[00:16:44] document and it has finished the second
+[00:16:46] half of the adoral so same exact process
+[00:16:48] guys I'm going to copy the second half
+[00:16:50] paste it into my ADV vtorial documents
+[00:16:52] so that at this point we should have
+[00:16:53] like a fully finished fully written ADV
+[00:16:56] vtorial and what you're going to do is
+[00:16:57] pay all into another document same
+[00:16:59] process right download as a PDF and
+[00:17:00] immediately upload it back to Chach CU
+[00:17:03] at this point we have it written right
+[00:17:04] you can go back and forth you can
+[00:17:05] brainstorm new angles constantly like
+[00:17:07] this is the step where you can really
+[00:17:08] experiment but next we want to Chief it
+[00:17:10] and we can Chief it ourselves which we
+[00:17:12] you know I always recommended you do but
+[00:17:13] I'm going to have ai Chief it first
+[00:17:15] based off of the research that it did
+[00:17:17] like is this adventori actually in
+[00:17:18] alignment with the necessary beliefs is
+[00:17:20] it actually in alignment with the
+[00:17:22] research is it actually following the
+[00:17:24] necessary copywriting principles that
+[00:17:25] need to be followed in order for you to
+[00:17:27] write really high converting copy so I'm
+[00:17:28] going to copy all this here paste it
+[00:17:30] into my document download as a PDF and
+[00:17:32] immediately upload it right back we're
+[00:17:33] going to go over here and now we're
+[00:17:35] going to go to the chiefing section of
+[00:17:36] this document all right so I'm going to
+[00:17:37] copy all of this here and go ahead and
+[00:17:40] paste it right in now I said this
+[00:17:41] earlier but I want to reiterate when you
+[00:17:43] are chiefing copy you should have ai
+[00:17:46] Chief it but you're not done you still
+[00:17:48] have to go through and chief it yourself
+[00:17:50] and so my favorite chiefing process is
+[00:17:52] pretty standard I like to read through
+[00:17:54] it and anytime I feel stuck like there's
+[00:17:56] not a completely natural flow and
+[00:17:59] there's some illogical organization of
+[00:18:01] the words that's going to be something
+[00:18:03] that I actually personally adjust all
+[00:18:04] right there was a famous copywriter
+[00:18:06] can't remember his name currently but he
+[00:18:08] said that your copy should basically be
+[00:18:10] like your prospect is sliding down a
+[00:18:11] slippery slide like a greased up slide
+[00:18:14] so if there's any point during your
+[00:18:15] adoral where it feels like there's a
+[00:18:16] bump in the slide and it just doesn't
+[00:18:18] feel natural that's really the goal of
+[00:18:20] the achieving process where we can
+[00:18:21] identify those points where it's not
+[00:18:24] flowing super super well cuz that's
+[00:18:25] going to be something that ends up
+[00:18:26] costing you conversions so now this is
+[00:18:28] actually step that you want to read the
+[00:18:30] output that AI has given you so let's
+[00:18:32] take a look at the the chiefing that it
+[00:18:34] did here so it does align with the
+[00:18:36] emotional storytelling identification of
+[00:18:38] the problem so hit the necessary beliefs
+[00:18:40] I believe my current heating method is
+[00:18:42] inefficient and costly the unique
+[00:18:44] mechanism is clearly presented we preh
+[00:18:46] handled objections like a lot of people
+[00:18:48] think that objections is something
+[00:18:49] that's only covered like an FAQ section
+[00:18:51] no ideally there's no objections ideally
+[00:18:54] you cover and handle all the objections
+[00:18:56] before they even get to the sales page
+[00:18:58] of your offer so this is really really
+[00:18:59] good leveraging external Blain and
+[00:19:01] villain so this is like from the
+[00:19:02] competitor analysis that I did
+[00:19:03] previously the risk reversal is there
+[00:19:05] which is going to help with the
+[00:19:06] affordability aspect also in alignment
+[00:19:09] with our levels of consciousness and
+[00:19:10] stages of sophistication and then also
+[00:19:12] gives a few areas for you to potentially
+[00:19:14] improve especially like the conspiracy
+[00:19:16] angle because with this one it's like
+[00:19:18] the heating companies are like trying to
+[00:19:19] keep you broke or like trying to always
+[00:19:21] keep increasing your bill etc etc so
+[00:19:23] that could be an entire new angle that
+[00:19:25] you dive into this is called The
+[00:19:26] Whistleblower angle where there was like
+[00:19:28] somebody on the inside quote unquote
+[00:19:30] that was able to escape and is now
+[00:19:31] trying to tell the truth to the world
+[00:19:33] that's a really powerful angle that you
+[00:19:34] can use in your avator as well overall
+[00:19:36] everything is pretty in line you can see
+[00:19:38] that it's in line with Avatar research
+[00:19:39] with the offer brief with the necessary
+[00:19:41] beliefs with the levels of consciousness
+[00:19:42] everything that you could possibly need
+[00:19:44] and at this point you have completed the
+[00:19:46] process I added a bonus here on the
+[00:19:47] document which is basically how to
+[00:19:49] create editorial with additional angles
+[00:19:51] but it's really in this process right
+[00:19:53] here so after you go through and write
+[00:19:54] it now you can actually have a
+[00:19:56] conversation with AI the entire time but
+[00:19:58] that's basically it for this video guys
+[00:20:00] I mean at this point you know exactly
+[00:20:02] how to conduct really effective
+[00:20:03] copyrighting research you know how to
+[00:20:04] create the foundational documents you
+[00:20:06] know how to find the swipe you know how
+[00:20:07] to write it and you know how to Chief so
+[00:20:09] like you are basically 100% completed on
+[00:20:12] writing an ad tutorial and that took us
+[00:20:13] like under an hour to do the entire
+[00:20:16] process it's absolutely insane like the
+[00:20:18] capabilities of AI right now and this is
+[00:20:20] something that we use actively in our
+[00:20:21] business and something that I'm proving
+[00:20:23] every single day but this is what we're
+[00:20:24] actually doing right now if you

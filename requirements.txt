@@ -1,2 +1,9 @@
-apify-client>=1.8.0
+# Core Scraping, Extraction & Media Processing
 yt-dlp>=2024.3.10
+curl_cffi>=0.7.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Legacy / Platform Comparison
+apify-client>=1.8.0

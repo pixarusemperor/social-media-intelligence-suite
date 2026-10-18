@@ -1,0 +1,678 @@
+# shopify advice that will ACTUALLY make you print (from an 8-fig operator)
+URL: https://www.youtube.com/watch?v=UdpcMriclHY
+Category: video
+Duration: 1226s
+Published: 20251108
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be going over Shopify advice
+[00:00:03] that will actually make you print from
+[00:00:05] an 8 figureure operator. First up on the
+[00:00:06] list, we have your creative strategy.
+[00:00:08] Now, specifically what I mean here is
+[00:00:10] what is the ratio of ads that you're
+[00:00:13] testing? That typically falls into two
+[00:00:14] to three categories. How many new
+[00:00:16] concepts are you testing, which is ads
+[00:00:18] that are completely different from
+[00:00:19] anything that you've ever run? Number
+[00:00:20] two, how many variations are you
+[00:00:22] testing? And then number three, some
+[00:00:24] people like to split a variation testing
+[00:00:26] into like a macro variation versus a
+[00:00:28] micro variation. Doesn't really matter.
+[00:00:30] The point is you should be clearly
+[00:00:32] clearly clearly prioritizing the new
+[00:00:35] concept creation instead of iteration
+[00:00:37] and variation testing. The reason why is
+[00:00:39] because the way that new Andromeda
+[00:00:41] algorithm works is it's sorting through
+[00:00:42] ads and grouping them together kind of
+[00:00:44] in these containers. And if you have a
+[00:00:45] bunch of variations within the same ad
+[00:00:47] set or even within the same ad account
+[00:00:49] period, Facebook is going to be sifting
+[00:00:51] through those and grouping them all
+[00:00:52] together. even though they may have a
+[00:00:54] different hook or a different scroll
+[00:00:55] stopper etc. So really prioritizing new
+[00:00:58] concepts very important in your creative
+[00:01:00] strategy. So for that reason we are
+[00:01:01] going to be putting this in the A tier.
+[00:01:03] Next up on the list we have the one
+[00:01:05] relaunch rule. Now this is a rule I came
+[00:01:07] up with specifically if you are a
+[00:01:09] beginner because a lot of people that
+[00:01:10] are getting into ecom they fall into
+[00:01:12] this trap of kind of like spam testing
+[00:01:14] products. I'm not a huge fan of that. I
+[00:01:16] like to actually go for testing quality
+[00:01:18] of product compared to quantity. But
+[00:01:20] nevertheless, even if you do test a
+[00:01:21] product and it doesn't really look good,
+[00:01:22] right? The metrics are pretty poor.
+[00:01:24] You're nowhere near your break even
+[00:01:26] return on ad spend. If that's the case,
+[00:01:27] I have a one relaunch rule, which means
+[00:01:29] I will go and look at all of my ad data.
+[00:01:31] I'll look at the creatives. I'll look at
+[00:01:33] the audiences. I'll look at the landing
+[00:01:34] page level, conversion rate, add toart
+[00:01:36] ratio, etc. And I'll say, "Okay, I have
+[00:01:38] one more chance to make this product a
+[00:01:40] success." I'll read the data. I'll make
+[00:01:41] adjustments. For example, if I have a
+[00:01:43] really, really shitty ad toart ratio,
+[00:01:44] what I'll do is I'll just completely
+[00:01:46] test an entirely new landing page
+[00:01:48] structure. And if I don't improve that
+[00:01:50] number or get anywhere close to break
+[00:01:52] even or ideally profitable, then that's
+[00:01:53] going to be an entire product that I cut
+[00:01:55] and move on to the next one. That is my
+[00:01:57] one relaunch rule. Now, this only really
+[00:01:59] applies to beginners. So, for that
+[00:02:00] reason, I'm going to put this one in the
+[00:02:02] C tier. Next up on the list, we have
+[00:02:03] having a very strong Facebook
+[00:02:05] infrastructure. And what I mean by this
+[00:02:07] is a diverse and bulletproof setup of ad
+[00:02:10] accounts, business managers, pages,
+[00:02:12] pixels, etc. The reason why you need
+[00:02:14] this is because Facebook all the time
+[00:02:16] goes on these rampages of, you know,
+[00:02:18] either completely shutting down ad
+[00:02:20] accounts or kind of shadowbanning ad
+[00:02:22] accounts where the performance just goes
+[00:02:23] absolutely bonkers and your bro just
+[00:02:26] drops by like 30 to 50%. And all this
+[00:02:28] crazy [ __ ] happens. This is just the
+[00:02:29] nature of running ads on Facebook. All
+[00:02:31] right? If you're not comfortable with
+[00:02:32] it, go [ __ ] run ads somewhere else.
+[00:02:34] But it's part of the game. So you have
+[00:02:35] to build an infrastructure in which you
+[00:02:37] are bulletproof. No matter what happens,
+[00:02:39] ad account goes down, page goes down,
+[00:02:41] business manager goes down, you can be
+[00:02:42] up and running in under a day. If you
+[00:02:44] don't have that diverse setup, that is
+[00:02:46] an extreme extreme risk to your
+[00:02:47] business. This is something very very
+[00:02:49] important if running ads on Facebook.
+[00:02:50] So, for that reason, we're putting this
+[00:02:51] guy in the A tier. Next up on the list,
+[00:02:53] we have a high volume of diverse ad
+[00:02:57] creative. That very sentence alone is
+[00:02:59] one of the most important things, if not
+[00:03:02] the most important thing in your success
+[00:03:04] in running ads on Facebook. Everybody
+[00:03:06] says that creatives are king, but gone
+[00:03:08] are the days where you can just spam
+[00:03:10] test a billion variations of your
+[00:03:12] creative and expect to be ripping 200k a
+[00:03:14] day. Instead, what you should be
+[00:03:16] prioritizing is a high volume, which is
+[00:03:18] the quantity piece in addition to
+[00:03:20] diverse creatives, which I kind of
+[00:03:22] alluded to earlier talking about how you
+[00:03:25] need to run ads post and drama with ads
+[00:03:26] that are very, very diverse from one
+[00:03:28] another. But those two ingredients
+[00:03:29] together literally is 90% of your
+[00:03:33] success on Facebook. I'm not even
+[00:03:34] joking. 90% if you are just an absolute
+[00:03:37] savage with creatives, you will never
+[00:03:39] worry about running unprofitable
+[00:03:41] Facebook ads the rest of your life. Like
+[00:03:43] media buying is rarely rarely rarely the
+[00:03:46] reason that you're not able to scale
+[00:03:47] your ad account. It's 90% of the time
+[00:03:49] just coming down to your creatives. And
+[00:03:51] if anything, the other 10% is going to
+[00:03:53] skew much heavier in the direction of
+[00:03:55] funnels. But I digress. Creatives are
+[00:03:57] king, but especially a high volume of
+[00:03:59] diverse creatives. And so for that
+[00:04:01] reason, if I haven't hyped it up enough,
+[00:04:03] this is going in the S tier. Next up on
+[00:04:05] the list, we have post-purchase funnel
+[00:04:07] optimization, post-purchase upsells,
+[00:04:09] oftentimes called Otto's, onetime
+[00:04:11] offers. I am extremely extremely bullish
+[00:04:14] and have been bullish from the beginning
+[00:04:16] on having a very strong backend of your
+[00:04:18] funnel. I don't mean backend in terms of
+[00:04:20] subscriptions or email or SMS. I mean
+[00:04:22] the back end of your funnel. So what
+[00:04:24] happens after somebody gives you their
+[00:04:25] credit card information, they complete
+[00:04:27] the order. What happens after that?
+[00:04:29] Because so many entrepreneurs miss out
+[00:04:30] on this and this is actually in many of
+[00:04:32] my funnels. This is actually where the
+[00:04:33] majority of the AOV contribution and LTV
+[00:04:36] contribution comes into play compared to
+[00:04:38] on the front end of the funnel. And not
+[00:04:40] a lot of people say that, but for me
+[00:04:41] often times that is actually
+[00:04:43] legitimately the case. And this is
+[00:04:44] something where you can actually compete
+[00:04:45] on what's called front-end economics.
+[00:04:47] And by front end, I mean just acquiring
+[00:04:49] that first customer. If you have an
+[00:04:51] average order value that is incredibly
+[00:04:52] high, so much higher than your
+[00:04:53] competition, then you can afford to pay
+[00:04:55] more to acquire a new customer. And as
+[00:04:58] we all know, the most famous Dan
+[00:05:00] Kennedy, one of the most legendary
+[00:05:01] marketers of all time, said, "The
+[00:05:03] business owner that can spend the most
+[00:05:05] to acquire a new customer wins." So if
+[00:05:07] that's you and you have super good
+[00:05:09] funnel economics, then guess what? You
+[00:05:10] can pay more to acquire new customers.
+[00:05:12] But once again, for this reason, this
+[00:05:14] one is going to be going in the A tier.
+[00:05:16] Very, very powerful. Next up on the
+[00:05:17] list, I have the concept of meshing
+[00:05:19] strategies. Here's what I mean by this.
+[00:05:21] When I initially got started in
+[00:05:22] e-commerce, I was 18 years old. And
+[00:05:24] probably like a lot of you, I went on to
+[00:05:26] YouTube. I started watching certain
+[00:05:27] people and I realized that they all kind
+[00:05:29] of had a slightly different strategy.
+[00:05:30] This person said they're running with
+[00:05:31] ABOS. This person said they're only
+[00:05:33] testing with CBOS. This person said
+[00:05:34] that's this kind of product. This person
+[00:05:36] said that's that kind of product. And
+[00:05:37] what I did was I started meshing these
+[00:05:38] strategies together. I was like, okay,
+[00:05:39] I'll just take the best of that guy and
+[00:05:41] then the best of this guy and then oh
+[00:05:43] this guy has some good stuff on funnels.
+[00:05:45] Let me take that. And every time I did
+[00:05:47] that, I got absolute dog [ __ ] results.
+[00:05:50] And that continues to be true today. If
+[00:05:52] you are going to follow somebody's
+[00:05:54] philosophy on scaling a business, follow
+[00:05:57] it to the tea. Every single piece, every
+[00:05:59] ingredient. Because taking piece by
+[00:06:01] piece and trying to mesh it all together
+[00:06:03] into something that works, guess what
+[00:06:04] ends up happening? It doesn't [ __ ]
+[00:06:06] work because everything needs to be in
+[00:06:07] alignment in congruence with one core
+[00:06:09] philosophy. And if you're meshing these
+[00:06:11] strategies, often times it does more
+[00:06:13] harm than good. You think you're kind of
+[00:06:14] like taking the best from everybody when
+[00:06:15] in reality you're just meshing all the
+[00:06:18] [ __ ] together into this disgusting
+[00:06:20] [ __ ] [ __ ] soup. and then you're going
+[00:06:22] to [ __ ] drink it. No, just go to one
+[00:06:23] person that you like, that you trust,
+[00:06:25] and that you think genuinely has a good
+[00:06:27] philosophy. Take everything that they do
+[00:06:29] and test that and then move on to the
+[00:06:31] next person if you want to do it that
+[00:06:32] way. But do not mesh strategies. This is
+[00:06:34] something very, very bad. I'm telling
+[00:06:36] you right now, it lost me a lot of money
+[00:06:37] when I was starting out in my journey.
+[00:06:39] For that reason, we are going to place
+[00:06:40] this one in the D tier. And by the way,
+[00:06:43] this concept of, you know, meshing
+[00:06:45] strategies, this was like the very
+[00:06:46] reason that me and my partner Alex
+[00:06:48] started to build Brand Builders Academy
+[00:06:50] because we were like, there's so many
+[00:06:52] people, so many different strategies. We
+[00:06:53] just need to align people with the best
+[00:06:56] actually like data pack strategies that
+[00:06:58] are working right now. So, if you want
+[00:06:59] to be a part of that, you can always
+[00:07:01] click the first link in the description,
+[00:07:02] fill out an application. We get a lot of
+[00:07:03] applications every day, obviously, so I
+[00:07:05] can't guarantee you're a good fit. And
+[00:07:06] that's not some like fake scarcity, just
+[00:07:08] like we don't take on everybody. So, if
+[00:07:09] you're interested, click the link. Next
+[00:07:11] up on the list, we have VOCC
+[00:07:13] copywriting. And this young gentleman,
+[00:07:15] not young gentleman, relatively old
+[00:07:17] gentleman actually, is the prince of
+[00:07:19] print himself, Gary Halbert. Now, Gary
+[00:07:21] Halbert was one of the greatest
+[00:07:22] copyriters of all time. He's my personal
+[00:07:24] favorite copywriter. And I don't even
+[00:07:26] know if it was that him that came up
+[00:07:28] with this concept, but I just like Gary
+[00:07:29] Halbert as copyrightiting, so I used it.
+[00:07:31] But VOCC copywriting specifically stands
+[00:07:34] for voice of customer. And it's not a
+[00:07:36] type of copywriting. It's just kind of
+[00:07:37] an ingredient in copywriting itself. A
+[00:07:39] lot of people are writing their copy or
+[00:07:42] using AI to write their copy in a voice
+[00:07:45] that is not matching how their
+[00:07:46] demographics actually speak. And this is
+[00:07:48] a super clear point to your customers
+[00:07:51] that you're using AI copy. Strength of
+[00:07:53] AI copy comes down to not how well you
+[00:07:55] can prompt, but how well you can chief
+[00:07:57] the copy that AI spits out for you.
+[00:08:00] There's a reason why you're writing AI
+[00:08:02] copy and it's still not converting. It's
+[00:08:04] because you don't know how to chief it.
+[00:08:05] And one of the ingredients in chief your
+[00:08:07] copy is matching the words that you're
+[00:08:08] using in your copy with the words that
+[00:08:10] your customers are actually speaking in
+[00:08:12] their day-to-day life. This one is very
+[00:08:15] very crucial. Not the most important,
+[00:08:17] but in terms of copyrightiting, it is
+[00:08:19] absolutely up there as one of the most
+[00:08:20] important ingredients, but it's only the
+[00:08:22] chiefing process. It's not like the
+[00:08:23] ideation. That's not like the mechanism,
+[00:08:25] the big idea, all these other
+[00:08:26] ingredients. So, for that reason, we're
+[00:08:28] going to put this one in the B tier.
+[00:08:30] Probably criminally underrated, but
+[00:08:32] nevertheless, we got to we got to put
+[00:08:34] something in the B tier. Next up on the
+[00:08:35] list, we have the purple ocean strategy.
+[00:08:38] Now, you have probably heard of red
+[00:08:40] ocean theory and blue ocean theory. Red
+[00:08:42] ocean, of course, being entering markets
+[00:08:44] with a ton of ton of proven demand, but
+[00:08:46] a shitload of competition, and then blue
+[00:08:48] oceans, of course, being very, very
+[00:08:50] little competition, if any, but also not
+[00:08:53] a lot of validation cuz you don't know
+[00:08:54] if customers are actually buying
+[00:08:55] anything there. I did not coin the term
+[00:08:57] purple ocean strategy. somebody else
+[00:08:59] did, but I like to use it because a
+[00:09:01] purple ocean is going into relatively
+[00:09:03] competitive markets, but carving out
+[00:09:05] your own kind of niche through your
+[00:09:07] strategic angles that you are using. The
+[00:09:10] perfect example is to go into a super
+[00:09:12] hyper saturated market and then focus on
+[00:09:14] a specific demographic. Actually, I'll
+[00:09:15] give you an example right now. Primal
+[00:09:17] Queen, one of the fastest growing DTOC
+[00:09:18] brands out there. Everybody knows them
+[00:09:20] at this point. They were not necessarily
+[00:09:22] early to the whole animal-based organ
+[00:09:24] meat supplement industry. However, they
+[00:09:26] clearly carved out a very, very solid
+[00:09:29] market for themselves by focusing on a
+[00:09:31] specific demographic. Obviously, that
+[00:09:33] demographic being women. You don't have
+[00:09:35] to be first to be great, but you do have
+[00:09:37] to be unique if you're not going to be
+[00:09:39] first. And that's exactly what they did.
+[00:09:41] And that's what the purple ocean
+[00:09:42] strategy is all about. So, for that
+[00:09:44] reason, putting the purple ocean
+[00:09:45] strategy in the B tier. Next up on the
+[00:09:48] list, we have my concept of quantum
+[00:09:50] leaps. Quantum leaps is a concept that I
+[00:09:52] came up with that basically explains
+[00:09:54] that when you're trying to scale your
+[00:09:55] brand, you always start to hit these
+[00:09:57] ceilings. It could be at first at around
+[00:09:59] $2 or $3,000 per day. The next one could
+[00:10:01] be between $15 and $20,000 per day. The
+[00:10:04] next one could be at $100,000 per day.
+[00:10:06] But every business gets to these certain
+[00:10:08] plateaus where what used to work is no
+[00:10:10] longer working now. And the funny thing
+[00:10:12] about these plateaus is that you think
+[00:10:14] you can just kind of scrape your way
+[00:10:15] through that plateau by continuing to
+[00:10:17] test these very, very small things. For
+[00:10:19] example, you just start to test more
+[00:10:21] variations of your top creatives or you
+[00:10:23] start to test more variations of your
+[00:10:25] top landers or you know, maybe you test
+[00:10:27] a new product but using the exact same
+[00:10:29] funnel architecture. My philosophy is
+[00:10:31] that if you want to break through these
+[00:10:32] plateaus and scale faster and more
+[00:10:34] aggressively, more profitably, you have
+[00:10:36] to think way farther outside of the box
+[00:10:39] and take bigger swings with your test.
+[00:10:41] What this means is like testing a
+[00:10:43] completely new funnel architecture that
+[00:10:45] you've ne never tested before. testing a
+[00:10:47] completely new, for example, like ad
+[00:10:49] account structure because completely
+[00:10:51] changing everything in your ad account
+[00:10:52] is a pretty big [ __ ] deal. Another
+[00:10:54] example could be completely altering
+[00:10:56] your creative strategy and testing a new
+[00:10:58] format of an ad that nobody has ever
+[00:11:00] really tested before, at least that
+[00:11:02] you've seen. You have to take bigger
+[00:11:04] swings is the point here. That's why I
+[00:11:05] call them quantum leaps. This isn't just
+[00:11:08] like a stepping stone. This is like the
+[00:11:09] biggest possible leap that you could
+[00:11:11] possibly take. So, for that reason,
+[00:11:13] quantum leaps is going in the A tier.
+[00:11:15] And it's not just because I came up with
+[00:11:17] it. It's just because I find it to be
+[00:11:18] true. Next up on the list, we got
+[00:11:19] Curious George. Now, you may be
+[00:11:22] wondering why I put Curious George here.
+[00:11:23] The reason why is because your ability
+[00:11:26] to be curious and specifically ask the
+[00:11:28] question why after you run a specific
+[00:11:31] split test. So, we're marketers. We love
+[00:11:33] running split tests. But how many of you
+[00:11:35] split test something, you get the
+[00:11:36] result, and then you just immediately
+[00:11:37] move on to the next thing? Well, if you
+[00:11:39] do that, you're not taking any of the
+[00:11:40] learnings from that specific lesson to
+[00:11:42] apply it to your central philosophy and
+[00:11:44] create these kind of mental models for
+[00:11:45] scaling your business. So, what I like
+[00:11:46] to do is always ask the question why.
+[00:11:49] You test something, it doesn't work.
+[00:11:51] Why? What is the conclusion that you
+[00:11:53] came to? Right? You test something, it
+[00:11:54] does work. Why? If you don't ask that
+[00:11:57] question, you end up losing a lot of the
+[00:11:59] learnings from that specific test. And a
+[00:12:01] lot of people are just thick scold and
+[00:12:03] they just move from one test to the
+[00:12:05] other without really understanding why
+[00:12:06] it even worked in the first place. So,
+[00:12:08] not the biggest deal in the world, but
+[00:12:10] in terms of furthering your
+[00:12:11] understanding, I do believe it's quite
+[00:12:13] important. Regardless, we're going to
+[00:12:14] put this one in the C tier. There's just
+[00:12:16] more important things, man. Like, you
+[00:12:18] know, creatives. It just goes back to
+[00:12:20] creatives. All right. This tier list can
+[00:12:22] barely fit on my screen, but what we
+[00:12:23] have up next is your backend economics
+[00:12:27] being more important than your front-end
+[00:12:29] economics. Now, the way that most people
+[00:12:31] understand this is simply through
+[00:12:33] acquiring subscriptions and building up
+[00:12:34] your MR, your monthly recurring revenue.
+[00:12:37] Most brands that are scaling incredibly
+[00:12:39] aggressively and successfully today,
+[00:12:42] they're doing something in the initial
+[00:12:43] stages of their company where they're
+[00:12:45] actually losing money acquiring high
+[00:12:47] value customers, specifically high
+[00:12:49] lifetime value customers, high LTV
+[00:12:51] customers in the form of recurring
+[00:12:53] subscriptions. So, Primal Queen is
+[00:12:55] another great example. They would be
+[00:12:57] losing money every single month to
+[00:12:59] acquire customers, but every single
+[00:13:01] month they're also building up greater
+[00:13:02] and greater greater amounts of monthly
+[00:13:04] recurring revenue. So, you kind of have
+[00:13:06] to eat first order profitability on the
+[00:13:08] front end, but the more customers you
+[00:13:10] acquire, the more subscribers you
+[00:13:11] acquire, the more that you're building
+[00:13:12] that base of monthly recurring
+[00:13:14] subscriptions to the point where you can
+[00:13:16] even downscale your ads and continue to
+[00:13:19] be making just a shitload of cash
+[00:13:21] because of the massive foundation that
+[00:13:23] you built. This is like the textbook
+[00:13:24] version of reap what you sew. And this
+[00:13:27] is super duper underrated because a lot
+[00:13:29] of big companies, they actually need
+[00:13:30] capital to make this happen. You know,
+[00:13:31] if you have like $2,000, you can't
+[00:13:33] really do this method because you don't
+[00:13:35] have that much money you lose in the
+[00:13:36] first place. But I just urge you, look
+[00:13:37] at any big brand that is scaling super
+[00:13:39] hard on Facebook right now. They
+[00:13:41] probably have some element of
+[00:13:42] subscriptions built into their business.
+[00:13:44] So that's why back-end economics, aka
+[00:13:46] having a really strong MR base and
+[00:13:48] building that up with a very low churn,
+[00:13:50] is incredibly important. So for that
+[00:13:52] reason, we are putting this in the A
+[00:13:54] tier. And the A tier is getting quite
+[00:13:56] long at this point. All right, next up
+[00:13:57] on the list, we have the concept of
+[00:13:59] variable stacking. This is once again a
+[00:14:01] concept that I didn't come up with it. I
+[00:14:02] think I just named it. But it is the
+[00:14:04] concept of taking multiple winning
+[00:14:05] variables that you have at any point in
+[00:14:07] time and stacking them together to
+[00:14:09] basically laser down your focus into
+[00:14:11] your most profitable assets that you
+[00:14:12] have in your business. Here's an
+[00:14:13] example. A lot of times we are running a
+[00:14:15] bunch of variations of ad copies,
+[00:14:17] creatives, campaigns types, audiences,
+[00:14:19] etc. And if you zoom out 30,000 ft,
+[00:14:22] usually in each one of those categories,
+[00:14:23] there's some kind of winning variable.
+[00:14:25] So for example, your audience testing,
+[00:14:27] there's typically one kind of control
+[00:14:28] audience. Maybe it's your broad
+[00:14:29] audience. Maybe it's some broad
+[00:14:31] interest. Maybe it's a lookalike. Doubt
+[00:14:32] it's a [ __ ] look alike. Let's be
+[00:14:34] real. [laughter] Point being, you have
+[00:14:36] all these variables and a lot of them
+[00:14:37] you're probably not even aware of. For
+[00:14:39] example, stacking your winning payment
+[00:14:41] processors, stacking your winning mids,
+[00:14:43] stacking your winning ad accounts. Like
+[00:14:44] stuff like this people don't think
+[00:14:45] about. And the more variables you can
+[00:14:47] stack on top of each other, the more
+[00:14:49] you're kind of lasering down into your
+[00:14:50] most profitable assets, the more
+[00:14:52] profitable your business will become as
+[00:14:53] a whole. So, for that reason, I'm going
+[00:14:54] to put variable stacking in the B tier.
+[00:14:57] also partially because we're [ __ ]
+[00:14:58] running out of room in the A tier. I
+[00:14:59] mean, it's straddling that line between
+[00:15:01] Btier and A tier, but for now, I'll put
+[00:15:03] in B tier. Next up on the list, we have
+[00:15:04] not touching something if it's working.
+[00:15:07] This is like the golden rule of media
+[00:15:09] buying. And typically, I only see
+[00:15:12] beginners make this mistake anymore.
+[00:15:14] Like seasoned entrepreneurs are now, I
+[00:15:16] guess, smart enough is the word to not
+[00:15:19] touch something that is working really,
+[00:15:20] really well. A lot of times we'll see
+[00:15:22] like a winning ad, see winning campaign,
+[00:15:23] winning whatever, we'll be like, "Okay,
+[00:15:25] let me like turn it off and moving and
+[00:15:26] like test it in a scaling campaign."
+[00:15:28] Brother, you have a profitable asset for
+[00:15:30] your business running. A lot of times
+[00:15:32] that's a rare [ __ ] thing. And if you
+[00:15:34] are doing anything to [ __ ] that up,
+[00:15:36] especially in the eyes of Facebook where
+[00:15:37] if you do make one tiny little
+[00:15:39] adjustment to your ad account or one
+[00:15:40] tiny adjustment to your ads, it'll
+[00:15:42] completely cook the results. That's a
+[00:15:43] big risk. So, a lot of beginners make
+[00:15:45] this mistake. Seasoned guys, not so
+[00:15:47] much. But golden rule, if you have
+[00:15:48] something that's working, don't [ __ ]
+[00:15:50] touch it. Don't even double down. Just
+[00:15:51] like don't touch it. Like you can double
+[00:15:53] down on it separately, but that very
+[00:15:55] asset itself, don't touch it. So, for
+[00:15:57] that reason, I think it's pretty
+[00:15:58] straightforward. This one's going to go
+[00:15:59] in the B tier. Next up on the list, we
+[00:16:01] have spending a lot of time focusing on
+[00:16:02] organic traffic, especially in the
+[00:16:04] beginning stages of your business. I'm
+[00:16:06] not very pro-organic when you're
+[00:16:08] building up your business from the
+[00:16:09] ground. A lot of people have the
+[00:16:10] argument, oh, it's like cheaper traffic,
+[00:16:12] you know, ads are so expensive, blah,
+[00:16:14] blah, blah, blah, blah. I don't care. My
+[00:16:17] reasoning is this. Your ability as an
+[00:16:19] entrepreneur to grow your business is
+[00:16:21] dependent on one thing and that is
+[00:16:23] getting really [ __ ] good at selling
+[00:16:25] it in a unique way. And organic doesn't
+[00:16:28] give you that harsh feedback loop that
+[00:16:30] you need to be able to successfully sell
+[00:16:32] your product. You need to learn how to
+[00:16:34] sell [ __ ] And making content is very
+[00:16:37] very vastly different from making ads.
+[00:16:40] That's why most content creators can
+[00:16:42] accumulate millions, tens of millions,
+[00:16:44] hundreds of millions of views and a lot
+[00:16:45] of times still be [ __ ] poor. But
+[00:16:47] there's people that I know personally
+[00:16:49] that don't have social media, don't post
+[00:16:50] content, and they're some of the
+[00:16:51] wealthiest [ __ ] people that I know.
+[00:16:53] Your job when you're getting your
+[00:16:54] business off the ground is to sell [ __ ]
+[00:16:56] Period. And turns out that's kind of
+[00:16:58] [ __ ] hard. So, if you're spending
+[00:17:00] anything other than 80% of your time
+[00:17:02] doing that one thing, then that includes
+[00:17:04] making content, by the way, then you're
+[00:17:06] wasting your [ __ ] time. That's my
+[00:17:07] opinion. Say what you want. You know,
+[00:17:09] organic nerds, that's not my problem.
+[00:17:11] Run more ads. So, for that reason, we're
+[00:17:12] putting the prioritization of organic
+[00:17:14] overpaid in the D tier. Next up on the
+[00:17:17] list, we have being a stoic. Look,
+[00:17:20] gentlemen and gentle women, we are
+[00:17:23] approaching Black Friday, Cyber Monday
+[00:17:25] very, very quickly. And we all know that
+[00:17:27] that's a crazy [ __ ] time a lot of
+[00:17:29] times because Facebook just throws you
+[00:17:31] all kinds of nonsense every single day.
+[00:17:33] And many of you are probably already
+[00:17:35] experiencing it right now. If you are
+[00:17:36] not able to properly compartmentalize
+[00:17:38] and be a stoic in terms of clearly
+[00:17:41] drawing a line and putting everything
+[00:17:43] that you can't control in one bucket and
+[00:17:45] everything that you can control in
+[00:17:47] another, then you're going to drive
+[00:17:48] yourself [ __ ] insane. I promise you,
+[00:17:50] running a business, especially if it's a
+[00:17:52] big business, it's not a super easy
+[00:17:54] thing to do. It's simple, but it's not
+[00:17:56] easy. And a lot of times it pulls at
+[00:17:58] your emotions. And turns out when you're
+[00:18:00] emotional, you make really shitty
+[00:18:02] decisions. So, if you're not being an
+[00:18:03] absolute stoic when it comes to running
+[00:18:05] your ads, running your team, running
+[00:18:07] your business, then you're not going to
+[00:18:08] be making good decisions and your
+[00:18:10] business is going to start going [ __ ]
+[00:18:11] downhill. So, for that reason, we are
+[00:18:12] putting being a stoic in the S tier,
+[00:18:15] Marcus Aurelius type [ __ ] Next up on
+[00:18:17] the list, we have Quizfunnels. Now, I
+[00:18:19] think a lot of you are going to be
+[00:18:20] surprised where I put this one on the
+[00:18:21] list because I made videos about
+[00:18:23] Quizfunnels before. I love Quizfunnels,
+[00:18:25] but I'm actually going to be putting
+[00:18:26] this in the C tier. And the reason why
+[00:18:28] is because as soon as there's a bunch of
+[00:18:30] hype generated around a specific kind of
+[00:18:32] funnel, usually the performance of that
+[00:18:34] very thing starts to go downhill. Now,
+[00:18:36] I'm still running quiz funnels. They're
+[00:18:37] still printing for me. But the quizunnel
+[00:18:39] is not a [ __ ] silver bullet, right?
+[00:18:41] You can't just slap a quiz on a shitty
+[00:18:43] offer, shitty product, and shitty ads
+[00:18:45] and expect it to work. It's still a
+[00:18:46] funnel at the end of the day. You still
+[00:18:47] got to write good copy, have good
+[00:18:49] creatives, have diverse creatives, and
+[00:18:51] still do everything else right. So, it's
+[00:18:53] not like it's a golden [ __ ] bullet,
+[00:18:55] right? For that reason, like I said,
+[00:18:56] we're going to be putting quiz funnels
+[00:18:58] in the C tier. Good rule of thumb is if
+[00:19:00] you hear everybody on Twitter talking
+[00:19:01] about one thing, you probably know it's
+[00:19:03] relatively getting close to saturation.
+[00:19:05] But regardless, there's always room for
+[00:19:06] the best. And that goes for anything in
+[00:19:08] life. Next up on the list, we have
+[00:19:10] prioritizing email and SMS. Email and
+[00:19:12] SMS is some of the easiest money that
+[00:19:13] you can make in your business,
+[00:19:14] especially if you're setting up some
+[00:19:16] really, really strong and properly
+[00:19:18] segmented flows for your business,
+[00:19:20] especially if they're flows customized
+[00:19:21] to your specific buyer journey. They can
+[00:19:24] be just massive profit centers for your
+[00:19:26] business. However, one little problem,
+[00:19:28] they're dependent on traffic. That's why
+[00:19:30] I put creatives in the SE tier because
+[00:19:33] everything trickles down from your
+[00:19:34] traffic and your creatives and your ads,
+[00:19:36] right? So, email and SMS, we all know it
+[00:19:38] is some of the easiest money that you
+[00:19:40] can make if you have things set up
+[00:19:41] properly, but it's also dependent on
+[00:19:43] traffic and the quality of said traffic.
+[00:19:45] So, for that reason, we are going to be
+[00:19:47] putting email and SMS in the B tier. And
+[00:19:49] the last thing on the list, of course,
+[00:19:50] you know, I had to do it. Run more ads.
+[00:19:52] We all know where this one is going and
+[00:19:54] we all know why. At any point in time,
+[00:19:56] you're just one massive winning ad away
+[00:19:59] from completely changing your life, from
+[00:20:01] having everything in your life, actually
+[00:20:03] come together, buy the car you want,
+[00:20:05] move to the place that you want, do
+[00:20:06] whatever you want. You're just one ad
+[00:20:08] away. So, for that reason, for the run
+[00:20:10] more ads movement, we are putting this
+[00:20:12] [ __ ] in the S tier. You already know I
+[00:20:14] had to do it. And that is our finished
+[00:20:15] beautiful tier list. Thank you guys so
+[00:20:17] much for watching this video. Once
+[00:20:18] again, if you do want to apply for
+[00:20:20] Brandos Academy, I always link the link
+[00:20:21] below in description. You can fill out
+[00:20:23] an application. Other than that, y'all,
+[00:20:24] I'll see youall on the next video.

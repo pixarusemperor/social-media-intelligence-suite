@@ -1,0 +1,602 @@
+# i asked claude to find me a $1k/day product (it worked)
+URL: https://www.youtube.com/watch?v=1KrsOagtWgM
+Category: video
+Duration: 1093s
+Published: 20260611
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be showing you how I asked
+[00:00:02] Claude to find me a 1K per day product
+[00:00:04] and it worked. And the cool part is this
+[00:00:06] process is actually relatively simple.
+[00:00:08] There's only really five things that you
+[00:00:10] need in order to find a really solid
+[00:00:12] product for you to sell and actually be
+[00:00:13] able to scale to 1K per day. First,
+[00:00:15] we're going to find a market to sell to.
+[00:00:16] Second, we're going to identify a
+[00:00:18] problem specifically within that market.
+[00:00:20] Third, we're going to actually select
+[00:00:21] the actual product. You would think it
+[00:00:23] ends here, but it doesn't. Fourth, we
+[00:00:24] are actually going to validate that that
+[00:00:26] is the right product to sell using real
+[00:00:28] data. And then fifth, we're going to
+[00:00:30] create a game plan to actually sell it
+[00:00:31] successfully. Now, before you just run
+[00:00:33] into Claude and say, "Find me a 1K per
+[00:00:35] day product and make no mistakes," you
+[00:00:37] want to start with something a little
+[00:00:39] bit earlier, which is the market. The
+[00:00:40] market is one of these things that
+[00:00:42] influences how successful the product is
+[00:00:44] going to be way beyond the product
+[00:00:45] itself. This is the equivalent of
+[00:00:47] selling umbrellas in a thunderstorm
+[00:00:49] versus selling umbrellas on a bright
+[00:00:52] sunny day. One of them, you're going to
+[00:00:53] have substantially more sales, even
+[00:00:54] though you're technically selling the
+[00:00:56] same product. And that is the power of
+[00:00:58] the market. Most people fall into
+[00:00:59] product research, but in reality, you
+[00:01:01] should really starting with market
+[00:01:03] research. But, here's the good news.
+[00:01:04] This is actually one of the easiest
+[00:01:06] parts of this process. I'm really going
+[00:01:07] to give you a list to choose from
+[00:01:08] because I could say, "Oh, you need to do
+[00:01:10] XYZ," but in reality, we all know you
+[00:01:12] want some spoon-fed answer. But, this is
+[00:01:14] a pretty easy piece. So, here are some
+[00:01:16] good markets that you can choose from to
+[00:01:18] actually sell in. First, we have the pet
+[00:01:20] market. The only thing that people love
+[00:01:22] more than their own children is their
+[00:01:23] pets. Next, we have the weight loss
+[00:01:25] market. Most people are fat. That's a
+[00:01:26] problem. They want solutions. Hair
+[00:01:28] growth is a great market to get into and
+[00:01:30] honestly anything cosmetic related where
+[00:01:32] there can be a very clear
+[00:01:33] transformation, a very clear before and
+[00:01:35] after. For this reason, skin care, you
+[00:01:37] can also see is on here. Supplements is
+[00:01:39] a great, never-ending market to be in.
+[00:01:41] It can be challenging, but it is a great
+[00:01:43] market to be in from a long-term
+[00:01:45] perspective. The beauty market is great,
+[00:01:47] health and wellness, anything within
+[00:01:48] these markets and you can confidently
+[00:01:50] say that the market is not the reason
+[00:01:53] for your business to not be successful.
+[00:01:54] Don't overthink this piece, okay? Just
+[00:01:56] select a market and move on. All right,
+[00:01:58] now I want to talk about identifying a
+[00:01:59] problem. I'm a huge fan of doing problem
+[00:02:01] research before you do product research
+[00:02:03] because every top-selling product in the
+[00:02:06] freaking world is designed to solve a
+[00:02:07] problem, but it's specifically designed
+[00:02:09] to solve an emotional problem in a
+[00:02:11] passionate market. So, we already have
+[00:02:12] that market piece kind of covered. So,
+[00:02:14] now we want to work on identifying a
+[00:02:16] problem that we can sell to. And the
+[00:02:18] cool part about this is when you find
+[00:02:20] kind of a winning problem, you can fit
+[00:02:23] 10, 20, a hundred different products
+[00:02:25] that actually tackles that one very
+[00:02:27] specific problem. If you take something
+[00:02:29] like migraines, for example, you can
+[00:02:31] solve that problem with supplements, you
+[00:02:33] can solve that problem with a band that
+[00:02:35] you put around your head, you can solve
+[00:02:36] that problem with a chiropractor visit,
+[00:02:37] maybe some sort of like massage gun,
+[00:02:39] massage therapy, something to fix your
+[00:02:41] neck and shin and like a traction device
+[00:02:43] on your neck. Like there's just endless
+[00:02:45] products that you can sell if you have a
+[00:02:46] winning problem. And this is where we're
+[00:02:48] going to start to use Claude. So, we're
+[00:02:49] going to go directly into Claude. We
+[00:02:50] don't need to use Fable for this. You
+[00:02:52] can use something like Opus 4.8. Even
+[00:02:53] Sonnet would be probably fine. I'm going
+[00:02:55] to stick with Opus cuz it's old reliable
+[00:02:57] at this point. And then we're going to
+[00:02:58] paste in this massive prompt right here.
+[00:03:00] By the way, guys, if you want all the
+[00:03:01] prompts associated with this video, just
+[00:03:02] go to my Instagram at Mark Builds
+[00:03:04] Brands. DM me the word Carl, c a r l,
+[00:03:08] for Magnus Carlsen, of course. And we're
+[00:03:10] going to hit enter. All right, so Claude
+[00:03:12] just finished up cooking here. We now
+[00:03:13] have a list of 30 emotional sub niches
+[00:03:18] for D2C beginner brands. So, this is
+[00:03:19] basically downstream from the market.
+[00:03:21] So, we find the market first. Now we
+[00:03:23] have to narrow down into specific
+[00:03:25] problems. So, you can see each one of
+[00:03:26] these is a winning problem. First, we
+[00:03:29] have lower back stiffness. We have neck
+[00:03:31] and shoulder tension. If you know
+[00:03:32] anything about these sub niches, like
+[00:03:35] plantar fasciitis, holy [ __ ] Each one
+[00:03:37] of these is a huge money-making market.
+[00:03:39] If you have made any money in e-comm
+[00:03:41] before and you know the space, you know
+[00:03:43] that every single one of these has
+[00:03:45] multiple seven, if not eight figures,
+[00:03:47] hidden inside of it. So, that is how
+[00:03:49] powerful this process is. So, what
+[00:03:50] you're going to do is you're going to
+[00:03:51] scroll through and just pick five of
+[00:03:53] these sub niches that you like the most
+[00:03:55] because we're going to work these into
+[00:03:56] the next step of the process, which is
+[00:03:58] going to be actually finding a product
+[00:03:59] within that sub niche. So, at this point
+[00:04:01] we can say the problem piece is now also
+[00:04:03] complete. So, let's move on to actually
+[00:04:05] identifying a product and this is where
+[00:04:06] things get really fun. All right, so
+[00:04:08] follow me very carefully. First, you're
+[00:04:10] going to want to go to gethooked.ai and
+[00:04:12] get yourself a free trial here. Next,
+[00:04:14] you're going to go to your account in
+[00:04:16] the bottom left-hand corner and select
+[00:04:17] AI and MCP. So, what we're going to do
+[00:04:20] here is attach the Get Hooked MCP, which
+[00:04:23] is a Get Hooked is a massive aggregator
+[00:04:25] of all the top winning ads across a
+[00:04:26] bunch of different ad platforms, most
+[00:04:28] specifically Facebook/Meta. So, we are
+[00:04:30] going to attach the MCP into Claude so
+[00:04:33] we can use both of these in tandem to
+[00:04:35] find a winning product incredibly
+[00:04:36] quickly. So, you're going to scroll past
+[00:04:38] the API and look at this connect to AI
+[00:04:40] agent section where it says MCP. We are
+[00:04:42] going to copy this MCP URL. Inside of
+[00:04:45] Claude, you're going to go to the
+[00:04:45] left-hand side, select customize, hit
+[00:04:47] connectors, select this little plus
+[00:04:49] icon, and then add custom connector. For
+[00:04:51] the name, you can just put Get Hooked.
+[00:04:53] You're going to paste in your MCP server
+[00:04:55] URL. And then, you're also going to copy
+[00:04:57] this OAuth client ID, go back into
+[00:05:00] Claude and paste that right there, and
+[00:05:01] go ahead and select add. So, now we
+[00:05:02] basically have Claude plus the Facebook
+[00:05:05] Ads Library on steroids all in front of
+[00:05:07] us right now. Now, we're going to paste
+[00:05:09] in another prompt that has a whole bunch
+[00:05:11] of information on the MCP, how to use
+[00:05:13] it, the process to follow, in addition
+[00:05:14] to the five sub niches that you want Get
+[00:05:17] Hooked to generally work within. After
+[00:05:19] this done, we're going to select enter
+[00:05:20] and now we're going to let Claude cook.
+[00:05:21] This is going to take a few minutes, so
+[00:05:22] go touch grass. All right, so Claude
+[00:05:24] just finished up and as you can see, it
+[00:05:25] did a lot of research within each
+[00:05:28] individual sub niche. And if you scroll
+[00:05:30] keep scrolling down close to the bottom,
+[00:05:32] you'll see the actual brands that
+[00:05:35] qualify, meaning they're running enough
+[00:05:37] active ads, their sub niche is actually
+[00:05:39] within the general list of sub niches
+[00:05:41] that you inputted in that initial
+[00:05:42] prompt. And it even identifies the
+[00:05:44] product, the pain point, the ad pattern
+[00:05:46] that they typically use, the funnel
+[00:05:48] architecture that they're typically
+[00:05:50] using. Are they driving to a PDP? Are
+[00:05:51] they going to an advertorial? And a
+[00:05:53] bunch of other cool stuff in addition to
+[00:05:55] their top-performing ad. So, what I
+[00:05:56] found here is this Facebook page called
+[00:05:59] Fall Prevention Tips. They have 232
+[00:06:00] active ads running right now. They have
+[00:06:02] a few subdomains, and they're basically
+[00:06:04] selling wide toe box barefoot shoes that
+[00:06:07] are specifically marketed using the
+[00:06:08] angle of eliminating foot pain, as you
+[00:06:10] can see. So, just like that, the product
+[00:06:12] selection piece is already done. When
+[00:06:14] you have the right
+[00:06:16] then this process of finding a solid
+[00:06:19] product should never take you more than
+[00:06:20] like an hour. So, at this point, the
+[00:06:22] product selection is entirely done, and
+[00:06:24] we can move on to what I believe is one
+[00:06:26] of the most important steps, but GetHulk
+[00:06:28] already kind of did a lot of it for you,
+[00:06:29] which is to validate the product. And
+[00:06:31] what does validation really mean? Well,
+[00:06:32] validation means how can we prove that
+[00:06:34] this business is actually making money?
+[00:06:36] Now, unfortunately, it's not like we
+[00:06:37] have access to their financials. A lot
+[00:06:39] of tools are just general estimations of
+[00:06:41] how much money they're making, but
+[00:06:42] there's one thing that is actually
+[00:06:45] public and that you can see, and that is
+[00:06:46] generally the traffic that they are
+[00:06:47] sending to their website. So, we're
+[00:06:49] going to use a SimilarWeb extension,
+[00:06:51] which you can also use. I think you get
+[00:06:53] like three free searches per day. And
+[00:06:55] what we're really looking for is we want
+[00:06:57] to see a company that's making
+[00:06:58] approximately at least $300,000 per
+[00:07:02] month. Now, you may be asking, "Mark,
+[00:07:03] how the hell are you able to calculate
+[00:07:04] exactly how much money?" Well, I can't.
+[00:07:06] I can't I can't calculate the exact
+[00:07:08] amount, but I can get a rough
+[00:07:09] estimation. And the way that you do that
+[00:07:11] is just by calculating with a simple
+[00:07:13] formula. So, what I like to do typically
+[00:07:15] is a 2 to 3% conversion rate on average,
+[00:07:17] depending on the price of the product.
+[00:07:19] So, this is the actual ad that was found
+[00:07:21] here. And if we open the URL, enable our
+[00:07:24] SimilarWeb extension, we can see that
+[00:07:25] they're driving heaps heaps of traffic
+[00:07:28] to this page, over a million visitors
+[00:07:29] per month. Now, let's go ahead and
+[00:07:31] quickly browse through the funnel here.
+[00:07:32] We can see that they're selling these
+[00:07:34] shoes for one pair for $70. And I reckon
+[00:07:37] they can probably get these shoes
+[00:07:39] sourced for, I don't know, 10 bucks, 10
+[00:07:41] to 15 bucks. But, that's not the point.
+[00:07:43] We care mostly about approximating
+[00:07:45] revenue. But, I would say if I was being
+[00:07:46] conservative, this particular store
+[00:07:48] would be operating at like a 2%
+[00:07:50] conversion rate. Typically, I'm going
+[00:07:52] anywhere from like 1.5 to 3.5% in my
+[00:07:56] estimation calculation, I guess you
+[00:07:58] could say. The more expensive the
+[00:07:59] product, naturally, the lower the
+[00:08:00] conversion rate is going to be. So,
+[00:08:01] let's say they're converting at 2%
+[00:08:03] currently. Let's also be generous and
+[00:08:05] conservative and say that they're
+[00:08:06] generating on average only 1.5 million
+[00:08:09] visits per month. They're actually
+[00:08:10] pretty much at 2 million per month. But,
+[00:08:11] let's just say, again, conservative,
+[00:08:13] which I like to be conservative with
+[00:08:14] estimations like this, they're at 1.5
+[00:08:16] million visits per month. Now, all you
+[00:08:19] got to do is multiply those two
+[00:08:20] together. So, it's going to be 0.02 *
+[00:08:23] 1.5 million visits per month. 2%
+[00:08:25] conversion rate, 1.5 million visitors.
+[00:08:27] And that would be a total of roughly
+[00:08:29] 30,000, not dollars, but 30,000 orders
+[00:08:33] per month. Now, we still need the
+[00:08:34] revenue. So, what we have to do now is
+[00:08:36] make an approximation on their average
+[00:08:38] order value. Once again, I like to be
+[00:08:40] conservative. They have a decent offer
+[00:08:42] stack here. I'd say their average order
+[00:08:44] value is probably about 90 to $100, and
+[00:08:47] that's being conservative. Let's use 90
+[00:08:49] as a, you know, a nice average number.
+[00:08:51] So, we're going to take that 30,000
+[00:08:53] number, multiply that by 90, and that
+[00:08:55] would be a grand total of $2.7 million
+[00:08:58] per month. So, these guys are driving a
+[00:08:59] lot of traffic. Not every single store
+[00:09:01] that you see that you get from Get
+[00:09:03] Hooked MCP is going to be a number this
+[00:09:04] high. You really only want to see
+[00:09:06] something that's above like 2 to 300K
+[00:09:08] per month in revenue. That's like the
+[00:09:10] bare minimum, in my opinion. So, now we
+[00:09:11] can confidently say that, you know, we
+[00:09:12] were able to find a product, we were
+[00:09:14] able to prove that it was a good
+[00:09:15] product, we were able to prove that it
+[00:09:17] was found in a passionate market, and it
+[00:09:19] is solving a painful problem. And best
+[00:09:21] of all, we just validated that it's
+[00:09:23] actually selling at a high scale. So,
+[00:09:24] pretty much everything that we're
+[00:09:25] looking for at this point has been
+[00:09:27] solved. The final piece that I would
+[00:09:28] like to add here is going to be simply
+[00:09:31] the margins. See, when you're looking at
+[00:09:33] competitors, a lot of times they've been
+[00:09:35] running their business for longer than
+[00:09:36] you. So, that they can, you know,
+[00:09:38] negotiate with their suppliers and get
+[00:09:39] better rates in terms of how much they
+[00:09:41] are able to get their product at cost
+[00:09:43] compared to you who is probably drop
+[00:09:45] shipping to get this brand off of the
+[00:09:46] ground, right? So, you have to keep that
+[00:09:48] in mind. I have two very simple rules
+[00:09:50] for you here, all right? Rule number one
+[00:09:52] is you want to have at least three extra
+[00:09:53] cost of goods sold for your price point.
+[00:09:55] So, if you're able to get this product
+[00:09:57] sourced, shipped for let's say, I don't
+[00:09:59] know, 15 bucks, you want to sell it for
+[00:10:01] a minimum of 45. I'm not talking about
+[00:10:02] the shoes in particular, just as a
+[00:10:04] general rule three extra cost of goods.
+[00:10:05] And second rule, I'm going to put $30 of
+[00:10:07] margin. I used to have $20. I think in
+[00:10:09] this day and age Facebook ad cost
+[00:10:11] increasing every goddamn day, $30
+[00:10:13] margins is a good place to be. Which
+[00:10:15] means if you are selling that product
+[00:10:17] for, let's say, $50 and you're getting
+[00:10:19] it sourced for 15, that means that your
+[00:10:21] gross margin in this case is $35. Very
+[00:10:23] good. Very, very good elementary school
+[00:10:25] math right there. So, you are able to
+[00:10:27] satisfy both rules of three extra cogs
+[00:10:29] and $30 margin, all right? So, let's
+[00:10:30] move on past the margins and talk about
+[00:10:32] one of the most overlooked pieces of
+[00:10:34] product research in general, which is
+[00:10:36] the game plan. And the entire reason I
+[00:10:38] included this piece in this freaking
+[00:10:40] video is because I know exactly what's
+[00:10:42] going to happen. Like most of you are
+[00:10:43] probably going to stop watching the
+[00:10:44] video at this point. You're going to
+[00:10:45] immediately go try this method and
+[00:10:46] you're going to try testing this
+[00:10:47] product, spend some money on ads, it's
+[00:10:48] going to fail, and you're going to come
+[00:10:49] back and be like, "Mark, [ __ ] you, man.
+[00:10:51] This was a stupid method. It doesn't
+[00:10:53] work. This is a scam. It's all a big
+[00:10:56] scam. God damn it." And to you, I say,
+[00:10:59] "Listen here, [ __ ] This isn't 2018
+[00:11:02] general store drop shipping anymore, all
+[00:11:04] right, pal? This Things have evolved and
+[00:11:06] the whole point of me saying that is
+[00:11:08] that the product is not everything. The
+[00:11:10] product is not like, you know, you're
+[00:11:12] you're at a [ __ ] casino and you're
+[00:11:14] just trying to hit the [ __ ] jackpot.
+[00:11:16] The product is not everything. There's
+[00:11:18] many, many more pieces that go into
+[00:11:21] being successful in general with a
+[00:11:23] product test. Because most people will
+[00:11:24] probably test a product, they'll see
+[00:11:26] that it's not immediately profitable,
+[00:11:27] they're not immediately a winner,
+[00:11:28] they're not immediately a [ __ ]
+[00:11:29] millionaire, and then they're going to
+[00:11:30] quit. They're going to just say this
+[00:11:32] whole online business thing is a scam.
+[00:11:34] When in reality, you just don't know how
+[00:11:35] to think, and you don't know how to
+[00:11:36] properly problem-solve. God forbid, you
+[00:11:38] know, you are forced to use one of the
+[00:11:40] two brain cells rattling around in your
+[00:11:42] skull right now. You know, Jesus, [ __ ]
+[00:11:44] So, what you need to do after you test
+[00:11:46] this product and it doesn't go well is
+[00:11:48] ask a very simple question, which is
+[00:11:50] why. I know, you're going to have to
+[00:11:52] think. Put put on your [ __ ] thinking
+[00:11:54] cap, sorry. And this is a actually not a
+[00:11:58] super difficult question to answer.
+[00:12:00] Anytime you test a product, it's not
+[00:12:02] always the product that's the issue. In
+[00:12:03] fact, very rarely is it the product. If
+[00:12:05] you go look at some of the top brands
+[00:12:07] that are doing six, seven, eight figures
+[00:12:09] per month, they're not selling anything
+[00:12:11] that special. They're not selling
+[00:12:12] anything that crazy, but they do have
+[00:12:14] two very important things outside of the
+[00:12:16] product that are dialed in. So, when you
+[00:12:18] ask yourself this question, you need to
+[00:12:19] be able to deduce it's from one of these
+[00:12:22] two things. Number one, this is some
+[00:12:24] ad-related issue, my ads aren't good
+[00:12:26] enough. Or this is some funnel-related
+[00:12:28] issue, like my Shopify store, my
+[00:12:30] advertorial, whatever kind of funnel
+[00:12:31] that you're really running is not good
+[00:12:32] enough. Now, how do you actually
+[00:12:34] identify which of these two problems it
+[00:12:35] is? Well, I'll give you some KPIs that
+[00:12:38] you can kind of keep in your mind to
+[00:12:40] know which issue it actually is. So,
+[00:12:42] with ads, there's three metrics you want
+[00:12:44] to look at. I could go so deep into ads,
+[00:12:46] but really most of it comes down to
+[00:12:48] three metrics. The first is your CPC,
+[00:12:50] second is your CTR, and third is your
+[00:12:53] CPMs, okay? Now, your CPC, if you're
+[00:12:55] selling in the US, your goal is to be at
+[00:12:58] roughly $1.50 in terms of your CPC,
+[00:13:01] which means you're paying Facebook $1.50
+[00:13:04] for every single click that they get
+[00:13:05] people off of Facebook. This is your
+[00:13:07] link CPC, just to be clear. If it is
+[00:13:09] super elevated, like two, three, four
+[00:13:12] dollars, it's because of one of these
+[00:13:13] two reasons. This is ultimately just an
+[00:13:15] indicator. It's like the check engine
+[00:13:17] light of your car. It doesn't tell you
+[00:13:18] what's wrong, but it tells you something
+[00:13:19] is wrong. If it is elevated, now we have
+[00:13:22] to look at these two, which is going to
+[00:13:23] be your CTR. Your KPI should be a
+[00:13:25] minimum of 3%, and honestly, I would
+[00:13:27] probably say closer to 4% but if you
+[00:13:30] have a sub 3% CTR, you have a serious
+[00:13:33] creative issue. Your creatives are not
+[00:13:35] that good. You need to go watch my other
+[00:13:36] videos on how to make winning ads,
+[00:13:38] simple as that. Now, if your CTR is
+[00:13:40] good, maybe it's 4%, 5%, your CPC is
+[00:13:43] still elevated, the only other thing it
+[00:13:44] could possibly be is very, very high
+[00:13:46] CPMs. I don't actually even have a KPI
+[00:13:48] for CPMs, but let's just say it's it's
+[00:13:51] super, super niche dependent and
+[00:13:53] location dependent. Let's say you're
+[00:13:54] selling in the US and you have CPMs
+[00:13:56] generally that are over like 80 bucks,
+[00:13:59] right? That would be what I would
+[00:14:00] consider a little bit on the higher end.
+[00:14:02] It's all very relative, but I'll say
+[00:14:03] over 80 bucks is like a good place to
+[00:14:06] kind of draw that line. CPMs are a
+[00:14:08] difficult issue to solve. Some of the
+[00:14:10] issue with CPMs could go right back to
+[00:14:13] your creatives. Facebook likes to reward
+[00:14:15] people that have really good creatives,
+[00:14:17] really engaging creatives without
+[00:14:19] pissing off all their users with low
+[00:14:21] CPMs. So, it's kind of like a
+[00:14:23] self-consuming issue. your creatives
+[00:14:25] aren't good enough, your CPMs will be
+[00:14:26] higher and your CTR will be lower. So,
+[00:14:28] it's a perfect shitstorm for a really
+[00:14:29] high CPC. Ultimately, 90% of the issues
+[00:14:33] that I see is ad-related issues and it's
+[00:14:35] specifically because people think they
+[00:14:37] have great ads when in reality, they
+[00:14:39] don't. They don't know how to write good
+[00:14:40] copy, they don't know how to write good
+[00:14:41] hooks, they don't know how to generate
+[00:14:43] ads that Facebook wants to push out to
+[00:14:45] its users. That is like the crux of the
+[00:14:47] issue 90% of the time. The one concern
+[00:14:49] here I have is that some of you guys are
+[00:14:51] going to try to max out these metrics
+[00:14:53] for vanity. You still have to sell [ __ ]
+[00:14:56] I see so many people that are running
+[00:14:58] like very high curiosity native static
+[00:15:00] type images or videos and like, "Well
+[00:15:02] Mark, my CTR is so high, but I'm not
+[00:15:04] converting people." Well yeah, cuz you
+[00:15:05] forgot to sell them, [ __ ] You're
+[00:15:07] not a content creator, you're not trying
+[00:15:08] to get likes and engagement, you're
+[00:15:09] trying to sell people. So, it's a
+[00:15:10] balance between conversions and
+[00:15:13] engagement, which is the numbers that
+[00:15:15] you're looking at here. Now, over here
+[00:15:16] on the funnel side, here are a few
+[00:15:19] metrics you want to keep in mind, all
+[00:15:20] right? Metric number one is going to be
+[00:15:21] what I call your add to cart ratio,
+[00:15:23] which is of all the people that click
+[00:15:25] and actually land on your first landing
+[00:15:27] page, whatever the first one is, whether
+[00:15:29] that's a
+[00:15:30] advertorial pre-sales page, or directly
+[00:15:32] to your PDP, the ratio of people that
+[00:15:34] add your product to cart should be no
+[00:15:37] less than 10%. This is a little bit
+[00:15:39] dependent on the price of product. You
+[00:15:40] can bring it down to 8 or 9% if you're
+[00:15:42] selling something more expensive, but
+[00:15:43] generally 10% is a good place to be. If
+[00:15:45] it's under this, your funnel is not good
+[00:15:47] enough, or your ads are driving
+[00:15:49] unqualified traffic. The second thing is
+[00:15:51] your add to cart to purchase ratio. What
+[00:15:54] you should look for here is typically
+[00:15:56] 30% completion, meaning if you have 10
+[00:15:58] add to carts, at least three should
+[00:16:00] actually go through and purchase. If
+[00:16:01] it's anything lower than that, there's
+[00:16:02] some issue between the time that they
+[00:16:04] add to cart and purchase. So, it's very
+[00:16:05] straightforward, but sometimes people
+[00:16:07] don't check their payment processors and
+[00:16:09] they have some kind of issue with
+[00:16:11] approval rates or something like that,
+[00:16:13] or maybe their checkout process is just
+[00:16:15] too complicated. They try to do too
+[00:16:16] much. Simplicity in the checkouts is
+[00:16:18] key. Like, you'll be much better
+[00:16:20] removing things than you are like trying
+[00:16:21] to add all these various things to try
+[00:16:23] to bump your conversion rate. And then
+[00:16:25] the final thing is just going to be
+[00:16:26] either your AOV or your LTV, kind of
+[00:16:29] depending on what model you're running
+[00:16:31] with your particular store. Most of it
+[00:16:32] comes down to LTV cuz AOV actually fits
+[00:16:34] within LTV, but this is just a fancy way
+[00:16:36] to say that maybe you are acquiring
+[00:16:38] customers pretty decently well, but
+[00:16:40] you're not getting enough money from
+[00:16:41] them. That's either going to be on the
+[00:16:42] first purchase, so you don't have any
+[00:16:44] upsells or downsells, which is going to
+[00:16:45] be reflected in a low AOV, or it's going
+[00:16:48] to be in a low LTV if you're running
+[00:16:50] like a subscription model or you're
+[00:16:51] heavy on retention in some way or
+[00:16:53] another. So, you want to see, if you're
+[00:16:55] just doing straight Shopify, you should
+[00:16:57] aim for your AOV to be 20 to 40% above
+[00:17:01] your selling price. So, if you're
+[00:17:02] selling your main like one product for
+[00:17:03] like 40 bucks, you want to push that AOV
+[00:17:06] up on I would say even like 50% above
+[00:17:08] that number to be in a decent range.
+[00:17:10] LTV, however, should be substantially
+[00:17:12] higher. So, I'm not going to make a
+[00:17:14] product research video without something
+[00:17:16] like this because I watched so many
+[00:17:18] videos that was like, "All you have to
+[00:17:20] do is this with this. Boom, winning
+[00:17:21] product. You're good to go." No, the
+[00:17:22] product is one piece of the equation.
+[00:17:24] There's so much more that goes into it.
+[00:17:25] That's why I think one of those valuable
+[00:17:27] things that you can have in your e-com
+[00:17:28] journey is just guidance because you
+[00:17:30] don't know what you don't know. And a
+[00:17:32] lot of times, there's so much that goes
+[00:17:34] into this analysis right here between
+[00:17:35] the funnel or the ads or maybe by some
+[00:17:38] miracle it actually is a product-related
+[00:17:41] issue, then you need somebody who's way
+[00:17:43] smarter than you and way more
+[00:17:44] experienced than you to be able to tell
+[00:17:45] you. That's why I built BBA, Brand
+[00:17:48] Builders Academy, which is my mentorship
+[00:17:50] program that I've owned for years now to
+[00:17:51] help people with this exact thing cuz I
+[00:17:52] can hop on a call with them, which I do
+[00:17:54] every Monday, and say, "Okay, these are
+[00:17:56] your numbers. This is exactly where
+[00:17:57] you're going wrong. This is exactly how
+[00:17:58] to fix it. Come to me next week and be
+[00:18:00] [ __ ] killing it." So, if you ever
+[00:18:02] want to apply for something like that,
+[00:18:03] work with me more closely, just click
+[00:18:05] the first link in the description, fill
+[00:18:06] out the application, and see if you're a
+[00:18:08] good fit. Other than that, guys, thank
+[00:18:09] you so much for watching this video. See
+[00:18:11] you on the next one. Peace.

@@ -1,0 +1,2547 @@
+[
+  {
+    "start": 0.0,
+    "duration": 3.72,
+    "text": "Hey guys, Mark here. In this video, I'm"
+  },
+  {
+    "start": 1.52,
+    "duration": 4.0,
+    "text": "going to be going over how I make AI ads"
+  },
+  {
+    "start": 3.72,
+    "duration": 4.24,
+    "text": "on Higgsfield that print. I made this"
+  },
+  {
+    "start": 5.52,
+    "duration": 3.72,
+    "text": "process extremely simple and truthfully,"
+  },
+  {
+    "start": 7.96,
+    "duration": 2.56,
+    "text": "you just need to follow along and do"
+  },
+  {
+    "start": 9.24,
+    "duration": 2.76,
+    "text": "exactly what I do and you'll get some"
+  },
+  {
+    "start": 10.52,
+    "duration": 3.08,
+    "text": "amazing ads. And by the end of this"
+  },
+  {
+    "start": 12.0,
+    "duration": 3.16,
+    "text": "video, you should know how exactly to"
+  },
+  {
+    "start": 13.6,
+    "duration": 3.36,
+    "text": "create a little something like this in"
+  },
+  {
+    "start": 15.16,
+    "duration": 3.48,
+    "text": "under 60 seconds and as a little sneak"
+  },
+  {
+    "start": 16.96,
+    "duration": 2.12,
+    "text": "peek, a video like this in under 30"
+  },
+  {
+    "start": 18.64,
+    "duration": 2.08,
+    "text": "minutes."
+  },
+  {
+    "start": 19.08,
+    "duration": 3.4,
+    "text": ">> Here's what doctors never tell you. When"
+  },
+  {
+    "start": 20.72,
+    "duration": 3.84,
+    "text": "you age, your body loses its That's"
+  },
+  {
+    "start": 22.48,
+    "duration": 3.56,
+    "text": "where NMN comes in. So, let's get into"
+  },
+  {
+    "start": 24.56,
+    "duration": 2.92,
+    "text": "it. Now, making ads with AI, there's"
+  },
+  {
+    "start": 26.04,
+    "duration": 2.84,
+    "text": "really two kinds of ads that you can"
+  },
+  {
+    "start": 27.48,
+    "duration": 2.92,
+    "text": "make, right? You have image ads and"
+  },
+  {
+    "start": 28.88,
+    "duration": 3.6,
+    "text": "video, right? Nothing really"
+  },
+  {
+    "start": 30.4,
+    "duration": 4.36,
+    "text": "groundbreaking there. So, let's first"
+  },
+  {
+    "start": 32.48,
+    "duration": 3.44,
+    "text": "talk about image ads. I love image ads"
+  },
+  {
+    "start": 34.76,
+    "duration": 3.48,
+    "text": "and the reason why I love them is"
+  },
+  {
+    "start": 35.92,
+    "duration": 4.48,
+    "text": "because they are super duper cheap to"
+  },
+  {
+    "start": 38.24,
+    "duration": 4.12,
+    "text": "produce. They are very very fast,"
+  },
+  {
+    "start": 40.4,
+    "duration": 3.92,
+    "text": "meaning you can produce and test a high"
+  },
+  {
+    "start": 42.36,
+    "duration": 3.96,
+    "text": "quantity of them very very quickly and"
+  },
+  {
+    "start": 44.32,
+    "duration": 4.16,
+    "text": "they allow you to test a variety of"
+  },
+  {
+    "start": 46.32,
+    "duration": 4.24,
+    "text": "different angles, messaging, avatars,"
+  },
+  {
+    "start": 48.48,
+    "duration": 4.16,
+    "text": "etc. So, you can find your core winning"
+  },
+  {
+    "start": 50.56,
+    "duration": 4.32,
+    "text": "message before you spend the time and"
+  },
+  {
+    "start": 52.64,
+    "duration": 4.04,
+    "text": "money and invest it into video ads."
+  },
+  {
+    "start": 54.88,
+    "duration": 4.08,
+    "text": "Plus, with the stage that we're at in AI"
+  },
+  {
+    "start": 56.68,
+    "duration": 3.64,
+    "text": "now, it is so freaking easy. Like, I"
+  },
+  {
+    "start": 58.96,
+    "duration": 3.08,
+    "text": "can't even tell you. You'll see what I"
+  },
+  {
+    "start": 60.32,
+    "duration": 3.6,
+    "text": "mean. But, the ultimate purpose here"
+  },
+  {
+    "start": 62.04,
+    "duration": 3.92,
+    "text": "with image ads is you want to be able to"
+  },
+  {
+    "start": 63.92,
+    "duration": 3.72,
+    "text": "find what I call your winning sales"
+  },
+  {
+    "start": 65.96,
+    "duration": 3.4,
+    "text": "message. Everybody kind of talks about,"
+  },
+  {
+    "start": 67.64,
+    "duration": 3.32,
+    "text": "you know, winning ad this, winning ad"
+  },
+  {
+    "start": 69.36,
+    "duration": 3.2,
+    "text": "that, but the best thing that you're"
+  },
+  {
+    "start": 70.96,
+    "duration": 3.4,
+    "text": "really looking for is your winning sales"
+  },
+  {
+    "start": 72.56,
+    "duration": 4.4,
+    "text": "message because as soon as you have that"
+  },
+  {
+    "start": 74.36,
+    "duration": 4.36,
+    "text": "message, that can be transmuted into"
+  },
+  {
+    "start": 76.96,
+    "duration": 5.56,
+    "text": "videos, into different formats of"
+  },
+  {
+    "start": 78.72,
+    "duration": 7.28,
+    "text": "images, into UGC, into a VSL, into a"
+  },
+  {
+    "start": 82.52,
+    "duration": 5.52,
+    "text": "short form video, into founder UGC, into"
+  },
+  {
+    "start": 86.0,
+    "duration": 4.28,
+    "text": "all different kinds of image ads as"
+  },
+  {
+    "start": 88.04,
+    "duration": 4.12,
+    "text": "well, native statics, bottom of funnel,"
+  },
+  {
+    "start": 90.28,
+    "duration": 3.4,
+    "text": "everything you could possibly imagine."
+  },
+  {
+    "start": 92.16,
+    "duration": 2.96,
+    "text": "And it all comes from finding your"
+  },
+  {
+    "start": 93.68,
+    "duration": 3.08,
+    "text": "winning sales message. And of course,"
+  },
+  {
+    "start": 95.12,
+    "duration": 2.96,
+    "text": "images are the fastest way to find that."
+  },
+  {
+    "start": 96.76,
+    "duration": 3.76,
+    "text": "Now, generally speaking, there's two"
+  },
+  {
+    "start": 98.08,
+    "duration": 4.6,
+    "text": "ways that you can create winning image"
+  },
+  {
+    "start": 100.52,
+    "duration": 4.32,
+    "text": "ads. Number one is you can do what's"
+  },
+  {
+    "start": 102.68,
+    "duration": 4.08,
+    "text": "called swiping, which is where you find"
+  },
+  {
+    "start": 104.84,
+    "duration": 2.92,
+    "text": "a competitor, either direct or indirect,"
+  },
+  {
+    "start": 106.76,
+    "duration": 2.36,
+    "text": "you take their ad, use it for"
+  },
+  {
+    "start": 107.76,
+    "duration": 2.92,
+    "text": "inspiration and just create your own"
+  },
+  {
+    "start": 109.12,
+    "duration": 3.44,
+    "text": "little twist of it, which is good"
+  },
+  {
+    "start": 110.68,
+    "duration": 3.64,
+    "text": "because you get to use something that's"
+  },
+  {
+    "start": 112.56,
+    "duration": 3.36,
+    "text": "already working and proven to work, so"
+  },
+  {
+    "start": 114.32,
+    "duration": 3.72,
+    "text": "you're reducing your variables. And then"
+  },
+  {
+    "start": 115.92,
+    "duration": 3.8,
+    "text": "second is going to be new concepts. And"
+  },
+  {
+    "start": 118.04,
+    "duration": 3.6,
+    "text": "truthfully, I think that both of these"
+  },
+  {
+    "start": 119.72,
+    "duration": 4.0,
+    "text": "are equally powerful. I think new"
+  },
+  {
+    "start": 121.64,
+    "duration": 3.64,
+    "text": "concepts are relatively slept on and the"
+  },
+  {
+    "start": 123.72,
+    "duration": 3.72,
+    "text": "reason why is because most people in the"
+  },
+  {
+    "start": 125.28,
+    "duration": 3.52,
+    "text": "space only know how to copy. Like, they"
+  },
+  {
+    "start": 127.44,
+    "duration": 2.92,
+    "text": "have no ounce of originality in their"
+  },
+  {
+    "start": 128.8,
+    "duration": 3.88,
+    "text": "life, but you can use AI to be"
+  },
+  {
+    "start": 130.36,
+    "duration": 3.76,
+    "text": "originality now, all right? That's not"
+  },
+  {
+    "start": 132.68,
+    "duration": 2.56,
+    "text": "an issue anymore. Now, for this video,"
+  },
+  {
+    "start": 134.12,
+    "duration": 3.0,
+    "text": "I'm going to be covering both, all"
+  },
+  {
+    "start": 135.24,
+    "duration": 3.76,
+    "text": "right? So, let's first cover swiping."
+  },
+  {
+    "start": 137.12,
+    "duration": 3.6,
+    "text": "Now, both of these ways of creating"
+  },
+  {
+    "start": 139.0,
+    "duration": 3.72,
+    "text": "winning image ads starts with your"
+  },
+  {
+    "start": 140.72,
+    "duration": 3.4,
+    "text": "foundational docs, which I've linked the"
+  },
+  {
+    "start": 142.72,
+    "duration": 3.8,
+    "text": "SOP that you can use to create your"
+  },
+  {
+    "start": 144.12,
+    "duration": 4.24,
+    "text": "foundational docs in the second link in"
+  },
+  {
+    "start": 146.52,
+    "duration": 3.84,
+    "text": "this video description. Basically, what"
+  },
+  {
+    "start": 148.36,
+    "duration": 3.8,
+    "text": "you're going to do is do incredibly deep"
+  },
+  {
+    "start": 150.36,
+    "duration": 3.04,
+    "text": "psychological and psychographic research"
+  },
+  {
+    "start": 152.16,
+    "duration": 2.76,
+    "text": "on your customer so that you know the"
+  },
+  {
+    "start": 153.4,
+    "duration": 3.64,
+    "text": "exact words that they speak, you know"
+  },
+  {
+    "start": 154.92,
+    "duration": 3.2,
+    "text": "their emotional hot points, you know the"
+  },
+  {
+    "start": 157.04,
+    "duration": 2.44,
+    "text": "stage of sophistication, level of"
+  },
+  {
+    "start": 158.12,
+    "duration": 3.68,
+    "text": "awareness, everything is done for you."
+  },
+  {
+    "start": 159.48,
+    "duration": 3.88,
+    "text": "But, that is like your home. Everything"
+  },
+  {
+    "start": 161.8,
+    "duration": 2.92,
+    "text": "is going to stem from your research"
+  },
+  {
+    "start": 163.36,
+    "duration": 3.24,
+    "text": "because as we know, the greatest"
+  },
+  {
+    "start": 164.72,
+    "duration": 3.64,
+    "text": "copywriters in history all say the same"
+  },
+  {
+    "start": 166.6,
+    "duration": 2.88,
+    "text": "thing and it is true that the money's in"
+  },
+  {
+    "start": 168.36,
+    "duration": 2.44,
+    "text": "the research. But, you don't have to"
+  },
+  {
+    "start": 169.48,
+    "duration": 2.56,
+    "text": "spend hours upon hours doing that"
+  },
+  {
+    "start": 170.8,
+    "duration": 3.04,
+    "text": "anymore like you used to. Now, for"
+  },
+  {
+    "start": 172.04,
+    "duration": 3.08,
+    "text": "swiping, you have to have an ad to swipe"
+  },
+  {
+    "start": 173.84,
+    "duration": 2.92,
+    "text": "in the first place. My favorite place to"
+  },
+  {
+    "start": 175.12,
+    "duration": 3.08,
+    "text": "look for winning ads to swipe is going"
+  },
+  {
+    "start": 176.76,
+    "duration": 2.96,
+    "text": "to be Get Hooked. If you want to get a"
+  },
+  {
+    "start": 178.2,
+    "duration": 2.84,
+    "text": "subscription, I'll also leave it in the"
+  },
+  {
+    "start": 179.72,
+    "duration": 3.28,
+    "text": "description. But, what I'll look for"
+  },
+  {
+    "start": 181.04,
+    "duration": 3.92,
+    "text": "here, for example, is specifically ads"
+  },
+  {
+    "start": 183.0,
+    "duration": 3.8,
+    "text": "that are four or five stars, which is"
+  },
+  {
+    "start": 184.96,
+    "duration": 3.36,
+    "text": "winning ads, and images running"
+  },
+  {
+    "start": 186.8,
+    "duration": 3.16,
+    "text": "specifically in the English language."
+  },
+  {
+    "start": 188.32,
+    "duration": 3.4,
+    "text": "And I'll just scroll through these until"
+  },
+  {
+    "start": 189.96,
+    "duration": 3.36,
+    "text": "I find one that I want to swipe for my"
+  },
+  {
+    "start": 191.72,
+    "duration": 3.44,
+    "text": "own market. If you want to get even more"
+  },
+  {
+    "start": 193.32,
+    "duration": 3.56,
+    "text": "granular, you could even select the the"
+  },
+  {
+    "start": 195.16,
+    "duration": 3.44,
+    "text": "exact niche that you're in here so that"
+  },
+  {
+    "start": 196.88,
+    "duration": 2.92,
+    "text": "you swipe directly from your own niche,"
+  },
+  {
+    "start": 198.6,
+    "duration": 3.0,
+    "text": "but that doesn't have to be a rule. A"
+  },
+  {
+    "start": 199.8,
+    "duration": 3.6,
+    "text": "lot of times you can find fantastic ads"
+  },
+  {
+    "start": 201.6,
+    "duration": 3.48,
+    "text": "by swiping cross niches. So, let's say"
+  },
+  {
+    "start": 203.4,
+    "duration": 3.48,
+    "text": "I'm scrolling, I really wanted to remake"
+  },
+  {
+    "start": 205.08,
+    "duration": 3.16,
+    "text": "this ad. All I'm going to do is hit"
+  },
+  {
+    "start": 206.88,
+    "duration": 3.64,
+    "text": "download media right here. We're going"
+  },
+  {
+    "start": 208.24,
+    "duration": 4.6,
+    "text": "to go over to Claude, go to the projects"
+  },
+  {
+    "start": 210.52,
+    "duration": 3.28,
+    "text": "section, select new project, name it"
+  },
+  {
+    "start": 212.84,
+    "duration": 2.76,
+    "text": "whatever you want. I'm going to be"
+  },
+  {
+    "start": 213.8,
+    "duration": 4.88,
+    "text": "selling an NMN powder, which is like a"
+  },
+  {
+    "start": 215.6,
+    "duration": 4.12,
+    "text": "NAD+ booster, apparently. For the files,"
+  },
+  {
+    "start": 218.68,
+    "duration": 2.4,
+    "text": "you're going to upload those"
+  },
+  {
+    "start": 219.72,
+    "duration": 3.64,
+    "text": "foundational docs. And for the"
+  },
+  {
+    "start": 221.08,
+    "duration": 4.24,
+    "text": "instructions, just paste in my special"
+  },
+  {
+    "start": 223.36,
+    "duration": 3.52,
+    "text": "set of instructions. If you want this"
+  },
+  {
+    "start": 225.32,
+    "duration": 3.44,
+    "text": "actual, like, word-for-word prompt,"
+  },
+  {
+    "start": 226.88,
+    "duration": 3.96,
+    "text": "exactly what to send in here, just go to"
+  },
+  {
+    "start": 228.76,
+    "duration": 3.68,
+    "text": "my Instagram at Mark Builds Brands, DM"
+  },
+  {
+    "start": 230.84,
+    "duration": 2.48,
+    "text": "me the word print and I'll send it over"
+  },
+  {
+    "start": 232.44,
+    "duration": 2.44,
+    "text": "to you for free. All right, for the"
+  },
+  {
+    "start": 233.32,
+    "duration": 3.16,
+    "text": "model, you can keep Sonnet selected."
+  },
+  {
+    "start": 234.88,
+    "duration": 3.84,
+    "text": "This is pretty simple stuff here. And"
+  },
+  {
+    "start": 236.48,
+    "duration": 3.52,
+    "text": "just upload the image, click enter, and"
+  },
+  {
+    "start": 238.72,
+    "duration": 2.76,
+    "text": "just let it cook. That's all you got to"
+  },
+  {
+    "start": 240.0,
+    "duration": 2.96,
+    "text": "do. You don't have to send a single"
+  },
+  {
+    "start": 241.48,
+    "duration": 4.4,
+    "text": "word. Basically, what it's going to be"
+  },
+  {
+    "start": 242.96,
+    "duration": 4.44,
+    "text": "doing is first analyzing why this ad was"
+  },
+  {
+    "start": 245.88,
+    "duration": 3.92,
+    "text": "successful in the first place and then"
+  },
+  {
+    "start": 247.4,
+    "duration": 4.12,
+    "text": "second, reverse engineering every single"
+  },
+  {
+    "start": 249.8,
+    "duration": 3.96,
+    "text": "individual element of this ad from the"
+  },
+  {
+    "start": 251.52,
+    "duration": 3.92,
+    "text": "copy to the colors, everything, so that"
+  },
+  {
+    "start": 253.76,
+    "duration": 3.68,
+    "text": "it matches my brand. Now, you don't need"
+  },
+  {
+    "start": 255.44,
+    "duration": 3.36,
+    "text": "to go and actually look at what it's"
+  },
+  {
+    "start": 257.44,
+    "duration": 3.32,
+    "text": "saying word-for-word. You can scroll"
+  },
+  {
+    "start": 258.8,
+    "duration": 4.08,
+    "text": "right down to the text to image prompt"
+  },
+  {
+    "start": 260.76,
+    "duration": 4.84,
+    "text": "section because not only did it analyze"
+  },
+  {
+    "start": 262.88,
+    "duration": 3.56,
+    "text": "your entire swipe, it also made a prompt"
+  },
+  {
+    "start": 265.6,
+    "duration": 2.36,
+    "text": "so that you don't have to write one"
+  },
+  {
+    "start": 266.44,
+    "duration": 3.12,
+    "text": "yourself. So, we're going to copy and go"
+  },
+  {
+    "start": 267.96,
+    "duration": 4.08,
+    "text": "right into Higgsfield and then we're"
+  },
+  {
+    "start": 269.56,
+    "duration": 4.08,
+    "text": "going to go to the image section, select"
+  },
+  {
+    "start": 272.04,
+    "duration": 3.24,
+    "text": "create image, and make sure that you"
+  },
+  {
+    "start": 273.64,
+    "duration": 3.4,
+    "text": "have Nano Banana Pro selected. I'm going"
+  },
+  {
+    "start": 275.28,
+    "duration": 3.36,
+    "text": "to keep it 9 by 16 format with four"
+  },
+  {
+    "start": 277.04,
+    "duration": 3.04,
+    "text": "variations. I'm going to paste a prompt"
+  },
+  {
+    "start": 278.64,
+    "duration": 3.0,
+    "text": "right there. And then most importantly,"
+  },
+  {
+    "start": 280.08,
+    "duration": 3.92,
+    "text": "as you can tell by these images here, I"
+  },
+  {
+    "start": 281.64,
+    "duration": 4.4,
+    "text": "didn't do it, you want to also upload a"
+  },
+  {
+    "start": 284.0,
+    "duration": 3.76,
+    "text": "PNG of your image on a white background."
+  },
+  {
+    "start": 286.04,
+    "duration": 3.0,
+    "text": "And we hit generate. And while those"
+  },
+  {
+    "start": 287.76,
+    "duration": 3.12,
+    "text": "images are being created, by the way,"
+  },
+  {
+    "start": 289.04,
+    "duration": 4.24,
+    "text": "the cool thing about this prompt is that"
+  },
+  {
+    "start": 290.88,
+    "duration": 4.36,
+    "text": "it also gives you adapted variations in"
+  },
+  {
+    "start": 293.28,
+    "duration": 3.6,
+    "text": "the case you want to change the copy or"
+  },
+  {
+    "start": 295.24,
+    "duration": 3.24,
+    "text": "just the layout or something like that,"
+  },
+  {
+    "start": 296.88,
+    "duration": 2.76,
+    "text": "you can just simply select one of these"
+  },
+  {
+    "start": 298.48,
+    "duration": 3.04,
+    "text": "and give the feedback directly to"
+  },
+  {
+    "start": 299.64,
+    "duration": 3.52,
+    "text": "Claude. Claude will adjust the prompt,"
+  },
+  {
+    "start": 301.52,
+    "duration": 3.52,
+    "text": "paste a new prompt, get new images. Just"
+  },
+  {
+    "start": 303.16,
+    "duration": 3.96,
+    "text": "like that, you have multiple variations"
+  },
+  {
+    "start": 305.04,
+    "duration": 3.88,
+    "text": "of that original swiped image, exactly"
+  },
+  {
+    "start": 307.12,
+    "duration": 3.84,
+    "text": "with your brand details, everything A to"
+  },
+  {
+    "start": 308.92,
+    "duration": 4.16,
+    "text": "Z. Now, look closely. Do you see any"
+  },
+  {
+    "start": 310.96,
+    "duration": 4.04,
+    "text": "text here that is misspelled? Do you see"
+  },
+  {
+    "start": 313.08,
+    "duration": 4.0,
+    "text": "anything that's off? No, it's 100%"
+  },
+  {
+    "start": 315.0,
+    "duration": 4.2,
+    "text": "perfect. That all comes down to the"
+  },
+  {
+    "start": 317.08,
+    "duration": 4.12,
+    "text": "prompting. If you ever struggle with"
+  },
+  {
+    "start": 319.2,
+    "duration": 3.44,
+    "text": "having like text being off on an image"
+  },
+  {
+    "start": 321.2,
+    "duration": 3.52,
+    "text": "or a video, it's because you didn't go"
+  },
+  {
+    "start": 322.64,
+    "duration": 4.56,
+    "text": "into enough depth on the prompt. These"
+  },
+  {
+    "start": 324.72,
+    "duration": 3.84,
+    "text": "LLMs can't extract everything from an"
+  },
+  {
+    "start": 327.2,
+    "duration": 2.92,
+    "text": "image. They can get pretty close, but if"
+  },
+  {
+    "start": 328.56,
+    "duration": 3.88,
+    "text": "you add in the details where it's"
+  },
+  {
+    "start": 330.12,
+    "duration": 4.36,
+    "text": "missing, it can create flawless images"
+  },
+  {
+    "start": 332.44,
+    "duration": 4.68,
+    "text": "and videos. Now, swiping, as we can see,"
+  },
+  {
+    "start": 334.48,
+    "duration": 4.16,
+    "text": "super duper easy, takes virtually zero"
+  },
+  {
+    "start": 337.12,
+    "duration": 3.28,
+    "text": "time whatsoever. How about new concepts?"
+  },
+  {
+    "start": 338.64,
+    "duration": 3.52,
+    "text": "Well, as I said, most of you are not"
+  },
+  {
+    "start": 340.4,
+    "duration": 4.04,
+    "text": "original, not able to think, me either,"
+  },
+  {
+    "start": 342.16,
+    "duration": 3.92,
+    "text": "you know? But, what you can do is use AI"
+  },
+  {
+    "start": 344.44,
+    "duration": 4.0,
+    "text": "to help you think. And one thing that I"
+  },
+  {
+    "start": 346.08,
+    "duration": 5.12,
+    "text": "put together on that exact same SOP,"
+  },
+  {
+    "start": 348.44,
+    "duration": 3.96,
+    "text": "again, DM me the word print on IG if you"
+  },
+  {
+    "start": 351.2,
+    "duration": 2.6,
+    "text": "want to get it. But, one thing that I"
+  },
+  {
+    "start": 352.4,
+    "duration": 3.32,
+    "text": "included, you won't be able to see this,"
+  },
+  {
+    "start": 353.8,
+    "duration": 5.64,
+    "text": "of course, but is the exact prompt that"
+  },
+  {
+    "start": 355.72,
+    "duration": 5.48,
+    "text": "you can use for ideation instead of just"
+  },
+  {
+    "start": 359.44,
+    "duration": 3.32,
+    "text": "raw swiping. Follow the exact same"
+  },
+  {
+    "start": 361.2,
+    "duration": 3.16,
+    "text": "process. You just take the prompt, plug"
+  },
+  {
+    "start": 362.76,
+    "duration": 3.08,
+    "text": "it into into Claude with with your"
+  },
+  {
+    "start": 364.36,
+    "duration": 2.6,
+    "text": "foundational docs, you get the text to"
+  },
+  {
+    "start": 365.84,
+    "duration": 2.64,
+    "text": "image prompt, send that directly to"
+  },
+  {
+    "start": 366.96,
+    "duration": 2.96,
+    "text": "Higgsfield, you get the images. It's so"
+  },
+  {
+    "start": 368.48,
+    "duration": 2.6,
+    "text": "incredibly simple, but this one is"
+  },
+  {
+    "start": 369.92,
+    "duration": 2.96,
+    "text": "completely new concepts that you've"
+  },
+  {
+    "start": 371.08,
+    "duration": 3.76,
+    "text": "never seen before. So, image ads, just"
+  },
+  {
+    "start": 372.88,
+    "duration": 3.6,
+    "text": "like that, solved, cracked, never need"
+  },
+  {
+    "start": 374.84,
+    "duration": 3.44,
+    "text": "to get any other software for the rest"
+  },
+  {
+    "start": 376.48,
+    "duration": 3.88,
+    "text": "of your life. Cool. Let's move on to"
+  },
+  {
+    "start": 378.28,
+    "duration": 3.44,
+    "text": "video ads because naturally, video ads"
+  },
+  {
+    "start": 380.36,
+    "duration": 3.0,
+    "text": "are a little bit trickier. But, even"
+  },
+  {
+    "start": 381.72,
+    "duration": 4.08,
+    "text": "with videos, the technology has gotten"
+  },
+  {
+    "start": 383.36,
+    "duration": 4.24,
+    "text": "so incredibly insane. I mean, you saw in"
+  },
+  {
+    "start": 385.8,
+    "duration": 3.32,
+    "text": "the original portion of the video where"
+  },
+  {
+    "start": 387.6,
+    "duration": 4.08,
+    "text": "I teased a little bit of the ad that I"
+  },
+  {
+    "start": 389.12,
+    "duration": 4.36,
+    "text": "made, you can do just about anything."
+  },
+  {
+    "start": 391.68,
+    "duration": 3.2,
+    "text": "But, before I get into that, why video"
+  },
+  {
+    "start": 393.48,
+    "duration": 2.72,
+    "text": "ads in the first place? Well, video ads"
+  },
+  {
+    "start": 394.88,
+    "duration": 3.64,
+    "text": "are great number one because they're"
+  },
+  {
+    "start": 396.2,
+    "duration": 4.44,
+    "text": "typically more scalable than images."
+  },
+  {
+    "start": 398.52,
+    "duration": 3.84,
+    "text": "Image ads can saturate very very"
+  },
+  {
+    "start": 400.64,
+    "duration": 4.04,
+    "text": "quickly. I don't know the exact reason"
+  },
+  {
+    "start": 402.36,
+    "duration": 3.8,
+    "text": "why, but I do know that in terms of how"
+  },
+  {
+    "start": 404.68,
+    "duration": 4.16,
+    "text": "much top of funnel reach that they can"
+  },
+  {
+    "start": 406.16,
+    "duration": 4.56,
+    "text": "have profitably, it's nowhere near video"
+  },
+  {
+    "start": 408.84,
+    "duration": 3.4,
+    "text": "ads. The second reason also is because"
+  },
+  {
+    "start": 410.72,
+    "duration": 3.48,
+    "text": "typically you will see also higher"
+  },
+  {
+    "start": 412.24,
+    "duration": 4.0,
+    "text": "conversion rates from videos as well."
+  },
+  {
+    "start": 414.2,
+    "duration": 3.56,
+    "text": "It's not a total rule, but just on"
+  },
+  {
+    "start": 416.24,
+    "duration": 3.04,
+    "text": "average I would say you see higher"
+  },
+  {
+    "start": 417.76,
+    "duration": 3.44,
+    "text": "conversion rates because people are"
+  },
+  {
+    "start": 419.28,
+    "duration": 3.48,
+    "text": "consuming more. They're consuming not"
+  },
+  {
+    "start": 421.2,
+    "duration": 3.28,
+    "text": "just visually, but also through the"
+  },
+  {
+    "start": 422.76,
+    "duration": 3.44,
+    "text": "audio and you have what's called their"
+  },
+  {
+    "start": 424.48,
+    "duration": 3.16,
+    "text": "attention in isolation. Like, if you're"
+  },
+  {
+    "start": 426.2,
+    "duration": 2.8,
+    "text": "looking at an image, they're bouncing"
+  },
+  {
+    "start": 427.64,
+    "duration": 3.24,
+    "text": "around, their eyes are all over. If"
+  },
+  {
+    "start": 429.0,
+    "duration": 2.92,
+    "text": "you're looking at a video, you have 100%"
+  },
+  {
+    "start": 430.88,
+    "duration": 2.64,
+    "text": "of their attention while they're"
+  },
+  {
+    "start": 431.92,
+    "duration": 2.6,
+    "text": "watching that video, which is part of"
+  },
+  {
+    "start": 433.52,
+    "duration": 2.56,
+    "text": "the reason why the conversion rate is"
+  },
+  {
+    "start": 434.52,
+    "duration": 3.36,
+    "text": "higher. And as we know, the law of"
+  },
+  {
+    "start": 436.08,
+    "duration": 3.52,
+    "text": "consumption, the longer you can get a"
+  },
+  {
+    "start": 437.88,
+    "duration": 2.92,
+    "text": "person to interact with your brand, the"
+  },
+  {
+    "start": 439.6,
+    "duration": 3.4,
+    "text": "higher that conversion rate is going to"
+  },
+  {
+    "start": 440.8,
+    "duration": 4.32,
+    "text": "be. Now, my actual process for creating"
+  },
+  {
+    "start": 443.0,
+    "duration": 3.56,
+    "text": "winning video ads is and like I mean,"
+  },
+  {
+    "start": 445.12,
+    "duration": 3.32,
+    "text": "good video ads is is pretty"
+  },
+  {
+    "start": 446.56,
+    "duration": 3.36,
+    "text": "straightforward. It's a five-step"
+  },
+  {
+    "start": 448.44,
+    "duration": 3.24,
+    "text": "process, all right? First, you're going"
+  },
+  {
+    "start": 449.92,
+    "duration": 2.84,
+    "text": "to find a swipe. Just as a place to"
+  },
+  {
+    "start": 451.68,
+    "duration": 2.32,
+    "text": "begin with, it doesn't have to be a"
+  },
+  {
+    "start": 452.76,
+    "duration": 2.68,
+    "text": "swipe, but it's a good place to begin"
+  },
+  {
+    "start": 454.0,
+    "duration": 3.0,
+    "text": "with. Next, you're going to script the"
+  },
+  {
+    "start": 455.44,
+    "duration": 2.88,
+    "text": "ad specifically for your brand and then"
+  },
+  {
+    "start": 457.0,
+    "duration": 3.44,
+    "text": "you're going to storyboard it, which"
+  },
+  {
+    "start": 458.32,
+    "duration": 3.76,
+    "text": "means parsing out the script to match"
+  },
+  {
+    "start": 460.44,
+    "duration": 3.36,
+    "text": "with a specific video clip. Then, you"
+  },
+  {
+    "start": 462.08,
+    "duration": 3.4,
+    "text": "create the prompts to actually make"
+  },
+  {
+    "start": 463.8,
+    "duration": 2.96,
+    "text": "those individual clips. And the last"
+  },
+  {
+    "start": 465.48,
+    "duration": 3.2,
+    "text": "piece, you edit all together until you"
+  },
+  {
+    "start": 466.76,
+    "duration": 3.32,
+    "text": "have your fully formed created ad."
+  },
+  {
+    "start": 468.68,
+    "duration": 2.32,
+    "text": "Before I actually follow this exact"
+  },
+  {
+    "start": 470.08,
+    "duration": 2.96,
+    "text": "thing step by step, you have to"
+  },
+  {
+    "start": 471.0,
+    "duration": 3.8,
+    "text": "understand that it's not even worth your"
+  },
+  {
+    "start": 473.04,
+    "duration": 3.84,
+    "text": "time running video ads unless you"
+  },
+  {
+    "start": 474.8,
+    "duration": 3.44,
+    "text": "understand this, which is 90% of your"
+  },
+  {
+    "start": 476.88,
+    "duration": 3.16,
+    "text": "success in video ads is going to come"
+  },
+  {
+    "start": 478.24,
+    "duration": 3.0,
+    "text": "down to having a really really good"
+  },
+  {
+    "start": 480.04,
+    "duration": 3.4,
+    "text": "hook, which is the first three to five"
+  },
+  {
+    "start": 481.24,
+    "duration": 4.32,
+    "text": "seconds of your video ad. But, your hook"
+  },
+  {
+    "start": 483.44,
+    "duration": 4.48,
+    "text": "is actually broken down into three"
+  },
+  {
+    "start": 485.56,
+    "duration": 5.44,
+    "text": "different pieces. The first is the copy,"
+  },
+  {
+    "start": 487.92,
+    "duration": 4.56,
+    "text": "which I would say is about 70 to 80% of"
+  },
+  {
+    "start": 491.0,
+    "duration": 3.64,
+    "text": "your success right there. Then, you have"
+  },
+  {
+    "start": 492.48,
+    "duration": 3.56,
+    "text": "the actual clip itself, which is like"
+  },
+  {
+    "start": 494.64,
+    "duration": 3.2,
+    "text": "the video, what we call the scroll"
+  },
+  {
+    "start": 496.04,
+    "duration": 3.24,
+    "text": "stopper. And then the final piece is the"
+  },
+  {
+    "start": 497.84,
+    "duration": 3.8,
+    "text": "audio in the background, which is"
+  },
+  {
+    "start": 499.28,
+    "duration": 4.16,
+    "text": "typically some sort of voiceover or just"
+  },
+  {
+    "start": 501.64,
+    "duration": 3.68,
+    "text": "directly voice from the character itself"
+  },
+  {
+    "start": 503.44,
+    "duration": 2.92,
+    "text": "or something else. That is the least of"
+  },
+  {
+    "start": 505.32,
+    "duration": 2.56,
+    "text": "your worries. The most important is"
+  },
+  {
+    "start": 506.36,
+    "duration": 3.6,
+    "text": "going to be the copy and of course, the"
+  },
+  {
+    "start": 507.88,
+    "duration": 4.6,
+    "text": "scroll stopping clip. Once you have the"
+  },
+  {
+    "start": 509.96,
+    "duration": 5.52,
+    "text": "hook of your video ad, the other two"
+  },
+  {
+    "start": 512.48,
+    "duration": 4.4,
+    "text": "pieces are very very simple, right? So,"
+  },
+  {
+    "start": 515.48,
+    "duration": 3.44,
+    "text": "first you just hook them in and get the"
+  },
+  {
+    "start": 516.88,
+    "duration": 3.68,
+    "text": "attention. Second is you create the body"
+  },
+  {
+    "start": 518.92,
+    "duration": 2.72,
+    "text": "to actually sell the freaking product"
+  },
+  {
+    "start": 520.56,
+    "duration": 2.08,
+    "text": "cuz first you just you got to get the"
+  },
+  {
+    "start": 521.64,
+    "duration": 2.48,
+    "text": "attention. If you don't have attention,"
+  },
+  {
+    "start": 522.64,
+    "duration": 2.8,
+    "text": "you don't have anything. And then you"
+  },
+  {
+    "start": 524.12,
+    "duration": 2.92,
+    "text": "use the body to actually sell the"
+  },
+  {
+    "start": 525.44,
+    "duration": 2.84,
+    "text": "product, show your mechanism, show how"
+  },
+  {
+    "start": 527.04,
+    "duration": 2.2,
+    "text": "you're different than everybody else and"
+  },
+  {
+    "start": 528.28,
+    "duration": 2.24,
+    "text": "why your product is the best thing to"
+  },
+  {
+    "start": 529.24,
+    "duration": 3.12,
+    "text": "ever touch the face of the earth. And"
+  },
+  {
+    "start": 530.52,
+    "duration": 3.76,
+    "text": "then third, throw a nice hard right"
+  },
+  {
+    "start": 532.36,
+    "duration": 3.28,
+    "text": "hook, call to action, get them on your"
+  },
+  {
+    "start": 534.28,
+    "duration": 3.0,
+    "text": "website, get them to buy. Now, let me"
+  },
+  {
+    "start": 535.64,
+    "duration": 2.96,
+    "text": "kind of break down how this process"
+  },
+  {
+    "start": 537.28,
+    "duration": 2.56,
+    "text": "works cuz it sounds like I'm just"
+  },
+  {
+    "start": 538.6,
+    "duration": 3.16,
+    "text": "throwing a bunch of random words on the"
+  },
+  {
+    "start": 539.84,
+    "duration": 3.44,
+    "text": "screen and expecting you to get it. So,"
+  },
+  {
+    "start": 541.76,
+    "duration": 3.0,
+    "text": "let me show you how this works"
+  },
+  {
+    "start": 543.28,
+    "duration": 3.4,
+    "text": "tactically, okay? The first thing you"
+  },
+  {
+    "start": 544.76,
+    "duration": 4.32,
+    "text": "want to do is of course, find a"
+  },
+  {
+    "start": 546.68,
+    "duration": 4.08,
+    "text": "competitor's ad where you can swipe the"
+  },
+  {
+    "start": 549.08,
+    "duration": 3.48,
+    "text": "transcript specifically and be able to"
+  },
+  {
+    "start": 550.76,
+    "duration": 3.92,
+    "text": "rewrite that based off of your specific"
+  },
+  {
+    "start": 552.56,
+    "duration": 3.56,
+    "text": "brand, aka your lovely foundational"
+  },
+  {
+    "start": 554.68,
+    "duration": 2.88,
+    "text": "docs. So, let's say I'm scrolling Get"
+  },
+  {
+    "start": 556.12,
+    "duration": 3.16,
+    "text": "Hooked, I found this lovely ad right"
+  },
+  {
+    "start": 557.56,
+    "duration": 3.92,
+    "text": "here. And so, now that I have the swipe"
+  },
+  {
+    "start": 559.28,
+    "duration": 4.12,
+    "text": "already, this first piece has been"
+  },
+  {
+    "start": 561.48,
+    "duration": 3.68,
+    "text": "checked off, okay? I found the swipe,"
+  },
+  {
+    "start": 563.4,
+    "duration": 3.44,
+    "text": "we're already 1/5 of the way through."
+  },
+  {
+    "start": 565.16,
+    "duration": 3.88,
+    "text": "Now, to actually rewrite the script,"
+  },
+  {
+    "start": 566.84,
+    "duration": 4.68,
+    "text": "this is incredibly easy. All you have to"
+  },
+  {
+    "start": 569.04,
+    "duration": 3.88,
+    "text": "do is upload your foundational docs to"
+  },
+  {
+    "start": 571.52,
+    "duration": 4.24,
+    "text": "either a Claude project or just in a"
+  },
+  {
+    "start": 572.92,
+    "duration": 4.4,
+    "text": "conversation and then send the full"
+  },
+  {
+    "start": 575.76,
+    "duration": 3.28,
+    "text": "script. So, I would come to this"
+  },
+  {
+    "start": 577.32,
+    "duration": 3.52,
+    "text": "competitor, copy transcript, send it,"
+  },
+  {
+    "start": 579.04,
+    "duration": 3.32,
+    "text": "and have it rewrite it based off of your"
+  },
+  {
+    "start": 580.84,
+    "duration": 3.2,
+    "text": "specific foundational docs, your"
+  },
+  {
+    "start": 582.36,
+    "duration": 3.4,
+    "text": "research, your emotional pain points"
+  },
+  {
+    "start": 584.04,
+    "duration": 3.96,
+    "text": "with your product and your brand. Then,"
+  },
+  {
+    "start": 585.76,
+    "duration": 3.52,
+    "text": "you'll have the script. And from there,"
+  },
+  {
+    "start": 588.0,
+    "duration": 2.92,
+    "text": "you want to start the storyboarding"
+  },
+  {
+    "start": 589.28,
+    "duration": 3.6,
+    "text": "process, which is where you take one"
+  },
+  {
+    "start": 590.92,
+    "duration": 4.52,
+    "text": "individual line or two lines of your"
+  },
+  {
+    "start": 592.88,
+    "duration": 4.36,
+    "text": "script and create one clip specifically"
+  },
+  {
+    "start": 595.44,
+    "duration": 3.68,
+    "text": "for that script. That's a pretty easy"
+  },
+  {
+    "start": 597.24,
+    "duration": 4.44,
+    "text": "process. It's typically matching one"
+  },
+  {
+    "start": 599.12,
+    "duration": 4.88,
+    "text": "sentence equals one or two clips. Now,"
+  },
+  {
+    "start": 601.68,
+    "duration": 4.28,
+    "text": "the prompting process is an interesting"
+  },
+  {
+    "start": 604.0,
+    "duration": 3.32,
+    "text": "one because it's actually a two-part"
+  },
+  {
+    "start": 605.96,
+    "duration": 3.84,
+    "text": "process. The first thing that you want"
+  },
+  {
+    "start": 607.32,
+    "duration": 5.0,
+    "text": "to do is you want to generate a"
+  },
+  {
+    "start": 609.8,
+    "duration": 4.28,
+    "text": "text-to-image prompt on Claude and then"
+  },
+  {
+    "start": 612.32,
+    "duration": 4.52,
+    "text": "send that prompt into Higgs Field"
+  },
+  {
+    "start": 614.08,
+    "duration": 5.24,
+    "text": "specifically using Nano Banana Pro to"
+  },
+  {
+    "start": 616.84,
+    "duration": 3.96,
+    "text": "actually create the starting frame of"
+  },
+  {
+    "start": 619.32,
+    "duration": 3.32,
+    "text": "your video. Once you have the starting"
+  },
+  {
+    "start": 620.8,
+    "duration": 4.24,
+    "text": "frame, again, this is all done in Higgs"
+  },
+  {
+    "start": 622.64,
+    "duration": 4.04,
+    "text": "Field and after you have that individual"
+  },
+  {
+    "start": 625.04,
+    "duration": 5.0,
+    "text": "starting frame created, you're going to"
+  },
+  {
+    "start": 626.68,
+    "duration": 5.56,
+    "text": "do image-to-video using Kling 3. And you"
+  },
+  {
+    "start": 630.04,
+    "duration": 3.64,
+    "text": "have to make sure you have a good prompt"
+  },
+  {
+    "start": 632.24,
+    "duration": 3.52,
+    "text": "for the image-to-video. Like just"
+  },
+  {
+    "start": 633.68,
+    "duration": 3.64,
+    "text": "getting the image as a starting frame is"
+  },
+  {
+    "start": 635.76,
+    "duration": 2.76,
+    "text": "only half of it. You have to make sure"
+  },
+  {
+    "start": 637.32,
+    "duration": 2.36,
+    "text": "you have a really good prompt with it as"
+  },
+  {
+    "start": 638.52,
+    "duration": 2.96,
+    "text": "well, which I'll show you how to do. And"
+  },
+  {
+    "start": 639.68,
+    "duration": 3.76,
+    "text": "so after that, you'll have each"
+  },
+  {
+    "start": 641.48,
+    "duration": 4.32,
+    "text": "individual clip exactly as you want it."
+  },
+  {
+    "start": 643.44,
+    "duration": 3.32,
+    "text": "So the prompt process is now complete"
+  },
+  {
+    "start": 645.8,
+    "duration": 2.52,
+    "text": "and then you just have to piece them"
+  },
+  {
+    "start": 646.76,
+    "duration": 3.48,
+    "text": "together, edit them, and they're good to"
+  },
+  {
+    "start": 648.32,
+    "duration": 3.52,
+    "text": "go. So now I'm going to go through an"
+  },
+  {
+    "start": 650.24,
+    "duration": 3.72,
+    "text": "example of me following this process"
+  },
+  {
+    "start": 651.84,
+    "duration": 3.68,
+    "text": "step-by-step to actually create one of"
+  },
+  {
+    "start": 653.96,
+    "duration": 2.68,
+    "text": "the clips that I made in the video. And"
+  },
+  {
+    "start": 655.52,
+    "duration": 2.76,
+    "text": "by the way, everything that I just"
+  },
+  {
+    "start": 656.64,
+    "duration": 3.36,
+    "text": "touched on, I'm going to actually go and"
+  },
+  {
+    "start": 658.28,
+    "duration": 3.76,
+    "text": "do it now. But if you want the actual"
+  },
+  {
+    "start": 660.0,
+    "duration": 3.32,
+    "text": "like step-by-step exactly what to do and"
+  },
+  {
+    "start": 662.04,
+    "duration": 3.76,
+    "text": "then you can even upload this into"
+  },
+  {
+    "start": 663.32,
+    "duration": 3.88,
+    "text": "Claude and be able to have most of this"
+  },
+  {
+    "start": 665.8,
+    "duration": 3.8,
+    "text": "done for you on autopilot, I put"
+  },
+  {
+    "start": 667.2,
+    "duration": 4.28,
+    "text": "together this full AI video ad creation"
+  },
+  {
+    "start": 669.6,
+    "duration": 3.4,
+    "text": "SOP. You can follow this to the T,"
+  },
+  {
+    "start": 671.48,
+    "duration": 2.64,
+    "text": "upload it into Claude code and have it"
+  },
+  {
+    "start": 673.0,
+    "duration": 2.28,
+    "text": "do it for you automatically. I don't"
+  },
+  {
+    "start": 674.12,
+    "duration": 3.4,
+    "text": "really care. You take it, do what you"
+  },
+  {
+    "start": 675.28,
+    "duration": 4.8,
+    "text": "want with it. Just go to my Instagram,"
+  },
+  {
+    "start": 677.52,
+    "duration": 3.68,
+    "text": "DM me the word Higgs Field, and I'll"
+  },
+  {
+    "start": 680.08,
+    "duration": 2.2,
+    "text": "send it to you for free. All right, so"
+  },
+  {
+    "start": 681.2,
+    "duration": 2.72,
+    "text": "let's go through an example of me"
+  },
+  {
+    "start": 682.28,
+    "duration": 3.56,
+    "text": "actually following this process. So"
+  },
+  {
+    "start": 683.92,
+    "duration": 4.04,
+    "text": "since I already have my script done, all"
+  },
+  {
+    "start": 685.84,
+    "duration": 3.8,
+    "text": "I need to do is take one specific line"
+  },
+  {
+    "start": 687.96,
+    "duration": 4.16,
+    "text": "and be able to feed that into Claude so"
+  },
+  {
+    "start": 689.64,
+    "duration": 3.92,
+    "text": "that I get a text-to-image prompt of"
+  },
+  {
+    "start": 692.12,
+    "duration": 3.32,
+    "text": "what that first starting frame should"
+  },
+  {
+    "start": 693.56,
+    "duration": 3.56,
+    "text": "look like. All right, so I got the exact"
+  },
+  {
+    "start": 695.44,
+    "duration": 2.76,
+    "text": "prompt from Claude. Again, to get these"
+  },
+  {
+    "start": 697.12,
+    "duration": 3.4,
+    "text": "kind of prompts, just make sure you"
+  },
+  {
+    "start": 698.2,
+    "duration": 4.48,
+    "text": "follow that SOP to the T. Copy-paste"
+  },
+  {
+    "start": 700.52,
+    "duration": 3.28,
+    "text": "over into Higgs Field, and this was the"
+  },
+  {
+    "start": 702.68,
+    "duration": 3.08,
+    "text": "output that I got here. This is"
+  },
+  {
+    "start": 703.8,
+    "duration": 4.52,
+    "text": "basically perfect. What I'm shooting for"
+  },
+  {
+    "start": 705.76,
+    "duration": 4.52,
+    "text": "here, and again, it's all in the SOP, is"
+  },
+  {
+    "start": 708.32,
+    "duration": 4.28,
+    "text": "I wanted a product shot specifically"
+  },
+  {
+    "start": 710.28,
+    "duration": 3.96,
+    "text": "showing this product in action. So now"
+  },
+  {
+    "start": 712.6,
+    "duration": 3.36,
+    "text": "that I have this image, I'm going to go"
+  },
+  {
+    "start": 714.24,
+    "duration": 3.68,
+    "text": "and download this right here, go to"
+  },
+  {
+    "start": 715.96,
+    "duration": 3.92,
+    "text": "video and select Kling 3. And now we"
+  },
+  {
+    "start": 717.92,
+    "duration": 3.72,
+    "text": "need the image-to-video prompt to"
+  },
+  {
+    "start": 719.88,
+    "duration": 3.72,
+    "text": "actually bring this to life. So you'll"
+  },
+  {
+    "start": 721.64,
+    "duration": 3.52,
+    "text": "enter a very specific portion of your"
+  },
+  {
+    "start": 723.6,
+    "duration": 3.52,
+    "text": "script. Make sure you have the prompt"
+  },
+  {
+    "start": 725.16,
+    "duration": 4.68,
+    "text": "along to go with it. So we will go right"
+  },
+  {
+    "start": 727.12,
+    "duration": 5.0,
+    "text": "here and copy. So first we're going to"
+  },
+  {
+    "start": 729.84,
+    "duration": 4.44,
+    "text": "upload this individual photo as a start"
+  },
+  {
+    "start": 732.12,
+    "duration": 4.12,
+    "text": "frame. I'm going to paste in my prompt,"
+  },
+  {
+    "start": 734.28,
+    "duration": 3.8,
+    "text": "and then I'm going to select the length"
+  },
+  {
+    "start": 736.24,
+    "duration": 3.48,
+    "text": "that I want this video to be. I believe"
+  },
+  {
+    "start": 738.08,
+    "duration": 2.72,
+    "text": "Claude said this clip was going to be 6"
+  },
+  {
+    "start": 739.72,
+    "duration": 2.6,
+    "text": "to 8 seconds. So I'm going to put it"
+  },
+  {
+    "start": 740.8,
+    "duration": 3.52,
+    "text": "right in the middle at 7 and hit"
+  },
+  {
+    "start": 742.32,
+    "duration": 3.16,
+    "text": "generate. A few minutes later, this is"
+  },
+  {
+    "start": 744.32,
+    "duration": 1.52,
+    "text": "the output that we got. Let's take a"
+  },
+  {
+    "start": 745.48,
+    "duration": 2.88,
+    "text": "look."
+  },
+  {
+    "start": 745.84,
+    "duration": 4.44,
+    "text": ">> One scoop every morning gives your cells"
+  },
+  {
+    "start": 748.36,
+    "duration": 4.48,
+    "text": "what they've been running short on."
+  },
+  {
+    "start": 750.28,
+    "duration": 4.32,
+    "text": "Sweet. So very simple. I think it's"
+  },
+  {
+    "start": 752.84,
+    "duration": 3.32,
+    "text": "relatively well explained. There's no"
+  },
+  {
+    "start": 754.6,
+    "duration": 3.16,
+    "text": "issues with the packaging on the"
+  },
+  {
+    "start": 756.16,
+    "duration": 3.56,
+    "text": "product. This clip is good to go. As you"
+  },
+  {
+    "start": 757.76,
+    "duration": 5.32,
+    "text": "can see, you can follow this exact same"
+  },
+  {
+    "start": 759.72,
+    "duration": 3.72,
+    "text": "process for UGC style clips exactly like"
+  },
+  {
+    "start": 763.08,
+    "duration": 2.72,
+    "text": "this."
+  },
+  {
+    "start": 763.44,
+    "duration": 4.64,
+    "text": ">> Trust me and give it a try. You can use"
+  },
+  {
+    "start": 765.8,
+    "duration": 3.04,
+    "text": "this for scroll stoppers like I did You"
+  },
+  {
+    "start": 768.08,
+    "duration": 2.36,
+    "text": "being tired"
+  },
+  {
+    "start": 768.84,
+    "duration": 3.4,
+    "text": ">> like this where this lady's legs are"
+  },
+  {
+    "start": 770.44,
+    "duration": 2.84,
+    "text": "just gone. Like a scroll stopper should"
+  },
+  {
+    "start": 772.24,
+    "duration": 2.92,
+    "text": "be something you look at and you"
+  },
+  {
+    "start": 773.28,
+    "duration": 3.4,
+    "text": "literally have to be like, what the"
+  },
+  {
+    "start": 775.16,
+    "duration": 3.44,
+    "text": "did I just look at? So I tried to"
+  },
+  {
+    "start": 776.68,
+    "duration": 3.44,
+    "text": "capture this. This was Claude's idea"
+  },
+  {
+    "start": 778.6,
+    "duration": 2.8,
+    "text": "where her legs just kind of melted"
+  },
+  {
+    "start": 780.12,
+    "duration": 3.24,
+    "text": "because she has zero energy."
+  },
+  {
+    "start": 781.4,
+    "duration": 4.12,
+    "text": ">> You being tired isn't about sleep,"
+  },
+  {
+    "start": 783.36,
+    "duration": 3.92,
+    "text": "stress, or genetics. And as a nice"
+  },
+  {
+    "start": 785.52,
+    "duration": 3.72,
+    "text": "little touch, what I did at the end here"
+  },
+  {
+    "start": 787.28,
+    "duration": 4.6,
+    "text": "is something else for retention. Keep"
+  },
+  {
+    "start": 789.24,
+    "duration": 2.64,
+    "text": "watching."
+  },
+  {
+    "start": 792.2,
+    "duration": 2.6,
+    "text": "SO SOMETHING WEIRD THAT MAKES YOU SAY,"
+  },
+  {
+    "start": 793.6,
+    "duration": 2.52,
+    "text": "\"WHAT THE FUCK?\" Is this the best I"
+  },
+  {
+    "start": 794.8,
+    "duration": 2.8,
+    "text": "could do? No, but this was Claude's"
+  },
+  {
+    "start": 796.12,
+    "duration": 3.88,
+    "text": "idea. I think it's pretty funny. And you"
+  },
+  {
+    "start": 797.6,
+    "duration": 5.0,
+    "text": "can even follow this process for these"
+  },
+  {
+    "start": 800.0,
+    "duration": 4.84,
+    "text": "animation style clips where you have"
+  },
+  {
+    "start": 802.6,
+    "duration": 4.44,
+    "text": "animated figures talking like this. When"
+  },
+  {
+    "start": 804.84,
+    "duration": 4.56,
+    "text": "you age, your body loses its ability to"
+  },
+  {
+    "start": 807.04,
+    "duration": 4.08,
+    "text": "produce NAD+ a little molecule your"
+  },
+  {
+    "start": 809.4,
+    "duration": 4.72,
+    "text": "cells use to generate energy at a"
+  },
+  {
+    "start": 811.12,
+    "duration": 5.24,
+    "text": "biological level. There's basically zero"
+  },
+  {
+    "start": 814.12,
+    "duration": 3.48,
+    "text": "that you can't do and you can do it all"
+  },
+  {
+    "start": 816.36,
+    "duration": 3.04,
+    "text": "inside of Higgs Field because it's just"
+  },
+  {
+    "start": 817.6,
+    "duration": 3.6,
+    "text": "using the APIs from all these technology"
+  },
+  {
+    "start": 819.4,
+    "duration": 3.6,
+    "text": "and aggregating them in one place. So"
+  },
+  {
+    "start": 821.2,
+    "duration": 4.76,
+    "text": "whether you need B-roll, whether you"
+  },
+  {
+    "start": 823.0,
+    "duration": 5.28,
+    "text": "want a scroll stopper, you need regular"
+  },
+  {
+    "start": 825.96,
+    "duration": 4.12,
+    "text": "UGC, you want podcasts, everything can"
+  },
+  {
+    "start": 828.28,
+    "duration": 3.68,
+    "text": "be built here. It's just creating a"
+  },
+  {
+    "start": 830.08,
+    "duration": 4.2,
+    "text": "really good image with Nano Banana Pro"
+  },
+  {
+    "start": 831.96,
+    "duration": 3.92,
+    "text": "and having good prompting there and then"
+  },
+  {
+    "start": 834.28,
+    "duration": 2.96,
+    "text": "image-to-video with good prompting as"
+  },
+  {
+    "start": 835.88,
+    "duration": 3.28,
+    "text": "well. At this point, you have all the"
+  },
+  {
+    "start": 837.24,
+    "duration": 4.6,
+    "text": "clips created. All that's left to do is"
+  },
+  {
+    "start": 839.16,
+    "duration": 4.28,
+    "text": "just assemble them, add some captions,"
+  },
+  {
+    "start": 841.84,
+    "duration": 3.8,
+    "text": "maybe a few cuts, and you're good to go."
+  },
+  {
+    "start": 843.44,
+    "duration": 3.84,
+    "text": "This is the final ad that I created in a"
+  },
+  {
+    "start": 845.64,
+    "duration": 4.28,
+    "text": "pretty short period of time. If you wake"
+  },
+  {
+    "start": 847.28,
+    "duration": 4.4,
+    "text": "up feeling like this and need coffee"
+  },
+  {
+    "start": 849.92,
+    "duration": 5.08,
+    "text": "after coffee just to get through the"
+  },
+  {
+    "start": 851.68,
+    "duration": 3.32,
+    "text": "day, keep watching."
+  },
+  {
+    "start": 855.48,
+    "duration": 4.72,
+    "text": "DOCTORS never tell you about why you"
+  },
+  {
+    "start": 857.6,
+    "duration": 4.56,
+    "text": "constantly feel tired no matter how much"
+  },
+  {
+    "start": 860.2,
+    "duration": 4.56,
+    "text": "caffeine you take. When you age, your"
+  },
+  {
+    "start": 862.16,
+    "duration": 4.12,
+    "text": "body loses its ability to produce NAD+ a"
+  },
+  {
+    "start": 864.76,
+    "duration": 3.56,
+    "text": "little molecule your cells use to"
+  },
+  {
+    "start": 866.28,
+    "duration": 3.92,
+    "text": "generate energy at a biological level."
+  },
+  {
+    "start": 868.32,
+    "duration": 4.16,
+    "text": ">> You being tired isn't about sleep,"
+  },
+  {
+    "start": 870.2,
+    "duration": 3.96,
+    "text": "stress, or genetics. Your cells are just"
+  },
+  {
+    "start": 872.48,
+    "duration": 3.72,
+    "text": "running on fumes and no amount of"
+  },
+  {
+    "start": 874.16,
+    "duration": 4.04,
+    "text": "caffeine will fix that. That's where NMN"
+  },
+  {
+    "start": 876.2,
+    "duration": 5.64,
+    "text": "comes in. It's the direct precursor your"
+  },
+  {
+    "start": 878.2,
+    "duration": 5.48,
+    "text": "body uses to produce NAD+. One scoop"
+  },
+  {
+    "start": 881.84,
+    "duration": 3.88,
+    "text": "every morning gives your cells what"
+  },
+  {
+    "start": 883.68,
+    "duration": 5.28,
+    "text": "they've been running short on."
+  },
+  {
+    "start": 885.72,
+    "duration": 5.44,
+    "text": "No spike, no crash, just you with real"
+  },
+  {
+    "start": 888.96,
+    "duration": 4.56,
+    "text": "energy really functioning at your best."
+  },
+  {
+    "start": 891.16,
+    "duration": 4.88,
+    "text": "Ladies, just trust me and give it a try."
+  },
+  {
+    "start": 893.52,
+    "duration": 4.28,
+    "text": "Get your 30-day supply of NMN powder by"
+  },
+  {
+    "start": 896.04,
+    "duration": 3.04,
+    "text": "tapping the link below this video."
+  },
+  {
+    "start": 897.8,
+    "duration": 3.04,
+    "text": ">> Now, shameless plug. If you liked all"
+  },
+  {
+    "start": 899.08,
+    "duration": 4.12,
+    "text": "this stuff, then you will love it inside"
+  },
+  {
+    "start": 900.84,
+    "duration": 4.96,
+    "text": "of BBA. I'm literally filming new"
+  },
+  {
+    "start": 903.2,
+    "duration": 4.72,
+    "text": "content this weekend specifically around"
+  },
+  {
+    "start": 905.8,
+    "duration": 3.72,
+    "text": "AI that I haven't put out anywhere. So"
+  },
+  {
+    "start": 907.92,
+    "duration": 2.96,
+    "text": "if you want to learn how to start a real"
+  },
+  {
+    "start": 909.52,
+    "duration": 2.8,
+    "text": "e-commerce brand using all these AI"
+  },
+  {
+    "start": 910.88,
+    "duration": 2.92,
+    "text": "tools, just click the first link in the"
+  },
+  {
+    "start": 912.32,
+    "duration": 3.28,
+    "text": "description and see if you're a good fit"
+  },
+  {
+    "start": 913.8,
+    "duration": 3.32,
+    "text": "for BBA. Full transparency, we don't"
+  },
+  {
+    "start": 915.6,
+    "duration": 2.84,
+    "text": "accept everybody, but if you're a good"
+  },
+  {
+    "start": 917.12,
+    "duration": 2.96,
+    "text": "fit, we will let you know. Other than"
+  },
+  {
+    "start": 918.44,
+    "duration": 2.68,
+    "text": "that, make sure you get my SOPs and"
+  },
+  {
+    "start": 920.08,
+    "duration": 2.64,
+    "text": "everything that you need to make these"
+  },
+  {
+    "start": 921.12,
+    "duration": 4.44,
+    "text": "videos, and I'll see you on the next"
+  },
+  {
+    "start": 922.72,
+    "duration": 2.84,
+    "text": "one. Peace."
+  }
+]

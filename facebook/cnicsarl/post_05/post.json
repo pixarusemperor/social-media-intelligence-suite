@@ -1,0 +1,26 @@
+{
+  "post_id": "1429005559410400",
+  "url": "https://www.facebook.com/cnicsarl/posts/1429005559410400?locale=fr_FR",
+  "creation_time": 1792256406,
+  "date_iso": "2026-10-17T17:00:06+00:00",
+  "date_str": "2026-10-17 17:00:06 UTC",
+  "post_text": "📣 UN COMMENTAIRE, UN CLIC ET UN RENDEZ VOUS SONT TROIS ÉTAPES\n\nUne publication peut faire réagir sans déclencher une demande de prestation. Un clic peut ouvrir une page sans qu’une personne prenne...",
+  "reactions_count": 19,
+  "shares_count": 2,
+  "comments_count": 4,
+  "top_reactions": [],
+  "comments": [],
+  "image_urls": [
+    "https://scontent-fra3-2.xx.fbcdn.net/v/t39.99422-6/856388615_1465326742140424_7295018135878827854_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p180x540&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kut3a4hzNMoQ7kNvwEuA7ri&_nc_oc=AdoR2M1NcVWs9pnLN5-5ccEZjBx00F8mux776Dc3KG0vWoDGyAcM0s7SVNhiu80ctK4GlGnj_Qa2PbSQJuyLXp-i&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=9fEuvrXHnzxrvBecgmyCrQ&_nc_ss=7f289&oh=00_AQNgDQqIgaNVnKvSzuJnioNqSCclanb9TBCHM80fnbmh3w&oe=6AD9D619",
+    "https://external-fra3-2.xx.fbcdn.net/emg1/v/t13/2714578131709877226?url=https\\u00253A\\u00252F\\u00252Fanniversaire.propulsion.cm\\u00252Fbrand\\u00252Fpartage-anniversaire.jpg&fb_obo=1&utld=propulsion.cm&_nc_sid=c97757&_nc_ht=external-fra3-2.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p98x98_q75_tt6&ccb=18-1&_nc_gid=9fEuvrXHnzxrvBecgmyCrQ&_nc_zt=3&oh=06_Q3_EAUYrvrzNwsIUl818Vbi_jPWFyfUm7pMrpZ4hAmX6U-ef&oe=6AD60D85"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_05/images/image_01.png",
+      "size_bytes": 87619,
+      "cdn_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.99422-6/856388615_1465326742140424_7295018135878827854_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p180x540&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kut3a4hzNMoQ7kNvwEuA7ri&_nc_oc=AdoR2M1NcVWs9pnLN5-5ccEZjBx00F8mux776Dc3KG0vWoDGyAcM0s7SVNhiu80ctK4GlGnj_Qa2PbSQJuyLXp-i&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=9fEuvrXHnzxrvBecgmyCrQ&_nc_ss=7f289&oh=00_AQNgDQqIgaNVnKvSzuJnioNqSCclanb9TBCHM80fnbmh3w&oe=6AD9D619"
+    }
+  ]
+}

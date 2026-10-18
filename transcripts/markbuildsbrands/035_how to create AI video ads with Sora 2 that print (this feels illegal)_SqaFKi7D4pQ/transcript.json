@@ -1,0 +1,2267 @@
+[
+  {
+    "start": 0.0,
+    "duration": 2.84,
+    "text": "Hey guys, Mark here. In this video I'm"
+  },
+  {
+    "start": 1.28,
+    "duration": 3.76,
+    "text": "going to show you how to make Sora 2"
+  },
+  {
+    "start": 2.84,
+    "duration": 3.88,
+    "text": "video ads that absolutely print. Here's"
+  },
+  {
+    "start": 5.04,
+    "duration": 2.84,
+    "text": "a quick sneak peek of one of the video"
+  },
+  {
+    "start": 6.72,
+    "duration": 3.1,
+    "text": "ads we're going to be creating today."
+  },
+  {
+    "start": 7.88,
+    "duration": 2.28,
+    "text": ">> steroid creams and my eczema"
+  },
+  {
+    "start": 9.82,
+    "duration": 1.9,
+    "text": ">> [music]"
+  },
+  {
+    "start": 10.16,
+    "duration": 5.24,
+    "text": ">> It works on your face and body. Yes,"
+  },
+  {
+    "start": 11.72,
+    "duration": 5.32,
+    "text": "that is 100% AI, 100% Sora 2. Now, let's"
+  },
+  {
+    "start": 15.4,
+    "duration": 3.08,
+    "text": "get into actually how to do it and we'll"
+  },
+  {
+    "start": 17.04,
+    "duration": 3.0,
+    "text": "watch the full ad at the end of the"
+  },
+  {
+    "start": 18.48,
+    "duration": 4.04,
+    "text": "video. So, the process for creating Sora"
+  },
+  {
+    "start": 20.04,
+    "duration": 4.0,
+    "text": "2 videos is very simple. It's actually"
+  },
+  {
+    "start": 22.52,
+    "duration": 3.2,
+    "text": "five steps. The first step is you want"
+  },
+  {
+    "start": 24.04,
+    "duration": 3.04,
+    "text": "to identify swipe. Next, you want to"
+  },
+  {
+    "start": 25.72,
+    "duration": 2.8,
+    "text": "write the script. Next is you want to"
+  },
+  {
+    "start": 27.08,
+    "duration": 2.88,
+    "text": "storyboard the ad and I'll explain"
+  },
+  {
+    "start": 28.52,
+    "duration": 2.68,
+    "text": "exactly what that is in a second. Number"
+  },
+  {
+    "start": 29.96,
+    "duration": 2.6,
+    "text": "four is you want to actually generate"
+  },
+  {
+    "start": 31.2,
+    "duration": 3.32,
+    "text": "the prompts for Sora 2 and then the"
+  },
+  {
+    "start": 32.56,
+    "duration": 3.32,
+    "text": "final piece is you actually generate and"
+  },
+  {
+    "start": 34.52,
+    "duration": 3.28,
+    "text": "create the clips on Sora 2 and piece"
+  },
+  {
+    "start": 35.88,
+    "duration": 3.4,
+    "text": "them together into a fully cohesive ad."
+  },
+  {
+    "start": 37.8,
+    "duration": 2.96,
+    "text": "That is it. And you can do all of this"
+  },
+  {
+    "start": 39.28,
+    "duration": 2.76,
+    "text": "and make the ad that I just showed you"
+  },
+  {
+    "start": 40.76,
+    "duration": 3.04,
+    "text": "at the beginning of this video in like"
+  },
+  {
+    "start": 42.04,
+    "duration": 2.76,
+    "text": "under an hour, no problem. so let's"
+  },
+  {
+    "start": 43.8,
+    "duration": 2.68,
+    "text": "begin with the first step, which is"
+  },
+  {
+    "start": 44.8,
+    "duration": 3.72,
+    "text": "going to be identifying a swipe. A swipe"
+  },
+  {
+    "start": 46.48,
+    "duration": 3.24,
+    "text": "is literally just a ad that is running"
+  },
+  {
+    "start": 48.52,
+    "duration": 2.52,
+    "text": "for a competitor that is performing"
+  },
+  {
+    "start": 49.72,
+    "duration": 3.24,
+    "text": "very, very well that you want to"
+  },
+  {
+    "start": 51.04,
+    "duration": 3.8,
+    "text": "emulate. Don't rip it one-to-one. It's a"
+  },
+  {
+    "start": 52.96,
+    "duration": 3.36,
+    "text": "great way to get"
+  },
+  {
+    "start": 54.84,
+    "duration": 2.84,
+    "text": "DMCA'd and a bunch of terrible things"
+  },
+  {
+    "start": 56.32,
+    "duration": 3.36,
+    "text": "happen to your ad account. Don't do it."
+  },
+  {
+    "start": 57.68,
+    "duration": 3.72,
+    "text": "Just identify the top-performing ads,"
+  },
+  {
+    "start": 59.68,
+    "duration": 3.28,
+    "text": "take inspiration, and use that to create"
+  },
+  {
+    "start": 61.4,
+    "duration": 3.08,
+    "text": "your new creative. So, my favorite place"
+  },
+  {
+    "start": 62.96,
+    "duration": 3.0,
+    "text": "to do that is my software Get Hooked. If"
+  },
+  {
+    "start": 64.48,
+    "duration": 3.04,
+    "text": "you want to get a trial for this, you"
+  },
+  {
+    "start": 65.96,
+    "duration": 2.76,
+    "text": "can click the link in the description,"
+  },
+  {
+    "start": 67.52,
+    "duration": 2.56,
+    "text": "but the cool part is like this is"
+  },
+  {
+    "start": 68.72,
+    "duration": 3.0,
+    "text": "basically the Facebook Ads Library on"
+  },
+  {
+    "start": 70.08,
+    "duration": 3.6,
+    "text": "steroids. And if you look over to the"
+  },
+  {
+    "start": 71.72,
+    "duration": 3.72,
+    "text": "left here, you can select filters to"
+  },
+  {
+    "start": 73.68,
+    "duration": 3.28,
+    "text": "identify specifically ads that are"
+  },
+  {
+    "start": 75.44,
+    "duration": 3.04,
+    "text": "winning and a bunch of other criteria."
+  },
+  {
+    "start": 76.96,
+    "duration": 4.0,
+    "text": "So, for this example, I'm going to"
+  },
+  {
+    "start": 78.48,
+    "duration": 4.2,
+    "text": "select four and five-star ads, videos,"
+  },
+  {
+    "start": 80.96,
+    "duration": 3.4,
+    "text": "status is still running, language I'm"
+  },
+  {
+    "start": 82.68,
+    "duration": 3.4,
+    "text": "going to put English. And last thing,"
+  },
+  {
+    "start": 84.36,
+    "duration": 2.8,
+    "text": "you can't see it cuz my fat-ass face is"
+  },
+  {
+    "start": 86.08,
+    "duration": 2.44,
+    "text": "in the way, but it's going to be the"
+  },
+  {
+    "start": 87.16,
+    "duration": 3.08,
+    "text": "video length. I want to choose videos"
+  },
+  {
+    "start": 88.52,
+    "duration": 2.88,
+    "text": "that are under 1 minute long. All right,"
+  },
+  {
+    "start": 90.24,
+    "duration": 2.92,
+    "text": "so I select all of these pieces of"
+  },
+  {
+    "start": 91.4,
+    "duration": 2.84,
+    "text": "criteria. Now, let's go ahead and move"
+  },
+  {
+    "start": 93.16,
+    "duration": 2.44,
+    "text": "forward. All right, so I spent a little"
+  },
+  {
+    "start": 94.24,
+    "duration": 3.16,
+    "text": "bit of time scrolling and I found this"
+  },
+  {
+    "start": 95.6,
+    "duration": 3.52,
+    "text": "ad here that is a bunch of different"
+  },
+  {
+    "start": 97.4,
+    "duration": 3.44,
+    "text": "highly unique clips and I think it'll be"
+  },
+  {
+    "start": 99.12,
+    "duration": 2.8,
+    "text": "a great challenge to make this Sora 2"
+  },
+  {
+    "start": 100.84,
+    "duration": 3.32,
+    "text": "video about. Check it out."
+  },
+  {
+    "start": 101.92,
+    "duration": 4.56,
+    "text": ">> I was so skeptical, but yes, Arctic"
+  },
+  {
+    "start": 104.16,
+    "duration": 5.36,
+    "text": "Planks got rid of my acne in a week. I'm"
+  },
+  {
+    "start": 106.48,
+    "duration": 4.52,
+    "text": "28 and I struggled with acne for 8 years"
+  },
+  {
+    "start": 109.52,
+    "duration": 2.4,
+    "text": "until I found this. Now, you're not"
+  },
+  {
+    "start": 111.0,
+    "duration": 2.52,
+    "text": "going to find this product in a"
+  },
+  {
+    "start": 111.92,
+    "duration": 3.08,
+    "text": "drugstore. It's not a prescription that"
+  },
+  {
+    "start": 113.52,
+    "duration": 2.84,
+    "text": "comes with crazy side effects. Been"
+  },
+  {
+    "start": 115.0,
+    "duration": 3.04,
+    "text": "there, will never do it again."
+  },
+  {
+    "start": 116.36,
+    "duration": 3.72,
+    "text": ">> It's totally natural, no harsh"
+  },
+  {
+    "start": 118.04,
+    "duration": 3.92,
+    "text": "chemicals, and it's stopping me from"
+  },
+  {
+    "start": 120.08,
+    "duration": 3.44,
+    "text": "ever taking Accutane again. You want to"
+  },
+  {
+    "start": 121.96,
+    "duration": 3.0,
+    "text": "get this balm? It's made from Arctic"
+  },
+  {
+    "start": 123.52,
+    "duration": 3.24,
+    "text": "Herbs and it's from Norse Organic. It's"
+  },
+  {
+    "start": 124.96,
+    "duration": 3.64,
+    "text": "extremely potent because there's no"
+  },
+  {
+    "start": 126.76,
+    "duration": 3.08,
+    "text": "water or fillers in it, so you just need"
+  },
+  {
+    "start": 128.6,
+    "duration": 3.32,
+    "text": "a small amount. And it's got sea"
+  },
+  {
+    "start": 129.84,
+    "duration": 3.68,
+    "text": "buckthorn extract and marigold oil in"
+  },
+  {
+    "start": 131.92,
+    "duration": 3.24,
+    "text": "it, which actually kills the bacteria"
+  },
+  {
+    "start": 133.52,
+    "duration": 3.64,
+    "text": "that causes the acne. It targets the"
+  },
+  {
+    "start": 135.16,
+    "duration": 3.8,
+    "text": "root cause and prevents acne from coming"
+  },
+  {
+    "start": 137.16,
+    "duration": 3.04,
+    "text": "back. I like the Kill Acne and Redness"
+  },
+  {
+    "start": 138.96,
+    "duration": 3.12,
+    "text": "Ritual because it includes this"
+  },
+  {
+    "start": 140.2,
+    "duration": 3.8,
+    "text": "moisturizer that literally makes my skin"
+  },
+  {
+    "start": 142.08,
+    "duration": 3.36,
+    "text": "glow all day long. And this scrub that's"
+  },
+  {
+    "start": 144.0,
+    "duration": 3.2,
+    "text": "made with rose flower that's super"
+  },
+  {
+    "start": 145.44,
+    "duration": 2.92,
+    "text": "gentle and clears out all my All right,"
+  },
+  {
+    "start": 147.2,
+    "duration": 3.24,
+    "text": "so now that we have the swipe"
+  },
+  {
+    "start": 148.36,
+    "duration": 3.28,
+    "text": "identified, um we can actually move on"
+  },
+  {
+    "start": 150.44,
+    "duration": 2.92,
+    "text": "to the next step. See how easy that was?"
+  },
+  {
+    "start": 151.64,
+    "duration": 3.16,
+    "text": "Boom, done. Now, the second step in the"
+  },
+  {
+    "start": 153.36,
+    "duration": 3.0,
+    "text": "process is going to be to actually"
+  },
+  {
+    "start": 154.8,
+    "duration": 3.08,
+    "text": "script the ad, which is where you take"
+  },
+  {
+    "start": 156.36,
+    "duration": 3.6,
+    "text": "the swipe and you take the transcript"
+  },
+  {
+    "start": 157.88,
+    "duration": 4.08,
+    "text": "from that and you just use AI to rewrite"
+  },
+  {
+    "start": 159.96,
+    "duration": 3.4,
+    "text": "it according to your specific brand"
+  },
+  {
+    "start": 161.96,
+    "duration": 2.88,
+    "text": "identity guidelines and what you"
+  },
+  {
+    "start": 163.36,
+    "duration": 3.88,
+    "text": "actually believe and stand for. Now, my"
+  },
+  {
+    "start": 164.84,
+    "duration": 3.96,
+    "text": "favorite process for writing AI copy is"
+  },
+  {
+    "start": 167.24,
+    "duration": 2.84,
+    "text": "going to be stupid easy. The first thing"
+  },
+  {
+    "start": 168.8,
+    "duration": 3.04,
+    "text": "you're going to want to do is go through"
+  },
+  {
+    "start": 170.08,
+    "duration": 2.92,
+    "text": "this foundational docs SOP, all right?"
+  },
+  {
+    "start": 171.84,
+    "duration": 2.44,
+    "text": "I've done this countless times on my"
+  },
+  {
+    "start": 173.0,
+    "duration": 3.04,
+    "text": "channel, so if you don't know how to do"
+  },
+  {
+    "start": 174.28,
+    "duration": 3.68,
+    "text": "it, I can't help you, but it's literally"
+  },
+  {
+    "start": 176.04,
+    "duration": 3.64,
+    "text": "spoon-feeding exactly what to do using"
+  },
+  {
+    "start": 177.96,
+    "duration": 3.08,
+    "text": "AI. And what it's doing is deep research"
+  },
+  {
+    "start": 179.68,
+    "duration": 2.88,
+    "text": "to understand what are the real"
+  },
+  {
+    "start": 181.04,
+    "duration": 3.2,
+    "text": "emotional triggers that gets your"
+  },
+  {
+    "start": 182.56,
+    "duration": 3.04,
+    "text": "audience to actually convert because"
+  },
+  {
+    "start": 184.24,
+    "duration": 2.88,
+    "text": "most people write copy at a surface"
+  },
+  {
+    "start": 185.6,
+    "duration": 2.68,
+    "text": "level and the reason that your ads"
+  },
+  {
+    "start": 187.12,
+    "duration": 2.2,
+    "text": "aren't converting is simply because the"
+  },
+  {
+    "start": 188.28,
+    "duration": 2.44,
+    "text": "way that you're writing is not actually"
+  },
+  {
+    "start": 189.32,
+    "duration": 3.68,
+    "text": "speaking to people. So, the foundational"
+  },
+  {
+    "start": 190.72,
+    "duration": 3.4,
+    "text": "docs process completely removes that as"
+  },
+  {
+    "start": 193.0,
+    "duration": 2.0,
+    "text": "an excuse for why your ads aren't"
+  },
+  {
+    "start": 194.12,
+    "duration": 2.52,
+    "text": "working. So, I'm going to go through"
+  },
+  {
+    "start": 195.0,
+    "duration": 4.28,
+    "text": "this and what'll happen is you'll get an"
+  },
+  {
+    "start": 196.64,
+    "duration": 4.6,
+    "text": "output of four documents, your research"
+  },
+  {
+    "start": 199.28,
+    "duration": 3.6,
+    "text": "doc, your avatar doc, your offer brief,"
+  },
+  {
+    "start": 201.24,
+    "duration": 2.84,
+    "text": "and your necessary beliefs document."
+  },
+  {
+    "start": 202.88,
+    "duration": 3.04,
+    "text": "You're going to take all four of those"
+  },
+  {
+    "start": 204.08,
+    "duration": 3.76,
+    "text": "documents, then we're going to go to"
+  },
+  {
+    "start": 205.92,
+    "duration": 4.12,
+    "text": "Claude.ai. We are going to go to"
+  },
+  {
+    "start": 207.84,
+    "duration": 3.56,
+    "text": "projects and we are going to select new"
+  },
+  {
+    "start": 210.04,
+    "duration": 2.52,
+    "text": "project. You can call this project"
+  },
+  {
+    "start": 211.4,
+    "duration": 3.0,
+    "text": "whatever you want, just know that it's"
+  },
+  {
+    "start": 212.56,
+    "duration": 3.0,
+    "text": "going to be around creating the script"
+  },
+  {
+    "start": 214.4,
+    "duration": 2.52,
+    "text": "for your ads. Now that we're in the"
+  },
+  {
+    "start": 215.56,
+    "duration": 3.28,
+    "text": "project, first thing we're going to do"
+  },
+  {
+    "start": 216.92,
+    "duration": 3.44,
+    "text": "is go to the instructions. Now, for the"
+  },
+  {
+    "start": 218.84,
+    "duration": 4.08,
+    "text": "instructions, what you want to do is"
+  },
+  {
+    "start": 220.36,
+    "duration": 4.28,
+    "text": "take this SOP that I have here for"
+  },
+  {
+    "start": 222.92,
+    "duration": 3.76,
+    "text": "creating the instructions specifically"
+  },
+  {
+    "start": 224.64,
+    "duration": 3.52,
+    "text": "surrounding your brand and then paste it"
+  },
+  {
+    "start": 226.68,
+    "duration": 3.16,
+    "text": "directly into the instructions, okay?"
+  },
+  {
+    "start": 228.16,
+    "duration": 3.24,
+    "text": "So, if you want access to this document"
+  },
+  {
+    "start": 229.84,
+    "duration": 3.28,
+    "text": "that is the SOP for creating the"
+  },
+  {
+    "start": 231.4,
+    "duration": 4.2,
+    "text": "instructions for this Claude project, go"
+  },
+  {
+    "start": 233.12,
+    "duration": 5.08,
+    "text": "to my IG, it's @markbuildsbrands and DM"
+  },
+  {
+    "start": 235.6,
+    "duration": 3.68,
+    "text": "me the word Sora, s o r a, and I'll send"
+  },
+  {
+    "start": 238.2,
+    "duration": 2.44,
+    "text": "it to you along with every other"
+  },
+  {
+    "start": 239.28,
+    "duration": 2.48,
+    "text": "resource with this video. So, I went"
+  },
+  {
+    "start": 240.64,
+    "duration": 2.6,
+    "text": "through and filled this out. This is all"
+  },
+  {
+    "start": 241.76,
+    "duration": 3.04,
+    "text": "the details here. I'm just going to copy"
+  },
+  {
+    "start": 243.24,
+    "duration": 2.92,
+    "text": "this, paste it directly into the Claude"
+  },
+  {
+    "start": 244.8,
+    "duration": 2.72,
+    "text": "project. And then the only other thing"
+  },
+  {
+    "start": 246.16,
+    "duration": 3.0,
+    "text": "we have to do for this Claude project to"
+  },
+  {
+    "start": 247.52,
+    "duration": 3.24,
+    "text": "work is we're going to go to the files"
+  },
+  {
+    "start": 249.16,
+    "duration": 4.04,
+    "text": "and we're going to upload all of our"
+  },
+  {
+    "start": 250.76,
+    "duration": 4.6,
+    "text": "foundational documents. That is it. It's"
+  },
+  {
+    "start": 253.2,
+    "duration": 3.52,
+    "text": "so incredibly simple, super duper easy,"
+  },
+  {
+    "start": 255.36,
+    "duration": 2.36,
+    "text": "and let me show you how it works. So,"
+  },
+  {
+    "start": 256.72,
+    "duration": 2.64,
+    "text": "now we're going to go back to Get"
+  },
+  {
+    "start": 257.72,
+    "duration": 2.68,
+    "text": "Hooked, to that ad, that swipe that we"
+  },
+  {
+    "start": 259.36,
+    "duration": 2.64,
+    "text": "saved. We're going to go to the"
+  },
+  {
+    "start": 260.4,
+    "duration": 3.32,
+    "text": "transcription, which is auto-generated"
+  },
+  {
+    "start": 262.0,
+    "duration": 3.08,
+    "text": "by AI. We're just going to hit copy, go"
+  },
+  {
+    "start": 263.72,
+    "duration": 4.2,
+    "text": "over into our Claude project, going to"
+  },
+  {
+    "start": 265.08,
+    "duration": 4.52,
+    "text": "paste that, and then one stupidly simple"
+  },
+  {
+    "start": 267.92,
+    "duration": 3.4,
+    "text": "line right above it. And by the way,"
+  },
+  {
+    "start": 269.6,
+    "duration": 3.28,
+    "text": "this is so idiot-proof, like it's"
+  },
+  {
+    "start": 271.32,
+    "duration": 3.08,
+    "text": "insane. You don't need prompt"
+  },
+  {
+    "start": 272.88,
+    "duration": 3.28,
+    "text": "engineering skills when you have a"
+  },
+  {
+    "start": 274.4,
+    "duration": 3.2,
+    "text": "really solid foundation built with the"
+  },
+  {
+    "start": 276.16,
+    "duration": 3.0,
+    "text": "Claude project. You just don't because"
+  },
+  {
+    "start": 277.6,
+    "duration": 3.0,
+    "text": "you already did all of the hard work."
+  },
+  {
+    "start": 279.16,
+    "duration": 2.52,
+    "text": "The foundational doc instructions, it's"
+  },
+  {
+    "start": 280.6,
+    "duration": 2.44,
+    "text": "already done. So, you can just talk to"
+  },
+  {
+    "start": 281.68,
+    "duration": 2.84,
+    "text": "it as if it's a human being that's"
+  },
+  {
+    "start": 283.04,
+    "duration": 2.84,
+    "text": "writing copy for you. So, for example"
+  },
+  {
+    "start": 284.52,
+    "duration": 2.76,
+    "text": "purposes, I literally just said, \"Can"
+  },
+  {
+    "start": 285.88,
+    "duration": 2.48,
+    "text": "you rewrite this ad before my brand?\""
+  },
+  {
+    "start": 287.28,
+    "duration": 2.12,
+    "text": "Stupid simple, all right? And then"
+  },
+  {
+    "start": 288.36,
+    "duration": 2.2,
+    "text": "you're just going to hit enter. What"
+  },
+  {
+    "start": 289.4,
+    "duration": 2.56,
+    "text": "it's going to do is reference all the"
+  },
+  {
+    "start": 290.56,
+    "duration": 3.48,
+    "text": "knowledge in that Claude project to"
+  },
+  {
+    "start": 291.96,
+    "duration": 3.96,
+    "text": "rewrite your ad script from scratch"
+  },
+  {
+    "start": 294.04,
+    "duration": 3.96,
+    "text": "based off of a already pre-existing"
+  },
+  {
+    "start": 295.92,
+    "duration": 3.68,
+    "text": "proven winner. And boom, just like that,"
+  },
+  {
+    "start": 298.0,
+    "duration": 3.08,
+    "text": "we have the entire script. If you want,"
+  },
+  {
+    "start": 299.6,
+    "duration": 2.8,
+    "text": "you can go and chief it. I would highly"
+  },
+  {
+    "start": 301.08,
+    "duration": 2.4,
+    "text": "recommend that, but for example"
+  },
+  {
+    "start": 302.4,
+    "duration": 2.24,
+    "text": "purposes, I'm just going to move pretty"
+  },
+  {
+    "start": 303.48,
+    "duration": 2.52,
+    "text": "quickly and move to the next step. But"
+  },
+  {
+    "start": 304.64,
+    "duration": 2.8,
+    "text": "look at that, we literally just already"
+  },
+  {
+    "start": 306.0,
+    "duration": 2.88,
+    "text": "have two steps done. Now, we have to"
+  },
+  {
+    "start": 307.44,
+    "duration": 3.56,
+    "text": "move on to step number three, which is"
+  },
+  {
+    "start": 308.88,
+    "duration": 3.96,
+    "text": "storyboarding the ad. Now, the main"
+  },
+  {
+    "start": 311.0,
+    "duration": 3.88,
+    "text": "constraint with Sora 2, if you use it in"
+  },
+  {
+    "start": 312.84,
+    "duration": 4.52,
+    "text": "the platform itself, is there's a"
+  },
+  {
+    "start": 314.88,
+    "duration": 3.84,
+    "text": "limitation of the max length of clip"
+  },
+  {
+    "start": 317.36,
+    "duration": 2.8,
+    "text": "that you can use is 15 seconds, which"
+  },
+  {
+    "start": 318.72,
+    "duration": 2.96,
+    "text": "means if we're creating an ad in this"
+  },
+  {
+    "start": 320.16,
+    "duration": 3.04,
+    "text": "case that's around 60 seconds long, we"
+  },
+  {
+    "start": 321.68,
+    "duration": 3.64,
+    "text": "have to individually generate around"
+  },
+  {
+    "start": 323.2,
+    "duration": 3.6,
+    "text": "four separate Sora clips. And so, what"
+  },
+  {
+    "start": 325.32,
+    "duration": 3.48,
+    "text": "that means is you have to take your"
+  },
+  {
+    "start": 326.8,
+    "duration": 4.16,
+    "text": "script and segment it into specific"
+  },
+  {
+    "start": 328.8,
+    "duration": 4.28,
+    "text": "sections because each output is going to"
+  },
+  {
+    "start": 330.96,
+    "duration": 4.72,
+    "text": "return a specific clip that you piece"
+  },
+  {
+    "start": 333.08,
+    "duration": 4.2,
+    "text": "together to fully form the ad. If you"
+  },
+  {
+    "start": 335.68,
+    "duration": 3.28,
+    "text": "skip this step, what's going to happen"
+  },
+  {
+    "start": 337.28,
+    "duration": 2.8,
+    "text": "is you're going to have terrible clips,"
+  },
+  {
+    "start": 338.96,
+    "duration": 3.56,
+    "text": "you're going to have clips that are"
+  },
+  {
+    "start": 340.08,
+    "duration": 3.84,
+    "text": "trying to match like a UGC versus like a"
+  },
+  {
+    "start": 342.52,
+    "duration": 3.56,
+    "text": "B-roll clip and it's just not going to"
+  },
+  {
+    "start": 343.92,
+    "duration": 3.68,
+    "text": "look good. So, this step is incredibly"
+  },
+  {
+    "start": 346.08,
+    "duration": 2.6,
+    "text": "crucial, but once again, I have it"
+  },
+  {
+    "start": 347.6,
+    "duration": 2.8,
+    "text": "stupid simple for you guys to"
+  },
+  {
+    "start": 348.68,
+    "duration": 3.92,
+    "text": "understand. So, for storyboarding, all I"
+  },
+  {
+    "start": 350.4,
+    "duration": 4.36,
+    "text": "like to do is take my script, paste it"
+  },
+  {
+    "start": 352.6,
+    "duration": 3.88,
+    "text": "into a Google Doc, and segment it into"
+  },
+  {
+    "start": 354.76,
+    "duration": 3.56,
+    "text": "individual clips. So, for example, the"
+  },
+  {
+    "start": 356.48,
+    "duration": 3.88,
+    "text": "first clip is a creator walking through"
+  },
+  {
+    "start": 358.32,
+    "duration": 3.92,
+    "text": "a drugstore. I only have those specific"
+  },
+  {
+    "start": 360.36,
+    "duration": 3.72,
+    "text": "lines associated with that clip. The"
+  },
+  {
+    "start": 362.24,
+    "duration": 3.76,
+    "text": "second is going to be B-roll of like the"
+  },
+  {
+    "start": 364.08,
+    "duration": 3.2,
+    "text": "inside of a pharmacy, like a CVS. The"
+  },
+  {
+    "start": 366.0,
+    "duration": 3.4,
+    "text": "next is going to be a straight-up"
+  },
+  {
+    "start": 367.28,
+    "duration": 4.24,
+    "text": "typical UGC clip. And then the final is"
+  },
+  {
+    "start": 369.4,
+    "duration": 4.08,
+    "text": "going to be another UGC clip from our"
+  },
+  {
+    "start": 371.52,
+    "duration": 3.32,
+    "text": "main UGC creator, okay? That's it. It"
+  },
+  {
+    "start": 373.48,
+    "duration": 3.0,
+    "text": "doesn't need to be super complicated,"
+  },
+  {
+    "start": 374.84,
+    "duration": 3.12,
+    "text": "but you need to give details around"
+  },
+  {
+    "start": 376.48,
+    "duration": 3.36,
+    "text": "every individual clip that you're using."
+  },
+  {
+    "start": 377.96,
+    "duration": 3.56,
+    "text": "And this is like storyboarding 101. You"
+  },
+  {
+    "start": 379.84,
+    "duration": 2.8,
+    "text": "could take it so much farther, but this"
+  },
+  {
+    "start": 381.52,
+    "duration": 3.28,
+    "text": "is just a good foundation for you to"
+  },
+  {
+    "start": 382.64,
+    "duration": 3.2,
+    "text": "understand how to actually use this"
+  },
+  {
+    "start": 384.8,
+    "duration": 2.32,
+    "text": "technology because if you don't"
+  },
+  {
+    "start": 385.84,
+    "duration": 2.76,
+    "text": "storyboard, it's not going to work very"
+  },
+  {
+    "start": 387.12,
+    "duration": 3.24,
+    "text": "well. And boom, just like that, we got"
+  },
+  {
+    "start": 388.6,
+    "duration": 4.56,
+    "text": "step number three complete. Now, we move"
+  },
+  {
+    "start": 390.36,
+    "duration": 4.72,
+    "text": "on to generating the prompts for Sora 2"
+  },
+  {
+    "start": 393.16,
+    "duration": 3.64,
+    "text": "to actually function and generate good"
+  },
+  {
+    "start": 395.08,
+    "duration": 3.36,
+    "text": "outputs. This is probably the most"
+  },
+  {
+    "start": 396.8,
+    "duration": 2.68,
+    "text": "difficult piece, but once again, I got"
+  },
+  {
+    "start": 398.44,
+    "duration": 2.68,
+    "text": "y'all covered. All right, let's do it."
+  },
+  {
+    "start": 399.48,
+    "duration": 2.84,
+    "text": "You are going to go back to Claude. You"
+  },
+  {
+    "start": 401.12,
+    "duration": 2.72,
+    "text": "are going to go to projects and you are"
+  },
+  {
+    "start": 402.32,
+    "duration": 2.88,
+    "text": "going to create a new project once"
+  },
+  {
+    "start": 403.84,
+    "duration": 3.72,
+    "text": "again. This one is going to be"
+  },
+  {
+    "start": 405.2,
+    "duration": 3.8,
+    "text": "specifically for Sora 2 prompting, all"
+  },
+  {
+    "start": 407.56,
+    "duration": 2.84,
+    "text": "right? That is it. That is the sole"
+  },
+  {
+    "start": 409.0,
+    "duration": 2.6,
+    "text": "goal. You can call it whatever you want,"
+  },
+  {
+    "start": 410.4,
+    "duration": 2.96,
+    "text": "all right? Let's move on. Now, for this"
+  },
+  {
+    "start": 411.6,
+    "duration": 3.12,
+    "text": "project, you do not need to upload any"
+  },
+  {
+    "start": 413.36,
+    "duration": 3.36,
+    "text": "knowledge, but what you do need to"
+  },
+  {
+    "start": 414.72,
+    "duration": 3.92,
+    "text": "upload is instructions. Once again, I"
+  },
+  {
+    "start": 416.72,
+    "duration": 3.08,
+    "text": "have it all already laid out for you."
+  },
+  {
+    "start": 418.64,
+    "duration": 2.6,
+    "text": "There is literally nothing that you need"
+  },
+  {
+    "start": 419.8,
+    "duration": 2.76,
+    "text": "to change about this prompt. Like you"
+  },
+  {
+    "start": 421.24,
+    "duration": 2.6,
+    "text": "don't need to go in and edit anything."
+  },
+  {
+    "start": 422.56,
+    "duration": 2.96,
+    "text": "We're just going to copy all of it, go"
+  },
+  {
+    "start": 423.84,
+    "duration": 2.52,
+    "text": "into the project, and paste it. Now,"
+  },
+  {
+    "start": 425.52,
+    "duration": 2.32,
+    "text": "we're going to go back to our"
+  },
+  {
+    "start": 426.36,
+    "duration": 3.44,
+    "text": "storyboarding document and we're going"
+  },
+  {
+    "start": 427.84,
+    "duration": 3.28,
+    "text": "to take this first initial portion of"
+  },
+  {
+    "start": 429.8,
+    "duration": 2.88,
+    "text": "the script, we're going to copy it,"
+  },
+  {
+    "start": 431.12,
+    "duration": 3.44,
+    "text": "paste it directly into Claude right"
+  },
+  {
+    "start": 432.68,
+    "duration": 3.28,
+    "text": "here, and then do a few spaces. And what"
+  },
+  {
+    "start": 434.56,
+    "duration": 3.04,
+    "text": "you want to do is before you send this"
+  },
+  {
+    "start": 435.96,
+    "duration": 3.68,
+    "text": "prompt, you want to give it a little bit"
+  },
+  {
+    "start": 437.6,
+    "duration": 3.76,
+    "text": "of guidance and detail about the kind of"
+  },
+  {
+    "start": 439.64,
+    "duration": 3.68,
+    "text": "clip that you were trying to create."
+  },
+  {
+    "start": 441.36,
+    "duration": 3.68,
+    "text": "Now, if I was super duper extra, I could"
+  },
+  {
+    "start": 443.32,
+    "duration": 3.12,
+    "text": "go into like Gemini, which is a"
+  },
+  {
+    "start": 445.04,
+    "duration": 2.96,
+    "text": "multimodal model, which means that it"
+  },
+  {
+    "start": 446.44,
+    "duration": 3.4,
+    "text": "can analyze videos, and you can have it"
+  },
+  {
+    "start": 448.0,
+    "duration": 3.32,
+    "text": "extract like metadata and everything"
+  },
+  {
+    "start": 449.84,
+    "duration": 3.0,
+    "text": "around a specific video. If you want to"
+  },
+  {
+    "start": 451.32,
+    "duration": 3.6,
+    "text": "do that, you totally can. What I have"
+  },
+  {
+    "start": 452.84,
+    "duration": 3.76,
+    "text": "found is that simplicity often works"
+  },
+  {
+    "start": 454.92,
+    "duration": 4.2,
+    "text": "very, very well, especially when it"
+  },
+  {
+    "start": 456.6,
+    "duration": 4.24,
+    "text": "comes to Sora 2. So, in this case, the"
+  },
+  {
+    "start": 459.12,
+    "duration": 3.32,
+    "text": "first clip is this woman walking through"
+  },
+  {
+    "start": 460.84,
+    "duration": 2.92,
+    "text": "a CVS. So, I would put a very basic"
+  },
+  {
+    "start": 462.44,
+    "duration": 2.8,
+    "text": "prompt like this. I want a young,"
+  },
+  {
+    "start": 463.76,
+    "duration": 3.44,
+    "text": "attractive blonde 25-year-old woman at"
+  },
+  {
+    "start": 465.24,
+    "duration": 4.16,
+    "text": "CVS looking at her phone camera and says"
+  },
+  {
+    "start": 467.2,
+    "duration": 3.76,
+    "text": "the following energetically at a fast"
+  },
+  {
+    "start": 469.4,
+    "duration": 3.68,
+    "text": "pace. Again, I could go deeper into"
+  },
+  {
+    "start": 470.96,
+    "duration": 4.16,
+    "text": "this, but simplicity is king and"
+  },
+  {
+    "start": 473.08,
+    "duration": 3.16,
+    "text": "creating that feedback loop where you"
+  },
+  {
+    "start": 475.12,
+    "duration": 2.36,
+    "text": "get a clip, you see if it's what you"
+  },
+  {
+    "start": 476.24,
+    "duration": 2.68,
+    "text": "want, you make adjustments, and you just"
+  },
+  {
+    "start": 477.48,
+    "duration": 2.88,
+    "text": "continue that process. So, we're going"
+  },
+  {
+    "start": 478.92,
+    "duration": 3.4,
+    "text": "to go ahead and hit enter here. We have"
+  },
+  {
+    "start": 480.36,
+    "duration": 3.92,
+    "text": "Opus 4.1 selected. You don't need to use"
+  },
+  {
+    "start": 482.32,
+    "duration": 3.48,
+    "text": "4.1, you could totally use Claude Sonnet"
+  },
+  {
+    "start": 484.28,
+    "duration": 3.72,
+    "text": "and it'll do the job just fine. And as"
+  },
+  {
+    "start": 485.8,
+    "duration": 3.88,
+    "text": "you can see, it creates this entire kind"
+  },
+  {
+    "start": 488.0,
+    "duration": 4.48,
+    "text": "of prompt here that we can literally"
+  },
+  {
+    "start": 489.68,
+    "duration": 4.28,
+    "text": "copy and paste directly into Sora 2. So,"
+  },
+  {
+    "start": 492.48,
+    "duration": 3.28,
+    "text": "that's what we're going to do, all"
+  },
+  {
+    "start": 493.96,
+    "duration": 3.2,
+    "text": "right? But now, once again, we have this"
+  },
+  {
+    "start": 495.76,
+    "duration": 3.04,
+    "text": "four-step created. Now, we can move on"
+  },
+  {
+    "start": 497.16,
+    "duration": 4.16,
+    "text": "to the final piece, which is actually"
+  },
+  {
+    "start": 498.8,
+    "duration": 3.96,
+    "text": "creating the clip on Sora 2. All right,"
+  },
+  {
+    "start": 501.32,
+    "duration": 4.6,
+    "text": "so we're here in Sora 2. I'm going to"
+  },
+  {
+    "start": 502.76,
+    "duration": 6.0,
+    "text": "paste that entire long prompt directly"
+  },
+  {
+    "start": 505.92,
+    "duration": 4.64,
+    "text": "into Sora 2. I'm using Sora 2 Pro. It's"
+  },
+  {
+    "start": 508.76,
+    "duration": 3.12,
+    "text": "not necessary, but it's very easy to"
+  },
+  {
+    "start": 510.56,
+    "duration": 2.36,
+    "text": "remove watermarks if that's what you're"
+  },
+  {
+    "start": 511.88,
+    "duration": 2.52,
+    "text": "worried about. There's like a million"
+  },
+  {
+    "start": 512.92,
+    "duration": 3.12,
+    "text": "websites that do that. Landscape, we're"
+  },
+  {
+    "start": 514.4,
+    "duration": 2.76,
+    "text": "going to do portrait, resolution, we're"
+  },
+  {
+    "start": 516.04,
+    "duration": 2.96,
+    "text": "going to keep it at standard, and"
+  },
+  {
+    "start": 517.16,
+    "duration": 3.08,
+    "text": "duration at 15 seconds. So, I'm going to"
+  },
+  {
+    "start": 519.0,
+    "duration": 2.36,
+    "text": "hit enter and let this cook. All right,"
+  },
+  {
+    "start": 520.24,
+    "duration": 2.88,
+    "text": "so we got the first clip already"
+  },
+  {
+    "start": 521.36,
+    "duration": 2.4,
+    "text": "created. Let's take a little peek, see"
+  },
+  {
+    "start": 523.12,
+    "duration": 2.12,
+    "text": "how it looks."
+  },
+  {
+    "start": 523.76,
+    "duration": 3.56,
+    "text": ">> Okay, so"
+  },
+  {
+    "start": 525.24,
+    "duration": 4.08,
+    "text": "I quit steroid creams and my eczema like"
+  },
+  {
+    "start": 527.32,
+    "duration": 3.64,
+    "text": "literally exploded until I found this"
+  },
+  {
+    "start": 529.32,
+    "duration": 3.8,
+    "text": "Nordic balm with Manuka honey that"
+  },
+  {
+    "start": 530.96,
+    "duration": 4.04,
+    "text": "actually heals your barrier. I'm 27 and"
+  },
+  {
+    "start": 533.12,
+    "duration": 3.76,
+    "text": "I've battled eczema since I was a kid."
+  },
+  {
+    "start": 535.0,
+    "duration": 2.36,
+    "text": "Steroids thinned my skin and made flares"
+  },
+  {
+    "start": 536.88,
+    "duration": 1.92,
+    "text": "worse."
+  },
+  {
+    "start": 537.36,
+    "duration": 3.08,
+    "text": ">> I have no adjustments to make to this."
+  },
+  {
+    "start": 538.8,
+    "duration": 3.4,
+    "text": "This is like the very first try and this"
+  },
+  {
+    "start": 540.44,
+    "duration": 3.2,
+    "text": "is exactly what we got. This is perfect."
+  },
+  {
+    "start": 542.2,
+    "duration": 2.52,
+    "text": "Now, let's move on to the next clip. So,"
+  },
+  {
+    "start": 543.64,
+    "duration": 2.6,
+    "text": "we're going to copy this portion of the"
+  },
+  {
+    "start": 544.72,
+    "duration": 3.28,
+    "text": "script, paste it directly into Claude"
+  },
+  {
+    "start": 546.24,
+    "duration": 3.12,
+    "text": "project, get a few enters, and then"
+  },
+  {
+    "start": 548.0,
+    "duration": 2.72,
+    "text": "write a little blurb of the exact"
+  },
+  {
+    "start": 549.36,
+    "duration": 4.24,
+    "text": "content that we want. Now, this clip is"
+  },
+  {
+    "start": 550.72,
+    "duration": 4.72,
+    "text": "not UGC. This is actually B-roll of the"
+  },
+  {
+    "start": 553.6,
+    "duration": 4.0,
+    "text": "inside of a pharmacy and showing like a"
+  },
+  {
+    "start": 555.44,
+    "duration": 3.64,
+    "text": "steroid medication on a counter, all"
+  },
+  {
+    "start": 557.6,
+    "duration": 2.6,
+    "text": "right? So, once again, simple prompt,"
+  },
+  {
+    "start": 559.08,
+    "duration": 3.36,
+    "text": "hit enter. So, we're going to take this"
+  },
+  {
+    "start": 560.2,
+    "duration": 3.44,
+    "text": "prompt, pop it into Sora 2, and while"
+  },
+  {
+    "start": 562.44,
+    "duration": 2.32,
+    "text": "that's going, let's actually move on to"
+  },
+  {
+    "start": 563.64,
+    "duration": 2.8,
+    "text": "the next one and do just all these"
+  },
+  {
+    "start": 564.76,
+    "duration": 4.16,
+    "text": "prompts at once. I believe you can run a"
+  },
+  {
+    "start": 566.44,
+    "duration": 4.16,
+    "text": "total of three Sora 2 generations at one"
+  },
+  {
+    "start": 568.92,
+    "duration": 2.64,
+    "text": "time, at least if I do more than that,"
+  },
+  {
+    "start": 570.6,
+    "duration": 3.24,
+    "text": "it doesn't work for me. But now, we're"
+  },
+  {
+    "start": 571.56,
+    "duration": 3.56,
+    "text": "getting into the actual UGC. So, same"
+  },
+  {
+    "start": 573.84,
+    "duration": 2.8,
+    "text": "process as always, I'm not going to show"
+  },
+  {
+    "start": 575.12,
+    "duration": 3.16,
+    "text": "it start to finish, but copy it, add"
+  },
+  {
+    "start": 576.64,
+    "duration": 3.04,
+    "text": "into Claude project, give details of"
+  },
+  {
+    "start": 578.28,
+    "duration": 2.72,
+    "text": "exactly what you want, then send it"
+  },
+  {
+    "start": 579.68,
+    "duration": 2.6,
+    "text": "directly to Sora 2. All right, so we got"
+  },
+  {
+    "start": 581.0,
+    "duration": 2.96,
+    "text": "our first UGC clip. Let's take a look"
+  },
+  {
+    "start": 582.28,
+    "duration": 3.24,
+    "text": "and see how it came out. Okay, Freya"
+  },
+  {
+    "start": 583.96,
+    "duration": 2.88,
+    "text": "Organics is different. It's from Norway,"
+  },
+  {
+    "start": 585.52,
+    "duration": 3.04,
+    "text": "made with Manuka honey that's been used"
+  },
+  {
+    "start": 586.84,
+    "duration": 3.88,
+    "text": "for like centuries to heal skin. It's"
+  },
+  {
+    "start": 588.56,
+    "duration": 3.64,
+    "text": "not watered down, it's pure concentrated"
+  },
+  {
+    "start": 590.72,
+    "duration": 3.12,
+    "text": "healing. The Manuka honey fights"
+  },
+  {
+    "start": 592.2,
+    "duration": 3.16,
+    "text": "inflammation and bacteria naturally"
+  },
+  {
+    "start": 593.84,
+    "duration": 3.76,
+    "text": "while Nordic Botanicals Okay, you get"
+  },
+  {
+    "start": 595.36,
+    "duration": 3.48,
+    "text": "the idea. This is [ __ ] insane. Let me"
+  },
+  {
+    "start": 597.6,
+    "duration": 2.76,
+    "text": "show you one of the other clips I made."
+  },
+  {
+    "start": 598.84,
+    "duration": 3.24,
+    "text": "Now, this clip is actually some b-roll"
+  },
+  {
+    "start": 600.36,
+    "duration": 2.84,
+    "text": "of the product actually in use and just"
+  },
+  {
+    "start": 602.08,
+    "duration": 2.76,
+    "text": "take a look at the prompt here. You can"
+  },
+  {
+    "start": 603.2,
+    "duration": 3.64,
+    "text": "see I switched it up a little bit. With"
+  },
+  {
+    "start": 604.84,
+    "duration": 4.28,
+    "text": "the b-roll, it's incredibly important to"
+  },
+  {
+    "start": 606.84,
+    "duration": 4.28,
+    "text": "keep it stupid, stupid simple. Check"
+  },
+  {
+    "start": 609.12,
+    "duration": 4.02,
+    "text": "this out."
+  },
+  {
+    "start": 611.12,
+    "duration": 2.02,
+    "text": ">> [snorts]"
+  },
+  {
+    "start": 616.28,
+    "duration": 3.76,
+    "text": ">> So, it's not perfect, but it is a"
+  },
+  {
+    "start": 617.88,
+    "duration": 4.12,
+    "text": "amazing clip to use in b-roll"
+  },
+  {
+    "start": 620.04,
+    "duration": 3.8,
+    "text": "back-to-back. You can do it in the fully"
+  },
+  {
+    "start": 622.0,
+    "duration": 2.96,
+    "text": "packaged product. You can do it actually"
+  },
+  {
+    "start": 623.84,
+    "duration": 2.48,
+    "text": "using the product. You can do it"
+  },
+  {
+    "start": 624.96,
+    "duration": 2.6,
+    "text": "applying the product to your face, but"
+  },
+  {
+    "start": 626.32,
+    "duration": 2.64,
+    "text": "then it doesn't really become b-roll."
+  },
+  {
+    "start": 627.56,
+    "duration": 3.32,
+    "text": "That's actually like UGC. But at this"
+  },
+  {
+    "start": 628.96,
+    "duration": 4.08,
+    "text": "stage, I have completed every single"
+  },
+  {
+    "start": 630.88,
+    "duration": 3.8,
+    "text": "individual clip here. Let's finally put"
+  },
+  {
+    "start": 633.04,
+    "duration": 3.28,
+    "text": "it all together, cross this, you know,"
+  },
+  {
+    "start": 634.68,
+    "duration": 3.56,
+    "text": "[ __ ] off. We did all five steps and look"
+  },
+  {
+    "start": 636.32,
+    "duration": 4.04,
+    "text": "at the fully finished ad we created."
+  },
+  {
+    "start": 638.24,
+    "duration": 4.56,
+    "text": ">> Okay, so I quit steroid creams and my"
+  },
+  {
+    "start": 640.36,
+    "duration": 4.16,
+    "text": "eczema like literally exploded until I"
+  },
+  {
+    "start": 642.8,
+    "duration": 4.0,
+    "text": "found this Nordic balm with manuka honey"
+  },
+  {
+    "start": 644.52,
+    "duration": 4.28,
+    "text": "that actually heals your barrier. I'm 27"
+  },
+  {
+    "start": 646.8,
+    "duration": 3.88,
+    "text": "and I battled eczema since I was a kid."
+  },
+  {
+    "start": 648.8,
+    "duration": 3.2,
+    "text": "Steroids thin my skin and made flares"
+  },
+  {
+    "start": 650.68,
+    "duration": 3.4,
+    "text": "worse. Now, you're not going to find"
+  },
+  {
+    "start": 652.0,
+    "duration": 3.68,
+    "text": "this product in a drugstore. It's not a"
+  },
+  {
+    "start": 654.08,
+    "duration": 3.84,
+    "text": "prescription that comes with crazy side"
+  },
+  {
+    "start": 655.68,
+    "duration": 3.8,
+    "text": "effects. Been there, will never do it"
+  },
+  {
+    "start": 657.92,
+    "duration": 2.96,
+    "text": "again. Okay, Fraya Organics is"
+  },
+  {
+    "start": 659.48,
+    "duration": 2.72,
+    "text": "different. It's from Norway made with"
+  },
+  {
+    "start": 660.88,
+    "duration": 3.16,
+    "text": "manuka honey that's been used for like"
+  },
+  {
+    "start": 662.2,
+    "duration": 3.88,
+    "text": "centuries to heal skin. It's not watered"
+  },
+  {
+    "start": 664.04,
+    "duration": 3.72,
+    "text": "down. It's pure concentrated healing."
+  },
+  {
+    "start": 666.08,
+    "duration": 3.16,
+    "text": "The manuka honey fights inflammation and"
+  },
+  {
+    "start": 667.76,
+    "duration": 3.0,
+    "text": "bacteria naturally while Nordic"
+  },
+  {
+    "start": 669.24,
+    "duration": 3.04,
+    "text": "botanicals rebuild your barrier. It"
+  },
+  {
+    "start": 670.76,
+    "duration": 3.12,
+    "text": "works on your face and body, absorbs"
+  },
+  {
+    "start": 672.28,
+    "duration": 3.08,
+    "text": "fast, and doesn't leave you feeling like"
+  },
+  {
+    "start": 673.88,
+    "duration": 3.48,
+    "text": "a grease turkey. After years of"
+  },
+  {
+    "start": 675.36,
+    "duration": 3.64,
+    "text": "disappointment, Fraya actually worked."
+  },
+  {
+    "start": 677.36,
+    "duration": 3.88,
+    "text": "My flares are rare now and when they"
+  },
+  {
+    "start": 679.0,
+    "duration": 3.8,
+    "text": "happen, this stops them fast. 60-day"
+  },
+  {
+    "start": 681.24,
+    "duration": 2.08,
+    "text": "guarantee, so you literally have nothing"
+  },
+  {
+    "start": 682.8,
+    "duration": 2.28,
+    "text": "to lose."
+  },
+  {
+    "start": 683.32,
+    "duration": 3.52,
+    "text": ">> So, that's pretty damn good. If I had to"
+  },
+  {
+    "start": 685.08,
+    "duration": 3.52,
+    "text": "give a complaint about this particular"
+  },
+  {
+    "start": 686.84,
+    "duration": 3.84,
+    "text": "creative that I made, it would be"
+  },
+  {
+    "start": 688.6,
+    "duration": 3.68,
+    "text": "there's very, very, very slight"
+  },
+  {
+    "start": 690.68,
+    "duration": 3.0,
+    "text": "variations in the character, but that"
+  },
+  {
+    "start": 692.28,
+    "duration": 2.72,
+    "text": "has actually been solved by Sora 2"
+  },
+  {
+    "start": 693.68,
+    "duration": 3.44,
+    "text": "recently. You can create custom"
+  },
+  {
+    "start": 695.0,
+    "duration": 3.64,
+    "text": "characters and I was just too lazy to do"
+  },
+  {
+    "start": 697.12,
+    "duration": 4.28,
+    "text": "it for this video, but if you download"
+  },
+  {
+    "start": 698.64,
+    "duration": 4.68,
+    "text": "the actual Sora 2 mobile app, you can"
+  },
+  {
+    "start": 701.4,
+    "duration": 3.48,
+    "text": "create unique characters and character"
+  },
+  {
+    "start": 703.32,
+    "duration": 2.64,
+    "text": "identities that you can continue to"
+  },
+  {
+    "start": 704.88,
+    "duration": 3.04,
+    "text": "reuse over and over again with"
+  },
+  {
+    "start": 705.96,
+    "duration": 3.84,
+    "text": "consistent characters and consistent"
+  },
+  {
+    "start": 707.92,
+    "duration": 4.16,
+    "text": "voices. To me, this technology is"
+  },
+  {
+    "start": 709.8,
+    "duration": 4.68,
+    "text": "absolutely [ __ ] insane and I think"
+  },
+  {
+    "start": 712.08,
+    "duration": 4.72,
+    "text": "that if you're able to use these ads and"
+  },
+  {
+    "start": 714.48,
+    "duration": 4.4,
+    "text": "create an ad like I just there, you are"
+  },
+  {
+    "start": 716.8,
+    "duration": 3.64,
+    "text": "on a great path to actually like finally"
+  },
+  {
+    "start": 718.88,
+    "duration": 3.16,
+    "text": "making e-com work and scaling your"
+  },
+  {
+    "start": 720.44,
+    "duration": 3.36,
+    "text": "brand. Now, the one caveat here is just"
+  },
+  {
+    "start": 722.04,
+    "duration": 3.72,
+    "text": "because you have good ads, if you're"
+  },
+  {
+    "start": 723.8,
+    "duration": 3.12,
+    "text": "sending all your ads to a shitty funnel,"
+  },
+  {
+    "start": 725.76,
+    "duration": 2.48,
+    "text": "you're not going to scale, all right?"
+  },
+  {
+    "start": 726.92,
+    "duration": 2.8,
+    "text": "So, that's why I built Brand Builders"
+  },
+  {
+    "start": 728.24,
+    "duration": 3.44,
+    "text": "Academy cuz we don't actually just show"
+  },
+  {
+    "start": 729.72,
+    "duration": 3.2,
+    "text": "you all this cool AI stuff with the Sora"
+  },
+  {
+    "start": 731.68,
+    "duration": 2.96,
+    "text": "2 and everything, but actually the full"
+  },
+  {
+    "start": 732.92,
+    "duration": 2.96,
+    "text": "process A to Z, product, funnel,"
+  },
+  {
+    "start": 734.64,
+    "duration": 2.24,
+    "text": "creative, everything. So, if you want to"
+  },
+  {
+    "start": 735.88,
+    "duration": 2.28,
+    "text": "join that, you can fill out an"
+  },
+  {
+    "start": 736.88,
+    "duration": 2.52,
+    "text": "application below, click the first link"
+  },
+  {
+    "start": 738.16,
+    "duration": 2.08,
+    "text": "in the description, and we'll see if"
+  },
+  {
+    "start": 739.4,
+    "duration": 2.0,
+    "text": "you're a good fit. Other than that,"
+  },
+  {
+    "start": 740.24,
+    "duration": 2.24,
+    "text": "guys, thank you so much for watching."
+  },
+  {
+    "start": 741.4,
+    "duration": 2.8,
+    "text": "Hope you enjoyed this one. This was a"
+  },
+  {
+    "start": 742.48,
+    "duration": 3.48,
+    "text": "long time in the making and I actually"
+  },
+  {
+    "start": 744.2,
+    "duration": 4.28,
+    "text": "filmed this video, I think, seven total"
+  },
+  {
+    "start": 745.96,
+    "duration": 3.64,
+    "text": "times, but my OBS kept crashing, so we"
+  },
+  {
+    "start": 748.48,
+    "duration": 2.2,
+    "text": "finally made it. Thank you so much for"
+  },
+  {
+    "start": 749.6,
+    "duration": 4.16,
+    "text": "watching. I'll see you on the next one."
+  },
+  {
+    "start": 750.68,
+    "duration": 3.08,
+    "text": "Run more ads. Peace."
+  }
+]

@@ -1,0 +1,308 @@
+# this new AI found me a $371k/mo winning product in 9 mins (not ChatGPT)
+URL: https://www.youtube.com/watch?v=VxgRCUOCX9Q
+Category: video
+Duration: 568s
+Published: 20250204
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] hey guys Mark here in this video I'm
+[00:00:01] going to show you how I use this new AI
+[00:00:03] tool to find a
+[00:00:04] $376,000 per month winning product that
+[00:00:07] took me basically no time whatsoever and
+[00:00:09] if you're wondering what this new AI
+[00:00:10] tool is it's not chat GPT it's actually
+[00:00:12] a new tool from open aai called operator
+[00:00:15] so operator is open ai's new AI agent
+[00:00:18] tool which an AI agent is basically an
+[00:00:20] AI think of it as an employee that you
+[00:00:22] can hire to go and complete any task on
+[00:00:24] the internet that you want you can give
+[00:00:25] it your specific logins to softwares to
+[00:00:28] platforms and it'll go and actually do
+[00:00:30] stuff for you and then come back going
+[00:00:31] save you a lot of time so what I did is
+[00:00:33] I programmed an operator an AI agent to
+[00:00:36] go and do product research for me based
+[00:00:38] off of a specific set of criteria so
+[00:00:40] once you open your operator account it's
+[00:00:41] very very simple to use it's going to
+[00:00:42] look exactly like chadt and all you want
+[00:00:44] to do is basically insert a set of
+[00:00:47] instructions that you want it to follow
+[00:00:49] in order to find your winning product
+[00:00:51] okay so for me I have a specific set of
+[00:00:53] criteria that I'm looking for in order
+[00:00:55] to find my winning product what I'm
+[00:00:56] going to do is I'm actually going to
+[00:00:57] give it access to one of my favorite
+[00:00:59] softwares that I like to use for product
+[00:01:00] research called get hooked I'm going to
+[00:01:02] give it access to that software and
+[00:01:04] basically have it scrape the ad Library
+[00:01:06] based off a specific set of criteria to
+[00:01:08] find the winning product so let me show
+[00:01:09] you exactly what I mean so this is the
+[00:01:10] get hook software right here what I'm
+[00:01:12] going to do is go over to the left- hand
+[00:01:13] side and as you can see you can
+[00:01:15] basically select the specific criteria
+[00:01:17] that you want to have whether it's like
+[00:01:18] a winning ad a video ad if the ad is
+[00:01:21] still running and I have a a list of
+[00:01:23] criteria that I use that I uploaded into
+[00:01:25] operator along with a whole bunch of
+[00:01:27] other instructions basically hit enter
+[00:01:29] and I basically let it run wild for you
+[00:01:31] know about 5 to 10 minutes it spit out
+[00:01:33] an entire list of 10 winning products
+[00:01:36] and so if you want like the full prompt
+[00:01:37] that I actually used you can tell it's
+[00:01:39] kind of long it did take a little bit of
+[00:01:40] like trial and error to actually get it
+[00:01:41] to work but if you want this specific
+[00:01:43] prompt I'll leave it as the third link
+[00:01:45] in the description so you can always
+[00:01:47] just go and click it and get access to
+[00:01:48] it for free as you can see I put in the
+[00:01:49] prompt here it ran for a little bit of
+[00:01:51] time we went back and forth maybe one or
+[00:01:53] two times cuz there was a few points
+[00:01:54] where it couldn't exactly access
+[00:01:56] something but this is the way that I
+[00:01:57] want you to think about using operator
+[00:01:59] okay and anytime that you're working
+[00:02:00] with an AI agent you have to give it a
+[00:02:02] little bit of guidance so this prompt
+[00:02:04] that I gave you again third link in the
+[00:02:05] description if you want it it's just a
+[00:02:07] starting point okay I have my specific
+[00:02:09] criteria that I use you can set your own
+[00:02:12] you don't have to use get hook you can
+[00:02:13] use whatever software that you want you
+[00:02:14] can have it go straight to the Facebook
+[00:02:16] ads library and search based off
+[00:02:17] keywords it's entirely up to you I like
+[00:02:19] using get hooked because their Explorer
+[00:02:21] section is basically like the ad library
+[00:02:23] but on steroids so I can specifically
+[00:02:25] find ads that I know are winning and
+[00:02:26] reverse engineer them to find the
+[00:02:28] product and the revenue that that
+[00:02:29] product is doing so I sent all this data
+[00:02:31] into operator it worked it worked it
+[00:02:33] worked and it basically spit out this
+[00:02:34] list right here of 10 potential winning
+[00:02:37] products you can see it missed the first
+[00:02:38] one but the other you know nine products
+[00:02:40] got basically perfectly and as I was
+[00:02:43] going through this I actually found you
+[00:02:44] know one really good product here now
+[00:02:46] you don't have to say 10 products you
+[00:02:47] could say 20 you could say 50 you could
+[00:02:49] say 100 you can say whatever you want
+[00:02:51] it's your AI agent that you can use with
+[00:02:53] your own criteria now based off this
+[00:02:55] initial criteria that I used I actually
+[00:02:57] found this product right here so I'm
+[00:02:58] going to click on the link and it's
+[00:03:00] going to take me to the get hooked
+[00:03:02] product because let me tell you this
+[00:03:03] like this video is not over okay I'm
+[00:03:06] going to show you how to find the
+[00:03:07] product but that's only half of the
+[00:03:08] process okay the other half of the
+[00:03:09] process is doing what's called
+[00:03:11] validating the product AKA proving with
+[00:03:14] data that you can confirm that that
+[00:03:16] product is selling at least
+[00:03:17] $300,000 per month in sales if it's not
+[00:03:20] doing that it's not a product that we
+[00:03:21] want to sell so here I'm going to click
+[00:03:23] on details and actually go to the
+[00:03:25] landing page right here and as you can
+[00:03:27] see this product you guys have probably
+[00:03:28] seen it before would be told but this is
+[00:03:30] a really cool thing notice look at the
+[00:03:32] Domain okay Kittys sprout.com Pages dc-
+[00:03:36] listicle meaning on this channel I talk
+[00:03:38] a lot about using competitive advantages
+[00:03:40] um by the way I put together like a full
+[00:03:42] video on this it's unlisted on the
+[00:03:43] channel but you can just DM me on IG DM
+[00:03:45] me the word competitor and I'll send it
+[00:03:47] to you but one of the competitive
+[00:03:49] advantages that you can use is competing
+[00:03:51] on funnels and notice this isn't like a
+[00:03:53] traditional Shopify PDP this isn't a
+[00:03:55] product page what this is is a page that
+[00:03:58] is designed to basically the sales
+[00:04:00] process which can possibly increase your
+[00:04:02] conversion rate and these guys um as you
+[00:04:04] can tell this product is not new right
+[00:04:06] it's very much so validated they say
+[00:04:08] that they sold over 190,000 no I'm not
+[00:04:11] going to believe that for a second maybe
+[00:04:12] it's true maybe it's not I'm not here to
+[00:04:14] judge but what I am going to do is look
+[00:04:15] at the data and so now we want to move
+[00:04:16] on to the validation portion of this
+[00:04:18] video how can you actually validate that
+[00:04:20] this product right here is selling at
+[00:04:22] scale so what I'm going to do pop open
+[00:04:24] the similar web extension and you can
+[00:04:26] see that these guys have scaled to
+[00:04:27] 235,000
+[00:04:30] visitors per month okay now you can do a
+[00:04:32] really simple calculation here to
+[00:04:34] determine generally speaking the amount
+[00:04:36] of Revenue that they're doing okay and
+[00:04:38] so I'm going to say with a page like
+[00:04:39] this the conversion rate is going to be
+[00:04:41] a minimum I mean this is a damn good
+[00:04:43] page I would say the conversion rate
+[00:04:45] would be a minimum of a 2% I think 3% is
+[00:04:48] even realistic or maybe even higher than
+[00:04:49] 3% but let's just be conservative right
+[00:04:51] let's say 2% so you're going to do 0.02
+[00:04:54] times the number of visitors that they
+[00:04:56] have on their store which is 235,000
+[00:05:00] right so let's go
+[00:05:01] 235 that's going to give you
+[00:05:04] 4700 orders per month so now we need to
+[00:05:07] estimate what would the aov be of the
+[00:05:09] store the average order value because if
+[00:05:11] you multiply the aov times that 4700
+[00:05:14] number you can generally understand the
+[00:05:15] type of volume that these guys are doing
+[00:05:17] now what I absolutely love about this
+[00:05:19] product by the way not only does it
+[00:05:21] solve a problem which is a very
+[00:05:23] important piece of criteria not only
+[00:05:25] does it solve a problem in a passionate
+[00:05:28] market right the only people that humans
+[00:05:30] love more than themselves or their
+[00:05:32] family is their pets okay so that's why
+[00:05:34] I absolutely love this market look what
+[00:05:36] they did here you basically sign them up
+[00:05:38] on a subscription so instead of just
+[00:05:40] buying the product once which we all
+[00:05:42] know is really really hard for you to be
+[00:05:43] profitable when you just get a customer
+[00:05:44] to buy once right you have to be really
+[00:05:46] aggressive with your aob with your
+[00:05:47] upsells Etc just to be profitable what
+[00:05:50] these guys did is they built a
+[00:05:52] subscription around I'm guessing the
+[00:05:55] filters associated with this product
+[00:05:57] which is genius I absolutely love that
+[00:05:58] they did that cuz now they're
+[00:06:00] repeat customer rate is going to be very
+[00:06:01] high and even if they acquire customer
+[00:06:04] once that customer is going to be paying
+[00:06:05] them over and over and over again and so
+[00:06:07] even like absolute worst case scenario
+[00:06:09] for the two month it's $70 4 months it's
+[00:06:12] 84 um and the six month is 94 right so
+[00:06:16] worst case scenario these guys have an
+[00:06:18] aob of at least $80 I think that's being
+[00:06:20] extremely conservative once again I
+[00:06:22] haven't even looked at the other upsell
+[00:06:23] that these guys have but let's say very
+[00:06:25] conservatively they're at 80 right we're
+[00:06:27] going to multiply that 4700
+[00:06:30] uh 4700 unit order number by $80 and
+[00:06:34] see let's do this the right way there we
+[00:06:36] go
+[00:06:38] $376,000 per month in sales that this
+[00:06:42] brand is doing so now that we know that
+[00:06:43] this product once again solves a problem
+[00:06:45] in a Passion Market it is validated so
+[00:06:47] we know that it's selling at at least
+[00:06:49] $300,000 per month the only thing that I
+[00:06:51] want to look into at this point is the
+[00:06:53] margins okay what I mean by margins is
+[00:06:55] how much does it cost for you to get
+[00:06:57] this product at cost so let's quickly
+[00:07:00] just pop open AliExpress to kind of get
+[00:07:03] an idea of how much this product
+[00:07:05] actually cost to fulfill I'm not
+[00:07:07] actually going to fulfill this product
+[00:07:08] for I to sell it through all Express but
+[00:07:09] I just want to kind of get a general
+[00:07:10] idea around how much it would cost okay
+[00:07:13] so let's say cat water fountain
+[00:07:15] obviously it's an electric cat water
+[00:07:17] found so let's go ahead and take a look
+[00:07:19] and generally see I'm sure we'll see it
+[00:07:20] pretty quickly here yep there it is for
+[00:07:23] $17 okay perfect let's just say it's
+[00:07:25] around like $17 to $20 to fulfill and
+[00:07:28] ship this product out that means if
+[00:07:30] they're selling for an average 70 and it
+[00:07:34] costs 20 that means that it meets the
+[00:07:37] two rules of profitability number one
+[00:07:39] you want to have a minimum of a $20
+[00:07:41] margin in this case they have $50 a
+[00:07:42] margin those are really really good
+[00:07:44] profit margins that's the first rule the
+[00:07:46] second rule is the product needs to
+[00:07:49] absolutely positively be 3x your cost of
+[00:07:52] goods sold so in this case to cost a
+[00:07:53] good sold is 20 bucks right like I said
+[00:07:55] earlier 3x the 20 $60 these guys they're
+[00:07:58] selling as 70 so they meet both of those
+[00:08:01] rules of profitability so this product
+[00:08:03] right here checks off so many boxes it's
+[00:08:05] not going to be one that I would sell I
+[00:08:06] mean the one thing that I'm keeping in
+[00:08:08] mind here is that these guys are doing a
+[00:08:09] lot of things right so in the back of my
+[00:08:11] mind I'm like how could I beat them you
+[00:08:13] know I haven't looked necessarily at
+[00:08:15] their ad Library yet that would be the
+[00:08:16] next thing that I do but these guys are
+[00:08:18] freaking destroying it and it's not
+[00:08:20] necessarily not necessarily A company
+[00:08:22] that I want to compete with because
+[00:08:23] they're doing really really well so I'd
+[00:08:25] have to do a little bit more research
+[00:08:26] really I understand but this is the
+[00:08:27] proect that you can use okay you can
+[00:08:29] think of operator literally as one of
+[00:08:31] your vas as one of your employees in
+[00:08:34] your business you can start thinking
+[00:08:35] like an entrepreneur and a business
+[00:08:36] owner un less like an employee because
+[00:08:38] that's how you really create this wealth
+[00:08:40] that I know that you're after so I hope
+[00:08:42] that you guys enjoy this video if you
+[00:08:43] want to learn more about this process of
+[00:08:45] intertwining like AI with with product
+[00:08:47] research with Facebook ads I've been
+[00:08:49] experimenting a lot with operator over
+[00:08:51] the past it's only been out I think
+[00:08:53] around like a week or a week and a half
+[00:08:54] but I've been experimenting a lot I've
+[00:08:56] been using it a lot of my own business
+[00:08:57] so this is all stuff that I share
+[00:08:59] actually inside of our program brand
+[00:09:01] builds Academy so if you're interested
+[00:09:03] in working with me a little bit closer
+[00:09:04] and actually getting like that
+[00:09:05] one-on-one guidance to get you to owning
+[00:09:08] a profitable successful Ecom store that
+[00:09:10] actually pays you real income online
+[00:09:11] just click the first link in the
+[00:09:13] description you can apply for brand
+[00:09:14] builders Academy that's a mentorship
+[00:09:16] program that I own with my partner Alex
+[00:09:17] FedEd off so if that interests you go
+[00:09:19] ahead and fill out an application we
+[00:09:20] don't accept everybody but we will let
+[00:09:22] you know if you want to work with us so
+[00:09:24] other than that guys thank you so much
+[00:09:25] for watching see you in the next video
+[00:09:27] peace

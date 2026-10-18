@@ -1,0 +1,25 @@
+{
+  "post_id": "1429197072724582",
+  "url": "https://www.facebook.com/cnicsarl/posts/1429197072724582?locale=fr_FR",
+  "creation_time": 1792274402,
+  "date_iso": "2026-10-17T22:00:02+00:00",
+  "date_str": "2026-10-17 22:00:02 UTC",
+  "post_text": "🤝 UN ACCUEIL QUI SE CONSTRUIT EN ÉQUIPE\n\n🌿 Recevoir les invités et leur présenter les produits demande de la coordination. Les Muses ndjoka contribueront à un parcours fluide entre accueil,...",
+  "reactions_count": 4,
+  "shares_count": 0,
+  "comments_count": 0,
+  "top_reactions": [],
+  "comments": [],
+  "image_urls": [
+    "https://scontent-fra5-1.xx.fbcdn.net/v/t39.99422-6/855737139_1106722918831902_1345912488539327809_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=72yHv3IhmZQQ7kNvwHDtlUz&_nc_oc=AdpYAk8thiwYZHZtnxtH_MsGHZKaZsSiSOvJcEsI76q1euJ5jWECGljfBILV1VwmkTm_J8sJTRZhYLVXXicVxRSB&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=TJ5mjSJ26nWSzfSz150Xjw&_nc_ss=7f289&oh=00_AQNYw1Mrfk0NmVsj_GN_uOMkrXmxILxf65fdPKVzuyBcaA&oe=6AD9CE55"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_01/images/image_01.png",
+      "size_bytes": 32280,
+      "cdn_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.99422-6/855737139_1106722918831902_1345912488539327809_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=72yHv3IhmZQQ7kNvwHDtlUz&_nc_oc=AdpYAk8thiwYZHZtnxtH_MsGHZKaZsSiSOvJcEsI76q1euJ5jWECGljfBILV1VwmkTm_J8sJTRZhYLVXXicVxRSB&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=TJ5mjSJ26nWSzfSz150Xjw&_nc_ss=7f289&oh=00_AQNYw1Mrfk0NmVsj_GN_uOMkrXmxILxf65fdPKVzuyBcaA&oe=6AD9CE55"
+    }
+  ]
+}

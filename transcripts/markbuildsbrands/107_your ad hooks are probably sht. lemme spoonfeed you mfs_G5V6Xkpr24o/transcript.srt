@@ -1,0 +1,5448 @@
+1
+00:00:00,000 --> 00:00:02,560
+In this video, I'm going to be going
+
+2
+00:00:01,040 --> 00:00:05,520
+over
+
+3
+00:00:02,560 --> 00:00:07,040
+ad hooks specifically. So, I I think the
+
+4
+00:00:05,520 --> 00:00:08,320
+best way to understand anything and to
+
+5
+00:00:07,040 --> 00:00:10,320
+get really really good at anything is
+
+6
+00:00:08,320 --> 00:00:11,840
+you can break down this big thing. In
+
+7
+00:00:10,320 --> 00:00:14,000
+this case, it's just going to be hooks
+
+8
+00:00:11,840 --> 00:00:15,840
+into its various component parts. In
+
+9
+00:00:14,000 --> 00:00:16,960
+fact, when I was younger and when I was
+
+10
+00:00:15,840 --> 00:00:18,880
+a kid, that was one of my favorite
+
+11
+00:00:16,960 --> 00:00:20,720
+things to do. It wasn't to like always
+
+12
+00:00:18,880 --> 00:00:22,960
+play with the toys. It was to completely
+
+13
+00:00:20,720 --> 00:00:24,160
+disassemble them and understand how all
+
+14
+00:00:22,960 --> 00:00:25,920
+the pieces work together, then figure
+
+15
+00:00:24,160 --> 00:00:28,240
+out how to put it all back together.
+
+16
+00:00:25,920 --> 00:00:29,680
+That was one of my uh one of the
+
+17
+00:00:28,240 --> 00:00:31,360
+activities I really enjoyed when I was
+
+18
+00:00:29,680 --> 00:00:32,880
+younger. And I think that's part of the
+
+19
+00:00:31,360 --> 00:00:34,640
+reason why I'm good at what I do now.
+
+20
+00:00:32,880 --> 00:00:35,600
+It's because in order to truly
+
+21
+00:00:34,640 --> 00:00:36,880
+understand something, you should
+
+22
+00:00:35,600 --> 00:00:39,040
+understand how all the parts work
+
+23
+00:00:36,880 --> 00:00:41,120
+together. And you should strip it down
+
+24
+00:00:39,040 --> 00:00:44,160
+as much as you possibly can to its bare
+
+25
+00:00:41,120 --> 00:00:46,000
+bone uh elements, the foundations. And
+
+26
+00:00:44,160 --> 00:00:47,600
+if you understand those, then only then
+
+27
+00:00:46,000 --> 00:00:50,640
+can you build on top of that. The issue
+
+28
+00:00:47,600 --> 00:00:52,160
+is a lot of you guys go to uh you know
+
+29
+00:00:50,640 --> 00:00:53,840
+you go to get hooked or whatever, you
+
+30
+00:00:52,160 --> 00:00:55,280
+swipe some ads, you swipe some copy, you
+
+31
+00:00:53,840 --> 00:00:58,000
+throw it into Claude, you say rewrite
+
+32
+00:00:55,280 --> 00:01:00,320
+this. And Claude is not good at writing
+
+33
+00:00:58,000 --> 00:01:03,280
+hooks in general. [clears throat] Um I
+
+34
+00:01:00,320 --> 00:01:08,800
+don't actually use Claude a lot for
+
+35
+00:01:03,280 --> 00:01:10,480
+uh for copy overall. Um if I do, the
+
+36
+00:01:08,800 --> 00:01:12,000
+most
+
+37
+00:01:10,480 --> 00:01:14,560
+recent model I would ever use for
+
+38
+00:01:12,000 --> 00:01:16,400
+writing copy is Opus or Sonnet 4.6. I
+
+39
+00:01:14,560 --> 00:01:17,920
+would not go beyond that. and eventually
+
+40
+00:01:16,400 --> 00:01:20,480
+those are going to be deprecated as
+
+41
+00:01:17,920 --> 00:01:22,720
+well. So at at that point you got to
+
+42
+00:01:20,480 --> 00:01:25,200
+find other alternatives for writing
+
+43
+00:01:22,720 --> 00:01:27,280
+copy. So uh I've been writing a lot of
+
+44
+00:01:25,200 --> 00:01:28,400
+copy with chatbt over the last few
+
+45
+00:01:27,280 --> 00:01:31,360
+months. I've been writing copy with
+
+46
+00:01:28,400 --> 00:01:32,960
+Grock over the last few months. Um but
+
+47
+00:01:31,360 --> 00:01:35,440
+just so that you know typically most
+
+48
+00:01:32,960 --> 00:01:39,040
+these LLMs they work pretty similarly
+
+49
+00:01:35,440 --> 00:01:41,040
+unless you are feeding in a ton of
+
+50
+00:01:39,040 --> 00:01:42,960
+really really good context around how to
+
+51
+00:01:41,040 --> 00:01:45,200
+actually write good hooks. as soon as
+
+52
+00:01:42,960 --> 00:01:47,040
+you go to rewrite it with AI and just
+
+53
+00:01:45,200 --> 00:01:48,480
+expect the swipe to work, it's probably
+
+54
+00:01:47,040 --> 00:01:51,040
+going to [ __ ] up the swipe in the first
+
+55
+00:01:48,480 --> 00:01:54,560
+place. And that's why swiping is, you
+
+56
+00:01:51,040 --> 00:01:56,240
+know, difficult thing to uh to to really
+
+57
+00:01:54,560 --> 00:01:57,680
+make work sometimes, especially if it
+
+58
+00:01:56,240 --> 00:01:58,640
+works. Then you're really [ __ ] Like
+
+59
+00:01:57,680 --> 00:01:59,600
+it's good, but then you're [ __ ]
+
+60
+00:01:58,640 --> 00:02:01,760
+because you have no idea why it's
+
+61
+00:01:59,600 --> 00:02:03,360
+actually working. Um anyway, to strip it
+
+62
+00:02:01,760 --> 00:02:05,040
+down to its its component pieces. What
+
+63
+00:02:03,360 --> 00:02:07,520
+do we have the hook, right? Let's talk
+
+64
+00:02:05,040 --> 00:02:09,680
+about video ads specifically. That's
+
+65
+00:02:07,520 --> 00:02:10,960
+going to be the majority of what this
+
+66
+00:02:09,680 --> 00:02:13,120
+video will be about. I'll I'll maybe
+
+67
+00:02:10,960 --> 00:02:14,960
+have a little bit about some uh primary
+
+68
+00:02:13,120 --> 00:02:16,960
+text on native static so we can talk
+
+69
+00:02:14,960 --> 00:02:18,880
+about the hook there because that's also
+
+70
+00:02:16,960 --> 00:02:20,800
+incredibly incredibly important. But
+
+71
+00:02:18,880 --> 00:02:23,920
+let's talk about videos first. So in
+
+72
+00:02:20,800 --> 00:02:26,800
+regards to videos,
+
+73
+00:02:23,920 --> 00:02:29,760
+right?
+
+74
+00:02:26,800 --> 00:02:31,440
+Videos, if you take the first roughly 3
+
+75
+00:02:29,760 --> 00:02:34,320
+to 5 seconds of a video ad, that is what
+
+76
+00:02:31,440 --> 00:02:35,760
+we define as the hook. And with video,
+
+77
+00:02:34,320 --> 00:02:37,760
+it's not just something that you're
+
+78
+00:02:35,760 --> 00:02:39,920
+reading. Like it's it's an experience.
+
+79
+00:02:37,760 --> 00:02:41,600
+Like watching a video is an experience.
+
+80
+00:02:39,920 --> 00:02:44,720
+And there's three things that kind of
+
+81
+00:02:41,600 --> 00:02:46,640
+make up said experience. Um, which is
+
+82
+00:02:44,720 --> 00:02:50,000
+your hook. So like this entire piece al
+
+83
+00:02:46,640 --> 00:02:52,320
+together is your let's just call like
+
+84
+00:02:50,000 --> 00:02:55,200
+the hook, right? So first thing that we
+
+85
+00:02:52,320 --> 00:02:58,400
+have is going to be
+
+86
+00:02:55,200 --> 00:03:01,200
+the actual the actual copy. Right? This
+
+87
+00:02:58,400 --> 00:03:02,880
+is one of the most important pieces. I
+
+88
+00:03:01,200 --> 00:03:05,360
+think this actually used to be even more
+
+89
+00:03:02,880 --> 00:03:07,040
+important and now it's starting to shift
+
+90
+00:03:05,360 --> 00:03:08,800
+in another direction which I'll get to.
+
+91
+00:03:07,040 --> 00:03:10,960
+But one of the three pieces is your
+
+92
+00:03:08,800 --> 00:03:13,600
+copy. The other is going to be your
+
+93
+00:03:10,960 --> 00:03:16,720
+scroll stopper, which is essentially the
+
+94
+00:03:13,600 --> 00:03:18,880
+video portion. So you have text that is
+
+95
+00:03:16,720 --> 00:03:21,680
+being stated. That's the copy. And then
+
+96
+00:03:18,880 --> 00:03:23,840
+you have the actual video being played
+
+97
+00:03:21,680 --> 00:03:26,080
+behind said text. And that is of course
+
+98
+00:03:23,840 --> 00:03:27,840
+your scroll stopper. And then the third
+
+99
+00:03:26,080 --> 00:03:29,120
+and final thing, if you think there
+
+100
+00:03:27,840 --> 00:03:31,760
+can't be possibly anything else, there
+
+101
+00:03:29,120 --> 00:03:34,320
+is because here we have the visual, we
+
+102
+00:03:31,760 --> 00:03:36,080
+have the
+
+103
+00:03:34,320 --> 00:03:37,520
+text on screen. And then we have to have
+
+104
+00:03:36,080 --> 00:03:38,640
+the audio as well, which is going to be
+
+105
+00:03:37,520 --> 00:03:40,960
+the third and final thing, which is
+
+106
+00:03:38,640 --> 00:03:43,760
+going to be what actually happens in the
+
+107
+00:03:40,960 --> 00:03:46,400
+background audio-wise to bring together
+
+108
+00:03:43,760 --> 00:03:48,160
+this hook. [clears throat] So these
+
+109
+00:03:46,400 --> 00:03:50,000
+three things make up your hook. If I had
+
+110
+00:03:48,160 --> 00:03:52,480
+to put it into percentages of which is
+
+111
+00:03:50,000 --> 00:03:56,160
+most important, I would say audio is
+
+112
+00:03:52,480 --> 00:03:58,240
+probably like 5% maybe 10% max. You
+
+113
+00:03:56,160 --> 00:04:00,400
+know, a lot of people watch ads even
+
+114
+00:03:58,240 --> 00:04:01,920
+with their sound turned off. So that
+
+115
+00:04:00,400 --> 00:04:03,360
+alone should tell you that it's not
+
+116
+00:04:01,920 --> 00:04:05,680
+anywhere near the most important thing.
+
+117
+00:04:03,360 --> 00:04:07,120
+I would say 5 to 10%. And then we're
+
+118
+00:04:05,680 --> 00:04:08,400
+going to have these two things which
+
+119
+00:04:07,120 --> 00:04:11,600
+carry the most amount of weight. If you
+
+120
+00:04:08,400 --> 00:04:13,920
+ask me a few years ago before this this
+
+121
+00:04:11,600 --> 00:04:15,440
+algorithm update from Facebook and the
+
+122
+00:04:13,920 --> 00:04:19,200
+few algo updates that have been from
+
+123
+00:04:15,440 --> 00:04:22,560
+Facebook over the last uh year, yeah,
+
+124
+00:04:19,200 --> 00:04:25,840
+roughly year, um
+
+125
+00:04:22,560 --> 00:04:27,200
+you'll notice that having more diversity
+
+126
+00:04:25,840 --> 00:04:29,040
+when it comes to your scroll stoppers
+
+127
+00:04:27,200 --> 00:04:31,520
+specifically
+
+128
+00:04:29,040 --> 00:04:32,480
+is a really good thing
+
+129
+00:04:31,520 --> 00:04:34,000
+because that means that you're
+
+130
+00:04:32,480 --> 00:04:35,680
+increasing the level of diversity across
+
+131
+00:04:34,000 --> 00:04:37,520
+them compared to keeping everything in
+
+132
+00:04:35,680 --> 00:04:40,000
+the ad the same and only changing like
+
+133
+00:04:37,520 --> 00:04:41,920
+the copy. of the hook.
+
+134
+00:04:40,000 --> 00:04:45,120
+So,
+
+135
+00:04:41,920 --> 00:04:47,440
+for that reason, um, before that, I
+
+136
+00:04:45,120 --> 00:04:48,800
+think copy was literally the most
+
+137
+00:04:47,440 --> 00:04:51,280
+important thing. And the reason I can
+
+138
+00:04:48,800 --> 00:04:53,440
+tell you why is because there are comp I
+
+139
+00:04:51,280 --> 00:04:55,040
+mean, [ __ ] there's still companies now,
+
+140
+00:04:53,440 --> 00:04:57,360
+but [clears throat] like the old school
+
+141
+00:04:55,040 --> 00:04:59,440
+VSSL, like VSSL is a video sales letter,
+
+142
+00:04:57,360 --> 00:05:01,520
+the old school VSSLs, which we could we
+
+143
+00:04:59,440 --> 00:05:04,160
+could say VSSLs are being run as ads all
+
+144
+00:05:01,520 --> 00:05:05,680
+the time. Old school VSSLs, the way that
+
+145
+00:05:04,160 --> 00:05:08,960
+they would work is you would literally
+
+146
+00:05:05,680 --> 00:05:11,840
+take a text sales letter. You take a TSL
+
+147
+00:05:08,960 --> 00:05:13,680
+and you would convert it into a video.
+
+148
+00:05:11,840 --> 00:05:16,320
+And the way you do that is you would
+
+149
+00:05:13,680 --> 00:05:19,280
+just have this dude, you know, voicing
+
+150
+00:05:16,320 --> 00:05:20,880
+over uh the particular script because,
+
+151
+00:05:19,280 --> 00:05:23,360
+you know, here's here's something you
+
+152
+00:05:20,880 --> 00:05:26,320
+may not know. Uh most copywriters,
+
+153
+00:05:23,360 --> 00:05:28,880
+myself included, you know, a lot of them
+
+154
+00:05:26,320 --> 00:05:31,200
+relatively antisocial. [laughter]
+
+155
+00:05:28,880 --> 00:05:32,800
+And if if at least not antisocial, don't
+
+156
+00:05:31,200 --> 00:05:33,920
+like showing their face on camera
+
+157
+00:05:32,800 --> 00:05:35,760
+actively all the time. That's probably
+
+158
+00:05:33,920 --> 00:05:37,680
+the reason they became, you know, a
+
+159
+00:05:35,760 --> 00:05:39,280
+copywriter.
+
+160
+00:05:37,680 --> 00:05:41,200
+so that they didn't have to do that. And
+
+161
+00:05:39,280 --> 00:05:44,480
+so this guy is basically like speaking
+
+162
+00:05:41,200 --> 00:05:46,560
+and narrating a PowerPoint presentation
+
+163
+00:05:44,480 --> 00:05:51,600
+that's like a 100 plus slides. And
+
+164
+00:05:46,560 --> 00:05:56,640
+that's that was like the uh the
+
+165
+00:05:51,600 --> 00:05:59,520
+genesis I guess of the VSSL. Um Keith
+
+166
+00:05:56,640 --> 00:06:00,720
+Bowman, you know, you know. So that was
+
+167
+00:05:59,520 --> 00:06:03,120
+that was essentially the invention of
+
+168
+00:06:00,720 --> 00:06:06,400
+the VSSL. And the reason I say that is
+
+169
+00:06:03,120 --> 00:06:08,800
+because in the same way that you have a
+
+170
+00:06:06,400 --> 00:06:10,000
+VSSL, it was literally just text on a
+
+171
+00:06:08,800 --> 00:06:11,360
+white background. It's like black text
+
+172
+00:06:10,000 --> 00:06:12,480
+on a white background. The most basic
+
+173
+00:06:11,360 --> 00:06:14,720
+[ __ ] of all time. Yet, these would
+
+174
+00:06:12,480 --> 00:06:17,200
+print, you know, eight plus figures if
+
+175
+00:06:14,720 --> 00:06:18,720
+you had a phenomenal phenomenal VSSL and
+
+176
+00:06:17,200 --> 00:06:20,080
+you had really good traffic being sent
+
+177
+00:06:18,720 --> 00:06:22,800
+to it. That could that can be an eight
+
+178
+00:06:20,080 --> 00:06:24,800
+plus figure VSSL right there. And I have
+
+179
+00:06:22,800 --> 00:06:27,040
+specific ones like in mind that I can
+
+180
+00:06:24,800 --> 00:06:30,000
+think of that I have watched that are
+
+181
+00:06:27,040 --> 00:06:34,160
+literally just black words on a white
+
+182
+00:06:30,000 --> 00:06:36,080
+[ __ ] PowerPoint. That's it.
+
+183
+00:06:34,160 --> 00:06:38,560
+Now, the reason I bring this up is
+
+184
+00:06:36,080 --> 00:06:40,320
+because there's no there's no video
+
+185
+00:06:38,560 --> 00:06:42,720
+element to this whatsoever. Like, yes,
+
+186
+00:06:40,320 --> 00:06:44,320
+it's a video because it's recorded and
+
+187
+00:06:42,720 --> 00:06:46,320
+there's this visual element to it, but
+
+188
+00:06:44,320 --> 00:06:48,480
+it's not like the way that we know VSSLs
+
+189
+00:06:46,320 --> 00:06:50,320
+today. But this is how VSSLs were
+
+190
+00:06:48,480 --> 00:06:53,600
+legitimately created. Like this is this
+
+191
+00:06:50,320 --> 00:06:55,840
+is truly the foundation here. And again,
+
+192
+00:06:53,600 --> 00:06:58,720
+the reason I go down this whole [ __ ]
+
+193
+00:06:55,840 --> 00:07:00,800
+rabbit hole about VSSLs is because this
+
+194
+00:06:58,720 --> 00:07:02,400
+skews very very heavily in the text
+
+195
+00:07:00,800 --> 00:07:05,040
+direction, specifically the copy. The
+
+196
+00:07:02,400 --> 00:07:06,480
+copy will make or break a VSSL. But with
+
+197
+00:07:05,040 --> 00:07:07,920
+ads, because they're so short and
+
+198
+00:07:06,480 --> 00:07:09,680
+because of these new algorithm
+
+199
+00:07:07,920 --> 00:07:11,680
+algorithmic updates that we had from
+
+200
+00:07:09,680 --> 00:07:14,560
+Facebook, we know that the scroll
+
+201
+00:07:11,680 --> 00:07:16,640
+stopper is slowly increasing and its
+
+202
+00:07:14,560 --> 00:07:18,720
+overall weight in the formula of how to
+
+203
+00:07:16,640 --> 00:07:23,560
+make a successful hook. becoming more
+
+204
+00:07:18,720 --> 00:07:23,560
+and more important, you know, over time
+
+205
+00:07:24,800 --> 00:07:29,600
+because this element of not having
+
+206
+00:07:27,280 --> 00:07:31,200
+similar ads, this element of creative
+
+207
+00:07:29,600 --> 00:07:32,880
+diversity,
+
+208
+00:07:31,200 --> 00:07:35,120
+it's becoming more and more important as
+
+209
+00:07:32,880 --> 00:07:38,480
+we see. So, in any case, I would still
+
+210
+00:07:35,120 --> 00:07:39,840
+probably give more weight to the uh the
+
+211
+00:07:38,480 --> 00:07:41,840
+copy. Like, I would say this is probably
+
+212
+00:07:39,840 --> 00:07:43,440
+going to be 60%.
+
+213
+00:07:41,840 --> 00:07:46,560
+And then I would give I guess that' be
+
+214
+00:07:43,440 --> 00:07:48,720
+35% here to the scroll stopper. So, when
+
+215
+00:07:46,560 --> 00:07:51,600
+you're creating your hook, right, the
+
+216
+00:07:48,720 --> 00:07:53,280
+most important part of the ad, keep this
+
+217
+00:07:51,600 --> 00:07:55,120
+in mind. If you're not spending
+
+218
+00:07:53,280 --> 00:07:57,040
+proportionate amounts of time on each of
+
+219
+00:07:55,120 --> 00:07:58,800
+these, like the far majority of your
+
+220
+00:07:57,040 --> 00:08:00,480
+time on copy, and then second that only
+
+221
+00:07:58,800 --> 00:08:02,720
+the visuals that's going to be happening
+
+222
+00:08:00,480 --> 00:08:04,960
+behind the copy, then you're probably
+
+223
+00:08:02,720 --> 00:08:06,240
+wasting your time and not spending it in
+
+224
+00:08:04,960 --> 00:08:09,440
+uh in areas that that are going to be
+
+225
+00:08:06,240 --> 00:08:11,040
+highly effective. Okay, so that's the
+
+226
+00:08:09,440 --> 00:08:13,040
+the first thing. Now, just like
+
+227
+00:08:11,040 --> 00:08:14,400
+anything, let's talk about let's talk
+
+228
+00:08:13,040 --> 00:08:17,200
+about the copy and the scroll stopper
+
+229
+00:08:14,400 --> 00:08:18,800
+specifically, right? That's like 95% of
+
+230
+00:08:17,200 --> 00:08:21,760
+of your success of a good hook. It's
+
+231
+00:08:18,800 --> 00:08:26,960
+funny because if you look at like
+
+232
+00:08:21,760 --> 00:08:30,280
+ads overall, it's like 90%
+
+233
+00:08:26,960 --> 00:08:30,280
+your creative.
+
+234
+00:08:30,560 --> 00:08:34,520
+If you look at creatives,
+
+235
+00:08:35,840 --> 00:08:41,080
+your success is like 90% the hook.
+
+236
+00:08:42,240 --> 00:08:47,040
+Dude, what is what the [ __ ] is wrong
+
+237
+00:08:43,840 --> 00:08:50,560
+with this [ __ ] thing?
+
+238
+00:08:47,040 --> 00:08:52,160
+And then if you look at the hook,
+
+239
+00:08:50,560 --> 00:08:55,560
+[laughter]
+
+240
+00:08:52,160 --> 00:08:55,560
+it's 90%
+
+241
+00:08:56,240 --> 00:09:05,280
+the copy
+
+242
+00:08:59,600 --> 00:09:06,320
+and uh scroll stopper, right? So, if
+
+243
+00:09:05,280 --> 00:09:07,840
+you're looking where you should spend
+
+244
+00:09:06,320 --> 00:09:10,560
+your time in ecom in general and you're
+
+245
+00:09:07,840 --> 00:09:14,240
+running paid ads, everything points
+
+246
+00:09:10,560 --> 00:09:15,920
+here. And now let's take it deeper like
+
+247
+00:09:14,240 --> 00:09:18,800
+copy
+
+248
+00:09:15,920 --> 00:09:21,520
+and uh scroll stopper
+
+249
+00:09:18,800 --> 00:09:24,000
+90% of your success of those things is
+
+250
+00:09:21,520 --> 00:09:26,560
+what? Who can tell me? Type it in the
+
+251
+00:09:24,000 --> 00:09:30,320
+chat right now. What is 90%
+
+252
+00:09:26,560 --> 00:09:33,360
+of your success in copywriting and 90%
+
+253
+00:09:30,320 --> 00:09:35,750
+of your success in creatives in general?
+
+254
+00:09:33,360 --> 00:09:37,770
+What does it come down to? Tell me.
+
+255
+00:09:35,750 --> 00:09:37,770
+[snorts]
+
+256
+00:09:46,890 --> 00:09:48,910
+>> [snorts]
+
+257
+00:09:50,720 --> 00:09:58,560
+>> Someone said
+
+258
+00:09:52,800 --> 00:10:00,160
+voice of customer visual. No hook. No,
+
+259
+00:09:58,560 --> 00:10:03,120
+we just said the hook. You We can't go
+
+260
+00:10:00,160 --> 00:10:06,680
+backwards. We have Okay. Who's the first
+
+261
+00:10:03,120 --> 00:10:06,680
+person to get it?
+
+262
+00:10:07,200 --> 00:10:14,240
+meter metarin co whatever your name is
+
+263
+00:10:10,800 --> 00:10:16,480
+bro you got it bro it's research 90% is
+
+264
+00:10:14,240 --> 00:10:19,120
+research and just like anything that is
+
+265
+00:10:16,480 --> 00:10:22,880
+where we're gonna start okay so I put
+
+266
+00:10:19,120 --> 00:10:24,960
+out a video on on uh a secondary YouTube
+
+267
+00:10:22,880 --> 00:10:26,960
+channel that I have with one of our BBA
+
+268
+00:10:24,960 --> 00:10:28,480
+students William highly recommend you go
+
+269
+00:10:26,960 --> 00:10:30,800
+watch it just search up Mark Builds
+
+270
+00:10:28,480 --> 00:10:32,880
+Brands reviews but William was William
+
+271
+00:10:30,800 --> 00:10:36,000
+has done well over seven figures over
+
+272
+00:10:32,880 --> 00:10:37,520
+the last year and I was asking him like
+
+273
+00:10:36,000 --> 00:10:39,680
+what are the main inflection points
+
+274
+00:10:37,520 --> 00:10:42,000
+where you were like unsuccessful and
+
+275
+00:10:39,680 --> 00:10:45,280
+then became successful and he hopped on
+
+276
+00:10:42,000 --> 00:10:46,960
+a call with one of our coaches. Um, and
+
+277
+00:10:45,280 --> 00:10:48,240
+shout out to this this coach, you know,
+
+278
+00:10:46,960 --> 00:10:50,320
+you know who you are. Shout out to you,
+
+279
+00:10:48,240 --> 00:10:52,000
+bro, for giving him this advice. But I
+
+280
+00:10:50,320 --> 00:10:55,040
+have this whole foundational docs
+
+281
+00:10:52,000 --> 00:10:59,280
+process, right? I make it so easy for
+
+282
+00:10:55,040 --> 00:11:00,400
+you to have incredibly good research. In
+
+283
+00:10:59,280 --> 00:11:02,000
+fact, I'm going to take it a step
+
+284
+00:11:00,400 --> 00:11:03,200
+further,
+
+285
+00:11:02,000 --> 00:11:04,960
+right? You want to have the best
+
+286
+00:11:03,200 --> 00:11:07,760
+foundational [ __ ] docs on the planet,
+
+287
+00:11:04,960 --> 00:11:07,760
+do this.
+
+288
+00:11:09,120 --> 00:11:12,760
+run it on perplexity
+
+289
+00:11:14,080 --> 00:11:19,120
+and specifically you're going to run it
+
+290
+00:11:16,000 --> 00:11:21,920
+on perplexity computer.
+
+291
+00:11:19,120 --> 00:11:24,480
+This is an additional feature of uh just
+
+292
+00:11:21,920 --> 00:11:27,280
+an agentic computer that is run by
+
+293
+00:11:24,480 --> 00:11:29,200
+perplexity itself to do research. Let me
+
+294
+00:11:27,280 --> 00:11:33,200
+tell you what happened when I did my
+
+295
+00:11:29,200 --> 00:11:35,760
+research on Perplexity computer. when I
+
+296
+00:11:33,200 --> 00:11:38,640
+ran it against regular perplexity.
+
+297
+00:11:35,760 --> 00:11:40,640
+All right, we're going to do like per
+
+298
+00:11:38,640 --> 00:11:43,840
+and then we're [ __ ] And then we're
+
+299
+00:11:40,640 --> 00:11:48,480
+going to do
+
+300
+00:11:43,840 --> 00:11:51,200
+per comp perplexity computer. All right,
+
+301
+00:11:48,480 --> 00:11:53,280
+so I was ranking it on a few different a
+
+302
+00:11:51,200 --> 00:11:54,880
+few different things. Number one is I
+
+303
+00:11:53,280 --> 00:11:57,040
+was looking at how many sources is it
+
+304
+00:11:54,880 --> 00:11:59,440
+using
+
+305
+00:11:57,040 --> 00:12:02,400
+and when it came to sources
+
+306
+00:11:59,440 --> 00:12:04,800
+just regular perplexity I think gave a
+
+307
+00:12:02,400 --> 00:12:07,710
+total of uh by the way I told this to
+
+308
+00:12:04,800 --> 00:12:10,640
+our BBA guys like weeks and weeks ago.
+
+309
+00:12:07,710 --> 00:12:15,200
+[clears throat] Um the sources I believe
+
+310
+00:12:10,640 --> 00:12:19,480
+it got like 130 on perplexity roughly.
+
+311
+00:12:15,200 --> 00:12:19,480
+Perplexity computer 580.
+
+312
+00:12:20,400 --> 00:12:24,720
+Next thing I'm looking at is the length.
+
+313
+00:12:22,800 --> 00:12:27,840
+So, how many pages of research can I
+
+314
+00:12:24,720 --> 00:12:31,680
+actually get right on Perplexity
+
+315
+00:12:27,840 --> 00:12:35,120
+Standard? Um,
+
+316
+00:12:31,680 --> 00:12:39,160
+I think I got about 22 pages. Perplexity
+
+317
+00:12:35,120 --> 00:12:39,160
+computer I got 73.
+
+318
+00:12:41,680 --> 00:12:46,880
+Next thing I'm looking at is domains.
+
+319
+00:12:44,400 --> 00:12:49,360
+So like, okay, maybe you scoured 130
+
+320
+00:12:46,880 --> 00:12:52,800
+sources, but every single one of them
+
+321
+00:12:49,360 --> 00:12:55,440
+was like Kora or Reddit and you didn't
+
+322
+00:12:52,800 --> 00:12:59,760
+have any diversity in your sources
+
+323
+00:12:55,440 --> 00:13:02,480
+domains. I believe Perplexity got like I
+
+324
+00:12:59,760 --> 00:13:06,080
+don't know, I think like seven or so.
+
+325
+00:13:02,480 --> 00:13:08,640
+Um, Perplexity Computer
+
+326
+00:13:06,080 --> 00:13:12,240
+last time I ran this
+
+327
+00:13:08,640 --> 00:13:14,720
+got over 30 domains.
+
+328
+00:13:12,240 --> 00:13:16,080
+So, when it comes to comparing tools,
+
+329
+00:13:14,720 --> 00:13:17,920
+you know, to me there's a pretty clear
+
+330
+00:13:16,080 --> 00:13:19,360
+winner. And by the way, I'm always split
+
+331
+00:13:17,920 --> 00:13:22,080
+testing like these research tools. In
+
+332
+00:13:19,360 --> 00:13:24,560
+fact, I split tested Perplexity Computer
+
+333
+00:13:22,080 --> 00:13:26,240
+against another thing that actually did
+
+334
+00:13:24,560 --> 00:13:28,720
+better than Perplexity, but not as good
+
+335
+00:13:26,240 --> 00:13:31,680
+as Perplexity Computer, and that was my
+
+336
+00:13:28,720 --> 00:13:34,480
+own Hermes Agent.
+
+337
+00:13:31,680 --> 00:13:37,360
+I literally had a Hermes agent follow
+
+338
+00:13:34,480 --> 00:13:40,160
+this prompt as well and it did better in
+
+339
+00:13:37,360 --> 00:13:42,640
+every area compared to Perplexity, but
+
+340
+00:13:40,160 --> 00:13:45,760
+it did not beat Perplexity Computer. So,
+
+341
+00:13:42,640 --> 00:13:47,120
+the overall winner was absolutely
+
+342
+00:13:45,760 --> 00:13:48,560
+Perplexity Computer. Just so that you
+
+343
+00:13:47,120 --> 00:13:51,200
+know, when it comes to research, I have
+
+344
+00:13:48,560 --> 00:13:52,720
+my foundational docs. Um, somebody if
+
+345
+00:13:51,200 --> 00:13:55,680
+you could please share them. Share the
+
+346
+00:13:52,720 --> 00:13:57,200
+foundational docs uh document if I have
+
+347
+00:13:55,680 --> 00:13:58,320
+any mods in the chat. I don't know if
+
+348
+00:13:57,200 --> 00:13:59,920
+you guys could share it, that'd be
+
+349
+00:13:58,320 --> 00:14:02,320
+great.
+
+350
+00:13:59,920 --> 00:14:04,320
+Um, but research is where everything
+
+351
+00:14:02,320 --> 00:14:08,000
+comes from. Now, the reason I brought up
+
+352
+00:14:04,320 --> 00:14:10,320
+William in that BBA interview is because
+
+353
+00:14:08,000 --> 00:14:12,720
+on that call that he had with one of our
+
+354
+00:14:10,320 --> 00:14:14,400
+coaches, our coaching, our coaches gave
+
+355
+00:14:12,720 --> 00:14:16,560
+him a very, very specific piece of
+
+356
+00:14:14,400 --> 00:14:17,680
+feedback. And that was, "Did you do the
+
+357
+00:14:16,560 --> 00:14:20,000
+foundational doc?" And he was like,
+
+358
+00:14:17,680 --> 00:14:22,720
+"Yes." And then he was like, "Did you
+
+359
+00:14:20,000 --> 00:14:24,560
+read the full research document from top
+
+360
+00:14:22,720 --> 00:14:27,360
+to bottom?" And William at the time
+
+361
+00:14:24,560 --> 00:14:29,920
+said, "No,
+
+362
+00:14:27,360 --> 00:14:31,680
+you can have AI do work for you, but to
+
+363
+00:14:29,920 --> 00:14:34,000
+become a great marketer, you have to
+
+364
+00:14:31,680 --> 00:14:35,760
+understand you need to know your
+
+365
+00:14:34,000 --> 00:14:38,160
+customer better than they know
+
+366
+00:14:35,760 --> 00:14:41,040
+themselves." I'm not saying your AI
+
+367
+00:14:38,160 --> 00:14:43,280
+agent needs to know your customer better
+
+368
+00:14:41,040 --> 00:14:45,200
+than they know themselves. You do. You
+
+369
+00:14:43,280 --> 00:14:46,720
+do. If there's one document that you
+
+370
+00:14:45,200 --> 00:14:49,840
+should read in the entire foundational
+
+371
+00:14:46,720 --> 00:14:51,520
+docs, it is your [ __ ] research doc.
+
+372
+00:14:49,840 --> 00:14:54,000
+And what you should do is get really
+
+373
+00:14:51,520 --> 00:14:57,440
+high quality research, sit down for an
+
+374
+00:14:54,000 --> 00:14:59,680
+hour. Uh, pop it open in a Google doc,
+
+375
+00:14:57,440 --> 00:15:01,920
+whatever you want to do. And what you're
+
+376
+00:14:59,680 --> 00:15:03,600
+going to do is go through and just
+
+377
+00:15:01,920 --> 00:15:05,840
+[ __ ]
+
+378
+00:15:03,600 --> 00:15:07,120
+see if I have a You're just going to go
+
+379
+00:15:05,840 --> 00:15:09,600
+and highlight [ __ ] You're going to
+
+380
+00:15:07,120 --> 00:15:13,360
+highlight the takeaways. Highlight.
+
+381
+00:15:09,600 --> 00:15:14,800
+You're going to add comments, right?
+
+382
+00:15:13,360 --> 00:15:16,400
+Going to add little, you know, comments
+
+383
+00:15:14,800 --> 00:15:17,440
+here and there. Comments here and there.
+
+384
+00:15:16,400 --> 00:15:20,160
+and you're just going to go down this
+
+385
+00:15:17,440 --> 00:15:22,800
+entire longass document and understand
+
+386
+00:15:20,160 --> 00:15:25,920
+your market to a level that nobody
+
+387
+00:15:22,800 --> 00:15:27,440
+nobody ever really has. And when you do
+
+388
+00:15:25,920 --> 00:15:28,400
+that, you'll be able to understand
+
+389
+00:15:27,440 --> 00:15:29,760
+things when you're creating your
+
+390
+00:15:28,400 --> 00:15:31,440
+landers, when you're creating your ads,
+
+391
+00:15:29,760 --> 00:15:32,960
+when you're writing your [ __ ] hooks,
+
+392
+00:15:31,440 --> 00:15:35,440
+which is what I'm talking about in this
+
+393
+00:15:32,960 --> 00:15:37,920
+video right now, that your AI will never
+
+394
+00:15:35,440 --> 00:15:40,160
+actually pick up.
+
+395
+00:15:37,920 --> 00:15:43,680
+It'll pick it up if you ask it directly.
+
+396
+00:15:40,160 --> 00:15:46,320
+But this is one of those like unknown
+
+397
+00:15:43,680 --> 00:15:47,840
+knowns where if you don't ask directly
+
+398
+00:15:46,320 --> 00:15:49,760
+about something super specific that you
+
+399
+00:15:47,840 --> 00:15:51,840
+highlighted, for example, then the AI is
+
+400
+00:15:49,760 --> 00:15:53,840
+not going to bring it up themselves. So
+
+401
+00:15:51,840 --> 00:15:56,400
+they can help with ideiation, but they
+
+402
+00:15:53,840 --> 00:15:58,320
+should help your own ideation that is
+
+403
+00:15:56,400 --> 00:16:01,040
+already there existing. Does that make
+
+404
+00:15:58,320 --> 00:16:03,520
+sense? This alone, I think for many of
+
+405
+00:16:01,040 --> 00:16:05,280
+you that are struggling finding and
+
+406
+00:16:03,520 --> 00:16:07,600
+creating profitable ads, you need to
+
+407
+00:16:05,280 --> 00:16:09,760
+[ __ ] understand your customers, bro.
+
+408
+00:16:07,600 --> 00:16:12,000
+I was talking to another uh another BBA
+
+409
+00:16:09,760 --> 00:16:13,120
+student actually. He went through this
+
+410
+00:16:12,000 --> 00:16:14,160
+process. I told him, "Did you read it?"
+
+411
+00:16:13,120 --> 00:16:16,240
+He said, "No." I said, "Go read your
+
+412
+00:16:14,160 --> 00:16:19,040
+[ __ ] research doc." He took an exact
+
+413
+00:16:16,240 --> 00:16:21,120
+quote from the research document, ran
+
+414
+00:16:19,040 --> 00:16:22,800
+that quote, that quote as a hook for a
+
+415
+00:16:21,120 --> 00:16:27,080
+native static, and now it's one of his
+
+416
+00:16:22,800 --> 00:16:27,080
+most profitable ads that he's running.
+
+417
+00:16:28,320 --> 00:16:32,640
+It's all there. It's all there. You just
+
+418
+00:16:30,480 --> 00:16:34,880
+have to stop being a lazy [ __ ] and read
+
+419
+00:16:32,640 --> 00:16:36,960
+it.
+
+420
+00:16:34,880 --> 00:16:39,520
+Now, the re the foundational docs
+
+421
+00:16:36,960 --> 00:16:40,880
+process is, you know, one of many ways
+
+422
+00:16:39,520 --> 00:16:43,040
+that you can do really good research,
+
+423
+00:16:40,880 --> 00:16:46,040
+right? We have, let me write this down.
+
+424
+00:16:43,040 --> 00:16:46,040
+Foundational
+
+425
+00:16:50,640 --> 00:16:57,360
+foundational dicks, foundational docks.
+
+426
+00:16:54,240 --> 00:17:02,200
+So the next method that you can use for
+
+427
+00:16:57,360 --> 00:17:02,200
+research is what I call intentional
+
+428
+00:17:04,800 --> 00:17:08,200
+doom scrolling.
+
+429
+00:17:09,200 --> 00:17:13,680
+And this is where you set up a burner
+
+430
+00:17:11,040 --> 00:17:16,720
+account on Facebook and Instagram,
+
+431
+00:17:13,680 --> 00:17:18,640
+especially Facebook.
+
+432
+00:17:16,720 --> 00:17:20,960
+You literally get it on your phone
+
+433
+00:17:18,640 --> 00:17:22,960
+ideally. If not, try to use the mobile
+
+434
+00:17:20,960 --> 00:17:24,880
+version on your desktop and you're going
+
+435
+00:17:22,960 --> 00:17:26,480
+to legitimately doom scroll after
+
+436
+00:17:24,880 --> 00:17:28,080
+training your burner account on your
+
+437
+00:17:26,480 --> 00:17:30,640
+particular market by going and liking
+
+438
+00:17:28,080 --> 00:17:32,480
+other pages, uh, by commenting on post,
+
+439
+00:17:30,640 --> 00:17:34,160
+by clicking on links, by going through
+
+440
+00:17:32,480 --> 00:17:35,520
+the entire checkout process, aband
+
+441
+00:17:34,160 --> 00:17:36,880
+hitting checkout. You're going to train
+
+442
+00:17:35,520 --> 00:17:38,720
+your algorithm. I don't need to go over
+
+443
+00:17:36,880 --> 00:17:40,240
+how to create a burner account, like how
+
+444
+00:17:38,720 --> 00:17:41,760
+to create a burner profile, but that's
+
+445
+00:17:40,240 --> 00:17:43,760
+exactly what you do. And then you're
+
+446
+00:17:41,760 --> 00:17:45,040
+going to start intentionally doom doom
+
+447
+00:17:43,760 --> 00:17:47,040
+scrolling. You want to doom scroll and
+
+448
+00:17:45,040 --> 00:17:48,560
+you want to be sucked in, but you also
+
+449
+00:17:47,040 --> 00:17:50,880
+want to be conscious. You don't want to
+
+450
+00:17:48,560 --> 00:17:52,240
+be completely subconscious separated
+
+451
+00:17:50,880 --> 00:17:54,320
+from the fact you're just consuming
+
+452
+00:17:52,240 --> 00:17:56,880
+useless media. You're consuming media
+
+453
+00:17:54,320 --> 00:17:59,360
+with the intention of identifying hooks
+
+454
+00:17:56,880 --> 00:18:00,880
+of identifying emotional hot points by
+
+455
+00:17:59,360 --> 00:18:03,120
+looking at the comments, looking at the
+
+456
+00:18:00,880 --> 00:18:05,520
+top comments of like these really
+
+457
+00:18:03,120 --> 00:18:07,360
+polarizing posts and using those as
+
+458
+00:18:05,520 --> 00:18:10,240
+hooks, using those as additional points
+
+459
+00:18:07,360 --> 00:18:12,400
+of research. This is super super uh
+
+460
+00:18:10,240 --> 00:18:14,080
+underrated in general. And you want to
+
+461
+00:18:12,400 --> 00:18:15,680
+observe like what is making you stop
+
+462
+00:18:14,080 --> 00:18:18,960
+scrolling
+
+463
+00:18:15,680 --> 00:18:22,080
+because even when you're in a niche,
+
+464
+00:18:18,960 --> 00:18:23,680
+there's this uh you just kind of get
+
+465
+00:18:22,080 --> 00:18:25,200
+lulled into the doom scrolling, but
+
+466
+00:18:23,680 --> 00:18:27,200
+eventually there's going to be something
+
+467
+00:18:25,200 --> 00:18:30,560
+that you scroll and you're like, "Holy
+
+468
+00:18:27,200 --> 00:18:32,720
+shit." And that is the kind of content
+
+469
+00:18:30,560 --> 00:18:34,560
+you want to emulate when it comes to
+
+470
+00:18:32,720 --> 00:18:36,000
+writing really good hooks. And that is
+
+471
+00:18:34,560 --> 00:18:40,560
+an incredible form of research that most
+
+472
+00:18:36,000 --> 00:18:44,080
+people just do not um just do not do.
+
+473
+00:18:40,560 --> 00:18:46,160
+Okay. So, as an example, right, with the
+
+474
+00:18:44,080 --> 00:18:48,240
+deep research that I'm speaking about
+
+475
+00:18:46,160 --> 00:18:52,520
+and the
+
+476
+00:18:48,240 --> 00:18:52,520
+uh what's the [ __ ] name?
+
+477
+00:18:53,840 --> 00:18:57,960
+Foundational docs. Yes.
+
+478
+00:19:01,020 --> 00:19:03,040
+[snorts]
+
+479
+00:19:05,920 --> 00:19:09,920
+What I'm talking about. Now, this one is
+
+480
+00:19:07,360 --> 00:19:12,080
+a little bit shorter, right? Uh, but
+
+481
+00:19:09,920 --> 00:19:15,120
+what I'm talking about is going through
+
+482
+00:19:12,080 --> 00:19:17,440
+with a highlighter like this and just
+
+483
+00:19:15,120 --> 00:19:18,960
+highlighting [ __ ]
+
+484
+00:19:17,440 --> 00:19:21,200
+Specifically, the main things I'm going
+
+485
+00:19:18,960 --> 00:19:23,120
+to be looking at is going to be the
+
+486
+00:19:21,200 --> 00:19:25,440
+customer beliefs, emotions, hopes, and
+
+487
+00:19:23,120 --> 00:19:27,360
+fears. I want to look at all these pain
+
+488
+00:19:25,440 --> 00:19:28,800
+points, and I want to literally
+
+489
+00:19:27,360 --> 00:19:30,880
+underline things, bold it, like do
+
+490
+00:19:28,800 --> 00:19:32,400
+whatever you want to do. But this is
+
+491
+00:19:30,880 --> 00:19:35,120
+going to train your brain on how to
+
+492
+00:19:32,400 --> 00:19:37,520
+think when it comes to writing and
+
+493
+00:19:35,120 --> 00:19:38,560
+writing really good hooks. So, I don't
+
+494
+00:19:37,520 --> 00:19:42,520
+think I need to go through that, but
+
+495
+00:19:38,560 --> 00:19:42,520
+that's exactly what you would do.
+
+496
+00:19:43,360 --> 00:19:48,080
+Okay. So, if you've done your research,
+
+497
+00:19:45,920 --> 00:19:49,120
+you're already better than 99% of people
+
+498
+00:19:48,080 --> 00:19:51,200
+when it comes to writing really good
+
+499
+00:19:49,120 --> 00:19:52,800
+ads. And again, I don't mean just
+
+500
+00:19:51,200 --> 00:19:55,440
+conducting the foundational docs, like
+
+501
+00:19:52,800 --> 00:19:57,440
+go farther because the moment that
+
+502
+00:19:55,440 --> 00:19:59,520
+something becomes like mainstream and
+
+503
+00:19:57,440 --> 00:20:01,600
+standard practice, everybody uses the
+
+504
+00:19:59,520 --> 00:20:02,960
+[ __ ] foundational docs now. So, if
+
+505
+00:20:01,600 --> 00:20:04,240
+you're running the same product as
+
+506
+00:20:02,960 --> 00:20:06,720
+somebody else, how do you have any
+
+507
+00:20:04,240 --> 00:20:09,520
+competitive advantage over them? Hm. You
+
+508
+00:20:06,720 --> 00:20:11,360
+don't. You [ __ ] don't. Which means
+
+509
+00:20:09,520 --> 00:20:12,880
+you're going to lose to them. Your AI is
+
+510
+00:20:11,360 --> 00:20:16,000
+going to come up with the exact same ad
+
+511
+00:20:12,880 --> 00:20:17,760
+angles as theirs. So now you're really
+
+512
+00:20:16,000 --> 00:20:19,600
+in the [ __ ] [ __ ] and you got you
+
+513
+00:20:17,760 --> 00:20:20,640
+got some work to do. So just like
+
+514
+00:20:19,600 --> 00:20:22,080
+anything, when something becomes
+
+515
+00:20:20,640 --> 00:20:24,800
+standard practice, when it becomes the
+
+516
+00:20:22,080 --> 00:20:27,200
+norm, you still have to follow this
+
+517
+00:20:24,800 --> 00:20:33,080
+fundamental [ __ ] principle of
+
+518
+00:20:27,200 --> 00:20:33,080
+marketing, which is creating contrast.
+
+519
+00:20:37,520 --> 00:20:43,600
+And yes, I wrote this in red. It's to
+
+520
+00:20:40,720 --> 00:20:45,280
+explain the [ __ ] point.
+
+521
+00:20:43,600 --> 00:20:48,680
+You want to create as much contrast as
+
+522
+00:20:45,280 --> 00:20:48,680
+humanly possible.
+
+523
+00:20:48,960 --> 00:20:55,280
+All right. So, I want to look at a few
+
+524
+00:20:52,480 --> 00:20:57,200
+different ads here, and we're going to
+
+525
+00:20:55,280 --> 00:20:59,680
+break them down together, and I'm going
+
+526
+00:20:57,200 --> 00:21:01,840
+to tell you why they're successful,
+
+527
+00:20:59,680 --> 00:21:03,840
+and you're going to be able to emulate
+
+528
+00:21:01,840 --> 00:21:06,480
+those for yourself. I'll tell you this
+
+529
+00:21:03,840 --> 00:21:08,560
+as one final note before we do this. One
+
+530
+00:21:06,480 --> 00:21:10,080
+of my copywriting mentors, uh, she
+
+531
+00:21:08,560 --> 00:21:13,760
+taught me about a concept called your
+
+532
+00:21:10,080 --> 00:21:15,120
+copy diet. And your copy diet is the
+
+533
+00:21:13,760 --> 00:21:16,640
+copy that you're reading to train
+
+534
+00:21:15,120 --> 00:21:18,720
+yourself to become become a better
+
+535
+00:21:16,640 --> 00:21:20,400
+copywriter. In the same way that if you
+
+536
+00:21:18,720 --> 00:21:22,320
+have a really [ __ ] diet and all you eat
+
+537
+00:21:20,400 --> 00:21:24,560
+is [ __ ] McDonald's and you eat
+
+538
+00:21:22,320 --> 00:21:27,200
+[ __ ] [ __ ] fast foods every
+
+539
+00:21:24,560 --> 00:21:28,560
+[ __ ] meal of the day,
+
+540
+00:21:27,200 --> 00:21:30,080
+then your body's going to represent
+
+541
+00:21:28,560 --> 00:21:32,480
+that. In the same way, if you're reading
+
+542
+00:21:30,080 --> 00:21:35,840
+really [ __ ] copy and you just continue
+
+543
+00:21:32,480 --> 00:21:39,040
+to train your your your copy chops that
+
+544
+00:21:35,840 --> 00:21:40,720
+this is good, it's not good and you're
+
+545
+00:21:39,040 --> 00:21:42,720
+just going to make yourself and your AI
+
+546
+00:21:40,720 --> 00:21:45,280
+spit out really really poor quality
+
+547
+00:21:42,720 --> 00:21:48,480
+copy. So, when it comes to swiping and
+
+548
+00:21:45,280 --> 00:21:50,160
+analyzing successful competitors, I only
+
+549
+00:21:48,480 --> 00:21:52,000
+look for these brands that are doing
+
+550
+00:21:50,160 --> 00:21:55,520
+like
+
+551
+00:21:52,000 --> 00:21:57,600
+that that I know that there's a strong
+
+552
+00:21:55,520 --> 00:22:00,240
+direct response
+
+553
+00:21:57,600 --> 00:22:01,520
+presence in the hooks. And I'll show you
+
+554
+00:22:00,240 --> 00:22:02,720
+exactly what I mean because I got some
+
+555
+00:22:01,520 --> 00:22:05,080
+good examples here. All right, let's
+
+556
+00:22:02,720 --> 00:22:07,100
+look at this one first.
+
+557
+00:22:05,080 --> 00:22:07,100
+[snorts]
+
+558
+00:22:34,400 --> 00:22:37,920
+All righty. Again, we're analyzing video
+
+559
+00:22:36,240 --> 00:22:39,360
+hooks here. Maybe if I have some time at
+
+560
+00:22:37,920 --> 00:22:42,880
+the end, I'll try to get to image hooks.
+
+561
+00:22:39,360 --> 00:22:44,720
+But let's take a little look see what we
+
+562
+00:22:42,880 --> 00:22:46,000
+got here.
+
+563
+00:22:44,720 --> 00:22:48,160
+>> Can you see it?
+
+564
+00:22:46,000 --> 00:22:49,200
+>> I think so. Yeah. Oh, yeah. Yeah, yeah,
+
+565
+00:22:48,160 --> 00:22:52,080
+yeah. Oh, wow. Yeah.
+
+566
+00:22:49,200 --> 00:22:55,080
+>> Oh, wow.
+
+567
+00:22:52,080 --> 00:22:55,080
+>> Okay.
+
+568
+00:22:55,760 --> 00:23:00,640
+Please steal this. Okay. Please steal
+
+569
+00:22:58,000 --> 00:23:03,440
+this. Specifically asking if they can
+
+570
+00:23:00,640 --> 00:23:06,080
+see something. If you ask like, "Can you
+
+571
+00:23:03,440 --> 00:23:08,240
+see this? Do you see this? Do you see
+
+572
+00:23:06,080 --> 00:23:11,760
+what I'm looking at?" You're not giving
+
+573
+00:23:08,240 --> 00:23:14,720
+people a demand, but you are
+
+574
+00:23:11,760 --> 00:23:16,960
+commanding an action that is a
+
+575
+00:23:14,720 --> 00:23:18,720
+subliminal
+
+576
+00:23:16,960 --> 00:23:20,720
+uh what's the [ __ ] word? Micro
+
+577
+00:23:18,720 --> 00:23:22,400
+commitment.
+
+578
+00:23:20,720 --> 00:23:24,400
+It's a subliminal micro commitment.
+
+579
+00:23:22,400 --> 00:23:26,400
+You'll notice if you study some really
+
+580
+00:23:24,400 --> 00:23:28,000
+good uh sales people, especially sales
+
+581
+00:23:26,400 --> 00:23:29,520
+people like in person, like you think of
+
+582
+00:23:28,000 --> 00:23:32,640
+somebody like Tony Robbins, like this
+
+583
+00:23:29,520 --> 00:23:34,720
+dude sells people for a [ __ ] living,
+
+584
+00:23:32,640 --> 00:23:36,560
+literally. And he gets on these stages
+
+585
+00:23:34,720 --> 00:23:38,320
+in front of, you know, tens of thousands
+
+586
+00:23:36,560 --> 00:23:40,160
+of people. And he gets these people to
+
+587
+00:23:38,320 --> 00:23:41,760
+[ __ ] run up to the stage all through
+
+588
+00:23:40,160 --> 00:23:43,600
+his words and his actions and how he
+
+589
+00:23:41,760 --> 00:23:45,440
+speaks.
+
+590
+00:23:43,600 --> 00:23:46,880
+And he understands this concept of
+
+591
+00:23:45,440 --> 00:23:48,560
+getting micro commitments from people.
+
+592
+00:23:46,880 --> 00:23:51,200
+If you've ever been to a Tony Robbins
+
+593
+00:23:48,560 --> 00:23:54,000
+event, which I have, and it was it was
+
+594
+00:23:51,200 --> 00:23:55,840
+[ __ ] crazy. [snorts]
+
+595
+00:23:54,000 --> 00:23:57,040
+What is he always asking you to do? He's
+
+596
+00:23:55,840 --> 00:23:57,920
+like, "Raise your hand if you're this.
+
+597
+00:23:57,040 --> 00:23:58,960
+Raise your hand if you're that. Raise
+
+598
+00:23:57,920 --> 00:24:00,560
+your hand if you're this." Micro
+
+599
+00:23:58,960 --> 00:24:02,160
+commitment. Micro commitment. [ __ ]
+
+600
+00:24:00,560 --> 00:24:04,000
+micro commitment. Another one. Everybody
+
+601
+00:24:02,160 --> 00:24:06,160
+stand up. He starts clapping. Everybody
+
+602
+00:24:04,000 --> 00:24:08,080
+stand up. Everybody stand up. It's like
+
+603
+00:24:06,160 --> 00:24:11,600
+he's getting people bought in with every
+
+604
+00:24:08,080 --> 00:24:12,960
+individual word. Anytime that
+
+605
+00:24:11,600 --> 00:24:14,560
+you tell somebody to do something and
+
+606
+00:24:12,960 --> 00:24:15,920
+they do it, no matter how small, that's
+
+607
+00:24:14,560 --> 00:24:18,080
+a micro commitment and that's getting
+
+608
+00:24:15,920 --> 00:24:20,480
+them closer and closer and closer to
+
+609
+00:24:18,080 --> 00:24:22,400
+becoming a customer. Everything in the
+
+610
+00:24:20,480 --> 00:24:24,320
+way that he speaks and talks, you want
+
+611
+00:24:22,400 --> 00:24:26,880
+to get really good at copy, just go, you
+
+612
+00:24:24,320 --> 00:24:29,440
+know, go go watch some some Tony Robbins
+
+613
+00:24:26,880 --> 00:24:30,960
+events, dude, and you'll see exactly
+
+614
+00:24:29,440 --> 00:24:32,720
+everything that he does. It's just so
+
+615
+00:24:30,960 --> 00:24:34,400
+incredibly intentional. Nothing is by
+
+616
+00:24:32,720 --> 00:24:37,200
+accident. Not the way that he speaks,
+
+617
+00:24:34,400 --> 00:24:39,120
+the way that he [ __ ] claps, uh,
+
+618
+00:24:37,200 --> 00:24:41,040
+everything that he asks his audience to
+
+619
+00:24:39,120 --> 00:24:43,040
+do. I'm not even a Tony Robbins lover
+
+620
+00:24:41,040 --> 00:24:45,840
+like that. Like, I I'm neutral about the
+
+621
+00:24:43,040 --> 00:24:47,280
+dude, but I understand who's got game
+
+622
+00:24:45,840 --> 00:24:49,120
+and who understands this [ __ ] at a
+
+623
+00:24:47,280 --> 00:24:51,360
+psychotic level. And he is one of those
+
+624
+00:24:49,120 --> 00:24:52,400
+people. He's absolutely one of those
+
+625
+00:24:51,360 --> 00:24:54,240
+people.
+
+626
+00:24:52,400 --> 00:24:57,120
+>> Can you see it
+
+627
+00:24:54,240 --> 00:24:58,720
+>> already?
+
+628
+00:24:57,120 --> 00:25:01,280
+Really [ __ ] good. Also understand the
+
+629
+00:24:58,720 --> 00:25:02,640
+inflection in the voice. like the
+
+630
+00:25:01,280 --> 00:25:03,920
+inflection of the voice. So here, let's
+
+631
+00:25:02,640 --> 00:25:06,240
+break this down, right? Because we
+
+632
+00:25:03,920 --> 00:25:07,680
+talked about this triangle, this
+
+633
+00:25:06,240 --> 00:25:09,920
+beautiful triangle we have up here of
+
+634
+00:25:07,680 --> 00:25:11,840
+copy, audio, and scroll stopper. In this
+
+635
+00:25:09,920 --> 00:25:14,960
+case,
+
+636
+00:25:11,840 --> 00:25:16,720
+in this case, the audio is actually the
+
+637
+00:25:14,960 --> 00:25:18,480
+way that partly the way that this woman
+
+638
+00:25:16,720 --> 00:25:21,520
+is talking. This was a dude that was
+
+639
+00:25:18,480 --> 00:25:23,200
+just like, can you see this? Versus this
+
+640
+00:25:21,520 --> 00:25:25,440
+woman who has this upward inflection in
+
+641
+00:25:23,200 --> 00:25:28,080
+her voice, this upspeak at the very end
+
+642
+00:25:25,440 --> 00:25:29,520
+to signify like a question and get you
+
+643
+00:25:28,080 --> 00:25:32,800
+more bought in because you want to know
+
+644
+00:25:29,520 --> 00:25:34,880
+the answer. And also she says, "Can you
+
+645
+00:25:32,800 --> 00:25:36,880
+see it?" What the [ __ ] am I supposed to
+
+646
+00:25:34,880 --> 00:25:40,400
+see?
+
+647
+00:25:36,880 --> 00:25:42,560
+Open open [laughter] loop.
+
+648
+00:25:40,400 --> 00:25:43,920
+Um, so that's kind of the audio piece,
+
+649
+00:25:42,560 --> 00:25:45,760
+right? Let's look at the copy. So the
+
+650
+00:25:43,920 --> 00:25:47,780
+copy is twofold here. We have the copy
+
+651
+00:25:45,760 --> 00:25:48,720
+that's actually on the screen,
+
+652
+00:25:47,780 --> 00:25:50,720
+[clears throat]
+
+653
+00:25:48,720 --> 00:25:54,560
+number one, which we'll get into, but we
+
+654
+00:25:50,720 --> 00:25:56,960
+also have the copy of the audio. And the
+
+655
+00:25:54,560 --> 00:25:58,800
+audio is basically, can you see it? And
+
+656
+00:25:56,960 --> 00:25:59,280
+then these guys reacting to whatever it
+
+657
+00:25:58,800 --> 00:26:01,360
+is.
+
+658
+00:25:59,280 --> 00:26:02,480
+>> I think so. Oh yeah. Oh yeah. Yeah.
+
+659
+00:26:01,360 --> 00:26:03,600
+Yeah. Oh wow. Yeah.
+
+660
+00:26:02,480 --> 00:26:05,040
+>> Oh wow.
+
+661
+00:26:03,600 --> 00:26:06,960
+>> That was it. Right. That's that's the
+
+662
+00:26:05,040 --> 00:26:08,240
+[ __ ] hook right there. It's like can
+
+663
+00:26:06,960 --> 00:26:11,520
+you see it? I think I can see it. Oh
+
+664
+00:26:08,240 --> 00:26:14,000
+wow. Oh wow. Oh wow.
+
+665
+00:26:11,520 --> 00:26:16,400
+You know. So
+
+666
+00:26:14,000 --> 00:26:18,160
+now that's from a copyrightiting
+
+667
+00:26:16,400 --> 00:26:21,760
+perspective. You know there's not a
+
+668
+00:26:18,160 --> 00:26:23,520
+whole lot to dissect there. It's just
+
+669
+00:26:21,760 --> 00:26:24,560
+a wild reaction to something where we
+
+670
+00:26:23,520 --> 00:26:25,680
+don't actually know what the [ __ ] is
+
+671
+00:26:24,560 --> 00:26:27,840
+happening except for this woman's
+
+672
+00:26:25,680 --> 00:26:30,000
+shoulder or neck is moving. Right now,
+
+673
+00:26:27,840 --> 00:26:33,000
+let's look at the copy that is actually
+
+674
+00:26:30,000 --> 00:26:33,000
+on
+
+675
+00:26:34,000 --> 00:26:38,640
+uh the screen here. Let me see if I can
+
+676
+00:26:35,680 --> 00:26:40,880
+zoom in a little bit more. Yeah. Okay.
+
+677
+00:26:38,640 --> 00:26:42,960
+To the [ __ ] who gave me this
+
+678
+00:26:40,880 --> 00:26:45,840
+device, this is the first time I felt a
+
+679
+00:26:42,960 --> 00:26:47,440
+brain orgasm. So,
+
+680
+00:26:45,840 --> 00:26:49,040
+few things that were done right here. To
+
+681
+00:26:47,440 --> 00:26:51,520
+the [ __ ] [ __ ] blurred
+
+682
+00:26:49,040 --> 00:26:53,680
+out, but also anytime you include
+
+683
+00:26:51,520 --> 00:26:55,280
+cursing in a hook, you're just asking
+
+684
+00:26:53,680 --> 00:26:57,760
+for polarity. Cursing is one of those
+
+685
+00:26:55,280 --> 00:26:59,360
+things that, you know, I feel like it's
+
+686
+00:26:57,760 --> 00:27:01,840
+become relatively normalized over the
+
+687
+00:26:59,360 --> 00:27:04,320
+last like 20 years, but it's still very
+
+688
+00:27:01,840 --> 00:27:05,840
+polarizing. Like if somebody curses, you
+
+689
+00:27:04,320 --> 00:27:07,360
+can assume certain things about that
+
+690
+00:27:05,840 --> 00:27:09,200
+person in the same way that if somebody
+
+691
+00:27:07,360 --> 00:27:10,720
+is super against cursing that you can
+
+692
+00:27:09,200 --> 00:27:12,880
+also assume certain things about that as
+
+693
+00:27:10,720 --> 00:27:15,520
+well. It it creates a divide. It's
+
+694
+00:27:12,880 --> 00:27:17,840
+polarizing.
+
+695
+00:27:15,520 --> 00:27:20,400
+And polariz polarizing is almost
+
+696
+00:27:17,840 --> 00:27:21,760
+synonymous with creating contrast. If
+
+697
+00:27:20,400 --> 00:27:23,600
+you have if you have a high degree of
+
+698
+00:27:21,760 --> 00:27:25,040
+polarity,
+
+699
+00:27:23,600 --> 00:27:26,480
+like if you think of like political
+
+700
+00:27:25,040 --> 00:27:29,680
+polarity, there's also political
+
+701
+00:27:26,480 --> 00:27:32,480
+contrast. Very very uh almost synonyms
+
+702
+00:27:29,680 --> 00:27:34,320
+for one another.
+
+703
+00:27:32,480 --> 00:27:36,400
+So to [ __ ] who gave me this
+
+704
+00:27:34,320 --> 00:27:38,240
+device, another open loop here. Very
+
+705
+00:27:36,400 --> 00:27:40,960
+simple way to do this. Anytime you're
+
+706
+00:27:38,240 --> 00:27:42,800
+speaking, always say this instead of
+
+707
+00:27:40,960 --> 00:27:44,800
+explaining what this is because she's
+
+708
+00:27:42,800 --> 00:27:46,320
+saying this device, I can barely see it.
+
+709
+00:27:44,800 --> 00:27:47,440
+Like I would not see this as voucher
+
+710
+00:27:46,320 --> 00:27:48,480
+scrolling on her phone. the fact that
+
+711
+00:27:47,440 --> 00:27:51,480
+there's something around her neck right
+
+712
+00:27:48,480 --> 00:27:51,480
+now.
+
+713
+00:27:54,480 --> 00:27:58,400
+This is the first time I felt a brain
+
+714
+00:27:56,640 --> 00:28:02,240
+orgasm.
+
+715
+00:27:58,400 --> 00:28:05,040
+Dope, dope, dope [ __ ] term there. Um,
+
+716
+00:28:02,240 --> 00:28:06,720
+in all caps with an emoji and also kind
+
+717
+00:28:05,040 --> 00:28:08,480
+of designed to look a little bit more
+
+718
+00:28:06,720 --> 00:28:10,880
+native with this kind of like Tik Tok
+
+719
+00:28:08,480 --> 00:28:12,560
+Instagram text. It's very, very subtle
+
+720
+00:28:10,880 --> 00:28:14,160
+detail that I don't even know if it's
+
+721
+00:28:12,560 --> 00:28:17,440
+intentional, but you know, it is what it
+
+722
+00:28:14,160 --> 00:28:20,000
+is. But the brain orgasm piece is really
+
+723
+00:28:17,440 --> 00:28:22,080
+[ __ ] sick. That's almost like a
+
+724
+00:28:20,000 --> 00:28:25,120
+unique mechanism of the solution a
+
+725
+00:28:22,080 --> 00:28:27,040
+little bit. Um, if not, it's just a cool
+
+726
+00:28:25,120 --> 00:28:30,920
+term for the outcome that you can get
+
+727
+00:28:27,040 --> 00:28:30,920
+from using this product.
+
+728
+00:28:33,440 --> 00:28:41,360
+So having [ __ ] and excuse me and
+
+729
+00:28:37,920 --> 00:28:42,720
+orgasm in the same sentence,
+
+730
+00:28:41,360 --> 00:28:45,360
+think about the level of contrast you're
+
+731
+00:28:42,720 --> 00:28:47,440
+create creating there and curiosity. A
+
+732
+00:28:45,360 --> 00:28:49,280
+lot of copy, especially hooks, is just
+
+733
+00:28:47,440 --> 00:28:52,960
+opening as many loops as you possibly
+
+734
+00:28:49,280 --> 00:28:56,080
+can. Opening these tabs in the brain of
+
+735
+00:28:52,960 --> 00:28:57,440
+the person watching the video,
+
+736
+00:28:56,080 --> 00:29:00,640
+knowing that you're going to close them
+
+737
+00:28:57,440 --> 00:29:02,320
+later down the down the line. Now, if I
+
+738
+00:29:00,640 --> 00:29:03,920
+were to be a psycho about this, I think
+
+739
+00:29:02,320 --> 00:29:07,360
+the one thing that could have been done
+
+740
+00:29:03,920 --> 00:29:10,160
+better from this text here is just the
+
+741
+00:29:07,360 --> 00:29:11,520
+length. Because again, think of who's
+
+742
+00:29:10,160 --> 00:29:13,200
+going to be watching this, and they're
+
+743
+00:29:11,520 --> 00:29:14,640
+mostly going to be watching on their
+
+744
+00:29:13,200 --> 00:29:16,320
+phone. Roughly, your phone is going to
+
+745
+00:29:14,640 --> 00:29:18,720
+be about this size. Like, if I hold my
+
+746
+00:29:16,320 --> 00:29:20,800
+phone up to the screen, that would be
+
+747
+00:29:18,720 --> 00:29:24,240
+the actual size. I think I have a iPhone
+
+748
+00:29:20,800 --> 00:29:26,560
+16. So, this is the actual size. I'm not
+
+749
+00:29:24,240 --> 00:29:28,240
+going to read this entire thing as
+
+750
+00:29:26,560 --> 00:29:30,880
+there's speaking going on in the
+
+751
+00:29:28,240 --> 00:29:32,720
+background. I if this were me to adjust
+
+752
+00:29:30,880 --> 00:29:35,440
+this and turn it to something even
+
+753
+00:29:32,720 --> 00:29:37,520
+better, the text on screen should be way
+
+754
+00:29:35,440 --> 00:29:38,800
+more simple. It should be shorter. It
+
+755
+00:29:37,520 --> 00:29:41,600
+should be simple, but it should still
+
+756
+00:29:38,800 --> 00:29:43,760
+punch.
+
+757
+00:29:41,600 --> 00:29:47,800
+So, I think the stronger piece is going
+
+758
+00:29:43,760 --> 00:29:47,800
+to be brain orgasm.
+
+759
+00:29:49,280 --> 00:29:54,640
+Even like first time feeling a brain
+
+760
+00:29:52,640 --> 00:29:58,800
+orgasm, that's better. Still a little
+
+761
+00:29:54,640 --> 00:30:00,480
+bit too long. Um,
+
+762
+00:29:58,800 --> 00:30:02,880
+I think even something as simple as like
+
+763
+00:30:00,480 --> 00:30:04,240
+brain orgasm alone creates a ton of
+
+764
+00:30:02,880 --> 00:30:05,520
+curiosity.
+
+765
+00:30:04,240 --> 00:30:08,080
+>> Can you see it?
+
+766
+00:30:05,520 --> 00:30:10,880
+>> I think so. Yeah. Oh, yeah. Yeah. Yeah.
+
+767
+00:30:08,080 --> 00:30:12,800
+>> Also, just so you know how in-depth I go
+
+768
+00:30:10,880 --> 00:30:14,160
+with these these ad reviews, do you
+
+769
+00:30:12,800 --> 00:30:17,200
+notice how the camera angles are
+
+770
+00:30:14,160 --> 00:30:19,760
+changing? Right. So, first initially, it
+
+771
+00:30:17,200 --> 00:30:22,160
+actually starts in this angle. This is
+
+772
+00:30:19,760 --> 00:30:24,640
+this is that zero minutes in the ad. It
+
+773
+00:30:22,160 --> 00:30:26,720
+lasts for a a few milliseconds. And then
+
+774
+00:30:24,640 --> 00:30:29,430
+it goes to a new camera angle right
+
+775
+00:30:26,720 --> 00:30:31,600
+there. That was under one second.
+
+776
+00:30:29,430 --> 00:30:33,430
+[snorts] And now she's looking off
+
+777
+00:30:31,600 --> 00:30:34,960
+camera, but she's looking to the other
+
+778
+00:30:33,440 --> 00:30:37,280
+camera, but now she's looking off camera
+
+779
+00:30:34,960 --> 00:30:39,760
+directly. And we already have a dynamic
+
+780
+00:30:37,280 --> 00:30:41,360
+camera switch, which, you know, camera
+
+781
+00:30:39,760 --> 00:30:43,360
+uh angle switches can also improve
+
+782
+00:30:41,360 --> 00:30:45,280
+retention a lot because you want to keep
+
+783
+00:30:43,360 --> 00:30:46,480
+it dynamic typically every, you know,
+
+784
+00:30:45,280 --> 00:30:48,080
+two to four seconds.
+
+785
+00:30:46,480 --> 00:30:50,640
+>> Can you see it?
+
+786
+00:30:48,080 --> 00:30:51,840
+>> I think so. Oh, yeah. Oh, yeah. Yeah.
+
+787
+00:30:50,640 --> 00:30:53,360
+Yeah. Oh wow.
+
+788
+00:30:51,840 --> 00:30:55,280
+>> And then whatever the [ __ ] is happening
+
+789
+00:30:53,360 --> 00:30:56,480
+obviously is is a nice little open loop
+
+790
+00:30:55,280 --> 00:30:56,880
+of whatever is actually happening.
+
+791
+00:30:56,480 --> 00:30:58,160
+>> Oh yeah.
+
+792
+00:30:56,880 --> 00:30:59,680
+>> Oh wow.
+
+793
+00:30:58,160 --> 00:31:02,160
+>> Oh
+
+794
+00:30:59,680 --> 00:31:05,120
+okay. I
+
+795
+00:31:02,160 --> 00:31:06,400
+>> All right. We get it. So when people
+
+796
+00:31:05,120 --> 00:31:09,120
+talk about like Mark, I have this
+
+797
+00:31:06,400 --> 00:31:10,800
+winning ad.
+
+798
+00:31:09,120 --> 00:31:12,240
+How do I make more of them? How do I
+
+799
+00:31:10,800 --> 00:31:15,120
+make variations? How do I make
+
+800
+00:31:12,240 --> 00:31:17,440
+iterations? And what I've what I've
+
+801
+00:31:15,120 --> 00:31:19,760
+spoken about here for the last like five
+
+802
+00:31:17,440 --> 00:31:22,480
+or 10 minutes is the first 5 seconds of
+
+803
+00:31:19,760 --> 00:31:25,200
+this ad. This is 2 minutes long. I think
+
+804
+00:31:22,480 --> 00:31:27,440
+a lot of you just don't realize the
+
+805
+00:31:25,200 --> 00:31:29,360
+sheer level of depth you should go to
+
+806
+00:31:27,440 --> 00:31:31,760
+when you analyze your ad creatives,
+
+807
+00:31:29,360 --> 00:31:33,120
+especially the successful ones. Because
+
+808
+00:31:31,760 --> 00:31:35,600
+whether you understand it or not,
+
+809
+00:31:33,120 --> 00:31:38,240
+there's all these psychological triggers
+
+810
+00:31:35,600 --> 00:31:40,160
+that are happening um underneath the
+
+811
+00:31:38,240 --> 00:31:42,400
+surface that I can see as somebody who's
+
+812
+00:31:40,160 --> 00:31:46,720
+been practicing copy for like eight
+
+813
+00:31:42,400 --> 00:31:48,960
+years, but most people just don't see it
+
+814
+00:31:46,720 --> 00:31:52,640
+or they just choose not to analyze this
+
+815
+00:31:48,960 --> 00:31:54,480
+deeply because they're [ __ ] lazy. So,
+
+816
+00:31:52,640 --> 00:31:56,720
+that was a cool ad. Uh kind of like a
+
+817
+00:31:54,480 --> 00:31:59,200
+product demo
+
+818
+00:31:56,720 --> 00:32:01,360
+and super high curiosity, super duper
+
+819
+00:31:59,200 --> 00:32:03,520
+broad as well. Like this is the textbook
+
+820
+00:32:01,360 --> 00:32:05,040
+definition of like a top offunnel
+
+821
+00:32:03,520 --> 00:32:07,280
+creative. Even though the product is
+
+822
+00:32:05,040 --> 00:32:09,280
+immediately being shown, this product
+
+823
+00:32:07,280 --> 00:32:11,120
+>> product demos typically are a little bit
+
+824
+00:32:09,280 --> 00:32:12,240
+more middle or bottom funnel, but here
+
+825
+00:32:11,120 --> 00:32:13,600
+it's being used in a way that's
+
+826
+00:32:12,240 --> 00:32:17,400
+definitely top of funnel. Let's move on
+
+827
+00:32:13,600 --> 00:32:17,400
+to the next ad here.
+
+828
+00:32:23,200 --> 00:32:28,240
+All right, these guys scaling up their
+
+829
+00:32:25,440 --> 00:32:30,880
+uh creative production as you can see
+
+830
+00:32:28,240 --> 00:32:33,040
+already in September. have tested triple
+
+831
+00:32:30,880 --> 00:32:36,040
+the ads that they were testing in
+
+832
+00:32:33,040 --> 00:32:36,040
+August.
+
+833
+00:32:36,960 --> 00:32:41,760
+Let's take a look here.
+
+834
+00:32:39,360 --> 00:32:44,800
+>> Look at that. That's freaky. Ladies, if
+
+835
+00:32:41,760 --> 00:32:47,600
+you are over 40 and
+
+836
+00:32:44,800 --> 00:32:49,200
+>> Okay, so this is
+
+837
+00:32:47,600 --> 00:32:51,280
+[ __ ] This one's a little bit similar to
+
+838
+00:32:49,200 --> 00:32:52,800
+the other because it's also like showing
+
+839
+00:32:51,280 --> 00:32:54,960
+the outcome, but it's not an actual
+
+840
+00:32:52,800 --> 00:32:58,640
+demo. No, it is actually a demo of the
+
+841
+00:32:54,960 --> 00:33:01,200
+product. Um, but what you have here is
+
+842
+00:32:58,640 --> 00:33:03,440
+kind of like a micro hook into a
+
+843
+00:33:01,200 --> 00:33:05,760
+qualifying hook. The micro hook is what
+
+844
+00:33:03,440 --> 00:33:09,560
+you see in the first few seconds. So,
+
+845
+00:33:05,760 --> 00:33:09,560
+let's let's check it out.
+
+846
+00:33:10,080 --> 00:33:12,640
+Also, a very very short clip in the
+
+847
+00:33:11,760 --> 00:33:14,560
+beginning that was probably
+
+848
+00:33:12,640 --> 00:33:16,960
+unintentional, but just, you know, I do
+
+849
+00:33:14,560 --> 00:33:19,920
+notice the text on screen. We see bring
+
+850
+00:33:16,960 --> 00:33:23,200
+the med spa home for one price. I think
+
+851
+00:33:19,920 --> 00:33:24,720
+that's [ __ ] weak, but
+
+852
+00:33:23,200 --> 00:33:26,640
+you know, it's better than nothing, I
+
+853
+00:33:24,720 --> 00:33:27,600
+suppose.
+
+854
+00:33:26,640 --> 00:33:29,600
+Look at that.
+
+855
+00:33:27,600 --> 00:33:31,520
+>> Also, the
+
+856
+00:33:29,600 --> 00:33:34,240
+captions on screen are relatively small.
+
+857
+00:33:31,520 --> 00:33:37,200
+I think uh it's not too bad. I guess you
+
+858
+00:33:34,240 --> 00:33:38,640
+zoom out. This would be on your phone. I
+
+859
+00:33:37,200 --> 00:33:41,120
+think for this market is probably okay,
+
+860
+00:33:38,640 --> 00:33:43,520
+but I I like to be very maniacal about
+
+861
+00:33:41,120 --> 00:33:46,560
+the size of uh text, whether it's on
+
+862
+00:33:43,520 --> 00:33:49,120
+ads, whether it's on uh landers. Most of
+
+863
+00:33:46,560 --> 00:33:50,880
+you probably are going to increase your
+
+864
+00:33:49,120 --> 00:33:52,480
+conversion rate across any asset that
+
+865
+00:33:50,880 --> 00:33:54,080
+you have if you just make the text
+
+866
+00:33:52,480 --> 00:33:56,240
+larger.
+
+867
+00:33:54,080 --> 00:33:59,680
+Like I I remember learning this in like
+
+868
+00:33:56,240 --> 00:34:01,840
+2020 I think from this email copywriter
+
+869
+00:33:59,680 --> 00:34:03,360
+dude. He was like, "Yeah, I was sending
+
+870
+00:34:01,840 --> 00:34:05,360
+out emails to my list, you know, every
+
+871
+00:34:03,360 --> 00:34:07,840
+single day." And I was running a promo
+
+872
+00:34:05,360 --> 00:34:10,400
+and every day I just increased the font
+
+873
+00:34:07,840 --> 00:34:12,880
+size by one or two pixels and every day
+
+874
+00:34:10,400 --> 00:34:14,080
+my conversions went up. It was a split
+
+875
+00:34:12,880 --> 00:34:15,520
+test he was running and it was like
+
+876
+00:34:14,080 --> 00:34:17,200
+every single day my conversions went up
+
+877
+00:34:15,520 --> 00:34:19,680
+and and the emails converted better and
+
+878
+00:34:17,200 --> 00:34:21,600
+better and better.
+
+879
+00:34:19,680 --> 00:34:23,200
+So, I was like, "Fuck, if that's true
+
+880
+00:34:21,600 --> 00:34:24,400
+with email copyrighting, I wonder who's
+
+881
+00:34:23,200 --> 00:34:27,360
+doing that on their landers. I wonder
+
+882
+00:34:24,400 --> 00:34:29,440
+who's doing that in their creatives."
+
+883
+00:34:27,360 --> 00:34:31,280
+Clarity is one of the most important
+
+884
+00:34:29,440 --> 00:34:33,680
+principles in copyrightiting. Don't try
+
+885
+00:34:31,280 --> 00:34:35,920
+to impress people with how cool your
+
+886
+00:34:33,680 --> 00:34:37,760
+copy is. Just try to be incredibly
+
+887
+00:34:35,920 --> 00:34:38,960
+clear.
+
+888
+00:34:37,760 --> 00:34:41,040
+>> That's freaky.
+
+889
+00:34:38,960 --> 00:34:43,200
+>> So, that's kind of the micro hook here.
+
+890
+00:34:41,040 --> 00:34:44,720
+It's the first two seconds and then from
+
+891
+00:34:43,200 --> 00:34:48,320
+two seconds to however many seconds
+
+892
+00:34:44,720 --> 00:34:51,840
+after that, we have the qualifier.
+
+893
+00:34:48,320 --> 00:34:54,720
+Look at that. That's freaky.
+
+894
+00:34:51,840 --> 00:34:56,160
+>> Look at that. That's freaky. So, I don't
+
+895
+00:34:54,720 --> 00:35:00,560
+have a whole lot to say here. Just kind
+
+896
+00:34:56,160 --> 00:35:03,560
+of the the shock factor, but notice
+
+897
+00:35:00,560 --> 00:35:03,560
+notice.
+
+898
+00:35:06,080 --> 00:35:11,040
+>> Can you see it?
+
+899
+00:35:08,480 --> 00:35:14,960
+>> You see it? You seeing a trend here? Can
+
+900
+00:35:11,040 --> 00:35:18,360
+you see it here?
+
+901
+00:35:14,960 --> 00:35:18,360
+>> Look at that.
+
+902
+00:35:18,400 --> 00:35:24,640
+You [ __ ] are you [ __ ] putting two
+
+903
+00:35:20,560 --> 00:35:26,240
+and two together little [ __ ] [ __ ]
+
+904
+00:35:24,640 --> 00:35:28,400
+Not only a micro commitment, but the
+
+905
+00:35:26,240 --> 00:35:30,000
+most micro commitment, most important
+
+906
+00:35:28,400 --> 00:35:32,080
+micro commitment you could ever [ __ ]
+
+907
+00:35:30,000 --> 00:35:33,280
+have, which is to get people to continue
+
+908
+00:35:32,080 --> 00:35:35,200
+watching the [ __ ] ad. Look at that.
+
+909
+00:35:33,280 --> 00:35:37,920
+Do you see this? Do you [ __ ] see
+
+910
+00:35:35,200 --> 00:35:41,360
+that? You guys ever see these videos uh
+
+911
+00:35:37,920 --> 00:35:45,280
+trending on social media where it's like
+
+912
+00:35:41,360 --> 00:35:47,680
+somebody's using an old audio,
+
+913
+00:35:45,280 --> 00:35:50,080
+but it's a new video and the old audio
+
+914
+00:35:47,680 --> 00:35:52,400
+is like, "Whoa, look at that. Do you see
+
+915
+00:35:50,080 --> 00:35:54,240
+that? What the [ __ ] is that?" And then
+
+916
+00:35:52,400 --> 00:35:55,680
+the video literally is showing nothing.
+
+917
+00:35:54,240 --> 00:35:57,520
+It's like showing nothing interesting,
+
+918
+00:35:55,680 --> 00:36:00,080
+yet the video will have like hundreds of
+
+919
+00:35:57,520 --> 00:36:01,680
+thousands of views because the person is
+
+920
+00:36:00,080 --> 00:36:02,640
+continually telling them to like look at
+
+921
+00:36:01,680 --> 00:36:04,800
+something and you're like, "What the
+
+922
+00:36:02,640 --> 00:36:06,720
+[ __ ] What the [ __ ] am I looking at
+
+923
+00:36:04,800 --> 00:36:09,200
+here? And then that's just getting them
+
+924
+00:36:06,720 --> 00:36:12,000
+cons to consume more and more and more
+
+925
+00:36:09,200 --> 00:36:14,000
+of that video.
+
+926
+00:36:12,000 --> 00:36:16,240
+So both of these ads are doing this very
+
+927
+00:36:14,000 --> 00:36:17,520
+very well by not only getting that micro
+
+928
+00:36:16,240 --> 00:36:19,920
+commitment but getting them to consume
+
+929
+00:36:17,520 --> 00:36:21,760
+more simply by using this visual
+
+930
+00:36:19,920 --> 00:36:24,640
+explainer. Look at this. Look at that.
+
+931
+00:36:21,760 --> 00:36:27,520
+Look at me. [ __ ] you. You know
+
+932
+00:36:24,640 --> 00:36:30,560
+>> that's freaky.
+
+933
+00:36:27,520 --> 00:36:32,000
+Ladies, if you are over 40 and menopause
+
+934
+00:36:30,560 --> 00:36:34,080
+has started doing that little gravity
+
+935
+00:36:32,000 --> 00:36:34,960
+trick on your face, then you need to
+
+936
+00:36:34,080 --> 00:36:36,480
+listen up.
+
+937
+00:36:34,960 --> 00:36:40,160
+>> So, that's kind of the the qualifier
+
+938
+00:36:36,480 --> 00:36:42,400
+hook after. Um, this was originally
+
+939
+00:36:40,160 --> 00:36:44,000
+invented by Prince of Print himself,
+
+940
+00:36:42,400 --> 00:36:47,360
+Sergey Halbert. This is kind of like the
+
+941
+00:36:44,000 --> 00:36:49,360
+if then. Ultimately, you want to qualify
+
+942
+00:36:47,360 --> 00:36:52,000
+as many people as possible within that
+
+943
+00:36:49,360 --> 00:36:53,760
+hook. And she's going for menopause,
+
+944
+00:36:52,000 --> 00:36:55,760
+ladies over 40, you know, skincare
+
+945
+00:36:53,760 --> 00:36:58,720
+issues, then you need to listen up. So
+
+946
+00:36:55,760 --> 00:37:00,560
+once again getting another tie down on
+
+947
+00:36:58,720 --> 00:37:02,720
+why they need to watch the rest of this
+
+948
+00:37:00,560 --> 00:37:04,640
+creative. So I don't really want to
+
+949
+00:37:02,720 --> 00:37:06,560
+analyze the rest of this because
+
+950
+00:37:04,640 --> 00:37:10,000
+actually let me let me break down this
+
+951
+00:37:06,560 --> 00:37:11,040
+um very quickly the the qualifier hook
+
+952
+00:37:10,000 --> 00:37:12,880
+because they're actually using hook
+
+953
+00:37:11,040 --> 00:37:14,400
+stacking here which is using one hook
+
+954
+00:37:12,880 --> 00:37:15,840
+right on top of another in order to
+
+955
+00:37:14,400 --> 00:37:18,080
+maximize retention and get more people
+
+956
+00:37:15,840 --> 00:37:20,560
+to watch your ad. So the first hook was
+
+957
+00:37:18,080 --> 00:37:22,080
+like a micro hook super duper short
+
+958
+00:37:20,560 --> 00:37:24,480
+using the product.
+
+959
+00:37:22,080 --> 00:37:25,520
+>> Look at that. That's freaky. just
+
+960
+00:37:24,480 --> 00:37:26,960
+saying, "Look at that." Getting that
+
+961
+00:37:25,520 --> 00:37:28,000
+micro commitment. Next,
+
+962
+00:37:26,960 --> 00:37:30,320
+>> ladies, if you
+
+963
+00:37:28,000 --> 00:37:31,680
+>> We have the woman actually using the
+
+964
+00:37:30,320 --> 00:37:33,520
+product the entire time. If this was
+
+965
+00:37:31,680 --> 00:37:36,720
+just a lady looking at the camera, maybe
+
+966
+00:37:33,520 --> 00:37:38,160
+with a product in her hand, um you're
+
+967
+00:37:36,720 --> 00:37:40,160
+not going to get as good retention where
+
+968
+00:37:38,160 --> 00:37:41,360
+you're compared to doing something like
+
+969
+00:37:40,160 --> 00:37:43,120
+this where you're actively doing
+
+970
+00:37:41,360 --> 00:37:45,920
+something. Like, I'm sure we've all also
+
+971
+00:37:43,120 --> 00:37:48,000
+came across those videos on uh IG or
+
+972
+00:37:45,920 --> 00:37:49,520
+other platforms where somebody's like
+
+973
+00:37:48,000 --> 00:37:50,880
+telling a story, but they're like doing
+
+974
+00:37:49,520 --> 00:37:52,720
+something the entire time. they're like
+
+975
+00:37:50,880 --> 00:37:54,480
+cooking or like solving a [ __ ]
+
+976
+00:37:52,720 --> 00:37:57,440
+Rubik's cube or like whatever they're
+
+977
+00:37:54,480 --> 00:37:58,960
+doing something because your brain is
+
+978
+00:37:57,440 --> 00:38:00,640
+now,
+
+979
+00:37:58,960 --> 00:38:02,000
+you know, your ears are listening to
+
+980
+00:38:00,640 --> 00:38:03,520
+what the person is saying, but now your
+
+981
+00:38:02,000 --> 00:38:04,880
+eyes have something to feast upon that's
+
+982
+00:38:03,520 --> 00:38:07,120
+not just like the person talking. It's
+
+983
+00:38:04,880 --> 00:38:08,480
+like them accomplishing something. So,
+
+984
+00:38:07,120 --> 00:38:11,440
+you're able to trigger even more
+
+985
+00:38:08,480 --> 00:38:13,200
+dopamine to uh to consume the ad. Let's
+
+986
+00:38:11,440 --> 00:38:15,600
+look at Let's look at one more. This is
+
+987
+00:38:13,200 --> 00:38:19,520
+actually going way uh longer than I
+
+988
+00:38:15,600 --> 00:38:21,200
+thought for for each ad, but
+
+989
+00:38:19,520 --> 00:38:23,520
+I actually think it's better to go
+
+990
+00:38:21,200 --> 00:38:26,160
+through viewer creatives, but go way
+
+991
+00:38:23,520 --> 00:38:27,920
+more in-depth because dude, everybody
+
+992
+00:38:26,160 --> 00:38:29,600
+posts these [ __ ] videos and like
+
+993
+00:38:27,920 --> 00:38:30,880
+there's a reason that I don't post
+
+994
+00:38:29,600 --> 00:38:33,680
+videos like this where it's like
+
+995
+00:38:30,880 --> 00:38:36,400
+breaking down the successful ad. [ __ ]
+
+996
+00:38:33,680 --> 00:38:39,200
+you, bro. Anybody can [ __ ] do that.
+
+997
+00:38:36,400 --> 00:38:40,960
+Anybody. I think at least I'm going
+
+998
+00:38:39,200 --> 00:38:43,680
+really deep into this and I'm like I'm
+
+999
+00:38:40,960 --> 00:38:46,720
+spending five plus minutes on the first
+
+1000
+00:38:43,680 --> 00:38:48,320
+two seconds of the video.
+
+1001
+00:38:46,720 --> 00:38:50,080
+But these these people that are like
+
+1002
+00:38:48,320 --> 00:38:52,160
+here's why this you know ad was
+
+1003
+00:38:50,080 --> 00:38:55,200
+successful and they're like okay he had
+
+1004
+00:38:52,160 --> 00:38:57,600
+a really high curiosity hook. Like no
+
+1005
+00:38:55,200 --> 00:39:00,000
+[ __ ] [ __ ] dude like wow you
+
+1006
+00:38:57,600 --> 00:39:01,680
+understand advertising 101. You got to
+
+1007
+00:39:00,000 --> 00:39:05,680
+have a good hick. What good [ __ ]
+
+1008
+00:39:01,680 --> 00:39:08,480
+hook? This is news to me
+
+1009
+00:39:05,680 --> 00:39:10,160
+you know. [ __ ] you. Let's get Let's
+
+1010
+00:39:08,480 --> 00:39:12,720
+Let's get into some real [ __ ] [ __ ]
+
+1011
+00:39:10,160 --> 00:39:14,240
+huh? Okay,
+
+1012
+00:39:12,720 --> 00:39:16,320
+I don't remember this one. Let's see.
+
+1013
+00:39:14,240 --> 00:39:17,920
+Um, really strong thumbnail, though.
+
+1014
+00:39:16,320 --> 00:39:19,200
+Super strong thumbnail. Let's see what
+
+1015
+00:39:17,920 --> 00:39:21,680
+we got.
+
+1016
+00:39:19,200 --> 00:39:23,040
+>> Look what this fake under eye device did
+
+1017
+00:39:21,680 --> 00:39:26,240
+to my face.
+
+1018
+00:39:23,040 --> 00:39:28,560
+>> All right, let's break it down. So, we
+
+1019
+00:39:26,240 --> 00:39:30,240
+have the curse word. So, same rules
+
+1020
+00:39:28,560 --> 00:39:34,160
+apply there of of creating that
+
+1021
+00:39:30,240 --> 00:39:36,640
+polarity. Um, cur uh bleeping it out, I
+
+1022
+00:39:34,160 --> 00:39:40,240
+think, creates actually more auditory
+
+1023
+00:39:36,640 --> 00:39:41,600
+contrast as well. In the same way, uh I
+
+1024
+00:39:40,240 --> 00:39:44,160
+know audio is like not the most
+
+1025
+00:39:41,600 --> 00:39:45,920
+important thing, blah blah blah, but to
+
+1026
+00:39:44,160 --> 00:39:47,680
+create that level of contrast through
+
+1027
+00:39:45,920 --> 00:39:49,360
+the audio,
+
+1028
+00:39:47,680 --> 00:39:52,320
+um I think that's [ __ ] badass. I
+
+1029
+00:39:49,360 --> 00:39:53,840
+mean, I remember when these these songs
+
+1030
+00:39:52,320 --> 00:39:55,600
+were coming out when I was younger. I
+
+1031
+00:39:53,840 --> 00:39:57,600
+was like in middle school, and they
+
+1032
+00:39:55,600 --> 00:39:59,280
+would legitimately bleep [ __ ] out. They
+
+1033
+00:39:57,600 --> 00:40:01,040
+wouldn't just like remove the the curse
+
+1034
+00:39:59,280 --> 00:40:03,360
+word. Like, it would be like the beep
+
+1035
+00:40:01,040 --> 00:40:04,880
+like in the song. It's like my all my
+
+1036
+00:40:03,360 --> 00:40:06,080
+attention went to the beep now. like you
+
+1037
+00:40:04,880 --> 00:40:07,600
+you were trying to get me to forget
+
+1038
+00:40:06,080 --> 00:40:09,360
+about the curse word. Now I really want
+
+1039
+00:40:07,600 --> 00:40:11,520
+to [ __ ] know what what was [ __ ]
+
+1040
+00:40:09,360 --> 00:40:12,720
+happening there. Same principle here.
+
+1041
+00:40:11,520 --> 00:40:15,280
+So, we actually get some really
+
+1042
+00:40:12,720 --> 00:40:16,960
+interesting uh polarity and contrast
+
+1043
+00:40:15,280 --> 00:40:18,720
+created just with that beeping sound
+
+1044
+00:40:16,960 --> 00:40:20,240
+beeping out the curse word. Plus, it's
+
+1045
+00:40:18,720 --> 00:40:22,480
+going to be more compliant on Facebook.
+
+1046
+00:40:20,240 --> 00:40:25,520
+I've run stuff uh ads where you're
+
+1047
+00:40:22,480 --> 00:40:27,520
+cursing actively in the ad. And I think
+
+1048
+00:40:25,520 --> 00:40:29,680
+if it's very minimal, it has a really
+
+1049
+00:40:27,520 --> 00:40:30,960
+minimal impact on your your CPMs, your
+
+1050
+00:40:29,680 --> 00:40:33,920
+conversions overall. Like I get them
+
+1051
+00:40:30,960 --> 00:40:37,680
+approved no problem personally,
+
+1052
+00:40:33,920 --> 00:40:40,560
+but I like this better personally.
+
+1053
+00:40:37,680 --> 00:40:41,840
+>> This look what this fake under eye
+
+1054
+00:40:40,560 --> 00:40:44,560
+device did to my face.
+
+1055
+00:40:41,840 --> 00:40:47,960
+>> So we got one of these green screen um
+
+1056
+00:40:44,560 --> 00:40:47,960
+hooks here.
+
+1057
+00:40:49,070 --> 00:40:53,680
+[laughter]
+
+1058
+00:40:50,000 --> 00:40:56,640
+Dude, I mean, wait a minute. Who the who
+
+1059
+00:40:53,680 --> 00:40:59,880
+the [ __ ] face is this?
+
+1060
+00:40:56,640 --> 00:40:59,880
+This [ __ ]
+
+1061
+00:41:00,240 --> 00:41:04,720
+This is like the Is this one of the Is
+
+1062
+00:41:03,120 --> 00:41:06,640
+this the captain of the ship from
+
+1063
+00:41:04,720 --> 00:41:08,720
+Wall-E? That [ __ ] movie of the
+
+1064
+00:41:06,640 --> 00:41:10,640
+robots?
+
+1065
+00:41:08,720 --> 00:41:12,650
+Those super overweight [ __ ] people.
+
+1066
+00:41:10,640 --> 00:41:14,560
+What kind of
+
+1067
+00:41:12,650 --> 00:41:17,920
+[laughter]
+
+1068
+00:41:14,560 --> 00:41:20,400
+What kind of [ __ ] squashed faced
+
+1069
+00:41:17,920 --> 00:41:23,520
+[ __ ] skull is this
+
+1070
+00:41:20,400 --> 00:41:27,440
+[ __ ] butternut butter squash looking
+
+1071
+00:41:23,520 --> 00:41:29,040
+ass face, bro? Golly goodness gracious.
+
+1072
+00:41:27,440 --> 00:41:30,560
+I don't even like looking at this.
+
+1073
+00:41:29,040 --> 00:41:32,560
+That's actually a good principle though
+
+1074
+00:41:30,560 --> 00:41:34,400
+when it comes to creating like these
+
+1075
+00:41:32,560 --> 00:41:38,320
+visual the visual element of the hook
+
+1076
+00:41:34,400 --> 00:41:41,840
+here. You want to create what I call
+
+1077
+00:41:38,320 --> 00:41:43,920
+like the uh I'll just call it like the
+
+1078
+00:41:41,840 --> 00:41:45,440
+car crash effect, which is like if
+
+1079
+00:41:43,920 --> 00:41:47,440
+you're at your house and you walk
+
+1080
+00:41:45,440 --> 00:41:49,600
+outside and you're just kind of looking
+
+1081
+00:41:47,440 --> 00:41:52,480
+at the cars that are passing you and
+
+1082
+00:41:49,600 --> 00:41:56,560
+there's a bad [ __ ] accident, like
+
+1083
+00:41:52,480 --> 00:41:59,920
+really bad between two cars. You don't
+
+1084
+00:41:56,560 --> 00:42:02,320
+want to look, but you can't help but
+
+1085
+00:41:59,920 --> 00:42:04,320
+look. You know, you know that kind of
+
+1086
+00:42:02,320 --> 00:42:06,000
+feeling if you look at some really crazy
+
+1087
+00:42:04,320 --> 00:42:07,680
+native statics, it's the exact same
+
+1088
+00:42:06,000 --> 00:42:09,040
+principle. It's like I don't want to
+
+1089
+00:42:07,680 --> 00:42:11,360
+look at this. Like looking at this
+
+1090
+00:42:09,040 --> 00:42:13,520
+genuinely makes me uncomfortable, but I
+
+1091
+00:42:11,360 --> 00:42:14,880
+can't stop looking at it. That's kind of
+
+1092
+00:42:13,520 --> 00:42:17,360
+the element that you should create when
+
+1093
+00:42:14,880 --> 00:42:20,240
+it comes to your your visual piece of
+
+1094
+00:42:17,360 --> 00:42:22,720
+the hook. those squirrel stoppers is you
+
+1095
+00:42:20,240 --> 00:42:25,720
+want to make something that is
+
+1096
+00:42:22,720 --> 00:42:25,720
+borderline
+
+1097
+00:42:26,960 --> 00:42:31,120
+uncomfortable, borderline disgusting,
+
+1098
+00:42:29,440 --> 00:42:32,480
+but like you feel like you still have to
+
+1099
+00:42:31,120 --> 00:42:33,760
+look at it, you know, like you just
+
+1100
+00:42:32,480 --> 00:42:36,400
+can't look away.
+
+1101
+00:42:33,760 --> 00:42:39,040
+>> This look what this
+
+1102
+00:42:36,400 --> 00:42:40,960
+>> Once again, we have the same This is
+
+1103
+00:42:39,040 --> 00:42:43,680
+crazy. I didn't intentionally pick
+
+1104
+00:42:40,960 --> 00:42:46,320
+these. Um, these were just in in one of
+
+1105
+00:42:43,680 --> 00:42:48,240
+my swipe files, but notice how all three
+
+1106
+00:42:46,320 --> 00:42:50,160
+of these ads that we have now reviewed
+
+1107
+00:42:48,240 --> 00:42:52,960
+have used the exact same concept of this
+
+1108
+00:42:50,160 --> 00:42:54,960
+micro commitment saying, "Look at look
+
+1109
+00:42:52,960 --> 00:42:58,000
+at something in some way, shape, or
+
+1110
+00:42:54,960 --> 00:42:58,960
+form. And they're all profitable." Well,
+
+1111
+00:42:58,000 --> 00:43:01,920
+I don't know if they're profitable, but
+
+1112
+00:42:58,960 --> 00:43:04,080
+they're all successful ads.
+
+1113
+00:43:01,920 --> 00:43:05,360
+All of them.
+
+1114
+00:43:04,080 --> 00:43:07,360
+And they all use the same principle.
+
+1115
+00:43:05,360 --> 00:43:09,840
+Isn't that interesting? Hm. It's almost
+
+1116
+00:43:07,360 --> 00:43:13,520
+like maybe you should [ __ ] listen
+
+1117
+00:43:09,840 --> 00:43:14,880
+listen to what I [ __ ] say. Huh? H
+
+1118
+00:43:13,520 --> 00:43:17,360
+Maybe that's a maybe that's a good
+
+1119
+00:43:14,880 --> 00:43:19,040
+[ __ ] idea. What do you think?
+
+1120
+00:43:17,360 --> 00:43:20,720
+All right.
+
+1121
+00:43:19,040 --> 00:43:25,200
+In this case, we have the exact same
+
+1122
+00:43:20,720 --> 00:43:26,560
+text as we do the copy. So, there's not
+
+1123
+00:43:25,200 --> 00:43:28,960
+a ton to break down here. We have the
+
+1124
+00:43:26,560 --> 00:43:30,480
+look. We have the the cursing. Uh once
+
+1125
+00:43:28,960 --> 00:43:33,360
+again, we have underey device. The
+
+1126
+00:43:30,480 --> 00:43:35,760
+previous one also had the word sorry
+
+1127
+00:43:33,360 --> 00:43:37,440
+this one also had the word device right
+
+1128
+00:43:35,760 --> 00:43:41,160
+here
+
+1129
+00:43:37,440 --> 00:43:41,160
+did to my face.
+
+1130
+00:43:41,840 --> 00:43:45,280
+I think if I were to take over this ad
+
+1131
+00:43:43,840 --> 00:43:47,920
+and I was like you know we have to step
+
+1132
+00:43:45,280 --> 00:43:52,480
+this up somehow. I would probably make
+
+1133
+00:43:47,920 --> 00:43:53,680
+this last uh this image in the back. I
+
+1134
+00:43:52,480 --> 00:43:55,520
+would make it a video and I would make
+
+1135
+00:43:53,680 --> 00:43:57,760
+it dynamic.
+
+1136
+00:43:55,520 --> 00:44:01,120
+>> Thising fake under eye device did my
+
+1137
+00:43:57,760 --> 00:44:02,480
+face. Look what this fake under eye
+
+1138
+00:44:01,120 --> 00:44:04,400
+device did to my face.
+
+1139
+00:44:02,480 --> 00:44:06,320
+>> Okay, that's like a whole three ass
+
+1140
+00:44:04,400 --> 00:44:08,080
+seconds right there. Like 3 seconds
+
+1141
+00:44:06,320 --> 00:44:10,000
+staring at an image. I mean, granted, we
+
+1142
+00:44:08,080 --> 00:44:11,360
+have her in video form, which is good,
+
+1143
+00:44:10,000 --> 00:44:16,080
+but if I were to take it over, I would
+
+1144
+00:44:11,360 --> 00:44:19,040
+want to see this uh X-ray scan, I guess.
+
+1145
+00:44:16,080 --> 00:44:20,880
+I'd want to see it dynamically changing
+
+1146
+00:44:19,040 --> 00:44:22,320
+in a really weird way, you know, a way
+
+1147
+00:44:20,880 --> 00:44:26,200
+that makes me go like, "What the [ __ ] I
+
+1148
+00:44:22,320 --> 00:44:26,200
+need to watch the rest of this."
+
+1149
+00:44:26,320 --> 00:44:29,320
+So
+
+1150
+00:44:29,520 --> 00:44:35,440
+yeah, um
+
+1151
+00:44:32,720 --> 00:44:37,280
+I think at this point I'm gonna I'm
+
+1152
+00:44:35,440 --> 00:44:38,800
+going to pause because I've been I've
+
+1153
+00:44:37,280 --> 00:44:40,240
+been yapping for a bit. I was not even
+
+1154
+00:44:38,800 --> 00:44:41,840
+looking at the chat. I don't know what
+
+1155
+00:44:40,240 --> 00:44:44,320
+what's going on there, but let me take a
+
+1156
+00:44:41,840 --> 00:44:46,320
+second to look and we can move to Q&A
+
+1157
+00:44:44,320 --> 00:44:48,080
+now.
+
+1158
+00:44:46,320 --> 00:44:49,600
+We can move to Q&A. So whatever
+
+1159
+00:44:48,080 --> 00:44:52,480
+questions you guys got, feel free to
+
+1160
+00:44:49,600 --> 00:44:53,840
+drop them in the chat. I got about I
+
+1161
+00:44:52,480 --> 00:44:56,160
+actually don't have that much time. I
+
+1162
+00:44:53,840 --> 00:44:59,520
+got like five minutes. I got like five
+
+1163
+00:44:56,160 --> 00:45:02,800
+minutes and I got to bounce. [snorts]
+
+1164
+00:44:59,520 --> 00:45:05,440
+Who is this guy and why is he naked?
+
+1165
+00:45:02,800 --> 00:45:06,720
+He must be new here.
+
+1166
+00:45:05,440 --> 00:45:08,400
+Yeah, let's drop some questions in the
+
+1167
+00:45:06,720 --> 00:45:12,480
+chat, guys. I'll I'll rapid fire get to
+
+1168
+00:45:08,400 --> 00:45:16,040
+as many um
+
+1169
+00:45:12,480 --> 00:45:16,040
+as many [ __ ]
+
+1170
+00:45:16,640 --> 00:45:21,000
+as many [ __ ] people as I can.
+
+1171
+00:45:23,520 --> 00:45:25,540
+>> [snorts]
+
+1172
+00:45:25,680 --> 00:45:30,240
+>> Okay, great question. Young JB,
+
+1173
+00:45:28,560 --> 00:45:32,000
+good to see you, bro. Hey, Mark, how do
+
+1174
+00:45:30,240 --> 00:45:33,760
+you know when you're either not selling
+
+1175
+00:45:32,000 --> 00:45:35,680
+somebody enough on the ad or landing
+
+1176
+00:45:33,760 --> 00:45:37,440
+page when you have good CTR but no
+
+1177
+00:45:35,680 --> 00:45:38,400
+sales? It's one of the most difficult
+
+1178
+00:45:37,440 --> 00:45:40,640
+things, bro, when it comes to
+
+1179
+00:45:38,400 --> 00:45:42,480
+advertising because you have to be able
+
+1180
+00:45:40,640 --> 00:45:45,200
+to read the data, but you also have to
+
+1181
+00:45:42,480 --> 00:45:46,880
+be able to read between the data. So, if
+
+1182
+00:45:45,200 --> 00:45:49,040
+you have really good CTR, I'd want to
+
+1183
+00:45:46,880 --> 00:45:50,240
+know what CTR because a good CTR means
+
+1184
+00:45:49,040 --> 00:45:53,040
+like different things to different
+
+1185
+00:45:50,240 --> 00:45:54,800
+people. But I would say if you have a
+
+1186
+00:45:53,040 --> 00:46:00,240
+really good CTR, let's say it's above
+
+1187
+00:45:54,800 --> 00:46:03,600
+like 5%. Um, but no sales,
+
+1188
+00:46:00,240 --> 00:46:05,680
+you got to break down your metrics
+
+1189
+00:46:03,600 --> 00:46:07,680
+associated with your funnel first to see
+
+1190
+00:46:05,680 --> 00:46:09,840
+what is within KPI and what is outside
+
+1191
+00:46:07,680 --> 00:46:12,400
+KPI. It's really easy to spend money on
+
+1192
+00:46:09,840 --> 00:46:15,280
+ads and be like, "My CTR is great. No
+
+1193
+00:46:12,400 --> 00:46:17,360
+sales." uh you know, but it was like why
+
+1194
+00:46:15,280 --> 00:46:19,920
+was there no sales?
+
+1195
+00:46:17,360 --> 00:46:23,120
+Let's let's isolate it first to rule out
+
+1196
+00:46:19,920 --> 00:46:25,120
+every possible reason why it's maybe not
+
+1197
+00:46:23,120 --> 00:46:27,280
+the lander. Okay, let's look at the link
+
+1198
+00:46:25,120 --> 00:46:28,880
+click to landing page view drop off. It
+
+1199
+00:46:27,280 --> 00:46:31,040
+should be no more than 20%. Let's look
+
+1200
+00:46:28,880 --> 00:46:34,400
+at the add to cart ratio for products
+
+1201
+00:46:31,040 --> 00:46:36,560
+like in the 40 to $80 price ration price
+
+1202
+00:46:34,400 --> 00:46:38,560
+range. It should be like 8 to 10%. More
+
+1203
+00:46:36,560 --> 00:46:40,080
+than $80, it should be like seven or
+
+1204
+00:46:38,560 --> 00:46:42,160
+eight%.
+
+1205
+00:46:40,080 --> 00:46:44,080
+So, is that within KPI? Yes. No. Cool.
+
+1206
+00:46:42,160 --> 00:46:46,080
+How about add to cart to purchase ratio?
+
+1207
+00:46:44,080 --> 00:46:48,320
+Um, for most products, it should be
+
+1208
+00:46:46,080 --> 00:46:49,520
+around 30%. So, if you get 10 add to
+
+1209
+00:46:48,320 --> 00:46:51,200
+carts, at least three should go through
+
+1210
+00:46:49,520 --> 00:46:53,120
+and purchase. Okay, which one of those
+
+1211
+00:46:51,200 --> 00:46:55,680
+is outside of KPI? There's a different
+
+1212
+00:46:53,120 --> 00:46:58,160
+answer to all of those. So, for most
+
+1213
+00:46:55,680 --> 00:46:59,600
+people, it's add to cart ratio. And you
+
+1214
+00:46:58,160 --> 00:47:01,520
+have to be able to look at your lander
+
+1215
+00:46:59,600 --> 00:47:03,520
+and then go back to your creative and
+
+1216
+00:47:01,520 --> 00:47:06,640
+rewatch it, reread it if it's like a
+
+1217
+00:47:03,520 --> 00:47:08,480
+native static, and understand the kind
+
+1218
+00:47:06,640 --> 00:47:10,800
+of traffic that you are attracting
+
+1219
+00:47:08,480 --> 00:47:12,400
+through your marketing words. Because
+
+1220
+00:47:10,800 --> 00:47:15,120
+something that Facebook does not admit,
+
+1221
+00:47:12,400 --> 00:47:17,520
+but they 100% do is they use your
+
+1222
+00:47:15,120 --> 00:47:21,200
+primary text to determine your targeting
+
+1223
+00:47:17,520 --> 00:47:23,840
+to to some degree. 100%. Maybe it's only
+
+1224
+00:47:21,200 --> 00:47:25,760
+10% of their uh information that they
+
+1225
+00:47:23,840 --> 00:47:26,880
+use to determine targeting. But the
+
+1226
+00:47:25,760 --> 00:47:28,480
+reason I can say this with such
+
+1227
+00:47:26,880 --> 00:47:29,840
+confidence is because if you run
+
+1228
+00:47:28,480 --> 00:47:32,960
+something like a native static, you
+
+1229
+00:47:29,840 --> 00:47:35,360
+know, if you simply change the text, the
+
+1230
+00:47:32,960 --> 00:47:36,960
+primary text, you can target completely
+
+1231
+00:47:35,360 --> 00:47:38,960
+different kinds of people. If it was
+
+1232
+00:47:36,960 --> 00:47:41,040
+only targeting based off the creative,
+
+1233
+00:47:38,960 --> 00:47:42,640
+you would never come to that conclusion.
+
+1234
+00:47:41,040 --> 00:47:44,320
+So that's how you know it's not just the
+
+1235
+00:47:42,640 --> 00:47:45,600
+creative that determines your targeting.
+
+1236
+00:47:44,320 --> 00:47:47,040
+It's the creative and the copy. That's
+
+1237
+00:47:45,600 --> 00:47:49,360
+especially true for images. It's less
+
+1238
+00:47:47,040 --> 00:47:52,880
+true for videos. But in general, you
+
+1239
+00:47:49,360 --> 00:47:54,960
+have to go and read your uh creative and
+
+1240
+00:47:52,880 --> 00:47:57,760
+read your copy associated with it. What
+
+1241
+00:47:54,960 --> 00:48:00,240
+I see super frequently, bro, is a lot of
+
+1242
+00:47:57,760 --> 00:48:01,520
+guys try to like CTR max on their
+
+1243
+00:48:00,240 --> 00:48:03,280
+creatives now with native status.
+
+1244
+00:48:01,520 --> 00:48:05,840
+They're like, "Oh, look at me. I got 30%
+
+1245
+00:48:03,280 --> 00:48:07,760
+[ __ ] CTR. Oh, I'm at like a 10% CTR
+
+1246
+00:48:05,840 --> 00:48:09,040
+link. Then you read the copy and you're
+
+1247
+00:48:07,760 --> 00:48:10,400
+like, look at the people you're speaking
+
+1248
+00:48:09,040 --> 00:48:12,800
+to, bro. Like, these people have no
+
+1249
+00:48:10,400 --> 00:48:14,480
+interest in buying from you. So, now
+
+1250
+00:48:12,800 --> 00:48:16,960
+you're just optimizing around these
+
+1251
+00:48:14,480 --> 00:48:19,440
+people. Um, because if Facebook doesn't
+
+1252
+00:48:16,960 --> 00:48:20,800
+have any conversion data to optimize on,
+
+1253
+00:48:19,440 --> 00:48:23,040
+they're going to initially use a little
+
+1254
+00:48:20,800 --> 00:48:26,320
+bit of the engagement data. And once
+
+1255
+00:48:23,040 --> 00:48:27,840
+again, the targeting partially is due to
+
+1256
+00:48:26,320 --> 00:48:30,240
+the text that you have in your primary
+
+1257
+00:48:27,840 --> 00:48:33,600
+copy. So unfortunately I can't tell you
+
+1258
+00:48:30,240 --> 00:48:34,560
+just like you know exactly what it is
+
+1259
+00:48:33,600 --> 00:48:35,840
+for you because I don't know your
+
+1260
+00:48:34,560 --> 00:48:37,920
+numbers and your data and I haven't seen
+
+1261
+00:48:35,840 --> 00:48:39,520
+your ads but it should be a combination
+
+1262
+00:48:37,920 --> 00:48:42,320
+of reading the data and reading between
+
+1263
+00:48:39,520 --> 00:48:44,640
+the data to understand most often what I
+
+1264
+00:48:42,320 --> 00:48:45,920
+see is people going way way way too top
+
+1265
+00:48:44,640 --> 00:48:49,040
+of funnel. They run like these native
+
+1266
+00:48:45,920 --> 00:48:51,040
+statics that the the hook is like my dog
+
+1267
+00:48:49,040 --> 00:48:53,440
+died and it's my fault. They're like,
+
+1268
+00:48:51,040 --> 00:48:55,040
+"Oh, Jesus Christ, bro." Like, yes, of
+
+1269
+00:48:53,440 --> 00:48:58,160
+course you have a 50% [ __ ]
+
+1270
+00:48:55,040 --> 00:48:59,760
+click-through rate. And then somehow
+
+1271
+00:48:58,160 --> 00:49:03,120
+you got to [ __ ] tie the [ __ ] into
+
+1272
+00:48:59,760 --> 00:49:04,560
+like a joint supplement for a dog.
+
+1273
+00:49:03,120 --> 00:49:06,240
+That's not easy to do. Like, it's
+
+1274
+00:49:04,560 --> 00:49:08,160
+possible. And if you crack it, cool. You
+
+1275
+00:49:06,240 --> 00:49:10,960
+got the most scalable ads on the [ __ ]
+
+1276
+00:49:08,160 --> 00:49:12,240
+planet. But if you don't,
+
+1277
+00:49:10,960 --> 00:49:13,520
+now you're just attracting really,
+
+1278
+00:49:12,240 --> 00:49:15,520
+really [ __ ] people that just want to
+
+1279
+00:49:13,520 --> 00:49:17,920
+read an interesting story and have no
+
+1280
+00:49:15,520 --> 00:49:20,240
+desire in buying your product. Not
+
+1281
+00:49:17,920 --> 00:49:21,360
+saying it can't work. It can work. But
+
+1282
+00:49:20,240 --> 00:49:22,880
+the degree to which you have to be
+
+1283
+00:49:21,360 --> 00:49:25,360
+really [ __ ] good at copywriting
+
+1284
+00:49:22,880 --> 00:49:26,640
+exponentially increases the more top of
+
+1285
+00:49:25,360 --> 00:49:29,440
+funnel you go when it comes to your
+
+1286
+00:49:26,640 --> 00:49:30,800
+copy.
+
+1287
+00:49:29,440 --> 00:49:32,560
+I don't think people will understand how
+
+1288
+00:49:30,800 --> 00:49:36,920
+valuable what I just said actually is.
+
+1289
+00:49:32,560 --> 00:49:36,920
+But like if you know then you know
+
+1290
+00:49:44,240 --> 00:49:47,520
+how important is a thumbnail considering
+
+1291
+00:49:46,000 --> 00:49:49,200
+people mostly get into the ad by
+
+1292
+00:49:47,520 --> 00:49:52,400
+scrolling. It used to be way more
+
+1293
+00:49:49,200 --> 00:49:53,840
+important. Now ads are autoplayed. So I
+
+1294
+00:49:52,400 --> 00:49:55,440
+think it's it's really not like I don't
+
+1295
+00:49:53,840 --> 00:49:57,840
+I don't put much emphasis really on the
+
+1296
+00:49:55,440 --> 00:50:00,560
+thumbnail at all anymore.
+
+1297
+00:49:57,840 --> 00:50:01,840
+Um, hey, I have a 3.5% conversion rate,
+
+1298
+00:50:00,560 --> 00:50:03,280
+but my ad cost is higher than my
+
+1299
+00:50:01,840 --> 00:50:04,960
+earnings. Should I drop that product or
+
+1300
+00:50:03,280 --> 00:50:06,240
+test different ads? Read the data, bro.
+
+1301
+00:50:04,960 --> 00:50:07,920
+If you have a three and a half%
+
+1302
+00:50:06,240 --> 00:50:09,360
+conversion rate, that's really good. You
+
+1303
+00:50:07,920 --> 00:50:11,840
+may just need to make better ads to
+
+1304
+00:50:09,360 --> 00:50:14,160
+lower your CPC. So it depends on what
+
+1305
+00:50:11,840 --> 00:50:15,920
+your CPC actually is and where the
+
+1306
+00:50:14,160 --> 00:50:17,120
+breakdown is occurring on your creative
+
+1307
+00:50:15,920 --> 00:50:19,840
+side because your funnel is obviously
+
+1308
+00:50:17,120 --> 00:50:24,920
+converting really, really well. So most
+
+1309
+00:50:19,840 --> 00:50:24,920
+likely the answer is make better ads.
+
+1310
+00:50:32,480 --> 00:50:35,680
+How do you niche down in life? Pick a
+
+1311
+00:50:34,080 --> 00:50:39,240
+skill and get good at it, especially not
+
+1312
+00:50:35,680 --> 00:50:39,240
+from first world.
+
+1313
+00:50:39,280 --> 00:50:42,280
+Um,
+
+1314
+00:50:42,640 --> 00:50:47,920
+bro, I think the best the best advice I
+
+1315
+00:50:45,760 --> 00:50:50,640
+could give you is don't even don't even
+
+1316
+00:50:47,920 --> 00:50:53,760
+try and just
+
+1317
+00:50:50,640 --> 00:50:56,320
+let me finish. Don't even try to go do
+
+1318
+00:50:53,760 --> 00:50:59,120
+all this research to figure out what you
+
+1319
+00:50:56,320 --> 00:51:00,640
+should center your life around. Just try
+
+1320
+00:50:59,120 --> 00:51:03,120
+[ __ ] Just start getting your hands
+
+1321
+00:51:00,640 --> 00:51:05,280
+dirty. test a bunch of things that you
+
+1322
+00:51:03,120 --> 00:51:06,640
+think are a little bit interesting and
+
+1323
+00:51:05,280 --> 00:51:08,560
+see where it takes you because you're
+
+1324
+00:51:06,640 --> 00:51:09,760
+going to learn very quickly if it's
+
+1325
+00:51:08,560 --> 00:51:11,360
+actually something for you, something
+
+1326
+00:51:09,760 --> 00:51:13,200
+that you're interested in and something
+
+1327
+00:51:11,360 --> 00:51:15,280
+that's going to help you, you know,
+
+1328
+00:51:13,200 --> 00:51:16,320
+achieve your your goals with your life.
+
+1329
+00:51:15,280 --> 00:51:17,840
+You're going to learn that really
+
+1330
+00:51:16,320 --> 00:51:19,280
+quickly. And the only way you're going
+
+1331
+00:51:17,840 --> 00:51:21,120
+to know that, it's not the research.
+
+1332
+00:51:19,280 --> 00:51:23,360
+It's just through actually doing it. So,
+
+1333
+00:51:21,120 --> 00:51:28,120
+the faster you can get into just testing
+
+1334
+00:51:23,360 --> 00:51:28,120
+[ __ ] testing [ __ ] the better.
+
+1335
+00:51:39,680 --> 00:51:44,240
+All right, I'm not going to lie. These
+
+1336
+00:51:40,720 --> 00:51:47,680
+these [ __ ] questions suck. So,
+
+1337
+00:51:44,240 --> 00:51:49,760
+I'm sorry. Go rewatch this [ __ ] live
+
+1338
+00:51:47,680 --> 00:51:50,880
+and a few other lives. And that's all I
+
+1339
+00:51:49,760 --> 00:51:52,400
+got for today. Thank you guys so much
+
+1340
+00:51:50,880 --> 00:51:54,160
+for being here. Other than that, I'm
+
+1341
+00:51:52,400 --> 00:51:56,800
+going to cue the outro because I got to
+
+1342
+00:51:54,160 --> 00:51:59,040
+get out of here pretty soon. But thank
+
+1343
+00:51:56,800 --> 00:52:01,280
+you for being here. Share it with a
+
+1344
+00:51:59,040 --> 00:52:03,520
+friend or something, bro. Oh, you know
+
+1345
+00:52:01,280 --> 00:52:06,880
+what? I got some [ __ ] I got some ball
+
+1346
+00:52:03,520 --> 00:52:11,320
+knowledge today. [snorts]
+
+1347
+00:52:06,880 --> 00:52:11,320
+I went down a rabbit hole last night.
+
+1348
+00:52:22,080 --> 00:52:27,560
+this morning about my [ __ ] I'm bing.
+
+1349
+00:52:24,560 --> 00:52:27,560
+She
+
+1350
+00:52:29,930 --> 00:52:32,640
+[music]
+
+1351
+00:52:31,120 --> 00:52:34,960
+pushing the limit. I'm pushing it up.
+
+1352
+00:52:32,640 --> 00:52:37,140
+[ __ ] it up. I'm back with your [ __ ]
+
+1353
+00:52:34,960 --> 00:52:38,080
+She g it up.
+
+1354
+00:52:37,140 --> 00:52:41,680
+[music]
+
+1355
+00:52:38,080 --> 00:52:43,600
+Like I'm got a lot of money. I can't
+
+1356
+00:52:41,680 --> 00:52:45,680
+relate to you. I don't know what [music]
+
+1357
+00:52:43,600 --> 00:52:47,840
+the time you talk to me. Sounded dumb as
+
+1358
+00:52:45,680 --> 00:52:49,680
+[ __ ]
+
+1359
+00:52:47,840 --> 00:52:52,680
+If you could understand me, [music] I'll
+
+1360
+00:52:49,680 --> 00:52:52,680
+ass.
+
+1361
+00:52:56,160 --> 00:53:01,120
+>> I'm pushing the limit. I'm pushing it
+
+1362
+00:52:57,460 --> 00:53:01,120
+[music] up. I'm [ __ ] it up.
+

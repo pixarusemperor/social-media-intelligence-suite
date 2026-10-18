@@ -1,0 +1,34 @@
+{
+  "post_id": "1429080842736205",
+  "url": "https://www.facebook.com/cnicsarl/posts/1429080842736205?locale=fr_FR",
+  "creation_time": 1792262702,
+  "date_iso": "2026-10-17T18:45:02+00:00",
+  "date_str": "2026-10-17 18:45:02 UTC",
+  "post_text": "📊 TA PRÉSENTATION A 38 DIAPOSITIVES\n\nLa dernière annonce « une dernière chose ».\n\nLe public commence à douter de la définition du mot dernière 😄\n\nAu premier anniversaire de PROPULSION, le 14 novembre...",
+  "reactions_count": 21,
+  "shares_count": 0,
+  "comments_count": 4,
+  "top_reactions": [],
+  "comments": [],
+  "image_urls": [
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854414199_1820549359290043_2151341884753370074_n.png?stp=dst-jpg_tt6&cstp=mx1463x2048&ctp=s720x720&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mKkSlHQaegAQ7kNvwEC-pUz&_nc_oc=Adpnz9CPLIEKw-gDoJ_kMSZQdbKejgcXyJDXa1NXRjMLv1kD5DccuciOGZNyq2jC5K55sQet6NTd1sf-7q4loqnN&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AfQUeaEvs4Nzusp4dxfnVw&_nc_ss=7f289&oh=00_AQM2hdzrhlR33AlYN-P7AnOWc-176FBePpwv75v5dkPDoQ&oe=6AD9E39C",
+    "https://external-fra3-2.xx.fbcdn.net/emg1/v/t13/2714578131709877226?url=https\\u00253A\\u00252F\\u00252Fanniversaire.propulsion.cm\\u00252Fbrand\\u00252Fpartage-anniversaire.jpg&fb_obo=1&utld=propulsion.cm&_nc_sid=c97757&_nc_ht=external-fra3-2.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p98x98_q75_tt6&ccb=18-1&_nc_gid=AfQUeaEvs4Nzusp4dxfnVw&_nc_zt=3&oh=06_Q3_EASwRPTgFNEgkgvKcCuOhxjYZhB6toFBHPifvtWhkGd9o&oe=6AD60D85",
+    "https://scontent-fra3-2.xx.fbcdn.net/v/t39.1997-6/37187675_274075013363458_5255981213620895744_n.png?stp=cp0_dst-png&cstp=mx240x240&ctp=s110x80&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=8deEOtsjDfEQ7kNvwHOALDh&_nc_oc=AdqhgWyeKt9cGq4K5dCFbm0kkpoIsCXvTdHuralXx_FRn90gbB0qCynfmvurv4du_89_aHJf-GnkXzJnepfrD5Q3&_nc_zt=26&_nc_ht=scontent-fra3-2.xx&_nc_gid=AfQUeaEvs4Nzusp4dxfnVw&_nc_ss=7f289&oh=00_AQNhIbUn3Ci5JDEaY7x92MmHdqJnDk2ynbIFH-20NwAqHw&oe=6AD9FD78"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_04/images/image_01.png",
+      "size_bytes": 36222,
+      "cdn_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854414199_1820549359290043_2151341884753370074_n.png?stp=dst-jpg_tt6&cstp=mx1463x2048&ctp=s720x720&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mKkSlHQaegAQ7kNvwEC-pUz&_nc_oc=Adpnz9CPLIEKw-gDoJ_kMSZQdbKejgcXyJDXa1NXRjMLv1kD5DccuciOGZNyq2jC5K55sQet6NTd1sf-7q4loqnN&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AfQUeaEvs4Nzusp4dxfnVw&_nc_ss=7f289&oh=00_AQM2hdzrhlR33AlYN-P7AnOWc-176FBePpwv75v5dkPDoQ&oe=6AD9E39C"
+    },
+    {
+      "filename": "image_03.png",
+      "rel_path": "images/image_03.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_04/images/image_03.png",
+      "size_bytes": 9432,
+      "cdn_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.1997-6/37187675_274075013363458_5255981213620895744_n.png?stp=cp0_dst-png&cstp=mx240x240&ctp=s110x80&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=8deEOtsjDfEQ7kNvwHOALDh&_nc_oc=AdqhgWyeKt9cGq4K5dCFbm0kkpoIsCXvTdHuralXx_FRn90gbB0qCynfmvurv4du_89_aHJf-GnkXzJnepfrD5Q3&_nc_zt=26&_nc_ht=scontent-fra3-2.xx&_nc_gid=AfQUeaEvs4Nzusp4dxfnVw&_nc_ss=7f289&oh=00_AQNhIbUn3Ci5JDEaY7x92MmHdqJnDk2ynbIFH-20NwAqHw&oe=6AD9FD78"
+    }
+  ]
+}

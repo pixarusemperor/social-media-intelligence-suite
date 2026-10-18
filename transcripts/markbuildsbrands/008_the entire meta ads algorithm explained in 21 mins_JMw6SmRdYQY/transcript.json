@@ -1,0 +1,3462 @@
+[
+  {
+    "start": 0.0,
+    "duration": 3.44,
+    "text": "Hey guys, Mark here. In this video, I'm"
+  },
+  {
+    "start": 1.52,
+    "duration": 4.6,
+    "text": "going to be explaining how the entire"
+  },
+  {
+    "start": 3.44,
+    "duration": 4.12,
+    "text": "Meta Ads algorithm actually works. A lot"
+  },
+  {
+    "start": 6.12,
+    "duration": 3.64,
+    "text": "of people think that running ads on"
+  },
+  {
+    "start": 7.56,
+    "duration": 3.6,
+    "text": "Facebook is just all random or that if"
+  },
+  {
+    "start": 9.76,
+    "duration": 2.8,
+    "text": "your creative is good enough, then"
+  },
+  {
+    "start": 11.16,
+    "duration": 3.2,
+    "text": "everything else will just magically fall"
+  },
+  {
+    "start": 12.56,
+    "duration": 3.68,
+    "text": "into place. Well, running profitable ads"
+  },
+  {
+    "start": 14.36,
+    "duration": 4.0,
+    "text": "on Facebook is both an art and a"
+  },
+  {
+    "start": 16.24,
+    "duration": 3.64,
+    "text": "science. The art is the creative, but"
+  },
+  {
+    "start": 18.36,
+    "duration": 3.4,
+    "text": "the science is exactly what I'm going to"
+  },
+  {
+    "start": 19.88,
+    "duration": 3.52,
+    "text": "be explaining in this video, how the"
+  },
+  {
+    "start": 21.76,
+    "duration": 3.04,
+    "text": "algorithm actually works. And more"
+  },
+  {
+    "start": 23.4,
+    "duration": 3.16,
+    "text": "specifically than a science, it's"
+  },
+  {
+    "start": 24.8,
+    "duration": 3.92,
+    "text": "actually an equation. And this is the"
+  },
+  {
+    "start": 26.56,
+    "duration": 4.28,
+    "text": "one equation that is actually going to"
+  },
+  {
+    "start": 28.72,
+    "duration": 3.56,
+    "text": "determine how profitable your ads are"
+  },
+  {
+    "start": 30.84,
+    "duration": 3.44,
+    "text": "going to be. Now, before I break down"
+  },
+  {
+    "start": 32.28,
+    "duration": 4.08,
+    "text": "this equation, I need to explain to you"
+  },
+  {
+    "start": 34.28,
+    "duration": 3.68,
+    "text": "the four-step process that Facebook uses"
+  },
+  {
+    "start": 36.36,
+    "duration": 3.36,
+    "text": "to actually show your ads, the one"
+  },
+  {
+    "start": 37.96,
+    "duration": 3.72,
+    "text": "update that broke everybody's ad"
+  },
+  {
+    "start": 39.72,
+    "duration": 2.88,
+    "text": "account, and at the end of this video,"
+  },
+  {
+    "start": 41.68,
+    "duration": 2.48,
+    "text": "I'm going to put in a little something"
+  },
+  {
+    "start": 42.6,
+    "duration": 3.48,
+    "text": "special to explain what this actually"
+  },
+  {
+    "start": 44.16,
+    "duration": 2.88,
+    "text": "all means and how the game really works."
+  },
+  {
+    "start": 46.08,
+    "duration": 2.16,
+    "text": "All right, so before we get too"
+  },
+  {
+    "start": 47.04,
+    "duration": 3.12,
+    "text": "technical, this is what you have to"
+  },
+  {
+    "start": 48.24,
+    "duration": 4.04,
+    "text": "understand. Facebook basically goes"
+  },
+  {
+    "start": 50.16,
+    "duration": 4.28,
+    "text": "through a four-step process to determine"
+  },
+  {
+    "start": 52.28,
+    "duration": 3.96,
+    "text": "which ad is going to show for any"
+  },
+  {
+    "start": 54.44,
+    "duration": 3.72,
+    "text": "particular user. Every time somebody"
+  },
+  {
+    "start": 56.24,
+    "duration": 3.76,
+    "text": "opens up their phone on Instagram and"
+  },
+  {
+    "start": 58.16,
+    "duration": 3.48,
+    "text": "they scroll and see an ad behind the"
+  },
+  {
+    "start": 60.0,
+    "duration": 3.72,
+    "text": "means there's literally a 200"
+  },
+  {
+    "start": 61.64,
+    "duration": 5.16,
+    "text": "millisecond window where Facebook is"
+  },
+  {
+    "start": 63.72,
+    "duration": 4.96,
+    "text": "doing all these incredible calculations"
+  },
+  {
+    "start": 66.8,
+    "duration": 3.88,
+    "text": "and machine learning decisions to"
+  },
+  {
+    "start": 68.68,
+    "duration": 4.2,
+    "text": "ultimately decide to put your ad in"
+  },
+  {
+    "start": 70.68,
+    "duration": 4.56,
+    "text": "front of the user or somebody else's."
+  },
+  {
+    "start": 72.88,
+    "duration": 4.52,
+    "text": "So, in that one 200 millisecond period,"
+  },
+  {
+    "start": 75.24,
+    "duration": 4.68,
+    "text": "there is literally tens of millions of"
+  },
+  {
+    "start": 77.4,
+    "duration": 4.4,
+    "text": "ads that are competing for that one"
+  },
+  {
+    "start": 79.92,
+    "duration": 3.68,
+    "text": "impression. And these are the four steps"
+  },
+  {
+    "start": 81.8,
+    "duration": 4.32,
+    "text": "right here. First, you have retrieval."
+  },
+  {
+    "start": 83.6,
+    "duration": 4.52,
+    "text": "Second is light ranking. Third is heavy"
+  },
+  {
+    "start": 86.12,
+    "duration": 3.64,
+    "text": "ranking. And the final piece is the"
+  },
+  {
+    "start": 88.12,
+    "duration": 3.44,
+    "text": "auction. So, let me break this down for"
+  },
+  {
+    "start": 89.76,
+    "duration": 5.24,
+    "text": "you. So, first up is retrieval."
+  },
+  {
+    "start": 91.56,
+    "duration": 5.32,
+    "text": "Retrieval is the most data-intensive"
+  },
+  {
+    "start": 95.0,
+    "duration": 3.84,
+    "text": "portion of this entire process because"
+  },
+  {
+    "start": 96.88,
+    "duration": 3.72,
+    "text": "as I said, there's tens of millions of"
+  },
+  {
+    "start": 98.84,
+    "duration": 4.04,
+    "text": "ads, tens of millions that are competing"
+  },
+  {
+    "start": 100.6,
+    "duration": 4.64,
+    "text": "for one individual spot. The process of"
+  },
+  {
+    "start": 102.88,
+    "duration": 4.32,
+    "text": "retrieval is essentially Facebook going"
+  },
+  {
+    "start": 105.24,
+    "duration": 4.2,
+    "text": "through and ultimately deciding, is the"
+  },
+  {
+    "start": 107.2,
+    "duration": 4.96,
+    "text": "ad right now even remotely relevant to"
+  },
+  {
+    "start": 109.44,
+    "duration": 5.24,
+    "text": "this user? Basically, like is it even in"
+  },
+  {
+    "start": 112.16,
+    "duration": 4.4,
+    "text": "the right ballpark? Now, this is also"
+  },
+  {
+    "start": 114.68,
+    "duration": 3.84,
+    "text": "the portion of the process where"
+  },
+  {
+    "start": 116.56,
+    "duration": 3.96,
+    "text": "Facebook actually analyzes all the"
+  },
+  {
+    "start": 118.52,
+    "duration": 4.4,
+    "text": "aspects of your creative to determine"
+  },
+  {
+    "start": 120.52,
+    "duration": 3.56,
+    "text": "how to narrow down the audience. So, you"
+  },
+  {
+    "start": 122.92,
+    "duration": 3.4,
+    "text": "may have heard this before, but this"
+  },
+  {
+    "start": 124.08,
+    "duration": 3.92,
+    "text": "whole concept of your creative is your"
+  },
+  {
+    "start": 126.32,
+    "duration": 3.36,
+    "text": "targeting. This is where Facebook is"
+  },
+  {
+    "start": 128.0,
+    "duration": 3.88,
+    "text": "analyzing everything about your creative"
+  },
+  {
+    "start": 129.68,
+    "duration": 5.04,
+    "text": "to determine who to show it to. This"
+  },
+  {
+    "start": 131.88,
+    "duration": 6.16,
+    "text": "includes, but is not limited to, your"
+  },
+  {
+    "start": 134.72,
+    "duration": 5.68,
+    "text": "hook, your format, the demographic of"
+  },
+  {
+    "start": 138.04,
+    "duration": 4.0,
+    "text": "the users that are actually on your ad."
+  },
+  {
+    "start": 140.4,
+    "duration": 3.92,
+    "text": "So, for example, if you're running an ad"
+  },
+  {
+    "start": 142.04,
+    "duration": 4.2,
+    "text": "that is featuring a woman that is 55"
+  },
+  {
+    "start": 144.32,
+    "duration": 3.16,
+    "text": "years old, Facebook takes note of that"
+  },
+  {
+    "start": 146.24,
+    "duration": 3.04,
+    "text": "and it's going to use that to power the"
+  },
+  {
+    "start": 147.48,
+    "duration": 3.92,
+    "text": "targeting to skew much more towards"
+  },
+  {
+    "start": 149.28,
+    "duration": 3.6,
+    "text": "women and skew much more towards older"
+  },
+  {
+    "start": 151.4,
+    "duration": 2.84,
+    "text": "women specifically. Of course, all taken"
+  },
+  {
+    "start": 152.88,
+    "duration": 2.64,
+    "text": "into context with what the creative is"
+  },
+  {
+    "start": 154.24,
+    "duration": 3.84,
+    "text": "actually saying. It's also looking at"
+  },
+  {
+    "start": 155.52,
+    "duration": 4.6,
+    "text": "your copy, it's looking at your script."
+  },
+  {
+    "start": 158.08,
+    "duration": 3.8,
+    "text": "If you're running video ads, it's"
+  },
+  {
+    "start": 160.12,
+    "duration": 3.24,
+    "text": "looking at your thumbnail. It's even"
+  },
+  {
+    "start": 161.88,
+    "duration": 3.72,
+    "text": "going and looking at your landing page"
+  },
+  {
+    "start": 163.36,
+    "duration": 3.16,
+    "text": "to determine generally who is this ad"
+  },
+  {
+    "start": 165.6,
+    "duration": 2.28,
+    "text": "trying to target. This is a"
+  },
+  {
+    "start": 166.52,
+    "duration": 3.24,
+    "text": "non-exhaustive list. I'm really"
+  },
+  {
+    "start": 167.88,
+    "duration": 4.32,
+    "text": "simplifying this. Behind the scenes,"
+  },
+  {
+    "start": 169.76,
+    "duration": 4.76,
+    "text": "it's a pretty substantial, literally an"
+  },
+  {
+    "start": 172.2,
+    "duration": 3.88,
+    "text": "algorithm in order to determine which"
+  },
+  {
+    "start": 174.52,
+    "duration": 3.4,
+    "text": "variable is going to correlate to which"
+  },
+  {
+    "start": 176.08,
+    "duration": 4.24,
+    "text": "piece of targeting. And this is probably"
+  },
+  {
+    "start": 177.92,
+    "duration": 4.28,
+    "text": "a good time to mention the Andromeda"
+  },
+  {
+    "start": 180.32,
+    "duration": 5.12,
+    "text": "update. Andromeda what is was an update"
+  },
+  {
+    "start": 182.2,
+    "duration": 5.12,
+    "text": "to the sorting process of the retrieval"
+  },
+  {
+    "start": 185.44,
+    "duration": 3.52,
+    "text": "steps specifically. Mostly just because"
+  },
+  {
+    "start": 187.32,
+    "duration": 3.68,
+    "text": "there was a massive influx of AI"
+  },
+  {
+    "start": 188.96,
+    "duration": 3.68,
+    "text": "creative that was absolutely flooding"
+  },
+  {
+    "start": 191.0,
+    "duration": 2.76,
+    "text": "Facebook to the point where their old"
+  },
+  {
+    "start": 192.64,
+    "duration": 2.56,
+    "text": "model of sifting through all these"
+  },
+  {
+    "start": 193.76,
+    "duration": 2.84,
+    "text": "creatives was not becoming very"
+  },
+  {
+    "start": 195.2,
+    "duration": 2.8,
+    "text": "effective. This is not the only reason"
+  },
+  {
+    "start": 196.6,
+    "duration": 3.44,
+    "text": "for the Andromeda update, but I believe"
+  },
+  {
+    "start": 198.0,
+    "duration": 4.12,
+    "text": "this is one of the biggest ones simply"
+  },
+  {
+    "start": 200.04,
+    "duration": 3.76,
+    "text": "due to the fact that AI has massively"
+  },
+  {
+    "start": 202.12,
+    "duration": 4.04,
+    "text": "increased creative production for all"
+  },
+  {
+    "start": 203.8,
+    "duration": 4.12,
+    "text": "advertisers. And now that's why Facebook"
+  },
+  {
+    "start": 206.16,
+    "duration": 3.48,
+    "text": "is mostly looking at creative to"
+  },
+  {
+    "start": 207.92,
+    "duration": 3.84,
+    "text": "determine targeting, not what you have"
+  },
+  {
+    "start": 209.64,
+    "duration": 4.0,
+    "text": "going on within your ad sets. That's why"
+  },
+  {
+    "start": 211.76,
+    "duration": 4.04,
+    "text": "you've probably seen a decline in"
+  },
+  {
+    "start": 213.64,
+    "duration": 4.4,
+    "text": "audiences that are actually able to"
+  },
+  {
+    "start": 215.8,
+    "duration": 4.76,
+    "text": "sustain high budgets profitably. Like I"
+  },
+  {
+    "start": 218.04,
+    "duration": 4.16,
+    "text": "rarely use audiences like interest, and"
+  },
+  {
+    "start": 220.56,
+    "duration": 3.64,
+    "text": "if I do, they're pretty capped in terms"
+  },
+  {
+    "start": 222.2,
+    "duration": 4.36,
+    "text": "of budget or, you know, lookalikes or"
+  },
+  {
+    "start": 224.2,
+    "duration": 4.68,
+    "text": "even custom audiences. Like I don't set"
+  },
+  {
+    "start": 226.56,
+    "duration": 3.96,
+    "text": "any real [ __ ] targeting when it comes"
+  },
+  {
+    "start": 228.88,
+    "duration": 3.2,
+    "text": "to my retargeting. I don't put any"
+  },
+  {
+    "start": 230.52,
+    "duration": 3.68,
+    "text": "custom audiences in there. I literally"
+  },
+  {
+    "start": 232.08,
+    "duration": 4.04,
+    "text": "just still run completely broad. And"
+  },
+  {
+    "start": 234.2,
+    "duration": 3.08,
+    "text": "most high-skill advertisers that I speak"
+  },
+  {
+    "start": 236.12,
+    "duration": 2.76,
+    "text": "to, they're doing something relatively"
+  },
+  {
+    "start": 237.28,
+    "duration": 3.32,
+    "text": "similar. Maybe one exclusion of"
+  },
+  {
+    "start": 238.88,
+    "duration": 3.44,
+    "text": "purchasers, but like other than that,"
+  },
+  {
+    "start": 240.6,
+    "duration": 3.68,
+    "text": "very, very broad. So, if that was kind"
+  },
+  {
+    "start": 242.32,
+    "duration": 4.32,
+    "text": "of the old way of doing targeting on"
+  },
+  {
+    "start": 244.28,
+    "duration": 4.16,
+    "text": "Facebook, the new way is to do a lot of"
+  },
+  {
+    "start": 246.64,
+    "duration": 4.0,
+    "text": "broad targeting. It's to do a lot of"
+  },
+  {
+    "start": 248.44,
+    "duration": 4.88,
+    "text": "Advantage Plus campaigns, and it's"
+  },
+  {
+    "start": 250.64,
+    "duration": 4.72,
+    "text": "usually within reason, within reason."
+  },
+  {
+    "start": 253.32,
+    "duration": 4.08,
+    "text": "Giving Facebook control. Like the reason"
+  },
+  {
+    "start": 255.36,
+    "duration": 4.16,
+    "text": "that I say it's within reason is because"
+  },
+  {
+    "start": 257.4,
+    "duration": 3.44,
+    "text": "if you give Facebook all the control,"
+  },
+  {
+    "start": 259.52,
+    "duration": 3.36,
+    "text": "the algorithm is good, don't get me"
+  },
+  {
+    "start": 260.84,
+    "duration": 4.0,
+    "text": "wrong, but holy [ __ ] the amount of"
+  },
+  {
+    "start": 262.88,
+    "duration": 4.12,
+    "text": "suggestions that Facebook gives you that"
+  },
+  {
+    "start": 264.84,
+    "duration": 3.64,
+    "text": "are horrible pieces of advice that are"
+  },
+  {
+    "start": 267.0,
+    "duration": 3.96,
+    "text": "just going to drain your [ __ ] bank"
+  },
+  {
+    "start": 268.48,
+    "duration": 4.16,
+    "text": "account is obscene. And it's always been"
+  },
+  {
+    "start": 270.96,
+    "duration": 3.36,
+    "text": "this way, too. They're still a company"
+  },
+  {
+    "start": 272.64,
+    "duration": 4.32,
+    "text": "at the end of the day, and you are a"
+  },
+  {
+    "start": 274.32,
+    "duration": 3.64,
+    "text": "customer. You are paying Facebook, so"
+  },
+  {
+    "start": 276.96,
+    "duration": 2.24,
+    "text": "they still want to get your money. I'll"
+  },
+  {
+    "start": 277.96,
+    "duration": 3.36,
+    "text": "save that for later in the video. Now,"
+  },
+  {
+    "start": 279.2,
+    "duration": 4.0,
+    "text": "the second step is going to be light"
+  },
+  {
+    "start": 281.32,
+    "duration": 3.56,
+    "text": "ranking. This step barely deserves a"
+  },
+  {
+    "start": 283.2,
+    "duration": 3.88,
+    "text": "description. It's basically taking the"
+  },
+  {
+    "start": 284.88,
+    "duration": 4.84,
+    "text": "now millions of ads instead of tens of"
+  },
+  {
+    "start": 287.08,
+    "duration": 4.52,
+    "text": "millions, and reducing it down to"
+  },
+  {
+    "start": 289.72,
+    "duration": 3.16,
+    "text": "thousands. There's really not a a whole"
+  },
+  {
+    "start": 291.6,
+    "duration": 3.44,
+    "text": "lot more to say about the light ranking"
+  },
+  {
+    "start": 292.88,
+    "duration": 3.84,
+    "text": "process. Now, the heavy ranking is the"
+  },
+  {
+    "start": 295.04,
+    "duration": 3.6,
+    "text": "next step, which, you guessed it, if"
+  },
+  {
+    "start": 296.72,
+    "duration": 4.2,
+    "text": "it's going from thousands of ads, you're"
+  },
+  {
+    "start": 298.64,
+    "duration": 4.16,
+    "text": "now trying to get to a couple hundred."
+  },
+  {
+    "start": 300.92,
+    "duration": 3.96,
+    "text": "Now, at this point, this is like your"
+  },
+  {
+    "start": 302.8,
+    "duration": 3.48,
+    "text": "real, legitimate competitors. Like this"
+  },
+  {
+    "start": 304.88,
+    "duration": 2.96,
+    "text": "is the stage where competitors are"
+  },
+  {
+    "start": 306.28,
+    "duration": 3.44,
+    "text": "actually something that you should take"
+  },
+  {
+    "start": 307.84,
+    "duration": 3.76,
+    "text": "into consideration, because you don't"
+  },
+  {
+    "start": 309.72,
+    "duration": 4.12,
+    "text": "have tens of millions of competitors."
+  },
+  {
+    "start": 311.6,
+    "duration": 3.24,
+    "text": "You just don't. You probably only have a"
+  },
+  {
+    "start": 313.84,
+    "duration": 2.08,
+    "text": "handful, at least in the eyes of"
+  },
+  {
+    "start": 314.84,
+    "duration": 3.28,
+    "text": "Facebook, you only have a handful."
+  },
+  {
+    "start": 315.92,
+    "duration": 4.04,
+    "text": "There's only 10 million advertisers"
+  },
+  {
+    "start": 318.12,
+    "duration": 3.84,
+    "text": "total on Facebook, which may seem like a"
+  },
+  {
+    "start": 319.96,
+    "duration": 3.96,
+    "text": "massive number, but also think about we"
+  },
+  {
+    "start": 321.96,
+    "duration": 3.6,
+    "text": "are in e-commerce specifically, at least"
+  },
+  {
+    "start": 323.92,
+    "duration": 2.76,
+    "text": "I'm in e-commerce specifically, which"
+  },
+  {
+    "start": 325.56,
+    "duration": 2.8,
+    "text": "immediately narrows it pretty"
+  },
+  {
+    "start": 326.68,
+    "duration": 3.6,
+    "text": "substantially. Now, the really important"
+  },
+  {
+    "start": 328.36,
+    "duration": 3.84,
+    "text": "piece about the heavy ranking step is"
+  },
+  {
+    "start": 330.28,
+    "duration": 3.4,
+    "text": "that this is where that equation"
+  },
+  {
+    "start": 332.2,
+    "duration": 2.96,
+    "text": "actually comes into play. So, I want to"
+  },
+  {
+    "start": 333.68,
+    "duration": 3.48,
+    "text": "take a second to talk about that,"
+  },
+  {
+    "start": 335.16,
+    "duration": 3.8,
+    "text": "because I remember Facebook released"
+  },
+  {
+    "start": 337.16,
+    "duration": 3.92,
+    "text": "this. They have since withdrawn it, but"
+  },
+  {
+    "start": 338.96,
+    "duration": 4.76,
+    "text": "they released this documentation to"
+  },
+  {
+    "start": 341.08,
+    "duration": 5.6,
+    "text": "explain how they actually assign a"
+  },
+  {
+    "start": 343.72,
+    "duration": 4.72,
+    "text": "specific value for every single ad when"
+  },
+  {
+    "start": 346.68,
+    "duration": 2.88,
+    "text": "they are fighting for an impression. And"
+  },
+  {
+    "start": 348.44,
+    "duration": 2.04,
+    "text": "the one that has a higher value,"
+  },
+  {
+    "start": 349.56,
+    "duration": 2.04,
+    "text": "obviously, is going to win the"
+  },
+  {
+    "start": 350.48,
+    "duration": 2.64,
+    "text": "impression and the one with the lower"
+  },
+  {
+    "start": 351.6,
+    "duration": 3.16,
+    "text": "value is going to lose the impression"
+  },
+  {
+    "start": 353.12,
+    "duration": 2.8,
+    "text": "and get served a lower quality"
+  },
+  {
+    "start": 354.76,
+    "duration": 2.44,
+    "text": "impression. All right, so this is the"
+  },
+  {
+    "start": 355.92,
+    "duration": 2.96,
+    "text": "equation I was talking about. This is"
+  },
+  {
+    "start": 357.2,
+    "duration": 4.68,
+    "text": "actually directly from Facebook."
+  },
+  {
+    "start": 358.88,
+    "duration": 4.44,
+    "text": "Somebody swiped it and it is still on"
+  },
+  {
+    "start": 361.88,
+    "duration": 2.84,
+    "text": "their website, but it's not on Facebook."
+  },
+  {
+    "start": 363.32,
+    "duration": 2.48,
+    "text": "But this is how it's actually working"
+  },
+  {
+    "start": 364.72,
+    "duration": 2.64,
+    "text": "underneath the hood, all right? So the"
+  },
+  {
+    "start": 365.8,
+    "duration": 4.2,
+    "text": "total value, this is what you want to"
+  },
+  {
+    "start": 367.36,
+    "duration": 5.16,
+    "text": "aim on maximizing, is equal to this"
+  },
+  {
+    "start": 370.0,
+    "duration": 5.84,
+    "text": "piece first of maximizing advertiser"
+  },
+  {
+    "start": 372.52,
+    "duration": 5.44,
+    "text": "value plus maximizing consumer value and"
+  },
+  {
+    "start": 375.84,
+    "duration": 4.0,
+    "text": "consumer experience. So the piece to"
+  },
+  {
+    "start": 377.96,
+    "duration": 3.64,
+    "text": "maximize your advertise value, number"
+  },
+  {
+    "start": 379.84,
+    "duration": 4.04,
+    "text": "one is going to be your bid, which we'll"
+  },
+  {
+    "start": 381.6,
+    "duration": 5.28,
+    "text": "get to in a second, times your estimated"
+  },
+  {
+    "start": 383.88,
+    "duration": 4.28,
+    "text": "action rate. Since 99% of us and 99% of"
+  },
+  {
+    "start": 386.88,
+    "duration": 3.08,
+    "text": "people watching this video are running"
+  },
+  {
+    "start": 388.16,
+    "duration": 4.04,
+    "text": "conversion campaigns, that essentially"
+  },
+  {
+    "start": 389.96,
+    "duration": 3.92,
+    "text": "means what is the estimated action rate"
+  },
+  {
+    "start": 392.2,
+    "duration": 3.4,
+    "text": "to get a conversion. And if you look"
+  },
+  {
+    "start": 393.88,
+    "duration": 3.28,
+    "text": "down here, you can see they actually"
+  },
+  {
+    "start": 395.6,
+    "duration": 4.68,
+    "text": "break it down specifically for a"
+  },
+  {
+    "start": 397.16,
+    "duration": 5.04,
+    "text": "conversion optimized ad, which is the"
+  },
+  {
+    "start": 400.28,
+    "duration": 4.16,
+    "text": "estimated click-through rate times the"
+  },
+  {
+    "start": 402.2,
+    "duration": 3.84,
+    "text": "estimated click-to-conversion rate. So"
+  },
+  {
+    "start": 404.44,
+    "duration": 4.08,
+    "text": "the way to get gamify this, of course,"
+  },
+  {
+    "start": 406.04,
+    "duration": 4.32,
+    "text": "is you want to have really high CTR."
+  },
+  {
+    "start": 408.52,
+    "duration": 3.2,
+    "text": "Historically, Facebook just loves ads"
+  },
+  {
+    "start": 410.36,
+    "duration": 3.52,
+    "text": "that have really high CTR, and the"
+  },
+  {
+    "start": 411.72,
+    "duration": 5.32,
+    "text": "reason why is because that is the the"
+  },
+  {
+    "start": 413.88,
+    "duration": 5.92,
+    "text": "most pure indication of how relevant"
+  },
+  {
+    "start": 417.04,
+    "duration": 4.64,
+    "text": "that one particular ad is to the user."
+  },
+  {
+    "start": 419.8,
+    "duration": 3.68,
+    "text": "So Facebook is going to reward you"
+  },
+  {
+    "start": 421.68,
+    "duration": 4.16,
+    "text": "typically over time and as you spend"
+  },
+  {
+    "start": 423.48,
+    "duration": 4.56,
+    "text": "more with lower cost to advertise, lower"
+  },
+  {
+    "start": 425.84,
+    "duration": 3.6,
+    "text": "CPMs, and ideally higher quality"
+  },
+  {
+    "start": 428.04,
+    "duration": 2.88,
+    "text": "traffic, too. So this is kind of like"
+  },
+  {
+    "start": 429.44,
+    "duration": 3.28,
+    "text": "the first piece of that. The second"
+  },
+  {
+    "start": 430.92,
+    "duration": 3.16,
+    "text": "piece is going to be you want to have a"
+  },
+  {
+    "start": 432.72,
+    "duration": 3.44,
+    "text": "high, they call it like"
+  },
+  {
+    "start": 434.08,
+    "duration": 3.56,
+    "text": "click-to-conversion. It's basically just"
+  },
+  {
+    "start": 436.16,
+    "duration": 2.8,
+    "text": "your conversion rate, which is out of"
+  },
+  {
+    "start": 437.64,
+    "duration": 3.28,
+    "text": "all the clicks that you had, how many"
+  },
+  {
+    "start": 438.96,
+    "duration": 4.04,
+    "text": "actually purchased. And again, if you're"
+  },
+  {
+    "start": 440.92,
+    "duration": 3.84,
+    "text": "running a e-commerce business, this is"
+  },
+  {
+    "start": 443.0,
+    "duration": 2.84,
+    "text": "going to be like a legitimate purchase"
+  },
+  {
+    "start": 444.76,
+    "duration": 3.08,
+    "text": "because that's typically what you're"
+  },
+  {
+    "start": 445.84,
+    "duration": 3.48,
+    "text": "optimizing for. But if you're in, you"
+  },
+  {
+    "start": 447.84,
+    "duration": 3.68,
+    "text": "know, the info industry, for example,"
+  },
+  {
+    "start": 449.32,
+    "duration": 4.08,
+    "text": "you're optimizing for calls, what is the"
+  },
+  {
+    "start": 451.52,
+    "duration": 3.52,
+    "text": "ratio between clicks to calls that"
+  },
+  {
+    "start": 453.4,
+    "duration": 3.36,
+    "text": "you're getting or clicks to applications"
+  },
+  {
+    "start": 455.04,
+    "duration": 3.64,
+    "text": "or insert your conversion here, it"
+  },
+  {
+    "start": 456.76,
+    "duration": 4.04,
+    "text": "doesn't really matter. Facebook views a"
+  },
+  {
+    "start": 458.68,
+    "duration": 3.56,
+    "text": "lot of this largely the same, at least"
+  },
+  {
+    "start": 460.8,
+    "duration": 2.76,
+    "text": "in the context of this equation. So the"
+  },
+  {
+    "start": 462.24,
+    "duration": 2.96,
+    "text": "way I like to think about this is the"
+  },
+  {
+    "start": 463.56,
+    "duration": 2.52,
+    "text": "estimated click-through rate, I think"
+  },
+  {
+    "start": 465.2,
+    "duration": 2.28,
+    "text": "it's actually more than the"
+  },
+  {
+    "start": 466.08,
+    "duration": 3.96,
+    "text": "click-through rate. I think it's a"
+  },
+  {
+    "start": 467.48,
+    "duration": 4.4,
+    "text": "culmination of all your soft metrics."
+  },
+  {
+    "start": 470.04,
+    "duration": 3.76,
+    "text": "So, that is your CTR, but that's also"
+  },
+  {
+    "start": 471.88,
+    "duration": 3.68,
+    "text": "your CPC, your CPMs, your hook rate,"
+  },
+  {
+    "start": 473.8,
+    "duration": 3.32,
+    "text": "your hold rate, cost per 3-second video"
+  },
+  {
+    "start": 475.56,
+    "duration": 4.36,
+    "text": "view, like all these metrics that are"
+  },
+  {
+    "start": 477.12,
+    "duration": 4.2,
+    "text": "associated with getting somebody engaged"
+  },
+  {
+    "start": 479.92,
+    "duration": 4.28,
+    "text": "and getting them to click. And then the"
+  },
+  {
+    "start": 481.32,
+    "duration": 5.12,
+    "text": "second half of this is how good are you"
+  },
+  {
+    "start": 484.2,
+    "duration": 4.04,
+    "text": "at monetizing that click, taking that"
+  },
+  {
+    "start": 486.44,
+    "duration": 4.28,
+    "text": "click through your funnel, and turning"
+  },
+  {
+    "start": 488.24,
+    "duration": 3.64,
+    "text": "somebody who's a prospect into a buyer."
+  },
+  {
+    "start": 490.72,
+    "duration": 3.12,
+    "text": "Pretty straightforward. And this last"
+  },
+  {
+    "start": 491.88,
+    "duration": 3.92,
+    "text": "piece is basically Facebook trying to"
+  },
+  {
+    "start": 493.84,
+    "duration": 3.68,
+    "text": "save their own ass from advertisers that"
+  },
+  {
+    "start": 495.8,
+    "duration": 3.72,
+    "text": "are incredibly aggressive and cause a"
+  },
+  {
+    "start": 497.52,
+    "duration": 4.24,
+    "text": "terrible user experience for the users."
+  },
+  {
+    "start": 499.52,
+    "duration": 3.36,
+    "text": "Because if this piece just did not exist"
+  },
+  {
+    "start": 501.76,
+    "duration": 2.68,
+    "text": "and we didn't care about the user"
+  },
+  {
+    "start": 502.88,
+    "duration": 3.6,
+    "text": "experience whatsoever, advertisers would"
+  },
+  {
+    "start": 504.44,
+    "duration": 4.32,
+    "text": "just flood the platform and completely"
+  },
+  {
+    "start": 506.48,
+    "duration": 3.84,
+    "text": "just destroy Facebook as a platform"
+  },
+  {
+    "start": 508.76,
+    "duration": 3.08,
+    "text": "because you just have [ __ ] loads of"
+  },
+  {
+    "start": 510.32,
+    "duration": 2.96,
+    "text": "scammers, not like there isn't scammers"
+  },
+  {
+    "start": 511.84,
+    "duration": 3.36,
+    "text": "on Facebook anyways, but there would be"
+  },
+  {
+    "start": 513.28,
+    "duration": 3.76,
+    "text": "way more. Like it would be like 50/50"
+  },
+  {
+    "start": 515.2,
+    "duration": 3.44,
+    "text": "instead of 80/20, which is roughly what"
+  },
+  {
+    "start": 517.04,
+    "duration": 4.04,
+    "text": "it is right now. So, this is Facebook"
+  },
+  {
+    "start": 518.64,
+    "duration": 5.2,
+    "text": "saying, \"Hey, I want you to have the"
+  },
+  {
+    "start": 521.08,
+    "duration": 5.6,
+    "text": "most relevant ads to the user, which is"
+  },
+  {
+    "start": 523.84,
+    "duration": 4.96,
+    "text": "CTR, all the soft metrics, and I want"
+  },
+  {
+    "start": 526.68,
+    "duration": 3.44,
+    "text": "you to actually get conversions for all"
+  },
+  {
+    "start": 528.8,
+    "duration": 2.96,
+    "text": "the clicks that you're getting, which is"
+  },
+  {
+    "start": 530.12,
+    "duration": 3.32,
+    "text": "the conversion rate, and I don't want"
+  },
+  {
+    "start": 531.76,
+    "duration": 2.88,
+    "text": "you to piss off all of our [ __ ] users"
+  },
+  {
+    "start": 533.44,
+    "duration": 2.92,
+    "text": "in the process.\" And that's the last"
+  },
+  {
+    "start": 534.64,
+    "duration": 3.84,
+    "text": "piece. All right, so we took it from"
+  },
+  {
+    "start": 536.36,
+    "duration": 4.0,
+    "text": "thousands of ads and now we're down to a"
+  },
+  {
+    "start": 538.48,
+    "duration": 3.68,
+    "text": "few hundred. In fact, sometimes it could"
+  },
+  {
+    "start": 540.36,
+    "duration": 3.44,
+    "text": "be even less than a few hundred. But now"
+  },
+  {
+    "start": 542.16,
+    "duration": 4.04,
+    "text": "we have the final step in the process,"
+  },
+  {
+    "start": 543.8,
+    "duration": 4.76,
+    "text": "which is going to be the auction. And"
+  },
+  {
+    "start": 546.2,
+    "duration": 4.84,
+    "text": "the auction is exactly what it sounds"
+  },
+  {
+    "start": 548.56,
+    "duration": 4.28,
+    "text": "like. It's all the advertisers that are"
+  },
+  {
+    "start": 551.04,
+    "duration": 4.12,
+    "text": "left competing for that one impression"
+  },
+  {
+    "start": 552.84,
+    "duration": 4.16,
+    "text": "and basically who can have the highest"
+  },
+  {
+    "start": 555.16,
+    "duration": 3.28,
+    "text": "bid, of course with all the context of"
+  },
+  {
+    "start": 557.0,
+    "duration": 2.48,
+    "text": "that equation that I said previously,"
+  },
+  {
+    "start": 558.44,
+    "duration": 2.32,
+    "text": "that's going to be the one that wins the"
+  },
+  {
+    "start": 559.48,
+    "duration": 2.2,
+    "text": "impression. So, majority of people"
+  },
+  {
+    "start": 560.76,
+    "duration": 2.44,
+    "text": "watching this video right now are"
+  },
+  {
+    "start": 561.68,
+    "duration": 3.76,
+    "text": "probably running what's called, you"
+  },
+  {
+    "start": 563.2,
+    "duration": 4.28,
+    "text": "know, lowest cost bidding or also known"
+  },
+  {
+    "start": 565.44,
+    "duration": 3.88,
+    "text": "as like auto bidding, which Facebook is"
+  },
+  {
+    "start": 567.48,
+    "duration": 2.96,
+    "text": "just doing all the bidding for you,"
+  },
+  {
+    "start": 569.32,
+    "duration": 3.36,
+    "text": "trying to get you conversions for the"
+  },
+  {
+    "start": 570.44,
+    "duration": 4.6,
+    "text": "lowest cost possible. This is, like I"
+  },
+  {
+    "start": 572.68,
+    "duration": 4.84,
+    "text": "said, auto bidding. You can also do"
+  },
+  {
+    "start": 575.04,
+    "duration": 3.96,
+    "text": "manual bidding, which can come in a few"
+  },
+  {
+    "start": 577.52,
+    "duration": 2.96,
+    "text": "different ways. Manual bidding, you can"
+  },
+  {
+    "start": 579.0,
+    "duration": 3.64,
+    "text": "do something called cost caps, which is"
+  },
+  {
+    "start": 580.48,
+    "duration": 4.2,
+    "text": "where you set a cap on the maximum"
+  },
+  {
+    "start": 582.64,
+    "duration": 3.84,
+    "text": "amount that you're willing to pay to"
+  },
+  {
+    "start": 584.68,
+    "duration": 3.36,
+    "text": "acquire a customer. You can also do bid"
+  },
+  {
+    "start": 586.48,
+    "duration": 3.64,
+    "text": "caps, which is similar, except it's the"
+  },
+  {
+    "start": 588.04,
+    "duration": 3.6,
+    "text": "maximum amount that you want to bid to"
+  },
+  {
+    "start": 590.12,
+    "duration": 3.6,
+    "text": "acquire a customer. And there's some"
+  },
+  {
+    "start": 591.64,
+    "duration": 4.0,
+    "text": "other stuff that Facebook is always"
+  },
+  {
+    "start": 593.72,
+    "duration": 3.64,
+    "text": "releasing as well to help you optimize,"
+  },
+  {
+    "start": 595.64,
+    "duration": 3.24,
+    "text": "you know, maximum value, target ROAS,"
+  },
+  {
+    "start": 597.36,
+    "duration": 3.24,
+    "text": "stuff like that. But I'll tell you this,"
+  },
+  {
+    "start": 598.88,
+    "duration": 5.0,
+    "text": "there's a lot of people that are really"
+  },
+  {
+    "start": 600.6,
+    "duration": 4.76,
+    "text": "obsessing about cost caps or bid caps or"
+  },
+  {
+    "start": 603.88,
+    "duration": 3.28,
+    "text": "whatever the hot, you know, manual"
+  },
+  {
+    "start": 605.36,
+    "duration": 3.64,
+    "text": "bidding method is at the time. I can"
+  },
+  {
+    "start": 607.16,
+    "duration": 3.32,
+    "text": "tell you for a fact, I have seen ad"
+  },
+  {
+    "start": 609.0,
+    "duration": 3.68,
+    "text": "accounts, I have ran ad accounts that"
+  },
+  {
+    "start": 610.48,
+    "duration": 3.92,
+    "text": "are spending multiple five figures per"
+  },
+  {
+    "start": 612.68,
+    "duration": 3.88,
+    "text": "day. I have seen one spending six"
+  },
+  {
+    "start": 614.4,
+    "duration": 3.32,
+    "text": "figures per day, all on lowest cost, and"
+  },
+  {
+    "start": 616.56,
+    "duration": 3.64,
+    "text": "they're good ad accounts. They are"
+  },
+  {
+    "start": 617.72,
+    "duration": 4.24,
+    "text": "profitable. Other people literally only"
+  },
+  {
+    "start": 620.2,
+    "duration": 4.12,
+    "text": "run bid caps. You can see both sides of"
+  },
+  {
+    "start": 621.96,
+    "duration": 4.04,
+    "text": "the spectrum, but the point is you"
+  },
+  {
+    "start": 624.32,
+    "duration": 3.4,
+    "text": "should choose what is actually going to"
+  },
+  {
+    "start": 626.0,
+    "duration": 3.16,
+    "text": "solve the constraint in your business"
+  },
+  {
+    "start": 627.72,
+    "duration": 2.48,
+    "text": "for you. Because I talk to people all"
+  },
+  {
+    "start": 629.16,
+    "duration": 2.96,
+    "text": "the time, they're like, \"All right, in"
+  },
+  {
+    "start": 630.2,
+    "duration": 3.4,
+    "text": "order to get from like 1K a day to 10K"
+  },
+  {
+    "start": 632.12,
+    "duration": 3.04,
+    "text": "per day, I just got like media buy my"
+  },
+  {
+    "start": 633.6,
+    "duration": 2.8,
+    "text": "way there.\" And like there's a little"
+  },
+  {
+    "start": 635.16,
+    "duration": 2.8,
+    "text": "bit you can do, don't get me wrong. I'm"
+  },
+  {
+    "start": 636.4,
+    "duration": 3.36,
+    "text": "not the guy that's saying like media"
+  },
+  {
+    "start": 637.96,
+    "duration": 3.8,
+    "text": "buying is dead. I'm defending media"
+  },
+  {
+    "start": 639.76,
+    "duration": 3.8,
+    "text": "buying. At the same time, you have to"
+  },
+  {
+    "start": 641.76,
+    "duration": 3.32,
+    "text": "think like an entrepreneur, not like a"
+  },
+  {
+    "start": 643.56,
+    "duration": 3.32,
+    "text": "media buyer. And just to show this"
+  },
+  {
+    "start": 645.08,
+    "duration": 4.76,
+    "text": "entire process visually, all right, this"
+  },
+  {
+    "start": 646.88,
+    "duration": 4.56,
+    "text": "is how Facebook actually picks ads in"
+  },
+  {
+    "start": 649.84,
+    "duration": 3.44,
+    "text": "under 200 milliseconds. So this is the"
+  },
+  {
+    "start": 651.44,
+    "duration": 3.28,
+    "text": "first step, tens of millions of ads"
+  },
+  {
+    "start": 653.28,
+    "duration": 3.84,
+    "text": "competing for one impression. After"
+  },
+  {
+    "start": 654.72,
+    "duration": 3.4,
+    "text": "that, we go through the light ranking,"
+  },
+  {
+    "start": 657.12,
+    "duration": 2.48,
+    "text": "right? Now you can see there's"
+  },
+  {
+    "start": 658.12,
+    "duration": 3.64,
+    "text": "substantially less, say like roughly"
+  },
+  {
+    "start": 659.6,
+    "duration": 3.76,
+    "text": "5,000. Next step, there's just a few"
+  },
+  {
+    "start": 661.76,
+    "duration": 4.0,
+    "text": "hundred. Now we're going to go into"
+  },
+  {
+    "start": 663.36,
+    "duration": 4.68,
+    "text": "heavy ranking, which is boom, now we're"
+  },
+  {
+    "start": 665.76,
+    "duration": 3.28,
+    "text": "on the final step, which is actually"
+  },
+  {
+    "start": 668.04,
+    "duration": 2.32,
+    "text": "competing who's going to have the"
+  },
+  {
+    "start": 669.04,
+    "duration": 3.12,
+    "text": "highest bid. There's very few"
+  },
+  {
+    "start": 670.36,
+    "duration": 3.92,
+    "text": "advertisers left at this step, until"
+  },
+  {
+    "start": 672.16,
+    "duration": 3.24,
+    "text": "finally your ad is actually served. You"
+  },
+  {
+    "start": 674.28,
+    "duration": 3.48,
+    "text": "have the highest bid, you win the"
+  },
+  {
+    "start": 675.4,
+    "duration": 4.8,
+    "text": "impression. So again, retrieval, light"
+  },
+  {
+    "start": 677.76,
+    "duration": 4.24,
+    "text": "ranking, heavy ranking, and the auction"
+  },
+  {
+    "start": 680.2,
+    "duration": 3.16,
+    "text": "as the final step there. Okay, so now"
+  },
+  {
+    "start": 682.0,
+    "duration": 3.48,
+    "text": "you know how this filtering process"
+  },
+  {
+    "start": 683.36,
+    "duration": 4.72,
+    "text": "works, how does that actually affect"
+  },
+  {
+    "start": 685.48,
+    "duration": 4.64,
+    "text": "your ability to create winning ads"
+  },
+  {
+    "start": 688.08,
+    "duration": 3.8,
+    "text": "consistently and more importantly"
+  },
+  {
+    "start": 690.12,
+    "duration": 3.04,
+    "text": "predictably churn out winners into your"
+  },
+  {
+    "start": 691.88,
+    "duration": 2.84,
+    "text": "ad account. So there's a few other"
+  },
+  {
+    "start": 693.16,
+    "duration": 3.36,
+    "text": "things that aren't part of that"
+  },
+  {
+    "start": 694.72,
+    "duration": 3.2,
+    "text": "four-step ranking process that are still"
+  },
+  {
+    "start": 696.52,
+    "duration": 3.2,
+    "text": "really important to understand so that"
+  },
+  {
+    "start": 697.92,
+    "duration": 3.04,
+    "text": "you can have the most profitable ads as"
+  },
+  {
+    "start": 699.72,
+    "duration": 2.96,
+    "text": "possible. All right, first I want to"
+  },
+  {
+    "start": 700.96,
+    "duration": 3.96,
+    "text": "talk for a second about the learning"
+  },
+  {
+    "start": 702.68,
+    "duration": 4.0,
+    "text": "phase, okay? So, the learning phase,"
+  },
+  {
+    "start": 704.92,
+    "duration": 4.0,
+    "text": "according to Facebook themselves, is"
+  },
+  {
+    "start": 706.68,
+    "duration": 3.6,
+    "text": "basically a phase that your ads go"
+  },
+  {
+    "start": 708.92,
+    "duration": 2.76,
+    "text": "through, your ad sets go through, your"
+  },
+  {
+    "start": 710.28,
+    "duration": 4.68,
+    "text": "campaigns go through, but especially at"
+  },
+  {
+    "start": 711.68,
+    "duration": 5.28,
+    "text": "the ad level to acquire conversions so"
+  },
+  {
+    "start": 714.96,
+    "duration": 3.6,
+    "text": "that it can learn about your customer"
+  },
+  {
+    "start": 716.96,
+    "duration": 4.24,
+    "text": "and then you kind of exit the learning"
+  },
+  {
+    "start": 718.56,
+    "duration": 4.04,
+    "text": "phase and go into like mature phase"
+  },
+  {
+    "start": 721.2,
+    "duration": 3.28,
+    "text": "where you're getting more predictable"
+  },
+  {
+    "start": 722.6,
+    "duration": 3.08,
+    "text": "consistent results. Here's my beef with"
+  },
+  {
+    "start": 724.48,
+    "duration": 2.36,
+    "text": "this whole [ __ ] term. Like that's the"
+  },
+  {
+    "start": 725.68,
+    "duration": 3.0,
+    "text": "theory. Let me tell you the [ __ ]"
+  },
+  {
+    "start": 726.84,
+    "duration": 3.32,
+    "text": "reality. Your ads are always learning."
+  },
+  {
+    "start": 728.68,
+    "duration": 2.96,
+    "text": "They never stop learning. There's not a"
+  },
+  {
+    "start": 730.16,
+    "duration": 2.44,
+    "text": "learning phase and then they get out of"
+  },
+  {
+    "start": 731.64,
+    "duration": 3.28,
+    "text": "learning phase and they're just going to"
+  },
+  {
+    "start": 732.6,
+    "duration": 4.6,
+    "text": "be good forever. Everything dies at some"
+  },
+  {
+    "start": 734.92,
+    "duration": 3.64,
+    "text": "point. It's just the circle of ads. So,"
+  },
+  {
+    "start": 737.2,
+    "duration": 3.96,
+    "text": "if you are obsessing over the learning"
+  },
+  {
+    "start": 738.56,
+    "duration": 4.52,
+    "text": "phase, just stop. Of course, the ads"
+  },
+  {
+    "start": 741.16,
+    "duration": 3.96,
+    "text": "initially are going to be a little bit"
+  },
+  {
+    "start": 743.08,
+    "duration": 3.68,
+    "text": "more volatile, a little bit more bumpy,"
+  },
+  {
+    "start": 745.12,
+    "duration": 3.04,
+    "text": "and sometimes you see improvements over"
+  },
+  {
+    "start": 746.76,
+    "duration": 3.12,
+    "text": "time with more consistency, but"
+  },
+  {
+    "start": 748.16,
+    "duration": 3.56,
+    "text": "sometimes you don't. Sometimes the"
+  },
+  {
+    "start": 749.88,
+    "duration": 4.68,
+    "text": "solution is literally just to make"
+  },
+  {
+    "start": 751.72,
+    "duration": 4.6,
+    "text": "better ads. So, spending too much time"
+  },
+  {
+    "start": 754.56,
+    "duration": 3.2,
+    "text": "on the learning phase is not super"
+  },
+  {
+    "start": 756.32,
+    "duration": 2.72,
+    "text": "smart. The main thing I want to say here"
+  },
+  {
+    "start": 757.76,
+    "duration": 2.76,
+    "text": "is like if you're not spending a lot of"
+  },
+  {
+    "start": 759.04,
+    "duration": 3.04,
+    "text": "money on ads, maybe you're spending, you"
+  },
+  {
+    "start": 760.52,
+    "duration": 2.92,
+    "text": "know, 50 bucks a day, a few hundred"
+  },
+  {
+    "start": 762.08,
+    "duration": 2.68,
+    "text": "bucks per day, even up to like a"
+  },
+  {
+    "start": 763.44,
+    "duration": 3.12,
+    "text": "thousand dollars per day, I think that's"
+  },
+  {
+    "start": 764.76,
+    "duration": 3.56,
+    "text": "kind of like the barrier. If you see"
+  },
+  {
+    "start": 766.56,
+    "duration": 3.12,
+    "text": "your results being like up and down,"
+  },
+  {
+    "start": 768.32,
+    "duration": 4.84,
+    "text": "like it literally looks like a freaking"
+  },
+  {
+    "start": 769.68,
+    "duration": 5.68,
+    "text": "sine wave, that is normal, okay? That's"
+  },
+  {
+    "start": 773.16,
+    "duration": 3.84,
+    "text": "100% normal. That's how the game works."
+  },
+  {
+    "start": 775.36,
+    "duration": 5.04,
+    "text": "[ __ ] I experience inconsistencies. I"
+  },
+  {
+    "start": 777.0,
+    "duration": 5.72,
+    "text": "spend way beyond 1K per day. And most"
+  },
+  {
+    "start": 780.4,
+    "duration": 4.28,
+    "text": "advertisers do. Facebook is an emotional"
+  },
+  {
+    "start": 782.72,
+    "duration": 3.84,
+    "text": "ass platform, man. It's a bunch of"
+  },
+  {
+    "start": 784.68,
+    "duration": 3.52,
+    "text": "emotional human beings like you and me."
+  },
+  {
+    "start": 786.56,
+    "duration": 2.96,
+    "text": "Do you really expect it to be the most"
+  },
+  {
+    "start": 788.2,
+    "duration": 2.96,
+    "text": "consistent thing on the world? If you"
+  },
+  {
+    "start": 789.52,
+    "duration": 3.69,
+    "text": "want super duper consistent results,"
+  },
+  {
+    "start": 791.16,
+    "duration": 2.24,
+    "text": "like go advertise on Google"
+  },
+  {
+    "start": 793.21,
+    "duration": 1.87,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": 793.4,
+    "duration": 3.2,
+    "text": ">> and uh you know, enjoy your time, all"
+  },
+  {
+    "start": 795.08,
+    "duration": 2.92,
+    "text": "right? Google's cool. It's got its own"
+  },
+  {
+    "start": 796.6,
+    "duration": 2.96,
+    "text": "issues, but with Facebook"
+  },
+  {
+    "start": 798.0,
+    "duration": 3.36,
+    "text": "inconsistencies is part of the game, but"
+  },
+  {
+    "start": 799.56,
+    "duration": 3.64,
+    "text": "especially at lower levels of spend,"
+  },
+  {
+    "start": 801.36,
+    "duration": 3.76,
+    "text": "you'll see people just bitching about,"
+  },
+  {
+    "start": 803.2,
+    "duration": 3.52,
+    "text": "\"Oh, I was at 3X ROAS and now I'm not"
+  },
+  {
+    "start": 805.12,
+    "duration": 2.6,
+    "text": "profitable.\" I'm was \"Well, how much do"
+  },
+  {
+    "start": 806.72,
+    "duration": 2.16,
+    "text": "you spend?\" He's like, \"A hundred"
+  },
+  {
+    "start": 807.72,
+    "duration": 2.2,
+    "text": "bucks.\" I'm like, \"Come on. What what"
+  },
+  {
+    "start": 808.88,
+    "duration": 2.84,
+    "text": "are we doing here? Like, what do you"
+  },
+  {
+    "start": 809.92,
+    "duration": 4.04,
+    "text": "What do you expect?\" So, the solution"
+  },
+  {
+    "start": 811.72,
+    "duration": 4.12,
+    "text": "there is to, when in doubt, zoom out."
+  },
+  {
+    "start": 813.96,
+    "duration": 3.4,
+    "text": "Look at larger time frames with larger"
+  },
+  {
+    "start": 815.84,
+    "duration": 2.8,
+    "text": "amounts of data, and you'll see what's"
+  },
+  {
+    "start": 817.36,
+    "duration": 2.84,
+    "text": "really happening. Instead of being like,"
+  },
+  {
+    "start": 818.64,
+    "duration": 2.8,
+    "text": "\"Oh, today was good really good. Next"
+  },
+  {
+    "start": 820.2,
+    "duration": 3.04,
+    "text": "day was really bad.\" I don't care. Look"
+  },
+  {
+    "start": 821.44,
+    "duration": 3.04,
+    "text": "at 7 days. Look at the most amount of ad"
+  },
+  {
+    "start": 823.24,
+    "duration": 2.76,
+    "text": "spend that you can, and that's when"
+  },
+  {
+    "start": 824.48,
+    "duration": 3.0,
+    "text": "you'll make the best decisions, and not"
+  },
+  {
+    "start": 826.0,
+    "duration": 2.88,
+    "text": "these emotional decisions where you're"
+  },
+  {
+    "start": 827.48,
+    "duration": 3.16,
+    "text": "just going with the [ __ ] flow of"
+  },
+  {
+    "start": 828.88,
+    "duration": 2.88,
+    "text": "Facebook taking you for a ride. Nobody"
+  },
+  {
+    "start": 830.64,
+    "duration": 4.12,
+    "text": "wants that. All right, next I want to"
+  },
+  {
+    "start": 831.76,
+    "duration": 5.48,
+    "text": "talk about signal quality and your EMQ"
+  },
+  {
+    "start": 834.76,
+    "duration": 5.2,
+    "text": "and Conversions API. So, Facebook"
+  },
+  {
+    "start": 837.24,
+    "duration": 4.56,
+    "text": "performance is often times dependent on"
+  },
+  {
+    "start": 839.96,
+    "duration": 3.0,
+    "text": "the data that you're sending back to the"
+  },
+  {
+    "start": 841.8,
+    "duration": 2.6,
+    "text": "ad account and back to the Facebook"
+  },
+  {
+    "start": 842.96,
+    "duration": 3.52,
+    "text": "servers so that it can learn about your"
+  },
+  {
+    "start": 844.4,
+    "duration": 4.48,
+    "text": "customers and reduce your cost to"
+  },
+  {
+    "start": 846.48,
+    "duration": 4.36,
+    "text": "advertise long-term, hopefully. And with"
+  },
+  {
+    "start": 848.88,
+    "duration": 3.6,
+    "text": "that, that means that you have to be"
+  },
+  {
+    "start": 850.84,
+    "duration": 3.84,
+    "text": "sure that you're sending the best"
+  },
+  {
+    "start": 852.48,
+    "duration": 4.16,
+    "text": "quality data you possibly can to"
+  },
+  {
+    "start": 854.68,
+    "duration": 4.08,
+    "text": "Facebook because the better quality data"
+  },
+  {
+    "start": 856.64,
+    "duration": 3.08,
+    "text": "that you send them, often times, they're"
+  },
+  {
+    "start": 858.76,
+    "duration": 2.68,
+    "text": "going to be able to learn more about"
+  },
+  {
+    "start": 859.72,
+    "duration": 3.76,
+    "text": "your customers and send you better"
+  },
+  {
+    "start": 861.44,
+    "duration": 4.2,
+    "text": "customers in the future, make your ads"
+  },
+  {
+    "start": 863.48,
+    "duration": 3.8,
+    "text": "more efficient long-term. So, you can go"
+  },
+  {
+    "start": 865.64,
+    "duration": 3.08,
+    "text": "into your Events Manager and go to the"
+  },
+  {
+    "start": 867.28,
+    "duration": 3.24,
+    "text": "purchase event specifically, and you'll"
+  },
+  {
+    "start": 868.72,
+    "duration": 3.64,
+    "text": "see something called the EMQ, which is"
+  },
+  {
+    "start": 870.52,
+    "duration": 4.2,
+    "text": "your event match quality, and it'll be"
+  },
+  {
+    "start": 872.36,
+    "duration": 4.16,
+    "text": "on a scale of 1 to 10. I'm not saying"
+  },
+  {
+    "start": 874.72,
+    "duration": 3.56,
+    "text": "it's a direct correlation like 10 out of"
+  },
+  {
+    "start": 876.52,
+    "duration": 3.24,
+    "text": "10 is super profitable ads, like five"
+  },
+  {
+    "start": 878.28,
+    "duration": 3.08,
+    "text": "out of 10 you're going to be dog [ __ ] I"
+  },
+  {
+    "start": 879.76,
+    "duration": 3.6,
+    "text": "actually think this whole concept is"
+  },
+  {
+    "start": 881.36,
+    "duration": 3.76,
+    "text": "overrated, but I think generally"
+  },
+  {
+    "start": 883.36,
+    "duration": 4.0,
+    "text": "speaking, it's a good thing to try to"
+  },
+  {
+    "start": 885.12,
+    "duration": 4.2,
+    "text": "send good data to Facebook. And you can"
+  },
+  {
+    "start": 887.36,
+    "duration": 3.76,
+    "text": "do that through Conversions API, which"
+  },
+  {
+    "start": 889.32,
+    "duration": 4.32,
+    "text": "is simply sending your data back"
+  },
+  {
+    "start": 891.12,
+    "duration": 4.04,
+    "text": "server-side and not only on the browser."
+  },
+  {
+    "start": 893.64,
+    "duration": 2.88,
+    "text": "For those that have been advertising for"
+  },
+  {
+    "start": 895.16,
+    "duration": 4.48,
+    "text": "long enough, you know this became a big"
+  },
+  {
+    "start": 896.52,
+    "duration": 5.2,
+    "text": "deal around iOS 14, which was launched"
+  },
+  {
+    "start": 899.64,
+    "duration": 4.12,
+    "text": "in 2020, but it actually went into"
+  },
+  {
+    "start": 901.72,
+    "duration": 3.2,
+    "text": "effect, I think, early 2021, and"
+  },
+  {
+    "start": 903.76,
+    "duration": 2.96,
+    "text": "everybody's ads just kind of went to"
+  },
+  {
+    "start": 904.92,
+    "duration": 4.28,
+    "text": "[ __ ] because I don't look at any"
+  },
+  {
+    "start": 906.72,
+    "duration": 4.68,
+    "text": "conversions after the click. Like, I"
+  },
+  {
+    "start": 909.2,
+    "duration": 4.2,
+    "text": "don't look at my CPA on Facebook at all."
+  },
+  {
+    "start": 911.4,
+    "duration": 3.44,
+    "text": "I always use third-party attribution"
+  },
+  {
+    "start": 913.4,
+    "duration": 2.84,
+    "text": "tools, you know, whether that's Triple"
+  },
+  {
+    "start": 914.84,
+    "duration": 2.48,
+    "text": "Whale, whether that's Hyros. There's so"
+  },
+  {
+    "start": 916.24,
+    "duration": 2.48,
+    "text": "many of these out there. Like, you can"
+  },
+  {
+    "start": 917.32,
+    "duration": 3.28,
+    "text": "build one custom now. [ __ ] you could"
+  },
+  {
+    "start": 918.72,
+    "duration": 2.88,
+    "text": "vibe code one probably in a few hours"
+  },
+  {
+    "start": 920.6,
+    "duration": 2.6,
+    "text": "and have your own solution that you"
+  },
+  {
+    "start": 921.6,
+    "duration": 3.8,
+    "text": "don't have to pay for at all. The issue"
+  },
+  {
+    "start": 923.2,
+    "duration": 4.04,
+    "text": "is, because of what the update that iOS"
+  },
+  {
+    "start": 925.4,
+    "duration": 3.56,
+    "text": "launched, all the users can now opt out"
+  },
+  {
+    "start": 927.24,
+    "duration": 3.16,
+    "text": "of tracking from Facebook. So,"
+  },
+  {
+    "start": 928.96,
+    "duration": 2.72,
+    "text": "everything becomes really inaccurate."
+  },
+  {
+    "start": 930.4,
+    "duration": 3.36,
+    "text": "Now, if you're able to use like"
+  },
+  {
+    "start": 931.68,
+    "duration": 4.48,
+    "text": "conversions API, any server-side"
+  },
+  {
+    "start": 933.76,
+    "duration": 3.92,
+    "text": "tracking, you can improve your EMQ and"
+  },
+  {
+    "start": 936.16,
+    "duration": 3.36,
+    "text": "get better data into the Facebook"
+  },
+  {
+    "start": 937.68,
+    "duration": 3.12,
+    "text": "servers to help you optimize with your"
+  },
+  {
+    "start": 939.52,
+    "duration": 3.32,
+    "text": "ad account your ads a lot better than"
+  },
+  {
+    "start": 940.8,
+    "duration": 4.4,
+    "text": "you are right now. So, to summarize this"
+  },
+  {
+    "start": 942.84,
+    "duration": 3.92,
+    "text": "point, try to send Facebook good data."
+  },
+  {
+    "start": 945.2,
+    "duration": 2.88,
+    "text": "And also, take all the conversion data"
+  },
+  {
+    "start": 946.76,
+    "duration": 2.4,
+    "text": "with a grain of salt. Okay, let's go."
+  },
+  {
+    "start": 948.08,
+    "duration": 3.2,
+    "text": "Now, the third thing here is going to be"
+  },
+  {
+    "start": 949.16,
+    "duration": 4.2,
+    "text": "the whole concept of creative diversity."
+  },
+  {
+    "start": 951.28,
+    "duration": 3.88,
+    "text": "So, because of Andromeda, there was this"
+  },
+  {
+    "start": 953.36,
+    "duration": 3.0,
+    "text": "really weird narrative where people are"
+  },
+  {
+    "start": 955.16,
+    "duration": 2.4,
+    "text": "basically saying, \"Oh, there's kind of"
+  },
+  {
+    "start": 956.36,
+    "duration": 2.32,
+    "text": "like two types of ads that you can"
+  },
+  {
+    "start": 957.56,
+    "duration": 2.28,
+    "text": "test.\" You know, you can test something"
+  },
+  {
+    "start": 958.68,
+    "duration": 2.88,
+    "text": "completely new, we'll just call that"
+  },
+  {
+    "start": 959.84,
+    "duration": 3.56,
+    "text": "like a new concept and that new concept,"
+  },
+  {
+    "start": 961.56,
+    "duration": 3.08,
+    "text": "or you can test, you know, a variation."
+  },
+  {
+    "start": 963.4,
+    "duration": 2.8,
+    "text": "You can only do one of the two, which"
+  },
+  {
+    "start": 964.64,
+    "duration": 3.32,
+    "text": "it's really not that simple, but let's"
+  },
+  {
+    "start": 966.2,
+    "duration": 3.6,
+    "text": "just say for these purposes, this is"
+  },
+  {
+    "start": 967.96,
+    "duration": 3.76,
+    "text": "what it is. And people like, \"All right,"
+  },
+  {
+    "start": 969.8,
+    "duration": 3.48,
+    "text": "all you need to do to survive Andromeda"
+  },
+  {
+    "start": 971.72,
+    "duration": 4.2,
+    "text": "is just like pump out more new concepts"
+  },
+  {
+    "start": 973.28,
+    "duration": 4.92,
+    "text": "and do less variations.\" No, variations"
+  },
+  {
+    "start": 975.92,
+    "duration": 4.8,
+    "text": "are still highly highly effective. What"
+  },
+  {
+    "start": 978.2,
+    "duration": 3.84,
+    "text": "Andromeda did is let's say like this is"
+  },
+  {
+    "start": 980.72,
+    "duration": 3.12,
+    "text": "within an ad set and we're looking at"
+  },
+  {
+    "start": 982.04,
+    "duration": 3.68,
+    "text": "the ad level, and each one of these is a"
+  },
+  {
+    "start": 983.84,
+    "duration": 4.4,
+    "text": "new ad, right? You have ad one, two,"
+  },
+  {
+    "start": 985.72,
+    "duration": 3.96,
+    "text": "three, and four. So, every time I launch"
+  },
+  {
+    "start": 988.24,
+    "duration": 3.92,
+    "text": "creatives, I'm actually launching"
+  },
+  {
+    "start": 989.68,
+    "duration": 5.8,
+    "text": "variations. So, this entire ad set, per"
+  },
+  {
+    "start": 992.16,
+    "duration": 5.28,
+    "text": "se, will be one net new concept, but ad"
+  },
+  {
+    "start": 995.48,
+    "duration": 4.76,
+    "text": "number two, ad number three, and ad"
+  },
+  {
+    "start": 997.44,
+    "duration": 4.72,
+    "text": "number four will all be variations of"
+  },
+  {
+    "start": 1000.24,
+    "duration": 3.4,
+    "text": "that original net new concept. So, it's"
+  },
+  {
+    "start": 1002.16,
+    "duration": 2.76,
+    "text": "not necessarily variations of the"
+  },
+  {
+    "start": 1003.64,
+    "duration": 3.92,
+    "text": "winner. Like it's difficult to get a"
+  },
+  {
+    "start": 1004.92,
+    "duration": 5.2,
+    "text": "variation of like your top ad in an ad"
+  },
+  {
+    "start": 1007.56,
+    "duration": 4.12,
+    "text": "account to outperform the top ad. It'll"
+  },
+  {
+    "start": 1010.12,
+    "duration": 3.0,
+    "text": "do decent. It's typically not going to"
+  },
+  {
+    "start": 1011.68,
+    "duration": 3.2,
+    "text": "outperform, at least in my experience."
+  },
+  {
+    "start": 1013.12,
+    "duration": 3.2,
+    "text": "But, variations are still highly"
+  },
+  {
+    "start": 1014.88,
+    "duration": 3.68,
+    "text": "effective because you're basically"
+  },
+  {
+    "start": 1016.32,
+    "duration": 3.56,
+    "text": "getting more at-bats at the concept"
+  },
+  {
+    "start": 1018.56,
+    "duration": 3.88,
+    "text": "level. Technically, you're testing a new"
+  },
+  {
+    "start": 1019.88,
+    "duration": 4.48,
+    "text": "concept, but you can test one concept"
+  },
+  {
+    "start": 1022.44,
+    "duration": 3.88,
+    "text": "with three different hooks, and it turns"
+  },
+  {
+    "start": 1024.36,
+    "duration": 3.68,
+    "text": "out that this variation actually ends up"
+  },
+  {
+    "start": 1026.32,
+    "duration": 3.72,
+    "text": "being the winner, and this original like"
+  },
+  {
+    "start": 1028.04,
+    "duration": 4.08,
+    "text": "net new concept is actually the loser."
+  },
+  {
+    "start": 1030.04,
+    "duration": 3.28,
+    "text": "But, if you said variations are stupid"
+  },
+  {
+    "start": 1032.12,
+    "duration": 2.36,
+    "text": "and they don't make any sense, then you"
+  },
+  {
+    "start": 1033.32,
+    "duration": 2.96,
+    "text": "never would have figured that out, and"
+  },
+  {
+    "start": 1034.48,
+    "duration": 3.56,
+    "text": "you would have just concluded that this"
+  },
+  {
+    "start": 1036.28,
+    "duration": 3.87,
+    "text": "net new concept was a loser. When in"
+  },
+  {
+    "start": 1038.04,
+    "duration": 2.4,
+    "text": "reality, you're a loser"
+  },
+  {
+    "start": 1040.15,
+    "duration": 1.85,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": 1040.44,
+    "duration": 3.4,
+    "text": ">> for believing that."
+  },
+  {
+    "start": 1042.0,
+    "duration": 3.08,
+    "text": "I swear I could rant on all this stuff"
+  },
+  {
+    "start": 1043.84,
+    "duration": 3.12,
+    "text": "for so much longer. I'm trying to stay"
+  },
+  {
+    "start": 1045.08,
+    "duration": 4.64,
+    "text": "focused here. Let me distill all this"
+  },
+  {
+    "start": 1046.96,
+    "duration": 4.4,
+    "text": "technical crap into something that you"
+  },
+  {
+    "start": 1049.72,
+    "duration": 3.92,
+    "text": "can actually take away. Because"
+  },
+  {
+    "start": 1051.36,
+    "duration": 4.84,
+    "text": "basically what we just did is we went"
+  },
+  {
+    "start": 1053.64,
+    "duration": 5.68,
+    "text": "through all the super autistic"
+  },
+  {
+    "start": 1056.2,
+    "duration": 4.88,
+    "text": "scientific mathematical explanations of"
+  },
+  {
+    "start": 1059.32,
+    "duration": 4.4,
+    "text": "how the Facebook ads algorithm actually"
+  },
+  {
+    "start": 1061.08,
+    "duration": 4.88,
+    "text": "works, but let's take our [ __ ] hat off"
+  },
+  {
+    "start": 1063.72,
+    "duration": 4.28,
+    "text": "for a second and think like a Chad,"
+  },
+  {
+    "start": 1065.96,
+    "duration": 4.28,
+    "text": "okay? Three things you should take away."
+  },
+  {
+    "start": 1068.0,
+    "duration": 3.72,
+    "text": "All right, number one, your creative is"
+  },
+  {
+    "start": 1070.24,
+    "duration": 3.04,
+    "text": "the targeting. Stop trying to [ __ ]"
+  },
+  {
+    "start": 1071.72,
+    "duration": 3.6,
+    "text": "around so much with the ad sets"
+  },
+  {
+    "start": 1073.28,
+    "duration": 3.92,
+    "text": "targeting, custom audiences, lookalikes."
+  },
+  {
+    "start": 1075.32,
+    "duration": 3.68,
+    "text": "That can be a little experimentation"
+  },
+  {
+    "start": 1077.2,
+    "duration": 3.32,
+    "text": "sandbox, but for the most part, run"
+  },
+  {
+    "start": 1079.0,
+    "duration": 3.16,
+    "text": "broad. The creative is the targeting."
+  },
+  {
+    "start": 1080.52,
+    "duration": 3.16,
+    "text": "Number two, make good creatives that"
+  },
+  {
+    "start": 1082.16,
+    "duration": 2.76,
+    "text": "thought people from their doom scroll."
+  },
+  {
+    "start": 1083.68,
+    "duration": 2.32,
+    "text": "Of course, easier said than done, and"
+  },
+  {
+    "start": 1084.92,
+    "duration": 3.24,
+    "text": "that's not even what this video is"
+  },
+  {
+    "start": 1086.0,
+    "duration": 3.8,
+    "text": "about, but if you just have damn good"
+  },
+  {
+    "start": 1088.16,
+    "duration": 3.6,
+    "text": "creatives, like that's literally half of"
+  },
+  {
+    "start": 1089.8,
+    "duration": 4.2,
+    "text": "the [ __ ] formula. It's just having"
+  },
+  {
+    "start": 1091.76,
+    "duration": 3.72,
+    "text": "that high CTR, high soft metrics, of"
+  },
+  {
+    "start": 1094.0,
+    "duration": 2.64,
+    "text": "course, excluding the conversions. Like"
+  },
+  {
+    "start": 1095.48,
+    "duration": 2.92,
+    "text": "that's half the [ __ ] battle right"
+  },
+  {
+    "start": 1096.64,
+    "duration": 3.72,
+    "text": "there. And then third is going to be"
+  },
+  {
+    "start": 1098.4,
+    "duration": 3.92,
+    "text": "don't [ __ ] up the user experience. Now,"
+  },
+  {
+    "start": 1100.36,
+    "duration": 3.6,
+    "text": "I have a portion of this video that I"
+  },
+  {
+    "start": 1102.32,
+    "duration": 2.96,
+    "text": "intentionally left for the end of this"
+  },
+  {
+    "start": 1103.96,
+    "duration": 3.08,
+    "text": "video for people that are genuinely"
+  },
+  {
+    "start": 1105.28,
+    "duration": 3.52,
+    "text": "serious about figuring out how Facebook"
+  },
+  {
+    "start": 1107.04,
+    "duration": 3.84,
+    "text": "works. And all this stuff that I've said"
+  },
+  {
+    "start": 1108.8,
+    "duration": 3.68,
+    "text": "so far is what we'll call, you know, by"
+  },
+  {
+    "start": 1110.88,
+    "duration": 3.24,
+    "text": "the books. A lot of it is in, you know,"
+  },
+  {
+    "start": 1112.48,
+    "duration": 3.12,
+    "text": "Facebook's own documentation or"
+  },
+  {
+    "start": 1114.12,
+    "duration": 3.24,
+    "text": "documentation that they had years ago"
+  },
+  {
+    "start": 1115.6,
+    "duration": 4.12,
+    "text": "and they have since removed, but let me"
+  },
+  {
+    "start": 1117.36,
+    "duration": 4.48,
+    "text": "tell you how the game really works."
+  },
+  {
+    "start": 1119.72,
+    "duration": 4.28,
+    "text": "Facebook is a for-profit [snorts]"
+  },
+  {
+    "start": 1121.84,
+    "duration": 4.4,
+    "text": "company based in America. Facebook is a"
+  },
+  {
+    "start": 1124.0,
+    "duration": 3.92,
+    "text": "massive, massive company. We can assume"
+  },
+  {
+    "start": 1126.24,
+    "duration": 3.16,
+    "text": "they probably don't do everything by the"
+  },
+  {
+    "start": 1127.92,
+    "duration": 3.2,
+    "text": "books. So, what I'm really leading to"
+  },
+  {
+    "start": 1129.4,
+    "duration": 4.64,
+    "text": "here is Facebook doesn't play by the"
+  },
+  {
+    "start": 1131.12,
+    "duration": 4.92,
+    "text": "rules. I could go down the list of what"
+  },
+  {
+    "start": 1134.04,
+    "duration": 3.2,
+    "text": "this actually means, but at the end of"
+  },
+  {
+    "start": 1136.04,
+    "duration": 3.52,
+    "text": "the day, as I said, Facebook is a"
+  },
+  {
+    "start": 1137.24,
+    "duration": 4.12,
+    "text": "for-profit company. And like most"
+  },
+  {
+    "start": 1139.56,
+    "duration": 3.76,
+    "text": "companies, they are trying to get the"
+  },
+  {
+    "start": 1141.36,
+    "duration": 4.16,
+    "text": "most amount of money from the largest"
+  },
+  {
+    "start": 1143.32,
+    "duration": 4.2,
+    "text": "advertisers, and then all the smaller"
+  },
+  {
+    "start": 1145.52,
+    "duration": 3.16,
+    "text": "ones that cause like 99% of their"
+  },
+  {
+    "start": 1147.52,
+    "duration": 3.32,
+    "text": "headaches, they're not going to treat"
+  },
+  {
+    "start": 1148.68,
+    "duration": 3.68,
+    "text": "them super duper well. So, a lot of you"
+  },
+  {
+    "start": 1150.84,
+    "duration": 3.56,
+    "text": "have probably launched ad accounts and"
+  },
+  {
+    "start": 1152.36,
+    "duration": 3.64,
+    "text": "got them disabled, have ads rejected,"
+  },
+  {
+    "start": 1154.4,
+    "duration": 2.76,
+    "text": "have ad accounts banned, have business"
+  },
+  {
+    "start": 1156.0,
+    "duration": 2.56,
+    "text": "managers banned. Maybe you've had"
+  },
+  {
+    "start": 1157.16,
+    "duration": 3.72,
+    "text": "profiles banned, but you have to"
+  },
+  {
+    "start": 1158.56,
+    "duration": 4.48,
+    "text": "understand that Facebook is a company,"
+  },
+  {
+    "start": 1160.88,
+    "duration": 3.84,
+    "text": "and they're a company that is public."
+  },
+  {
+    "start": 1163.04,
+    "duration": 4.84,
+    "text": "And what happens when you run a public"
+  },
+  {
+    "start": 1164.72,
+    "duration": 6.0,
+    "text": "company is you have to answer to your"
+  },
+  {
+    "start": 1167.88,
+    "duration": 4.76,
+    "text": "shareholders, which means depending on"
+  },
+  {
+    "start": 1170.72,
+    "duration": 3.64,
+    "text": "how the earnings reports come out"
+  },
+  {
+    "start": 1172.64,
+    "duration": 4.48,
+    "text": "regarding Facebook, Facebook is either"
+  },
+  {
+    "start": 1174.36,
+    "duration": 4.16,
+    "text": "going to constrict their guidelines,"
+  },
+  {
+    "start": 1177.12,
+    "duration": 3.32,
+    "text": "their restrictions, and this is where"
+  },
+  {
+    "start": 1178.52,
+    "duration": 3.48,
+    "text": "you see ban waves come through, which is"
+  },
+  {
+    "start": 1180.44,
+    "duration": 3.44,
+    "text": "where everybody's just getting their ad"
+  },
+  {
+    "start": 1182.0,
+    "duration": 3.68,
+    "text": "account banned, everybody's dealing with"
+  },
+  {
+    "start": 1183.88,
+    "duration": 3.64,
+    "text": "business manager bans, page bans, and"
+  },
+  {
+    "start": 1185.68,
+    "duration": 5.32,
+    "text": "then a month later it's like totally"
+  },
+  {
+    "start": 1187.52,
+    "duration": 4.8,
+    "text": "fine. That's all due mostly to earnings"
+  },
+  {
+    "start": 1191.0,
+    "duration": 3.8,
+    "text": "reports that are coming out directly"
+  },
+  {
+    "start": 1192.32,
+    "duration": 4.72,
+    "text": "from Facebook. So, depending on how"
+  },
+  {
+    "start": 1194.8,
+    "duration": 4.4,
+    "text": "those look, they will either be way more"
+  },
+  {
+    "start": 1197.04,
+    "duration": 4.52,
+    "text": "laid back, way more chill, or super"
+  },
+  {
+    "start": 1199.2,
+    "duration": 4.04,
+    "text": "duper strict. That's why saying, \"Oh,"
+  },
+  {
+    "start": 1201.56,
+    "duration": 3.64,
+    "text": "you can't run like this type of format"
+  },
+  {
+    "start": 1203.24,
+    "duration": 3.24,
+    "text": "of ad on Facebook.\" One person runs it,"
+  },
+  {
+    "start": 1205.2,
+    "duration": 2.84,
+    "text": "gets approved. Another person runs an"
+  },
+  {
+    "start": 1206.48,
+    "duration": 3.12,
+    "text": "identical creative and gets it rejected."
+  },
+  {
+    "start": 1208.04,
+    "duration": 3.16,
+    "text": "Why is that? Well, Facebook don't play"
+  },
+  {
+    "start": 1209.6,
+    "duration": 3.16,
+    "text": "about their rules, all right? So, what"
+  },
+  {
+    "start": 1211.2,
+    "duration": 2.76,
+    "text": "do you do about this? I mean, I'm not"
+  },
+  {
+    "start": 1212.76,
+    "duration": 2.6,
+    "text": "going to get too much into specifics"
+  },
+  {
+    "start": 1213.96,
+    "duration": 2.88,
+    "text": "because I don't know if I can. I think"
+  },
+  {
+    "start": 1215.36,
+    "duration": 3.64,
+    "text": "the main thing anyone can take away from"
+  },
+  {
+    "start": 1216.84,
+    "duration": 4.28,
+    "text": "this is just question everything. Like,"
+  },
+  {
+    "start": 1219.0,
+    "duration": 4.2,
+    "text": "when I was talking about the CAPI and"
+  },
+  {
+    "start": 1221.12,
+    "duration": 3.52,
+    "text": "the signal quality and the EMQ score,"
+  },
+  {
+    "start": 1223.2,
+    "duration": 3.48,
+    "text": "technically speaking, like it makes"
+  },
+  {
+    "start": 1224.64,
+    "duration": 3.56,
+    "text": "sense logically, theoretically, if"
+  },
+  {
+    "start": 1226.68,
+    "duration": 3.12,
+    "text": "you're able to get higher quality data"
+  },
+  {
+    "start": 1228.2,
+    "duration": 4.0,
+    "text": "back to Facebook, they should be able to"
+  },
+  {
+    "start": 1229.8,
+    "duration": 4.64,
+    "text": "optimize better. However, I haven't seen"
+  },
+  {
+    "start": 1232.2,
+    "duration": 4.32,
+    "text": "a direct correlation between that. I"
+  },
+  {
+    "start": 1234.44,
+    "duration": 4.96,
+    "text": "have had really, really good server-side"
+  },
+  {
+    "start": 1236.52,
+    "duration": 5.4,
+    "text": "setups to where my EMQ was like 9.8,"
+  },
+  {
+    "start": 1239.4,
+    "duration": 3.6,
+    "text": "9.9. The little thing on my freaking ad"
+  },
+  {
+    "start": 1241.92,
+    "duration": 3.9,
+    "text": "account was like, matter of fact, I'll"
+  },
+  {
+    "start": 1243.0,
+    "duration": 3.2,
+    "text": "show you. I'm literally at a zero"
+  },
+  {
+    "start": 1245.82,
+    "duration": 2.66,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": 1246.2,
+    "duration": 4.52,
+    "text": ">> at a zero opportunity score, and this ad"
+  },
+  {
+    "start": 1248.48,
+    "duration": 3.6,
+    "text": "account is incredibly profitable. So,"
+  },
+  {
+    "start": 1250.72,
+    "duration": 3.56,
+    "text": "all the [ __ ] from Facebook, they're"
+  },
+  {
+    "start": 1252.08,
+    "duration": 3.76,
+    "text": "still wanting to get money from you. So,"
+  },
+  {
+    "start": 1254.28,
+    "duration": 3.04,
+    "text": "just because they say something or it's"
+  },
+  {
+    "start": 1255.84,
+    "duration": 3.56,
+    "text": "in their documentation or like their"
+  },
+  {
+    "start": 1257.32,
+    "duration": 3.36,
+    "text": "CEO, CMO, head of advertising is like,"
+  },
+  {
+    "start": 1259.4,
+    "duration": 3.36,
+    "text": "\"This is what advertisers should do.\""
+  },
+  {
+    "start": 1260.68,
+    "duration": 3.6,
+    "text": "[ __ ] it. Think for yourself, question"
+  },
+  {
+    "start": 1262.76,
+    "duration": 3.56,
+    "text": "everything. And I want to take a moment"
+  },
+  {
+    "start": 1264.28,
+    "duration": 4.08,
+    "text": "of silence for everyone that listened to"
+  },
+  {
+    "start": 1266.32,
+    "duration": 3.76,
+    "text": "all the Facebook suggestions at the ad"
+  },
+  {
+    "start": 1268.36,
+    "duration": 4.44,
+    "text": "level that said they would lower your"
+  },
+  {
+    "start": 1270.08,
+    "duration": 4.64,
+    "text": "cost per result by 11% and then their"
+  },
+  {
+    "start": 1272.8,
+    "duration": 3.32,
+    "text": "ads went to [ __ ] RIP. Don't listen to"
+  },
+  {
+    "start": 1274.72,
+    "duration": 2.36,
+    "text": "Facebook. Other than that, guys, I hope"
+  },
+  {
+    "start": 1276.12,
+    "duration": 2.16,
+    "text": "you enjoyed. Thank you so much for"
+  },
+  {
+    "start": 1277.08,
+    "duration": 3.88,
+    "text": "watching this video. See you on the next"
+  },
+  {
+    "start": 1278.28,
+    "duration": 2.68,
+    "text": "one. Peace."
+  }
+]

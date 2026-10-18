@@ -1,0 +1,518 @@
+# how i create AI ads w/ higgsfield that print (r3tard proof)
+URL: https://www.youtube.com/watch?v=2QJLri6yB2Q
+Category: video
+Duration: 924s
+Published: 20260411
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be going over how I make AI ads
+[00:00:03] on Higgsfield that print. I made this
+[00:00:05] process extremely simple and truthfully,
+[00:00:07] you just need to follow along and do
+[00:00:09] exactly what I do and you'll get some
+[00:00:10] amazing ads. And by the end of this
+[00:00:12] video, you should know how exactly to
+[00:00:13] create a little something like this in
+[00:00:15] under 60 seconds and as a little sneak
+[00:00:16] peek, a video like this in under 30
+[00:00:18] minutes.
+[00:00:19] >> Here's what doctors never tell you. When
+[00:00:20] you age, your body loses its That's
+[00:00:22] where NMN comes in. So, let's get into
+[00:00:24] it. Now, making ads with AI, there's
+[00:00:26] really two kinds of ads that you can
+[00:00:27] make, right? You have image ads and
+[00:00:28] video, right? Nothing really
+[00:00:30] groundbreaking there. So, let's first
+[00:00:32] talk about image ads. I love image ads
+[00:00:34] and the reason why I love them is
+[00:00:35] because they are super duper cheap to
+[00:00:38] produce. They are very very fast,
+[00:00:40] meaning you can produce and test a high
+[00:00:42] quantity of them very very quickly and
+[00:00:44] they allow you to test a variety of
+[00:00:46] different angles, messaging, avatars,
+[00:00:48] etc. So, you can find your core winning
+[00:00:50] message before you spend the time and
+[00:00:52] money and invest it into video ads.
+[00:00:54] Plus, with the stage that we're at in AI
+[00:00:56] now, it is so freaking easy. Like, I
+[00:00:58] can't even tell you. You'll see what I
+[00:01:00] mean. But, the ultimate purpose here
+[00:01:02] with image ads is you want to be able to
+[00:01:03] find what I call your winning sales
+[00:01:05] message. Everybody kind of talks about,
+[00:01:07] you know, winning ad this, winning ad
+[00:01:09] that, but the best thing that you're
+[00:01:10] really looking for is your winning sales
+[00:01:12] message because as soon as you have that
+[00:01:14] message, that can be transmuted into
+[00:01:16] videos, into different formats of
+[00:01:18] images, into UGC, into a VSL, into a
+[00:01:22] short form video, into founder UGC, into
+[00:01:26] all different kinds of image ads as
+[00:01:28] well, native statics, bottom of funnel,
+[00:01:30] everything you could possibly imagine.
+[00:01:32] And it all comes from finding your
+[00:01:33] winning sales message. And of course,
+[00:01:35] images are the fastest way to find that.
+[00:01:36] Now, generally speaking, there's two
+[00:01:38] ways that you can create winning image
+[00:01:40] ads. Number one is you can do what's
+[00:01:42] called swiping, which is where you find
+[00:01:44] a competitor, either direct or indirect,
+[00:01:46] you take their ad, use it for
+[00:01:47] inspiration and just create your own
+[00:01:49] little twist of it, which is good
+[00:01:50] because you get to use something that's
+[00:01:52] already working and proven to work, so
+[00:01:54] you're reducing your variables. And then
+[00:01:55] second is going to be new concepts. And
+[00:01:58] truthfully, I think that both of these
+[00:01:59] are equally powerful. I think new
+[00:02:01] concepts are relatively slept on and the
+[00:02:03] reason why is because most people in the
+[00:02:05] space only know how to copy. Like, they
+[00:02:07] have no ounce of originality in their
+[00:02:08] life, but you can use AI to be
+[00:02:10] originality now, all right? That's not
+[00:02:12] an issue anymore. Now, for this video,
+[00:02:14] I'm going to be covering both, all
+[00:02:15] right? So, let's first cover swiping.
+[00:02:17] Now, both of these ways of creating
+[00:02:19] winning image ads starts with your
+[00:02:20] foundational docs, which I've linked the
+[00:02:22] SOP that you can use to create your
+[00:02:24] foundational docs in the second link in
+[00:02:26] this video description. Basically, what
+[00:02:28] you're going to do is do incredibly deep
+[00:02:30] psychological and psychographic research
+[00:02:32] on your customer so that you know the
+[00:02:33] exact words that they speak, you know
+[00:02:34] their emotional hot points, you know the
+[00:02:37] stage of sophistication, level of
+[00:02:38] awareness, everything is done for you.
+[00:02:39] But, that is like your home. Everything
+[00:02:41] is going to stem from your research
+[00:02:43] because as we know, the greatest
+[00:02:44] copywriters in history all say the same
+[00:02:46] thing and it is true that the money's in
+[00:02:48] the research. But, you don't have to
+[00:02:49] spend hours upon hours doing that
+[00:02:50] anymore like you used to. Now, for
+[00:02:52] swiping, you have to have an ad to swipe
+[00:02:53] in the first place. My favorite place to
+[00:02:55] look for winning ads to swipe is going
+[00:02:56] to be Get Hooked. If you want to get a
+[00:02:58] subscription, I'll also leave it in the
+[00:02:59] description. But, what I'll look for
+[00:03:01] here, for example, is specifically ads
+[00:03:03] that are four or five stars, which is
+[00:03:04] winning ads, and images running
+[00:03:06] specifically in the English language.
+[00:03:08] And I'll just scroll through these until
+[00:03:09] I find one that I want to swipe for my
+[00:03:11] own market. If you want to get even more
+[00:03:13] granular, you could even select the the
+[00:03:15] exact niche that you're in here so that
+[00:03:16] you swipe directly from your own niche,
+[00:03:18] but that doesn't have to be a rule. A
+[00:03:19] lot of times you can find fantastic ads
+[00:03:21] by swiping cross niches. So, let's say
+[00:03:23] I'm scrolling, I really wanted to remake
+[00:03:25] this ad. All I'm going to do is hit
+[00:03:26] download media right here. We're going
+[00:03:28] to go over to Claude, go to the projects
+[00:03:30] section, select new project, name it
+[00:03:32] whatever you want. I'm going to be
+[00:03:33] selling an NMN powder, which is like a
+[00:03:35] NAD+ booster, apparently. For the files,
+[00:03:38] you're going to upload those
+[00:03:39] foundational docs. And for the
+[00:03:41] instructions, just paste in my special
+[00:03:43] set of instructions. If you want this
+[00:03:45] actual, like, word-for-word prompt,
+[00:03:46] exactly what to send in here, just go to
+[00:03:48] my Instagram at Mark Builds Brands, DM
+[00:03:50] me the word print and I'll send it over
+[00:03:52] to you for free. All right, for the
+[00:03:53] model, you can keep Sonnet selected.
+[00:03:54] This is pretty simple stuff here. And
+[00:03:56] just upload the image, click enter, and
+[00:03:58] just let it cook. That's all you got to
+[00:04:00] do. You don't have to send a single
+[00:04:01] word. Basically, what it's going to be
+[00:04:02] doing is first analyzing why this ad was
+[00:04:05] successful in the first place and then
+[00:04:07] second, reverse engineering every single
+[00:04:09] individual element of this ad from the
+[00:04:11] copy to the colors, everything, so that
+[00:04:13] it matches my brand. Now, you don't need
+[00:04:15] to go and actually look at what it's
+[00:04:17] saying word-for-word. You can scroll
+[00:04:18] right down to the text to image prompt
+[00:04:20] section because not only did it analyze
+[00:04:22] your entire swipe, it also made a prompt
+[00:04:25] so that you don't have to write one
+[00:04:26] yourself. So, we're going to copy and go
+[00:04:27] right into Higgsfield and then we're
+[00:04:29] going to go to the image section, select
+[00:04:32] create image, and make sure that you
+[00:04:33] have Nano Banana Pro selected. I'm going
+[00:04:35] to keep it 9 by 16 format with four
+[00:04:37] variations. I'm going to paste a prompt
+[00:04:38] right there. And then most importantly,
+[00:04:40] as you can tell by these images here, I
+[00:04:41] didn't do it, you want to also upload a
+[00:04:44] PNG of your image on a white background.
+[00:04:46] And we hit generate. And while those
+[00:04:47] images are being created, by the way,
+[00:04:49] the cool thing about this prompt is that
+[00:04:50] it also gives you adapted variations in
+[00:04:53] the case you want to change the copy or
+[00:04:55] just the layout or something like that,
+[00:04:56] you can just simply select one of these
+[00:04:58] and give the feedback directly to
+[00:04:59] Claude. Claude will adjust the prompt,
+[00:05:01] paste a new prompt, get new images. Just
+[00:05:03] like that, you have multiple variations
+[00:05:05] of that original swiped image, exactly
+[00:05:07] with your brand details, everything A to
+[00:05:08] Z. Now, look closely. Do you see any
+[00:05:10] text here that is misspelled? Do you see
+[00:05:13] anything that's off? No, it's 100%
+[00:05:15] perfect. That all comes down to the
+[00:05:17] prompting. If you ever struggle with
+[00:05:19] having like text being off on an image
+[00:05:21] or a video, it's because you didn't go
+[00:05:22] into enough depth on the prompt. These
+[00:05:24] LLMs can't extract everything from an
+[00:05:27] image. They can get pretty close, but if
+[00:05:28] you add in the details where it's
+[00:05:30] missing, it can create flawless images
+[00:05:32] and videos. Now, swiping, as we can see,
+[00:05:34] super duper easy, takes virtually zero
+[00:05:37] time whatsoever. How about new concepts?
+[00:05:38] Well, as I said, most of you are not
+[00:05:40] original, not able to think, me either,
+[00:05:42] you know? But, what you can do is use AI
+[00:05:44] to help you think. And one thing that I
+[00:05:46] put together on that exact same SOP,
+[00:05:48] again, DM me the word print on IG if you
+[00:05:51] want to get it. But, one thing that I
+[00:05:52] included, you won't be able to see this,
+[00:05:53] of course, but is the exact prompt that
+[00:05:55] you can use for ideation instead of just
+[00:05:59] raw swiping. Follow the exact same
+[00:06:01] process. You just take the prompt, plug
+[00:06:02] it into into Claude with with your
+[00:06:04] foundational docs, you get the text to
+[00:06:05] image prompt, send that directly to
+[00:06:06] Higgsfield, you get the images. It's so
+[00:06:08] incredibly simple, but this one is
+[00:06:09] completely new concepts that you've
+[00:06:11] never seen before. So, image ads, just
+[00:06:12] like that, solved, cracked, never need
+[00:06:14] to get any other software for the rest
+[00:06:16] of your life. Cool. Let's move on to
+[00:06:18] video ads because naturally, video ads
+[00:06:20] are a little bit trickier. But, even
+[00:06:21] with videos, the technology has gotten
+[00:06:23] so incredibly insane. I mean, you saw in
+[00:06:25] the original portion of the video where
+[00:06:27] I teased a little bit of the ad that I
+[00:06:29] made, you can do just about anything.
+[00:06:31] But, before I get into that, why video
+[00:06:33] ads in the first place? Well, video ads
+[00:06:34] are great number one because they're
+[00:06:36] typically more scalable than images.
+[00:06:38] Image ads can saturate very very
+[00:06:40] quickly. I don't know the exact reason
+[00:06:42] why, but I do know that in terms of how
+[00:06:44] much top of funnel reach that they can
+[00:06:46] have profitably, it's nowhere near video
+[00:06:48] ads. The second reason also is because
+[00:06:50] typically you will see also higher
+[00:06:52] conversion rates from videos as well.
+[00:06:54] It's not a total rule, but just on
+[00:06:56] average I would say you see higher
+[00:06:57] conversion rates because people are
+[00:06:59] consuming more. They're consuming not
+[00:07:01] just visually, but also through the
+[00:07:02] audio and you have what's called their
+[00:07:04] attention in isolation. Like, if you're
+[00:07:06] looking at an image, they're bouncing
+[00:07:07] around, their eyes are all over. If
+[00:07:09] you're looking at a video, you have 100%
+[00:07:10] of their attention while they're
+[00:07:11] watching that video, which is part of
+[00:07:13] the reason why the conversion rate is
+[00:07:14] higher. And as we know, the law of
+[00:07:16] consumption, the longer you can get a
+[00:07:17] person to interact with your brand, the
+[00:07:19] higher that conversion rate is going to
+[00:07:20] be. Now, my actual process for creating
+[00:07:23] winning video ads is and like I mean,
+[00:07:25] good video ads is is pretty
+[00:07:26] straightforward. It's a five-step
+[00:07:28] process, all right? First, you're going
+[00:07:29] to find a swipe. Just as a place to
+[00:07:31] begin with, it doesn't have to be a
+[00:07:32] swipe, but it's a good place to begin
+[00:07:34] with. Next, you're going to script the
+[00:07:35] ad specifically for your brand and then
+[00:07:37] you're going to storyboard it, which
+[00:07:38] means parsing out the script to match
+[00:07:40] with a specific video clip. Then, you
+[00:07:42] create the prompts to actually make
+[00:07:43] those individual clips. And the last
+[00:07:45] piece, you edit all together until you
+[00:07:46] have your fully formed created ad.
+[00:07:48] Before I actually follow this exact
+[00:07:50] thing step by step, you have to
+[00:07:51] understand that it's not even worth your
+[00:07:53] time running video ads unless you
+[00:07:54] understand this, which is 90% of your
+[00:07:56] success in video ads is going to come
+[00:07:58] down to having a really really good
+[00:08:00] hook, which is the first three to five
+[00:08:01] seconds of your video ad. But, your hook
+[00:08:03] is actually broken down into three
+[00:08:05] different pieces. The first is the copy,
+[00:08:07] which I would say is about 70 to 80% of
+[00:08:11] your success right there. Then, you have
+[00:08:12] the actual clip itself, which is like
+[00:08:14] the video, what we call the scroll
+[00:08:16] stopper. And then the final piece is the
+[00:08:17] audio in the background, which is
+[00:08:19] typically some sort of voiceover or just
+[00:08:21] directly voice from the character itself
+[00:08:23] or something else. That is the least of
+[00:08:25] your worries. The most important is
+[00:08:26] going to be the copy and of course, the
+[00:08:27] scroll stopping clip. Once you have the
+[00:08:29] hook of your video ad, the other two
+[00:08:32] pieces are very very simple, right? So,
+[00:08:35] first you just hook them in and get the
+[00:08:36] attention. Second is you create the body
+[00:08:38] to actually sell the freaking product
+[00:08:40] cuz first you just you got to get the
+[00:08:41] attention. If you don't have attention,
+[00:08:42] you don't have anything. And then you
+[00:08:44] use the body to actually sell the
+[00:08:45] product, show your mechanism, show how
+[00:08:47] you're different than everybody else and
+[00:08:48] why your product is the best thing to
+[00:08:49] ever touch the face of the earth. And
+[00:08:50] then third, throw a nice hard right
+[00:08:52] hook, call to action, get them on your
+[00:08:54] website, get them to buy. Now, let me
+[00:08:55] kind of break down how this process
+[00:08:57] works cuz it sounds like I'm just
+[00:08:58] throwing a bunch of random words on the
+[00:08:59] screen and expecting you to get it. So,
+[00:09:01] let me show you how this works
+[00:09:03] tactically, okay? The first thing you
+[00:09:04] want to do is of course, find a
+[00:09:06] competitor's ad where you can swipe the
+[00:09:09] transcript specifically and be able to
+[00:09:10] rewrite that based off of your specific
+[00:09:12] brand, aka your lovely foundational
+[00:09:14] docs. So, let's say I'm scrolling Get
+[00:09:16] Hooked, I found this lovely ad right
+[00:09:17] here. And so, now that I have the swipe
+[00:09:19] already, this first piece has been
+[00:09:21] checked off, okay? I found the swipe,
+[00:09:23] we're already 1/5 of the way through.
+[00:09:25] Now, to actually rewrite the script,
+[00:09:26] this is incredibly easy. All you have to
+[00:09:29] do is upload your foundational docs to
+[00:09:31] either a Claude project or just in a
+[00:09:32] conversation and then send the full
+[00:09:35] script. So, I would come to this
+[00:09:37] competitor, copy transcript, send it,
+[00:09:39] and have it rewrite it based off of your
+[00:09:40] specific foundational docs, your
+[00:09:42] research, your emotional pain points
+[00:09:44] with your product and your brand. Then,
+[00:09:45] you'll have the script. And from there,
+[00:09:48] you want to start the storyboarding
+[00:09:49] process, which is where you take one
+[00:09:50] individual line or two lines of your
+[00:09:52] script and create one clip specifically
+[00:09:55] for that script. That's a pretty easy
+[00:09:57] process. It's typically matching one
+[00:09:59] sentence equals one or two clips. Now,
+[00:10:01] the prompting process is an interesting
+[00:10:04] one because it's actually a two-part
+[00:10:05] process. The first thing that you want
+[00:10:07] to do is you want to generate a
+[00:10:09] text-to-image prompt on Claude and then
+[00:10:12] send that prompt into Higgs Field
+[00:10:14] specifically using Nano Banana Pro to
+[00:10:16] actually create the starting frame of
+[00:10:19] your video. Once you have the starting
+[00:10:20] frame, again, this is all done in Higgs
+[00:10:22] Field and after you have that individual
+[00:10:25] starting frame created, you're going to
+[00:10:26] do image-to-video using Kling 3. And you
+[00:10:30] have to make sure you have a good prompt
+[00:10:32] for the image-to-video. Like just
+[00:10:33] getting the image as a starting frame is
+[00:10:35] only half of it. You have to make sure
+[00:10:37] you have a really good prompt with it as
+[00:10:38] well, which I'll show you how to do. And
+[00:10:39] so after that, you'll have each
+[00:10:41] individual clip exactly as you want it.
+[00:10:43] So the prompt process is now complete
+[00:10:45] and then you just have to piece them
+[00:10:46] together, edit them, and they're good to
+[00:10:48] go. So now I'm going to go through an
+[00:10:50] example of me following this process
+[00:10:51] step-by-step to actually create one of
+[00:10:53] the clips that I made in the video. And
+[00:10:55] by the way, everything that I just
+[00:10:56] touched on, I'm going to actually go and
+[00:10:58] do it now. But if you want the actual
+[00:11:00] like step-by-step exactly what to do and
+[00:11:02] then you can even upload this into
+[00:11:03] Claude and be able to have most of this
+[00:11:05] done for you on autopilot, I put
+[00:11:07] together this full AI video ad creation
+[00:11:09] SOP. You can follow this to the T,
+[00:11:11] upload it into Claude code and have it
+[00:11:13] do it for you automatically. I don't
+[00:11:14] really care. You take it, do what you
+[00:11:15] want with it. Just go to my Instagram,
+[00:11:17] DM me the word Higgs Field, and I'll
+[00:11:20] send it to you for free. All right, so
+[00:11:21] let's go through an example of me
+[00:11:22] actually following this process. So
+[00:11:23] since I already have my script done, all
+[00:11:25] I need to do is take one specific line
+[00:11:27] and be able to feed that into Claude so
+[00:11:29] that I get a text-to-image prompt of
+[00:11:32] what that first starting frame should
+[00:11:33] look like. All right, so I got the exact
+[00:11:35] prompt from Claude. Again, to get these
+[00:11:37] kind of prompts, just make sure you
+[00:11:38] follow that SOP to the T. Copy-paste
+[00:11:40] over into Higgs Field, and this was the
+[00:11:42] output that I got here. This is
+[00:11:43] basically perfect. What I'm shooting for
+[00:11:45] here, and again, it's all in the SOP, is
+[00:11:48] I wanted a product shot specifically
+[00:11:50] showing this product in action. So now
+[00:11:52] that I have this image, I'm going to go
+[00:11:54] and download this right here, go to
+[00:11:55] video and select Kling 3. And now we
+[00:11:57] need the image-to-video prompt to
+[00:11:59] actually bring this to life. So you'll
+[00:12:01] enter a very specific portion of your
+[00:12:03] script. Make sure you have the prompt
+[00:12:05] along to go with it. So we will go right
+[00:12:07] here and copy. So first we're going to
+[00:12:09] upload this individual photo as a start
+[00:12:12] frame. I'm going to paste in my prompt,
+[00:12:14] and then I'm going to select the length
+[00:12:16] that I want this video to be. I believe
+[00:12:18] Claude said this clip was going to be 6
+[00:12:19] to 8 seconds. So I'm going to put it
+[00:12:20] right in the middle at 7 and hit
+[00:12:22] generate. A few minutes later, this is
+[00:12:24] the output that we got. Let's take a
+[00:12:25] look.
+[00:12:25] >> One scoop every morning gives your cells
+[00:12:28] what they've been running short on.
+[00:12:30] Sweet. So very simple. I think it's
+[00:12:32] relatively well explained. There's no
+[00:12:34] issues with the packaging on the
+[00:12:36] product. This clip is good to go. As you
+[00:12:37] can see, you can follow this exact same
+[00:12:39] process for UGC style clips exactly like
+[00:12:43] this.
+[00:12:43] >> Trust me and give it a try. You can use
+[00:12:45] this for scroll stoppers like I did You
+[00:12:48] being tired
+[00:12:48] >> like this where this lady's legs are
+[00:12:50] just gone. Like a scroll stopper should
+[00:12:52] be something you look at and you
+[00:12:53] literally have to be like, what the
+[00:12:55] did I just look at? So I tried to
+[00:12:56] capture this. This was Claude's idea
+[00:12:58] where her legs just kind of melted
+[00:13:00] because she has zero energy.
+[00:13:01] >> You being tired isn't about sleep,
+[00:13:03] stress, or genetics. And as a nice
+[00:13:05] little touch, what I did at the end here
+[00:13:07] is something else for retention. Keep
+[00:13:09] watching.
+[00:13:12] SO SOMETHING WEIRD THAT MAKES YOU SAY,
+[00:13:13] "WHAT THE FUCK?" Is this the best I
+[00:13:14] could do? No, but this was Claude's
+[00:13:16] idea. I think it's pretty funny. And you
+[00:13:17] can even follow this process for these
+[00:13:20] animation style clips where you have
+[00:13:22] animated figures talking like this. When
+[00:13:24] you age, your body loses its ability to
+[00:13:27] produce NAD+ a little molecule your
+[00:13:29] cells use to generate energy at a
+[00:13:31] biological level. There's basically zero
+[00:13:34] that you can't do and you can do it all
+[00:13:36] inside of Higgs Field because it's just
+[00:13:37] using the APIs from all these technology
+[00:13:39] and aggregating them in one place. So
+[00:13:41] whether you need B-roll, whether you
+[00:13:43] want a scroll stopper, you need regular
+[00:13:45] UGC, you want podcasts, everything can
+[00:13:48] be built here. It's just creating a
+[00:13:50] really good image with Nano Banana Pro
+[00:13:51] and having good prompting there and then
+[00:13:54] image-to-video with good prompting as
+[00:13:55] well. At this point, you have all the
+[00:13:57] clips created. All that's left to do is
+[00:13:59] just assemble them, add some captions,
+[00:14:01] maybe a few cuts, and you're good to go.
+[00:14:03] This is the final ad that I created in a
+[00:14:05] pretty short period of time. If you wake
+[00:14:07] up feeling like this and need coffee
+[00:14:09] after coffee just to get through the
+[00:14:11] day, keep watching.
+[00:14:15] DOCTORS never tell you about why you
+[00:14:17] constantly feel tired no matter how much
+[00:14:20] caffeine you take. When you age, your
+[00:14:22] body loses its ability to produce NAD+ a
+[00:14:24] little molecule your cells use to
+[00:14:26] generate energy at a biological level.
+[00:14:28] >> You being tired isn't about sleep,
+[00:14:30] stress, or genetics. Your cells are just
+[00:14:32] running on fumes and no amount of
+[00:14:34] caffeine will fix that. That's where NMN
+[00:14:36] comes in. It's the direct precursor your
+[00:14:38] body uses to produce NAD+. One scoop
+[00:14:41] every morning gives your cells what
+[00:14:43] they've been running short on.
+[00:14:45] No spike, no crash, just you with real
+[00:14:48] energy really functioning at your best.
+[00:14:51] Ladies, just trust me and give it a try.
+[00:14:53] Get your 30-day supply of NMN powder by
+[00:14:56] tapping the link below this video.
+[00:14:57] >> Now, shameless plug. If you liked all
+[00:14:59] this stuff, then you will love it inside
+[00:15:00] of BBA. I'm literally filming new
+[00:15:03] content this weekend specifically around
+[00:15:05] AI that I haven't put out anywhere. So
+[00:15:07] if you want to learn how to start a real
+[00:15:09] e-commerce brand using all these AI
+[00:15:10] tools, just click the first link in the
+[00:15:12] description and see if you're a good fit
+[00:15:13] for BBA. Full transparency, we don't
+[00:15:15] accept everybody, but if you're a good
+[00:15:17] fit, we will let you know. Other than
+[00:15:18] that, make sure you get my SOPs and
+[00:15:20] everything that you need to make these
+[00:15:21] videos, and I'll see you on the next
+[00:15:22] one. Peace.

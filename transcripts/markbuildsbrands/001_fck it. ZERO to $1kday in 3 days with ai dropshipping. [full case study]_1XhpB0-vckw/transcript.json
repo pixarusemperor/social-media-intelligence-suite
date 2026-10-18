@@ -1,0 +1,3722 @@
+[
+  {
+    "start": 0.0,
+    "duration": 2.72,
+    "text": "Hey guys, Mark here. In this video, I'm"
+  },
+  {
+    "start": 1.44,
+    "duration": 3.52,
+    "text": "going to be showing you how I went from"
+  },
+  {
+    "start": 2.72,
+    "duration": 4.16,
+    "text": "zero to making $1,000 per day in sales"
+  },
+  {
+    "start": 4.96,
+    "duration": 3.6,
+    "text": "with AI drop shipping. And my goal"
+  },
+  {
+    "start": 6.88,
+    "duration": 3.52,
+    "text": "ultimately in this video is basically to"
+  },
+  {
+    "start": 8.56,
+    "duration": 3.68,
+    "text": "explain to you how you've probably been"
+  },
+  {
+    "start": 10.4,
+    "duration": 3.2,
+    "text": "testing products in the completely wrong"
+  },
+  {
+    "start": 12.24,
+    "duration": 3.36,
+    "text": "way and you're just thinking about"
+  },
+  {
+    "start": 13.6,
+    "duration": 3.52,
+    "text": "things incorrectly. And so what I'm"
+  },
+  {
+    "start": 15.6,
+    "duration": 3.52,
+    "text": "going to do is go through each element"
+  },
+  {
+    "start": 17.12,
+    "duration": 3.6,
+    "text": "of how I built the store, how I found"
+  },
+  {
+    "start": 19.12,
+    "duration": 3.36,
+    "text": "the product from top to bottom, and how"
+  },
+  {
+    "start": 20.72,
+    "duration": 3.44,
+    "text": "I used AI in the process that you can"
+  },
+  {
+    "start": 22.48,
+    "duration": 3.04,
+    "text": "just literally copy me and do this"
+  },
+  {
+    "start": 24.16,
+    "duration": 3.12,
+    "text": "yourself. But just showing you the"
+  },
+  {
+    "start": 25.52,
+    "duration": 3.6,
+    "text": "numbers here. The day that I started"
+  },
+  {
+    "start": 27.28,
+    "duration": 4.08,
+    "text": "running ads was actually on the 17th. If"
+  },
+  {
+    "start": 29.12,
+    "duration": 5.2,
+    "text": "you look here on the 16th, you see we"
+  },
+  {
+    "start": 31.36,
+    "duration": 4.96,
+    "text": "had $239 in sales, but those were all"
+  },
+  {
+    "start": 34.32,
+    "duration": 3.84,
+    "text": "test purchases, which if you're not"
+  },
+  {
+    "start": 36.32,
+    "duration": 3.6,
+    "text": "testing your store before you start"
+  },
+  {
+    "start": 38.16,
+    "duration": 3.12,
+    "text": "running ads, you're making a massive"
+  },
+  {
+    "start": 39.92,
+    "duration": 3.36,
+    "text": "mistake because a lot of times your"
+  },
+  {
+    "start": 41.28,
+    "duration": 3.68,
+    "text": "payment processor isn't set up correctly"
+  },
+  {
+    "start": 43.28,
+    "duration": 2.96,
+    "text": "or you just notice things that you"
+  },
+  {
+    "start": 44.96,
+    "duration": 3.44,
+    "text": "wouldn't otherwise see because you're"
+  },
+  {
+    "start": 46.24,
+    "duration": 3.36,
+    "text": "just stuck behind the business instead"
+  },
+  {
+    "start": 48.4,
+    "duration": 3.12,
+    "text": "of seeing what your customers actually"
+  },
+  {
+    "start": 49.6,
+    "duration": 4.56,
+    "text": "see. But anyways, the first day was the"
+  },
+  {
+    "start": 51.52,
+    "duration": 4.4,
+    "text": "17th. We did $850 in sales. The next"
+  },
+  {
+    "start": 54.16,
+    "duration": 3.52,
+    "text": "day, you can see there's a drop. Ad"
+  },
+  {
+    "start": 55.92,
+    "duration": 4.08,
+    "text": "account got shut down. We got it back"
+  },
+  {
+    "start": 57.68,
+    "duration": 4.16,
+    "text": "early the next day on the 19th. And that"
+  },
+  {
+    "start": 60.0,
+    "duration": 3.36,
+    "text": "was the day that we hit over $1,000 a"
+  },
+  {
+    "start": 61.84,
+    "duration": 3.92,
+    "text": "day. And as you can see, we did it again"
+  },
+  {
+    "start": 63.36,
+    "duration": 3.84,
+    "text": "the next day. 1.2K in sales. And the"
+  },
+  {
+    "start": 65.76,
+    "duration": 3.04,
+    "text": "first thing I want to talk about is the"
+  },
+  {
+    "start": 67.2,
+    "duration": 3.36,
+    "text": "product. The product. The reason why I"
+  },
+  {
+    "start": 68.8,
+    "duration": 4.08,
+    "text": "want to talk about it first is because"
+  },
+  {
+    "start": 70.56,
+    "duration": 4.96,
+    "text": "it's probably the single most"
+  },
+  {
+    "start": 72.88,
+    "duration": 4.48,
+    "text": "misunderstood thing in all of drop"
+  },
+  {
+    "start": 75.52,
+    "duration": 3.76,
+    "text": "shipping, in all of e-commerce, because"
+  },
+  {
+    "start": 77.36,
+    "duration": 3.76,
+    "text": "for whatever reason, there was this"
+  },
+  {
+    "start": 79.28,
+    "duration": 4.32,
+    "text": "belief created many, many years ago,"
+  },
+  {
+    "start": 81.12,
+    "duration": 5.12,
+    "text": "even before I started, that you have to"
+  },
+  {
+    "start": 83.6,
+    "duration": 5.76,
+    "text": "focus on finding this winning product."
+  },
+  {
+    "start": 86.24,
+    "duration": 5.28,
+    "text": "And I think now this rhetoric is kind of"
+  },
+  {
+    "start": 89.36,
+    "duration": 3.68,
+    "text": "going away. But let me tell you why"
+  },
+  {
+    "start": 91.52,
+    "duration": 3.92,
+    "text": "there's no such thing as a winning"
+  },
+  {
+    "start": 93.04,
+    "duration": 4.64,
+    "text": "product. Okay? There are brands out"
+  },
+  {
+    "start": 95.44,
+    "duration": 4.16,
+    "text": "there right now making more [ __ ]"
+  },
+  {
+    "start": 97.68,
+    "duration": 4.8,
+    "text": "money, so much money that it would make"
+  },
+  {
+    "start": 99.6,
+    "duration": 5.68,
+    "text": "you sick to your [ __ ] stomach selling"
+  },
+  {
+    "start": 102.48,
+    "duration": 4.88,
+    "text": "the most simple basic products known to"
+  },
+  {
+    "start": 105.28,
+    "duration": 3.92,
+    "text": "man. They're not special really in any"
+  },
+  {
+    "start": 107.36,
+    "duration": 3.76,
+    "text": "way. They're literally like supplements"
+  },
+  {
+    "start": 109.2,
+    "duration": 5.68,
+    "text": "being the best example. There are brands"
+  },
+  {
+    "start": 111.12,
+    "duration": 6.72,
+    "text": "scaling with one ingredient supplements"
+  },
+  {
+    "start": 114.88,
+    "duration": 4.56,
+    "text": "doing eight figures per month. So I"
+  },
+  {
+    "start": 117.84,
+    "duration": 4.56,
+    "text": "believe that winning products don't"
+  },
+  {
+    "start": 119.44,
+    "duration": 4.96,
+    "text": "exist. They are not found. They are"
+  },
+  {
+    "start": 122.4,
+    "duration": 4.16,
+    "text": "something that are created. Okay? It's"
+  },
+  {
+    "start": 124.4,
+    "duration": 4.16,
+    "text": "not just something like, oh boom, I just"
+  },
+  {
+    "start": 126.56,
+    "duration": 3.36,
+    "text": "struck the lottery. I have this miracle"
+  },
+  {
+    "start": 128.56,
+    "duration": 3.12,
+    "text": "winning product. That's not how it works"
+  },
+  {
+    "start": 129.92,
+    "duration": 3.36,
+    "text": "at all. The way that it really works is"
+  },
+  {
+    "start": 131.68,
+    "duration": 4.24,
+    "text": "that a winning product is something that"
+  },
+  {
+    "start": 133.28,
+    "duration": 5.28,
+    "text": "is created. It's built. It's developed."
+  },
+  {
+    "start": 135.92,
+    "duration": 4.64,
+    "text": "It is a process. And sometimes you just"
+  },
+  {
+    "start": 138.56,
+    "duration": 3.44,
+    "text": "happen to get lucky and you tested a"
+  },
+  {
+    "start": 140.56,
+    "duration": 3.28,
+    "text": "product that was easier for you to"
+  },
+  {
+    "start": 142.0,
+    "duration": 3.12,
+    "text": "market and then you classify as a"
+  },
+  {
+    "start": 143.84,
+    "duration": 2.48,
+    "text": "winning product. But really it's not a"
+  },
+  {
+    "start": 145.12,
+    "duration": 3.28,
+    "text": "winning product. Really it's something"
+  },
+  {
+    "start": 146.32,
+    "duration": 3.92,
+    "text": "that you have created through good"
+  },
+  {
+    "start": 148.4,
+    "duration": 3.68,
+    "text": "marketing which is good creatives and a"
+  },
+  {
+    "start": 150.24,
+    "duration": 3.36,
+    "text": "good funnel. So the whole concept of"
+  },
+  {
+    "start": 152.08,
+    "duration": 3.44,
+    "text": "winning product doesn't matter. What I"
+  },
+  {
+    "start": 153.6,
+    "duration": 5.04,
+    "text": "did for finding the product for the"
+  },
+  {
+    "start": 155.52,
+    "duration": 5.04,
+    "text": "store is not search for you know this"
+  },
+  {
+    "start": 158.64,
+    "duration": 3.44,
+    "text": "winning product because my my product"
+  },
+  {
+    "start": 160.56,
+    "duration": 3.84,
+    "text": "research criteria guys you got to"
+  },
+  {
+    "start": 162.08,
+    "duration": 4.64,
+    "text": "understand is incredibly simple. And I"
+  },
+  {
+    "start": 164.4,
+    "duration": 4.16,
+    "text": "think that's actually the best way to"
+  },
+  {
+    "start": 166.72,
+    "duration": 4.08,
+    "text": "think about product research because if"
+  },
+  {
+    "start": 168.56,
+    "duration": 4.56,
+    "text": "you try to over complicate it, then you"
+  },
+  {
+    "start": 170.8,
+    "duration": 3.76,
+    "text": "spend hours, hours and hours and hours"
+  },
+  {
+    "start": 173.12,
+    "duration": 3.68,
+    "text": "on product research. You shouldn't be"
+  },
+  {
+    "start": 174.56,
+    "duration": 4.24,
+    "text": "spending more than like 2 hours on"
+  },
+  {
+    "start": 176.8,
+    "duration": 4.48,
+    "text": "product research as long as you're using"
+  },
+  {
+    "start": 178.8,
+    "duration": 4.8,
+    "text": "the right tools. So my criteria number"
+  },
+  {
+    "start": 181.28,
+    "duration": 4.8,
+    "text": "one is always going to be I want to make"
+  },
+  {
+    "start": 183.6,
+    "duration": 4.72,
+    "text": "sure that I am selling a product that is"
+  },
+  {
+    "start": 186.08,
+    "duration": 4.08,
+    "text": "solving a painful problem in a"
+  },
+  {
+    "start": 188.32,
+    "duration": 3.52,
+    "text": "passionate market. Now I'm very"
+  },
+  {
+    "start": 190.16,
+    "duration": 3.52,
+    "text": "intentional about my language here."
+  },
+  {
+    "start": 191.84,
+    "duration": 4.16,
+    "text": "Let's break this down. a painful"
+  },
+  {
+    "start": 193.68,
+    "duration": 5.28,
+    "text": "problem. I believe at its core, every"
+  },
+  {
+    "start": 196.0,
+    "duration": 4.8,
+    "text": "product to some degree is solving a"
+  },
+  {
+    "start": 198.96,
+    "duration": 3.6,
+    "text": "problem. Even if you are looking at like"
+  },
+  {
+    "start": 200.8,
+    "duration": 4.08,
+    "text": "these super trendy products that like"
+  },
+  {
+    "start": 202.56,
+    "duration": 4.4,
+    "text": "organic drop shippers will sell, it's"
+  },
+  {
+    "start": 204.88,
+    "duration": 4.4,
+    "text": "still solving a problem in some way. It"
+  },
+  {
+    "start": 206.96,
+    "duration": 4.72,
+    "text": "just is a pretty low-level problem. I"
+  },
+  {
+    "start": 209.28,
+    "duration": 5.04,
+    "text": "want to sell a problem that cuts deep,"
+  },
+  {
+    "start": 211.68,
+    "duration": 4.32,
+    "text": "that goes very very deep into their"
+  },
+  {
+    "start": 214.32,
+    "duration": 3.84,
+    "text": "psychology. And a way you can think"
+  },
+  {
+    "start": 216.0,
+    "duration": 4.0,
+    "text": "about this is referencing Maslo's"
+  },
+  {
+    "start": 218.16,
+    "duration": 3.44,
+    "text": "hierarchy of needs. Because if you're"
+  },
+  {
+    "start": 220.0,
+    "duration": 4.24,
+    "text": "trying to sell products specifically"
+  },
+  {
+    "start": 221.6,
+    "duration": 4.88,
+    "text": "around like self-actualization,"
+  },
+  {
+    "start": 224.24,
+    "duration": 4.88,
+    "text": "self-esteem, love, and belonging, these"
+  },
+  {
+    "start": 226.48,
+    "duration": 4.72,
+    "text": "are difficult. The more deep you can go"
+  },
+  {
+    "start": 229.12,
+    "duration": 4.24,
+    "text": "into the pain, the easier it's going to"
+  },
+  {
+    "start": 231.2,
+    "duration": 3.6,
+    "text": "be to sell your product, period. So"
+  },
+  {
+    "start": 233.36,
+    "duration": 3.6,
+    "text": "that's why you see a lot of products"
+  },
+  {
+    "start": 234.8,
+    "duration": 4.4,
+    "text": "related to health doing really really"
+  },
+  {
+    "start": 236.96,
+    "duration": 4.48,
+    "text": "well because that's quite literally like"
+  },
+  {
+    "start": 239.2,
+    "duration": 3.84,
+    "text": "safety. Like you you can only go one"
+  },
+  {
+    "start": 241.44,
+    "duration": 2.88,
+    "text": "level deeper if you're selling products"
+  },
+  {
+    "start": 243.04,
+    "duration": 3.76,
+    "text": "in the health niche. If it's like a"
+  },
+  {
+    "start": 244.32,
+    "duration": 4.4,
+    "text": "literal pain that you have in your body"
+  },
+  {
+    "start": 246.8,
+    "duration": 4.08,
+    "text": "where you cannot operate normally as a"
+  },
+  {
+    "start": 248.72,
+    "duration": 4.16,
+    "text": "human being, that is a painful problem."
+  },
+  {
+    "start": 250.88,
+    "duration": 3.28,
+    "text": "And the second piece here is a"
+  },
+  {
+    "start": 252.88,
+    "duration": 3.76,
+    "text": "passionate market. And what I mean by"
+  },
+  {
+    "start": 254.16,
+    "duration": 4.08,
+    "text": "passionate market is there needs to be a"
+  },
+  {
+    "start": 256.64,
+    "duration": 3.36,
+    "text": "group of people. They're either just"
+  },
+  {
+    "start": 258.24,
+    "duration": 3.6,
+    "text": "constantly buying [ __ ] So think of like"
+  },
+  {
+    "start": 260.0,
+    "duration": 4.4,
+    "text": "the weight loss market, just constantly"
+  },
+  {
+    "start": 261.84,
+    "duration": 4.8,
+    "text": "[ __ ] buying [ __ ] Or it's a really"
+  },
+  {
+    "start": 264.4,
+    "duration": 4.56,
+    "text": "niche passion. Think of like, you know,"
+  },
+  {
+    "start": 266.64,
+    "duration": 3.36,
+    "text": "somebody who collects records. terrible"
+  },
+  {
+    "start": 268.96,
+    "duration": 3.52,
+    "text": "example because you're not going to go"
+  },
+  {
+    "start": 270.0,
+    "duration": 4.24,
+    "text": "and drop ship records. But like actual"
+  },
+  {
+    "start": 272.48,
+    "duration": 2.88,
+    "text": "record discs, that's an incredibly"
+  },
+  {
+    "start": 274.24,
+    "duration": 3.2,
+    "text": "passionate market. Like if you know"
+  },
+  {
+    "start": 275.36,
+    "duration": 4.16,
+    "text": "somebody that collects these, it's very"
+  },
+  {
+    "start": 277.44,
+    "duration": 3.6,
+    "text": "small. It's very niche, but it is very,"
+  },
+  {
+    "start": 279.52,
+    "duration": 3.04,
+    "text": "very passionate. So that is the first"
+  },
+  {
+    "start": 281.04,
+    "duration": 3.6,
+    "text": "thing. That's the first piece of"
+  },
+  {
+    "start": 282.56,
+    "duration": 4.0,
+    "text": "criteria. The second is simply the"
+  },
+  {
+    "start": 284.64,
+    "duration": 4.08,
+    "text": "margins. Now, in regards to margins, I"
+  },
+  {
+    "start": 286.56,
+    "duration": 4.24,
+    "text": "have two rules. And honestly, I get more"
+  },
+  {
+    "start": 288.72,
+    "duration": 4.0,
+    "text": "aggressive with these rules with every"
+  },
+  {
+    "start": 290.8,
+    "duration": 3.28,
+    "text": "additional video that I make. The first"
+  },
+  {
+    "start": 292.72,
+    "duration": 3.12,
+    "text": "piece, I'm going to be a little bit more"
+  },
+  {
+    "start": 294.08,
+    "duration": 5.76,
+    "text": "conservative. You want to have at least"
+  },
+  {
+    "start": 295.84,
+    "duration": 5.76,
+    "text": "$25 of gross margin. What I mean by $25"
+  },
+  {
+    "start": 299.84,
+    "duration": 4.08,
+    "text": "of margin is if you can get a product"
+  },
+  {
+    "start": 301.6,
+    "duration": 4.32,
+    "text": "sourced, which means from your supplier"
+  },
+  {
+    "start": 303.92,
+    "duration": 4.72,
+    "text": "shipped directly to your customer, that"
+  },
+  {
+    "start": 305.92,
+    "duration": 4.16,
+    "text": "cost less how much you are actually"
+  },
+  {
+    "start": 308.64,
+    "duration": 2.64,
+    "text": "having your customers pay for the"
+  },
+  {
+    "start": 310.08,
+    "duration": 4.0,
+    "text": "product. So, for example, if you're"
+  },
+  {
+    "start": 311.28,
+    "duration": 5.52,
+    "text": "selling a product for, you know, $50,"
+  },
+  {
+    "start": 314.08,
+    "duration": 4.0,
+    "text": "then your margins at minimum, you can't"
+  },
+  {
+    "start": 316.8,
+    "duration": 3.52,
+    "text": "be getting that product for anything"
+  },
+  {
+    "start": 318.08,
+    "duration": 5.04,
+    "text": "less than $25 because that would give"
+  },
+  {
+    "start": 320.32,
+    "duration": 4.96,
+    "text": "you that $25 margin because 50 - 25 is"
+  },
+  {
+    "start": 323.12,
+    "duration": 4.96,
+    "text": "25, right? Simple. Great. Now, that's"
+  },
+  {
+    "start": 325.28,
+    "duration": 5.04,
+    "text": "only half the rule because that covers"
+  },
+  {
+    "start": 328.08,
+    "duration": 4.16,
+    "text": "the total amount of margin, but it"
+  },
+  {
+    "start": 330.32,
+    "duration": 4.88,
+    "text": "doesn't cover the margin as a"
+  },
+  {
+    "start": 332.24,
+    "duration": 5.04,
+    "text": "percentage, as a multiple. And so, my"
+  },
+  {
+    "start": 335.2,
+    "duration": 4.96,
+    "text": "other rule here is you want to sell a"
+  },
+  {
+    "start": 337.28,
+    "duration": 4.8,
+    "text": "product for 3x your cost of goods sold,"
+  },
+  {
+    "start": 340.16,
+    "duration": 3.68,
+    "text": "right? 3x your cost. Let's say you're"
+  },
+  {
+    "start": 342.08,
+    "duration": 3.76,
+    "text": "getting a product from, you know,"
+  },
+  {
+    "start": 343.84,
+    "duration": 3.68,
+    "text": "AliExpress. You're shipping via some"
+  },
+  {
+    "start": 345.84,
+    "duration": 3.68,
+    "text": "super cheap [ __ ] shipping line. You"
+  },
+  {
+    "start": 347.52,
+    "duration": 5.2,
+    "text": "get it for $10 ship and you're selling"
+  },
+  {
+    "start": 349.52,
+    "duration": 5.12,
+    "text": "for 40. So, that means your COGS is $10."
+  },
+  {
+    "start": 352.72,
+    "duration": 3.6,
+    "text": "You multiply 10 * 3 that's 30 and you're"
+  },
+  {
+    "start": 354.64,
+    "duration": 4.16,
+    "text": "selling for 50. So that rule is"
+  },
+  {
+    "start": 356.32,
+    "duration": 4.88,
+    "text": "satisfied. How about the first rule? $25"
+  },
+  {
+    "start": 358.8,
+    "duration": 4.4,
+    "text": "in margin. Well, selling it for 50,"
+  },
+  {
+    "start": 361.2,
+    "duration": 3.92,
+    "text": "getting it for 10, that's $40 of margin."
+  },
+  {
+    "start": 363.2,
+    "duration": 3.68,
+    "text": "That is above 25. Therefore, you meet"
+  },
+  {
+    "start": 365.12,
+    "duration": 3.68,
+    "text": "the second rule as well. Very, very"
+  },
+  {
+    "start": 366.88,
+    "duration": 4.0,
+    "text": "simple. If you set up these rules"
+  },
+  {
+    "start": 368.8,
+    "duration": 3.36,
+    "text": "initially, you will make your life a"
+  },
+  {
+    "start": 370.88,
+    "duration": 3.44,
+    "text": "million times easier as you scale."
+  },
+  {
+    "start": 372.16,
+    "duration": 5.12,
+    "text": "Because what I see all the time is"
+  },
+  {
+    "start": 374.32,
+    "duration": 5.92,
+    "text": "people try to sell products with a"
+  },
+  {
+    "start": 377.28,
+    "duration": 6.88,
+    "text": "really high break even CPA, a really"
+  },
+  {
+    "start": 380.24,
+    "duration": 5.6,
+    "text": "high break even rorowass, like 1.7, 1.8,"
+  },
+  {
+    "start": 384.16,
+    "duration": 4.0,
+    "text": "maybe even a 2.0. And they're like, \"Oh,"
+  },
+  {
+    "start": 385.84,
+    "duration": 3.68,
+    "text": "it's okay. I'll just get a 3x rorowass,"
+  },
+  {
+    "start": 388.16,
+    "duration": 2.56,
+    "text": "and then I'll have everything under"
+  },
+  {
+    "start": 389.52,
+    "duration": 2.8,
+    "text": "that, you know, is going to be just"
+  },
+  {
+    "start": 390.72,
+    "duration": 4.48,
+    "text": "straight profit, which is true.\" Do you"
+  },
+  {
+    "start": 392.32,
+    "duration": 6.88,
+    "text": "have any [ __ ] idea how hard it is to"
+  },
+  {
+    "start": 395.2,
+    "duration": 6.24,
+    "text": "maintain a 3x return on ad spend on"
+  },
+  {
+    "start": 399.2,
+    "duration": 4.16,
+    "text": "Facebook at high levels of spend? It"
+  },
+  {
+    "start": 401.44,
+    "duration": 3.6,
+    "text": "doesn't [ __ ] happen. It just doesn't"
+  },
+  {
+    "start": 403.36,
+    "duration": 3.68,
+    "text": "[ __ ] happen. So, you need to set up"
+  },
+  {
+    "start": 405.04,
+    "duration": 3.36,
+    "text": "your margins in the right way from day"
+  },
+  {
+    "start": 407.04,
+    "duration": 3.2,
+    "text": "one because that's one of the few things"
+  },
+  {
+    "start": 408.4,
+    "duration": 4.0,
+    "text": "you can control. Like, that's why I'm so"
+  },
+  {
+    "start": 410.24,
+    "duration": 4.24,
+    "text": "adamant about margins. You can't control"
+  },
+  {
+    "start": 412.4,
+    "duration": 4.96,
+    "text": "the the CPA Facebook is going to give"
+  },
+  {
+    "start": 414.48,
+    "duration": 4.32,
+    "text": "you. You can't control most things, you"
+  },
+  {
+    "start": 417.36,
+    "duration": 2.88,
+    "text": "know, when it comes to Facebook, but you"
+  },
+  {
+    "start": 418.8,
+    "duration": 3.04,
+    "text": "can control your margins. So, that's"
+  },
+  {
+    "start": 420.24,
+    "duration": 3.84,
+    "text": "piece number two. And then piece number"
+  },
+  {
+    "start": 421.84,
+    "duration": 4.48,
+    "text": "three, very simple. I want it to be able"
+  },
+  {
+    "start": 424.08,
+    "duration": 3.36,
+    "text": "to fit in a shoe box. If I can do that,"
+  },
+  {
+    "start": 426.32,
+    "duration": 2.88,
+    "text": "I know that I'm not going to have any"
+  },
+  {
+    "start": 427.44,
+    "duration": 3.36,
+    "text": "logistical issues, you know, down the"
+  },
+  {
+    "start": 429.2,
+    "duration": 2.88,
+    "text": "road. If it can fit in a shoe box, you"
+  },
+  {
+    "start": 430.8,
+    "duration": 2.88,
+    "text": "can ship it anywhere in the world for"
+  },
+  {
+    "start": 432.08,
+    "duration": 2.96,
+    "text": "like under $5 in shipping. Of course,"
+  },
+  {
+    "start": 433.68,
+    "duration": 4.0,
+    "text": "depending on the line that you're using,"
+  },
+  {
+    "start": 435.04,
+    "duration": 4.4,
+    "text": "but that's just a general good rule. And"
+  },
+  {
+    "start": 437.68,
+    "duration": 4.56,
+    "text": "then as a bonus, what I'll add in here"
+  },
+  {
+    "start": 439.44,
+    "duration": 5.68,
+    "text": "for those that want to do this is there"
+  },
+  {
+    "start": 442.24,
+    "duration": 5.12,
+    "text": "needs to be some sort of potential for"
+  },
+  {
+    "start": 445.12,
+    "duration": 5.04,
+    "text": "high LTV. And I'm just going to keep it"
+  },
+  {
+    "start": 447.36,
+    "duration": 5.04,
+    "text": "that way because this could be potential"
+  },
+  {
+    "start": 450.16,
+    "duration": 3.84,
+    "text": "for having really good upsells, cross"
+  },
+  {
+    "start": 452.4,
+    "duration": 3.6,
+    "text": "cells, and down cells, right? That's"
+  },
+  {
+    "start": 454.0,
+    "duration": 4.4,
+    "text": "going to add to your AOV, which is also"
+  },
+  {
+    "start": 456.0,
+    "duration": 4.64,
+    "text": "going to add to your LTV. Another way"
+  },
+  {
+    "start": 458.4,
+    "duration": 4.24,
+    "text": "that you can accomplish this, because we"
+  },
+  {
+    "start": 460.64,
+    "duration": 4.0,
+    "text": "still want high LTV, is going to be"
+  },
+  {
+    "start": 462.64,
+    "duration": 3.76,
+    "text": "through subscriptions. So, if you're"
+  },
+  {
+    "start": 464.64,
+    "duration": 4.16,
+    "text": "selling a product like supplements, for"
+  },
+  {
+    "start": 466.4,
+    "duration": 4.64,
+    "text": "example, where you can easily get people"
+  },
+  {
+    "start": 468.8,
+    "duration": 3.36,
+    "text": "on a subscription, yes, your CAC is"
+  },
+  {
+    "start": 471.04,
+    "duration": 2.88,
+    "text": "going to be higher, your CPA is going to"
+  },
+  {
+    "start": 472.16,
+    "duration": 4.0,
+    "text": "be higher. That's normal, but you can"
+  },
+  {
+    "start": 473.92,
+    "duration": 3.92,
+    "text": "build recurring revenue and overall have"
+  },
+  {
+    "start": 476.16,
+    "duration": 3.6,
+    "text": "a better business for when you try to"
+  },
+  {
+    "start": 477.84,
+    "duration": 4.24,
+    "text": "scale because that means that you can"
+  },
+  {
+    "start": 479.76,
+    "duration": 3.84,
+    "text": "have more money to spend to acquire"
+  },
+  {
+    "start": 482.08,
+    "duration": 3.2,
+    "text": "every new customer, which is what"
+  },
+  {
+    "start": 483.6,
+    "duration": 3.36,
+    "text": "advertising is all about. Whoever can"
+  },
+  {
+    "start": 485.28,
+    "duration": 4.16,
+    "text": "spend the most amount of money to"
+  },
+  {
+    "start": 486.96,
+    "duration": 4.08,
+    "text": "acquire new customer wins. So that's the"
+  },
+  {
+    "start": 489.44,
+    "duration": 2.96,
+    "text": "criteria. So now the next question is"
+  },
+  {
+    "start": 491.04,
+    "duration": 2.88,
+    "text": "all right Mark I got the criteria like"
+  },
+  {
+    "start": 492.4,
+    "duration": 4.4,
+    "text": "how did you actually find the product?"
+  },
+  {
+    "start": 493.92,
+    "duration": 5.52,
+    "text": "Well this product took me under an hour"
+  },
+  {
+    "start": 496.8,
+    "duration": 4.72,
+    "text": "to find and what I did I have this set"
+  },
+  {
+    "start": 499.44,
+    "duration": 5.84,
+    "text": "of criteria and this is the video about"
+  },
+  {
+    "start": 501.52,
+    "duration": 5.36,
+    "text": "AI drop shipping, right? So I used AI to"
+  },
+  {
+    "start": 505.28,
+    "duration": 3.92,
+    "text": "find a product for me and so what I did"
+  },
+  {
+    "start": 506.88,
+    "duration": 6.96,
+    "text": "is I basically went to Claude and I"
+  },
+  {
+    "start": 509.2,
+    "duration": 6.24,
+    "text": "added the MCP for Get Hooked. Now, full"
+  },
+  {
+    "start": 513.84,
+    "duration": 4.93,
+    "text": "transparency, Git hook is my software,"
+  },
+  {
+    "start": 515.44,
+    "duration": 5.12,
+    "text": "but we specifically built this feature"
+  },
+  {
+    "start": 518.76,
+    "duration": 3.79,
+    "text": "[laughter] so that you can use it. And"
+  },
+  {
+    "start": 520.56,
+    "duration": 4.32,
+    "text": "basically when you add it as a connector"
+  },
+  {
+    "start": 522.56,
+    "duration": 4.48,
+    "text": "inside of Claude, you can assign it some"
+  },
+  {
+    "start": 524.88,
+    "duration": 5.12,
+    "text": "prompts to do product research for you"
+  },
+  {
+    "start": 527.04,
+    "duration": 5.44,
+    "text": "to basically scan the ad libraries of"
+  },
+  {
+    "start": 530.0,
+    "duration": 4.32,
+    "text": "thousands, tens of thousands of"
+  },
+  {
+    "start": 532.48,
+    "duration": 4.72,
+    "text": "advertisers that are currently running"
+  },
+  {
+    "start": 534.32,
+    "duration": 4.48,
+    "text": "ads on Facebook, finds the ones that are"
+  },
+  {
+    "start": 537.2,
+    "duration": 3.76,
+    "text": "producing the most amount of winning ads"
+  },
+  {
+    "start": 538.8,
+    "duration": 4.4,
+    "text": "and actually driving legitimate amounts"
+  },
+  {
+    "start": 540.96,
+    "duration": 4.48,
+    "text": "of traffic to their website. And then"
+  },
+  {
+    "start": 543.2,
+    "duration": 3.92,
+    "text": "from there, all you have to do is"
+  },
+  {
+    "start": 545.44,
+    "duration": 2.88,
+    "text": "validate that the margins are good, you"
+  },
+  {
+    "start": 547.12,
+    "duration": 3.2,
+    "text": "can fit the shoe box, and there's"
+  },
+  {
+    "start": 548.32,
+    "duration": 4.56,
+    "text": "potential for high LTV. Everything else"
+  },
+  {
+    "start": 550.32,
+    "duration": 4.88,
+    "text": "is mostly done for you. And I don't use"
+  },
+  {
+    "start": 552.88,
+    "duration": 4.24,
+    "text": "that term a lot, but with AI, there's"
+  },
+  {
+    "start": 555.2,
+    "duration": 3.76,
+    "text": "more and more cases of this happening."
+  },
+  {
+    "start": 557.12,
+    "duration": 4.16,
+    "text": "So, if you want to see like the exact"
+  },
+  {
+    "start": 558.96,
+    "duration": 3.52,
+    "text": "process of, you know, how to do it, get"
+  },
+  {
+    "start": 561.28,
+    "duration": 3.36,
+    "text": "all the prompts and everything, just go"
+  },
+  {
+    "start": 562.48,
+    "duration": 5.36,
+    "text": "to my Instagram. It's Markbuilds Brands"
+  },
+  {
+    "start": 564.64,
+    "duration": 5.6,
+    "text": "and DM me the letters MCP and I'll send"
+  },
+  {
+    "start": 567.84,
+    "duration": 4.0,
+    "text": "it to you for free. Okay? Super super"
+  },
+  {
+    "start": 570.24,
+    "duration": 3.68,
+    "text": "underrated method. Like, I know I'm"
+  },
+  {
+    "start": 571.84,
+    "duration": 3.76,
+    "text": "obviously biased, but I've had many"
+  },
+  {
+    "start": 573.92,
+    "duration": 3.6,
+    "text": "friends reach out to me and be like,"
+  },
+  {
+    "start": 575.6,
+    "duration": 3.76,
+    "text": "\"Bro, this is actually like this is"
+  },
+  {
+    "start": 577.52,
+    "duration": 4.32,
+    "text": "[ __ ] crazy.\" So that is the product"
+  },
+  {
+    "start": 579.36,
+    "duration": 3.92,
+    "text": "TLDDR. Stop [ __ ] overthinking [ __ ]"
+  },
+  {
+    "start": 581.84,
+    "duration": 2.72,
+    "text": "If you're spending so much time on"
+  },
+  {
+    "start": 583.28,
+    "duration": 2.64,
+    "text": "product research, you're spending time"
+  },
+  {
+    "start": 584.56,
+    "duration": 3.04,
+    "text": "on the wrong things. Let me ask you"
+  },
+  {
+    "start": 585.92,
+    "duration": 3.12,
+    "text": "something. The products that make the"
+  },
+  {
+    "start": 587.6,
+    "duration": 3.28,
+    "text": "most amount of money right now, are they"
+  },
+  {
+    "start": 589.04,
+    "duration": 5.04,
+    "text": "the best products in the market or are"
+  },
+  {
+    "start": 590.88,
+    "duration": 4.88,
+    "text": "they just the best marketed products?"
+  },
+  {
+    "start": 594.08,
+    "duration": 3.92,
+    "text": "It's the latter. It's clearly just the"
+  },
+  {
+    "start": 595.76,
+    "duration": 4.48,
+    "text": "best marketed products. It's not the"
+  },
+  {
+    "start": 598.0,
+    "duration": 3.84,
+    "text": "best that wins. You know, I wish it was"
+  },
+  {
+    "start": 600.24,
+    "duration": 3.6,
+    "text": "the other way around, but unfortunately"
+  },
+  {
+    "start": 601.84,
+    "duration": 4.16,
+    "text": "in capitalist economies, the ones that"
+  },
+  {
+    "start": 603.84,
+    "duration": 4.96,
+    "text": "are able to sell the best are the most"
+  },
+  {
+    "start": 606.0,
+    "duration": 5.28,
+    "text": "successful. Not necessarily the products"
+  },
+  {
+    "start": 608.8,
+    "duration": 4.48,
+    "text": "that are just the best across the board"
+  },
+  {
+    "start": 611.28,
+    "duration": 3.28,
+    "text": "in every single category. Now, I still"
+  },
+  {
+    "start": 613.28,
+    "duration": 4.16,
+    "text": "think you should sell good products"
+  },
+  {
+    "start": 614.56,
+    "duration": 4.4,
+    "text": "obviously, but the marketing is going to"
+  },
+  {
+    "start": 617.44,
+    "duration": 2.96,
+    "text": "make or break your success period. The"
+  },
+  {
+    "start": 618.96,
+    "duration": 3.6,
+    "text": "creatives in the store, that's it."
+  },
+  {
+    "start": 620.4,
+    "duration": 3.52,
+    "text": "Because you and I could sell the exact"
+  },
+  {
+    "start": 622.56,
+    "duration": 3.36,
+    "text": "same product. You would not be"
+  },
+  {
+    "start": 623.92,
+    "duration": 3.68,
+    "text": "profitable and I would be printing. How"
+  },
+  {
+    "start": 625.92,
+    "duration": 3.76,
+    "text": "could that be possible? And then you"
+  },
+  {
+    "start": 627.6,
+    "duration": 3.76,
+    "text": "could take me versus, you know,"
+  },
+  {
+    "start": 629.68,
+    "duration": 3.28,
+    "text": "resurrect Gary Halbert from the dead."
+  },
+  {
+    "start": 631.36,
+    "duration": 3.2,
+    "text": "I'm competing against him. He would whip"
+  },
+  {
+    "start": 632.96,
+    "duration": 3.6,
+    "text": "my ass because he's a better marketer"
+  },
+  {
+    "start": 634.56,
+    "duration": 3.52,
+    "text": "than me. And so it just all comes down"
+  },
+  {
+    "start": 636.56,
+    "duration": 3.44,
+    "text": "to skill. It's literally just a skill"
+  },
+  {
+    "start": 638.08,
+    "duration": 3.52,
+    "text": "issue. Stop obsessing over the product."
+  },
+  {
+    "start": 640.0,
+    "duration": 3.68,
+    "text": "So that is how I found the product. Now"
+  },
+  {
+    "start": 641.6,
+    "duration": 4.0,
+    "text": "I want to talk about the store because I"
+  },
+  {
+    "start": 643.68,
+    "duration": 4.32,
+    "text": "did something that I don't normally do"
+  },
+  {
+    "start": 645.6,
+    "duration": 6.32,
+    "text": "when I launch new stores. And what I did"
+  },
+  {
+    "start": 648.0,
+    "duration": 5.68,
+    "text": "is I kept everything 100% on Shopify."
+  },
+  {
+    "start": 651.92,
+    "duration": 4.96,
+    "text": "And the reason that I did that is"
+  },
+  {
+    "start": 653.68,
+    "duration": 5.36,
+    "text": "because I was not using the Chadfunnel"
+  },
+  {
+    "start": 656.88,
+    "duration": 4.08,
+    "text": "structure that I love talking about so"
+  },
+  {
+    "start": 659.04,
+    "duration": 4.32,
+    "text": "much on this channel on this particular"
+  },
+  {
+    "start": 660.96,
+    "duration": 4.4,
+    "text": "store. The Chadfunnel structure is going"
+  },
+  {
+    "start": 663.36,
+    "duration": 5.2,
+    "text": "from your ad, typically an indirect ad,"
+  },
+  {
+    "start": 665.36,
+    "duration": 5.36,
+    "text": "native static for example, going to some"
+  },
+  {
+    "start": 668.56,
+    "duration": 4.72,
+    "text": "sort of pre-landing page, like an"
+  },
+  {
+    "start": 670.72,
+    "duration": 4.56,
+    "text": "advertorial, a listical, etc. And then"
+  },
+  {
+    "start": 673.28,
+    "duration": 4.08,
+    "text": "from the pre-lander to the sales page,"
+  },
+  {
+    "start": 675.28,
+    "duration": 3.6,
+    "text": "from the sales page to the order page,"
+  },
+  {
+    "start": 677.36,
+    "duration": 4.48,
+    "text": "and then from the order page to the"
+  },
+  {
+    "start": 678.88,
+    "duration": 4.56,
+    "text": "entire upsell path post purchase. This"
+  },
+  {
+    "start": 681.84,
+    "duration": 4.0,
+    "text": "is all after payment is collected. So"
+  },
+  {
+    "start": 683.44,
+    "duration": 4.16,
+    "text": "this is kind of the Chad method. I know"
+  },
+  {
+    "start": 685.84,
+    "duration": 3.12,
+    "text": "a lot of people still using very well on"
+  },
+  {
+    "start": 687.6,
+    "duration": 4.09,
+    "text": "this particular store. I didn't want to"
+  },
+  {
+    "start": 688.96,
+    "duration": 4.56,
+    "text": "use it. What I did, still Chad, but"
+  },
+  {
+    "start": 691.69,
+    "duration": 4.79,
+    "text": "[laughter] what I did is I just wanted"
+  },
+  {
+    "start": 693.52,
+    "duration": 5.12,
+    "text": "to see what it would be like to just do"
+  },
+  {
+    "start": 696.48,
+    "duration": 4.88,
+    "text": "everything direct to PDP. So, it's"
+  },
+  {
+    "start": 698.64,
+    "duration": 4.0,
+    "text": "literally ad to PDP. No pre-landers,"
+  },
+  {
+    "start": 701.36,
+    "duration": 4.0,
+    "text": "nothing on funnelish, nothing on"
+  },
+  {
+    "start": 702.64,
+    "duration": 5.2,
+    "text": "Checkout Champ, literally just going"
+  },
+  {
+    "start": 705.36,
+    "duration": 4.8,
+    "text": "from ad directly to a product page and"
+  },
+  {
+    "start": 707.84,
+    "duration": 4.4,
+    "text": "keeping everything fully on Shopify. And"
+  },
+  {
+    "start": 710.16,
+    "duration": 4.32,
+    "text": "it worked. You know, I ultimately did"
+  },
+  {
+    "start": 712.24,
+    "duration": 4.0,
+    "text": "this partly just to prove that a lot of"
+  },
+  {
+    "start": 714.48,
+    "duration": 2.88,
+    "text": "these things that you think matter that"
+  },
+  {
+    "start": 716.24,
+    "duration": 3.12,
+    "text": "are going to totally make the"
+  },
+  {
+    "start": 717.36,
+    "duration": 3.28,
+    "text": "difference, they [ __ ] don't. They"
+  },
+  {
+    "start": 719.36,
+    "duration": 3.28,
+    "text": "[ __ ] don't. What really matters is"
+  },
+  {
+    "start": 720.64,
+    "duration": 3.52,
+    "text": "creatives and having a solid lander."
+  },
+  {
+    "start": 722.64,
+    "duration": 3.04,
+    "text": "Everything outside of that is mostly"
+  },
+  {
+    "start": 724.16,
+    "duration": 2.56,
+    "text": "noise because literally had a"
+  },
+  {
+    "start": 725.68,
+    "duration": 3.68,
+    "text": "conversation with people and they're"
+  },
+  {
+    "start": 726.72,
+    "duration": 4.0,
+    "text": "like obsessing. Oh, what theme should I"
+  },
+  {
+    "start": 729.36,
+    "duration": 3.04,
+    "text": "be using? Is this theme better than this"
+  },
+  {
+    "start": 730.72,
+    "duration": 3.6,
+    "text": "theme? Her shrine is good. What about"
+  },
+  {
+    "start": 732.4,
+    "duration": 4.56,
+    "text": "this one? Literally, for this store, I"
+  },
+  {
+    "start": 734.32,
+    "duration": 4.4,
+    "text": "use Debut. Debut is a free theme that's"
+  },
+  {
+    "start": 736.96,
+    "duration": 3.76,
+    "text": "pre-loaded onto Shopify, and it's been"
+  },
+  {
+    "start": 738.72,
+    "duration": 4.16,
+    "text": "there since like 2018. You don't need"
+  },
+  {
+    "start": 740.72,
+    "duration": 4.4,
+    "text": "anything that freaking fancy. All right."
+  },
+  {
+    "start": 742.88,
+    "duration": 3.92,
+    "text": "All you need is great copy, great"
+  },
+  {
+    "start": 745.12,
+    "duration": 3.44,
+    "text": "images, and gifts, a theme that loads"
+  },
+  {
+    "start": 746.8,
+    "duration": 3.36,
+    "text": "decently quick. That's pretty much all"
+  },
+  {
+    "start": 748.56,
+    "duration": 3.52,
+    "text": "you got to look for there. Now, one"
+  },
+  {
+    "start": 750.16,
+    "duration": 3.68,
+    "text": "thing that I did do here that was a"
+  },
+  {
+    "start": 752.08,
+    "duration": 4.08,
+    "text": "little bit unconventional is on day one,"
+  },
+  {
+    "start": 753.84,
+    "duration": 5.44,
+    "text": "I started sending traffic to two"
+  },
+  {
+    "start": 756.16,
+    "duration": 6.48,
+    "text": "different landers. I basically made a"
+  },
+  {
+    "start": 759.28,
+    "duration": 4.96,
+    "text": "duplicate of my main PDP and then I"
+  },
+  {
+    "start": 762.64,
+    "duration": 4.64,
+    "text": "adjusted the design. I adjusted the"
+  },
+  {
+    "start": 764.24,
+    "duration": 4.96,
+    "text": "authority figure and I tried selling the"
+  },
+  {
+    "start": 767.28,
+    "duration": 3.76,
+    "text": "same product simply with a duplicated"
+  },
+  {
+    "start": 769.2,
+    "duration": 5.12,
+    "text": "lander to see which one would convert"
+  },
+  {
+    "start": 771.04,
+    "duration": 6.64,
+    "text": "better. And so on day one, I split the"
+  },
+  {
+    "start": 774.32,
+    "duration": 7.04,
+    "text": "ad spend 50/50. So 50% went to lander"
+  },
+  {
+    "start": 777.68,
+    "duration": 6.4,
+    "text": "one, 50% lander 2. And on day one, I"
+  },
+  {
+    "start": 781.36,
+    "duration": 5.2,
+    "text": "actually cut lander 2 out of the"
+  },
+  {
+    "start": 784.08,
+    "duration": 6.08,
+    "text": "equation because within the first like"
+  },
+  {
+    "start": 786.56,
+    "duration": 5.28,
+    "text": "$300, $400 in spend, I saw Lander 1 was"
+  },
+  {
+    "start": 790.16,
+    "duration": 4.16,
+    "text": "pretty significantly outperforming"
+  },
+  {
+    "start": 791.84,
+    "duration": 3.76,
+    "text": "lander 2. And so that one was out and"
+  },
+  {
+    "start": 794.32,
+    "duration": 3.12,
+    "text": "then I just moved all the spend to"
+  },
+  {
+    "start": 795.6,
+    "duration": 4.8,
+    "text": "lander one from there on out. The reason"
+  },
+  {
+    "start": 797.44,
+    "duration": 4.56,
+    "text": "I did this is because there are so many"
+  },
+  {
+    "start": 800.4,
+    "duration": 3.52,
+    "text": "variables when you launch something. I"
+  },
+  {
+    "start": 802.0,
+    "duration": 3.28,
+    "text": "like to get data fast. So, I was willing"
+  },
+  {
+    "start": 803.92,
+    "duration": 4.96,
+    "text": "to spend a little bit more and do more"
+  },
+  {
+    "start": 805.28,
+    "duration": 6.32,
+    "text": "testing. And I also, especially,"
+  },
+  {
+    "start": 808.88,
+    "duration": 5.68,
+    "text": "especially in the testing phase, I am"
+  },
+  {
+    "start": 811.6,
+    "duration": 4.64,
+    "text": "ruthless with my cutting. If I'm cutting"
+  },
+  {
+    "start": 814.56,
+    "duration": 4.32,
+    "text": "funnels, landers, if I'm cutting"
+  },
+  {
+    "start": 816.24,
+    "duration": 5.28,
+    "text": "creatives, I'm ruthless. I think that"
+  },
+  {
+    "start": 818.88,
+    "duration": 5.76,
+    "text": "creatives, funnels, they have to prove"
+  },
+  {
+    "start": 821.52,
+    "duration": 5.04,
+    "text": "themselves in order to get more spend,"
+  },
+  {
+    "start": 824.64,
+    "duration": 3.76,
+    "text": "in order to be able to scale. I'm not"
+  },
+  {
+    "start": 826.56,
+    "duration": 3.28,
+    "text": "going to be super lenient before it's"
+  },
+  {
+    "start": 828.4,
+    "duration": 3.2,
+    "text": "proved itself. Now, after it's proved"
+  },
+  {
+    "start": 829.84,
+    "duration": 3.44,
+    "text": "itself, maybe we have a creative that"
+  },
+  {
+    "start": 831.6,
+    "duration": 3.84,
+    "text": "spent like 500 bucks or a lander that"
+  },
+  {
+    "start": 833.28,
+    "duration": 3.76,
+    "text": "spent a,000 and is profitable. Okay,"
+  },
+  {
+    "start": 835.44,
+    "duration": 4.0,
+    "text": "then I'll be a little bit more lenient."
+  },
+  {
+    "start": 837.04,
+    "duration": 4.0,
+    "text": "It's shown that it can have a good CPA"
+  },
+  {
+    "start": 839.44,
+    "duration": 4.32,
+    "text": "on that particular lander or funnel. But"
+  },
+  {
+    "start": 841.04,
+    "duration": 4.48,
+    "text": "beyond that, if it's testing phase, very"
+  },
+  {
+    "start": 843.76,
+    "duration": 3.68,
+    "text": "very ruthless. And this store, by the"
+  },
+  {
+    "start": 845.52,
+    "duration": 3.92,
+    "text": "way, was literally brand new, which"
+  },
+  {
+    "start": 847.44,
+    "duration": 3.92,
+    "text": "meant new pixel, it meant new ad"
+  },
+  {
+    "start": 849.44,
+    "duration": 3.76,
+    "text": "account, it meant entirely new store"
+  },
+  {
+    "start": 851.36,
+    "duration": 4.32,
+    "text": "altogether, like a literally a new"
+  },
+  {
+    "start": 853.2,
+    "duration": 3.92,
+    "text": "Shopify account. Everything was 100%"
+  },
+  {
+    "start": 855.68,
+    "duration": 3.68,
+    "text": "new. And I'm not going to go through"
+  },
+  {
+    "start": 857.12,
+    "duration": 4.48,
+    "text": "like how I built the PDP and wrote the"
+  },
+  {
+    "start": 859.36,
+    "duration": 3.92,
+    "text": "copy. I have dozens of videos on that."
+  },
+  {
+    "start": 861.6,
+    "duration": 3.12,
+    "text": "So, please go check out my channel or"
+  },
+  {
+    "start": 863.28,
+    "duration": 2.8,
+    "text": "just do the foundational docs and"
+  },
+  {
+    "start": 864.72,
+    "duration": 2.56,
+    "text": "that'll give you 80% of the way. I'll"
+  },
+  {
+    "start": 866.08,
+    "duration": 3.28,
+    "text": "leave it in the description. All right."
+  },
+  {
+    "start": 867.28,
+    "duration": 3.92,
+    "text": "So, the next piece is going to be the ad"
+  },
+  {
+    "start": 869.36,
+    "duration": 3.68,
+    "text": "strategy. And what I mean by ad strategy"
+  },
+  {
+    "start": 871.2,
+    "duration": 3.92,
+    "text": "is not the creatives themselves, but how"
+  },
+  {
+    "start": 873.04,
+    "duration": 3.44,
+    "text": "did we actually structure the account?"
+  },
+  {
+    "start": 875.12,
+    "duration": 4.64,
+    "text": "So, this is what I did. For each"
+  },
+  {
+    "start": 876.48,
+    "duration": 6.0,
+    "text": "individual landing page, I had one"
+  },
+  {
+    "start": 879.76,
+    "duration": 4.48,
+    "text": "campaign and I did all [ __ ] testing. So,"
+  },
+  {
+    "start": 882.48,
+    "duration": 4.4,
+    "text": "this is one campaign here. And inside"
+  },
+  {
+    "start": 884.24,
+    "duration": 4.88,
+    "text": "that one [ __ ] campaign, I had four ad"
+  },
+  {
+    "start": 886.88,
+    "duration": 4.64,
+    "text": "sets. Now, each one of these ad sets was"
+  },
+  {
+    "start": 889.12,
+    "duration": 4.16,
+    "text": "also associated with one individual ad"
+  },
+  {
+    "start": 891.52,
+    "duration": 4.0,
+    "text": "concept. Since we're testing a bunch of"
+  },
+  {
+    "start": 893.28,
+    "duration": 3.92,
+    "text": "creatives, I basically did four"
+  },
+  {
+    "start": 895.52,
+    "duration": 4.48,
+    "text": "different formats. So, one of these, for"
+  },
+  {
+    "start": 897.2,
+    "duration": 4.0,
+    "text": "example, was AI animation ads, which I"
+  },
+  {
+    "start": 900.0,
+    "duration": 2.32,
+    "text": "just made a video on that. You should"
+  },
+  {
+    "start": 901.2,
+    "duration": 2.48,
+    "text": "definitely watch it. One of them was"
+  },
+  {
+    "start": 902.32,
+    "duration": 3.04,
+    "text": "native statics, one of them was, you"
+  },
+  {
+    "start": 903.68,
+    "duration": 5.28,
+    "text": "know, founder ads, and one of them was"
+  },
+  {
+    "start": 905.36,
+    "duration": 6.64,
+    "text": "like a mini podcast VSSL. So, each one"
+  },
+  {
+    "start": 908.96,
+    "duration": 5.6,
+    "text": "was a concept, but it was also a format."
+  },
+  {
+    "start": 912.0,
+    "duration": 5.04,
+    "text": "A format is how an ad looks visually. A"
+  },
+  {
+    "start": 914.56,
+    "duration": 4.8,
+    "text": "concept is how that specific idea fits"
+  },
+  {
+    "start": 917.04,
+    "duration": 4.64,
+    "text": "into that format. And within each of"
+  },
+  {
+    "start": 919.36,
+    "duration": 5.04,
+    "text": "these four adsets, I had anywhere from"
+  },
+  {
+    "start": 921.68,
+    "duration": 5.04,
+    "text": "three to five ads in here per ads set."
+  },
+  {
+    "start": 924.4,
+    "duration": 4.32,
+    "text": "And it was essentially variations of"
+  },
+  {
+    "start": 926.72,
+    "duration": 4.08,
+    "text": "this main concept. Now, I'm a big"
+  },
+  {
+    "start": 928.72,
+    "duration": 3.76,
+    "text": "believer in even if you're doing"
+  },
+  {
+    "start": 930.8,
+    "duration": 3.44,
+    "text": "variation testing, which we kind of are"
+  },
+  {
+    "start": 932.48,
+    "duration": 4.56,
+    "text": "here, we're doing variations of the"
+  },
+  {
+    "start": 934.24,
+    "duration": 4.88,
+    "text": "concept, but still those variations"
+  },
+  {
+    "start": 937.04,
+    "duration": 3.6,
+    "text": "should be large variations. They"
+  },
+  {
+    "start": 939.12,
+    "duration": 4.64,
+    "text": "shouldn't be something as small as like"
+  },
+  {
+    "start": 940.64,
+    "duration": 4.56,
+    "text": "a a new hook. Like typically you'll just"
+  },
+  {
+    "start": 943.76,
+    "duration": 2.64,
+    "text": "have one of those get all the spend and"
+  },
+  {
+    "start": 945.2,
+    "duration": 2.4,
+    "text": "then no spend will actually go to the"
+  },
+  {
+    "start": 946.4,
+    "duration": 3.44,
+    "text": "one with a new hook. But if you take"
+  },
+  {
+    "start": 947.6,
+    "duration": 4.48,
+    "text": "larger swings and stay within that"
+  },
+  {
+    "start": 949.84,
+    "duration": 4.08,
+    "text": "format and that concept but make the ad"
+  },
+  {
+    "start": 952.08,
+    "duration": 3.28,
+    "text": "look differently in general, you're"
+  },
+  {
+    "start": 953.92,
+    "duration": 3.12,
+    "text": "still going to have most of the spend go"
+  },
+  {
+    "start": 955.36,
+    "duration": 3.12,
+    "text": "to one of those creatives. But you're"
+  },
+  {
+    "start": 957.04,
+    "duration": 3.52,
+    "text": "kind of taking a shotgun approach"
+  },
+  {
+    "start": 958.48,
+    "duration": 4.24,
+    "text": "because if you don't test all those"
+  },
+  {
+    "start": 960.56,
+    "duration": 4.08,
+    "text": "variations, maybe you had one of those"
+  },
+  {
+    "start": 962.72,
+    "duration": 3.44,
+    "text": "variations that was a winner and that"
+  },
+  {
+    "start": 964.64,
+    "duration": 3.84,
+    "text": "concept overall was a winner, but you"
+  },
+  {
+    "start": 966.16,
+    "duration": 4.0,
+    "text": "just didn't have the variations for"
+  },
+  {
+    "start": 968.48,
+    "duration": 4.32,
+    "text": "Facebook to test around to see which one"
+  },
+  {
+    "start": 970.16,
+    "duration": 4.0,
+    "text": "would resonate most with the audience."
+  },
+  {
+    "start": 972.8,
+    "duration": 2.96,
+    "text": "So that's why I'm still a fan of"
+  },
+  {
+    "start": 974.16,
+    "duration": 4.08,
+    "text": "variation testing in general. Now, for"
+  },
+  {
+    "start": 975.76,
+    "duration": 4.48,
+    "text": "the adsets, everything was 100% broad. I"
+  },
+  {
+    "start": 978.24,
+    "duration": 4.16,
+    "text": "wasn't doing any exclusions. It was"
+  },
+  {
+    "start": 980.24,
+    "duration": 5.36,
+    "text": "basically an ASC if I hadn't set it at"
+  },
+  {
+    "start": 982.4,
+    "duration": 5.12,
+    "text": "[ __ ] So fully broad with no exclusions"
+  },
+  {
+    "start": 985.6,
+    "duration": 5.12,
+    "text": "whatsoever except at the ad account"
+  },
+  {
+    "start": 987.52,
+    "duration": 4.96,
+    "text": "level I excluded the audience network"
+  },
+  {
+    "start": 990.72,
+    "duration": 3.52,
+    "text": "placements and any associated placements"
+  },
+  {
+    "start": 992.48,
+    "duration": 3.76,
+    "text": "like that. Other than that, completely"
+  },
+  {
+    "start": 994.24,
+    "duration": 4.8,
+    "text": "broad. And for anybody that hasn't run"
+  },
+  {
+    "start": 996.24,
+    "duration": 5.68,
+    "text": "ads on Facebook before, important detail"
+  },
+  {
+    "start": 999.04,
+    "duration": 5.84,
+    "text": "at the ad level, turn off [ __ ]"
+  },
+  {
+    "start": 1001.92,
+    "duration": 4.48,
+    "text": "everything. Turn off all the creative"
+  },
+  {
+    "start": 1004.88,
+    "duration": 2.8,
+    "text": "enhancements, all the essential"
+  },
+  {
+    "start": 1006.4,
+    "duration": 3.36,
+    "text": "enhancements, all the suggested"
+  },
+  {
+    "start": 1007.68,
+    "duration": 4.64,
+    "text": "enhancements. turn off every setting"
+  },
+  {
+    "start": 1009.76,
+    "duration": 4.0,
+    "text": "where Facebook says they can potentially"
+  },
+  {
+    "start": 1012.32,
+    "duration": 2.96,
+    "text": "make you more money, which what that"
+  },
+  {
+    "start": 1013.76,
+    "duration": 2.96,
+    "text": "really means is they're going to take"
+  },
+  {
+    "start": 1015.28,
+    "duration": 3.12,
+    "text": "all of your money and give you nothing"
+  },
+  {
+    "start": 1016.72,
+    "duration": 2.96,
+    "text": "in return for it. And this is the entire"
+  },
+  {
+    "start": 1018.4,
+    "duration": 2.72,
+    "text": "structure. And then for [snorts] the"
+  },
+  {
+    "start": 1019.68,
+    "duration": 3.44,
+    "text": "additional lander, I basically"
+  },
+  {
+    "start": 1021.12,
+    "duration": 4.0,
+    "text": "duplicated this entire structure right"
+  },
+  {
+    "start": 1023.12,
+    "duration": 4.32,
+    "text": "here. I had the exact same creatives. I"
+  },
+  {
+    "start": 1025.12,
+    "duration": 4.56,
+    "text": "was just running to, you know, lander 2"
+  },
+  {
+    "start": 1027.44,
+    "duration": 4.56,
+    "text": "instead of lander one. It was still [ __ ]"
+  },
+  {
+    "start": 1029.68,
+    "duration": 4.0,
+    "text": "still concept grouping, and still having"
+  },
+  {
+    "start": 1032.0,
+    "duration": 3.2,
+    "text": "the variations at the ad level. But like"
+  },
+  {
+    "start": 1033.68,
+    "duration": 2.88,
+    "text": "I said, this one was literally killed on"
+  },
+  {
+    "start": 1035.2,
+    "duration": 3.28,
+    "text": "the first day. I didn't want to give it"
+  },
+  {
+    "start": 1036.56,
+    "duration": 4.16,
+    "text": "any time. It spent a few hundred bucks."
+  },
+  {
+    "start": 1038.48,
+    "duration": 3.68,
+    "text": "It hadn't proved itself and I wanted to"
+  },
+  {
+    "start": 1040.72,
+    "duration": 2.8,
+    "text": "funnel more spend into what was actually"
+  },
+  {
+    "start": 1042.16,
+    "duration": 3.2,
+    "text": "looking really good. By the way, I"
+  },
+  {
+    "start": 1043.52,
+    "duration": 3.2,
+    "text": "tested US only. I didn't mention that,"
+  },
+  {
+    "start": 1045.36,
+    "duration": 3.36,
+    "text": "but this is what I did. All right. Next"
+  },
+  {
+    "start": 1046.72,
+    "duration": 3.2,
+    "text": "is going to be creatives. Now, once"
+  },
+  {
+    "start": 1048.72,
+    "duration": 2.32,
+    "text": "again, I made a lot of videos on"
+  },
+  {
+    "start": 1049.92,
+    "duration": 3.28,
+    "text": "creatives, so I'm not actually going to"
+  },
+  {
+    "start": 1051.04,
+    "duration": 4.56,
+    "text": "make creatives in front of you, but I"
+  },
+  {
+    "start": 1053.2,
+    "duration": 5.04,
+    "text": "think I explained a lot of this already,"
+  },
+  {
+    "start": 1055.6,
+    "duration": 6.32,
+    "text": "which is how I did my testing here by"
+  },
+  {
+    "start": 1058.24,
+    "duration": 6.96,
+    "text": "concept and by format. So, 100% of the"
+  },
+  {
+    "start": 1061.92,
+    "duration": 5.04,
+    "text": "ads that I tested were AI, and they kind"
+  },
+  {
+    "start": 1065.2,
+    "duration": 3.36,
+    "text": "of fell into different formats. So, I"
+  },
+  {
+    "start": 1066.96,
+    "duration": 4.08,
+    "text": "had the AI animations, the native"
+  },
+  {
+    "start": 1068.56,
+    "duration": 4.32,
+    "text": "statics, I had the podcast VSSL and"
+  },
+  {
+    "start": 1071.04,
+    "duration": 3.84,
+    "text": "founder ads, and I just did variations"
+  },
+  {
+    "start": 1072.88,
+    "duration": 3.52,
+    "text": "of each. The process for AI creatives,"
+  },
+  {
+    "start": 1074.88,
+    "duration": 3.36,
+    "text": "guys, like it's becoming really so easy"
+  },
+  {
+    "start": 1076.4,
+    "duration": 3.2,
+    "text": "and so commoditized. If you're doing"
+  },
+  {
+    "start": 1078.24,
+    "duration": 3.68,
+    "text": "native statics, you're just going to be"
+  },
+  {
+    "start": 1079.6,
+    "duration": 3.76,
+    "text": "using, you know, Nano Banana Pro. That's"
+  },
+  {
+    "start": 1081.92,
+    "duration": 3.12,
+    "text": "it. You're going to use it on Higsfield."
+  },
+  {
+    "start": 1083.36,
+    "duration": 3.2,
+    "text": "You can get tons of generations really"
+  },
+  {
+    "start": 1085.04,
+    "duration": 3.36,
+    "text": "quickly or use something open source"
+  },
+  {
+    "start": 1086.56,
+    "duration": 3.6,
+    "text": "that's very similar. If you're doing"
+  },
+  {
+    "start": 1088.4,
+    "duration": 4.08,
+    "text": "videos, it's simply going to be"
+  },
+  {
+    "start": 1090.16,
+    "duration": 5.2,
+    "text": "generating good images on NanoBanana Pro"
+  },
+  {
+    "start": 1092.48,
+    "duration": 4.64,
+    "text": "and then doing image to video using a"
+  },
+  {
+    "start": 1095.36,
+    "duration": 3.76,
+    "text": "solid video model. And again, you can do"
+  },
+  {
+    "start": 1097.12,
+    "duration": 3.76,
+    "text": "all this on Higsfield. Use whatever"
+  },
+  {
+    "start": 1099.12,
+    "duration": 3.76,
+    "text": "[ __ ] website you want, but it's a"
+  },
+  {
+    "start": 1100.88,
+    "duration": 4.56,
+    "text": "nice one-stop shop for everything. For"
+  },
+  {
+    "start": 1102.88,
+    "duration": 3.92,
+    "text": "image to video, what you want to use is"
+  },
+  {
+    "start": 1105.44,
+    "duration": 4.96,
+    "text": "going to be dependent on the type of"
+  },
+  {
+    "start": 1106.8,
+    "duration": 6.0,
+    "text": "clip because Seance 2 is the best video"
+  },
+  {
+    "start": 1110.4,
+    "duration": 5.92,
+    "text": "generation tool that is out right now."
+  },
+  {
+    "start": 1112.8,
+    "duration": 5.6,
+    "text": "CDS 2 is also [ __ ] expensive and no"
+  },
+  {
+    "start": 1116.32,
+    "duration": 3.76,
+    "text": "matter what API you're using, it's going"
+  },
+  {
+    "start": 1118.4,
+    "duration": 4.28,
+    "text": "to be the most expensive one. For that"
+  },
+  {
+    "start": 1120.08,
+    "duration": 4.72,
+    "text": "reason, if I'm doing a hook clip"
+  },
+  {
+    "start": 1122.68,
+    "duration": 3.8,
+    "text": "[clears throat] generation, then I'll be"
+  },
+  {
+    "start": 1124.8,
+    "duration": 3.52,
+    "text": "using the more expensive models. And"
+  },
+  {
+    "start": 1126.48,
+    "duration": 3.28,
+    "text": "then for everything else post hook,"
+  },
+  {
+    "start": 1128.32,
+    "duration": 2.64,
+    "text": "which we know the hook, first 3 to 5"
+  },
+  {
+    "start": 1129.76,
+    "duration": 3.12,
+    "text": "seconds of your ad is the most important"
+  },
+  {
+    "start": 1130.96,
+    "duration": 3.04,
+    "text": "by far. If Cance doesn't make sense, I'm"
+  },
+  {
+    "start": 1132.88,
+    "duration": 3.36,
+    "text": "going to move to other models."
+  },
+  {
+    "start": 1134.0,
+    "duration": 4.16,
+    "text": "Specifically, I'll move to, you know,"
+  },
+  {
+    "start": 1136.24,
+    "duration": 3.36,
+    "text": "Omni from Cling. And honestly, that's"
+  },
+  {
+    "start": 1138.16,
+    "duration": 3.52,
+    "text": "all I'm using. I was going to go on the"
+  },
+  {
+    "start": 1139.6,
+    "duration": 3.76,
+    "text": "list, but like these are actually the"
+  },
+  {
+    "start": 1141.68,
+    "duration": 3.6,
+    "text": "only two that I'm really using right now"
+  },
+  {
+    "start": 1143.36,
+    "duration": 5.36,
+    "text": "because I do a lot of video generations"
+  },
+  {
+    "start": 1145.28,
+    "duration": 4.88,
+    "text": "previously on V3.1 and Cling Omni is"
+  },
+  {
+    "start": 1148.72,
+    "duration": 3.04,
+    "text": "just a little bit more expensive and it"
+  },
+  {
+    "start": 1150.16,
+    "duration": 4.08,
+    "text": "needs fewer generations. So ultimately"
+  },
+  {
+    "start": 1151.76,
+    "duration": 4.64,
+    "text": "it was actually net cheaper for me to go"
+  },
+  {
+    "start": 1154.24,
+    "duration": 3.92,
+    "text": "with Omni for all my video generations."
+  },
+  {
+    "start": 1156.4,
+    "duration": 4.16,
+    "text": "But point being, what do you do with"
+  },
+  {
+    "start": 1158.16,
+    "duration": 4.16,
+    "text": "ads? You find stuff that's working. You"
+  },
+  {
+    "start": 1160.56,
+    "duration": 3.84,
+    "text": "rebuild it for yourself and you make"
+  },
+  {
+    "start": 1162.32,
+    "duration": 3.76,
+    "text": "good [ __ ] content with AI. You watch"
+  },
+  {
+    "start": 1164.4,
+    "duration": 4.4,
+    "text": "the metadata before you upload into your"
+  },
+  {
+    "start": 1166.08,
+    "duration": 4.64,
+    "text": "ad account and you're [ __ ] good to"
+  },
+  {
+    "start": 1168.8,
+    "duration": 4.16,
+    "text": "go. Like it's not something that is"
+  },
+  {
+    "start": 1170.72,
+    "duration": 4.72,
+    "text": "super complicated anymore. I don't think"
+  },
+  {
+    "start": 1172.96,
+    "duration": 4.0,
+    "text": "it was ever that complicated, but you"
+  },
+  {
+    "start": 1175.44,
+    "duration": 3.44,
+    "text": "can see the style of ads that are doing"
+  },
+  {
+    "start": 1176.96,
+    "duration": 4.16,
+    "text": "well. That's why I love using Get Hooked"
+  },
+  {
+    "start": 1178.88,
+    "duration": 4.8,
+    "text": "as well, cuz you can just see these"
+  },
+  {
+    "start": 1181.12,
+    "duration": 4.24,
+    "text": "competitors, see their top ads, get the"
+  },
+  {
+    "start": 1183.68,
+    "duration": 3.76,
+    "text": "script, rewrite it for yourself in like"
+  },
+  {
+    "start": 1185.36,
+    "duration": 4.08,
+    "text": "60 seconds, and then it just becomes a"
+  },
+  {
+    "start": 1187.44,
+    "duration": 3.76,
+    "text": "game of creating the clips and piecing"
+  },
+  {
+    "start": 1189.44,
+    "duration": 3.52,
+    "text": "them together. That's it. If you really"
+  },
+  {
+    "start": 1191.2,
+    "duration": 3.2,
+    "text": "want to be a lazy son of a [ __ ] What"
+  },
+  {
+    "start": 1192.96,
+    "duration": 3.76,
+    "text": "you can also do is after you have all"
+  },
+  {
+    "start": 1194.4,
+    "duration": 4.0,
+    "text": "these clips generated, you can go to"
+  },
+  {
+    "start": 1196.72,
+    "duration": 3.28,
+    "text": "chat GBT. I know, who would have"
+  },
+  {
+    "start": 1198.4,
+    "duration": 3.28,
+    "text": "thought? No, I actually use chat GBT a"
+  },
+  {
+    "start": 1200.0,
+    "duration": 4.72,
+    "text": "lot more now. You can use chat GBT and"
+  },
+  {
+    "start": 1201.68,
+    "duration": 5.6,
+    "text": "install an extension called Chatcut and"
+  },
+  {
+    "start": 1204.72,
+    "duration": 3.6,
+    "text": "Chatcut can edit your videos for you."
+  },
+  {
+    "start": 1207.28,
+    "duration": 2.64,
+    "text": "You can go down that rabbit hole"
+  },
+  {
+    "start": 1208.32,
+    "duration": 3.36,
+    "text": "yourself, but it's pretty [ __ ] cool."
+  },
+  {
+    "start": 1209.92,
+    "duration": 4.08,
+    "text": "Now, lastly, I want to talk about what"
+  },
+  {
+    "start": 1211.68,
+    "duration": 4.0,
+    "text": "went wrong because, you know, this was a"
+  },
+  {
+    "start": 1214.0,
+    "duration": 3.52,
+    "text": "new launch. And even though I've been"
+  },
+  {
+    "start": 1215.68,
+    "duration": 4.56,
+    "text": "doing this for years, I still like to"
+  },
+  {
+    "start": 1217.52,
+    "duration": 4.72,
+    "text": "learn from every new test that I run."
+  },
+  {
+    "start": 1220.24,
+    "duration": 3.84,
+    "text": "And so, one of the main things that I"
+  },
+  {
+    "start": 1222.24,
+    "duration": 3.04,
+    "text": "did wrong, and that doesn't look good,"
+  },
+  {
+    "start": 1224.08,
+    "duration": 3.28,
+    "text": "first and foremost, it's just going to"
+  },
+  {
+    "start": 1225.28,
+    "duration": 6.48,
+    "text": "be the conversion rate. Now, since I was"
+  },
+  {
+    "start": 1227.36,
+    "duration": 6.64,
+    "text": "using many indirect ads, my ad cost was"
+  },
+  {
+    "start": 1231.76,
+    "duration": 5.2,
+    "text": "relatively low. So, having a lower"
+  },
+  {
+    "start": 1234.0,
+    "duration": 4.88,
+    "text": "conversion rate is totally fine in that"
+  },
+  {
+    "start": 1236.96,
+    "duration": 3.84,
+    "text": "case. I still don't like it, but"
+  },
+  {
+    "start": 1238.88,
+    "duration": 3.76,
+    "text": "economically it was still within our"
+  },
+  {
+    "start": 1240.8,
+    "duration": 2.96,
+    "text": "target KPIs. And if you look at the"
+  },
+  {
+    "start": 1242.64,
+    "duration": 2.48,
+    "text": "actual conversion rate, and this is"
+  },
+  {
+    "start": 1243.76,
+    "duration": 3.12,
+    "text": "important for anybody that doesn't know"
+  },
+  {
+    "start": 1245.12,
+    "duration": 4.88,
+    "text": "this, if you look at the conversion rate"
+  },
+  {
+    "start": 1246.88,
+    "duration": 6.0,
+    "text": "of the store, it's at 1.54%. However,"
+  },
+  {
+    "start": 1250.0,
+    "duration": 4.8,
+    "text": "every single day, I was launching a lot"
+  },
+  {
+    "start": 1252.88,
+    "duration": 4.4,
+    "text": "of ads and a good amount of adsets."
+  },
+  {
+    "start": 1254.8,
+    "duration": 6.96,
+    "text": "Anytime you do that, especially on"
+  },
+  {
+    "start": 1257.28,
+    "duration": 8.08,
+    "text": "Shopify and especially if you use UTMs,"
+  },
+  {
+    "start": 1261.76,
+    "duration": 6.16,
+    "text": "what happens is Facebook sends tons and"
+  },
+  {
+    "start": 1265.36,
+    "duration": 4.0,
+    "text": "tons of bot traffic to your site on the"
+  },
+  {
+    "start": 1267.92,
+    "duration": 3.04,
+    "text": "day that you launch. And if you're"
+  },
+  {
+    "start": 1269.36,
+    "duration": 3.6,
+    "text": "launching stuff every day, that means"
+  },
+  {
+    "start": 1270.96,
+    "duration": 4.64,
+    "text": "they're sending bots every single day."
+  },
+  {
+    "start": 1272.96,
+    "duration": 5.2,
+    "text": "And so you can probably see in your"
+  },
+  {
+    "start": 1275.6,
+    "duration": 4.08,
+    "text": "sessions when you launch something new,"
+  },
+  {
+    "start": 1278.16,
+    "duration": 4.0,
+    "text": "you probably see this massive spike."
+  },
+  {
+    "start": 1279.68,
+    "duration": 4.48,
+    "text": "That's not actual Facebook users. Those"
+  },
+  {
+    "start": 1282.16,
+    "duration": 4.0,
+    "text": "are bots that are crawling your page,"
+  },
+  {
+    "start": 1284.16,
+    "duration": 3.12,
+    "text": "scanning it for compliance, and going"
+  },
+  {
+    "start": 1286.16,
+    "duration": 2.56,
+    "text": "through and clicking all over your"
+  },
+  {
+    "start": 1287.28,
+    "duration": 3.44,
+    "text": "[ __ ] website. Actually, they go as"
+  },
+  {
+    "start": 1288.72,
+    "duration": 3.44,
+    "text": "deep as your checkout. And they would"
+  },
+  {
+    "start": 1290.72,
+    "duration": 3.44,
+    "text": "probably buy if they had their own"
+  },
+  {
+    "start": 1292.16,
+    "duration": 3.68,
+    "text": "credit card IDs, but they don't. So, the"
+  },
+  {
+    "start": 1294.16,
+    "duration": 4.32,
+    "text": "real conversion rate based off my"
+  },
+  {
+    "start": 1295.84,
+    "duration": 5.6,
+    "text": "calculations is closer to like 2 to"
+  },
+  {
+    "start": 1298.48,
+    "duration": 4.56,
+    "text": "2.5%. But in any case, I still don't"
+  },
+  {
+    "start": 1301.44,
+    "duration": 3.04,
+    "text": "think that's that great. And that's one"
+  },
+  {
+    "start": 1303.04,
+    "duration": 3.28,
+    "text": "thing that I think can be done better is"
+  },
+  {
+    "start": 1304.48,
+    "duration": 4.4,
+    "text": "while I wanted to go the route of going"
+  },
+  {
+    "start": 1306.32,
+    "duration": 4.56,
+    "text": "direct to PDP, I do think that adding in"
+  },
+  {
+    "start": 1308.88,
+    "duration": 3.92,
+    "text": "pre-landers potentially with the right"
+  },
+  {
+    "start": 1310.88,
+    "duration": 3.36,
+    "text": "framing could potentially increase the"
+  },
+  {
+    "start": 1312.8,
+    "duration": 3.12,
+    "text": "conversion rate and also just more split"
+  },
+  {
+    "start": 1314.24,
+    "duration": 3.52,
+    "text": "testing. So my next steps here is going"
+  },
+  {
+    "start": 1315.92,
+    "duration": 3.76,
+    "text": "to be to install some split testing"
+  },
+  {
+    "start": 1317.76,
+    "duration": 3.44,
+    "text": "tools and run some split tests in"
+  },
+  {
+    "start": 1319.68,
+    "duration": 3.76,
+    "text": "general on the PDP to see if I can"
+  },
+  {
+    "start": 1321.2,
+    "duration": 3.36,
+    "text": "increase the conversion rate. And that's"
+  },
+  {
+    "start": 1323.44,
+    "duration": 2.96,
+    "text": "kind of the first thing that I think"
+  },
+  {
+    "start": 1324.56,
+    "duration": 4.0,
+    "text": "didn't go very well. Fortunately, as I"
+  },
+  {
+    "start": 1326.4,
+    "duration": 4.16,
+    "text": "said, we still met our target KPIs, but"
+  },
+  {
+    "start": 1328.56,
+    "duration": 4.4,
+    "text": "I wanted to do better than that. Now,"
+  },
+  {
+    "start": 1330.56,
+    "duration": 4.4,
+    "text": "the second thing that sucks on the store"
+  },
+  {
+    "start": 1332.96,
+    "duration": 3.84,
+    "text": "so far is going to be the AOV. This is"
+  },
+  {
+    "start": 1334.96,
+    "duration": 3.36,
+    "text": "mostly because I launched this very"
+  },
+  {
+    "start": 1336.8,
+    "duration": 3.92,
+    "text": "quickly. I launched this entire store in"
+  },
+  {
+    "start": 1338.32,
+    "duration": 3.92,
+    "text": "a matter of a few days. And to me,"
+  },
+  {
+    "start": 1340.72,
+    "duration": 3.36,
+    "text": "that's even pretty slow. Like, you can"
+  },
+  {
+    "start": 1342.24,
+    "duration": 6.24,
+    "text": "easily, especially with AI, guys, in"
+  },
+  {
+    "start": 1344.08,
+    "duration": 6.56,
+    "text": "2018, 2019, I would find a product,"
+  },
+  {
+    "start": 1348.48,
+    "duration": 3.92,
+    "text": "build a store, create the ads,"
+  },
+  {
+    "start": 1350.64,
+    "duration": 3.44,
+    "text": "everything completely from scratch, like"
+  },
+  {
+    "start": 1352.4,
+    "duration": 4.32,
+    "text": "literally a new Shopify store from"
+  },
+  {
+    "start": 1354.08,
+    "duration": 5.28,
+    "text": "scratch. everything from scratch with"
+  },
+  {
+    "start": 1356.72,
+    "duration": 5.36,
+    "text": "ads published and scheduled to run the"
+  },
+  {
+    "start": 1359.36,
+    "duration": 4.56,
+    "text": "next day in under four hours. All of"
+  },
+  {
+    "start": 1362.08,
+    "duration": 3.6,
+    "text": "that in under four hours. I had done it"
+  },
+  {
+    "start": 1363.92,
+    "duration": 3.36,
+    "text": "so many times. I was so good. So now"
+  },
+  {
+    "start": 1365.68,
+    "duration": 3.44,
+    "text": "with AI, the stuff is going to be"
+  },
+  {
+    "start": 1367.28,
+    "duration": 5.36,
+    "text": "better, but you can easily launch stuff"
+  },
+  {
+    "start": 1369.12,
+    "duration": 4.96,
+    "text": "within a day. Easily. Easily. And I"
+  },
+  {
+    "start": 1372.64,
+    "duration": 2.72,
+    "text": "noticed that when I was building, I just"
+  },
+  {
+    "start": 1374.08,
+    "duration": 2.88,
+    "text": "spent a lot of time on [ __ ] that like"
+  },
+  {
+    "start": 1375.36,
+    "duration": 3.76,
+    "text": "doesn't matter. Like designing the [ __ ]"
+  },
+  {
+    "start": 1376.96,
+    "duration": 3.2,
+    "text": "out of your homepage doesn't matter."
+  },
+  {
+    "start": 1379.12,
+    "duration": 3.2,
+    "text": "Like most people are going to stay on"
+  },
+  {
+    "start": 1380.16,
+    "duration": 4.08,
+    "text": "the product page. You need to [ __ ]"
+  },
+  {
+    "start": 1382.32,
+    "duration": 3.28,
+    "text": "focus where it actually matters. But the"
+  },
+  {
+    "start": 1384.24,
+    "duration": 2.8,
+    "text": "second thing is the AOV. Because I"
+  },
+  {
+    "start": 1385.6,
+    "duration": 3.28,
+    "text": "launched so quickly, I didn't set up any"
+  },
+  {
+    "start": 1387.04,
+    "duration": 3.84,
+    "text": "post-purchase upselles, any pre-"
+  },
+  {
+    "start": 1388.88,
+    "duration": 3.28,
+    "text": "purchase upselles. There's basically"
+  },
+  {
+    "start": 1390.88,
+    "duration": 3.76,
+    "text": "nothing that has been done here except"
+  },
+  {
+    "start": 1392.16,
+    "duration": 6.48,
+    "text": "for having a decent offer. And so the"
+  },
+  {
+    "start": 1394.64,
+    "duration": 6.64,
+    "text": "AOV is only like I think it was like $14"
+  },
+  {
+    "start": 1398.64,
+    "duration": 5.84,
+    "text": "above the front end price point, which"
+  },
+  {
+    "start": 1401.28,
+    "duration": 5.44,
+    "text": "is $14 AOV contribution. My target is"
+  },
+  {
+    "start": 1404.48,
+    "duration": 4.56,
+    "text": "double. So I would have to add an"
+  },
+  {
+    "start": 1406.72,
+    "duration": 3.84,
+    "text": "additional like $30 of AOV with"
+  },
+  {
+    "start": 1409.04,
+    "duration": 3.04,
+    "text": "additional tests for this particular"
+  },
+  {
+    "start": 1410.56,
+    "duration": 2.88,
+    "text": "store. But that's doable. That's kind of"
+  },
+  {
+    "start": 1412.08,
+    "duration": 3.28,
+    "text": "the easy part, at least for me, because"
+  },
+  {
+    "start": 1413.44,
+    "duration": 4.24,
+    "text": "I've done it so frequently. And then, of"
+  },
+  {
+    "start": 1415.36,
+    "duration": 3.84,
+    "text": "course, the last thing that, you know,"
+  },
+  {
+    "start": 1417.68,
+    "duration": 3.28,
+    "text": "really kind of threw a wrench in things"
+  },
+  {
+    "start": 1419.2,
+    "duration": 3.76,
+    "text": "is the ad account got shut down. We"
+  },
+  {
+    "start": 1420.96,
+    "duration": 3.28,
+    "text": "ended up scheduling ads on another ad"
+  },
+  {
+    "start": 1422.96,
+    "duration": 2.72,
+    "text": "account. They never ran. And the reason"
+  },
+  {
+    "start": 1424.24,
+    "duration": 4.08,
+    "text": "they never ran is because we ended up"
+  },
+  {
+    "start": 1425.68,
+    "duration": 4.24,
+    "text": "getting the original ad account back"
+  },
+  {
+    "start": 1428.32,
+    "duration": 4.16,
+    "text": "this morning, the same day that we hit"
+  },
+  {
+    "start": 1429.92,
+    "duration": 4.0,
+    "text": "the 1K day. That is basically it. But"
+  },
+  {
+    "start": 1432.48,
+    "duration": 2.72,
+    "text": "getting ad account shut down, again,"
+  },
+  {
+    "start": 1433.92,
+    "duration": 3.12,
+    "text": "it's [ __ ] part of the game. We warmed"
+  },
+  {
+    "start": 1435.2,
+    "duration": 3.28,
+    "text": "up the ad account properly. We had zero"
+  },
+  {
+    "start": 1437.04,
+    "duration": 2.72,
+    "text": "rejected ads. Facebook is going through"
+  },
+  {
+    "start": 1438.48,
+    "duration": 2.8,
+    "text": "a bandwave right now. And if you're"
+  },
+  {
+    "start": 1439.76,
+    "duration": 4.08,
+    "text": "running ads on Facebook, you've probably"
+  },
+  {
+    "start": 1441.28,
+    "duration": 5.28,
+    "text": "got something banned. So just having"
+  },
+  {
+    "start": 1443.84,
+    "duration": 4.4,
+    "text": "backup accounts, having agency accounts,"
+  },
+  {
+    "start": 1446.56,
+    "duration": 3.44,
+    "text": "or you know, having insiders to help you"
+  },
+  {
+    "start": 1448.24,
+    "duration": 3.12,
+    "text": "get back the original accounts, you"
+  },
+  {
+    "start": 1450.0,
+    "duration": 3.04,
+    "text": "know, you never [ __ ] know if that's"
+  },
+  {
+    "start": 1451.36,
+    "duration": 3.52,
+    "text": "going to work or not, but sometimes it"
+  },
+  {
+    "start": 1453.04,
+    "duration": 3.84,
+    "text": "does, sometimes it doesn't. And so in"
+  },
+  {
+    "start": 1454.88,
+    "duration": 3.6,
+    "text": "this case, we had all of those set up"
+  },
+  {
+    "start": 1456.88,
+    "duration": 2.88,
+    "text": "and so we had multiple options in the"
+  },
+  {
+    "start": 1458.48,
+    "duration": 2.88,
+    "text": "case that something went down. That's"
+  },
+  {
+    "start": 1459.76,
+    "duration": 3.12,
+    "text": "about it for this video. Ultimately, I"
+  },
+  {
+    "start": 1461.36,
+    "duration": 2.72,
+    "text": "just kind of wanted to go through"
+  },
+  {
+    "start": 1462.88,
+    "duration": 3.36,
+    "text": "everything that I learned and how I"
+  },
+  {
+    "start": 1464.08,
+    "duration": 4.96,
+    "text": "structured everything. A long story"
+  },
+  {
+    "start": 1466.24,
+    "duration": 4.32,
+    "text": "short, if you have not yet hit 1K,"
+  },
+  {
+    "start": 1469.04,
+    "duration": 3.12,
+    "text": "you're probably spending way too much"
+  },
+  {
+    "start": 1470.56,
+    "duration": 4.0,
+    "text": "time on the wrong things. Like, just"
+  },
+  {
+    "start": 1472.16,
+    "duration": 4.56,
+    "text": "zoom out 30,000 ft, probably spending"
+  },
+  {
+    "start": 1474.56,
+    "duration": 4.16,
+    "text": "way too much on the wrong things and not"
+  },
+  {
+    "start": 1476.72,
+    "duration": 3.68,
+    "text": "enough time on the right things, which"
+  },
+  {
+    "start": 1478.72,
+    "duration": 3.44,
+    "text": "is going to be the store and the"
+  },
+  {
+    "start": 1480.4,
+    "duration": 3.92,
+    "text": "creatives. Even the ad strategy, I would"
+  },
+  {
+    "start": 1482.16,
+    "duration": 3.92,
+    "text": "say, is a fraction of importance"
+  },
+  {
+    "start": 1484.32,
+    "duration": 2.96,
+    "text": "compared to the store and the creatives."
+  },
+  {
+    "start": 1486.08,
+    "duration": 2.56,
+    "text": "And by store, I literally mean the"
+  },
+  {
+    "start": 1487.28,
+    "duration": 2.96,
+    "text": "funnel, which is like your PDP all the"
+  },
+  {
+    "start": 1488.64,
+    "duration": 2.56,
+    "text": "way to checkout. So, yeah, guys, other"
+  },
+  {
+    "start": 1490.24,
+    "duration": 2.64,
+    "text": "than that, thank you so much for"
+  },
+  {
+    "start": 1491.2,
+    "duration": 3.84,
+    "text": "watching. If you want to work with me"
+  },
+  {
+    "start": 1492.88,
+    "duration": 4.48,
+    "text": "more closely and get like very specific"
+  },
+  {
+    "start": 1495.04,
+    "duration": 3.68,
+    "text": "tailored advice for getting your"
+  },
+  {
+    "start": 1497.36,
+    "duration": 2.88,
+    "text": "product, your new store, whatever,"
+  },
+  {
+    "start": 1498.72,
+    "duration": 2.88,
+    "text": "getting you to 1K per day, you can"
+  },
+  {
+    "start": 1500.24,
+    "duration": 3.52,
+    "text": "always click the first link in the"
+  },
+  {
+    "start": 1501.6,
+    "duration": 3.44,
+    "text": "description. I have some exciting things"
+  },
+  {
+    "start": 1503.76,
+    "duration": 2.64,
+    "text": "I'm planning that you'll hear about"
+  },
+  {
+    "start": 1505.04,
+    "duration": 2.48,
+    "text": "soon, and I'm just going to leave it as"
+  },
+  {
+    "start": 1506.4,
+    "duration": 2.4,
+    "text": "vague as that. Other than that, guys,"
+  },
+  {
+    "start": 1507.52,
+    "duration": 2.88,
+    "text": "thank you so much for watching. Talk to"
+  },
+  {
+    "start": 1508.8,
+    "duration": 4.96,
+    "text": "you'all later. Have a great one. Run"
+  },
+  {
+    "start": 1510.4,
+    "duration": 3.36,
+    "text": "more ads. Peace."
+  }
+]

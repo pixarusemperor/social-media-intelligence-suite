@@ -1,0 +1,2676 @@
+1
+00:00:00,080 --> 00:00:03,280
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,600 --> 00:00:05,040
+going to be going over Shopify advice
+
+3
+00:00:03,280 --> 00:00:06,720
+that will actually make you print from
+
+4
+00:00:05,040 --> 00:00:08,560
+an 8 figureure operator. First up on the
+
+5
+00:00:06,720 --> 00:00:10,720
+list, we have your creative strategy.
+
+6
+00:00:08,560 --> 00:00:13,040
+Now, specifically what I mean here is
+
+7
+00:00:10,720 --> 00:00:14,880
+what is the ratio of ads that you're
+
+8
+00:00:13,040 --> 00:00:16,800
+testing? That typically falls into two
+
+9
+00:00:14,880 --> 00:00:18,480
+to three categories. How many new
+
+10
+00:00:16,800 --> 00:00:19,600
+concepts are you testing, which is ads
+
+11
+00:00:18,480 --> 00:00:20,960
+that are completely different from
+
+12
+00:00:19,600 --> 00:00:22,880
+anything that you've ever run? Number
+
+13
+00:00:20,960 --> 00:00:24,320
+two, how many variations are you
+
+14
+00:00:22,880 --> 00:00:26,480
+testing? And then number three, some
+
+15
+00:00:24,320 --> 00:00:28,960
+people like to split a variation testing
+
+16
+00:00:26,480 --> 00:00:30,800
+into like a macro variation versus a
+
+17
+00:00:28,960 --> 00:00:32,800
+micro variation. Doesn't really matter.
+
+18
+00:00:30,800 --> 00:00:35,120
+The point is you should be clearly
+
+19
+00:00:32,800 --> 00:00:37,680
+clearly clearly prioritizing the new
+
+20
+00:00:35,120 --> 00:00:39,600
+concept creation instead of iteration
+
+21
+00:00:37,680 --> 00:00:41,120
+and variation testing. The reason why is
+
+22
+00:00:39,600 --> 00:00:42,800
+because the way that new Andromeda
+
+23
+00:00:41,120 --> 00:00:44,320
+algorithm works is it's sorting through
+
+24
+00:00:42,800 --> 00:00:45,680
+ads and grouping them together kind of
+
+25
+00:00:44,320 --> 00:00:47,680
+in these containers. And if you have a
+
+26
+00:00:45,680 --> 00:00:49,280
+bunch of variations within the same ad
+
+27
+00:00:47,680 --> 00:00:51,200
+set or even within the same ad account
+
+28
+00:00:49,280 --> 00:00:52,400
+period, Facebook is going to be sifting
+
+29
+00:00:51,200 --> 00:00:54,320
+through those and grouping them all
+
+30
+00:00:52,400 --> 00:00:55,680
+together. even though they may have a
+
+31
+00:00:54,320 --> 00:00:58,160
+different hook or a different scroll
+
+32
+00:00:55,680 --> 00:01:00,160
+stopper etc. So really prioritizing new
+
+33
+00:00:58,160 --> 00:01:01,840
+concepts very important in your creative
+
+34
+00:01:00,160 --> 00:01:03,680
+strategy. So for that reason we are
+
+35
+00:01:01,840 --> 00:01:05,520
+going to be putting this in the A tier.
+
+36
+00:01:03,680 --> 00:01:07,680
+Next up on the list we have the one
+
+37
+00:01:05,520 --> 00:01:09,200
+relaunch rule. Now this is a rule I came
+
+38
+00:01:07,680 --> 00:01:10,800
+up with specifically if you are a
+
+39
+00:01:09,200 --> 00:01:12,560
+beginner because a lot of people that
+
+40
+00:01:10,800 --> 00:01:14,720
+are getting into ecom they fall into
+
+41
+00:01:12,560 --> 00:01:16,720
+this trap of kind of like spam testing
+
+42
+00:01:14,720 --> 00:01:18,800
+products. I'm not a huge fan of that. I
+
+43
+00:01:16,720 --> 00:01:20,160
+like to actually go for testing quality
+
+44
+00:01:18,800 --> 00:01:21,520
+of product compared to quantity. But
+
+45
+00:01:20,160 --> 00:01:22,800
+nevertheless, even if you do test a
+
+46
+00:01:21,520 --> 00:01:24,320
+product and it doesn't really look good,
+
+47
+00:01:22,800 --> 00:01:26,080
+right? The metrics are pretty poor.
+
+48
+00:01:24,320 --> 00:01:27,840
+You're nowhere near your break even
+
+49
+00:01:26,080 --> 00:01:29,840
+return on ad spend. If that's the case,
+
+50
+00:01:27,840 --> 00:01:31,840
+I have a one relaunch rule, which means
+
+51
+00:01:29,840 --> 00:01:33,040
+I will go and look at all of my ad data.
+
+52
+00:01:31,840 --> 00:01:34,480
+I'll look at the creatives. I'll look at
+
+53
+00:01:33,040 --> 00:01:36,000
+the audiences. I'll look at the landing
+
+54
+00:01:34,480 --> 00:01:38,720
+page level, conversion rate, add toart
+
+55
+00:01:36,000 --> 00:01:40,320
+ratio, etc. And I'll say, "Okay, I have
+
+56
+00:01:38,720 --> 00:01:41,600
+one more chance to make this product a
+
+57
+00:01:40,320 --> 00:01:43,040
+success." I'll read the data. I'll make
+
+58
+00:01:41,600 --> 00:01:44,960
+adjustments. For example, if I have a
+
+59
+00:01:43,040 --> 00:01:46,480
+really, really shitty ad toart ratio,
+
+60
+00:01:44,960 --> 00:01:48,480
+what I'll do is I'll just completely
+
+61
+00:01:46,480 --> 00:01:50,080
+test an entirely new landing page
+
+62
+00:01:48,480 --> 00:01:52,240
+structure. And if I don't improve that
+
+63
+00:01:50,080 --> 00:01:53,920
+number or get anywhere close to break
+
+64
+00:01:52,240 --> 00:01:55,360
+even or ideally profitable, then that's
+
+65
+00:01:53,920 --> 00:01:57,360
+going to be an entire product that I cut
+
+66
+00:01:55,360 --> 00:01:59,360
+and move on to the next one. That is my
+
+67
+00:01:57,360 --> 00:02:00,720
+one relaunch rule. Now, this only really
+
+68
+00:01:59,360 --> 00:02:02,160
+applies to beginners. So, for that
+
+69
+00:02:00,720 --> 00:02:03,840
+reason, I'm going to put this one in the
+
+70
+00:02:02,160 --> 00:02:05,360
+C tier. Next up on the list, we have
+
+71
+00:02:03,840 --> 00:02:07,040
+having a very strong Facebook
+
+72
+00:02:05,360 --> 00:02:10,560
+infrastructure. And what I mean by this
+
+73
+00:02:07,040 --> 00:02:12,400
+is a diverse and bulletproof setup of ad
+
+74
+00:02:10,560 --> 00:02:14,480
+accounts, business managers, pages,
+
+75
+00:02:12,400 --> 00:02:16,160
+pixels, etc. The reason why you need
+
+76
+00:02:14,480 --> 00:02:18,720
+this is because Facebook all the time
+
+77
+00:02:16,160 --> 00:02:20,160
+goes on these rampages of, you know,
+
+78
+00:02:18,720 --> 00:02:22,000
+either completely shutting down ad
+
+79
+00:02:20,160 --> 00:02:23,680
+accounts or kind of shadowbanning ad
+
+80
+00:02:22,000 --> 00:02:26,000
+accounts where the performance just goes
+
+81
+00:02:23,680 --> 00:02:28,640
+absolutely bonkers and your bro just
+
+82
+00:02:26,000 --> 00:02:29,920
+drops by like 30 to 50%. And all this
+
+83
+00:02:28,640 --> 00:02:31,280
+crazy [ __ ] happens. This is just the
+
+84
+00:02:29,920 --> 00:02:32,240
+nature of running ads on Facebook. All
+
+85
+00:02:31,280 --> 00:02:34,160
+right? If you're not comfortable with
+
+86
+00:02:32,240 --> 00:02:35,680
+it, go [ __ ] run ads somewhere else.
+
+87
+00:02:34,160 --> 00:02:37,760
+But it's part of the game. So you have
+
+88
+00:02:35,680 --> 00:02:39,520
+to build an infrastructure in which you
+
+89
+00:02:37,760 --> 00:02:41,200
+are bulletproof. No matter what happens,
+
+90
+00:02:39,520 --> 00:02:42,800
+ad account goes down, page goes down,
+
+91
+00:02:41,200 --> 00:02:44,560
+business manager goes down, you can be
+
+92
+00:02:42,800 --> 00:02:46,000
+up and running in under a day. If you
+
+93
+00:02:44,560 --> 00:02:47,920
+don't have that diverse setup, that is
+
+94
+00:02:46,000 --> 00:02:49,280
+an extreme extreme risk to your
+
+95
+00:02:47,920 --> 00:02:50,640
+business. This is something very very
+
+96
+00:02:49,280 --> 00:02:51,840
+important if running ads on Facebook.
+
+97
+00:02:50,640 --> 00:02:53,680
+So, for that reason, we're putting this
+
+98
+00:02:51,840 --> 00:02:57,200
+guy in the A tier. Next up on the list,
+
+99
+00:02:53,680 --> 00:02:59,680
+we have a high volume of diverse ad
+
+100
+00:02:57,200 --> 00:03:02,000
+creative. That very sentence alone is
+
+101
+00:02:59,680 --> 00:03:04,560
+one of the most important things, if not
+
+102
+00:03:02,000 --> 00:03:06,560
+the most important thing in your success
+
+103
+00:03:04,560 --> 00:03:08,720
+in running ads on Facebook. Everybody
+
+104
+00:03:06,560 --> 00:03:10,480
+says that creatives are king, but gone
+
+105
+00:03:08,720 --> 00:03:12,400
+are the days where you can just spam
+
+106
+00:03:10,480 --> 00:03:14,960
+test a billion variations of your
+
+107
+00:03:12,400 --> 00:03:16,160
+creative and expect to be ripping 200k a
+
+108
+00:03:14,960 --> 00:03:18,480
+day. Instead, what you should be
+
+109
+00:03:16,160 --> 00:03:20,720
+prioritizing is a high volume, which is
+
+110
+00:03:18,480 --> 00:03:22,800
+the quantity piece in addition to
+
+111
+00:03:20,720 --> 00:03:25,040
+diverse creatives, which I kind of
+
+112
+00:03:22,800 --> 00:03:26,960
+alluded to earlier talking about how you
+
+113
+00:03:25,040 --> 00:03:28,480
+need to run ads post and drama with ads
+
+114
+00:03:26,960 --> 00:03:29,920
+that are very, very diverse from one
+
+115
+00:03:28,480 --> 00:03:33,040
+another. But those two ingredients
+
+116
+00:03:29,920 --> 00:03:34,560
+together literally is 90% of your
+
+117
+00:03:33,040 --> 00:03:37,440
+success on Facebook. I'm not even
+
+118
+00:03:34,560 --> 00:03:39,600
+joking. 90% if you are just an absolute
+
+119
+00:03:37,440 --> 00:03:41,600
+savage with creatives, you will never
+
+120
+00:03:39,600 --> 00:03:43,200
+worry about running unprofitable
+
+121
+00:03:41,600 --> 00:03:46,000
+Facebook ads the rest of your life. Like
+
+122
+00:03:43,200 --> 00:03:47,680
+media buying is rarely rarely rarely the
+
+123
+00:03:46,000 --> 00:03:49,600
+reason that you're not able to scale
+
+124
+00:03:47,680 --> 00:03:51,520
+your ad account. It's 90% of the time
+
+125
+00:03:49,600 --> 00:03:53,520
+just coming down to your creatives. And
+
+126
+00:03:51,520 --> 00:03:55,040
+if anything, the other 10% is going to
+
+127
+00:03:53,520 --> 00:03:57,600
+skew much heavier in the direction of
+
+128
+00:03:55,040 --> 00:03:59,840
+funnels. But I digress. Creatives are
+
+129
+00:03:57,600 --> 00:04:01,440
+king, but especially a high volume of
+
+130
+00:03:59,840 --> 00:04:03,280
+diverse creatives. And so for that
+
+131
+00:04:01,440 --> 00:04:05,440
+reason, if I haven't hyped it up enough,
+
+132
+00:04:03,280 --> 00:04:07,520
+this is going in the S tier. Next up on
+
+133
+00:04:05,440 --> 00:04:09,600
+the list, we have post-purchase funnel
+
+134
+00:04:07,520 --> 00:04:11,680
+optimization, post-purchase upsells,
+
+135
+00:04:09,600 --> 00:04:14,480
+oftentimes called Otto's, onetime
+
+136
+00:04:11,680 --> 00:04:16,240
+offers. I am extremely extremely bullish
+
+137
+00:04:14,480 --> 00:04:18,560
+and have been bullish from the beginning
+
+138
+00:04:16,240 --> 00:04:20,480
+on having a very strong backend of your
+
+139
+00:04:18,560 --> 00:04:22,320
+funnel. I don't mean backend in terms of
+
+140
+00:04:20,480 --> 00:04:24,160
+subscriptions or email or SMS. I mean
+
+141
+00:04:22,320 --> 00:04:25,840
+the back end of your funnel. So what
+
+142
+00:04:24,160 --> 00:04:27,360
+happens after somebody gives you their
+
+143
+00:04:25,840 --> 00:04:29,280
+credit card information, they complete
+
+144
+00:04:27,360 --> 00:04:30,640
+the order. What happens after that?
+
+145
+00:04:29,280 --> 00:04:32,240
+Because so many entrepreneurs miss out
+
+146
+00:04:30,640 --> 00:04:33,680
+on this and this is actually in many of
+
+147
+00:04:32,240 --> 00:04:36,560
+my funnels. This is actually where the
+
+148
+00:04:33,680 --> 00:04:38,560
+majority of the AOV contribution and LTV
+
+149
+00:04:36,560 --> 00:04:40,320
+contribution comes into play compared to
+
+150
+00:04:38,560 --> 00:04:41,760
+on the front end of the funnel. And not
+
+151
+00:04:40,320 --> 00:04:43,040
+a lot of people say that, but for me
+
+152
+00:04:41,760 --> 00:04:44,640
+often times that is actually
+
+153
+00:04:43,040 --> 00:04:45,920
+legitimately the case. And this is
+
+154
+00:04:44,640 --> 00:04:47,680
+something where you can actually compete
+
+155
+00:04:45,920 --> 00:04:49,360
+on what's called front-end economics.
+
+156
+00:04:47,680 --> 00:04:51,040
+And by front end, I mean just acquiring
+
+157
+00:04:49,360 --> 00:04:52,560
+that first customer. If you have an
+
+158
+00:04:51,040 --> 00:04:53,760
+average order value that is incredibly
+
+159
+00:04:52,560 --> 00:04:55,760
+high, so much higher than your
+
+160
+00:04:53,760 --> 00:04:58,480
+competition, then you can afford to pay
+
+161
+00:04:55,760 --> 00:05:00,480
+more to acquire a new customer. And as
+
+162
+00:04:58,480 --> 00:05:01,680
+we all know, the most famous Dan
+
+163
+00:05:00,480 --> 00:05:03,680
+Kennedy, one of the most legendary
+
+164
+00:05:01,680 --> 00:05:05,760
+marketers of all time, said, "The
+
+165
+00:05:03,680 --> 00:05:07,920
+business owner that can spend the most
+
+166
+00:05:05,760 --> 00:05:09,520
+to acquire a new customer wins." So if
+
+167
+00:05:07,920 --> 00:05:10,960
+that's you and you have super good
+
+168
+00:05:09,520 --> 00:05:12,480
+funnel economics, then guess what? You
+
+169
+00:05:10,960 --> 00:05:14,160
+can pay more to acquire new customers.
+
+170
+00:05:12,480 --> 00:05:16,160
+But once again, for this reason, this
+
+171
+00:05:14,160 --> 00:05:17,680
+one is going to be going in the A tier.
+
+172
+00:05:16,160 --> 00:05:19,840
+Very, very powerful. Next up on the
+
+173
+00:05:17,680 --> 00:05:21,680
+list, I have the concept of meshing
+
+174
+00:05:19,840 --> 00:05:22,720
+strategies. Here's what I mean by this.
+
+175
+00:05:21,680 --> 00:05:24,480
+When I initially got started in
+
+176
+00:05:22,720 --> 00:05:26,000
+e-commerce, I was 18 years old. And
+
+177
+00:05:24,480 --> 00:05:27,440
+probably like a lot of you, I went on to
+
+178
+00:05:26,000 --> 00:05:29,040
+YouTube. I started watching certain
+
+179
+00:05:27,440 --> 00:05:30,800
+people and I realized that they all kind
+
+180
+00:05:29,040 --> 00:05:31,840
+of had a slightly different strategy.
+
+181
+00:05:30,800 --> 00:05:33,280
+This person said they're running with
+
+182
+00:05:31,840 --> 00:05:34,800
+ABOS. This person said they're only
+
+183
+00:05:33,280 --> 00:05:36,000
+testing with CBOS. This person said
+
+184
+00:05:34,800 --> 00:05:37,040
+that's this kind of product. This person
+
+185
+00:05:36,000 --> 00:05:38,560
+said that's that kind of product. And
+
+186
+00:05:37,040 --> 00:05:39,760
+what I did was I started meshing these
+
+187
+00:05:38,560 --> 00:05:41,680
+strategies together. I was like, okay,
+
+188
+00:05:39,760 --> 00:05:43,840
+I'll just take the best of that guy and
+
+189
+00:05:41,680 --> 00:05:45,520
+then the best of this guy and then oh
+
+190
+00:05:43,840 --> 00:05:47,600
+this guy has some good stuff on funnels.
+
+191
+00:05:45,520 --> 00:05:50,880
+Let me take that. And every time I did
+
+192
+00:05:47,600 --> 00:05:52,960
+that, I got absolute dog [ __ ] results.
+
+193
+00:05:50,880 --> 00:05:54,400
+And that continues to be true today. If
+
+194
+00:05:52,960 --> 00:05:57,040
+you are going to follow somebody's
+
+195
+00:05:54,400 --> 00:05:59,680
+philosophy on scaling a business, follow
+
+196
+00:05:57,040 --> 00:06:01,840
+it to the tea. Every single piece, every
+
+197
+00:05:59,680 --> 00:06:03,360
+ingredient. Because taking piece by
+
+198
+00:06:01,840 --> 00:06:04,640
+piece and trying to mesh it all together
+
+199
+00:06:03,360 --> 00:06:06,080
+into something that works, guess what
+
+200
+00:06:04,640 --> 00:06:07,440
+ends up happening? It doesn't [ __ ]
+
+201
+00:06:06,080 --> 00:06:09,600
+work because everything needs to be in
+
+202
+00:06:07,440 --> 00:06:11,200
+alignment in congruence with one core
+
+203
+00:06:09,600 --> 00:06:13,040
+philosophy. And if you're meshing these
+
+204
+00:06:11,200 --> 00:06:14,480
+strategies, often times it does more
+
+205
+00:06:13,040 --> 00:06:15,920
+harm than good. You think you're kind of
+
+206
+00:06:14,480 --> 00:06:18,000
+like taking the best from everybody when
+
+207
+00:06:15,920 --> 00:06:20,080
+in reality you're just meshing all the
+
+208
+00:06:18,000 --> 00:06:22,000
+[ __ ] together into this disgusting
+
+209
+00:06:20,080 --> 00:06:23,920
+[ __ ] [ __ ] soup. and then you're going
+
+210
+00:06:22,000 --> 00:06:25,440
+to [ __ ] drink it. No, just go to one
+
+211
+00:06:23,920 --> 00:06:27,600
+person that you like, that you trust,
+
+212
+00:06:25,440 --> 00:06:29,520
+and that you think genuinely has a good
+
+213
+00:06:27,600 --> 00:06:31,120
+philosophy. Take everything that they do
+
+214
+00:06:29,520 --> 00:06:32,160
+and test that and then move on to the
+
+215
+00:06:31,120 --> 00:06:34,400
+next person if you want to do it that
+
+216
+00:06:32,160 --> 00:06:36,240
+way. But do not mesh strategies. This is
+
+217
+00:06:34,400 --> 00:06:37,840
+something very, very bad. I'm telling
+
+218
+00:06:36,240 --> 00:06:39,200
+you right now, it lost me a lot of money
+
+219
+00:06:37,840 --> 00:06:40,720
+when I was starting out in my journey.
+
+220
+00:06:39,200 --> 00:06:43,760
+For that reason, we are going to place
+
+221
+00:06:40,720 --> 00:06:45,520
+this one in the D tier. And by the way,
+
+222
+00:06:43,760 --> 00:06:46,960
+this concept of, you know, meshing
+
+223
+00:06:45,520 --> 00:06:48,640
+strategies, this was like the very
+
+224
+00:06:46,960 --> 00:06:50,640
+reason that me and my partner Alex
+
+225
+00:06:48,640 --> 00:06:52,000
+started to build Brand Builders Academy
+
+226
+00:06:50,640 --> 00:06:53,920
+because we were like, there's so many
+
+227
+00:06:52,000 --> 00:06:56,000
+people, so many different strategies. We
+
+228
+00:06:53,920 --> 00:06:58,160
+just need to align people with the best
+
+229
+00:06:56,000 --> 00:06:59,840
+actually like data pack strategies that
+
+230
+00:06:58,160 --> 00:07:01,040
+are working right now. So, if you want
+
+231
+00:06:59,840 --> 00:07:02,320
+to be a part of that, you can always
+
+232
+00:07:01,040 --> 00:07:03,840
+click the first link in the description,
+
+233
+00:07:02,320 --> 00:07:05,360
+fill out an application. We get a lot of
+
+234
+00:07:03,840 --> 00:07:06,480
+applications every day, obviously, so I
+
+235
+00:07:05,360 --> 00:07:08,000
+can't guarantee you're a good fit. And
+
+236
+00:07:06,480 --> 00:07:09,920
+that's not some like fake scarcity, just
+
+237
+00:07:08,000 --> 00:07:11,120
+like we don't take on everybody. So, if
+
+238
+00:07:09,920 --> 00:07:13,280
+you're interested, click the link. Next
+
+239
+00:07:11,120 --> 00:07:15,920
+up on the list, we have VOCC
+
+240
+00:07:13,280 --> 00:07:17,760
+copywriting. And this young gentleman,
+
+241
+00:07:15,920 --> 00:07:19,440
+not young gentleman, relatively old
+
+242
+00:07:17,760 --> 00:07:21,280
+gentleman actually, is the prince of
+
+243
+00:07:19,440 --> 00:07:22,480
+print himself, Gary Halbert. Now, Gary
+
+244
+00:07:21,280 --> 00:07:24,400
+Halbert was one of the greatest
+
+245
+00:07:22,480 --> 00:07:26,240
+copyriters of all time. He's my personal
+
+246
+00:07:24,400 --> 00:07:28,160
+favorite copywriter. And I don't even
+
+247
+00:07:26,240 --> 00:07:29,840
+know if it was that him that came up
+
+248
+00:07:28,160 --> 00:07:31,520
+with this concept, but I just like Gary
+
+249
+00:07:29,840 --> 00:07:34,240
+Halbert as copyrightiting, so I used it.
+
+250
+00:07:31,520 --> 00:07:36,000
+But VOCC copywriting specifically stands
+
+251
+00:07:34,240 --> 00:07:37,360
+for voice of customer. And it's not a
+
+252
+00:07:36,000 --> 00:07:39,760
+type of copywriting. It's just kind of
+
+253
+00:07:37,360 --> 00:07:42,160
+an ingredient in copywriting itself. A
+
+254
+00:07:39,760 --> 00:07:45,040
+lot of people are writing their copy or
+
+255
+00:07:42,160 --> 00:07:46,960
+using AI to write their copy in a voice
+
+256
+00:07:45,040 --> 00:07:48,720
+that is not matching how their
+
+257
+00:07:46,960 --> 00:07:51,360
+demographics actually speak. And this is
+
+258
+00:07:48,720 --> 00:07:53,600
+a super clear point to your customers
+
+259
+00:07:51,360 --> 00:07:55,600
+that you're using AI copy. Strength of
+
+260
+00:07:53,600 --> 00:07:57,520
+AI copy comes down to not how well you
+
+261
+00:07:55,600 --> 00:08:00,240
+can prompt, but how well you can chief
+
+262
+00:07:57,520 --> 00:08:02,400
+the copy that AI spits out for you.
+
+263
+00:08:00,240 --> 00:08:04,240
+There's a reason why you're writing AI
+
+264
+00:08:02,400 --> 00:08:05,440
+copy and it's still not converting. It's
+
+265
+00:08:04,240 --> 00:08:07,280
+because you don't know how to chief it.
+
+266
+00:08:05,440 --> 00:08:08,880
+And one of the ingredients in chief your
+
+267
+00:08:07,280 --> 00:08:10,880
+copy is matching the words that you're
+
+268
+00:08:08,880 --> 00:08:12,880
+using in your copy with the words that
+
+269
+00:08:10,880 --> 00:08:15,600
+your customers are actually speaking in
+
+270
+00:08:12,880 --> 00:08:17,680
+their day-to-day life. This one is very
+
+271
+00:08:15,600 --> 00:08:19,520
+very crucial. Not the most important,
+
+272
+00:08:17,680 --> 00:08:20,960
+but in terms of copyrightiting, it is
+
+273
+00:08:19,520 --> 00:08:22,400
+absolutely up there as one of the most
+
+274
+00:08:20,960 --> 00:08:23,840
+important ingredients, but it's only the
+
+275
+00:08:22,400 --> 00:08:25,440
+chiefing process. It's not like the
+
+276
+00:08:23,840 --> 00:08:26,880
+ideation. That's not like the mechanism,
+
+277
+00:08:25,440 --> 00:08:28,160
+the big idea, all these other
+
+278
+00:08:26,880 --> 00:08:30,000
+ingredients. So, for that reason, we're
+
+279
+00:08:28,160 --> 00:08:32,480
+going to put this one in the B tier.
+
+280
+00:08:30,000 --> 00:08:34,000
+Probably criminally underrated, but
+
+281
+00:08:32,480 --> 00:08:35,520
+nevertheless, we got to we got to put
+
+282
+00:08:34,000 --> 00:08:38,320
+something in the B tier. Next up on the
+
+283
+00:08:35,520 --> 00:08:40,160
+list, we have the purple ocean strategy.
+
+284
+00:08:38,320 --> 00:08:42,160
+Now, you have probably heard of red
+
+285
+00:08:40,160 --> 00:08:44,160
+ocean theory and blue ocean theory. Red
+
+286
+00:08:42,160 --> 00:08:46,640
+ocean, of course, being entering markets
+
+287
+00:08:44,160 --> 00:08:48,800
+with a ton of ton of proven demand, but
+
+288
+00:08:46,640 --> 00:08:50,720
+a shitload of competition, and then blue
+
+289
+00:08:48,800 --> 00:08:53,120
+oceans, of course, being very, very
+
+290
+00:08:50,720 --> 00:08:54,400
+little competition, if any, but also not
+
+291
+00:08:53,120 --> 00:08:55,600
+a lot of validation cuz you don't know
+
+292
+00:08:54,400 --> 00:08:57,600
+if customers are actually buying
+
+293
+00:08:55,600 --> 00:08:59,200
+anything there. I did not coin the term
+
+294
+00:08:57,600 --> 00:09:01,040
+purple ocean strategy. somebody else
+
+295
+00:08:59,200 --> 00:09:03,520
+did, but I like to use it because a
+
+296
+00:09:01,040 --> 00:09:05,360
+purple ocean is going into relatively
+
+297
+00:09:03,520 --> 00:09:07,920
+competitive markets, but carving out
+
+298
+00:09:05,360 --> 00:09:10,480
+your own kind of niche through your
+
+299
+00:09:07,920 --> 00:09:12,480
+strategic angles that you are using. The
+
+300
+00:09:10,480 --> 00:09:14,240
+perfect example is to go into a super
+
+301
+00:09:12,480 --> 00:09:15,920
+hyper saturated market and then focus on
+
+302
+00:09:14,240 --> 00:09:17,120
+a specific demographic. Actually, I'll
+
+303
+00:09:15,920 --> 00:09:18,960
+give you an example right now. Primal
+
+304
+00:09:17,120 --> 00:09:20,480
+Queen, one of the fastest growing DTOC
+
+305
+00:09:18,960 --> 00:09:22,560
+brands out there. Everybody knows them
+
+306
+00:09:20,480 --> 00:09:24,800
+at this point. They were not necessarily
+
+307
+00:09:22,560 --> 00:09:26,960
+early to the whole animal-based organ
+
+308
+00:09:24,800 --> 00:09:29,360
+meat supplement industry. However, they
+
+309
+00:09:26,960 --> 00:09:31,120
+clearly carved out a very, very solid
+
+310
+00:09:29,360 --> 00:09:33,200
+market for themselves by focusing on a
+
+311
+00:09:31,120 --> 00:09:35,120
+specific demographic. Obviously, that
+
+312
+00:09:33,200 --> 00:09:37,680
+demographic being women. You don't have
+
+313
+00:09:35,120 --> 00:09:39,760
+to be first to be great, but you do have
+
+314
+00:09:37,680 --> 00:09:41,200
+to be unique if you're not going to be
+
+315
+00:09:39,760 --> 00:09:42,160
+first. And that's exactly what they did.
+
+316
+00:09:41,200 --> 00:09:44,080
+And that's what the purple ocean
+
+317
+00:09:42,160 --> 00:09:45,920
+strategy is all about. So, for that
+
+318
+00:09:44,080 --> 00:09:48,000
+reason, putting the purple ocean
+
+319
+00:09:45,920 --> 00:09:50,400
+strategy in the B tier. Next up on the
+
+320
+00:09:48,000 --> 00:09:52,800
+list, we have my concept of quantum
+
+321
+00:09:50,400 --> 00:09:54,320
+leaps. Quantum leaps is a concept that I
+
+322
+00:09:52,800 --> 00:09:55,760
+came up with that basically explains
+
+323
+00:09:54,320 --> 00:09:57,360
+that when you're trying to scale your
+
+324
+00:09:55,760 --> 00:09:59,680
+brand, you always start to hit these
+
+325
+00:09:57,360 --> 00:10:01,920
+ceilings. It could be at first at around
+
+326
+00:09:59,680 --> 00:10:04,400
+$2 or $3,000 per day. The next one could
+
+327
+00:10:01,920 --> 00:10:06,640
+be between $15 and $20,000 per day. The
+
+328
+00:10:04,400 --> 00:10:08,320
+next one could be at $100,000 per day.
+
+329
+00:10:06,640 --> 00:10:10,720
+But every business gets to these certain
+
+330
+00:10:08,320 --> 00:10:12,560
+plateaus where what used to work is no
+
+331
+00:10:10,720 --> 00:10:14,000
+longer working now. And the funny thing
+
+332
+00:10:12,560 --> 00:10:15,600
+about these plateaus is that you think
+
+333
+00:10:14,000 --> 00:10:17,600
+you can just kind of scrape your way
+
+334
+00:10:15,600 --> 00:10:19,920
+through that plateau by continuing to
+
+335
+00:10:17,600 --> 00:10:21,920
+test these very, very small things. For
+
+336
+00:10:19,920 --> 00:10:23,680
+example, you just start to test more
+
+337
+00:10:21,920 --> 00:10:25,120
+variations of your top creatives or you
+
+338
+00:10:23,680 --> 00:10:27,200
+start to test more variations of your
+
+339
+00:10:25,120 --> 00:10:29,360
+top landers or you know, maybe you test
+
+340
+00:10:27,200 --> 00:10:31,200
+a new product but using the exact same
+
+341
+00:10:29,360 --> 00:10:32,480
+funnel architecture. My philosophy is
+
+342
+00:10:31,200 --> 00:10:34,880
+that if you want to break through these
+
+343
+00:10:32,480 --> 00:10:36,960
+plateaus and scale faster and more
+
+344
+00:10:34,880 --> 00:10:39,680
+aggressively, more profitably, you have
+
+345
+00:10:36,960 --> 00:10:41,920
+to think way farther outside of the box
+
+346
+00:10:39,680 --> 00:10:43,840
+and take bigger swings with your test.
+
+347
+00:10:41,920 --> 00:10:45,920
+What this means is like testing a
+
+348
+00:10:43,840 --> 00:10:47,920
+completely new funnel architecture that
+
+349
+00:10:45,920 --> 00:10:49,600
+you've ne never tested before. testing a
+
+350
+00:10:47,920 --> 00:10:51,440
+completely new, for example, like ad
+
+351
+00:10:49,600 --> 00:10:52,560
+account structure because completely
+
+352
+00:10:51,440 --> 00:10:54,720
+changing everything in your ad account
+
+353
+00:10:52,560 --> 00:10:56,720
+is a pretty big [ __ ] deal. Another
+
+354
+00:10:54,720 --> 00:10:58,960
+example could be completely altering
+
+355
+00:10:56,720 --> 00:11:00,880
+your creative strategy and testing a new
+
+356
+00:10:58,960 --> 00:11:02,400
+format of an ad that nobody has ever
+
+357
+00:11:00,880 --> 00:11:04,080
+really tested before, at least that
+
+358
+00:11:02,400 --> 00:11:05,760
+you've seen. You have to take bigger
+
+359
+00:11:04,080 --> 00:11:08,080
+swings is the point here. That's why I
+
+360
+00:11:05,760 --> 00:11:09,760
+call them quantum leaps. This isn't just
+
+361
+00:11:08,080 --> 00:11:11,200
+like a stepping stone. This is like the
+
+362
+00:11:09,760 --> 00:11:13,120
+biggest possible leap that you could
+
+363
+00:11:11,200 --> 00:11:15,520
+possibly take. So, for that reason,
+
+364
+00:11:13,120 --> 00:11:17,120
+quantum leaps is going in the A tier.
+
+365
+00:11:15,520 --> 00:11:18,560
+And it's not just because I came up with
+
+366
+00:11:17,120 --> 00:11:19,920
+it. It's just because I find it to be
+
+367
+00:11:18,560 --> 00:11:22,160
+true. Next up on the list, we got
+
+368
+00:11:19,920 --> 00:11:23,680
+Curious George. Now, you may be
+
+369
+00:11:22,160 --> 00:11:26,240
+wondering why I put Curious George here.
+
+370
+00:11:23,680 --> 00:11:28,960
+The reason why is because your ability
+
+371
+00:11:26,240 --> 00:11:31,280
+to be curious and specifically ask the
+
+372
+00:11:28,960 --> 00:11:33,360
+question why after you run a specific
+
+373
+00:11:31,280 --> 00:11:35,360
+split test. So, we're marketers. We love
+
+374
+00:11:33,360 --> 00:11:36,720
+running split tests. But how many of you
+
+375
+00:11:35,360 --> 00:11:37,920
+split test something, you get the
+
+376
+00:11:36,720 --> 00:11:39,200
+result, and then you just immediately
+
+377
+00:11:37,920 --> 00:11:40,480
+move on to the next thing? Well, if you
+
+378
+00:11:39,200 --> 00:11:42,080
+do that, you're not taking any of the
+
+379
+00:11:40,480 --> 00:11:44,000
+learnings from that specific lesson to
+
+380
+00:11:42,080 --> 00:11:45,680
+apply it to your central philosophy and
+
+381
+00:11:44,000 --> 00:11:46,960
+create these kind of mental models for
+
+382
+00:11:45,680 --> 00:11:49,840
+scaling your business. So, what I like
+
+383
+00:11:46,960 --> 00:11:51,760
+to do is always ask the question why.
+
+384
+00:11:49,840 --> 00:11:53,200
+You test something, it doesn't work.
+
+385
+00:11:51,760 --> 00:11:54,960
+Why? What is the conclusion that you
+
+386
+00:11:53,200 --> 00:11:57,200
+came to? Right? You test something, it
+
+387
+00:11:54,960 --> 00:11:59,920
+does work. Why? If you don't ask that
+
+388
+00:11:57,200 --> 00:12:01,440
+question, you end up losing a lot of the
+
+389
+00:11:59,920 --> 00:12:03,520
+learnings from that specific test. And a
+
+390
+00:12:01,440 --> 00:12:05,120
+lot of people are just thick scold and
+
+391
+00:12:03,520 --> 00:12:06,560
+they just move from one test to the
+
+392
+00:12:05,120 --> 00:12:08,640
+other without really understanding why
+
+393
+00:12:06,560 --> 00:12:10,320
+it even worked in the first place. So,
+
+394
+00:12:08,640 --> 00:12:11,520
+not the biggest deal in the world, but
+
+395
+00:12:10,320 --> 00:12:13,120
+in terms of furthering your
+
+396
+00:12:11,520 --> 00:12:14,560
+understanding, I do believe it's quite
+
+397
+00:12:13,120 --> 00:12:16,880
+important. Regardless, we're going to
+
+398
+00:12:14,560 --> 00:12:18,320
+put this one in the C tier. There's just
+
+399
+00:12:16,880 --> 00:12:20,320
+more important things, man. Like, you
+
+400
+00:12:18,320 --> 00:12:22,160
+know, creatives. It just goes back to
+
+401
+00:12:20,320 --> 00:12:23,760
+creatives. All right. This tier list can
+
+402
+00:12:22,160 --> 00:12:27,040
+barely fit on my screen, but what we
+
+403
+00:12:23,760 --> 00:12:29,040
+have up next is your backend economics
+
+404
+00:12:27,040 --> 00:12:31,680
+being more important than your front-end
+
+405
+00:12:29,040 --> 00:12:33,040
+economics. Now, the way that most people
+
+406
+00:12:31,680 --> 00:12:34,880
+understand this is simply through
+
+407
+00:12:33,040 --> 00:12:37,280
+acquiring subscriptions and building up
+
+408
+00:12:34,880 --> 00:12:39,920
+your MR, your monthly recurring revenue.
+
+409
+00:12:37,280 --> 00:12:42,240
+Most brands that are scaling incredibly
+
+410
+00:12:39,920 --> 00:12:43,600
+aggressively and successfully today,
+
+411
+00:12:42,240 --> 00:12:45,040
+they're doing something in the initial
+
+412
+00:12:43,600 --> 00:12:47,760
+stages of their company where they're
+
+413
+00:12:45,040 --> 00:12:49,520
+actually losing money acquiring high
+
+414
+00:12:47,760 --> 00:12:51,600
+value customers, specifically high
+
+415
+00:12:49,520 --> 00:12:53,840
+lifetime value customers, high LTV
+
+416
+00:12:51,600 --> 00:12:55,760
+customers in the form of recurring
+
+417
+00:12:53,840 --> 00:12:57,280
+subscriptions. So, Primal Queen is
+
+418
+00:12:55,760 --> 00:12:59,120
+another great example. They would be
+
+419
+00:12:57,280 --> 00:13:01,040
+losing money every single month to
+
+420
+00:12:59,120 --> 00:13:02,800
+acquire customers, but every single
+
+421
+00:13:01,040 --> 00:13:04,720
+month they're also building up greater
+
+422
+00:13:02,800 --> 00:13:06,160
+and greater greater amounts of monthly
+
+423
+00:13:04,720 --> 00:13:08,240
+recurring revenue. So, you kind of have
+
+424
+00:13:06,160 --> 00:13:10,080
+to eat first order profitability on the
+
+425
+00:13:08,240 --> 00:13:11,360
+front end, but the more customers you
+
+426
+00:13:10,080 --> 00:13:12,560
+acquire, the more subscribers you
+
+427
+00:13:11,360 --> 00:13:14,720
+acquire, the more that you're building
+
+428
+00:13:12,560 --> 00:13:16,560
+that base of monthly recurring
+
+429
+00:13:14,720 --> 00:13:19,200
+subscriptions to the point where you can
+
+430
+00:13:16,560 --> 00:13:21,280
+even downscale your ads and continue to
+
+431
+00:13:19,200 --> 00:13:23,200
+be making just a shitload of cash
+
+432
+00:13:21,280 --> 00:13:24,560
+because of the massive foundation that
+
+433
+00:13:23,200 --> 00:13:27,280
+you built. This is like the textbook
+
+434
+00:13:24,560 --> 00:13:29,360
+version of reap what you sew. And this
+
+435
+00:13:27,280 --> 00:13:30,560
+is super duper underrated because a lot
+
+436
+00:13:29,360 --> 00:13:31,680
+of big companies, they actually need
+
+437
+00:13:30,560 --> 00:13:33,600
+capital to make this happen. You know,
+
+438
+00:13:31,680 --> 00:13:35,280
+if you have like $2,000, you can't
+
+439
+00:13:33,600 --> 00:13:36,320
+really do this method because you don't
+
+440
+00:13:35,280 --> 00:13:37,680
+have that much money you lose in the
+
+441
+00:13:36,320 --> 00:13:39,520
+first place. But I just urge you, look
+
+442
+00:13:37,680 --> 00:13:41,200
+at any big brand that is scaling super
+
+443
+00:13:39,520 --> 00:13:42,800
+hard on Facebook right now. They
+
+444
+00:13:41,200 --> 00:13:44,400
+probably have some element of
+
+445
+00:13:42,800 --> 00:13:46,800
+subscriptions built into their business.
+
+446
+00:13:44,400 --> 00:13:48,560
+So that's why back-end economics, aka
+
+447
+00:13:46,800 --> 00:13:50,400
+having a really strong MR base and
+
+448
+00:13:48,560 --> 00:13:52,880
+building that up with a very low churn,
+
+449
+00:13:50,400 --> 00:13:54,720
+is incredibly important. So for that
+
+450
+00:13:52,880 --> 00:13:56,560
+reason, we are putting this in the A
+
+451
+00:13:54,720 --> 00:13:57,840
+tier. And the A tier is getting quite
+
+452
+00:13:56,560 --> 00:13:59,200
+long at this point. All right, next up
+
+453
+00:13:57,840 --> 00:14:01,280
+on the list, we have the concept of
+
+454
+00:13:59,200 --> 00:14:02,560
+variable stacking. This is once again a
+
+455
+00:14:01,280 --> 00:14:04,240
+concept that I didn't come up with it. I
+
+456
+00:14:02,560 --> 00:14:05,680
+think I just named it. But it is the
+
+457
+00:14:04,240 --> 00:14:07,040
+concept of taking multiple winning
+
+458
+00:14:05,680 --> 00:14:09,280
+variables that you have at any point in
+
+459
+00:14:07,040 --> 00:14:11,200
+time and stacking them together to
+
+460
+00:14:09,280 --> 00:14:12,560
+basically laser down your focus into
+
+461
+00:14:11,200 --> 00:14:13,600
+your most profitable assets that you
+
+462
+00:14:12,560 --> 00:14:15,360
+have in your business. Here's an
+
+463
+00:14:13,600 --> 00:14:17,280
+example. A lot of times we are running a
+
+464
+00:14:15,360 --> 00:14:19,760
+bunch of variations of ad copies,
+
+465
+00:14:17,280 --> 00:14:22,160
+creatives, campaigns types, audiences,
+
+466
+00:14:19,760 --> 00:14:23,760
+etc. And if you zoom out 30,000 ft,
+
+467
+00:14:22,160 --> 00:14:25,360
+usually in each one of those categories,
+
+468
+00:14:23,760 --> 00:14:27,120
+there's some kind of winning variable.
+
+469
+00:14:25,360 --> 00:14:28,800
+So for example, your audience testing,
+
+470
+00:14:27,120 --> 00:14:29,920
+there's typically one kind of control
+
+471
+00:14:28,800 --> 00:14:31,280
+audience. Maybe it's your broad
+
+472
+00:14:29,920 --> 00:14:32,800
+audience. Maybe it's some broad
+
+473
+00:14:31,280 --> 00:14:34,160
+interest. Maybe it's a lookalike. Doubt
+
+474
+00:14:32,800 --> 00:14:36,320
+it's a [ __ ] look alike. Let's be
+
+475
+00:14:34,160 --> 00:14:37,920
+real. [laughter] Point being, you have
+
+476
+00:14:36,320 --> 00:14:39,280
+all these variables and a lot of them
+
+477
+00:14:37,920 --> 00:14:41,280
+you're probably not even aware of. For
+
+478
+00:14:39,280 --> 00:14:43,120
+example, stacking your winning payment
+
+479
+00:14:41,280 --> 00:14:44,720
+processors, stacking your winning mids,
+
+480
+00:14:43,120 --> 00:14:45,840
+stacking your winning ad accounts. Like
+
+481
+00:14:44,720 --> 00:14:47,680
+stuff like this people don't think
+
+482
+00:14:45,840 --> 00:14:49,280
+about. And the more variables you can
+
+483
+00:14:47,680 --> 00:14:50,880
+stack on top of each other, the more
+
+484
+00:14:49,280 --> 00:14:52,320
+you're kind of lasering down into your
+
+485
+00:14:50,880 --> 00:14:53,680
+most profitable assets, the more
+
+486
+00:14:52,320 --> 00:14:54,960
+profitable your business will become as
+
+487
+00:14:53,680 --> 00:14:57,040
+a whole. So, for that reason, I'm going
+
+488
+00:14:54,960 --> 00:14:58,400
+to put variable stacking in the B tier.
+
+489
+00:14:57,040 --> 00:14:59,680
+also partially because we're [ __ ]
+
+490
+00:14:58,400 --> 00:15:01,680
+running out of room in the A tier. I
+
+491
+00:14:59,680 --> 00:15:03,120
+mean, it's straddling that line between
+
+492
+00:15:01,680 --> 00:15:04,960
+Btier and A tier, but for now, I'll put
+
+493
+00:15:03,120 --> 00:15:07,280
+in B tier. Next up on the list, we have
+
+494
+00:15:04,960 --> 00:15:09,680
+not touching something if it's working.
+
+495
+00:15:07,280 --> 00:15:12,400
+This is like the golden rule of media
+
+496
+00:15:09,680 --> 00:15:14,400
+buying. And typically, I only see
+
+497
+00:15:12,400 --> 00:15:16,400
+beginners make this mistake anymore.
+
+498
+00:15:14,400 --> 00:15:19,200
+Like seasoned entrepreneurs are now, I
+
+499
+00:15:16,400 --> 00:15:20,960
+guess, smart enough is the word to not
+
+500
+00:15:19,200 --> 00:15:22,320
+touch something that is working really,
+
+501
+00:15:20,960 --> 00:15:23,840
+really well. A lot of times we'll see
+
+502
+00:15:22,320 --> 00:15:25,120
+like a winning ad, see winning campaign,
+
+503
+00:15:23,840 --> 00:15:26,640
+winning whatever, we'll be like, "Okay,
+
+504
+00:15:25,120 --> 00:15:28,240
+let me like turn it off and moving and
+
+505
+00:15:26,640 --> 00:15:30,800
+like test it in a scaling campaign."
+
+506
+00:15:28,240 --> 00:15:32,480
+Brother, you have a profitable asset for
+
+507
+00:15:30,800 --> 00:15:34,560
+your business running. A lot of times
+
+508
+00:15:32,480 --> 00:15:36,080
+that's a rare [ __ ] thing. And if you
+
+509
+00:15:34,560 --> 00:15:37,920
+are doing anything to [ __ ] that up,
+
+510
+00:15:36,080 --> 00:15:39,440
+especially in the eyes of Facebook where
+
+511
+00:15:37,920 --> 00:15:40,800
+if you do make one tiny little
+
+512
+00:15:39,440 --> 00:15:42,160
+adjustment to your ad account or one
+
+513
+00:15:40,800 --> 00:15:43,920
+tiny adjustment to your ads, it'll
+
+514
+00:15:42,160 --> 00:15:45,680
+completely cook the results. That's a
+
+515
+00:15:43,920 --> 00:15:47,360
+big risk. So, a lot of beginners make
+
+516
+00:15:45,680 --> 00:15:48,960
+this mistake. Seasoned guys, not so
+
+517
+00:15:47,360 --> 00:15:50,400
+much. But golden rule, if you have
+
+518
+00:15:48,960 --> 00:15:51,920
+something that's working, don't [ __ ]
+
+519
+00:15:50,400 --> 00:15:53,280
+touch it. Don't even double down. Just
+
+520
+00:15:51,920 --> 00:15:55,280
+like don't touch it. Like you can double
+
+521
+00:15:53,280 --> 00:15:57,040
+down on it separately, but that very
+
+522
+00:15:55,280 --> 00:15:58,240
+asset itself, don't touch it. So, for
+
+523
+00:15:57,040 --> 00:15:59,520
+that reason, I think it's pretty
+
+524
+00:15:58,240 --> 00:16:01,200
+straightforward. This one's going to go
+
+525
+00:15:59,520 --> 00:16:02,960
+in the B tier. Next up on the list, we
+
+526
+00:16:01,200 --> 00:16:04,880
+have spending a lot of time focusing on
+
+527
+00:16:02,960 --> 00:16:06,560
+organic traffic, especially in the
+
+528
+00:16:04,880 --> 00:16:08,720
+beginning stages of your business. I'm
+
+529
+00:16:06,560 --> 00:16:09,840
+not very pro-organic when you're
+
+530
+00:16:08,720 --> 00:16:10,960
+building up your business from the
+
+531
+00:16:09,840 --> 00:16:12,880
+ground. A lot of people have the
+
+532
+00:16:10,960 --> 00:16:14,560
+argument, oh, it's like cheaper traffic,
+
+533
+00:16:12,880 --> 00:16:17,120
+you know, ads are so expensive, blah,
+
+534
+00:16:14,560 --> 00:16:19,360
+blah, blah, blah, blah. I don't care. My
+
+535
+00:16:17,120 --> 00:16:21,200
+reasoning is this. Your ability as an
+
+536
+00:16:19,360 --> 00:16:23,280
+entrepreneur to grow your business is
+
+537
+00:16:21,200 --> 00:16:25,600
+dependent on one thing and that is
+
+538
+00:16:23,280 --> 00:16:28,080
+getting really [ __ ] good at selling
+
+539
+00:16:25,600 --> 00:16:30,080
+it in a unique way. And organic doesn't
+
+540
+00:16:28,080 --> 00:16:32,800
+give you that harsh feedback loop that
+
+541
+00:16:30,080 --> 00:16:34,480
+you need to be able to successfully sell
+
+542
+00:16:32,800 --> 00:16:37,040
+your product. You need to learn how to
+
+543
+00:16:34,480 --> 00:16:40,080
+sell [ __ ] And making content is very
+
+544
+00:16:37,040 --> 00:16:42,080
+very vastly different from making ads.
+
+545
+00:16:40,080 --> 00:16:44,080
+That's why most content creators can
+
+546
+00:16:42,080 --> 00:16:45,680
+accumulate millions, tens of millions,
+
+547
+00:16:44,080 --> 00:16:47,520
+hundreds of millions of views and a lot
+
+548
+00:16:45,680 --> 00:16:49,040
+of times still be [ __ ] poor. But
+
+549
+00:16:47,520 --> 00:16:50,720
+there's people that I know personally
+
+550
+00:16:49,040 --> 00:16:51,760
+that don't have social media, don't post
+
+551
+00:16:50,720 --> 00:16:53,360
+content, and they're some of the
+
+552
+00:16:51,760 --> 00:16:54,640
+wealthiest [ __ ] people that I know.
+
+553
+00:16:53,360 --> 00:16:56,640
+Your job when you're getting your
+
+554
+00:16:54,640 --> 00:16:58,480
+business off the ground is to sell [ __ ]
+
+555
+00:16:56,640 --> 00:17:00,080
+Period. And turns out that's kind of
+
+556
+00:16:58,480 --> 00:17:02,160
+[ __ ] hard. So, if you're spending
+
+557
+00:17:00,080 --> 00:17:04,720
+anything other than 80% of your time
+
+558
+00:17:02,160 --> 00:17:06,560
+doing that one thing, then that includes
+
+559
+00:17:04,720 --> 00:17:07,920
+making content, by the way, then you're
+
+560
+00:17:06,560 --> 00:17:09,360
+wasting your [ __ ] time. That's my
+
+561
+00:17:07,920 --> 00:17:11,200
+opinion. Say what you want. You know,
+
+562
+00:17:09,360 --> 00:17:12,560
+organic nerds, that's not my problem.
+
+563
+00:17:11,200 --> 00:17:14,960
+Run more ads. So, for that reason, we're
+
+564
+00:17:12,560 --> 00:17:17,920
+putting the prioritization of organic
+
+565
+00:17:14,960 --> 00:17:20,560
+overpaid in the D tier. Next up on the
+
+566
+00:17:17,920 --> 00:17:23,360
+list, we have being a stoic. Look,
+
+567
+00:17:20,560 --> 00:17:25,440
+gentlemen and gentle women, we are
+
+568
+00:17:23,360 --> 00:17:27,840
+approaching Black Friday, Cyber Monday
+
+569
+00:17:25,440 --> 00:17:29,840
+very, very quickly. And we all know that
+
+570
+00:17:27,840 --> 00:17:31,600
+that's a crazy [ __ ] time a lot of
+
+571
+00:17:29,840 --> 00:17:33,360
+times because Facebook just throws you
+
+572
+00:17:31,600 --> 00:17:35,200
+all kinds of nonsense every single day.
+
+573
+00:17:33,360 --> 00:17:36,800
+And many of you are probably already
+
+574
+00:17:35,200 --> 00:17:38,880
+experiencing it right now. If you are
+
+575
+00:17:36,800 --> 00:17:41,680
+not able to properly compartmentalize
+
+576
+00:17:38,880 --> 00:17:43,680
+and be a stoic in terms of clearly
+
+577
+00:17:41,680 --> 00:17:45,680
+drawing a line and putting everything
+
+578
+00:17:43,680 --> 00:17:47,040
+that you can't control in one bucket and
+
+579
+00:17:45,680 --> 00:17:48,320
+everything that you can control in
+
+580
+00:17:47,040 --> 00:17:50,160
+another, then you're going to drive
+
+581
+00:17:48,320 --> 00:17:52,240
+yourself [ __ ] insane. I promise you,
+
+582
+00:17:50,160 --> 00:17:54,480
+running a business, especially if it's a
+
+583
+00:17:52,240 --> 00:17:56,880
+big business, it's not a super easy
+
+584
+00:17:54,480 --> 00:17:58,800
+thing to do. It's simple, but it's not
+
+585
+00:17:56,880 --> 00:18:00,400
+easy. And a lot of times it pulls at
+
+586
+00:17:58,800 --> 00:18:02,000
+your emotions. And turns out when you're
+
+587
+00:18:00,400 --> 00:18:03,920
+emotional, you make really shitty
+
+588
+00:18:02,000 --> 00:18:05,760
+decisions. So, if you're not being an
+
+589
+00:18:03,920 --> 00:18:07,200
+absolute stoic when it comes to running
+
+590
+00:18:05,760 --> 00:18:08,800
+your ads, running your team, running
+
+591
+00:18:07,200 --> 00:18:10,000
+your business, then you're not going to
+
+592
+00:18:08,800 --> 00:18:11,200
+be making good decisions and your
+
+593
+00:18:10,000 --> 00:18:12,880
+business is going to start going [ __ ]
+
+594
+00:18:11,200 --> 00:18:15,280
+downhill. So, for that reason, we are
+
+595
+00:18:12,880 --> 00:18:17,200
+putting being a stoic in the S tier,
+
+596
+00:18:15,280 --> 00:18:19,120
+Marcus Aurelius type [ __ ] Next up on
+
+597
+00:18:17,200 --> 00:18:20,000
+the list, we have Quizfunnels. Now, I
+
+598
+00:18:19,120 --> 00:18:21,840
+think a lot of you are going to be
+
+599
+00:18:20,000 --> 00:18:23,040
+surprised where I put this one on the
+
+600
+00:18:21,840 --> 00:18:25,040
+list because I made videos about
+
+601
+00:18:23,040 --> 00:18:26,080
+Quizfunnels before. I love Quizfunnels,
+
+602
+00:18:25,040 --> 00:18:28,560
+but I'm actually going to be putting
+
+603
+00:18:26,080 --> 00:18:30,400
+this in the C tier. And the reason why
+
+604
+00:18:28,560 --> 00:18:32,480
+is because as soon as there's a bunch of
+
+605
+00:18:30,400 --> 00:18:34,480
+hype generated around a specific kind of
+
+606
+00:18:32,480 --> 00:18:36,240
+funnel, usually the performance of that
+
+607
+00:18:34,480 --> 00:18:37,600
+very thing starts to go downhill. Now,
+
+608
+00:18:36,240 --> 00:18:39,920
+I'm still running quiz funnels. They're
+
+609
+00:18:37,600 --> 00:18:41,680
+still printing for me. But the quizunnel
+
+610
+00:18:39,920 --> 00:18:43,440
+is not a [ __ ] silver bullet, right?
+
+611
+00:18:41,680 --> 00:18:45,040
+You can't just slap a quiz on a shitty
+
+612
+00:18:43,440 --> 00:18:46,720
+offer, shitty product, and shitty ads
+
+613
+00:18:45,040 --> 00:18:47,920
+and expect it to work. It's still a
+
+614
+00:18:46,720 --> 00:18:49,360
+funnel at the end of the day. You still
+
+615
+00:18:47,920 --> 00:18:51,280
+got to write good copy, have good
+
+616
+00:18:49,360 --> 00:18:53,120
+creatives, have diverse creatives, and
+
+617
+00:18:51,280 --> 00:18:55,040
+still do everything else right. So, it's
+
+618
+00:18:53,120 --> 00:18:56,480
+not like it's a golden [ __ ] bullet,
+
+619
+00:18:55,040 --> 00:18:58,160
+right? For that reason, like I said,
+
+620
+00:18:56,480 --> 00:19:00,480
+we're going to be putting quiz funnels
+
+621
+00:18:58,160 --> 00:19:01,760
+in the C tier. Good rule of thumb is if
+
+622
+00:19:00,480 --> 00:19:03,440
+you hear everybody on Twitter talking
+
+623
+00:19:01,760 --> 00:19:05,360
+about one thing, you probably know it's
+
+624
+00:19:03,440 --> 00:19:06,720
+relatively getting close to saturation.
+
+625
+00:19:05,360 --> 00:19:08,640
+But regardless, there's always room for
+
+626
+00:19:06,720 --> 00:19:10,160
+the best. And that goes for anything in
+
+627
+00:19:08,640 --> 00:19:12,400
+life. Next up on the list, we have
+
+628
+00:19:10,160 --> 00:19:13,840
+prioritizing email and SMS. Email and
+
+629
+00:19:12,400 --> 00:19:14,880
+SMS is some of the easiest money that
+
+630
+00:19:13,840 --> 00:19:16,160
+you can make in your business,
+
+631
+00:19:14,880 --> 00:19:18,000
+especially if you're setting up some
+
+632
+00:19:16,160 --> 00:19:20,160
+really, really strong and properly
+
+633
+00:19:18,000 --> 00:19:21,680
+segmented flows for your business,
+
+634
+00:19:20,160 --> 00:19:24,400
+especially if they're flows customized
+
+635
+00:19:21,680 --> 00:19:26,640
+to your specific buyer journey. They can
+
+636
+00:19:24,400 --> 00:19:28,560
+be just massive profit centers for your
+
+637
+00:19:26,640 --> 00:19:30,960
+business. However, one little problem,
+
+638
+00:19:28,560 --> 00:19:33,440
+they're dependent on traffic. That's why
+
+639
+00:19:30,960 --> 00:19:34,720
+I put creatives in the SE tier because
+
+640
+00:19:33,440 --> 00:19:36,320
+everything trickles down from your
+
+641
+00:19:34,720 --> 00:19:38,640
+traffic and your creatives and your ads,
+
+642
+00:19:36,320 --> 00:19:40,000
+right? So, email and SMS, we all know it
+
+643
+00:19:38,640 --> 00:19:41,360
+is some of the easiest money that you
+
+644
+00:19:40,000 --> 00:19:43,440
+can make if you have things set up
+
+645
+00:19:41,360 --> 00:19:45,840
+properly, but it's also dependent on
+
+646
+00:19:43,440 --> 00:19:47,120
+traffic and the quality of said traffic.
+
+647
+00:19:45,840 --> 00:19:49,200
+So, for that reason, we are going to be
+
+648
+00:19:47,120 --> 00:19:50,720
+putting email and SMS in the B tier. And
+
+649
+00:19:49,200 --> 00:19:52,640
+the last thing on the list, of course,
+
+650
+00:19:50,720 --> 00:19:54,320
+you know, I had to do it. Run more ads.
+
+651
+00:19:52,640 --> 00:19:56,240
+We all know where this one is going and
+
+652
+00:19:54,320 --> 00:19:59,520
+we all know why. At any point in time,
+
+653
+00:19:56,240 --> 00:20:01,520
+you're just one massive winning ad away
+
+654
+00:19:59,520 --> 00:20:03,280
+from completely changing your life, from
+
+655
+00:20:01,520 --> 00:20:05,280
+having everything in your life, actually
+
+656
+00:20:03,280 --> 00:20:06,640
+come together, buy the car you want,
+
+657
+00:20:05,280 --> 00:20:08,960
+move to the place that you want, do
+
+658
+00:20:06,640 --> 00:20:10,640
+whatever you want. You're just one ad
+
+659
+00:20:08,960 --> 00:20:12,000
+away. So, for that reason, for the run
+
+660
+00:20:10,640 --> 00:20:14,080
+more ads movement, we are putting this
+
+661
+00:20:12,000 --> 00:20:15,760
+[ __ ] in the S tier. You already know I
+
+662
+00:20:14,080 --> 00:20:17,760
+had to do it. And that is our finished
+
+663
+00:20:15,760 --> 00:20:18,880
+beautiful tier list. Thank you guys so
+
+664
+00:20:17,760 --> 00:20:20,080
+much for watching this video. Once
+
+665
+00:20:18,880 --> 00:20:21,760
+again, if you do want to apply for
+
+666
+00:20:20,080 --> 00:20:23,200
+Brandos Academy, I always link the link
+
+667
+00:20:21,760 --> 00:20:24,640
+below in description. You can fill out
+
+668
+00:20:23,200 --> 00:20:27,680
+an application. Other than that, y'all,
+
+669
+00:20:24,640 --> 00:20:27,680
+I'll see youall on the next video.
+

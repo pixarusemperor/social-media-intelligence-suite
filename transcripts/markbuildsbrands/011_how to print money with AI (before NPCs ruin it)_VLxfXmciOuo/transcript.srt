@@ -1,0 +1,2412 @@
+1
+00:00:00,000 --> 00:00:02,320
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,320 --> 00:00:04,920
+going to show you how to print money
+
+3
+00:00:02,320 --> 00:00:06,320
+with AI before all the NPCs ruin it. And
+
+4
+00:00:04,920 --> 00:00:08,480
+if you execute on what I'm going to show
+
+5
+00:00:06,320 --> 00:00:10,200
+you in this video, you can go from idea
+
+6
+00:00:08,480 --> 00:00:12,440
+to having an actual running business in
+
+7
+00:00:10,200 --> 00:00:14,000
+under 24 hours. A few years ago, before
+
+8
+00:00:12,440 --> 00:00:15,600
+AI got really popular, that would have
+
+9
+00:00:14,000 --> 00:00:16,920
+sounded insane, but now it's actually
+
+10
+00:00:15,600 --> 00:00:18,480
+pretty simple. Most people think that
+
+11
+00:00:16,920 --> 00:00:20,560
+the competitive advantage when it comes
+
+12
+00:00:18,480 --> 00:00:22,280
+to AI is that it saves you all this time
+
+13
+00:00:20,560 --> 00:00:23,800
+or that it handles all these tasks for
+
+14
+00:00:22,280 --> 00:00:27,440
+you, but that's actually not true. The
+
+15
+00:00:23,800 --> 00:00:30,200
+real thing that AI gives you is speed.
+
+16
+00:00:27,440 --> 00:00:31,680
+Specifically, speed to acquire data. We
+
+17
+00:00:30,200 --> 00:00:33,320
+all know that in order to get good at
+
+18
+00:00:31,680 --> 00:00:35,640
+anything, you have to have this feedback
+
+19
+00:00:33,320 --> 00:00:37,600
+loop where you basically try something,
+
+20
+00:00:35,640 --> 00:00:39,800
+you get feedback, you get the data, and
+
+21
+00:00:37,600 --> 00:00:41,280
+then you make revisions, and you repeat
+
+22
+00:00:39,800 --> 00:00:43,400
+that process over and over and over
+
+23
+00:00:41,280 --> 00:00:45,160
+again. Previously, before AI, this
+
+24
+00:00:43,400 --> 00:00:46,800
+feedback loop would take days, it would
+
+25
+00:00:45,160 --> 00:00:48,200
+take weeks, sometimes it would even take
+
+26
+00:00:46,800 --> 00:00:51,000
+months depending on the business that
+
+27
+00:00:48,200 --> 00:00:52,800
+you own. So, what AI has really done is
+
+28
+00:00:51,000 --> 00:00:55,560
+it's given you the opportunity to go
+
+29
+00:00:52,800 --> 00:00:58,080
+from idea to launching something in the
+
+30
+00:00:55,560 --> 00:00:59,520
+wild in under 24 hours. Now, how do we
+
+31
+00:00:58,080 --> 00:01:01,600
+actually make that happen? Well, any
+
+32
+00:00:59,520 --> 00:01:03,400
+business has four key variables that you
+
+33
+00:01:01,600 --> 00:01:04,800
+have to reasonably get down in order for
+
+34
+00:01:03,400 --> 00:01:06,920
+you to actually start making money.
+
+35
+00:01:04,800 --> 00:01:08,440
+These are the core essentials. The first
+
+36
+00:01:06,920 --> 00:01:09,920
+is going to be the market that you are
+
+37
+00:01:08,440 --> 00:01:11,520
+selling in. The second is going to be
+
+38
+00:01:09,920 --> 00:01:13,200
+the product that you decide to sell
+
+39
+00:01:11,520 --> 00:01:15,120
+within that market. The third is going
+
+40
+00:01:13,200 --> 00:01:17,200
+to be the ads that you create to drive
+
+41
+00:01:15,120 --> 00:01:18,680
+traffic to sell that product. And the
+
+42
+00:01:17,200 --> 00:01:21,320
+last one, of course, is going to be the
+
+43
+00:01:18,680 --> 00:01:23,360
+funnel, which is the fancy way of saying
+
+44
+00:01:21,320 --> 00:01:25,200
+your experience on your website of
+
+45
+00:01:23,360 --> 00:01:26,960
+taking somebody who first lands on your
+
+46
+00:01:25,200 --> 00:01:28,960
+page to actually collecting payment
+
+47
+00:01:26,960 --> 00:01:30,360
+information. So, let's begin with the
+
+48
+00:01:28,960 --> 00:01:32,520
+market piece. Now, the reason that
+
+49
+00:01:30,360 --> 00:01:34,800
+market is first is it is quite literally
+
+50
+00:01:32,520 --> 00:01:36,480
+the most powerful lever that you can
+
+51
+00:01:34,800 --> 00:01:37,960
+pull in a business. This is the reason
+
+52
+00:01:36,480 --> 00:01:40,920
+why you see some people that are really
+
+53
+00:01:37,960 --> 00:01:42,840
+pretty stupid make an absolute load
+
+54
+00:01:40,920 --> 00:01:44,640
+of money because they happen to enter
+
+55
+00:01:42,840 --> 00:01:46,760
+the right market at the right time. Now,
+
+56
+00:01:44,640 --> 00:01:47,960
+what actually makes up a good market?
+
+57
+00:01:46,760 --> 00:01:49,520
+The first thing that makes up a really
+
+58
+00:01:47,960 --> 00:01:51,880
+good market, in my opinion, is going to
+
+59
+00:01:49,520 --> 00:01:54,760
+be urgency. This is what I call market
+
+60
+00:01:51,880 --> 00:01:57,320
+or audience urgency. Urgency is how
+
+61
+00:01:54,760 --> 00:01:59,800
+quickly do people want their problem
+
+62
+00:01:57,320 --> 00:02:02,120
+solved? For example, if we compare two
+
+63
+00:01:59,800 --> 00:02:03,520
+markets, one of which is you selling
+
+64
+00:02:02,120 --> 00:02:05,440
+like fishing gear, and the other of
+
+65
+00:02:03,520 --> 00:02:07,640
+which is you selling a, let's say,
+
+66
+00:02:05,440 --> 00:02:09,840
+neuropathy device, which is like nerve
+
+67
+00:02:07,640 --> 00:02:11,960
+pain in your feet, which one of these
+
+68
+00:02:09,840 --> 00:02:13,520
+has more urgency? Well, obviously, it's
+
+69
+00:02:11,960 --> 00:02:16,840
+going to be the one that is neuropathy
+
+70
+00:02:13,520 --> 00:02:18,800
+because that is a physical, urgent pain
+
+71
+00:02:16,840 --> 00:02:20,960
+that you want to get solved as quickly
+
+72
+00:02:18,800 --> 00:02:22,360
+as humanly possible. Fishing is more of
+
+73
+00:02:20,960 --> 00:02:24,760
+a hobby sport. Don't get me wrong, it's
+
+74
+00:02:22,360 --> 00:02:26,840
+a passionate market, but is there that
+
+75
+00:02:24,760 --> 00:02:28,600
+bleeding sense of urgency that makes
+
+76
+00:02:26,840 --> 00:02:30,680
+people make irrational decisions and buy
+
+77
+00:02:28,600 --> 00:02:32,000
+things way faster? That is what you want
+
+78
+00:02:30,680 --> 00:02:34,280
+in a great market. Another thing that
+
+79
+00:02:32,000 --> 00:02:35,920
+makes up a great market is high pain.
+
+80
+00:02:34,280 --> 00:02:37,560
+So, actually kind of similar to the
+
+81
+00:02:35,920 --> 00:02:39,520
+point that I just made, this doesn't
+
+82
+00:02:37,560 --> 00:02:41,760
+have to be only physical pain though.
+
+83
+00:02:39,520 --> 00:02:43,520
+This can be emotional pain. Example of a
+
+84
+00:02:41,760 --> 00:02:44,960
+high pain market would be, for example,
+
+85
+00:02:43,520 --> 00:02:47,120
+the pet market. The only thing that
+
+86
+00:02:44,960 --> 00:02:48,560
+people love more than themselves or
+
+87
+00:02:47,120 --> 00:02:51,200
+their children is, of course, their
+
+88
+00:02:48,560 --> 00:02:53,040
+pets. And anybody who has children or
+
+89
+00:02:51,200 --> 00:02:55,240
+pets knows that one of the worst things
+
+90
+00:02:53,040 --> 00:02:57,040
+in the world is seeing your pet in
+
+91
+00:02:55,240 --> 00:02:58,560
+physical pain. Like, you would much
+
+92
+00:02:57,040 --> 00:03:00,840
+rather have yourself go through that
+
+93
+00:02:58,560 --> 00:03:02,480
+physical pain compared to your pet. And
+
+94
+00:03:00,840 --> 00:03:04,480
+for that reason, it's also a very high
+
+95
+00:03:02,480 --> 00:03:05,920
+pain market. Now, the final piece that
+
+96
+00:03:04,480 --> 00:03:08,920
+I'm going to add here to a good market
+
+97
+00:03:05,920 --> 00:03:10,920
+is going to be a high TAM. A TAM is
+
+98
+00:03:08,920 --> 00:03:12,960
+known as your total addressable market.
+
+99
+00:03:10,920 --> 00:03:14,800
+It's basically a fancy way of saying how
+
+100
+00:03:12,960 --> 00:03:16,640
+big is this market that you're selling
+
+101
+00:03:14,800 --> 00:03:18,760
+to? And I know there's this whole
+
+102
+00:03:16,640 --> 00:03:21,440
+philosophy of going after these very
+
+103
+00:03:18,760 --> 00:03:22,840
+like micro, small, super duper niche
+
+104
+00:03:21,440 --> 00:03:24,400
+markets. You know, the riches are in the
+
+105
+00:03:22,840 --> 00:03:26,240
+niches. I think that's a bunch of
+
+106
+00:03:24,400 --> 00:03:28,640
+If you look at the brands that
+
+107
+00:03:26,240 --> 00:03:31,040
+are scaling to nine figures per year and
+
+108
+00:03:28,640 --> 00:03:32,760
+beyond. Now, this is big example, but it
+
+109
+00:03:31,040 --> 00:03:34,480
+does prove the point. They are all
+
+110
+00:03:32,760 --> 00:03:36,360
+entering massive, massive markets. I'm
+
+111
+00:03:34,480 --> 00:03:38,320
+talking like weight loss. We're talking
+
+112
+00:03:36,360 --> 00:03:41,120
+pet supplements. I mean, the best
+
+113
+00:03:38,320 --> 00:03:43,960
+example of all may be emergence of
+
+114
+00:03:41,120 --> 00:03:45,920
+Ozempic, semaglutide, tirzepatide,
+
+115
+00:03:43,960 --> 00:03:47,840
+retatrutide. Think about how many
+
+116
+00:03:45,920 --> 00:03:50,800
+people, specifically in America alone,
+
+117
+00:03:47,840 --> 00:03:52,840
+are overweight. That TAM alone is
+
+118
+00:03:50,800 --> 00:03:54,520
+monstrous. So, you have a lot of
+
+119
+00:03:52,840 --> 00:03:56,080
+variables when it comes to building a
+
+120
+00:03:54,520 --> 00:03:57,520
+business in general. Don't make one of
+
+121
+00:03:56,080 --> 00:03:59,520
+those variables the fact that you're
+
+122
+00:03:57,520 --> 00:04:00,760
+going after a market that is too small.
+
+123
+00:03:59,520 --> 00:04:02,840
+Now, with the market, you don't even
+
+124
+00:04:00,760 --> 00:04:04,640
+need AI. You can basically just pick
+
+125
+00:04:02,840 --> 00:04:06,440
+from a list which markets are best to
+
+126
+00:04:04,640 --> 00:04:07,760
+sell in. Choosing a good market is
+
+127
+00:04:06,440 --> 00:04:09,480
+important, but it should not be
+
+128
+00:04:07,760 --> 00:04:11,360
+time-consuming. It should take you
+
+129
+00:04:09,480 --> 00:04:13,080
+basically under 30 minutes. Here's a few
+
+130
+00:04:11,360 --> 00:04:15,080
+quick examples of good markets. Anything
+
+131
+00:04:13,080 --> 00:04:16,840
+in the pet niche like pet supplements,
+
+132
+00:04:15,080 --> 00:04:18,880
+anything related to weight loss, hair
+
+133
+00:04:16,840 --> 00:04:21,280
+growth, supplements in general are great
+
+134
+00:04:18,880 --> 00:04:22,800
+market, although oftentimes competitive
+
+135
+00:04:21,280 --> 00:04:24,800
+on what you're selling. Skin care,
+
+136
+00:04:22,800 --> 00:04:26,160
+anything cosmetic related, beauty,
+
+137
+00:04:24,800 --> 00:04:28,080
+anything under the health and wellness
+
+138
+00:04:26,160 --> 00:04:29,640
+bucket. These are just examples, but all
+
+139
+00:04:28,080 --> 00:04:31,080
+of these actually meet the criteria that
+
+140
+00:04:29,640 --> 00:04:32,800
+I just shared. You know, a mentor of
+
+141
+00:04:31,080 --> 00:04:34,600
+mine once told me that you should sell
+
+142
+00:04:32,800 --> 00:04:36,360
+something that does one of three things.
+
+143
+00:04:34,600 --> 00:04:37,720
+And those three things were teach them
+
+144
+00:04:36,360 --> 00:04:39,160
+how to make more money, teach them how
+
+145
+00:04:37,720 --> 00:04:40,320
+to have more sex, or teach them how to
+
+146
+00:04:39,160 --> 00:04:41,400
+lose more weight. He was like, "If
+
+147
+00:04:40,320 --> 00:04:42,600
+you're not doing one of those three
+
+148
+00:04:41,400 --> 00:04:43,960
+things, you're doing something wrong."
+
+149
+00:04:42,600 --> 00:04:45,640
+And many of those niches that I just
+
+150
+00:04:43,960 --> 00:04:46,760
+said typically will lead you down one of
+
+151
+00:04:45,640 --> 00:04:48,240
+those paths, although there's a few
+
+152
+00:04:46,760 --> 00:04:50,280
+exceptions, of course. All right, now
+
+153
+00:04:48,240 --> 00:04:52,120
+let's move on to the product. to get
+
+154
+00:04:50,280 --> 00:04:54,120
+something about products out of the way
+
+155
+00:04:52,120 --> 00:04:55,560
+immediately, especially if you come from
+
+156
+00:04:54,120 --> 00:04:57,160
+an e-commerce or a drop shipping
+
+157
+00:04:55,560 --> 00:04:59,440
+background. You have this belief
+
+158
+00:04:57,160 --> 00:05:00,880
+oftentimes that the product is king, the
+
+159
+00:04:59,440 --> 00:05:02,400
+product is the most important thing. You
+
+160
+00:05:00,880 --> 00:05:04,520
+can mess up everything else, but if the
+
+161
+00:05:02,400 --> 00:05:06,120
+product is good, you're good to go. And
+
+162
+00:05:04,520 --> 00:05:07,520
+if you don't make money, it's all
+
+163
+00:05:06,120 --> 00:05:09,800
+because you chose the wrong product.
+
+164
+00:05:07,520 --> 00:05:11,680
+That is the biggest load of
+
+165
+00:05:09,800 --> 00:05:13,640
+maybe in the history of internet
+
+166
+00:05:11,680 --> 00:05:15,200
+marketing because it's so so so not
+
+167
+00:05:13,640 --> 00:05:17,440
+true. This is the way that you need to
+
+168
+00:05:15,200 --> 00:05:19,000
+think about how important the product
+
+169
+00:05:17,440 --> 00:05:20,400
+actually is. This is the best metaphor
+
+170
+00:05:19,000 --> 00:05:22,240
+that I've come up with to explain this.
+
+171
+00:05:20,400 --> 00:05:23,680
+If any of you are interested in music or
+
+172
+00:05:22,240 --> 00:05:24,600
+music production, or even if you're not,
+
+173
+00:05:23,680 --> 00:05:27,320
+you're probably familiar with the
+
+174
+00:05:24,600 --> 00:05:29,800
+concept of an EQ, which is an equalizer.
+
+175
+00:05:27,320 --> 00:05:32,040
+Where if you have this long stream of,
+
+176
+00:05:29,800 --> 00:05:33,400
+you know, musical frequencies, then down
+
+177
+00:05:32,040 --> 00:05:35,680
+here being the lows, up here being the
+
+178
+00:05:33,400 --> 00:05:38,320
+mids, an EQ will help you raise certain
+
+179
+00:05:35,680 --> 00:05:39,640
+frequencies so that the overall sound is
+
+180
+00:05:38,320 --> 00:05:41,280
+very balanced. So, if the frequencies
+
+181
+00:05:39,640 --> 00:05:42,440
+the highs are too loud, you turn down.
+
+182
+00:05:41,280 --> 00:05:44,440
+You want to create something that is
+
+183
+00:05:42,440 --> 00:05:45,600
+balanced. It's a similar thing when it
+
+184
+00:05:44,440 --> 00:05:47,760
+comes to to
+
+185
+00:05:45,600 --> 00:05:49,520
+all the ingredients of having a super
+
+186
+00:05:47,760 --> 00:05:51,320
+profitable business. Let's say this
+
+187
+00:05:49,520 --> 00:05:53,600
+first kind of lever here is actually
+
+188
+00:05:51,320 --> 00:05:55,600
+going to be your product. If you have a
+
+189
+00:05:53,600 --> 00:05:57,560
+phenomenal product, it's just 10 out of
+
+190
+00:05:55,600 --> 00:05:59,240
+10, super unique, nobody's ever sold
+
+191
+00:05:57,560 --> 00:06:00,960
+before, yet it's the perfect
+
+192
+00:05:59,240 --> 00:06:03,200
+problem-solving product, then it's
+
+193
+00:06:00,960 --> 00:06:04,760
+actually okay if you suck at everything
+
+194
+00:06:03,200 --> 00:06:06,040
+else. Like let's say your ads are not
+
+195
+00:06:04,760 --> 00:06:07,600
+even that good, but because the product
+
+196
+00:06:06,040 --> 00:06:09,520
+is so damn good, it doesn't matter. And
+
+197
+00:06:07,600 --> 00:06:10,800
+your funnel as well is also not that
+
+198
+00:06:09,520 --> 00:06:12,600
+good, but once again, doesn't even
+
+199
+00:06:10,800 --> 00:06:14,720
+matter because your product is just that
+
+200
+00:06:12,600 --> 00:06:16,360
+damn good. This is why you may know some
+
+201
+00:06:14,720 --> 00:06:18,200
+people or hear of some people that are
+
+202
+00:06:16,360 --> 00:06:20,040
+making all this money. There is this
+
+203
+00:06:18,200 --> 00:06:22,160
+element of luck involved. Sometimes you
+
+204
+00:06:20,040 --> 00:06:24,200
+legitimately are selling a product that
+
+205
+00:06:22,160 --> 00:06:26,400
+just sells itself really, really well.
+
+206
+00:06:24,200 --> 00:06:28,240
+Other products sometimes are not as easy
+
+207
+00:06:26,400 --> 00:06:29,960
+to sell. But, this is the thing that
+
+208
+00:06:28,240 --> 00:06:31,760
+people don't talk about. Let's say your
+
+209
+00:06:29,960 --> 00:06:33,160
+product is actually not that great of a
+
+210
+00:06:31,760 --> 00:06:34,680
+product. It's It's decent. It's maybe
+
+211
+00:06:33,160 --> 00:06:36,320
+like a five out of 10, but it's not
+
+212
+00:06:34,680 --> 00:06:37,840
+going to carry you all the way to the
+
+213
+00:06:36,320 --> 00:06:39,800
+finish line. So, what do you have to do
+
+214
+00:06:37,840 --> 00:06:42,640
+in cases like this? Well, naturally, you
+
+215
+00:06:39,800 --> 00:06:44,720
+have to make better ads like this, and
+
+216
+00:06:42,640 --> 00:06:47,160
+you have to make a better funnel in
+
+217
+00:06:44,720 --> 00:06:49,160
+order to compensate for your product not
+
+218
+00:06:47,160 --> 00:06:50,840
+being able to totally sell itself. So,
+
+219
+00:06:49,160 --> 00:06:52,600
+no, the product is not the most
+
+220
+00:06:50,840 --> 00:06:54,400
+important thing, but it's also not
+
+221
+00:06:52,600 --> 00:06:55,920
+nothing. It is definitely going to help
+
+222
+00:06:54,400 --> 00:06:58,040
+you, and you should try to find a good
+
+223
+00:06:55,920 --> 00:07:00,000
+product, but don't be so quick to blame
+
+224
+00:06:58,040 --> 00:07:01,640
+blame your lack of success on the
+
+225
+00:07:00,000 --> 00:07:03,600
+product when a lot of times it's
+
+226
+00:07:01,640 --> 00:07:06,160
+actually so much more likely that your
+
+227
+00:07:03,600 --> 00:07:07,480
+ads just suck or your funnel just sucks.
+
+228
+00:07:06,160 --> 00:07:08,960
+And you should probably spend a lot more
+
+229
+00:07:07,480 --> 00:07:10,640
+time here compared to just obsessing
+
+230
+00:07:08,960 --> 00:07:12,400
+about this because these are relatively
+
+231
+00:07:10,640 --> 00:07:14,280
+simple to fix. Finding a product that is
+
+232
+00:07:12,400 --> 00:07:15,520
+able to completely sell itself, that's
+
+233
+00:07:14,280 --> 00:07:17,000
+tough. All right, now that I got that
+
+234
+00:07:15,520 --> 00:07:19,040
+out of the way, what is the criteria for
+
+235
+00:07:17,000 --> 00:07:20,200
+actually finding a really, really solid
+
+236
+00:07:19,040 --> 00:07:22,360
+product? Number one, and most
+
+237
+00:07:20,200 --> 00:07:25,040
+importantly, this product has to, what I
+
+238
+00:07:22,360 --> 00:07:26,880
+like to call, solve a problem in a
+
+239
+00:07:25,040 --> 00:07:28,280
+passionate market, which we kind of
+
+240
+00:07:26,880 --> 00:07:29,760
+already covered with the first step
+
+241
+00:07:28,280 --> 00:07:32,000
+where we talked about the market. Second
+
+242
+00:07:29,760 --> 00:07:33,560
+is going to be margins. Now, just
+
+243
+00:07:32,000 --> 00:07:34,760
+saying, you know, sell a product that
+
+244
+00:07:33,560 --> 00:07:36,560
+has good profit margins, that's not
+
+245
+00:07:34,760 --> 00:07:38,200
+super helpful, so let me break it down.
+
+246
+00:07:36,560 --> 00:07:40,160
+To sell a product that has good margins,
+
+247
+00:07:38,200 --> 00:07:43,320
+you need to accomplish two rules. Rule
+
+248
+00:07:40,160 --> 00:07:45,280
+number one is to have at least $30 of
+
+249
+00:07:43,320 --> 00:07:47,000
+gross margin. Gross margin means if you
+
+250
+00:07:45,280 --> 00:07:48,560
+are able to get this product sourced
+
+251
+00:07:47,000 --> 00:07:50,840
+from your supplier, you want to be able
+
+252
+00:07:48,560 --> 00:07:52,720
+to sell this product for at least $30
+
+253
+00:07:50,840 --> 00:07:54,840
+more than what you're getting it sourced
+
+254
+00:07:52,720 --> 00:07:56,520
+for. I see that I can sell a product
+
+255
+00:07:54,840 --> 00:07:58,600
+that cost me 10 bucks, I need to be able
+
+256
+00:07:56,520 --> 00:08:01,040
+to sell that for a minimum of 40. And
+
+257
+00:07:58,600 --> 00:08:03,000
+then the second rule is going to be 3x
+
+258
+00:08:01,040 --> 00:08:05,040
+cost of goods sold. So this is like the
+
+259
+00:08:03,000 --> 00:08:06,760
+absolute value and this is the relative
+
+260
+00:08:05,040 --> 00:08:09,600
+value because if you find a product for
+
+261
+00:08:06,760 --> 00:08:12,360
+example that cost you $100, do you want
+
+262
+00:08:09,600 --> 00:08:13,880
+to sell it for $130? Obviously not. You
+
+263
+00:08:12,360 --> 00:08:16,400
+want to aim to sell that bad boy for
+
+264
+00:08:13,880 --> 00:08:17,960
+$300. And that may seem like a lot, but
+
+265
+00:08:16,400 --> 00:08:19,720
+I'm telling you this is one of the best
+
+266
+00:08:17,960 --> 00:08:21,160
+ways we can set yourself up for
+
+267
+00:08:19,720 --> 00:08:23,760
+long-term success. And then number
+
+268
+00:08:21,160 --> 00:08:25,560
+three, as a bonus just to make your life
+
+269
+00:08:23,760 --> 00:08:27,520
+even easier, try to sell a product that
+
+270
+00:08:25,560 --> 00:08:30,240
+can fit in a shoe box. This is just
+
+271
+00:08:27,520 --> 00:08:32,200
+going to help you avoid so many shipping
+
+272
+00:08:30,240 --> 00:08:34,480
+and logistical nightmares, having to
+
+273
+00:08:32,200 --> 00:08:36,840
+worry about expedited shipping lines and
+
+274
+00:08:34,480 --> 00:08:39,160
+all this nonsense. Just sell something
+
+275
+00:08:36,840 --> 00:08:40,640
+that solves an incredible problem and
+
+276
+00:08:39,160 --> 00:08:42,080
+that fits in a shoe box with good
+
+277
+00:08:40,640 --> 00:08:43,840
+margins and you have a good product on
+
+278
+00:08:42,080 --> 00:08:45,520
+your hands. Now, how do we use AI in
+
+279
+00:08:43,840 --> 00:08:47,200
+this process? We're going to hop right
+
+280
+00:08:45,520 --> 00:08:48,440
+into Claude, but we're not going to be
+
+281
+00:08:47,200 --> 00:08:50,000
+using the Claude chat here. We're
+
+282
+00:08:48,440 --> 00:08:51,360
+actually going to be using Claude
+
+283
+00:08:50,000 --> 00:08:53,280
+Co-work. So you need to make sure you
+
+284
+00:08:51,360 --> 00:08:54,680
+have the desktop version of Claude
+
+285
+00:08:53,280 --> 00:08:56,320
+installed. What you're going to do is
+
+286
+00:08:54,680 --> 00:08:57,960
+select new project. You're going to do
+
+287
+00:08:56,320 --> 00:09:00,600
+start from scratch. You can name this
+
+288
+00:08:57,960 --> 00:09:02,360
+project inside of Claude product finder.
+
+289
+00:09:00,600 --> 00:09:05,160
+And then you're going to go to my
+
+290
+00:09:02,360 --> 00:09:07,080
+product finder SOP. I have all of the
+
+291
+00:09:05,160 --> 00:09:08,680
+resources for this video by the way in
+
+292
+00:09:07,080 --> 00:09:09,680
+the description of this YouTube video.
+
+293
+00:09:08,680 --> 00:09:11,240
+Then you're going to go to where it says
+
+294
+00:09:09,680 --> 00:09:12,880
+project instructions and we're just
+
+295
+00:09:11,240 --> 00:09:14,120
+going to copy this entire thing. Now
+
+296
+00:09:12,880 --> 00:09:16,000
+we're going to go back into Claude,
+
+297
+00:09:14,120 --> 00:09:18,520
+paste all those lovely instructions
+
+298
+00:09:16,000 --> 00:09:19,840
+right there, choose a project location,
+
+299
+00:09:18,520 --> 00:09:21,400
+and then select create. Now at the
+
+300
+00:09:19,840 --> 00:09:23,040
+bottom of this document you'll notice I
+
+301
+00:09:21,400 --> 00:09:25,040
+have a little section called brief,
+
+302
+00:09:23,040 --> 00:09:27,320
+which is where you'll put in just a few
+
+303
+00:09:25,040 --> 00:09:28,760
+details to make this search for a
+
+304
+00:09:27,320 --> 00:09:29,880
+product something that you actually
+
+305
+00:09:28,760 --> 00:09:31,360
+want. So you're just going to fill in a
+
+306
+00:09:29,880 --> 00:09:32,720
+few different things about the market
+
+307
+00:09:31,360 --> 00:09:34,000
+and the exclusions that you want. For
+
+308
+00:09:32,720 --> 00:09:35,720
+example, if you don't want to sell any
+
+309
+00:09:34,000 --> 00:09:37,800
+supplements, what your budget is to
+
+310
+00:09:35,720 --> 00:09:39,080
+start, what is your general skill level,
+
+311
+00:09:37,800 --> 00:09:40,320
+like are you really good at ads? Are you
+
+312
+00:09:39,080 --> 00:09:43,160
+really good at funnels? Are you a total
+
+313
+00:09:40,320 --> 00:09:45,640
+newbie? And then a time horizon. So, is
+
+314
+00:09:43,160 --> 00:09:47,000
+this like a quick flip or a long-term
+
+315
+00:09:45,640 --> 00:09:48,000
+brand play? Highly recommend going the
+
+316
+00:09:47,000 --> 00:09:50,040
+long-term route. Now, we're going to
+
+317
+00:09:48,000 --> 00:09:52,600
+take that brief and drop it right inside
+
+318
+00:09:50,040 --> 00:09:54,680
+of our product finder project inside of
+
+319
+00:09:52,600 --> 00:09:56,120
+Cloud Co-work and hit go. I'm going to
+
+320
+00:09:54,680 --> 00:09:57,400
+let this run and get back to you when
+
+321
+00:09:56,120 --> 00:09:59,440
+it's finished. All right, just like
+
+322
+00:09:57,400 --> 00:10:01,800
+that, Cloud Co-work finished up. I
+
+323
+00:09:59,440 --> 00:10:03,840
+exported it to a document. We can see
+
+324
+00:10:01,800 --> 00:10:05,720
+what it got here. So, it was able to
+
+325
+00:10:03,840 --> 00:10:07,480
+extract many different competitors that
+
+326
+00:10:05,720 --> 00:10:09,080
+are running very successfully in terms
+
+327
+00:10:07,480 --> 00:10:10,400
+of their monthly traffic. One important
+
+328
+00:10:09,080 --> 00:10:12,480
+piece of finding a good product to sell
+
+329
+00:10:10,400 --> 00:10:14,640
+is making sure it's already proven to
+
+330
+00:10:12,480 --> 00:10:16,880
+sell with a lot of traffic. So, a few of
+
+331
+00:10:14,640 --> 00:10:19,360
+the products that came up with is a jaw
+
+332
+00:10:16,880 --> 00:10:22,160
+tension supplement for TMJ. This
+
+333
+00:10:19,360 --> 00:10:23,960
+competitor here did $10 million in 2024,
+
+334
+00:10:22,160 --> 00:10:25,880
+definitely proven, and also hits all the
+
+335
+00:10:23,960 --> 00:10:27,920
+other criteria. We also got a
+
+336
+00:10:25,880 --> 00:10:29,880
+perimenopause brain supplement. A
+
+337
+00:10:27,920 --> 00:10:31,760
+competitor here, Bonafide, doing over
+
+338
+00:10:29,880 --> 00:10:34,800
+300,000 visits per month. Another one we
+
+339
+00:10:31,760 --> 00:10:36,600
+got here is senior dog non-slip paw
+
+340
+00:10:34,800 --> 00:10:37,760
+grips. And I could keep scrolling to
+
+341
+00:10:36,600 --> 00:10:40,320
+show you all the other products, but
+
+342
+00:10:37,760 --> 00:10:41,560
+honestly, this senior dog non-slip paw
+
+343
+00:10:40,320 --> 00:10:42,760
+grips is an interesting one for this
+
+344
+00:10:41,560 --> 00:10:44,720
+video. Let's run with that. So, the
+
+345
+00:10:42,760 --> 00:10:48,360
+product here is essentially these tiny
+
+346
+00:10:44,720 --> 00:10:50,640
+little rubber grips that go on the nails
+
+347
+00:10:48,360 --> 00:10:52,440
+of your dog so that they don't slip when
+
+348
+00:10:50,640 --> 00:10:54,480
+they're walking on like hardwood floors
+
+349
+00:10:52,440 --> 00:10:56,360
+and whatnot. So, it definitely hits the
+
+350
+00:10:54,480 --> 00:10:58,720
+criteria of being a really good market.
+
+351
+00:10:56,360 --> 00:11:01,120
+The margins on this product are probably
+
+352
+00:10:58,720 --> 00:11:03,000
+absolutely insane, selling for 40 bucks.
+
+353
+00:11:01,120 --> 00:11:05,080
+One of these probably costs less than 1
+
+354
+00:11:03,000 --> 00:11:06,920
+cent to produce. And we got a competitor
+
+355
+00:11:05,080 --> 00:11:08,440
+selling it very successfully. It fits in
+
+356
+00:11:06,920 --> 00:11:10,960
+a shoe box. Literally every piece of
+
+357
+00:11:08,440 --> 00:11:12,280
+criteria is hit. And I didn't have to do
+
+358
+00:11:10,960 --> 00:11:13,840
+anything. All right, now that we got the
+
+359
+00:11:12,280 --> 00:11:16,480
+product and the market covered, let's
+
+360
+00:11:13,840 --> 00:11:18,200
+move on to the ads. The ads is also a
+
+361
+00:11:16,480 --> 00:11:19,880
+super duper simple process. When it
+
+362
+00:11:18,200 --> 00:11:22,680
+comes to launching ads for your new
+
+363
+00:11:19,880 --> 00:11:24,320
+product, there is one very, very clear
+
+364
+00:11:22,680 --> 00:11:26,400
+goal that you should be after. It's
+
+365
+00:11:24,320 --> 00:11:28,560
+ironically not to make money, at least
+
+366
+00:11:26,400 --> 00:11:29,680
+not initially, because anybody knows
+
+367
+00:11:28,560 --> 00:11:31,440
+that when you start spending money on
+
+368
+00:11:29,680 --> 00:11:33,400
+ads, you're not losing money, you're
+
+369
+00:11:31,440 --> 00:11:35,000
+actually buying data. So, the goal
+
+370
+00:11:33,400 --> 00:11:37,560
+really is to find your winning sales
+
+371
+00:11:35,000 --> 00:11:40,960
+message and test it fast. Like I said in
+
+372
+00:11:37,560 --> 00:11:43,360
+the intro, AI is a multiplier and it
+
+373
+00:11:40,960 --> 00:11:44,720
+helps you test stuff way, way, way, way,
+
+374
+00:11:43,360 --> 00:11:46,520
+way faster. So, what we're really trying
+
+375
+00:11:44,720 --> 00:11:49,040
+to get here is our winning sales message
+
+376
+00:11:46,520 --> 00:11:50,720
+because once we have that, we can make
+
+377
+00:11:49,040 --> 00:11:52,760
+millions of ads from it, but we need to
+
+378
+00:11:50,720 --> 00:11:54,440
+find that core message that resonates
+
+379
+00:11:52,760 --> 00:11:56,720
+with our market first. And a lot of
+
+380
+00:11:54,440 --> 00:11:59,200
+times, your sales message is also your
+
+381
+00:11:56,720 --> 00:12:01,200
+top performing advertising angle, which
+
+382
+00:11:59,200 --> 00:12:02,440
+is basically the reason that people buy
+
+383
+00:12:01,200 --> 00:12:03,480
+your product. A lot of people buy
+
+384
+00:12:02,440 --> 00:12:04,800
+products for a bunch of different
+
+385
+00:12:03,480 --> 00:12:05,800
+reasons, you know? You ask five
+
+386
+00:12:04,800 --> 00:12:07,240
+different people why they're buying an
+
+387
+00:12:05,800 --> 00:12:08,560
+iPhone, you can get five different
+
+388
+00:12:07,240 --> 00:12:10,080
+answers and each one of those is a
+
+389
+00:12:08,560 --> 00:12:12,720
+different angle that you can use in your
+
+390
+00:12:10,080 --> 00:12:14,560
+messaging with your ads. So, for speed
+
+391
+00:12:12,720 --> 00:12:16,040
+purposes and because we're trying to get
+
+392
+00:12:14,560 --> 00:12:17,560
+sales fast, we're going to be using
+
+393
+00:12:16,040 --> 00:12:19,280
+image ads because image ads are
+
+394
+00:12:17,560 --> 00:12:21,280
+extremely easy to create. You can make
+
+395
+00:12:19,280 --> 00:12:22,320
+hundreds of them just in under an hour
+
+396
+00:12:21,280 --> 00:12:23,440
+and that's what we're going to do. All
+
+397
+00:12:22,320 --> 00:12:25,600
+right, now we're going to go back into
+
+398
+00:12:23,440 --> 00:12:27,960
+Claude to come up with ideas for
+
+399
+00:12:25,600 --> 00:12:29,520
+particular angles that we can use to
+
+400
+00:12:27,960 --> 00:12:32,480
+sell our product with our image ads. And
+
+401
+00:12:29,520 --> 00:12:33,960
+to do that, this SOP here that you can
+
+402
+00:12:32,480 --> 00:12:35,760
+quite literally copy and paste. The only
+
+403
+00:12:33,960 --> 00:12:36,960
+thing that you need to fill in is going
+
+404
+00:12:35,760 --> 00:12:38,400
+to be these first three lines. So, what
+
+405
+00:12:36,960 --> 00:12:39,640
+is your product name? What is a quick
+
+406
+00:12:38,400 --> 00:12:41,480
+description of the product and what is
+
+407
+00:12:39,640 --> 00:12:43,680
+the primary angle that is currently
+
+408
+00:12:41,480 --> 00:12:45,480
+being used by the competitor, let's say,
+
+409
+00:12:43,680 --> 00:12:48,040
+to sell the product. So, I entered in
+
+410
+00:12:45,480 --> 00:12:49,800
+all that information and selected enter
+
+411
+00:12:48,040 --> 00:12:51,560
+and this is the output that I got here.
+
+412
+00:12:49,800 --> 00:12:53,280
+So, for this product, the first angle
+
+413
+00:12:51,560 --> 00:12:54,960
+that I got is post-surgery and injury
+
+414
+00:12:53,280 --> 00:12:56,800
+recovery, the rehab tool vets are
+
+415
+00:12:54,960 --> 00:12:58,600
+already using. Another angle is
+
+416
+00:12:56,800 --> 00:13:00,120
+neurological and special needs dogs,
+
+417
+00:12:58,600 --> 00:13:02,240
+finally something that works for his
+
+418
+00:13:00,120 --> 00:13:04,400
+condition. Another angle is for people
+
+419
+00:13:02,240 --> 00:13:06,200
+that have new hardwood floors installed.
+
+420
+00:13:04,400 --> 00:13:08,240
+Another angle is floor anxiety and
+
+421
+00:13:06,200 --> 00:13:09,480
+confidence loss. He won't even come
+
+422
+00:13:08,240 --> 00:13:10,560
+greet me at the door anymore. That
+
+423
+00:13:09,480 --> 00:13:11,960
+sounds pretty good. I'm going to be
+
+424
+00:13:10,560 --> 00:13:13,480
+running with that angle. So, now that we
+
+425
+00:13:11,960 --> 00:13:15,000
+have the angle, what we need to do is
+
+426
+00:13:13,480 --> 00:13:16,880
+actually generate the images that we're
+
+427
+00:13:15,000 --> 00:13:17,920
+going to be using for our advertising.
+
+428
+00:13:16,880 --> 00:13:20,040
+Now, for this process, we're
+
+429
+00:13:17,920 --> 00:13:22,800
+specifically going to be creating a
+
+430
+00:13:20,040 --> 00:13:25,320
+special kind of image ad called a native
+
+431
+00:13:22,800 --> 00:13:27,080
+ad. Native ads are designed to look like
+
+432
+00:13:25,320 --> 00:13:29,160
+actual posts that people would make on
+
+433
+00:13:27,080 --> 00:13:30,960
+Facebook, in this case about their dog.
+
+434
+00:13:29,160 --> 00:13:33,320
+But in the actual ad copy, we're going
+
+435
+00:13:30,960 --> 00:13:35,360
+to be selling people on our particular
+
+436
+00:13:33,320 --> 00:13:37,600
+product. Typically with highly emotional
+
+437
+00:13:35,360 --> 00:13:38,880
+and storytelling based ad copy. But
+
+438
+00:13:37,600 --> 00:13:40,240
+let's just generate the images for now.
+
+439
+00:13:38,880 --> 00:13:42,440
+Now, what we're going to do inside of
+
+440
+00:13:40,240 --> 00:13:43,800
+Claude is we are going to go to the
+
+441
+00:13:42,440 --> 00:13:46,280
+project section. We're going to select
+
+442
+00:13:43,800 --> 00:13:47,600
+new project, name it AI Angles, hit
+
+443
+00:13:46,280 --> 00:13:49,720
+enter. And under instructions, once
+
+444
+00:13:47,600 --> 00:13:51,600
+again, you are going to paste all of
+
+445
+00:13:49,720 --> 00:13:53,400
+this text here. And all we got to do now
+
+446
+00:13:51,600 --> 00:13:55,360
+is go back to the Claude chat where we
+
+447
+00:13:53,400 --> 00:13:57,520
+just came up with these angles. And I'm
+
+448
+00:13:55,360 --> 00:13:59,080
+going to copy this entire angle right
+
+449
+00:13:57,520 --> 00:14:00,640
+here. And then just go right into that
+
+450
+00:13:59,080 --> 00:14:01,800
+new Claude project that we created.
+
+451
+00:14:00,640 --> 00:14:03,360
+We're going to paste it and select
+
+452
+00:14:01,800 --> 00:14:08,160
+enter. And after Claude was working for
+
+453
+00:14:03,360 --> 00:14:09,800
+a little while, now we have 1 2 3 4 full
+
+454
+00:14:08,160 --> 00:14:11,600
+text-to-image prompts that we can use to
+
+455
+00:14:09,800 --> 00:14:12,760
+actually create these image ads. So, I'm
+
+456
+00:14:11,600 --> 00:14:14,640
+going to use this one here as an
+
+457
+00:14:12,760 --> 00:14:16,920
+example. We are going to just copy this
+
+458
+00:14:14,640 --> 00:14:18,320
+and go directly into Higgsfield to
+
+459
+00:14:16,920 --> 00:14:19,480
+actually create these images. If you
+
+460
+00:14:18,320 --> 00:14:21,480
+don't know what Higgsfield is, it's
+
+461
+00:14:19,480 --> 00:14:23,600
+basically a tool that is able to combine
+
+462
+00:14:21,480 --> 00:14:25,440
+all these different APIs from all of the
+
+463
+00:14:23,600 --> 00:14:27,320
+image-to-video models, video generation
+
+464
+00:14:25,440 --> 00:14:28,560
+models, put them all in one place. So,
+
+465
+00:14:27,320 --> 00:14:30,560
+what we're going to do is paste that
+
+466
+00:14:28,560 --> 00:14:32,400
+prompt directly into Higgsfield here and
+
+467
+00:14:30,560 --> 00:14:34,120
+just select generate. Make sure you have
+
+468
+00:14:32,400 --> 00:14:35,720
+Nano Banana Pro selected. All right, so
+
+469
+00:14:34,120 --> 00:14:36,720
+I was able to play around a little bit.
+
+470
+00:14:35,720 --> 00:14:38,640
+This is where you can kind of get
+
+471
+00:14:36,720 --> 00:14:41,080
+creative to come up with new ideas. And
+
+472
+00:14:38,640 --> 00:14:42,560
+this was the initial static image that I
+
+473
+00:14:41,080 --> 00:14:45,560
+ended on. And as you can see, the
+
+474
+00:14:42,560 --> 00:14:47,840
+hardwood floors are very scratched and
+
+475
+00:14:45,560 --> 00:14:50,360
+you have a relatively older senior dog
+
+476
+00:14:47,840 --> 00:14:51,600
+that has a cast on his right paw here.
+
+477
+00:14:50,360 --> 00:14:53,440
+At this point, you have your ad. You
+
+478
+00:14:51,600 --> 00:14:54,920
+just have to slap some ad copy on there
+
+479
+00:14:53,440 --> 00:14:56,600
+and run it and you're good to go. The
+
+480
+00:14:54,920 --> 00:14:59,040
+final piece after we have the ads
+
+481
+00:14:56,600 --> 00:15:00,360
+covered is going to be your funnel. Now,
+
+482
+00:14:59,040 --> 00:15:02,520
+if we were like most people when it
+
+483
+00:15:00,360 --> 00:15:04,520
+comes to running ads, what we would do
+
+484
+00:15:02,520 --> 00:15:07,400
+is take this image ad that we have and
+
+485
+00:15:04,520 --> 00:15:09,480
+drive it directly to our sales page or
+
+486
+00:15:07,400 --> 00:15:11,280
+our PDP, as most people call it, which
+
+487
+00:15:09,480 --> 00:15:13,160
+is just a typical product page. And from
+
+488
+00:15:11,280 --> 00:15:14,040
+there, you would go to the checkout,
+
+489
+00:15:13,160 --> 00:15:16,280
+people would buy, and that would
+
+490
+00:15:14,040 --> 00:15:18,920
+basically be it. This flow here is
+
+491
+00:15:16,280 --> 00:15:20,920
+essentially the equivalent of me asking
+
+492
+00:15:18,920 --> 00:15:22,240
+a girl that I've never met before, "Hey,
+
+493
+00:15:20,920 --> 00:15:24,360
+do you want to go back to my place and
+
+494
+00:15:22,240 --> 00:15:26,040
+have sex with me? It's not going to go
+
+495
+00:15:24,360 --> 00:15:28,040
+very well, at least the majority of the
+
+496
+00:15:26,040 --> 00:15:30,760
+time. Instead, what we're going to do is
+
+497
+00:15:28,040 --> 00:15:32,960
+run this style of ad to what's called a
+
+498
+00:15:30,760 --> 00:15:34,240
+pre-lander or a pre-sales page.
+
+499
+00:15:32,960 --> 00:15:36,400
+Specifically, we're going to be running
+
+500
+00:15:34,240 --> 00:15:37,880
+this to a format of a pre-sales page
+
+501
+00:15:36,400 --> 00:15:40,800
+called an advertorial, which is the
+
+502
+00:15:37,880 --> 00:15:42,400
+combination of an ad and an editorial.
+
+503
+00:15:40,800 --> 00:15:44,440
+And really, the purpose here is to be
+
+504
+00:15:42,400 --> 00:15:46,000
+able to sell our customers without them
+
+505
+00:15:44,440 --> 00:15:48,320
+feel like they're being sold to because
+
+506
+00:15:46,000 --> 00:15:50,400
+nobody enjoys being sold to. And if we
+
+507
+00:15:48,320 --> 00:15:52,120
+can construct our funnel in a way that
+
+508
+00:15:50,400 --> 00:15:53,640
+sells them subconsciously, then we can
+
+509
+00:15:52,120 --> 00:15:54,640
+increase our conversion rate, increase
+
+510
+00:15:53,640 --> 00:15:56,920
+the amount of people that are buying
+
+511
+00:15:54,640 --> 00:15:58,400
+from us without any downside because
+
+512
+00:15:56,920 --> 00:16:00,000
+this style of ad that we're running is
+
+513
+00:15:58,400 --> 00:16:01,960
+able to get extremely low cost of
+
+514
+00:16:00,000 --> 00:16:03,920
+traffic, which means they're probably
+
+515
+00:16:01,960 --> 00:16:04,720
+not going to be as qualified as normal
+
+516
+00:16:03,920 --> 00:16:06,920
+compared to like, you know, a
+
+517
+00:16:04,720 --> 00:16:08,400
+3-minute-long video ad. So, we have to
+
+518
+00:16:06,920 --> 00:16:09,800
+use that to our advantage and be able to
+
+519
+00:16:08,400 --> 00:16:11,480
+construct the funnel in a way that is
+
+520
+00:16:09,800 --> 00:16:13,280
+able to convert people that are much
+
+521
+00:16:11,480 --> 00:16:15,960
+colder with an advertorial. And from
+
+522
+00:16:13,280 --> 00:16:17,880
+there, we can go to our sales page where
+
+523
+00:16:15,960 --> 00:16:19,960
+we actually sell the product itself and
+
+524
+00:16:17,880 --> 00:16:21,040
+then to the order page where we actually
+
+525
+00:16:19,960 --> 00:16:23,000
+collect payment. And I know what you're
+
+526
+00:16:21,040 --> 00:16:24,840
+thinking, this funnel structure is
+
+527
+00:16:23,000 --> 00:16:26,480
+longer than this one. Why will it work
+
+528
+00:16:24,840 --> 00:16:28,480
+better? Well, all comes down to
+
+529
+00:16:26,480 --> 00:16:30,600
+leveraging fundamental human psychology
+
+530
+00:16:28,480 --> 00:16:32,000
+in a way that isn't super duper abrupt
+
+531
+00:16:30,600 --> 00:16:33,720
+instead of what these guys are doing,
+
+532
+00:16:32,000 --> 00:16:35,000
+which is just getting immediately to buy
+
+533
+00:16:33,720 --> 00:16:37,040
+my product, buy my product. We're able
+
+534
+00:16:35,000 --> 00:16:38,600
+to sell people subconsciously with this
+
+535
+00:16:37,040 --> 00:16:39,840
+Chad funnel structure. But of course,
+
+536
+00:16:38,600 --> 00:16:41,800
+we're going to be using AI for this
+
+537
+00:16:39,840 --> 00:16:43,720
+whole process. Now, once again, I have
+
+538
+00:16:41,800 --> 00:16:46,160
+an entire SOP for building these
+
+539
+00:16:43,720 --> 00:16:48,480
+advertorials with AI inside of Claude.
+
+540
+00:16:46,160 --> 00:16:49,520
+The link is also in the description. But
+
+541
+00:16:48,480 --> 00:16:51,480
+walk you through what we're doing here
+
+542
+00:16:49,520 --> 00:16:53,280
+real quick. First, we're attaching all
+
+543
+00:16:51,480 --> 00:16:54,960
+of our foundational docs, which is all
+
+544
+00:16:53,280 --> 00:16:57,080
+of the research that we've done on our
+
+545
+00:16:54,960 --> 00:16:59,280
+customer to give it the initial piece of
+
+546
+00:16:57,080 --> 00:17:01,040
+context. Then we upload a swipe, which
+
+547
+00:16:59,280 --> 00:17:02,440
+is predator advertorial that's running
+
+548
+00:17:01,040 --> 00:17:03,960
+really well just so that it understands
+
+549
+00:17:02,440 --> 00:17:05,560
+the structure of a high-performing
+
+550
+00:17:03,960 --> 00:17:07,160
+advertorial. Then we have it rewrite it
+
+551
+00:17:05,560 --> 00:17:08,400
+based off of our brand. And then of
+
+552
+00:17:07,160 --> 00:17:09,760
+course, you want to copy chief it to
+
+553
+00:17:08,400 --> 00:17:11,720
+make sure the copy is up to your liking.
+
+554
+00:17:09,760 --> 00:17:13,840
+But just through that super duper simple
+
+555
+00:17:11,720 --> 00:17:15,960
+process that took me probably 4 and 1/2
+
+556
+00:17:13,840 --> 00:17:17,400
+minutes, this is the the that we already
+
+557
+00:17:15,960 --> 00:17:19,160
+have put together. You have reviews on
+
+558
+00:17:17,400 --> 00:17:20,880
+the side, we have good advertorial
+
+559
+00:17:19,160 --> 00:17:22,640
+structure, decent copy, needs to be
+
+560
+00:17:20,880 --> 00:17:24,200
+chiefed a little bit, and we need to add
+
+561
+00:17:22,640 --> 00:17:25,800
+the images in, which we can create in
+
+562
+00:17:24,200 --> 00:17:27,320
+Higgs Field and just upload them right
+
+563
+00:17:25,800 --> 00:17:30,080
+directly here in the chat. Once that is
+
+564
+00:17:27,320 --> 00:17:31,400
+done, this is the HTML file. So, you can
+
+565
+00:17:30,080 --> 00:17:32,880
+host this wherever you want. If you want
+
+566
+00:17:31,400 --> 00:17:35,120
+to host it on Shopify, if you want to
+
+567
+00:17:32,880 --> 00:17:36,600
+host it on ClickFunnels, on Funnelish,
+
+568
+00:17:35,120 --> 00:17:38,080
+or if you just want to run it on its own
+
+569
+00:17:36,600 --> 00:17:39,640
+separate domain, you can upload it to
+
+570
+00:17:38,080 --> 00:17:40,880
+CloudFlare and just run it there.
+
+571
+00:17:39,640 --> 00:17:43,320
+Doesn't really matter. What matters is
+
+572
+00:17:40,880 --> 00:17:44,680
+you have the HTML and all the components
+
+573
+00:17:43,320 --> 00:17:47,080
+of this page already done for you. Now,
+
+574
+00:17:44,680 --> 00:17:49,440
+the final thing I want to say is images
+
+575
+00:17:47,080 --> 00:17:50,680
+that you use in your ads should be
+
+576
+00:17:49,440 --> 00:17:52,560
+different than the images that you're
+
+577
+00:17:50,680 --> 00:17:54,560
+using on your landers. Your lander
+
+578
+00:17:52,560 --> 00:17:56,240
+images, they should all have a purpose.
+
+579
+00:17:54,560 --> 00:17:58,120
+Don't just put images on your website
+
+580
+00:17:56,240 --> 00:17:59,520
+just to make it look pretty. Every image
+
+581
+00:17:58,120 --> 00:18:02,040
+should serve a purpose. It should either
+
+582
+00:17:59,520 --> 00:18:04,360
+install a belief or overcome an
+
+583
+00:18:02,040 --> 00:18:06,360
+objection. So, ask yourself, number one,
+
+584
+00:18:04,360 --> 00:18:07,920
+is this image relevant to this section
+
+585
+00:18:06,360 --> 00:18:09,480
+of the article? And then number two, is
+
+586
+00:18:07,920 --> 00:18:11,080
+it either installing a belief or
+
+587
+00:18:09,480 --> 00:18:12,520
+overcoming some sort of limiting
+
+588
+00:18:11,080 --> 00:18:13,800
+objection? And just like that, you have
+
+589
+00:18:12,520 --> 00:18:15,160
+the entire advertorial, you have the
+
+590
+00:18:13,800 --> 00:18:16,400
+entire lander, you have the ads, you
+
+591
+00:18:15,160 --> 00:18:18,000
+have the product, and you have the
+
+592
+00:18:16,400 --> 00:18:20,720
+perfect market. Only thing left to do
+
+593
+00:18:18,000 --> 00:18:22,280
+now is to run more ads. Thank you guys
+
+594
+00:18:20,720 --> 00:18:23,440
+for watching this video. If you like
+
+595
+00:18:22,280 --> 00:18:25,320
+this content and you want a little bit
+
+596
+00:18:23,440 --> 00:18:27,040
+more guidance to help you through each
+
+597
+00:18:25,320 --> 00:18:28,720
+of these steps in even more depth, I do
+
+598
+00:18:27,040 --> 00:18:30,040
+have a mentorship program called Brand
+
+599
+00:18:28,720 --> 00:18:31,760
+Builders Academy. If you want to join,
+
+600
+00:18:30,040 --> 00:18:33,400
+you can always fill out an application
+
+601
+00:18:31,760 --> 00:18:34,680
+with the link in the description of this
+
+602
+00:18:33,400 --> 00:18:37,960
+video. Other than that, I'll see you on
+
+603
+00:18:34,680 --> 00:18:37,960
+the next video. Peace.
+

@@ -1,0 +1,840 @@
+# How to build 7-figure landing pages
+URL: https://www.youtube.com/watch?v=WVCH-E19eHg
+Category: stream
+Duration: 1910s
+Published: 20240418
+Transcript Type: auto
+
+============================================================
+
+[00:00:03] yo yo yo yo what's going on YouTube how
+[00:00:07] are we
+[00:00:08] doing give me one sec while I get
+[00:00:10] Instagram
+[00:00:20] rolling 3 two 1 and we're live what's
+[00:00:25] going on guys so welcome to the live
+[00:00:29] happy Thursday hope everybody is H
+[00:00:31] having a killer [ __ ] week and in
+[00:00:33] today's video as you can see we're going
+[00:00:35] to be going over how to create landing
+[00:00:37] pages for your e-commerce business for
+[00:00:39] your Shopify store because for anybody
+[00:00:42] that didn't watch my most recent YouTube
+[00:00:43] video step number one go watch the video
+[00:00:46] after this live is done but step number
+[00:00:48] two what I explained in that video is
+[00:00:50] that so much of your success in
+[00:00:52] e-commerce comes down to how well you
+[00:00:54] can structure your landing pages and I'm
+[00:00:57] going to quickly explain to you why
+[00:00:58] before I actually get into this dock
+[00:00:59] right here okay so here's why it's so
+[00:01:02] important number one most people have no
+[00:01:05] [ __ ] idea how to build landing pages
+[00:01:07] and I'm talking about like business
+[00:01:08] owners entrepreneurs they do not know
+[00:01:10] how to build High converting landing
+[00:01:13] pages that are optimized for high
+[00:01:15] converion rate and high aov so what does
+[00:01:18] this mean this means that your
+[00:01:20] competition the people that you're
+[00:01:22] competing with right now if you're to
+[00:01:23] start running ads and sending traffic to
+[00:01:25] like a regular product page um you have
+[00:01:27] no competitive advantage over them you
+[00:01:30] know this this took me a long time to
+[00:01:32] really understand when I was first
+[00:01:34] getting into Ecom but when you get into
+[00:01:37] Ecom you have to understand that in
+[00:01:40] order to win in order to find that
+[00:01:42] winning product in order to scale to
+[00:01:43] 100K million dollar 10 million you have
+[00:01:47] to have
+[00:01:49] some unfair
+[00:01:51] Advantage unfair competitive advantage
+[00:01:56] and so for us at ESS and BBA what we
+[00:01:59] teach is finding that unique uh
+[00:02:03] competitive advantage through building
+[00:02:05] the most badass landing pages on the
+[00:02:06] planet so then when you go and run your
+[00:02:08] ads right and everybody else all the
+[00:02:12] competition they're running all their
+[00:02:13] traffic to just a standard product page
+[00:02:16] like you'd find in like 2018 Drop
+[00:02:17] Shipping their aov is like $5 more than
+[00:02:21] their front-end product price so like
+[00:02:22] they're selling a product for $30 maybe
+[00:02:24] their aov is 35 whereas us we'll have an
+[00:02:28] aov of $80 for that exact same product
+[00:02:32] and our conversion rate won't be 1% 2%
+[00:02:35] it'll be
+[00:02:36] 3% and so in this video I'm going to
+[00:02:38] show you how you can build those landing
+[00:02:40] pages because that is really how you can
+[00:02:43] [ __ ] win at this game and as you can
+[00:02:45] see I got this doc pulled up right here
+[00:02:47] me make sure we're good with the live oh
+[00:02:49] yeah we're we're doing great so at any
+[00:02:51] point in time if you want this dock
+[00:02:53] right here okay just comment doc below
+[00:02:55] this video if you're on
+[00:02:58] Instagram DM me after this video but if
+[00:03:00] you're on YouTube comment below and I'll
+[00:03:02] send it to you right after this video
+[00:03:04] all right cool let's do it all right
+[00:03:07] step number one the three-part landing
+[00:03:09] page structure that made me Millions the
+[00:03:11] first section of the landing page is
+[00:03:13] what happens above the fold and this is
+[00:03:16] the part of the landing page that you
+[00:03:17] see without ever scrolling so like if
+[00:03:19] you open your phone and you're scrolling
+[00:03:21] through Facebook you're scrolling
+[00:03:22] through Instagram you get hit with an ad
+[00:03:23] you click the link that very first page
+[00:03:26] without scrolling is what's called above
+[00:03:28] the fold and this is the most important
+[00:03:30] part of the page because well why well
+[00:03:32] it determines whether or not a person is
+[00:03:35] going to leave or continue scrolling so
+[00:03:37] in that one section of the landing page
+[00:03:40] you have to be viciously competing to
+[00:03:44] get their
+[00:03:45] attention um so let's look at an
+[00:03:49] example at right here so this is a a
+[00:03:54] brand called proper
+[00:03:55] sleep and I know this may be a little
+[00:03:58] bit cut off for you guys on Instagram
+[00:04:00] but I'm going to do the best that I can
+[00:04:02] here um instantly this this section
+[00:04:06] right here so this rectangle without me
+[00:04:08] scrolling at all this is what's called
+[00:04:10] above the fold and here what did they do
+[00:04:13] really well well number one they hit the
+[00:04:15] number one most important outcome that
+[00:04:17] you can get if you use this product so I
+[00:04:20] don't want to spend a whole lot of time
+[00:04:21] on this but there is features and
+[00:04:23] there's benefits and there's outcomes
+[00:04:25] and your goal as a copywriter as a
+[00:04:28] marketer as a one writing writing the
+[00:04:30] words on this landing page you have to
+[00:04:32] write copy that sells the outcome that
+[00:04:35] sells the transformation what are people
+[00:04:37] going to get if they use this product
+[00:04:40] right so this is um this particular
+[00:04:44] product here I mean you have all this I
+[00:04:46] kind of scrolled right past the uh the
+[00:04:47] fold section let me not get ahead of
+[00:04:49] myself but this is a uh sleep supplement
+[00:04:53] product right and the very first
+[00:04:54] sentence immediately hits that outcome
+[00:04:57] get the best sleep of your life your
+[00:04:59] unique sleep issues require modern
+[00:05:00] individualized and holistic approach get
+[00:05:02] better sleep or your money back and then
+[00:05:04] boom the call to action same exact thing
+[00:05:07] it's all centered around the outcome
+[00:05:09] sleep better so this is a great example
+[00:05:13] of a pretty good above the fold section
+[00:05:15] on the landing page um they also I I
+[00:05:19] close it out immediately because that's
+[00:05:20] you know just our nature as humans but
+[00:05:24] there is a there was a popup that came
+[00:05:26] out I think it was 25% off for new
+[00:05:28] customers
+[00:05:29] and
+[00:05:31] additionally you feel like this brand
+[00:05:33] actually cares about your sleep why
+[00:05:35] because once again they're selling the
+[00:05:37] outcome they're not telling you
+[00:05:38] immediately like look at this laner
+[00:05:40] right they're not telling you
+[00:05:40] immediately what's in the product
+[00:05:42] they're not telling
+[00:05:43] you what it's made out of they're not
+[00:05:45] telling you the ingredients because at
+[00:05:48] the very very beginning that's not
+[00:05:49] important it's not important at all
+[00:05:53] first you want to get those outcomes
+[00:05:56] across and that is what they did really
+[00:05:59] really well
+[00:06:00] here okay so um next let's go ahead and
+[00:06:05] go to part number two so part number one
+[00:06:08] most important structure or most
+[00:06:10] important segment of the structure of a
+[00:06:12] high converting landing page is having a
+[00:06:14] really good above the fold section right
+[00:06:15] so let's let's review a good above the
+[00:06:18] fold section immediately communicates
+[00:06:21] the outcome that a person is going to
+[00:06:23] get if I were to scroll through Facebook
+[00:06:25] right now and I were to click on the
+[00:06:27] first Drop Shipping Store that I would
+[00:06:28] find
+[00:06:30] oh my God the copy is so horrendous guys
+[00:06:32] it's it's
+[00:06:34] like the like the fact that you have to
+[00:06:36] compete with these people is is
+[00:06:38] laughable because you can just come in
+[00:06:40] and absolutely destroy them if you know
+[00:06:42] just a little bit about your market and
+[00:06:44] a reasonable understanding of
+[00:06:45] copyrighting because these guys are
+[00:06:48] immediately selling features features
+[00:06:49] features at most benefits but not
+[00:06:52] outcomes so benefits are actually
+[00:06:54] different from outcomes um because the
+[00:06:57] outcome is the the basically like the
+[00:07:00] emotional outcome that you get as a
+[00:07:02] result of using a product remember
+[00:07:04] people buy based off of emotion and then
+[00:07:06] they justify it with logic so
+[00:07:09] immediately in your copy if you're not
+[00:07:10] tailoring to emotion I mean don't get me
+[00:07:13] wrong you need to you need to have like
+[00:07:14] the specific features of the product but
+[00:07:15] that's coming later initially people
+[00:07:17] need to know that this is going to solve
+[00:07:18] their problem that's all
+[00:07:19] entrepreneurship is that's all business
+[00:07:21] is it's finding people that have a
+[00:07:23] problem and then just communicating that
+[00:07:25] you have the solution and communicating
+[00:07:27] well enough that they pay you money
+[00:07:29] that's that's all it is that's all it is
+[00:07:32] so that's what you need to do in the
+[00:07:33] above the fold section again this is the
+[00:07:35] most important section if you were like
+[00:07:36] writing a oldfashioned sales letter this
+[00:07:39] would be like the headline and this
+[00:07:40] basically is the head headline but
+[00:07:42] specifically for Ecom this determines
+[00:07:44] whether or not people are going to stay
+[00:07:45] on your website and if you don't come
+[00:07:47] punching if you don't immediately hit
+[00:07:49] them with the outcome that they're going
+[00:07:51] to get you're going to lose them and if
+[00:07:52] you lose them you're going to lose money
+[00:07:54] if you lose money your ads aren't going
+[00:07:55] to work your ads aren't going to work
+[00:07:57] you're going to lose more money etc etc
+[00:07:58] etc all right let's go to the next
+[00:08:00] part part number two is pre-sale pages
+[00:08:04] okay so oh I [ __ ] love pre-sale Pages
+[00:08:07] guys pre-sale pages are product are
+[00:08:09] their landing pages that in the sequence
+[00:08:13] of the funnel come before the sales page
+[00:08:15] so the reason that I love pre-sale pages
+[00:08:17] so much is because you're basically
+[00:08:21] subliminally selling them without them
+[00:08:24] noticing right you're selling your
+[00:08:25] customers without it really feeling like
+[00:08:28] you're selling them and I'm going to
+[00:08:29] show a few examples here in a second um
+[00:08:33] but the reason that this is so powerful
+[00:08:35] is because your brain right is kind of
+[00:08:38] separated into two SE segments you have
+[00:08:40] the conscious brain and the subconscious
+[00:08:41] brain the conscious brain is the the
+[00:08:44] thoughts that you control yourself but
+[00:08:45] the subconscious controls 95% of your
+[00:08:48] thoughts like the conscious is only like
+[00:08:50] 5% the subconscious brain controls 95%
+[00:08:53] of your thoughts so if you're running a
+[00:08:55] landing page right do you think that
+[00:08:58] copy should tailor to the 95% or to the
+[00:09:01] 5% it's pretty clear right it should
+[00:09:03] tailor to the subconscious brain and
+[00:09:05] that's why these pages are so powerful
+[00:09:07] because when you just start running
+[00:09:09] traffic immediately to like a standard
+[00:09:10] product page and you're like hey buy my
+[00:09:12] [ __ ] buy my [ __ ] hey do you want to buy
+[00:09:13] this buy it buy it buy
+[00:09:16] it nobody's going to want to buy that
+[00:09:19] because you're immediately coming across
+[00:09:21] a salesy you trigger a ton of sales
+[00:09:22] resistance and unless you have the
+[00:09:24] perfect product with perfect copy it's
+[00:09:27] going to be really really hard to scale
+[00:09:28] a product like like that whereas
+[00:09:30] something like this you're casting a
+[00:09:31] wide net your ad doesn't feel like an ad
+[00:09:35] your pre-sale page it doesn't feel like
+[00:09:38] you're being sold
+[00:09:39] to and that's why these are so powerful
+[00:09:42] okay rant over so let's look at a few
+[00:09:45] examples by the way by the
+[00:09:48] way little secret hack for you guys
+[00:09:50] everybody watching live ready watch this
+[00:09:52] you're going to go to weather.com if you
+[00:09:54] want to find examples of higher
+[00:09:56] performing advertorials or pre-sale
+[00:09:58] Pages go to weather.com
+[00:09:59] okay you're going to scroll the [ __ ]
+[00:10:01] down scroll scroll scroll scroll scroll
+[00:10:04] scroll scroll scroll scroll okay until
+[00:10:06] you hit this section right [ __ ] here
+[00:10:09] sponsored
+[00:10:11] content in this section I mean a lot of
+[00:10:14] you guys probably know these Brands
+[00:10:15] these are some of these are big [ __ ]
+[00:10:17] Brands like doing five $10 million a
+[00:10:20] month like that big some sometimes more
+[00:10:23] um but this is a great place for you to
+[00:10:26] see the power of pre-sale pages um let's
+[00:10:29] see if I can find a good one that
+[00:10:31] doesn't um expose any of our clients
+[00:10:38] accidentally okay this this will be an
+[00:10:40] interesting one I'm not sure what we're
+[00:10:42] going to see here so bear with me but
+[00:10:45] these ads right here for those that
+[00:10:46] don't know this is called These are
+[00:10:48] called native ads and this is one of the
+[00:10:50] top websites for Native ads um just
+[00:10:53] going to weather.com but these are the
+[00:10:55] ads that you see at usually at the very
+[00:10:56] bottom or at the side of big big media
+[00:10:59] websites like weather.com news websites
+[00:11:04] Etc $2 caplet does what anti-aging drugs
+[00:11:08] surgery cannot all right I don't know
+[00:11:11] how successful this Lander is typically
+[00:11:13] if I'm looking at how much it's doing
+[00:11:14] I'll just pull up similar web again for
+[00:11:16] your Instagram guys you probably can't
+[00:11:17] see this but holy [ __ ] [ __ ] they're
+[00:11:19] getting over a million visits every
+[00:11:21] single month safe to say these guys are
+[00:11:23] [ __ ] killing it um again if this is
+[00:11:26] your brand I apologize I can take this
+[00:11:28] down
+[00:11:30] but uh this this is such a secret that
+[00:11:32] so many people don't know about is just
+[00:11:34] going to these websites and looking at
+[00:11:35] the native ads but I'm curious what this
+[00:11:38] website is going to sell here you can
+[00:11:39] see at the very top
+[00:11:41] avoral it's saying that it's an avoral
+[00:11:44] which is a type of pre-sell page now
+[00:11:47] when you land on this page right do you
+[00:11:49] feel like you're being sold to do you
+[00:11:51] feel like somebody's going like bye bye
+[00:11:53] bye bye bye no obviously not that's why
+[00:11:57] pre-sale pages are so powerful now
+[00:11:59] important caveat for pre-sale Pages
+[00:12:01] brother is going to be if you don't know
+[00:12:03] how to write good copy or you don't know
+[00:12:05] how to use AI to write good copy uh this
+[00:12:08] won't
+[00:12:09] work sorry but if you suck at writing
+[00:12:12] copy the pre-sale pages won't work for
+[00:12:14] you um that's why we teach that inside
+[00:12:16] of ESS uh teach you how to not just
+[00:12:19] write the copy but use AI to write like
+[00:12:21] 90% of it for you and it's actually
+[00:12:23] [ __ ] good but let's see what what we
+[00:12:26] got going on $2 caplet so this is
+[00:12:28] probably a supplement brand if I were to
+[00:12:30] guess but good way to tell is just keep
+[00:12:32] scrolling beyond all this information
+[00:12:34] section oh there we got the introduction
+[00:12:36] of the product NAD plus yeah I believe
+[00:12:38] it's an N8 plus supplement but this is
+[00:12:40] all all of this is the pre-sale page I
+[00:12:43] don't know if it's going to take me to a
+[00:12:44] sales page let's
+[00:12:48] see it does look at that and now we got
+[00:12:51] a beautiful sales page reverse the signs
+[00:12:53] of brain
+[00:12:55] fog uh reverse the signs of joint pain
+[00:12:58] this is this is actually [ __ ] great
+[00:13:01] great great Lander to uh to model now
+[00:13:03] this page since it's on a different
+[00:13:04] domain this one is also getting a lot of
+[00:13:06] [ __ ] traffic already over 200,000
+[00:13:08] visitors a month and for you guys are
+[00:13:10] like uh it's just visitors that doesn't
+[00:13:12] mean sales I know but here's how you can
+[00:13:15] uh do a quick little estimation I'm
+[00:13:17] guessing this page in particular is
+[00:13:19] converting at like 5% and the reason I
+[00:13:21] say that is because they're all coming
+[00:13:22] from the pre-sale page if I were to
+[00:13:24] calculate it from the pre-sale page then
+[00:13:26] that' probably be like 1 to 2% cuz this
+[00:13:28] is very very cold traffic but after they
+[00:13:30] reach the sales page that means the
+[00:13:31] traffic is going to be a lot warmer
+[00:13:32] right so if these guys uh
+[00:13:35] 200,000 in uh in March I'd say they're
+[00:13:39] at 300,000 for this month so if they're
+[00:13:41] doing 300,000 let's see how much the
+[00:13:43] product is here they got a nice bundle
+[00:13:46] discount
+[00:13:48] uh we got we got 12 months we got five
+[00:13:51] months we got three months and we got
+[00:13:53] one month uh
+[00:13:56] Christ 924 385 231 okay this is going to
+[00:14:01] be hard to guess their aov to be
+[00:14:03] conservative like Ultra Ultra
+[00:14:05] conservative I'm going to say it's
+[00:14:07] 150 but realistically it's probably over
+[00:14:10] 200 let's just say it's 150 right so the
+[00:14:12] reason I do that is 150 time
+[00:14:15] 300,000 300,000 uh visitors per
+[00:14:20] month multiply that by conversion rate
+[00:14:22] of like 5% that' be 15,000 buyers times
+[00:14:25] 150 boom they're doing $2 million a
+[00:14:28] month and I ly think that's right
+[00:14:29] because they're pushing so much traffic
+[00:14:32] to this adoral page right here and this
+[00:14:35] is just one of their pages I haven't
+[00:14:36] even been retargeted with other ones yet
+[00:14:38] so long story short there's not a lot of
+[00:14:42] selling going on in these uh these
+[00:14:43] pre-sell Pages it's supposed to be
+[00:14:45] framed as like an
+[00:14:47] information oriented page where you're
+[00:14:49] not really being sold to but as you
+[00:14:51] scroll down the page you'll notice more
+[00:14:53] and more and more based off the copy
+[00:14:55] that they are selling you and it's just
+[00:14:57] super [ __ ] badass because the people
+[00:14:59] that know how to do this are just raking
+[00:15:01] it in right now and this is this is all
+[00:15:03] of our clients by the way and they're
+[00:15:04] just [ __ ] killing it and um I really
+[00:15:07] believe that this is the best way to to
+[00:15:09] build ending pages right now is to have
+[00:15:11] a structure like this where you do have
+[00:15:12] a pre-sale page you immediately hit them
+[00:15:15] you persuade them the entire way down
+[00:15:17] and lead them to a sales page and Order
+[00:15:18] page then your entire upsale process
+[00:15:20] after that we'll get to that
+[00:15:23] cool again guys if you want this entire
+[00:15:26] document just comment the word Lander
+[00:15:29] okay comment the word Lander and I will
+[00:15:31] send you this document okay let's go
+[00:15:37] to part number three because I spent
+[00:15:39] probably way too much time on part
+[00:15:40] number
+[00:15:41] two okay so part number three is
+[00:15:45] experimenting with page elements all
+[00:15:48] right now I didn't I didn't go into like
+[00:15:51] a specific landing page and kind of
+[00:15:53] break it down step by step and that's
+[00:15:55] part of what I'm going to do here but I
+[00:15:57] want to show you some crucial elements
+[00:15:58] that you need to have on your landing
+[00:16:00] page it doesn't matter if you're running
+[00:16:01] pre-sale Pages or just a standard sales
+[00:16:03] page whatever it is you need to have
+[00:16:05] these elements in here right and element
+[00:16:07] number one is using social proof so this
+[00:16:10] is reviews of your product this is uh
+[00:16:13] famous people that have used your
+[00:16:14] product if that applies to you um
+[00:16:18] testimonials reviews Etc so let's look
+[00:16:20] at a good example of this
+[00:16:26] here so here we have have a nice little
+[00:16:30] pre-sale page right how do I know it's a
+[00:16:32] pre-sale page well because I'm not
+[00:16:33] immediately being sold to and five
+[00:16:35] reasons why anytime it's like five
+[00:16:38] reasons why 10 things to do uh four
+[00:16:41] gifts that you need to gift that's
+[00:16:43] called a listicle all right it's a
+[00:16:45] little bit different from an ADV vtorial
+[00:16:46] because an ad vtorial is a combination
+[00:16:49] of an ad and an editorial kind of into
+[00:16:52] one this on the other hand is it's a
+[00:16:55] little bit lower in terms of the it's a
+[00:16:57] low little bit lower down the funnel so
+[00:16:59] it's not like casting a super super wide
+[00:17:01] net like you do with an ADV tutorial
+[00:17:04] because again you mentioned the brand
+[00:17:05] here so you're still selling a little
+[00:17:07] bit but it's not just like a straight
+[00:17:09] product page or a sales
+[00:17:11] page here's why women are loving this
+[00:17:13] brand new brand over non-alcoholic wines
+[00:17:17] on the market so they're going to list
+[00:17:19] five reasons why and again these these
+[00:17:21] shouldn't be like random reasons these
+[00:17:24] need to be researched reasons which if
+[00:17:27] you guys want a little hack and you want
+[00:17:28] to use AI to your advantage what you can
+[00:17:30] do is go into Amazon find your product
+[00:17:33] on Amazon um doesn't have to be
+[00:17:35] obviously your exact product but find a
+[00:17:37] similar product or if you can find the
+[00:17:38] exact product use that go to the reviews
+[00:17:41] grab all of the five star reviews copy
+[00:17:44] and paste them into a document and then
+[00:17:46] grab all the really low star reviews
+[00:17:48] like one two stars and then paste those
+[00:17:50] into another document and then you're
+[00:17:52] going to head to chat gbt and what
+[00:17:55] you're going to do in chat gbt is you're
+[00:17:57] going to type up a prompt that basically
+[00:18:00] analyzes all of the reviews and then
+[00:18:03] comes up with the top reasons that
+[00:18:04] people enjoy this product right bada
+[00:18:07] bing bada boom you got the five top
+[00:18:09] reasons that people actually liked it
+[00:18:10] based off data don't guess this [ __ ]
+[00:18:13] there should be there should be very
+[00:18:14] little guessing in Ecom in general um
+[00:18:17] everything should be researched
+[00:18:18] everything should be based off data and
+[00:18:22] it's usually really clear to me at least
+[00:18:24] I mean I'm more of a season marketer
+[00:18:26] I've been in the game for like six years
+[00:18:27] but it's pretty clear to me when
+[00:18:28] somebody doesn't know [ __ ] about their
+[00:18:30] Market you can just look at one of their
+[00:18:31] ads or look one of their lers and be
+[00:18:32] like that just no what are you
+[00:18:36] doing so no more wine weight boom
+[00:18:40] thousands of raising raving fans you hit
+[00:18:42] the social proof line right there
+[00:18:44] worried about the taste so clearly like
+[00:18:46] the taste is the most important thing
+[00:18:47] for a
+[00:18:49] non-alcoholic
+[00:18:50] wine and you can you can notice that
+[00:18:53] because they hit it twice tastes amazing
+[00:18:55] and then point number four is worried
+[00:18:57] about taste
+[00:18:59] so I'm guessing for the people that want
+[00:19:01] to drink wine but don't want the
+[00:19:03] alcoholic element in it um they're
+[00:19:05] worried that the taste is going to be
+[00:19:06] shitty which is understandable the
+[00:19:08] easiest way to cut back on drinking and
+[00:19:10] then you're hitting the main deepest
+[00:19:13] reason why people are probably getting
+[00:19:14] into this in the first place because you
+[00:19:17] know drink a little bit too
+[00:19:19] much and then really nice social proof
+[00:19:22] here I love this gift here it shows the
+[00:19:24] brand shows a perfect example of an
+[00:19:27] experience that someone would have using
+[00:19:29] this product so that is a great example
+[00:19:32] of using social proof on your Lander all
+[00:19:36] right Point number two before and after
+[00:19:38] picks all right now for people that have
+[00:19:41] not been in Ecom before really important
+[00:19:43] Point here you have to be really careful
+[00:19:46] with before and afters if you're running
+[00:19:48] paid ads especially on Facebook because
+[00:19:51] if your before and after is very
+[00:19:54] aggressive you could get your ads shut
+[00:19:57] down you could get your ad account shut
+[00:19:58] down BM shut down paage shut down all
+[00:20:01] your [ __ ] shut down and nobody wants
+[00:20:03] that so let's look at a an example
+[00:20:08] here of uh oh it looks like they changed
+[00:20:11] it actually they used to have it maybe
+[00:20:13] they changed it because of Facebook they
+[00:20:16] used to have a before and after on on
+[00:20:17] this Lander but it looks like they
+[00:20:18] adjusted it
+[00:20:21] um let's see this one
+[00:20:27] here again guys if you want this entire
+[00:20:29] document by the way you want all the
+[00:20:31] secrets all these examples just comment
+[00:20:33] the word Lander below this video or uh
+[00:20:35] if you're watching live on IG comment
+[00:20:37] Lander send me a DM Lander Lander Lander
+[00:20:40] Lander and I'll send this to you so this
+[00:20:43] is a good example of a before and after
+[00:20:45] again I know you IG guys you can't see
+[00:20:46] it exactly but you can see it kind of
+[00:20:49] other brands versus true Classic this
+[00:20:53] immediately hits the like the number one
+[00:20:55] unique selling proposition for this
+[00:20:56] brand which is that even even if you got
+[00:20:58] a little bit of a belly it's not going
+[00:21:00] to make you look fat if you have uh it's
+[00:21:04] like it's basically like the equivalent
+[00:21:07] of shapew wear for women it's true
+[00:21:11] classic for men like even if you don't
+[00:21:13] have the best physique even if you're
+[00:21:15] not super in shape you could still look
+[00:21:18] good so great [ __ ] unique selling
+[00:21:21] proposition I love it and this before
+[00:21:23] and after makes it so clear like I
+[00:21:25] wouldn't need to know a whole lot more
+[00:21:26] about this product just by looking at it
+[00:21:29] um if I'm the type of you know prospect
+[00:21:31] that they're going after this is
+[00:21:33] actually true classic T right here
+[00:21:35] repping
+[00:21:37] it all right Point number three build
+[00:21:40] Authority P like places you have been
+[00:21:43] featured so the great place to do this
+[00:21:46] on your Lander is still right above the
+[00:21:48] fold because it builds a lot of
+[00:21:49] credibility and if you're a new brand
+[00:21:52] then you know there's actually ways that
+[00:21:53] you can still get these like
+[00:21:55] endorsements
+[00:21:57] um most of these are paid for hopefully
+[00:21:59] you guys realize like most of the brands
+[00:22:01] that have these are either just straight
+[00:22:02] up line or they paid for them in some
+[00:22:05] way so I'm not saying that you should
+[00:22:07] just put these on your website even
+[00:22:08] though you haven't been featured on
+[00:22:09] there but there if you have been or if
+[00:22:13] you want to be featured on here um you
+[00:22:16] can reach out to the independent
+[00:22:17] journalists that are associated with
+[00:22:18] these Brands and get your business some
+[00:22:21] free exposure if that's something that
+[00:22:22] you're interested in but this
+[00:22:23] immediately adds a lot of credibility a
+[00:22:26] lot of credibility especially for people
+[00:22:28] that have never SE seen your brand
+[00:22:29] before they now know that you've been
+[00:22:31] associated with these big Brands and
+[00:22:33] you've been featured here it creates a
+[00:22:36] more of a luxury brand sentiment
+[00:22:39] compared to if they were not to have
+[00:22:41] this at
+[00:22:44] all Point number four is a how it works
+[00:22:47] section now if you think of like the
+[00:22:50] structure of a landing page it typically
+[00:22:51] should follow the adaa format which is
+[00:22:53] attent attention interest desire and
+[00:22:56] action and so the how it works section
+[00:22:59] is going to be um either interest or
+[00:23:02] desire typically interest so it should
+[00:23:04] be around the middle if not middle
+[00:23:07] bottom like
+[00:23:09] 75% down the page right so let's look at
+[00:23:12] a good example here of like how it
+[00:23:24] works scroll down scroll down scroll
+[00:23:26] down scroll down boom
+[00:23:29] how apostrophe Works number one online
+[00:23:33] Dermatology visit number two
+[00:23:35] prescription treatment deliver your door
+[00:23:36] number three smoother clearer
+[00:23:39] skin pretty simple and that's exactly
+[00:23:42] way your customer should be feeling so
+[00:23:44] this only really works for for products
+[00:23:46] that need an explanation like if you're
+[00:23:48] selling fashion products or you're
+[00:23:51] selling clothing or you're selling shoes
+[00:23:54] or something that you can look at and
+[00:23:56] know exactly what it is without
+[00:23:57] explanation it's not necess necessary
+[00:23:59] but if you're selling any typee of
+[00:24:00] Gadget uh electronic product um kitchen
+[00:24:04] related product sometimes even even like
+[00:24:06] Health and Beauty those types of
+[00:24:08] products that how it works section can
+[00:24:10] be very very
+[00:24:11] powerful all right so next section I'm
+[00:24:15] not going to go over comparison tables
+[00:24:16] and money back guarantees but this
+[00:24:18] section should basically go very very
+[00:24:20] near the bottom of the page and this is
+[00:24:22] overcoming objections with an FAQ
+[00:24:25] section okay so let's check out the
+[00:24:28] let's go back to the mud water
+[00:24:31] paid so mud water initially after even
+[00:24:34] saying the name there's going to be some
+[00:24:36] objections is there actually mud in my
+[00:24:39] water let's find
+[00:24:41] out I scrolled past it too fast but it's
+[00:24:43] right here this this Q&A section here
+[00:24:45] what does it taste like what are the
+[00:24:47] benefits what are the where are the
+[00:24:50] mushrooms grown how much caffeine can I
+[00:24:52] drink while pregnant how is a Whole 30
+[00:24:55] with oats on the label okay again all
+[00:24:58] this [ __ ] should be researched prior
+[00:25:01] that same process that I told you with
+[00:25:02] using Amazon reviews you can come and
+[00:25:04] use that process for the q&a's as well
+[00:25:07] so again you're going to go to Amazon
+[00:25:09] get as many reviews as possible ideally
+[00:25:12] 30 plus of the top reviews and then the
+[00:25:14] worst reviews upload those into a doc
+[00:25:17] and then have chat gbt cross analyze
+[00:25:19] them so that you can figure out what the
+[00:25:21] biggest objections are to the product
+[00:25:23] and organize them into a list based off
+[00:25:25] of the frequency mentioned so the ones
+[00:25:28] that are mentioned the most are going to
+[00:25:29] be the most important objections that
+[00:25:31] you need to handle first so that's why
+[00:25:33] you want to use that uh that little
+[00:25:34] frequency line in your chat chbt
+[00:25:36] response by the way if you guys want a
+[00:25:37] video on using chat gbt no joke I
+[00:25:40] probably use it every single day either
+[00:25:42] for writing copy systematizing things
+[00:25:44] doing market research Etc if you want a
+[00:25:48] video on that write AI in the comments
+[00:25:52] and if I get enough comments that say AI
+[00:25:55] then I'll make a video on it all right
+[00:25:58] so that's it for the landing page
+[00:26:01] structure I mean the biggest takeaway
+[00:26:03] here again if you guys want this entire
+[00:26:04] doc just comment Lander um if you're
+[00:26:06] live comment Lander DM me Lander um if
+[00:26:09] you're Live on YouTube Just comment the
+[00:26:11] word Lander and I'll send it right after
+[00:26:13] um the biggest takeaway here is going to
+[00:26:16] be what is your unique differentiator if
+[00:26:21] you're going into Ecom and you're
+[00:26:22] starting your own store you can't do
+[00:26:24] what everybody else is doing that's the
+[00:26:25] best way to lose a lot of money so you
+[00:26:27] have to do something better and you can
+[00:26:29] do that by selling a better product that
+[00:26:32] nobody else is selling which is really
+[00:26:34] [ __ ] hard to do and highly not
+[00:26:35] recommended it's like selling those
+[00:26:37] untapped products you can also do what
+[00:26:41] we're doing here which is outcompete
+[00:26:43] everybody with a badass landing page
+[00:26:46] with a badass funnel because then you
+[00:26:49] can outscale all your competitors right
+[00:26:51] there's a very famous quote by a legend
+[00:26:54] legendary marketer named Dan Kennedy and
+[00:26:57] Dan Kennedy
+[00:26:59] said the business that can spend the
+[00:27:01] most to acquire a customer
+[00:27:04] wins if you have an aov in your store of
+[00:27:07] $30 and I have an aov of
+[00:27:12] $60 if you take into a consideration
+[00:27:15] like we have the same product cost we
+[00:27:16] have the same whatever I can spend a lot
+[00:27:19] more money to acquire a c a customer and
+[00:27:21] still be
+[00:27:23] profitable I'd kick your
+[00:27:25] ass like I would outscale you
+[00:27:28] and that's the way that you have to look
+[00:27:30] at Ecom in general what is your unique
+[00:27:32] differentiator going to be what is your
+[00:27:35] competitive Advantage what is your
+[00:27:37] unfair advantage and for us we choose
+[00:27:40] landing pages because it's the easiest
+[00:27:41] thing to compete on um one of my mentors
+[00:27:44] Alan sultanic has a concept of competing
+[00:27:47] based off of Economics competing on
+[00:27:49] economics so instead of competing on
+[00:27:51] copy like who has the best copy instead
+[00:27:53] of competing on creatives which we also
+[00:27:56] kind of recommend um but we're competing
+[00:27:58] on funnel
+[00:28:00] economics who can spend the most to
+[00:28:02] acquire a customer and if you have
+[00:28:05] higher aovs you have higher ctrs uh you
+[00:28:08] have higher cvrs excuse me like a higher
+[00:28:10] conversion rate um your customers are
+[00:28:13] going to be more valuable to your
+[00:28:14] business you're going to be able to
+[00:28:15] spend more to acquire a customer
+[00:28:16] Facebook is going to send you more
+[00:28:18] traffic you can bid higher than other
+[00:28:20] people on your Facebook ads and still be
+[00:28:23] profitable and it's the best way to make
+[00:28:25] money in Ecom to this day if you use
+[00:28:28] real landing pages that convert people
+[00:28:29] like a
+[00:28:30] [ __ ] Okay
+[00:28:33] so last last thing guys if you want this
+[00:28:36] video just comment Lander anywhere just
+[00:28:38] comment on the live comment in the uh
+[00:28:40] the comment section below um and again
+[00:28:45] like I said everything here that I just
+[00:28:47] told you is kind of just a a breeze
+[00:28:49] through everything I could go into depth
+[00:28:52] and create like hours upon hours of
+[00:28:54] training for each individual Point here
+[00:28:57] but uh I don't have hours upon hours to
+[00:28:59] do that so this is exactly what we teach
+[00:29:02] inside of our brand Builder Academy
+[00:29:04] program in our ESS program so if you
+[00:29:07] want to get into Ecom and you don't have
+[00:29:08] a store yet or you have a store but it's
+[00:29:11] not making a lot of money it's anything
+[00:29:13] under like 30 to 50,000 per month then I
+[00:29:16] want you to go to Instagram and DM me
+[00:29:20] the word ready and if you DM me the word
+[00:29:23] ready um I'll just ask you a few
+[00:29:26] questions and see if you're a good fit
+[00:29:27] for our brand builders acad program cuz
+[00:29:28] everything we teach here everything I
+[00:29:30] teach in all the lives um is exactly
+[00:29:32] what we teach inside of brand Builder
+[00:29:34] Academy and we have the [ __ ] down to a
+[00:29:36] science we know exactly what works
+[00:29:38] exactly what doesn't we spent Millions
+[00:29:40] upon millions of dollars building the
+[00:29:41] best community the best program on the
+[00:29:43] planet so go to my Ig Mark builds Brands
+[00:29:46] DM me the word ready if you're
+[00:29:47] interested in that or let's say you
+[00:29:49] already have a brand and it's doing 50
+[00:29:51] 100 200 500k a month but you just want
+[00:29:55] to take it to the next level you're
+[00:29:56] tired of trying to spend more money
+[00:29:58] money on ads and it just not working out
+[00:29:59] your row ass drops you're just like why
+[00:30:02] I've tried this in creatives I've tried
+[00:30:03] this I've tried that this is exactly
+[00:30:05] what you need you need to apply these
+[00:30:09] high converting landing page strategies
+[00:30:11] into your business because nobody really
+[00:30:13] teaches this [ __ ] like you're not going
+[00:30:16] to find this on a YouTube video most
+[00:30:18] likely uh my partner Alex has some good
+[00:30:21] content on advertorials but like that's
+[00:30:22] it like he's ranking top for that for
+[00:30:25] that keyword everywhere so you you can
+[00:30:28] definitely check out those videos but
+[00:30:29] the best content is going to be found
+[00:30:31] inside of our program um because you get
+[00:30:34] what you pay for at the end of the day
+[00:30:35] so if you want like some direct
+[00:30:37] one-on-one trading from from me and my
+[00:30:39] team Alex FedEd off and our team uh just
+[00:30:43] DM me on Instagram don't comment DM me
+[00:30:45] the letters ESS on Instagram again it's
+[00:30:48] Mark builds Brands um shoot me a follow
+[00:30:51] too if you're not already but DM me the
+[00:30:53] word ESS I'll just ask a few questions
+[00:30:55] and see if you're a good fit for
+[00:30:58] or highle program because you want to
+[00:31:00] get to the next level like you don't
+[00:31:02] want to settle at the level that you are
+[00:31:04] and if you're watching this video right
+[00:31:06] now I'm sure that message resonates with
+[00:31:08] you as it does you know with me and you
+[00:31:11] never want to stop you always want to
+[00:31:12] get to the next level as soon as you hit
+[00:31:14] like 100k a month you're like [ __ ] I
+[00:31:16] need to do 200k a month as soon as you
+[00:31:18] hit 200 you're like [ __ ] I need to do
+[00:31:20] 500 then you hit to 500 then a million
+[00:31:23] and it just keeps getting farther and
+[00:31:25] farther away so again if you guys want
+[00:31:26] to work with me at all if you're a
+[00:31:28] little bit less experienced and you want
+[00:31:29] to get your store off the ground DM me
+[00:31:32] the word ready or if you want to apply
+[00:31:34] for our ESS program just DM me the word
+[00:31:36] esss all right that's it for this video
+[00:31:38] guys thank you for for joining um if you
+[00:31:41] have any feedback on these lives you
+[00:31:42] know new topics that you want me to
+[00:31:43] cover just send me a DM on IG I'm most
+[00:31:45] active there and other than that

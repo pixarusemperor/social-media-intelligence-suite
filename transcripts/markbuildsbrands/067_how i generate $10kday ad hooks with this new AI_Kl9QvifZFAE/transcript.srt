@@ -1,0 +1,1248 @@
+1
+00:00:00,000 --> 00:00:02,880
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,600 --> 00:00:06,160
+going to be going over how you can
+
+3
+00:00:02,880 --> 00:00:07,600
+create endless winning ad hooks using AI
+
+4
+00:00:06,160 --> 00:00:09,760
+so that you don't even have to freaking
+
+5
+00:00:07,600 --> 00:00:11,920
+think. And this entire process, entire
+
+6
+00:00:09,760 --> 00:00:14,160
+strategy is based off one very simple
+
+7
+00:00:11,920 --> 00:00:15,840
+but very unpopular fact. And that one
+
+8
+00:00:14,160 --> 00:00:17,440
+simple fact is that content creators
+
+9
+00:00:15,840 --> 00:00:19,920
+suck. And when I say they suck, what I
+
+10
+00:00:17,440 --> 00:00:22,400
+specifically mean is they suck at making
+
+11
+00:00:19,920 --> 00:00:24,080
+money. They're so so so good at
+
+12
+00:00:22,400 --> 00:00:25,440
+garnering all this attention, getting
+
+13
+00:00:24,080 --> 00:00:26,960
+all these views, all these followers,
+
+14
+00:00:25,440 --> 00:00:28,240
+all these vanity metrics, but they suck
+
+15
+00:00:26,960 --> 00:00:29,360
+at actually converting it. So, we can
+
+16
+00:00:28,240 --> 00:00:31,120
+take advantage of that as smart
+
+17
+00:00:29,360 --> 00:00:33,360
+advertisers, smart marketers. We could
+
+18
+00:00:31,120 --> 00:00:35,760
+take advantage of their ability to
+
+19
+00:00:33,360 --> 00:00:37,520
+create really popular hooks and use
+
+20
+00:00:35,760 --> 00:00:39,680
+those ourselves in our ads. And all we
+
+21
+00:00:37,520 --> 00:00:41,760
+have to do is inject a little bit of
+
+22
+00:00:39,680 --> 00:00:43,200
+highquality direct response copy into
+
+23
+00:00:41,760 --> 00:00:44,640
+those ads to actually make them convert.
+
+24
+00:00:43,200 --> 00:00:46,400
+That's what most content creators don't
+
+25
+00:00:44,640 --> 00:00:47,840
+understand. That's why most of them are
+
+26
+00:00:46,400 --> 00:00:49,920
+completely broke. There's a reason that
+
+27
+00:00:47,840 --> 00:00:51,840
+there's a term for influencers called
+
+28
+00:00:49,920 --> 00:00:53,200
+the broke influencer syndrome. But we
+
+29
+00:00:51,840 --> 00:00:54,400
+can use that to our advantage. Now, the
+
+30
+00:00:53,200 --> 00:00:55,920
+question becomes, how do you actually
+
+31
+00:00:54,400 --> 00:00:57,280
+make a good hook? like how do you know
+
+32
+00:00:55,920 --> 00:00:58,640
+that this is a good hook versus a bad
+
+33
+00:00:57,280 --> 00:01:00,640
+hook? How do I know that it's a hook of
+
+34
+00:00:58,640 --> 00:01:02,160
+the ad that sucks versus everything
+
+35
+00:01:00,640 --> 00:01:03,440
+else? Well, for that there's actually
+
+36
+00:01:02,160 --> 00:01:05,040
+something that you can do and something
+
+37
+00:01:03,440 --> 00:01:07,680
+that you should look at as a metric
+
+38
+00:01:05,040 --> 00:01:10,000
+called your hook rate. Now, this is not
+
+39
+00:01:07,680 --> 00:01:11,760
+something that is natively within the
+
+40
+00:01:10,000 --> 00:01:13,120
+Facebook ads dashboard if you're running
+
+41
+00:01:11,760 --> 00:01:14,560
+ads on Facebook or if you're running ads
+
+42
+00:01:13,120 --> 00:01:15,920
+on TikTok. Same thing. But you can
+
+43
+00:01:14,560 --> 00:01:17,280
+create custom metrics inside of your
+
+44
+00:01:15,920 --> 00:01:18,800
+Facebook ads account. So, for example,
+
+45
+00:01:17,280 --> 00:01:20,960
+this account here and all you have to do
+
+46
+00:01:18,800 --> 00:01:22,800
+is go to columns. You're going to hit
+
+47
+00:01:20,960 --> 00:01:24,960
+edit to one of your custom columns. Go
+
+48
+00:01:22,800 --> 00:01:27,200
+to custom and just select create custom
+
+49
+00:01:24,960 --> 00:01:28,560
+metric. Now let's call this the hook
+
+50
+00:01:27,200 --> 00:01:29,840
+rate. And the way that we calculate the
+
+51
+00:01:28,560 --> 00:01:31,760
+hook rate, it's actually very very
+
+52
+00:01:29,840 --> 00:01:33,360
+simple. All we're going to do is 3se
+
+53
+00:01:31,760 --> 00:01:34,960
+second video plays divided by
+
+54
+00:01:33,360 --> 00:01:36,560
+impressions. This is what your actual
+
+55
+00:01:34,960 --> 00:01:38,080
+hook rate is. So you're going to select
+
+56
+00:01:36,560 --> 00:01:39,600
+create metric right here. So from here
+
+57
+00:01:38,080 --> 00:01:41,520
+all you have to do is hit create metric
+
+58
+00:01:39,600 --> 00:01:43,120
+and then you want to specifically search
+
+59
+00:01:41,520 --> 00:01:44,640
+for hook rate so that you can add it to
+
+60
+00:01:43,120 --> 00:01:46,640
+your custom column. Now the cool part is
+
+61
+00:01:44,640 --> 00:01:47,760
+you can look at this at each individual
+
+62
+00:01:46,640 --> 00:01:49,120
+creative. For example, these two
+
+63
+00:01:47,760 --> 00:01:51,680
+creatives here. This one has a hook rate
+
+64
+00:01:49,120 --> 00:01:53,120
+of 49%. That means about 50% of the
+
+65
+00:01:51,680 --> 00:01:55,120
+audience is sticking around to continue
+
+66
+00:01:53,120 --> 00:01:56,400
+watching the ad after 3 seconds of the
+
+67
+00:01:55,120 --> 00:01:58,000
+video has played. And then this one's
+
+68
+00:01:56,400 --> 00:01:59,760
+36%. So the hook rate you should really
+
+69
+00:01:58,000 --> 00:02:02,600
+be shooting for. And this should be like
+
+70
+00:01:59,760 --> 00:02:05,360
+what you're trying to reach as a KPI is
+
+71
+00:02:02,600 --> 00:02:06,640
+50%. If you have a hook rate of 50% or
+
+72
+00:02:05,360 --> 00:02:08,320
+more, that means that the hook of your
+
+73
+00:02:06,640 --> 00:02:10,480
+ad is really doing its job. It's very,
+
+74
+00:02:08,320 --> 00:02:11,760
+very much so performing really well. So
+
+75
+00:02:10,480 --> 00:02:13,040
+the question now becomes, how do we
+
+76
+00:02:11,760 --> 00:02:14,560
+actually find these? Well, what we're
+
+77
+00:02:13,040 --> 00:02:16,800
+going to do is we're going to hop into
+
+78
+00:02:14,560 --> 00:02:18,560
+an AI agent software. I've been using
+
+79
+00:02:16,800 --> 00:02:20,320
+one recently called GenSpark. It's
+
+80
+00:02:18,560 --> 00:02:22,320
+actually called GenSpark super agent.
+
+81
+00:02:20,320 --> 00:02:24,480
+It's kind of a little sub microcosm
+
+82
+00:02:22,320 --> 00:02:26,240
+within Gemspark, but you can also use
+
+83
+00:02:24,480 --> 00:02:27,920
+operator within Chacht. They all kind of
+
+84
+00:02:26,240 --> 00:02:29,520
+do the same thing, but this one in my
+
+85
+00:02:27,920 --> 00:02:31,040
+experience is just significantly faster
+
+86
+00:02:29,520 --> 00:02:32,480
+than Operator, which is like my biggest
+
+87
+00:02:31,040 --> 00:02:34,240
+complaint that I have about operator.
+
+88
+00:02:32,480 --> 00:02:36,000
+So, all you're going to do is paste in a
+
+89
+00:02:34,240 --> 00:02:37,920
+very simple prompt. Now, the prompt that
+
+90
+00:02:36,000 --> 00:02:38,880
+I have here is so freaking simple. I
+
+91
+00:02:37,920 --> 00:02:40,160
+don't even think I need to share it.
+
+92
+00:02:38,880 --> 00:02:41,520
+I'll put it in the description of this
+
+93
+00:02:40,160 --> 00:02:42,960
+video. Like, it's it's literally one
+
+94
+00:02:41,520 --> 00:02:44,800
+single line. But I did a little bit of
+
+95
+00:02:42,960 --> 00:02:46,480
+experimentation and what I realized is
+
+96
+00:02:44,800 --> 00:02:48,080
+that the longer I made the prompt, the
+
+97
+00:02:46,480 --> 00:02:49,920
+worse of an output that I actually got.
+
+98
+00:02:48,080 --> 00:02:51,760
+And so for this example, all I'm saying
+
+99
+00:02:49,920 --> 00:02:53,520
+is I want you to search on Tik Tok terms
+
+100
+00:02:51,760 --> 00:02:55,280
+around dog supplements. You can enter
+
+101
+00:02:53,520 --> 00:02:56,560
+your niche there and identify the videos
+
+102
+00:02:55,280 --> 00:02:57,920
+that have the highest performance in
+
+103
+00:02:56,560 --> 00:02:59,600
+relation to the overall channel size.
+
+104
+00:02:57,920 --> 00:03:01,920
+Favor the videos that have lots of views
+
+105
+00:02:59,600 --> 00:03:02,960
+but very few followers and identify the
+
+106
+00:03:01,920 --> 00:03:04,240
+winning hooks that are associated with
+
+107
+00:03:02,960 --> 00:03:05,680
+these videos. So, the reason that I had
+
+108
+00:03:04,240 --> 00:03:06,800
+that little stipulation in there is
+
+109
+00:03:05,680 --> 00:03:08,080
+because you could have a creator that
+
+110
+00:03:06,800 --> 00:03:09,280
+has millions and millions of followers
+
+111
+00:03:08,080 --> 00:03:11,440
+and they have a video that gets, you
+
+112
+00:03:09,280 --> 00:03:12,960
+know, 500,000 views or a million views,
+
+113
+00:03:11,440 --> 00:03:14,880
+but most of it is just the existing
+
+114
+00:03:12,960 --> 00:03:16,160
+audience. I want to see the videos that
+
+115
+00:03:14,880 --> 00:03:17,520
+are helping the smaller creators
+
+116
+00:03:16,160 --> 00:03:18,720
+completely pop off because that's how
+
+117
+00:03:17,520 --> 00:03:20,320
+you really know the hook and the content
+
+118
+00:03:18,720 --> 00:03:22,400
+of that video is very very strong. So,
+
+119
+00:03:20,320 --> 00:03:24,240
+in this case, let's use the the dog
+
+120
+00:03:22,400 --> 00:03:26,560
+supplements just as an example, but you
+
+121
+00:03:24,240 --> 00:03:28,560
+can put hair loss for women, hair loss
+
+122
+00:03:26,560 --> 00:03:30,640
+for men, you can put in baking products,
+
+123
+00:03:28,560 --> 00:03:32,720
+you can put in pet like just describe
+
+124
+00:03:30,640 --> 00:03:34,240
+the problem. Don't describe the product.
+
+125
+00:03:32,720 --> 00:03:35,760
+describe the specific problem like
+
+126
+00:03:34,240 --> 00:03:37,440
+whether that's weight loss, whether that
+
+127
+00:03:35,760 --> 00:03:38,720
+is survival, I don't care. Just describe
+
+128
+00:03:37,440 --> 00:03:40,080
+the problem and we're going to hit
+
+129
+00:03:38,720 --> 00:03:42,160
+enter. Now, like I said, the cool part
+
+130
+00:03:40,080 --> 00:03:43,760
+about this is just how fast it is. So,
+
+131
+00:03:42,160 --> 00:03:45,680
+the last time that I ran this prompt, I
+
+132
+00:03:43,760 --> 00:03:47,680
+believe it probably took me 30 to 45
+
+133
+00:03:45,680 --> 00:03:49,520
+seconds to get a fully finished analysis
+
+134
+00:03:47,680 --> 00:03:50,720
+of the top performing hooks. And really,
+
+135
+00:03:49,520 --> 00:03:52,800
+what we're doing here is we're looking
+
+136
+00:03:50,720 --> 00:03:54,880
+on TikTok for the top performing hooks
+
+137
+00:03:52,800 --> 00:03:56,240
+in a specific niche. And as a result,
+
+138
+00:03:54,880 --> 00:03:57,600
+because most content creators are not
+
+139
+00:03:56,240 --> 00:03:58,880
+good at monetizing their audience, we're
+
+140
+00:03:57,600 --> 00:04:00,480
+going to steal the hook, use it in our
+
+141
+00:03:58,880 --> 00:04:02,240
+ads, or at least use some variation of
+
+142
+00:04:00,480 --> 00:04:03,920
+it, and then actually use it to convert
+
+143
+00:04:02,240 --> 00:04:05,200
+people at a really, really high level.
+
+144
+00:04:03,920 --> 00:04:06,960
+And I'm not joking when I tell you this
+
+145
+00:04:05,200 --> 00:04:08,480
+guys, like this is one of the strategies
+
+146
+00:04:06,960 --> 00:04:10,000
+like the AI is new, but generally
+
+147
+00:04:08,480 --> 00:04:12,080
+looking at the organic hooks is
+
+148
+00:04:10,000 --> 00:04:14,560
+something that has significantly powered
+
+149
+00:04:12,080 --> 00:04:15,680
+our top ads like consistently. And
+
+150
+00:04:14,560 --> 00:04:16,960
+they're not always going to be on Tik
+
+151
+00:04:15,680 --> 00:04:19,040
+Tok. Sometimes I'll find them on
+
+152
+00:04:16,960 --> 00:04:20,560
+Instagram, sometimes I'll find them on
+
+153
+00:04:19,040 --> 00:04:22,000
+Facebook. Doesn't really matter. But the
+
+154
+00:04:20,560 --> 00:04:23,200
+short form, you have to be so aggressive
+
+155
+00:04:22,000 --> 00:04:24,640
+with getting people's attention, right?
+
+156
+00:04:23,200 --> 00:04:26,320
+because their attention span is so
+
+157
+00:04:24,640 --> 00:04:27,600
+freaking low. So, I took that into
+
+158
+00:04:26,320 --> 00:04:28,800
+consideration. I was just like, "Okay,
+
+159
+00:04:27,600 --> 00:04:30,240
+I'm going to go to the most aggressive
+
+160
+00:04:28,800 --> 00:04:31,840
+platform that there is in terms of
+
+161
+00:04:30,240 --> 00:04:33,360
+garnering that attention, which is Tik
+
+162
+00:04:31,840 --> 00:04:34,960
+Tok, the king of short form." Even
+
+163
+00:04:33,360 --> 00:04:36,320
+though, you know, I know IG Rios is on
+
+164
+00:04:34,960 --> 00:04:37,840
+come up, but Tik Tok is definitely the
+
+165
+00:04:36,320 --> 00:04:39,360
+king, and just find the top performing
+
+166
+00:04:37,840 --> 00:04:40,880
+hook. So, you can already see all these
+
+167
+00:04:39,360 --> 00:04:43,280
+hooks that we have here. Let's look
+
+168
+00:04:40,880 --> 00:04:44,880
+through one initially. So, let's look at
+
+169
+00:04:43,280 --> 00:04:47,040
+these hooks here. So, here's one. Here's
+
+170
+00:04:44,880 --> 00:04:48,960
+how I fix my dog's health problem in
+
+171
+00:04:47,040 --> 00:04:51,200
+just short time period. If your dog has
+
+172
+00:04:48,960 --> 00:04:53,040
+this symptom, stop giving them XYZ and
+
+173
+00:04:51,200 --> 00:04:54,720
+try this instead. this one supplement
+
+174
+00:04:53,040 --> 00:04:56,240
+that finally helped my dog's whatever
+
+175
+00:04:54,720 --> 00:04:58,000
+health issue. So let's say like they
+
+176
+00:04:56,240 --> 00:04:59,920
+struggle with like joint pain, right?
+
+177
+00:04:58,000 --> 00:05:02,000
+Here's how I fix my dog's joint pain in
+
+178
+00:04:59,920 --> 00:05:04,960
+just 7 days, in just 14 days, in just 30
+
+179
+00:05:02,000 --> 00:05:06,960
+days. If your dog has insert like big
+
+180
+00:05:04,960 --> 00:05:08,480
+dog symptom here, stop giving them
+
+181
+00:05:06,960 --> 00:05:10,560
+common thing and try. So it basically
+
+182
+00:05:08,480 --> 00:05:12,480
+gave you a formula that you can use, you
+
+183
+00:05:10,560 --> 00:05:14,080
+can steal that's been proven to convert.
+
+184
+00:05:12,480 --> 00:05:15,920
+Let's look at another one. So here we
+
+185
+00:05:14,080 --> 00:05:17,280
+have the surprise/discovery hooks,
+
+186
+00:05:15,920 --> 00:05:19,200
+right? I'll zoom in a little bit. I
+
+187
+00:05:17,280 --> 00:05:20,960
+can't believe what the vet said about
+
+188
+00:05:19,200 --> 00:05:22,560
+this dog supplement. The shocking
+
+189
+00:05:20,960 --> 00:05:24,160
+ingredient in most dog supplements
+
+190
+00:05:22,560 --> 00:05:26,160
+that's harming your pet. This one is
+
+191
+00:05:24,160 --> 00:05:27,520
+what I discovered after testing 12
+
+192
+00:05:26,160 --> 00:05:29,520
+different dog supplements. All right.
+
+193
+00:05:27,520 --> 00:05:31,520
+Now, we have another category of hooks.
+
+194
+00:05:29,520 --> 00:05:33,040
+Expert authority hook. As a vette for 10
+
+195
+00:05:31,520 --> 00:05:34,560
+years, here's the only supplement I give
+
+196
+00:05:33,040 --> 00:05:36,160
+for my dogs. Why most vets won't tell
+
+197
+00:05:34,560 --> 00:05:37,360
+you about this dog supplement. Three
+
+198
+00:05:36,160 --> 00:05:38,640
+supplements vetinarians actually
+
+199
+00:05:37,360 --> 00:05:40,880
+recommend for dogs. And it just
+
+200
+00:05:38,640 --> 00:05:42,640
+continues to go on. Like the fact that
+
+201
+00:05:40,880 --> 00:05:44,240
+this is available on the internet. You
+
+202
+00:05:42,640 --> 00:05:45,600
+don't even have to use the AI. I'm not
+
+203
+00:05:44,240 --> 00:05:47,520
+affiliated with this company. I just
+
+204
+00:05:45,600 --> 00:05:50,160
+started using them recently. But it just
+
+205
+00:05:47,520 --> 00:05:52,240
+speeds up the process. And I don't like
+
+206
+00:05:50,160 --> 00:05:53,680
+buying stuff. I like buying my time. And
+
+207
+00:05:52,240 --> 00:05:55,440
+that's one thing that I can really do
+
+208
+00:05:53,680 --> 00:05:56,960
+with AI agents like this. And so the
+
+209
+00:05:55,440 --> 00:05:58,800
+rest of this, you know, the content here
+
+210
+00:05:56,960 --> 00:06:01,440
+is mostly worthless. But if I just got
+
+211
+00:05:58,800 --> 00:06:04,000
+like what is it, three, six, nine, 12,
+
+212
+00:06:01,440 --> 00:06:05,440
+15 really solid potential hook ideas.
+
+213
+00:06:04,000 --> 00:06:07,200
+And what I'll do is I'll copy all these
+
+214
+00:06:05,440 --> 00:06:08,640
+and go paste them in document. And I can
+
+215
+00:06:07,200 --> 00:06:10,720
+even like upload these to claude or to
+
+216
+00:06:08,640 --> 00:06:12,400
+chatb and start cross-analyzing and just
+
+217
+00:06:10,720 --> 00:06:13,840
+like give them all the information on my
+
+218
+00:06:12,400 --> 00:06:15,280
+product, everything, the market, all
+
+219
+00:06:13,840 --> 00:06:17,440
+those foundational documents that I
+
+220
+00:06:15,280 --> 00:06:19,120
+typically do and I can immediately just
+
+221
+00:06:17,440 --> 00:06:22,080
+start having a conversation and
+
+222
+00:06:19,120 --> 00:06:23,760
+producing better and better hooks over
+
+223
+00:06:22,080 --> 00:06:25,920
+and over again. So this is literally
+
+224
+00:06:23,760 --> 00:06:27,760
+like the infinite hook glitch. If you
+
+225
+00:06:25,920 --> 00:06:30,320
+use it, you can make incredible money
+
+226
+00:06:27,760 --> 00:06:32,640
+with it. Now, the hard part obviously is
+
+227
+00:06:30,320 --> 00:06:35,440
+continuing that attention along the rest
+
+228
+00:06:32,640 --> 00:06:36,880
+of the the ad, but the hook is like 90%
+
+229
+00:06:35,440 --> 00:06:38,400
+of your success because another thing
+
+230
+00:06:36,880 --> 00:06:39,760
+that I'll do, and it didn't drop the
+
+231
+00:06:38,400 --> 00:06:41,840
+links in this case, sometimes it drops
+
+232
+00:06:39,760 --> 00:06:44,640
+the links, but if I find a specific
+
+233
+00:06:41,840 --> 00:06:46,000
+video that has a really proven hook, I
+
+234
+00:06:44,640 --> 00:06:48,960
+want to also go look at the scroll
+
+235
+00:06:46,000 --> 00:06:51,760
+stopper. What is the actual video? What
+
+236
+00:06:48,960 --> 00:06:53,920
+is the the clip that's being used on top
+
+237
+00:06:51,760 --> 00:06:55,600
+of the actual hook? Because it's the
+
+238
+00:06:53,920 --> 00:06:57,120
+combination, right? The hook is made up
+
+239
+00:06:55,600 --> 00:06:58,560
+really of of three separate things.
+
+240
+00:06:57,120 --> 00:07:00,240
+Mostly people just think it's the text,
+
+241
+00:06:58,560 --> 00:07:02,400
+but it's actually three things. One is
+
+242
+00:07:00,240 --> 00:07:03,760
+the actual text, which is like the copy.
+
+243
+00:07:02,400 --> 00:07:05,200
+You know, definitely the most important,
+
+244
+00:07:03,760 --> 00:07:08,080
+probably 80% of your success right
+
+245
+00:07:05,200 --> 00:07:10,560
+there. The other 15% that'll get you 95%
+
+246
+00:07:08,080 --> 00:07:12,960
+total would be the scroll stopper,
+
+247
+00:07:10,560 --> 00:07:14,800
+right? And this is the video or image
+
+248
+00:07:12,960 --> 00:07:16,400
+that's actually associated with the
+
+249
+00:07:14,800 --> 00:07:17,920
+text. And finally, you have the audio.
+
+250
+00:07:16,400 --> 00:07:19,360
+It's not the most important thing, not
+
+251
+00:07:17,920 --> 00:07:20,880
+very important at all typically cuz a
+
+252
+00:07:19,360 --> 00:07:22,640
+lot of people watch these with no audio
+
+253
+00:07:20,880 --> 00:07:24,080
+in general, but let's say it's 5% of the
+
+254
+00:07:22,640 --> 00:07:26,080
+equation. So, if this is what makes a
+
+255
+00:07:24,080 --> 00:07:27,760
+successful hook, then we just got all of
+
+256
+00:07:26,080 --> 00:07:29,680
+this. What I'm going to do is find those
+
+257
+00:07:27,760 --> 00:07:31,520
+hooks and then go look specifically at
+
+258
+00:07:29,680 --> 00:07:33,120
+the scroll stoppers that they are using
+
+259
+00:07:31,520 --> 00:07:34,960
+because obviously that combination
+
+260
+00:07:33,120 --> 00:07:37,040
+worked that got people's attention.
+
+261
+00:07:34,960 --> 00:07:38,000
+That's all marketing is like at its
+
+262
+00:07:37,040 --> 00:07:39,280
+core. It's just getting people's
+
+263
+00:07:38,000 --> 00:07:41,360
+attention and converting it. That is
+
+264
+00:07:39,280 --> 00:07:43,920
+literally it. That's it. And so if you
+
+265
+00:07:41,360 --> 00:07:45,840
+figure out at a core that content
+
+266
+00:07:43,920 --> 00:07:47,120
+creators make really really good
+
+267
+00:07:45,840 --> 00:07:48,400
+attention grabbing videos but are
+
+268
+00:07:47,120 --> 00:07:49,520
+terrible at converting it. Just take the
+
+269
+00:07:48,400 --> 00:07:51,200
+attention part and then apply that to
+
+270
+00:07:49,520 --> 00:07:53,120
+your ads. Like it's it's as simple as
+
+271
+00:07:51,200 --> 00:07:55,840
+that. So this is obviously stuff that I
+
+272
+00:07:53,120 --> 00:07:59,120
+just obsess over. And so if you want
+
+273
+00:07:55,840 --> 00:08:00,560
+like really really the creative the ad
+
+274
+00:07:59,120 --> 00:08:02,480
+sauce, this is everything that we put
+
+275
+00:08:00,560 --> 00:08:03,680
+inside of our program, Brand Builders
+
+276
+00:08:02,480 --> 00:08:05,360
+Academy. This is the mentorship program
+
+277
+00:08:03,680 --> 00:08:06,720
+that I own with Alex Fedoff. If you're
+
+278
+00:08:05,360 --> 00:08:07,920
+interested in applying, cool. You can
+
+279
+00:08:06,720 --> 00:08:09,360
+click the first link in the description,
+
+280
+00:08:07,920 --> 00:08:10,640
+fill out an application. We don't accept
+
+281
+00:08:09,360 --> 00:08:11,920
+everybody, but if you want to, first
+
+282
+00:08:10,640 --> 00:08:13,280
+thing in the description. If not, that's
+
+283
+00:08:11,920 --> 00:08:14,720
+cool. The last thing that I want to say
+
+284
+00:08:13,280 --> 00:08:17,200
+is I have a good friend of mine that
+
+285
+00:08:14,720 --> 00:08:19,440
+owns this company called Disputifier. If
+
+286
+00:08:17,200 --> 00:08:21,160
+you run an e-commerce brand, you know
+
+287
+00:08:19,440 --> 00:08:24,160
+very very well that
+
+288
+00:08:21,160 --> 00:08:26,240
+handling handling payment processors is
+
+289
+00:08:24,160 --> 00:08:27,920
+a continual pain in the ass. But what
+
+290
+00:08:26,240 --> 00:08:29,520
+this company does is it basically gets
+
+291
+00:08:27,920 --> 00:08:31,200
+in front of chargebacks and refunds
+
+292
+00:08:29,520 --> 00:08:32,640
+before they actually come in to help
+
+293
+00:08:31,200 --> 00:08:34,080
+improve the relationship that you have
+
+294
+00:08:32,640 --> 00:08:36,080
+with your payment processor. Cuz I can
+
+295
+00:08:34,080 --> 00:08:37,440
+tell you from experience multiple times,
+
+296
+00:08:36,080 --> 00:08:38,560
+the worst thing to happen when you're
+
+297
+00:08:37,440 --> 00:08:40,160
+selling stuff on the internet, like
+
+298
+00:08:38,560 --> 00:08:42,480
+you're scaling, you're making money, is
+
+299
+00:08:40,160 --> 00:08:44,640
+when you lose a payment processor
+
+300
+00:08:42,480 --> 00:08:46,880
+completely or you get a hold or you get
+
+301
+00:08:44,640 --> 00:08:48,880
+banned and god forbid you get put on the
+
+302
+00:08:46,880 --> 00:08:50,880
+match list, which is like the absolute
+
+303
+00:08:48,880 --> 00:08:52,480
+last thing you would ever want, right?
+
+304
+00:08:50,880 --> 00:08:53,920
+And so, if you guys want to check out
+
+305
+00:08:52,480 --> 00:08:55,120
+this company, I highly recommend it if
+
+306
+00:08:53,920 --> 00:08:56,240
+you're doing volume. If you're not,
+
+307
+00:08:55,120 --> 00:08:57,760
+probably not worth your time. But if
+
+308
+00:08:56,240 --> 00:08:59,200
+you're doing over, you know, 100K a
+
+309
+00:08:57,760 --> 00:09:00,320
+month, check these guys out. I'll drop
+
+310
+00:08:59,200 --> 00:09:01,600
+them in the description as well. Other
+
+311
+00:09:00,320 --> 00:09:04,880
+than that, y'all have a great video.
+
+312
+00:09:01,600 --> 00:09:04,880
+I'll see you on the next one. Peace.
+

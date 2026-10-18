@@ -1,0 +1,551 @@
+# AI + branded dropshipping = f*ck you money (AI TIER LIST)
+URL: https://www.youtube.com/watch?v=q0ErviKwR5U
+Category: video
+Duration: 921s
+Published: 20250424
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be ranking the best AI tools
+[00:00:03] that you can use for branded drop
+[00:00:04] shipping right now in 2025. We're
+[00:00:06] literally existing in an AI revolution
+[00:00:08] right now. And if you're not taking full
+[00:00:09] advantage and just obsessing over this
+[00:00:11] stuff, then you're just not going to
+[00:00:12] make it. First up, we have Claude.
+[00:00:14] Claude is an LLM, large language model,
+[00:00:16] that was developed by the company called
+[00:00:18] Anthropic. And I'm specifically
+[00:00:19] referring to Claude 3.7 Sonnet. Now,
+[00:00:22] Claude is really, really good for very
+[00:00:24] specific things and then really, really,
+[00:00:25] really, really bad at other very
+[00:00:27] specific things. So you'll notice like
+[00:00:28] when I'm ranking all these tools, some
+[00:00:29] of them are great for one thing, but
+[00:00:31] they're just dog [ __ ] at everything
+[00:00:32] else. Claude is really really good at
+[00:00:34] specifically writing creative copy. So
+[00:00:37] when it comes to direct response copy, a
+[00:00:39] lot of these really really intelligent
+[00:00:41] models, like if you think of something
+[00:00:42] like Gemini, which typically ranks like
+[00:00:44] the highest out of any LLM in terms of
+[00:00:46] just like pure intelligence, they're not
+[00:00:47] always the best in terms of copywriting
+[00:00:48] just right out of the box. But Claude is
+[00:00:50] one where even if you're just dog [ __ ]
+[00:00:52] prompting it, you're still going to get
+[00:00:53] relatively good outputs from it. What I
+[00:00:55] typically use this for is writing ad
+[00:00:58] scripts, writing hooks, and not using
+[00:00:59] anything intelligent, but really tapping
+[00:01:01] into that creativity aspect. Because
+[00:01:03] when I compare Claude to something like
+[00:01:04] uh, you know, for example, OpenAI's new
+[00:01:06] model 4.1, which is really, really
+[00:01:08] solid, pretty good at creative writing
+[00:01:10] as well. I actually think that Claude is
+[00:01:11] superior. And I split tested this across
+[00:01:13] a variety of different types of copy,
+[00:01:14] landing pages, ads, etc. Claude was
+[00:01:16] king, but it's not the best. Really,
+[00:01:18] really good, but I've actually found new
+[00:01:19] solutions that are even better. So, for
+[00:01:21] that reason, Claude is really, really
+[00:01:22] solid. We're going to put Claude in the
+[00:01:23] A tier. Next up on the list, we have
+[00:01:25] Cling AI. Now, Cling AI is once again
+[00:01:28] really, really good at one very specific
+[00:01:29] thing. That is taking an image and
+[00:01:31] turning it into a very, very high
+[00:01:33] quality video. And so, the main purpose
+[00:01:35] that I use Cling AI for, especially with
+[00:01:37] their new model 2.0, it's very, very,
+[00:01:39] very solid. And what I use it for is
+[00:01:41] I'll basically go to something like Chad
+[00:01:43] McKe for brand new image creation. And
+[00:01:45] if I want to create a new piece, for
+[00:01:46] example, of custom UGC content where
+[00:01:48] there's a creator that's holding a photo
+[00:01:50] of my product and I want to animate that
+[00:01:52] into a video, Cling is by far the best
+[00:01:55] way to actually do that as of right now.
+[00:01:56] Now, a little disclaimer right now. I'm
+[00:01:58] giving you guys all these AI tools. They
+[00:01:59] work fantastic. But the speed with which
+[00:02:01] AI is developing is like it's
+[00:02:02] unprecedented. And so what I use right
+[00:02:04] now is literally going to be completely
+[00:02:06] different in the next like 1 to 3
+[00:02:07] months. So take this with a grain of
+[00:02:09] salt and just always stay on top of it.
+[00:02:10] Cling is very, very good. It's not
+[00:02:12] perfect, right? We're still not at the
+[00:02:13] point where everything is going to be
+[00:02:15] perfect. Sometimes it still takes you a
+[00:02:16] few different generations to get that
+[00:02:17] like S tier quality video, but still for
+[00:02:20] AI UGC clips, not like full videos, but
+[00:02:23] clips is very good. It is on the
+[00:02:24] downside a little bit more on the costly
+[00:02:26] side if you make a lot a lot of runs and
+[00:02:28] use up a lot of tokens. So, for that
+[00:02:29] reason, we're going to put Cling AI as
+[00:02:31] well in the A tier. Next up on the list,
+[00:02:33] we have N8N. So, N8N is an AI agent
+[00:02:37] workflow and automation software.
+[00:02:39] Basically, what you can do is you can
+[00:02:41] create AI agents with it and you can
+[00:02:42] connect all these various LLMs together
+[00:02:44] into one workflow that basically works
+[00:02:46] around the clock. So, if you've ever
+[00:02:47] heard people talking about like this AI
+[00:02:49] agent term, there's various levels of
+[00:02:50] using AI. There's like just popping into
+[00:02:52] Chat GBT and like asking questions,
+[00:02:54] that's like level one. And then you move
+[00:02:55] to like Claude or to like Gemini, you're
+[00:02:57] still kind of in level one. The only
+[00:02:58] time that you really get to level two is
+[00:03:00] when you add the agent component. And
+[00:03:02] what makes something an AI agent is that
+[00:03:04] it's basically autonomous. It has agency
+[00:03:07] which means it'll make decisions based
+[00:03:08] off the inputs that you give it. So is
+[00:03:10] this for example an ad that should be
+[00:03:12] pushed to our video editing team and
+[00:03:14] turned into like a real actual creative
+[00:03:16] for example. This workflow through NAN
+[00:03:19] would be able to actually say yes this
+[00:03:20] is a good ad or no this is a good ad if
+[00:03:22] you prompt it correctly. One of the main
+[00:03:24] takeaways with AI in general is that the
+[00:03:26] quality of output that you get is
+[00:03:27] directly predicated on the quality of
+[00:03:28] input that you give it. And so if you're
+[00:03:30] complaining about oh my output from
+[00:03:32] Claude isn't good output from Chachi Bat
+[00:03:34] isn't good. No, you just suck at
+[00:03:35] prompting or you're just not using the
+[00:03:36] right model. Naden combines these tools
+[00:03:38] together and literally automates [ __ ]
+[00:03:40] So like if you're worried about AI
+[00:03:42] taking your job, it's not going to be
+[00:03:43] chatbt that takes your job. It's going
+[00:03:45] to be softwares like Naden. And so for
+[00:03:47] that reason, I'm building a lot of stuff
+[00:03:49] with N8 right now. We're going to put
+[00:03:50] this in the S tier because this is
+[00:03:51] literally going to be something that is
+[00:03:53] changing everything right now. And if
+[00:03:55] you're not using it, you need to learn
+[00:03:56] how. Next up on the list, we have Gum
+[00:03:57] Loop. Gum loop is very very similar to
+[00:03:59] N8N but it differs in one very very
+[00:04:02] specific way which is that it's much
+[00:04:03] more userfriendly right with NAND if
+[00:04:05] you're building a workflow like I'm not
+[00:04:07] a technical person I know very very
+[00:04:08] basic fundamentals when it comes to to
+[00:04:10] coding and programming I couldn't like
+[00:04:12] code a website from the ground up I
+[00:04:13] can't code applications from the ground
+[00:04:14] up I can't even vibe code my way there
+[00:04:16] if I really really wanted to right with
+[00:04:18] Gum Loop it's significantly more
+[00:04:19] userfriendly now the limitations are
+[00:04:21] significantly greater compared to
+[00:04:23] something like NADN where it's more
+[00:04:24] versatility however it's so user
+[00:04:26] friendly it's like the textbook
+[00:04:27] difference between a software like
+[00:04:28] make.com and Zap year. Like Zapier, you
+[00:04:30] can throw anybody in there and you're
+[00:04:32] just you're going to understand it
+[00:04:32] within like the first few hours. On the
+[00:04:34] other side, make obviously takes a
+[00:04:35] little bit of of time, a little bit of
+[00:04:37] coding experience to really understand
+[00:04:38] how it works. So, for that reason, we're
+[00:04:39] going to take Gum Loop. We're actually
+[00:04:40] going to put this in the B tier. The
+[00:04:42] coolest part about Gum Loop, in my
+[00:04:44] opinion, is that you can actually create
+[00:04:45] custom API integrations as long as a
+[00:04:47] company has API documentation. You can
+[00:04:49] just go in there and copy it and it'll
+[00:04:51] custom create a new node based off the
+[00:04:53] API documentation. A lot of times you're
+[00:04:55] limited with softwares because they
+[00:04:56] don't have open APIs, but as long as
+[00:04:58] they have the documentation, you can
+[00:04:59] create a custom, which is super cool.
+[00:05:01] And if you don't know what I just said,
+[00:05:02] just go do some searches on Gum Loop and
+[00:05:04] I'm sure you'll be just as fascinated as
+[00:05:06] me. Next up on the list, we have
+[00:05:07] Perplexity. Now, Perplexity is another
+[00:05:09] LLM, but specifically what I really like
+[00:05:12] about Perplexity is their deep research
+[00:05:13] model. Now, I actually just replaced
+[00:05:16] Perplexity with a new model that I'm
+[00:05:17] going to get to in just a second, but
+[00:05:18] this used to be my go-to for deep
+[00:05:20] research. When you think of deep
+[00:05:21] research, this is where particular LLM
+[00:05:23] will actually start to think about how
+[00:05:25] to conduct research in depth on a very
+[00:05:27] specific project based off the
+[00:05:28] instructions that you give it. And with
+[00:05:30] perplexity, it was significantly better
+[00:05:32] than Chat GBT's deep research in my
+[00:05:34] experience. It would go through and find
+[00:05:35] more sources. It would create a more
+[00:05:37] comprehensive and emotional report. The
+[00:05:38] way that I would use this most
+[00:05:40] specifically is for copywriting
+[00:05:41] research, right? I'll look at our top
+[00:05:42] performing ads. I'll look through Amazon
+[00:05:44] reviews, Reddit reviews, etc., and have
+[00:05:46] all that data consolidated. But
+[00:05:47] Perplexity actually just failed in
+[00:05:49] comparison to another software that I'm
+[00:05:51] going to get to in just one second. So,
+[00:05:52] for that reason, we're actually going to
+[00:05:53] put this at the C tier. It's probably
+[00:05:55] like the lowest ranking that I'm going
+[00:05:56] to give in this entire video. It really
+[00:05:58] is still quite good. It's just
+[00:06:00] developing so quickly. There's already
+[00:06:02] something better. And when I talk about
+[00:06:03] something that's better, what I'm
+[00:06:04] talking about is Gemini. Now, this is
+[00:06:06] Google's main LLM that they've been
+[00:06:08] working on. I believe it's the first
+[00:06:09] what's called omnimodal model which
+[00:06:11] means not only is it an LLM which can
+[00:06:13] like manage all these these texts but it
+[00:06:14] can also analyze image and video and
+[00:06:16] voice. So it can like combine all these
+[00:06:18] things together which is insane but
+[00:06:20] what's really insane is just how
+[00:06:22] intelligent the the the deep researches
+[00:06:25] within Gemini just fair comparison right
+[00:06:27] I ran the exact same prompt for
+[00:06:29] copyrightiting research through Gemini
+[00:06:30] and also through Perplexity. Perplexity
+[00:06:33] gave me I think around 50 to 60
+[00:06:35] different sources pretty solid report.
+[00:06:37] It ended up being around six six or
+[00:06:38] seven pages worth of research. Exact
+[00:06:40] same prompt I put into Gemini. Gemini
+[00:06:42] gave me 226 sources and 36 pages of
+[00:06:45] research. And I read every single
+[00:06:47] [ __ ] page because it is
+[00:06:49] actually very very good. I really wanted
+[00:06:50] to see which was the best. And Gemini,
+[00:06:52] specifically Gemini 2.5 Pro Experimental
+[00:06:54] is really, really solid. And honestly,
+[00:06:56] it's probably my go-to LLM right now for
+[00:07:00] just regular day-to-day tasks. And so
+[00:07:02] the only downside to this is potentially
+[00:07:04] the cost. It can get a little bit
+[00:07:05] costly, especially at scale if you're
+[00:07:06] using automations and workflows, but
+[00:07:08] it's still so freaking good. For that
+[00:07:10] reason, this one is going to be going
+[00:07:11] into the S tier. Next up on the list, we
+[00:07:13] have Grock. Obviously, this is the the
+[00:07:15] AI model that's associated with Elon
+[00:07:17] Musk with X and with, you know, all that
+[00:07:19] [ __ ] And it's very very good. I'm not
+[00:07:21] going to lie to you. If you look at the
+[00:07:22] ranking of the intelligence of these
+[00:07:24] models, it typically ranks pretty high
+[00:07:25] and it's not super costly. I have used
+[00:07:28] the deep research and the deeper
+[00:07:29] research functions within Grock. And to
+[00:07:31] be honest with you, I was a little
+[00:07:32] disappointed and I was also disappointed
+[00:07:33] in the creativity when it came to
+[00:07:34] writing copy. Beyond that, I haven't
+[00:07:36] used Grock a lot. So if you guys have
+[00:07:38] specific applications and use cases for
+[00:07:40] Grock, you can let me know in the
+[00:07:41] comments, but for me, I basically never
+[00:07:42] use this. And for that reason, we're
+[00:07:44] going to put this at the C tier. Next up
+[00:07:46] on the list, we have Pika. Now, Pika is
+[00:07:48] my newest fascination when it comes to
+[00:07:50] AI tools where you can take any image or
+[00:07:52] video, basically add new visual elements
+[00:07:54] to that video. For example, you see me
+[00:07:56] recording this YouTube video right now.
+[00:07:57] If I were using Pika, I can have just
+[00:07:59] like a dragon just randomly appear
+[00:08:00] behind me and it's going to be
+[00:08:01] completely seamless, flawless, and you
+[00:08:03] wouldn't even be able to to tell that
+[00:08:05] dragons aren't even actually [ __ ]
+[00:08:06] real. That's how good it is. It's really
+[00:08:07] good. Now, in terms of practical
+[00:08:09] applications into business and into
+[00:08:10] e-commerce, there's only a few that I've
+[00:08:12] personally seen. What I'll do is I'll
+[00:08:13] take a piece specifically of UGC
+[00:08:15] content, and if there's something that's
+[00:08:17] not really the way that I want it to be
+[00:08:18] with the UGC content, like something is
+[00:08:20] just a little bit off or the background
+[00:08:21] is off or something with the speakers
+[00:08:23] off, I want to like add glasses on the
+[00:08:24] creator, for example, that's something
+[00:08:25] that Pika can do. It's very solid for
+[00:08:27] that reason. In terms of the overall
+[00:08:29] value ad, it's more of just like a cool
+[00:08:30] tool to use. Like if you get an account,
+[00:08:32] you'll just probably just play around
+[00:08:33] with it for fun. But practical
+[00:08:35] applications, I think it lacks a little
+[00:08:36] bit. So for that reason, we're going to
+[00:08:38] put Pika in the B tier. Next up on the
+[00:08:40] list, we have OpenAI and specifically
+[00:08:42] all their Chad CBT models. Now OpenAI
+[00:08:45] recently, literally last week, launched
+[00:08:46] a few new models that are the most
+[00:08:49] intelligent and lowcost and fastest
+[00:08:51] models that they've ever produced in
+[00:08:52] history of the company. What I'm
+[00:08:53] referring to specifically is the 03 and
+[00:08:55] 04 models within chatb and also their
+[00:08:58] new 4.1 model which is going to trump
+[00:09:01] the existing 4.5 model. So for me chat
+[00:09:04] is basically like all reliable, you
+[00:09:05] know, it's always there when you need
+[00:09:06] it. If I do want like something really
+[00:09:08] really quick, I have keyboard shortcuts.
+[00:09:10] So if I need something really really
+[00:09:11] quickly, I'll just pop open a chatbt
+[00:09:13] window. Now for anything that involves
+[00:09:15] advanced reasoning where you need a
+[00:09:17] larger context window, which means like
+[00:09:18] if you want to send a lot a lot of data
+[00:09:20] into chatbt, I wouldn't use it. I would
+[00:09:23] go into something like Gemini because it
+[00:09:24] has a significantly greater context
+[00:09:26] window. Typically a little bit better at
+[00:09:28] reasoning and honestly for copywriting
+[00:09:30] purposes I don't use it a lot either
+[00:09:32] there I would go to something like
+[00:09:33] Lauder even the Gemini if you prompt it
+[00:09:35] well enough Gemini could be really
+[00:09:36] really good for writing copy. So use
+[00:09:38] cases here just general allrounder you
+[00:09:40] know it's like the it's like your daily
+[00:09:42] driver you know but for specific use
+[00:09:44] cases I always go to other softwares
+[00:09:45] that I've shown you on this list
+[00:09:46] already. So for that reason or reliable
+[00:09:48] chat sheet we're going to put this rate
+[00:09:50] at the A tier. Next up on the list, we
+[00:09:52] have Get Hooked. This is a super not
+[00:09:54] humble, not biased brag. Uh, but this is
+[00:09:57] the software that, you know, me and my
+[00:09:58] team have been building over the past
+[00:10:00] year and a half, 2 years. And this is
+[00:10:02] specifically applicable to if you're
+[00:10:03] running ads. So, if you're running ads
+[00:10:05] and you go to the ad library constantly,
+[00:10:06] you got to stop that and get yourself a
+[00:10:08] Get Hook subscription because you can
+[00:10:09] basically have significantly more
+[00:10:11] clarity around the ads that are
+[00:10:12] performing best, the ads that are
+[00:10:14] getting the most amount of conversions
+[00:10:15] for your competitors. You can analyze
+[00:10:17] how many creatives your competitors are
+[00:10:19] testing testing on a monthly basis. all
+[00:10:21] types of cool stuff. And once you find a
+[00:10:23] winning ad, you can literally recreate
+[00:10:24] it 100% with AI. So for that reason,
+[00:10:26] obviously I love Get Hooked. I am super
+[00:10:27] biased. That was a joke in the
+[00:10:29] beginning, but definitely check it out.
+[00:10:30] We're gonna be putting Get Hooked in the
+[00:10:31] S tier. Next up on the list, we have
+[00:10:33] Manis. Manis is the newest general AI
+[00:10:35] agent on the block, and it is very,
+[00:10:38] very, very sharp. And there's one other
+[00:10:40] AI agent I'm going to get to in just one
+[00:10:41] second that's also very good. But in
+[00:10:43] many cases, I actually prefer Manis for
+[00:10:44] one specific reason. If you guys are
+[00:10:46] familiar with Chachi Bet's operator
+[00:10:48] model or OpenAI's operator model, this
+[00:10:51] basically an independent AI agent that
+[00:10:53] you can prompt it to do whatever you
+[00:10:54] want and it'll literally open a cloud
+[00:10:56] browser and start to do everything that
+[00:10:58] you want it and follow your
+[00:10:59] instructions. Now, I think this
+[00:11:01] technology is going to evolve a lot. As
+[00:11:02] of right now, sometimes if you give it
+[00:11:05] your login, for example, to your Google
+[00:11:07] Drive and you want it to do some things
+[00:11:08] with your documents, it can do all of
+[00:11:10] that for you as long as you supply those
+[00:11:12] login to Manis. The problem is sometimes
+[00:11:15] Manis could be a little [ __ ] stupid.
+[00:11:17] It can't figure out some things that are
+[00:11:18] even relatively simple. So I think that
+[00:11:20] this isn't the fault of Manis. This is
+[00:11:22] more so just general the advancement of
+[00:11:23] AI and where we are in the general
+[00:11:25] landscape. It's still really really
+[00:11:26] good. And my favorite application for
+[00:11:28] Manis actually is anytime that I leave
+[00:11:30] my laptop and I'm like going to the gym
+[00:11:32] or I'm going to sleep, I always have a
+[00:11:34] prompt running while I'm sleeping or
+[00:11:35] while I'm working. So I'm literally
+[00:11:36] working even when I'm not working. It's
+[00:11:38] really really great for a lot of that
+[00:11:39] manual work that you know needs to get
+[00:11:41] done but you don't want to be the one
+[00:11:42] that actually does it. Just create some
+[00:11:44] type of SOP and feed it into Manis. Give
+[00:11:46] it the login that it needs and then
+[00:11:47] it'll go and execute that while you're
+[00:11:49] asleep. So whatever that like really
+[00:11:50] annoying manual work, Manis can do that.
+[00:11:52] The second really really cool
+[00:11:53] application here is that Manis can
+[00:11:55] actually build like web applications for
+[00:11:57] you and deploy them on their own
+[00:11:58] external URL. So, for example, I built a
+[00:12:01] very, very simple tool that'll basically
+[00:12:03] analyze and pre-validate if a specific
+[00:12:05] ad creative hook is going to be
+[00:12:07] successful before you test it. So, I'll
+[00:12:08] feed all my previous ad data, feed it a
+[00:12:10] bunch of other stuff that I don't really
+[00:12:12] want to get into right now, and then
+[00:12:13] it'll basically give it a score of how
+[00:12:14] likely that ad is to perform. You can
+[00:12:16] create applications like that without
+[00:12:17] knowing how to code through a tool like
+[00:12:19] Manis. So, for that reason, we're
+[00:12:20] actually going to put Manis in S tier.
+[00:12:22] Phenomenal, phenomenal software. Still a
+[00:12:24] lot to be done, of course, but I think
+[00:12:25] again, all these tools are only going to
+[00:12:27] get better. They're only going to get
+[00:12:28] smarter and they're only going to get
+[00:12:29] cheaper. We see that with every single
+[00:12:31] new update that's being announced. Next
+[00:12:32] up on the list, we have GenSpark is
+[00:12:34] specifically super agent within
+[00:12:36] GenSpark. Genpark is another general AI
+[00:12:39] agent that you can use to do basically
+[00:12:41] anything. Really cool feature that it
+[00:12:43] has is that it can actually call on your
+[00:12:45] behalf to businesses and do it
+[00:12:47] completely using AI. So, for example, if
+[00:12:49] I wanted to find the best sushi
+[00:12:51] restaurant within a six mile radius that
+[00:12:53] has a very specific type of sushi that I
+[00:12:55] like and I want to call and make a
+[00:12:56] reservation for two Thursday night at 6
+[00:12:58] p.m. JSmart can literally do all that.
+[00:13:00] It'll not only find the restaurant and
+[00:13:01] do all that stuff, but it'll actually
+[00:13:02] call to make the reservation, make sure
+[00:13:04] they have the specific type of sushi,
+[00:13:06] and then send you the confirmation
+[00:13:07] afterwards. So, it's really cool. You
+[00:13:09] can kind of listen to the call as it
+[00:13:10] happens as well, but they're calling on
+[00:13:12] your behalf. So, you have to put your
+[00:13:13] number in there. But GenSpark Super Asia
+[00:13:15] is actually phenomenally smart and
+[00:13:17] really really good. The one downside is
+[00:13:19] that it's wicked fast. And you would
+[00:13:21] think that's not a downside, but it is
+[00:13:22] because a lot of times it's not taking
+[00:13:24] the time to reason through specific
+[00:13:26] tasks in the right way. It's just like
+[00:13:28] speed, speed, speed. Whereas Manis will
+[00:13:30] take a little bit longer to complete a
+[00:13:31] specific task, but the infrastructure
+[00:13:33] with which that task is built is
+[00:13:35] significantly better than something like
+[00:13:36] GenSpark. So Genspark is still amazing.
+[00:13:38] I use it still every single day. And for
+[00:13:40] that reason, we're going to put that in
+[00:13:41] the A tier. And finally, last up on the
+[00:13:42] list, we have Make UGC. I've done a lot
+[00:13:45] of testing recently, guys, on the best
+[00:13:46] AI UGC softwares out there. And some of
+[00:13:50] them are really, really good. Very, very
+[00:13:52] few of them are great. And Make UGC, in
+[00:13:54] my opinion, is one that is great. I have
+[00:13:55] no affiliation with this company. I'm
+[00:13:57] actually not going to put them in the S
+[00:13:58] tier. Quick spoiler alert. The reason
+[00:14:00] why is because their videos are so
+[00:14:01] freaking good, but they take forever to
+[00:14:03] render, and they're expensive. It ends
+[00:14:06] up coming out to like $7 to $10 per
+[00:14:08] video that you make. Now, if that's
+[00:14:10] worth it for you, you got the budget,
+[00:14:12] which I do. I use them a lot. But if you
+[00:14:14] don't have the budget, it's not really
+[00:14:15] that great and you're limited to like a
+[00:14:17] very specific number of videos based off
+[00:14:18] the plan that you have, I still
+[00:14:19] recommend you check them out, but for
+[00:14:20] that reason, we're going to put Make UGC
+[00:14:22] in the A tier. As a final note, guys,
+[00:14:24] these AI tools are going to come and go,
+[00:14:26] but it's very, very important that you
+[00:14:28] stay on top of your [ __ ] with AI right
+[00:14:29] now. I really believe that the next 6 to
+[00:14:31] 12 months is going to be
+[00:14:32] transformational, and if you're able to
+[00:14:33] properly apply AI to your business, you
+[00:14:35] can make so much [ __ ] money. Like it
+[00:14:37] just makes me mad even thinking about
+[00:14:39] how much money some of you guys going to
+[00:14:40] make because I want to make all of it.
+[00:14:41] No, in all seriousness, you need to be
+[00:14:43] obsessing over this, you know, as much
+[00:14:44] as me. And if there's any tools that I
+[00:14:46] missed, I'm trying to be the best at
+[00:14:48] this in the same way that you are. If
+[00:14:49] there's something that I missed, drop it
+[00:14:50] in the comment section below. We're all
+[00:14:51] trying to learn and get better. Just
+[00:14:52] drop it. I want to learn from you guys
+[00:14:53] in the same way that you learned from
+[00:14:54] me. Obviously, there's a lot more I
+[00:14:56] could have put on this list, but these
+[00:14:57] are the ones that I use mostly on a
+[00:14:59] day-to-day basis. So other than that
+[00:15:01] guys, if you're interested in like
+[00:15:02] applying these specifically to building
+[00:15:04] an e-commerce brand, that's everything
+[00:15:05] that we do inside of Brand Builders
+[00:15:06] Academy. So if you want to see if you're
+[00:15:08] a good fit, you can click the first link
+[00:15:09] in the description or just join my
+[00:15:11] Telegram. It's not as good as BBA, but
+[00:15:13] it's, you know, I drop a little sauce in
+[00:15:14] there every now and then. So if you want
+[00:15:15] to join that, you can check the link in
+[00:15:17] the description as well. Check out Get
+[00:15:18] Hooked. Other than that, y'all see in
+[00:15:19] the next video. Peace.

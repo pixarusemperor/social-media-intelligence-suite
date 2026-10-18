@@ -1,0 +1,1499 @@
+# LIVE: Breaking Down A $3m/Mo Funnel (With Examples)
+URL: https://www.youtube.com/watch?v=S-Wgr7eD3IA
+Category: stream
+Duration: 3119s
+Published: 20241114
+Transcript Type: auto
+
+============================================================
+
+[00:00:06] all right how's it going guys um in this
+[00:00:09] video I'm going to be going over a $3
+[00:00:11] million per month econ brand uh that is
+[00:00:13] utilizing the really really well
+[00:00:15] constructed funnel architecture and so
+[00:00:18] in this video I want to actually break
+[00:00:19] down the exact funnel architecture that
+[00:00:21] they specifically are using and why this
+[00:00:24] is the best structure uh to run if you
+[00:00:27] have an Ecom store in 2024 and going
+[00:00:29] into 2025
+[00:00:30] so I posted a video a few days ago um
+[00:00:32] actually about a week ago now and it was
+[00:00:34] basically around the concept of not
+[00:00:36] sending traffic to regular product page
+[00:00:38] if you're uh doing Ecom if you're doing
+[00:00:40] Drop Shipping etc for the majority of
+[00:00:42] niches um I really think that this is
+[00:00:44] the best way to run things because if
+[00:00:45] you're still trying to run uh you know
+[00:00:47] e-commerce in 2024 into 2025 and you're
+[00:00:49] using what I call like the old model
+[00:00:51] which where you're just sending traffic
+[00:00:52] to a basic product page or simply just
+[00:00:53] not going to survive you know long term
+[00:00:56] um I know a lot of the a lot of really
+[00:00:58] big players like in the direct response
+[00:00:59] base and e-commerce and most of them are
+[00:01:02] just so so bullish so freaking bullish
+[00:01:05] on this method and that's why I adopted
+[00:01:06] it into my own Brands as well and you
+[00:01:09] just have so much more flexibility with
+[00:01:10] the post-p purchase upsell path you can
+[00:01:12] maximize your aov make more money uh
+[00:01:14] even convert more customers because the
+[00:01:16] first thing that people uh you know like
+[00:01:18] the the objection that people have
+[00:01:19] whenever you're running a structure like
+[00:01:20] this is simply that the um you're adding
+[00:01:24] friction and to most people especially
+[00:01:26] like beginners it just doesn't make any
+[00:01:27] sense because don't you want to remove
+[00:01:29] steps don't you want to remove the
+[00:01:31] friction
+[00:01:33] and the answer is is actually no and
+[00:01:37] you're not really adding friction and so
+[00:01:39] let me kind of show you what most people
+[00:01:40] are kind of doing right now in in Ecom
+[00:01:43] and in this whole Space is they have an
+[00:01:45] ad right here say this like an ad on
+[00:01:47] Facebook and you know I know my drawings
+[00:01:49] are really really good so you know
+[00:01:52] nothing you can do about that um but if
+[00:01:54] we have an ad it just drive straight to
+[00:01:56] a Shopify product page you know you have
+[00:01:58] the image of the product right here you
+[00:02:00] got the name you got like a little bit
+[00:02:02] of a description down here some reviews
+[00:02:04] like this is the standard model that
+[00:02:05] most people are run to then from here
+[00:02:07] you got the cart page and then the
+[00:02:09] checkout and then after the checkout so
+[00:02:12] that's checkout and then this is the
+[00:02:14] cart and so after people get to the
+[00:02:16] checkout uh page they're basically done
+[00:02:19] and this alone is really a a poor me
+[00:02:22] poor method of converting customers and
+[00:02:23] the reason why is simply
+[00:02:25] because you're only speaking to the tiny
+[00:02:28] tiny portion of the market that is ready
+[00:02:30] to buy right now so let me say that
+[00:02:32] again you're only really speaking to the
+[00:02:34] small tiny portion of the market that is
+[00:02:35] ready to buy right right now and that
+[00:02:37] could be like 1 to 3% of the total
+[00:02:39] target market your job as a marketer as
+[00:02:42] an Advertiser is to channel the existing
+[00:02:44] desire through your funnel to take
+[00:02:45] people that maybe aren't ready to buy
+[00:02:47] right now and get them to buy right now
+[00:02:48] that's your whole job that's the whole
+[00:02:50] point of going through this process okay
+[00:02:53] so if this is like the normal um normal
+[00:02:55] process right here let's say you're
+[00:02:57] selling a you know let's take like a
+[00:02:58] nice round easy number let's say you're
+[00:03:00] selling like a $50 product right right
+[00:03:02] here on the product page the average
+[00:03:04] conversion rate on you know a typical
+[00:03:07] funnel like this we'll just call this
+[00:03:08] you know I made a joke that this was
+[00:03:10] called the basic [ __ ] funnel but it's
+[00:03:12] just a basic funnel you know standard
+[00:03:14] sending straight to a you know product
+[00:03:15] page PDP and then you know you got card
+[00:03:18] page and check out the problem with this
+[00:03:19] method is that it's really restricting
+[00:03:20] your aov and really restricting your
+[00:03:22] conversion rate so in this video I
+[00:03:23] wanted to in this live rather I really
+[00:03:25] want to show you guys a brand that is
+[00:03:27] absolutely destroying right now that is
+[00:03:29] using a more advanced
+[00:03:30] funnel architecture as I like to call it
+[00:03:32] and like I said if you were to take like
+[00:03:35] your entire market and they were to be
+[00:03:37] in this oh God there we go okay if they
+[00:03:40] were to be like in this uh this pie
+[00:03:42] chart basically you have about
+[00:03:45] 97% of people that are basically not
+[00:03:48] ready to buy um so that leaves this tiny
+[00:03:52] 3% chunk right here that actually is so
+[00:03:55] when you're running the standard model I
+[00:03:57] really want you to understand like why
+[00:03:58] this is not the best way to do do things
+[00:04:00] if you're running a a standard uh funnel
+[00:04:02] architecture like this you're really
+[00:04:04] only talking to this
+[00:04:05] 3% little do you know it's like the tip
+[00:04:08] of an iceberg you know you see like if
+[00:04:10] this is if this is the ocean and you see
+[00:04:13] like the tip of the iceberg right here
+[00:04:16] you're like oh this is awesome I'm just
+[00:04:17] going to go after all these buyers right
+[00:04:18] here they're ready to buy they know the
+[00:04:20] product they're they're they're solution
+[00:04:22] aware and I hi them with my ad and they
+[00:04:24] convert as long as my product page is
+[00:04:25] good my ad is good and everything else
+[00:04:27] will take care of itself and these are
+[00:04:29] the types of people people by the way
+[00:04:30] that obsess over the product because
+[00:04:32] think about what you're really competing
+[00:04:33] on in this instance if you have an ad
+[00:04:35] that's going to a PDP and then C page in
+[00:04:36] a checkout all the emphasis all the
+[00:04:39] power is in the hands of the ad and the
+[00:04:41] product those are very very very
+[00:04:43] competitive and difficult varibles to
+[00:04:46] compete on so in the video that I posted
+[00:04:48] last week um if you're not if you
+[00:04:50] haven't watched it by the way absolutely
+[00:04:51] watch that video It's called you know
+[00:04:52] zero to uh 600k a month with branded
+[00:04:54] Drop Shipping just copy me if you
+[00:04:56] haven't watched that video please watch
+[00:04:57] it now cuz I explain that this is not
+[00:04:59] not the best way of doing things because
+[00:05:01] you're really only talking to a tiny
+[00:05:02] percent of the market that's ready to
+[00:05:03] buy right now however if you simply
+[00:05:05] change the structure of your funnel you
+[00:05:07] run some different ads and then instead
+[00:05:09] of sending them to a PDP you know a
+[00:05:11] regular product page you send them to a
+[00:05:13] well constructed ad vtorial funnel or
+[00:05:15] via cell funnel and then instead of just
+[00:05:17] ending the whole checkout process right
+[00:05:21] here you have I can't scroll over
+[00:05:23] because I have I have some other
+[00:05:24] writings here that I was I was training
+[00:05:25] my team on but basically you know [ __ ]
+[00:05:28] all that basically it's going to be you
+[00:05:30] know upsell boom down sell boom upsell
+[00:05:34] two boom down sell two boom and so you
+[00:05:38] can completely construct this super
+[00:05:40] super well-designed direct response
+[00:05:42] funnel where you can capture more than
+[00:05:44] 3% of the market and you can maybe take
+[00:05:46] it from like 3% you know it's not going
+[00:05:47] to you're not going to Target 97 because
+[00:05:49] you just have to be a god of a marketer
+[00:05:51] and even those guys like they're maybe
+[00:05:53] capturing like 10% you know but you can
+[00:05:56] speak to so many more people because
+[00:05:58] you're not just going like hey buy my
+[00:05:59] prodct by my product that's that's
+[00:06:00] essentially what this funnel is doing I
+[00:06:02] hope you guys understand people are
+[00:06:04] going through the feed and they don't
+[00:06:05] like looking at ads generally speaking
+[00:06:07] unless you're competing with like the
+[00:06:09] perfect product and you message that in
+[00:06:11] the perfect way on your ad on your
+[00:06:12] creative then you can make this funnel
+[00:06:14] work um don't get me wrong there's a lot
+[00:06:16] of Brands right now that are crushing
+[00:06:17] with this funnel um and if you look at
+[00:06:20] them it's typically because they have a
+[00:06:22] very good brand presence and a very very
+[00:06:24] very good product Market fit and they
+[00:06:26] know exactly how to speak to the
+[00:06:27] customers that they want to go after so
+[00:06:29] that's like the real real way that they
+[00:06:31] compete for you especially if you're
+[00:06:33] just starting out you don't have that
+[00:06:34] competitive Advantage you just don't and
+[00:06:36] so you have to come up with something
+[00:06:38] else to compete on so that's why my
+[00:06:40] whole thing in the in the previous uh
+[00:06:42] previous funnel was competing on
+[00:06:43] marketing competing on funnel and
+[00:06:44] competing on economics which again that
+[00:06:46] idea originally was brought to me like
+[00:06:47] Years Ago by alen suton so I want to
+[00:06:49] make sure I give credit to that guy and
+[00:06:51] um it's basically ad product pce cart
+[00:06:55] check out boom that's it you're done
+[00:06:57] that's how you capture 3% but if you
+[00:06:59] want to capture 97% let me show you what
+[00:07:01] this brand is doing you can actually
+[00:07:02] look at them as a great example because
+[00:07:04] instead of just targeting this tiny
+[00:07:06] little tip of the iceberg little do you
+[00:07:08] know there's just a massive massive pile
+[00:07:11] of cash beneath this monstrous [ __ ]
+[00:07:14] Iceberg but all you see is the tip
+[00:07:16] simply because you like most people
+[00:07:19] aren't doing this and the people that
+[00:07:20] are they're very very underground they
+[00:07:22] don't talk about it nobody really talks
+[00:07:24] about this this this structure anywhere
+[00:07:26] people are still teaching the same [ __ ]
+[00:07:28] that that happened when I started Drop
+[00:07:31] Shipping in
+[00:07:32] 2018 still teaching the same [ __ ] don't
+[00:07:34] you think that the game has changed a
+[00:07:35] little bit still trying to compete on
+[00:07:37] the product still trying to compete on
+[00:07:39] like having a standard Shopify store
+[00:07:41] you're just going to be screwed like
+[00:07:43] you're just going to be screwed so
+[00:07:45] instead of you know using a model like
+[00:07:47] this um and only only going after like
+[00:07:49] that 3% that tip of the iceberg let me
+[00:07:51] show you how to actually capture uh
+[00:07:53] capture a significantly greater market
+[00:07:55] share like this 97% here okay so um what
+[00:08:00] like I said the main problem with this
+[00:08:01] funnel and the reason that I keep going
+[00:08:03] back to this is you have to understand
+[00:08:04] why this doesn't work so I can explain
+[00:08:07] what really does work so the problem
+[00:08:09] here is that you're going from ad
+[00:08:11] straight to a product page and getting
+[00:08:12] people to buy immediately without
+[00:08:13] channeling any existing desire that's
+[00:08:16] really in the market you're not really
+[00:08:18] take putting them in the uh in the
+[00:08:20] problem State and then taking them to
+[00:08:22] the solution State because the thing
+[00:08:24] here is that you're basically only going
+[00:08:26] after them when people are in the
+[00:08:27] solution State unless they know about
+[00:08:29] the the root cause of the problem and
+[00:08:32] this happens to directly align with that
+[00:08:34] as a solution like your product just
+[00:08:36] happens to perfectly fit like a glove um
+[00:08:39] then you're then you're really really
+[00:08:40] limiting yourself and so the reason that
+[00:08:42] this funnel um that I'm about to draw
+[00:08:43] out for you guys works so much better is
+[00:08:45] because you can you can like morph it
+[00:08:48] and and uh structure it in a way that
+[00:08:52] really really benefits you you can kind
+[00:08:54] of twist it and morph it into your own
+[00:08:56] unique solution so this is why you can
+[00:08:59] take product products that are quote
+[00:09:00] unquote saturated just absolutely
+[00:09:01] destroy it's because of this model here
+[00:09:03] so let me kind of show you guys what I
+[00:09:05] mean here so the first thing is you know
+[00:09:07] we're still going to start with an ads
+[00:09:08] because you know run more ads that's our
+[00:09:10] thing um however like the difference in
+[00:09:12] the ad here is I'm probably not going to
+[00:09:15] use like a standard if you think of what
+[00:09:16] a Drop Shipping ad is or if you don't
+[00:09:17] know you can just go on any AD spy tool
+[00:09:20] and you'll probably see a lot of them
+[00:09:21] it's just standard like all about the
+[00:09:23] product um but what's working really
+[00:09:25] really well right now is actually having
+[00:09:27] a little bit longer ads um that are
+[00:09:29] actually many vsls they'll they'll be
+[00:09:31] like vsl ads that are anywhere from like
+[00:09:33] you know 4 to 8 minutes long sometimes
+[00:09:34] they're even like 3 minutes long um but
+[00:09:37] they're really really putting people in
+[00:09:39] their own problem State attacking them
+[00:09:41] there and getting them in the proper
+[00:09:42] solution state so that by the time they
+[00:09:44] actually get to your Lander they're
+[00:09:46] already pre-sold okay and so with this
+[00:09:49] you know granted I'm not going to say
+[00:09:50] that this is an easy method to start up
+[00:09:53] so like even for beginners I'm like
+[00:09:56] should I really be recommending this
+[00:09:57] because it's uh it's it's not easy like
+[00:10:00] for me to just sit back here and say
+[00:10:02] that oh this new model is easy Ecom is
+[00:10:03] easy Shopify is easy I'm just not going
+[00:10:05] to say that because it's not true um
+[00:10:08] however if you do it the right way I
+[00:10:10] really really think you're setting
+[00:10:11] yourself up for Success long term not
+[00:10:12] just for like you know making a few
+[00:10:14] thousand dollars not just a few thous uh
+[00:10:16] tens of thousand dolls or 100 thousand
+[00:10:17] like literally millions of dollars
+[00:10:18] because these are the brands right now
+[00:10:19] that are scaling to 50 100 $500,000 per
+[00:10:23] day in sales it's a brands that are
+[00:10:25] using a model like this so we have um
+[00:10:27] the ad but instead of the ad going to to
+[00:10:29] the straight like PDP which is what we
+[00:10:31] had previously that ad is actually going
+[00:10:33] to be going to a pre-sell page so this
+[00:10:36] could be a number of things this could
+[00:10:37] be an advertorial this could be a
+[00:10:40] listicle this could be a vsl page those
+[00:10:44] are the most common models that I see
+[00:10:46] what I see working really well right now
+[00:10:47] is going from a relatively short um BSL
+[00:10:51] ad like I said here where you can get
+[00:10:52] even a you know significantly higher
+[00:10:54] click the rate of 3% I I remember when I
+[00:10:57] first uh tried this model out myself I
+[00:10:58] ran an ad it was a simple image ad but
+[00:11:01] because I messaged it so well no joke I
+[00:11:04] was getting click through rates of 10%
+[00:11:06] 10 freaking percent. I'm not going to
+[00:11:08] say that's normal because it's not but
+[00:11:10] the the goal here is really to get the
+[00:11:12] most qualified people onto your Lander
+[00:11:14] and really shape the beliefs in their
+[00:11:16] mind through your copy that by the time
+[00:11:18] they actually get to the order page and
+[00:11:19] the sales page they're ready to freaking
+[00:11:21] buy and they're not only ready to buy
+[00:11:23] once they're going to buy from you
+[00:11:25] multiple times you have emotionally um
+[00:11:28] kind of warped that customer to the
+[00:11:29] point where they are ready to pay you
+[00:11:31] $100 plus if you have an aov of over 100
+[00:11:35] it's just going to be so much easier for
+[00:11:36] you to scale I don't care how much your
+[00:11:38] product is I sold products that are like
+[00:11:40] you know uh $25 and I can still get an
+[00:11:43] aov above 100 if you follow this process
+[00:11:45] and construct things in the right way so
+[00:11:48] from the ad here you're next going to go
+[00:11:50] to that pre-sale page so in this case
+[00:11:51] let's just say it's an ad tutorial I use
+[00:11:53] P but like let's say this is an ad
+[00:11:55] [ __ ]
+[00:11:56] hell let's just say this is an and AD
+[00:11:59] tutorial hopefully you guys can uh can
+[00:12:01] still hear hear me and see me my uh wifi
+[00:12:04] isn't always cooperating but let's just
+[00:12:06] say this year is an adoral page right
+[00:12:09] the the purpose of the adoral page is to
+[00:12:12] create that desire okay so instead of
+[00:12:15] this this model here where you're just
+[00:12:16] hoping to align with the the desire um
+[00:12:20] of the the customers that already exist
+[00:12:22] in their mind here you can build it
+[00:12:23] yourself you can push all these
+[00:12:25] emotional buttons If you write really
+[00:12:26] compelling copy and get them to the
+[00:12:28] point
+[00:12:29] where there's so much more desire
+[00:12:33] created within their body so that by the
+[00:12:34] time that they actually get to the next
+[00:12:35] step the sales page they are ready to
+[00:12:38] buy significantly more from you so the
+[00:12:42] point of this funnel is to create
+[00:12:43] customers that are more
+[00:12:45] valuable let me say that again the point
+[00:12:47] of this new funnel is to create
+[00:12:48] customers that are more valuable because
+[00:12:51] when you have an aov that's $100 plus
+[00:12:53] you know 120 150 even 200 I know some
+[00:12:55] brands in the in the game right now
+[00:12:57] doing like eight figures per month a of
+[00:12:59] like
+[00:13:00] 190 and the the front end product is
+[00:13:02] only like $60 or $70 okay so you have a
+[00:13:05] pre-sale page ad tutorial from here you
+[00:13:07] actually are going to go to the sales
+[00:13:08] page so this is the specifics of the
+[00:13:10] product so think of this as almost like
+[00:13:12] the benefits and the outcomes that you
+[00:13:14] can get as a result of this product
+[00:13:15] pre-selling people warming them up and
+[00:13:18] then this is going to be the actual
+[00:13:20] sales page with all the information
+[00:13:21] about the product um so that they get
+[00:13:23] them to actually buy and then from the
+[00:13:25] sales page and again guys I'm going to
+[00:13:26] show you an example of this uh in just
+[00:13:28] one second like I I know you guys want
+[00:13:29] examples badly and I'll I'll show you
+[00:13:31] and I'll also show you how you can find
+[00:13:33] examples yourself on your own um so this
+[00:13:35] is all the information at the product
+[00:13:36] after this
+[00:13:38] point What's Next the order page o it's
+[00:13:43] good uh good abbreviation there because
+[00:13:46] it is [ __ ] op and the reason that's
+[00:13:48] op is simply because of the amount of
+[00:13:50] offers that you can put in front of
+[00:13:51] somebody and get them to take on this
+[00:13:53] order page so the whole point of having
+[00:13:55] an order page you're like Mark why not
+[00:13:57] just like have them purchase right here
+[00:13:58] on the sales page I mean at this point
+[00:13:59] they've already seen an ad they've
+[00:14:00] already seen an ad tutorial and to get
+[00:14:02] to the sales page why not just have them
+[00:14:03] purchase there the reason why is because
+[00:14:06] you can add so many more um aov boosters
+[00:14:08] on the order page than you can on a
+[00:14:10] sales page so number one it's going to
+[00:14:12] be volume discounts like quantity
+[00:14:14] discounts so the more that you buy the
+[00:14:16] more that you save so this is like
+[00:14:17] bundles this could be like the more you
+[00:14:19] pay the more that you save this could be
+[00:14:21] um also bundles with additional products
+[00:14:23] I was thinking mostly of bundles of the
+[00:14:25] same product you can bundle additional
+[00:14:27] products uh depending on what your
+[00:14:28] product is so like I I'm I'm actually
+[00:14:31] I'll give you guys a little open loop
+[00:14:32] I'm dropping a video um tomorrow
+[00:14:34] actually it's all about product research
+[00:14:35] one of the criteria that I look for
+[00:14:37] before you even sell anything is to pick
+[00:14:39] a product that you know has the
+[00:14:41] potential for upsales in the future
+[00:14:43] don't pick a product and then try to
+[00:14:45] find upsells pick pick a product that
+[00:14:46] you know from day one has upsells that
+[00:14:48] make clear perfect [ __ ] sense because
+[00:14:52] that is how you really have to compete
+[00:14:53] in 2024 and 25 is again if you're still
+[00:14:56] running like with the same model you
+[00:14:57] have a low aov low conversion rate it's
+[00:15:00] just going to be so so difficult for you
+[00:15:01] to scale long term ads are only going to
+[00:15:04] get more expensive I know the election's
+[00:15:05] over which is great still Q4 all right
+[00:15:08] we have uh Black Friday and Cyber Monday
+[00:15:10] in almost exactly two weeks ads are
+[00:15:14] going to get more expensive until the
+[00:15:15] end of the year q1 will be better but
+[00:15:18] anytime during Q4 a lot of [ __ ] happens
+[00:15:20] ad accounts go down BMS go down Pages go
+[00:15:23] down co- files go down and on top of
+[00:15:25] that you have CPAs Rising you have uh
+[00:15:28] cpms Rising and it's just a natural part
+[00:15:30] of the game and if you don't really try
+[00:15:31] to compete this way long term you're
+[00:15:33] just not going to make it um so like I
+[00:15:36] said you can have a bunch of different
+[00:15:37] volume discounts the other thing that
+[00:15:38] you can do on this page specifically is
+[00:15:41] have um order bumps so like that's
+[00:15:43] another way that you can add aob
+[00:15:44] boosters you know another thing that I
+[00:15:46] posted in the video last week was
+[00:15:48] specifically that you want to get as
+[00:15:50] many offers in front of people as you
+[00:15:52] can but it only works if you have a
+[00:15:54] model like this because you have like
+[00:15:55] you've taken one step two step three
+[00:15:59] step to build up all this desire in
+[00:16:01] people right so this is like if you know
+[00:16:03] like the Ada formula attention interest
+[00:16:06] uh attention interest desire action this
+[00:16:08] is like the attention right this is the
+[00:16:10] interest this is the
+[00:16:13] desire this is the action this is where
+[00:16:15] they actually purpose uh I'm sorry
+[00:16:17] purchase so it's literally like designed
+[00:16:20] perfectly according to this formula and
+[00:16:22] you know you can say what you want about
+[00:16:23] this formula I know there's a bunch of
+[00:16:24] different variations of it but you know
+[00:16:25] I'm I'm a fundamentalist so I like to
+[00:16:27] keep it relatively simple get more
+[00:16:29] offers in front of your in front of your
+[00:16:30] customers right here more offers bumps
+[00:16:33] volume discounts cross sales cuz this is
+[00:16:36] really where you're going to have so
+[00:16:38] much impact on your aov um but not the
+[00:16:41] most interestingly enough so where you
+[00:16:43] have the most impact on your aov it's
+[00:16:45] actually The Next Step so this is going
+[00:16:47] to be your first Oto your first upsell
+[00:16:49] so we'll just name it like
+[00:16:51] oot one you don't know o in for a one
+[00:16:54] time offer and this is where you can
+[00:16:57] have the most impact on your aov
+[00:16:59] throughout your entire funnel aside from
+[00:17:01] maybe if you have like a higher ticket
+[00:17:03] you know product price on the order page
+[00:17:04] I'm talking like $100 plus this is going
+[00:17:07] to have the most significant impact on
+[00:17:10] your aov is 01 upsell number one the
+[00:17:13] reason why is because at this point you
+[00:17:14] have their credit card information you
+[00:17:16] have a customer and if you use your your
+[00:17:19] copy in your language right you can use
+[00:17:21] the emotional um momentum that has been
+[00:17:25] created to increase your aov
+[00:17:28] substantially so like I said I've I've
+[00:17:30] had products that are very very low
+[00:17:31] ticket in the space I'm talking like $20
+[00:17:33] $25
+[00:17:35] $30 but with this one Otto you can sell
+[00:17:38] stuff as expensive as expensive as $200
+[00:17:42] as $300 in fact I have sold um you know
+[00:17:45] a product that is uh 297
+[00:17:50] 297 on a very very low front and product
+[00:17:53] price and now I know what you're
+[00:17:55] thinking like Mark how many people are
+[00:17:56] actually going to buy this well that all
+[00:17:58] depends on on your copy that all depends
+[00:17:59] on the page all depends on how you
+[00:18:01] actually decided to go with this product
+[00:18:03] to upsell because like I know people
+[00:18:05] always say the more of the same upsell
+[00:18:07] typically does
+[00:18:08] well um and I agree I think it does it's
+[00:18:11] like a safe bet however if you want to
+[00:18:13] have a very very big impact on your aop
+[00:18:15] I'm talking like $30 $50 plus then I
+[00:18:18] think cross selling a different product
+[00:18:19] is typically the best way to go but it
+[00:18:21] has to logically make sense you want to
+[00:18:22] reverse engineer um upsells one of thing
+[00:18:25] I I tell my teams all the time is like
+[00:18:27] the um the purpose of the front end
+[00:18:30] product is to solve the Market's main
+[00:18:32] problem and to create a new
+[00:18:35] one the purpose of the main product that
+[00:18:37] you're selling is to solve a problem and
+[00:18:40] create a new one okay what I mean by
+[00:18:42] that for example is let's say you're in
+[00:18:44] the weight loss market and you're trying
+[00:18:46] to help people um like reduce their
+[00:18:50] weight and keep off body fat uh
+[00:18:52] specifically take off body fat and so
+[00:18:55] you you have this product let's say like
+[00:18:57] a horrible horrible example let's say
+[00:18:59] it's a literal weight loss pill I do not
+[00:19:01] endorse weight loss pills but let's say
+[00:19:02] it's like a weight loss pill um almost
+[00:19:04] like a like an OIC right
+[00:19:06] semaglutide that product is fantastic
+[00:19:08] because it's it's super like TurnKey you
+[00:19:11] just take the pill sit back do whatever
+[00:19:13] I don't you know I can't speak to the
+[00:19:14] effectiveness of it not recommending it
+[00:19:16] in any way um however people sell it and
+[00:19:18] people destroy it with with that product
+[00:19:20] there was there's a reason why the
+[00:19:21] weight loss Market is multi-billion
+[00:19:22] dollar industry every single year so
+[00:19:25] with that said you solve the main
+[00:19:26] problem of the market that's losing
+[00:19:28] weight what new problem is Created from
+[00:19:30] that let me think they don't have to
+[00:19:33] wait anymore what if they gain it back
+[00:19:35] that's a problem so the next logical
+[00:19:38] upsell from that is going to be to keep
+[00:19:40] that weight off because as soon as you
+[00:19:42] stop taking the pills or whatever like
+[00:19:43] you know you're not going to be um like
+[00:19:46] you'll just gain the weight rate back
+[00:19:47] and this is a really really good thing
+[00:19:49] for really really good way to structure
+[00:19:50] upsells in the weight loss Market is
+[00:19:52] number one front end product how to
+[00:19:54] reduce a weight um number two how to
+[00:19:56] keep that weight off perfect example
+[00:19:59] so that's the next logical step that's
+[00:20:01] the first problem that was solved in a
+[00:20:02] new problem created it's really
+[00:20:04] important that you guys understand that
+[00:20:05] because maybe the biggest impact like I
+[00:20:07] can talk talk about how to structure
+[00:20:08] these Pages blah blah blah but the
+[00:20:10] really the the biggest impact on your
+[00:20:12] post purchase upsell path which even
+[00:20:15] from here you know haven't talked about
+[00:20:16] it yet but you can have O2 and in
+[00:20:19] example I'm going to show you I think
+[00:20:20] there's ot3 and maybe even four actually
+[00:20:23] there may be four upsells um I'll show
+[00:20:25] you but this is like two and this is
+[00:20:27] three I'm just going to end it here uh
+[00:20:30] the you know the funnel not the video
+[00:20:32] say this is the thank you page I think
+[00:20:34] in the exam there may be four upsells
+[00:20:35] though because I actually purchased the
+[00:20:37] product right before this video so I can
+[00:20:38] show you guys a really good example live
+[00:20:40] in real time um but this this upso right
+[00:20:44] here by far has the most um price uh
+[00:20:47] elasticity so you can go from something
+[00:20:50] that is you know $50 $100 to 300 to 500
+[00:20:53] even $1,000 you can do because while you
+[00:20:56] may not have a super high take rate even
+[00:20:58] something like you know on $1,000
+[00:21:00] product 10% that's a $100 aob
+[00:21:03] contribution 5% that's a $50 aob
+[00:21:05] contribution and you're getting better
+[00:21:07] customers people that pay you more money
+[00:21:09] are your best customers those your those
+[00:21:10] are your highest value customers so the
+[00:21:13] more that you can speak to those people
+[00:21:15] and get offers in front of those people
+[00:21:17] that resonate with those people because
+[00:21:18] there's going to be different offers
+[00:21:19] like an offer that resonates with a $20
+[00:21:21] buyer is going to be completely
+[00:21:22] different from an offer that resonates
+[00:21:23] with a $1,000 buyer so if you get more
+[00:21:26] of these these offers in front of your
+[00:21:28] best customer customers even if you have
+[00:21:29] a lower take rate economically you can
+[00:21:30] still scale you can still scale very
+[00:21:32] very well um so what happens as you go
+[00:21:34] down this upsell path is that your
+[00:21:37] product price of the upsells typically
+[00:21:39] should decrease like it's hard to go
+[00:21:41] from here you know a $300 offer to here
+[00:21:44] this would be like a $500 offer very
+[00:21:47] very hard to do that I don't recommend
+[00:21:49] it I recommend as you go down the funnel
+[00:21:51] the price of the offers that you're
+[00:21:52] getting in front of people should go
+[00:21:53] down economically um because naturally
+[00:21:55] the take rates are also go down because
+[00:21:57] people drop off at every step anytime
+[00:21:59] you have a funnel and this is like
+[00:22:00] marketing [ __ ] 101 anytime you have a
+[00:22:02] funnel like this and a funnel in general
+[00:22:04] there's drop off at every step like on
+[00:22:06] the [ __ ] hell on the ad level right
+[00:22:10] make sure we're still uh yeah yeah yeah
+[00:22:12] yeah yeah okay
+[00:22:14] cool on the ad level there's significant
+[00:22:16] drop off if you have a 3% click the rate
+[00:22:18] that means you have a 97% drop off for
+[00:22:20] every impression to somebody who clicks
+[00:22:22] from here there's a drop off even from
+[00:22:24] the ad to to the pre-sale landing page
+[00:22:26] you'll typically have 5 10 15% drop drop
+[00:22:28] off just because of your website loading
+[00:22:30] speed not everybody who clicks on your
+[00:22:31] ad is actually going to make it here a
+[00:22:33] lot of people are in poor uh internet
+[00:22:35] locations they click on the link and
+[00:22:37] they never actually register as a
+[00:22:38] landing page view because they leave
+[00:22:39] before the P before the page fully loads
+[00:22:41] so you have to drop off there then from
+[00:22:43] the the pre-sale page to the sales page
+[00:22:45] you have significant drop offs often
+[00:22:47] times it's uh you know 60 70% 80% even
+[00:22:51] drop off so you have like a 20% click
+[00:22:52] theate from here to here from the sales
+[00:22:54] page to the order page you're also going
+[00:22:55] to have drop off so I get what people
+[00:22:56] mean when they're like Mark why would
+[00:22:58] you're going to add friction add more
+[00:22:59] steps you have to keep the end in mind
+[00:23:01] you want the best buyers out of the pool
+[00:23:04] of let's say Facebook if you're running
+[00:23:05] ads you want to get the best customers
+[00:23:07] from Facebook so that as you scale your
+[00:23:09] business becomes more valuable because
+[00:23:10] it's built around customers that don't
+[00:23:12] have an aov of $30 they have an aov of
+[00:23:15] $150 of $200 that make sense and so like
+[00:23:20] I said as you're as you're as you're
+[00:23:21] scaling and going down the upsell path
+[00:23:24] um they're going to have let me get my
+[00:23:26] oh we got it okay you're going to have
+[00:23:29] uh upsell down sell upsell down sell
+[00:23:32] upsell down sell and so every single
+[00:23:35] offer that you can put in front of
+[00:23:36] people post purchase the more money
+[00:23:37] you're going to make it's just very
+[00:23:38] simple then by the time you get here
+[00:23:41] work gets really cool and I'm not going
+[00:23:42] to talk about this in this video if we
+[00:23:43] want we can talk about it in another
+[00:23:44] video but you can segment the people who
+[00:23:46] bought this product didn't buy this
+[00:23:48] product and didn't buy this product so
+[00:23:50] then what are you going to do in your
+[00:23:50] email sequences right of course you're
+[00:23:52] going to send them the the success email
+[00:23:54] um their their order confirmation all
+[00:23:56] that but then people are still in that
+[00:23:59] emotional state of purchasing for an
+[00:24:00] average of about 24 hours and so you can
+[00:24:03] actually upsell after they complete this
+[00:24:05] whole funnel path because a lot of
+[00:24:07] people will drop off here there's going
+[00:24:08] to be drop off from here to here from
+[00:24:10] here to here from here to here every
+[00:24:11] single step there's drop off and you may
+[00:24:13] see that as a bad thing but if you add
+[00:24:15] in really well constructed email and
+[00:24:18] SMS email and SMS uh workflows based off
+[00:24:22] of their behavior in this funnel you can
+[00:24:24] clean up a lot of that drop off and by
+[00:24:26] the way that's true of every single St
+[00:24:28] here if they get to the the um you know
+[00:24:32] the out tutorial page to the sales page
+[00:24:34] if you collect their email right here
+[00:24:36] guess what you can do email an
+[00:24:38] SMS let me draw a little phone
+[00:24:42] icon you can hit them with email and SMS
+[00:24:45] to get them back to the sales page and
+[00:24:47] convert an even higher percentage here
+[00:24:49] so this all works together as you can
+[00:24:51] see like just look at all this [ __ ]
+[00:24:52] scribbling guys I mean this is of course
+[00:24:55] is very valuable but I'm not going to
+[00:24:56] say that it's not it's easy to do I I
+[00:24:58] think it's the best way to do things um
+[00:25:00] but if you don't know how to set all the
+[00:25:01] stuff up and if you guys want like a
+[00:25:02] tutorial on you know how to step uh set
+[00:25:04] the stuff up just let me know um so this
+[00:25:06] is the structure guys this is the
+[00:25:07] structure of the brand I'm actually
+[00:25:08] going to show you right now and um if
+[00:25:10] you have any questions please put them
+[00:25:11] in the comments actually I'm not going
+[00:25:13] to lie to you I don't know how to check
+[00:25:14] the questions um I'll see if I can pull
+[00:25:18] up some questions on my phone but I I
+[00:25:19] genuinely don't know um so for now I
+[00:25:22] want you guys just comment um in the
+[00:25:24] chat below let me know if this is
+[00:25:25] helpful and while you're doing that let
+[00:25:28] me see if I can find any comments here
+[00:25:31] um and answer them real quick before I
+[00:25:33] actually go to the examples that I'm
+[00:25:35] talking
+[00:25:53] about oh by the way guys uh before I
+[00:25:56] before I show you the example um I
+[00:25:58] actually put together a doc uh in a loom
+[00:26:01] video to go with it that explains kind
+[00:26:02] of my whole funnel uh scaling process um
+[00:26:05] I actually have to give credit to Alex
+[00:26:07] fedad off he's my business partner but
+[00:26:08] he came up with a funnel scaling idea
+[00:26:10] way before anybody else like that dude
+[00:26:11] is just so ahead of the curve when it
+[00:26:13] comes to this stuff he was doing this
+[00:26:14] way before any other econ Brands were
+[00:26:17] and uh that you know his his results and
+[00:26:19] success show um so let me just see if I
+[00:26:22] can look at any comments
+[00:26:26] here I
+[00:26:28] I I genuinely don't
+[00:26:32] know all right let's go
+[00:26:44] to so like I said if you want that um if
+[00:26:47] you want that cheat sheet and the loom
+[00:26:48] video that that goes over this entire
+[00:26:50] process just in a little bit more detail
+[00:26:52] um please just do me a favor and go to
+[00:26:55] my Instagram Mark builds BRS and DM me
+[00:26:58] the word funnel and I'm happy to get
+[00:26:59] that over to you all right guys give me
+[00:27:01] 15 seconds I'm going to see if I can
+[00:27:03] make this work um let's
+[00:27:06] see oh hell yeah I got the comments all
+[00:27:09] right cool let's see what we
+[00:27:13] got oh man I I know my production value
+[00:27:16] is just not up there
+[00:27:20] um so they're asking for examples cool
+[00:27:23] yeah I'm going to give you some
+[00:27:25] examples broad audience is better yeah
+[00:27:27] guys so
+[00:27:28] another really important thing here this
+[00:27:30] model really only works when you are
+[00:27:33] going for scale if you have a very very
+[00:27:36] extremely Niche product it's hard to
+[00:27:38] make this work so that's why I'm like a
+[00:27:39] huge fan of actually going into
+[00:27:41] saturated markets I love going into
+[00:27:43] saturated markets because I know that
+[00:27:45] it's proven I know that there's red hot
+[00:27:47] fires and all I have to do is to out
+[00:27:49] compete everybody else and I know that
+[00:27:51] sounds like a lot sounds like a hard
+[00:27:52] thing to do however you'd be shocked at
+[00:27:55] how many people don't run a structure
+[00:27:56] like this shocked okay so without
+[00:27:59] further Ado let's hop into the the
+[00:28:01] example that I want to kind of show you
+[00:28:03] here so the first thing is anytime that
+[00:28:05] I'm kind of doing uh research on ads I'm
+[00:28:08] typically going to a a website that's
+[00:28:10] just littered with cookies and Native
+[00:28:13] ads and so uh I actually found this this
+[00:28:16] offer um blissy many of you probably
+[00:28:18] know it but this is an adventori funnel
+[00:28:20] that I went through before this call and
+[00:28:22] I want to show you guys exactly how um
+[00:28:25] how it's structured and why it's
+[00:28:26] structured so well and this is the brand
+[00:28:27] that's doing doing like $3 million per
+[00:28:29] month like this is a monstrous brand and
+[00:28:31] as you can see you know a lot of these
+[00:28:33] funnels you'll be like oh this doesn't
+[00:28:34] even look that good doesn't look that
+[00:28:36] crazy and to that I say um ugly ads ugly
+[00:28:42] funnels equals pretty profits a lot of
+[00:28:45] the stuff that you think is ugly deep
+[00:28:48] down is just printing absolutely
+[00:28:51] Printing and you'd be You' be shocked
+[00:28:53] about the ads that I have personally ran
+[00:28:55] myself you'd be like this is disgusting
+[00:28:57] Mark like like why' you even show me
+[00:28:58] this I feel like I want to throw up just
+[00:28:59] looking at this ad but it's destroying
+[00:29:01] it destroying so this offer here is an
+[00:29:04] adoral funnel what makes Blissey the
+[00:29:06] most popular pillow case in the world so
+[00:29:07] if I were to go to my my beautiful
+[00:29:09] drawing here we're now at I didn't show
+[00:29:11] you guys the ad because it's a native ad
+[00:29:12] but we're now at the avator step this is
+[00:29:14] where we're building the interest we got
+[00:29:16] the attention this is where we're
+[00:29:17] building that interest um for this
+[00:29:20] particular offer so this is an
+[00:29:21] interesting one because it's not it it's
+[00:29:24] breeding it's very very uh product aware
+[00:29:27] adoral meaning you're not like building
+[00:29:29] the desire um of the problem you're more
+[00:29:32] building the desire of the product so
+[00:29:34] you're going a little bit farther down
+[00:29:36] funnel a little bit farther on the
+[00:29:38] levels of awareness
+[00:29:42] um and so when you do that you know it
+[00:29:45] works for a lot of people a lot of
+[00:29:46] bigger Brands um however if you're not
+[00:29:49] like a really well-known brand like if I
+[00:29:50] were to just look up blitzy on like
+[00:29:52] Google Trends or like Google search with
+[00:29:54] keywords everywhere I can see how many
+[00:29:56] people are searching for this keyword
+[00:29:57] and since this is like a multi8 figure
+[00:29:58] brand they have a lot of brand value
+[00:30:01] they have a lot of existing demand just
+[00:30:03] for this single keyword and so this
+[00:30:05] could be like a you know some type of
+[00:30:07] retargeting um this could be some some
+[00:30:10] type of retargeting offer but regardless
+[00:30:12] like this is still an offer that could
+[00:30:13] convert on cold so what makes blissy the
+[00:30:16] most popular pillow case in the world um
+[00:30:19] you know building the the status of the
+[00:30:21] brand um they'll never sleep on anything
+[00:30:23] else credibility and social proof
+[00:30:26] 112,000 F star revie
+[00:30:28] and what exactly does it do so this
+[00:30:31] immediately we're getting into like you
+[00:30:32] know the five reasons um actually not
+[00:30:34] five reasons 10 11 12 reasons that this
+[00:30:36] product is so good and each one is not
+[00:30:38] just a reason it's a well- constructed
+[00:30:40] um outcome statement so like the real
+[00:30:43] reason that people buy this product it's
+[00:30:44] not because they want to sleep better
+[00:30:46] it's for their skin and so that you know
+[00:30:48] you kind of frame the problem as the
+[00:30:49] reason that you have these these skin
+[00:30:51] issues is because of the pillow that
+[00:30:53] you're sleeping on just a house of
+[00:30:54] bacteria so they're building all that
+[00:30:56] desire here within this particular
+[00:30:58] avator page okay so this is a great um
+[00:31:01] you know this is actually almost a
+[00:31:03] listicle more than is a an advat toal um
+[00:31:07] because it is just listing out the
+[00:31:08] benefits of the product um but it's also
+[00:31:10] building the brand at the same time so a
+[00:31:13] page like this is fantastic to emulate
+[00:31:15] if you're looking at a good avator
+[00:31:17] funnel and of course at the bottom they
+[00:31:20] have their call to action and typically
+[00:31:22] what I see in avoral is a call the
+[00:31:23] actions like check availability then if
+[00:31:25] you check this obviously there's going
+[00:31:26] to be some
+[00:31:28] yep sales page right there so now we're
+[00:31:30] on to the actual sales page you can see
+[00:31:32] how much different it actually looks
+[00:31:33] this is the actual brand um you know
+[00:31:36] selling the product selling talking a
+[00:31:38] lot more still about the outcomes and
+[00:31:40] the benefits but a lot deeper into the
+[00:31:42] features of the product uh for example
+[00:31:44] like pure mberry silk that is a feature
+[00:31:46] no toxic chemicals that's a feature
+[00:31:48] intertwined with the benefit
+[00:31:50] hypoallergenic antibacterial so now
+[00:31:52] you're kind of getting the people like
+[00:31:53] at this point especially with that
+[00:31:55] advertorial because it's product aware
+[00:31:58] people know the product and they
+[00:31:59] generally understand it pretty well
+[00:32:01] already this is more so to answer um you
+[00:32:03] know build the desire a little bit more
+[00:32:05] and at this point we're at the step of
+[00:32:07] um like I said building the desire
+[00:32:10] because you can't actually purchase on
+[00:32:12] this page you scroll down there's called
+[00:32:14] the action buttons but as you can see
+[00:32:16] there's no way for you to purchase on
+[00:32:17] this page you have to go to the next
+[00:32:19] step of the funnel so this is a really
+[00:32:21] well constructal landing page um not
+[00:32:24] exactly sure how they built this page
+[00:32:26] with what tool let's see if I can find
+[00:32:28] out really quickly
+[00:32:30] um this might be a custom page let's
+[00:32:41] see yeah I think this is a a custom page
+[00:32:44] because I can't see any specific here
+[00:32:46] which naturally this is a massive brand
+[00:32:48] so this it's no shock to me that this is
+[00:32:50] not um built on like a tool but if you
+[00:32:53] want to build a a page like this and you
+[00:32:54] want to build out this entire funnel
+[00:32:56] structure I recommend using something
+[00:32:57] like funnelish or using checkout champ
+[00:32:58] checkout champ you probably need um
+[00:33:00] actually you definitely need a developer
+[00:33:02] in order to get everything set up uh we
+[00:33:05] actually have a developer full-time on
+[00:33:06] our team that builds these funnels like
+[00:33:08] nonstop so it's not a big issue for us
+[00:33:11] however if you're just starting out you
+[00:33:12] know you're not going to be able to do
+[00:33:13] that so funnelish is a good option
+[00:33:16] um so that this is the entire First Step
+[00:33:19] there's not a whole lot to go over here
+[00:33:20] um I can drop like I said if you DM me
+[00:33:22] the word um funnel on Instagram I'm
+[00:33:25] happy to send you a link with like all
+[00:33:27] these links together that you can go
+[00:33:28] through yourself but let's say we go
+[00:33:29] through to the actual order page right
+[00:33:31] so at this point we have now checked you
+[00:33:34] know I didn't show the ad but we checked
+[00:33:35] the box there check the box there check
+[00:33:37] the box there we're now going on to the
+[00:33:39] order page and so this is the order page
+[00:33:41] here Best Kept Beauty secret get younger
+[00:33:44] while you sleep wow what a what a
+[00:33:46] benefit statement right there that's
+[00:33:47] [ __ ]
+[00:33:48] awesome um sleeping obl is recommended
+[00:33:50] by dermatologist Beauty experts and 2
+[00:33:52] million plus customers hella social
+[00:33:54] proof um that is like a very very
+[00:33:56] important thing um on the order page is
+[00:33:58] just building that trust and social
+[00:34:00] proof so much more like undeniably
+[00:34:02] summarizing what they're actually going
+[00:34:03] to get the benefits the outcomes and
+[00:34:06] then here is the actual
+[00:34:08] um here is the actual offer so as you
+[00:34:11] can see already we can see all these
+[00:34:14] different offers number one free
+[00:34:16] shipping that's great it's free it does
+[00:34:17] nothing for us uh you know as the
+[00:34:19] entrepreneur but that is building in
+[00:34:21] more of that perceived value of the
+[00:34:22] product before they actually purchase
+[00:34:23] but you can see here we have product
+[00:34:25] variance we have this this is
+[00:34:28] technically you know people say like
+[00:34:29] upses and cross sales they're they're
+[00:34:31] actually like a little bit different and
+[00:34:33] the reason why is because technically
+[00:34:35] speaking like a cross sale is a
+[00:34:36] different product and upsale is like an
+[00:34:37] upgraded version of the original product
+[00:34:39] just use the words upsell right nobody
+[00:34:41] really uses the word cross sale right
+[00:34:42] anyways so [ __ ] it all right um so here
+[00:34:46] you can select your size and be upsold
+[00:34:48] for various options of pillow which I
+[00:34:51] didn't even know there's [ __ ] sizes
+[00:34:52] of pillows so it's probably something
+[00:34:54] they
+[00:34:55] invented I'm kidding but um I I wasn't
+[00:34:57] of that but that you can obviously go
+[00:34:59] from like a standard pill to a queen or
+[00:35:00] a king now we have the volume discount
+[00:35:03] so this is exactly what I was talking to
+[00:35:04] you guys about earlier look how many
+[00:35:06] offers they have in front of me right
+[00:35:07] now we have 1 two three immediately just
+[00:35:10] a size for the package we have an
+[00:35:12] additional one two three we can do buy
+[00:35:14] three get one free buy two or buy one
+[00:35:16] $70 for a
+[00:35:20] pillow wow okay so like we can buy four
+[00:35:23] pillows we can buy two or we can buy one
+[00:35:26] and look look at the difference in the
+[00:35:28] as you can see these guys they they're
+[00:35:29] not even showing the the total price in
+[00:35:31] Big B teex it's always how much each one
+[00:35:33] is individually so the total is 180 here
+[00:35:36] is 120 and here is 70 so look at how
+[00:35:39] much they can build the aov just on this
+[00:35:42] one page we haven't even got to the
+[00:35:43] upside page but look at how much they
+[00:35:44] can really build up this value okay so
+[00:35:47] um this is another option here where you
+[00:35:49] can get another offer in front of
+[00:35:50] people's face is that it of course not
+[00:35:54] there's another offer this is the bump
+[00:35:56] so the bump is an offer that you put
+[00:35:57] right below the checkout option um so
+[00:36:00] this if I selected this this is an
+[00:36:02] additional $18 extended extended
+[00:36:05] protection this could be where you put
+[00:36:07] your I mean this could be like a
+[00:36:09] warranty work works very well here
+[00:36:11] priority shipping um you can even have
+[00:36:13] multiple bumps like for a while I was
+[00:36:15] using clickfunnels um for for an offer
+[00:36:18] like this and there's an extension
+[00:36:20] actually I think maybe click funel 2.0
+[00:36:22] has it built in but there was an
+[00:36:23] extension that you can get called CF Pro
+[00:36:25] Tools you can add multiple bumps um
+[00:36:27] right here beneath your uh beneath your
+[00:36:29] checkouts you get even more offers in
+[00:36:31] front of people as you can see just
+[00:36:33] littered with uh social proof everywhere
+[00:36:36] FAQs by the way if you want like a
+[00:36:38] little hack to increase your conversion
+[00:36:39] rate add more FAQs than you think go to
+[00:36:42] the comments of your ads see what people
+[00:36:43] are actually asking call your customers
+[00:36:45] call the optins like people that ban a
+[00:36:48] check out call them people are afraid to
+[00:36:50] talk to their customers call them why
+[00:36:52] didn't you purchase deeply deeply
+[00:36:54] understand your customer and you'll be
+[00:36:55] the best marketer in the room so under
+[00:36:58] the FAQ you can see they have a lot um
+[00:37:00] I'm a big fan of having a lot of FAQs
+[00:37:01] underneath the uh underneath the page um
+[00:37:05] because they're like all it could take
+[00:37:07] is one specific question that needs to
+[00:37:09] be answered and you're able to like
+[00:37:11] scale the living hell out of that offer
+[00:37:14] because if you didn't answer that one
+[00:37:15] that could be an extra like 5 10% of
+[00:37:17] customers that you bring in just from
+[00:37:18] that one FAQ you'd never know that if
+[00:37:20] you don't talk to your customer win wink
+[00:37:23] so yeah as you can see there's one offer
+[00:37:24] here two three four um five six seven
+[00:37:27] and there's a bunch of different
+[00:37:29] combinations that you could do here all
+[00:37:31] adding to the aov of this particular
+[00:37:32] offer another thing like I said just to
+[00:37:34] summarize so much Social proof so many
+[00:37:36] reviews
+[00:37:38] FAQs you know you would think that it's
+[00:37:40] like oh is it too much is it overboard
+[00:37:42] no with trust with reviews it is hard to
+[00:37:45] go overboard put more in front of their
+[00:37:47] face build more of the trust because a
+[00:37:49] lot of people will read multiple reviews
+[00:37:51] before they actually
+[00:37:55] purchase all right so we're going to go
+[00:37:57] to the Next Step let's say I actually go
+[00:37:58] through and purchase with which uh I
+[00:38:00] [ __ ] did um the next page that you
+[00:38:02] would see is a page like this now this
+[00:38:04] is the actual
+[00:38:08] oh oh you got to be kidding
+[00:38:16] me these are smart [ __ ] God
+[00:38:19] damn
+[00:38:21] it I wanted to show you guys the upsell
+[00:38:24] pages but as you can see um they block
+[00:38:26] me because unless I have like a previous
+[00:38:28] request for for purchasing that info is
+[00:38:31] not passed um so that's okay I can kind
+[00:38:34] of explain what this page looks like
+[00:38:35] anyways because I I really did just buy
+[00:38:36] it before this call um so if you were
+[00:38:40] looking at one of their upsell Pages ot1
+[00:38:41] for example I can't remember the exact
+[00:38:43] product I probably should have
+[00:38:44] screenshotted it now that I'm that I'm
+[00:38:46] looking at this um but it's very very
+[00:38:49] basic you know it's literally just um a
+[00:38:52] little bit of text here product text
+[00:38:55] text text text buyon
+[00:38:58] button and I'm not joking when I tell
+[00:39:00] you this exact same thing here exact
+[00:39:03] same thing here and I'm pretty
+[00:39:06] sure yeah they had four upsells so it
+[00:39:08] was actually another upsell and then the
+[00:39:11] thank you page and all the pages looked
+[00:39:13] identical all they changed was the
+[00:39:15] product so like I said I I apologize I
+[00:39:17] wanted to show you guys an example
+[00:39:19] especially of like the post-p purchase
+[00:39:20] process more uh more specifically but
+[00:39:23] they you know they block me from
+[00:39:24] purchasing uh or showing the upsell path
+[00:39:26] so I apologize
+[00:39:27] but yeah if you guys have any questions
+[00:39:29] about this this funnel or what this
+[00:39:30] really looks like or if you want like a
+[00:39:32] template for how to do this yourself
+[00:39:34] just go to my Instagram Mark Fields
+[00:39:35] Brands and DM me the word funnel and I
+[00:39:36] can send you over some cool [ __ ] um you
+[00:39:39] know just just because I like to help
+[00:39:40] out and nobody really teaches this stuff
+[00:39:42] so uh yeah that's it at this point guys
+[00:39:44] I'm going to look at some of the
+[00:39:45] questions here and try to answer some if
+[00:39:47] so if you have some questions that have
+[00:39:48] been coming in that have been lingering
+[00:39:49] please feel free to just throw them in
+[00:39:51] the chat because I'm actually looking at
+[00:39:52] it now
+[00:40:00] so broad audience is better because the
+[00:40:02] more audience you have the bigger the
+[00:40:03] people that continue going through the
+[00:40:04] funnel yes absolutely that's that like I
+[00:40:06] said that's exactly why I really really
+[00:40:08] want to go after markets that are red
+[00:40:11] that are hot that are buyers buying R
+[00:40:13] now the whole untapped winning product
+[00:40:15] thing I understand why people go that
+[00:40:18] route it's not for me it's just not I
+[00:40:21] mean you already have so many variables
+[00:40:24] when it comes to running an e-commerce
+[00:40:25] business when it comes to like starting
+[00:40:26] up your Shopify store whatever ever why
+[00:40:27] would you add more variables and make
+[00:40:29] the product a variable you already have
+[00:40:31] to get the winning creative you already
+[00:40:33] have to write like if you're doing the
+[00:40:35] product page you always you already have
+[00:40:36] to build a really good product page you
+[00:40:38] have to have a really good website why
+[00:40:40] add the product as an additional
+[00:40:41] variable where you don't know if it's
+[00:40:42] going to work or not you're just IM
+[00:40:45] immediately increasing the level of
+[00:40:47] complexity within your brand and if
+[00:40:49] you're starting out I don't think that's
+[00:40:51] a good idea next question will this be
+[00:40:54] saved yeah this live will be
+[00:40:55] saved can I run a head shop by store
+[00:40:57] without a logo on the product yes you
+[00:40:59] absolutely
+[00:41:03] can when testing a product with a funnel
+[00:41:05] do you recommend increasing the testing
+[00:41:06] budget since there's no so much drop off
+[00:41:09] usually I start with about $100 a day
+[00:41:11] $100 a day is just fine um just because
+[00:41:13] you have a more complex funnel doesn't
+[00:41:14] mean that you need more spend behind it
+[00:41:16] you should compensate with that with
+[00:41:18] better ads and a higher clickthrough
+[00:41:19] rate because you can be more creative
+[00:41:21] with the ads that you're creating um so
+[00:41:23] I think $100 a day is just fine
+[00:41:26] personally um I would never spend less
+[00:41:29] than like $500 on a test and I know
+[00:41:31] that's a little bit more than some
+[00:41:32] people say U but with this model I would
+[00:41:35] want a little bit more spend to go
+[00:41:37] behind it you don't need to increase the
+[00:41:38] daily spend though um so regardless of
+[00:41:41] the product it really comes down to
+[00:41:42] reading the data so initially I would
+[00:41:44] probably throw like $500 at it and I
+[00:41:46] want to see where is the biggest drop
+[00:41:47] off happening and how is my actual um
+[00:41:50] aob so a lot of people think that with
+[00:41:53] Drop Shipping Ecom and Shopify and all
+[00:41:55] this [ __ ] that you just put some stuff
+[00:41:56] up you put put up a you know Shopify
+[00:41:58] product page you do this you do that and
+[00:42:00] if the product doesn't work you just
+[00:42:01] move on but they don't like they don't
+[00:42:03] really teach you how to like read the ad
+[00:42:04] data read the funnel data read the aov
+[00:42:07] and conversion rate data so that you
+[00:42:08] don't really know what the real problem
+[00:42:09] is what if all you needed to do was just
+[00:42:12] change the messaging on the Lander and
+[00:42:13] then you have like a 3% conversion rate
+[00:42:15] instead of a 05% conversion rate what if
+[00:42:17] all you needed to do was just test a new
+[00:42:19] hook that resonates more with your
+[00:42:20] audience and that becomes a winning
+[00:42:22] creative that scales like 100k um in
+[00:42:24] spend and Beyond like it could be one
+[00:42:26] simple change you have to make why would
+[00:42:28] you um not look at the
+[00:42:31] data and just say like oh I'm only going
+[00:42:33] to spend 300 if it doesn't work I'm
+[00:42:34] moving on you know I'm it's just again
+[00:42:37] My
+[00:42:39] Philosophy next
+[00:42:41] question is there an advantage in
+[00:42:43] building an uglier ADV tutorial I
+[00:42:44] wouldn't make it ugly just for the sakes
+[00:42:47] sake of making it ugly in the same way
+[00:42:48] that I wouldn't make it beautiful just
+[00:42:50] for the sake of making it beautiful I'll
+[00:42:52] look at what's working really really
+[00:42:53] well and understand that a lot of the
+[00:42:55] people especially if you're selling on
+[00:42:56] Facebook and you're selling to an
+[00:42:58] audience that's 35 Plus the beautiful
+[00:43:00] Landers don't necessarily resonate with
+[00:43:01] them you know they they have a different
+[00:43:03] way of communicating you know they were
+[00:43:05] especially if it's like an audience
+[00:43:06] that's like 40 to 50 like they are just
+[00:43:09] receptive to different styles of what we
+[00:43:11] deem as like aesthetically pleasing
+[00:43:13] because if you're like you know I'm 24
+[00:43:14] years old if you're watching this video
+[00:43:15] and you're in your your 20s or your
+[00:43:17] early 30s or whatever like the the the
+[00:43:20] type of content that you respond to and
+[00:43:22] you think is like a well constructed
+[00:43:23] page is completely different from what a
+[00:43:26] you know 50 six-year-old would think is
+[00:43:28] a well constructed page so um what
+[00:43:31] matters is that you have Clarity so the
+[00:43:33] colors of the page the font I wouldn't
+[00:43:35] stress too much about it and I
+[00:43:36] definitely wouldn't create an ugly page
+[00:43:38] just because it's ugly um I I may have
+[00:43:42] tested that myself it's not worth
+[00:43:47] it all right next question Dario hi all
+[00:43:51] really helpful you are one of the few
+[00:43:53] who gives really useful information
+[00:43:55] you're welcome question does this
+[00:43:57] structure not work with products of a
+[00:43:59] non brand non broad Niche I think I kind
+[00:44:02] of answer that one um maybe you can give
+[00:44:05] like a specific example it doesn't work
+[00:44:07] for everything but it works for the
+[00:44:09] product that I go after which again
+[00:44:11] product research video very soon um I
+[00:44:15] want to go after markets that are
+[00:44:17] validated that are proven I specifically
+[00:44:19] want to sell products that solve a
+[00:44:20] really hard problem for example if I was
+[00:44:23] running a clothing brand I would not be
+[00:44:26] using this model like you have to get
+[00:44:27] really really creative not saying it
+[00:44:29] can't work cuz it can but it would be
+[00:44:31] very very different it's not a direct
+[00:44:33] hard pain point with a clothing brand
+[00:44:35] you have to go really really hard on on
+[00:44:37] brand content exactly like the direct
+[00:44:39] response ofu that I'm showing you here
+[00:44:40] isn't typically going to resonate quite
+[00:44:43] as
+[00:44:45] much what countries in Europe would and
+[00:44:48] Europe would you test to
+[00:44:51] um Germany Sweden Finland
+[00:44:58] Belgium Austria Spain Italy
+[00:45:03] France um those would be the main ones
+[00:45:05] but typically like the Nordic countries
+[00:45:06] works really well any part of Northern
+[00:45:08] Europe can be a fantastic Market to sell
+[00:45:10] in um and then Germany is a super super
+[00:45:13] popular one
+[00:45:16] um yeah that's that's it I side good
+[00:45:22] there yeah sherro you said some Brands
+[00:45:25] like Ace and are using just product page
+[00:45:28] I know I know dude um like I said the
+[00:45:31] the product page method that funnel
+[00:45:33] totally works I don't want to like
+[00:45:34] discredit it well I do a little bit
+[00:45:36] because I think there's better ways of
+[00:45:37] doing things but if you have like a
+[00:45:39] really big brand presence and you have
+[00:45:40] really really good creatives you don't
+[00:45:42] need this whole structure I'm just
+[00:45:43] telling you what you can do to out
+[00:45:45] compete people like that because if you
+[00:45:47] don't have a solid aov you don't have a
+[00:45:49] really well constructed post purchase
+[00:45:50] upsell process you can out compete
+[00:45:52] people that are running traffic to a
+[00:45:53] straight PDP plain and simple
+[00:45:58] do you still host most of your orders on
+[00:45:59] Shopify or do you build payments into
+[00:46:01] these funnel platforms so those are kind
+[00:46:03] of those are two different questions
+[00:46:05] dude um what's your name Matthew so
+[00:46:08] orders are hosted on Shopify yes payment
+[00:46:11] is collected on funnelish your checkout
+[00:46:13] champ so think of Shopify as like the
+[00:46:15] middle of funnel and bottom of funnel um
+[00:46:18] and the CRM so by CRM I mean what
+[00:46:20] actually uh houses all of your orders
+[00:46:23] it's um and then for people that don't
+[00:46:25] convert on cold with this direct
+[00:46:27] response you know more aggressive adoral
+[00:46:29] funnel then you could retarget them with
+[00:46:31] like a standard PDP that would be like
+[00:46:32] middle funnel bottom of funnel hopefully
+[00:46:34] that answer your
+[00:46:38] question uh what is your opinion on
+[00:46:40] organic affiliate marketing using social
+[00:46:42] media and SEO I mean that's not really
+[00:46:44] I'm talking about e-commerce uh if you
+[00:46:46] mean like in the realm of e-commerce
+[00:46:48] like using Affiliates to sell your
+[00:46:50] products it can it can totally work I
+[00:46:52] know brands that destroy it but for a
+[00:46:53] beginner I wouldn't recommend it
+[00:46:58] Dario can I have a $70 front-end product
+[00:47:00] and upsell over a thousand if the
+[00:47:02] industry I'm in is
+[00:47:04] small oh man that really depends that's
+[00:47:06] a very aggressive upsell like I I I said
+[00:47:09] this in the you know in the thing you
+[00:47:10] may have like a 5% take rate or like a
+[00:47:14] 3% take rate um in smaller countries it
+[00:47:16] is harder especially considering like
+[00:47:18] keep in mind if you're in the US right
+[00:47:20] we mainly run ads in the US if you're in
+[00:47:22] the US you can have amazing upsell pass
+[00:47:25] you can have that that price elasticity
+[00:47:27] of like 10x of your frontend product
+[00:47:30] price even like 100x of your front-end
+[00:47:32] product price however in other countries
+[00:47:34] it's not always the same because the the
+[00:47:36] skepticism can be higher just not as
+[00:47:38] sophisticated as a market you don't have
+[00:47:40] access to the credit system that we have
+[00:47:42] here in the United States so there's a
+[00:47:43] lot of variables there not going to say
+[00:47:45] it's not happen uh not going to happen
+[00:47:47] not going to work but I would I can't
+[00:47:49] say I would recommend um going that
+[00:47:51] route for a small country in a small
+[00:47:53] Market
+[00:47:57] what do you think about building brands
+[00:47:58] in Europe less competition but vat so is
+[00:48:00] it worth
+[00:48:04] it yeah viit uh sorry vat is a [ __ ]
+[00:48:10] um would I recommend it probably not I
+[00:48:13] mean a lot of the stuff that I do it is
+[00:48:15] like really going against grin I know
+[00:48:16] Europe Drop Shipping is really popular
+[00:48:18] right now but I I really really love the
+[00:48:21] flexibility and the aov that you can
+[00:48:23] have in the United States I mean I split
+[00:48:25] test a lot I has a lot of countries and
+[00:48:28] the aov in other countries is almost
+[00:48:31] almost never close to the aov in United
+[00:48:33] States so for that reason I like
+[00:48:35] creating businesses that are more
+[00:48:36] valuable then again it's more expensive
+[00:48:37] to advertise in the United States so
+[00:48:39] there's trade-offs I still run you know
+[00:48:41] 10 to 20% of my traffic outside the US
+[00:48:43] and 80% within the
+[00:48:45] us next
+[00:48:49] question how do you know if your product
+[00:48:52] is product Market fit I know some guys
+[00:48:53] are commenting about my mic by the way
+[00:48:55] um
+[00:48:57] too bad maybe I need this was like a $10
+[00:49:00] mic
+[00:49:01] so the question was how do you know if
+[00:49:04] the product has product product Market
+[00:49:06] fit you're making
+[00:49:10] money that's how you
+[00:49:13] know relatively simple if you're making
+[00:49:16] over like if you're making $1,000 a day
+[00:49:18] I would say you have that market fit the
+[00:49:20] scale is going to be depending on you
+[00:49:22] know your creative output but if you're
+[00:49:23] able to make money with a product
+[00:49:25] congratulations you have product Market
+[00:49:26] V
+[00:49:29] do you have to have a page translated to
+[00:49:31] their own language in order to convert
+[00:49:32] for year of Drop Shipping um yeah I
+[00:49:35] would absolutely recommend that um I
+[00:49:36] know a lot of these countries do speak
+[00:49:38] English some of them even have English
+[00:49:39] as like their first language that they
+[00:49:40] speak however if you're doing Europe
+[00:49:42] draft shriving the whole point is like
+[00:49:43] compete on a less competitive market why
+[00:49:46] would you have it in English have it in
+[00:49:47] their native language um so you can use
+[00:49:50] some um some translation tools online
+[00:49:53] that work really well that's what we do
+[00:49:55] and then we'll actually have somebody on
+[00:49:56] F or like review the the page that's
+[00:49:58] actually native speaker because it's not
+[00:49:59] always going to be like one to
+[00:50:02] one do you advertise on any other
+[00:50:04] platforms other than Facebook and Tik
+[00:50:06] Tok
+[00:50:08] um yeah Google so we do a lot of Google
+[00:50:11] we've done Pinterest we've done uh
+[00:50:13] Snapchat Facebook is our main bread and
+[00:50:15] butter second to that would be Tik Tok
+[00:50:17] and then third to that would be Google
+[00:50:18] and YouTube so we do run ads just about
+[00:50:20] everywhere um so guys I appreciate you
+[00:50:22] being on this live we're running uh you
+[00:50:25] know close to the hour long time um
+[00:50:28] again if you want I know you're looking
+[00:50:30] at like this this beautiful mess of a of
+[00:50:32] a board here but if you want a special
+[00:50:35] cheat sheet that I specifically created
+[00:50:37] that has the uh that has a lot more
+[00:50:39] information on kind of this funnel
+[00:50:40] scaling process please just go to my
+[00:50:42] Instagram Mark builds Brands um can pull
+[00:50:45] it up for you real
+[00:50:51] quick and just DM me the word funnel and
+[00:50:55] I can send it right over to you right
+[00:50:57] so right here Mark builds Brands run
+[00:50:59] more ads guy go here DM me the word
+[00:51:01] funnel um and I really hope you guys
+[00:51:03] enjoy this video uh the reason that I
+[00:51:05] made this in the first place is because
+[00:51:06] I saw so many people that were
+[00:51:08] commenting and they wanted to see an
+[00:51:09] example now you got an example and now
+[00:51:12] you know how to find more examples so
+[00:51:14] that's it for this video guys thank you
+[00:51:15] so much for for joining I appreciate you
+[00:51:17] um make sure you check out the video
+[00:51:19] that's coming tomorrow subscribe to my
+[00:51:20] channel here on YouTube and send me a DM
+[00:51:22] on Instagram if you need any help and
+[00:51:24] specifically if you are looking for
+[00:51:27] someone like myself or my partner Alex
+[00:51:28] fedad off to actually like hold your
+[00:51:29] hand through this entire process of like
+[00:51:31] you know creating a brand um finding the
+[00:51:34] product finding that product Market fit
+[00:51:35] from scratch scaling using some of these
+[00:51:37] more funnel scaling uh tactics and in in
+[00:51:40] methods just go to um the first link in
+[00:51:44] the description of this video you can
+[00:51:46] just fill out an application to apply
+[00:51:47] for brand builders Academy and uh that's
+[00:51:49] a program that we own together as you
+[00:51:51] can see here so if you have any
+[00:51:52] questions on that please let me know
+[00:51:54] other than that guys thank you so much
+[00:51:55] for joining com DM funnel on Instagram
+[00:51:58] talk to youall later

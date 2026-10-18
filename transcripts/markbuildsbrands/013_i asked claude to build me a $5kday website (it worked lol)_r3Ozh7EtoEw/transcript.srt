@@ -1,0 +1,2144 @@
+1
+00:00:00,000 --> 00:00:03,400
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,840 --> 00:00:06,000
+going to be showing you how I asked
+
+3
+00:00:03,400 --> 00:00:07,920
+Claude to build me a 5K per day website
+
+4
+00:00:06,000 --> 00:00:10,920
+and it actually worked. As you can see
+
+5
+00:00:07,920 --> 00:00:14,000
+here, scaled from zero to over $5,000
+
+6
+00:00:10,920 --> 00:00:15,400
+per day in revenue in 5 days or so. And
+
+7
+00:00:14,000 --> 00:00:16,480
+the cool part about all this is this is
+
+8
+00:00:15,400 --> 00:00:17,760
+actually pretty simple and I'm going to
+
+9
+00:00:16,480 --> 00:00:19,040
+show you how to do it in this video.
+
+10
+00:00:17,760 --> 00:00:21,360
+Now, I've noticed there's a lot of these
+
+11
+00:00:19,040 --> 00:00:23,040
+videos out on the internet about how to
+
+12
+00:00:21,360 --> 00:00:26,000
+make these landing pages with Claude or
+
+13
+00:00:23,040 --> 00:00:27,960
+Claude code and truthfully, most of them
+
+14
+00:00:26,000 --> 00:00:29,840
+create beautiful websites that convert
+
+15
+00:00:27,960 --> 00:00:31,400
+nobody. And in this video, I'm actually
+
+16
+00:00:29,840 --> 00:00:32,840
+going to show you how to build websites
+
+17
+00:00:31,400 --> 00:00:34,480
+that are designed to make you money. As
+
+18
+00:00:32,840 --> 00:00:36,400
+I said, it's a simple process. The first
+
+19
+00:00:34,480 --> 00:00:37,800
+thing we're going to do is get a swipe,
+
+20
+00:00:36,400 --> 00:00:39,800
+which is just a landing page that you
+
+21
+00:00:37,800 --> 00:00:40,880
+want to emulate for inspiration. Second,
+
+22
+00:00:39,800 --> 00:00:43,360
+I'm going to show you how to write the
+
+23
+00:00:40,880 --> 00:00:45,160
+copy, which is the most important part
+
+24
+00:00:43,360 --> 00:00:46,760
+of the entire page, by the way, because
+
+25
+00:00:45,160 --> 00:00:47,960
+like those beautiful pages, just cuz
+
+26
+00:00:46,760 --> 00:00:49,320
+something is aesthetic doesn't mean it's
+
+27
+00:00:47,960 --> 00:00:51,440
+going to convert, right? The saying
+
+28
+00:00:49,320 --> 00:00:52,880
+goes, "Ugly landers equals pretty
+
+29
+00:00:51,440 --> 00:00:54,200
+profits." After that, I'm going to show
+
+30
+00:00:52,880 --> 00:00:57,040
+you how to create the images all using
+
+31
+00:00:54,200 --> 00:00:58,720
+AI and then go and actually design that
+
+32
+00:00:57,040 --> 00:01:00,200
+page that looks exactly how you want it.
+
+33
+00:00:58,720 --> 00:01:01,760
+Then, we will cheat the entire page,
+
+34
+00:01:00,200 --> 00:01:03,120
+which is a fancy way to say we're going
+
+35
+00:01:01,760 --> 00:01:04,880
+to review it. Then finally, we're
+
+36
+00:01:03,120 --> 00:01:06,480
+actually going to deploy it live so that
+
+37
+00:01:04,880 --> 00:01:07,560
+we can start running traffic to it,
+
+38
+00:01:06,480 --> 00:01:09,240
+whether that's paid traffic, free
+
+39
+00:01:07,560 --> 00:01:10,600
+traffic, doesn't matter. Now, swiping is
+
+40
+00:01:09,240 --> 00:01:11,960
+the simplest step, whether you're going
+
+41
+00:01:10,600 --> 00:01:13,600
+to be looking on the Facebook Ads
+
+42
+00:01:11,960 --> 00:01:15,120
+Library, you know, Get Hooked, whatever
+
+43
+00:01:13,600 --> 00:01:16,680
+your competitors. Just go to one of your
+
+44
+00:01:15,120 --> 00:01:19,080
+competitors' landing pages, download it
+
+45
+00:01:16,680 --> 00:01:20,400
+as a PDF or if you want to start from
+
+46
+00:01:19,080 --> 00:01:21,880
+scratch, you can also do that. You just
+
+47
+00:01:20,400 --> 00:01:23,040
+have to fill in a few steps here and
+
+48
+00:01:21,880 --> 00:01:24,760
+there. But this is just a great way to
+
+49
+00:01:23,040 --> 00:01:26,440
+get started and it's so simple to do. I
+
+50
+00:01:24,760 --> 00:01:27,480
+don't even have to show you how to do
+
+51
+00:01:26,440 --> 00:01:28,880
+it. You probably have one in mind
+
+52
+00:01:27,480 --> 00:01:31,160
+already. Now, moving on to step two,
+
+53
+00:01:28,880 --> 00:01:33,200
+this is all about the copy, which is the
+
+54
+00:01:31,160 --> 00:01:34,480
+words that are designed to persuade
+
+55
+00:01:33,200 --> 00:01:35,960
+people to take an action on your
+
+56
+00:01:34,480 --> 00:01:38,080
+website, whether that's fill out a lead
+
+57
+00:01:35,960 --> 00:01:39,800
+form, make a purchase, or convert
+
+58
+00:01:38,080 --> 00:01:42,120
+somebody in some way, shape, or form.
+
+59
+00:01:39,800 --> 00:01:43,960
+Any phenomenal copywriter in history
+
+60
+00:01:42,120 --> 00:01:46,400
+will tell you that the majority of the
+
+61
+00:01:43,960 --> 00:01:48,200
+money is made in the research. And the
+
+62
+00:01:46,400 --> 00:01:49,520
+funny part is research used to be
+
+63
+00:01:48,200 --> 00:01:51,480
+something that you had to conduct
+
+64
+00:01:49,520 --> 00:01:53,840
+manually. You used to have to go on
+
+65
+00:01:51,480 --> 00:01:56,280
+forums, Facebook groups, Reddit threads,
+
+66
+00:01:53,840 --> 00:01:57,840
+and just take heaps of notes. And it was
+
+67
+00:01:56,280 --> 00:01:59,720
+basically the copywriter that can have
+
+68
+00:01:57,840 --> 00:02:01,000
+the best research often times was the
+
+69
+00:01:59,720 --> 00:02:02,760
+copywriter that would make the most
+
+70
+00:02:01,000 --> 00:02:04,640
+money with their offers. But now AI can
+
+71
+00:02:02,760 --> 00:02:06,520
+do all of that for you. And I built a
+
+72
+00:02:04,640 --> 00:02:07,960
+full process for this that you can steal
+
+73
+00:02:06,520 --> 00:02:09,720
+directly from me for free. And that
+
+74
+00:02:07,960 --> 00:02:11,480
+process is of course my legendary
+
+75
+00:02:09,720 --> 00:02:13,480
+foundational docs SOP. If you want
+
+76
+00:02:11,480 --> 00:02:15,040
+access to this document, I'll leave it
+
+77
+00:02:13,480 --> 00:02:16,720
+the second link in the description. You
+
+78
+00:02:15,040 --> 00:02:18,520
+can go get it for free. Basically, it's
+
+79
+00:02:16,720 --> 00:02:21,120
+going to walk you through how to get
+
+80
+00:02:18,520 --> 00:02:22,800
+deep psychological and emotional pains
+
+81
+00:02:21,120 --> 00:02:24,240
+from your customers so that you can use
+
+82
+00:02:22,800 --> 00:02:25,880
+that in your copy to get them to convert
+
+83
+00:02:24,240 --> 00:02:27,400
+cuz we all know humans are emotional
+
+84
+00:02:25,880 --> 00:02:29,160
+creatures, right? We buy based off of
+
+85
+00:02:27,400 --> 00:02:31,160
+emotion and then we justify it with
+
+86
+00:02:29,160 --> 00:02:32,720
+logic. But that entire research step is
+
+87
+00:02:31,160 --> 00:02:34,600
+is handled for you because AI will go
+
+88
+00:02:32,720 --> 00:02:35,680
+and scrape all these websites for you so
+
+89
+00:02:34,600 --> 00:02:37,280
+that you have the best research as
+
+90
+00:02:35,680 --> 00:02:38,920
+humanly possible. Once you have those
+
+91
+00:02:37,280 --> 00:02:40,400
+four foundational docs, now it's time to
+
+92
+00:02:38,920 --> 00:02:42,480
+actually write, which you guessed it,
+
+93
+00:02:40,400 --> 00:02:43,960
+we're going to be using Claude for
+
+94
+00:02:42,480 --> 00:02:45,200
+writing all this copy. So let's do it.
+
+95
+00:02:43,960 --> 00:02:46,640
+So here we are in Claude. I'm going to
+
+96
+00:02:45,200 --> 00:02:49,640
+begin by uploading all my foundational
+
+97
+00:02:46,640 --> 00:02:51,760
+docs. And for the model, I prefer Opus.
+
+98
+00:02:49,640 --> 00:02:54,400
+And as of today, me filming this, Opus
+
+99
+00:02:51,760 --> 00:02:55,920
+4.7 has recently dropped. So ultimately,
+
+100
+00:02:54,400 --> 00:02:57,640
+the difference between Opus and Sonnet
+
+101
+00:02:55,920 --> 00:02:59,040
+for this particular purpose it's not
+
+102
+00:02:57,640 --> 00:03:01,200
+going to be that substantial. I'll keep
+
+103
+00:02:59,040 --> 00:03:02,920
+Sonnet on just for simplicity purposes.
+
+104
+00:03:01,200 --> 00:03:04,320
+Next, I'm going to paste in this lovely
+
+105
+00:03:02,920 --> 00:03:06,120
+prompt. By the way, if you want all the
+
+106
+00:03:04,320 --> 00:03:08,080
+prompts that are associated with this
+
+107
+00:03:06,120 --> 00:03:10,320
+video and all the resources, just go to
+
+108
+00:03:08,080 --> 00:03:12,680
+my Instagram. It's @markbuildsbrands and
+
+109
+00:03:10,320 --> 00:03:14,160
+DM me the word "lander" and I'll send it
+
+110
+00:03:12,680 --> 00:03:15,760
+over to you. And now we hit enter. So
+
+111
+00:03:14,160 --> 00:03:18,160
+Claude just finished up. That step is
+
+112
+00:03:15,760 --> 00:03:19,640
+literally just to give context for all
+
+113
+00:03:18,160 --> 00:03:21,160
+of the research that we just conducted
+
+114
+00:03:19,640 --> 00:03:22,960
+so that Claude is able to use that
+
+115
+00:03:21,160 --> 00:03:24,400
+context to actually write the copy. And
+
+116
+00:03:22,960 --> 00:03:27,760
+now that it has a context, we're now
+
+117
+00:03:24,400 --> 00:03:29,200
+going to upload a PDF of a swipe, which
+
+118
+00:03:27,760 --> 00:03:30,920
+is that, you know, landing page that
+
+119
+00:03:29,200 --> 00:03:32,640
+we're trying to emulate along with this
+
+120
+00:03:30,920 --> 00:03:34,320
+prompt and hit enter. All right, so that
+
+121
+00:03:32,640 --> 00:03:37,440
+prompt is finished up. What that prompt
+
+122
+00:03:34,320 --> 00:03:39,200
+did is basically analyze why that
+
+123
+00:03:37,440 --> 00:03:40,480
+landing page, that swipe, was actually
+
+124
+00:03:39,200 --> 00:03:41,800
+successful so that we can reverse
+
+125
+00:03:40,480 --> 00:03:43,520
+engineer it for ourselves. But we
+
+126
+00:03:41,800 --> 00:03:45,560
+haven't written anything yet. That is
+
+127
+00:03:43,520 --> 00:03:47,160
+what this next prompt is for to actually
+
+128
+00:03:45,560 --> 00:03:48,560
+take all of that context now, the
+
+129
+00:03:47,160 --> 00:03:51,720
+competitor, all of our foundational
+
+130
+00:03:48,560 --> 00:03:53,440
+docs, and use it to rewrite and actually
+
+131
+00:03:51,720 --> 00:03:54,920
+write the copy for this lander. And
+
+132
+00:03:53,440 --> 00:03:57,110
+boom, just like that, we got all the
+
+133
+00:03:54,920 --> 00:03:58,560
+copy already written. And Claude
+
+134
+00:03:57,110 --> 00:04:00,560
+[clears throat] is so stinking smart
+
+135
+00:03:58,560 --> 00:04:01,880
+that it actually decided to go ahead and
+
+136
+00:04:00,560 --> 00:04:03,920
+create the landing page already. It's a
+
+137
+00:04:01,880 --> 00:04:05,520
+little premature. Right now, we just got
+
+138
+00:04:03,920 --> 00:04:07,880
+the copy, so let's check that off our
+
+139
+00:04:05,520 --> 00:04:09,080
+list. Boom. Now, before we look at what
+
+140
+00:04:07,880 --> 00:04:11,080
+Claude actually created that whole
+
+141
+00:04:09,080 --> 00:04:13,480
+lander, let's work on the images because
+
+142
+00:04:11,080 --> 00:04:15,080
+any landing page is literally just copy,
+
+143
+00:04:13,480 --> 00:04:17,240
+images, and a bunch of stylistic
+
+144
+00:04:15,080 --> 00:04:19,040
+elements to actually give that page its
+
+145
+00:04:17,240 --> 00:04:21,280
+aesthetic design. Now, here's the thing
+
+146
+00:04:19,040 --> 00:04:24,440
+about creating images, okay? Most people
+
+147
+00:04:21,280 --> 00:04:26,360
+are so unintentional about the images
+
+148
+00:04:24,440 --> 00:04:28,080
+that they are creating on their landing
+
+149
+00:04:26,360 --> 00:04:29,600
+page. They just think, "Oh, let me just
+
+150
+00:04:28,080 --> 00:04:32,480
+throw up some good-looking product
+
+151
+00:04:29,600 --> 00:04:34,720
+photos, some lifestyle photos, and just
+
+152
+00:04:32,480 --> 00:04:36,640
+pray to the gods that it's actually
+
+153
+00:04:34,720 --> 00:04:38,640
+going to work and be profitable." No,
+
+154
+00:04:36,640 --> 00:04:40,520
+every image should serve a purpose. It
+
+155
+00:04:38,640 --> 00:04:42,880
+truthfully should do one of two things.
+
+156
+00:04:40,520 --> 00:04:45,240
+The first thing is it should install a
+
+157
+00:04:42,880 --> 00:04:47,080
+belief, okay? Because we all know that
+
+158
+00:04:45,240 --> 00:04:48,800
+marketing is literally just belief
+
+159
+00:04:47,080 --> 00:04:50,120
+change work, which means your customers
+
+160
+00:04:48,800 --> 00:04:51,400
+or potential customers come into your
+
+161
+00:04:50,120 --> 00:04:53,360
+business, see your landing page with a
+
+162
+00:04:51,400 --> 00:04:54,600
+very specific set of beliefs. Just like
+
+163
+00:04:53,360 --> 00:04:56,200
+you have a set of beliefs about the
+
+164
+00:04:54,600 --> 00:04:58,400
+world, I have a set of beliefs about the
+
+165
+00:04:56,200 --> 00:05:01,080
+world, so does your customer. Your job
+
+166
+00:04:58,400 --> 00:05:02,960
+is to either install an empowering
+
+167
+00:05:01,080 --> 00:05:04,720
+belief that aligns with the belief
+
+168
+00:05:02,960 --> 00:05:07,480
+that's needed to purchase your product
+
+169
+00:05:04,720 --> 00:05:09,320
+or remove a limiting belief that is
+
+170
+00:05:07,480 --> 00:05:11,240
+keeping them from purchasing. So, that's
+
+171
+00:05:09,320 --> 00:05:12,960
+one thing that your images should
+
+172
+00:05:11,240 --> 00:05:14,520
+potentially do. And the other thing is,
+
+173
+00:05:12,960 --> 00:05:16,920
+of course, your images should be
+
+174
+00:05:14,520 --> 00:05:19,240
+designed to remove objections. A lot of
+
+175
+00:05:16,920 --> 00:05:21,080
+people think that selling stuff online
+
+176
+00:05:19,240 --> 00:05:22,920
+is all about like adding. Like, how can
+
+177
+00:05:21,080 --> 00:05:24,160
+I give the customer as much information
+
+178
+00:05:22,920 --> 00:05:26,440
+as I possibly can? Really, it's about
+
+179
+00:05:24,160 --> 00:05:27,840
+removing as much resistance between the
+
+180
+00:05:26,440 --> 00:05:29,320
+customer where they're at right now and
+
+181
+00:05:27,840 --> 00:05:30,960
+them actually buying the product. And
+
+182
+00:05:29,320 --> 00:05:32,680
+that's what removing objections really
+
+183
+00:05:30,960 --> 00:05:33,920
+does. So, every image that you create
+
+184
+00:05:32,680 --> 00:05:36,120
+should be very tactical. It should be
+
+185
+00:05:33,920 --> 00:05:37,480
+very purposeful so that even though in
+
+186
+00:05:36,120 --> 00:05:38,920
+their mind they're just seeing an image,
+
+187
+00:05:37,480 --> 00:05:40,680
+you're actually moving them one step
+
+188
+00:05:38,920 --> 00:05:42,840
+closer to the sale. Now, for our image
+
+189
+00:05:40,680 --> 00:05:44,640
+generation, we're going to be using Nano
+
+190
+00:05:42,840 --> 00:05:46,280
+Banana Pro specifically within Higgs
+
+191
+00:05:44,640 --> 00:05:48,120
+Field because it's just so efficient.
+
+192
+00:05:46,280 --> 00:05:49,960
+You can create many photos very quickly.
+
+193
+00:05:48,120 --> 00:05:51,920
+But first, we have to actually create
+
+194
+00:05:49,960 --> 00:05:53,200
+the prompts to get those images the way
+
+195
+00:05:51,920 --> 00:05:55,160
+that we want them to. Again, if you want
+
+196
+00:05:53,200 --> 00:05:57,040
+access to all these resources, just DM
+
+197
+00:05:55,160 --> 00:05:58,880
+me on Instagram the word "lander". I'll
+
+198
+00:05:57,040 --> 00:06:00,880
+send it. So, once again, we are going to
+
+199
+00:05:58,880 --> 00:06:03,360
+attach all of our foundational docs,
+
+200
+00:06:00,880 --> 00:06:05,600
+boom, along with this prompt as well.
+
+201
+00:06:03,360 --> 00:06:06,920
+Once again, sauna 4.6 is just fine for
+
+202
+00:06:05,600 --> 00:06:09,080
+these purposes. All right, and just like
+
+203
+00:06:06,920 --> 00:06:11,480
+that, we already got our first prompt
+
+204
+00:06:09,080 --> 00:06:12,520
+here that actually matches the copy. So,
+
+205
+00:06:11,480 --> 00:06:13,960
+not only should the images be
+
+206
+00:06:12,520 --> 00:06:15,920
+purposeful, but they obviously should
+
+207
+00:06:13,960 --> 00:06:17,440
+also be matching the copy. And so, in
+
+208
+00:06:15,920 --> 00:06:19,520
+this page that I'm building, which is
+
+209
+00:06:17,440 --> 00:06:21,000
+actually a listical, which is a format
+
+210
+00:06:19,520 --> 00:06:22,560
+of a pre-sales page, this one is
+
+211
+00:06:21,000 --> 00:06:24,520
+specifically going to be matching the
+
+212
+00:06:22,560 --> 00:06:26,400
+point that lotion was never designed to
+
+213
+00:06:24,520 --> 00:06:28,080
+make skin beautiful as if I was selling
+
+214
+00:06:26,400 --> 00:06:30,360
+a skin care product. So, I'm going to
+
+215
+00:06:28,080 --> 00:06:32,240
+copy this entire prompt right here and
+
+216
+00:06:30,360 --> 00:06:33,280
+paste that right into Higgsfield. All
+
+217
+00:06:32,240 --> 00:06:35,400
+right, so I'm here in Higgsfield. I
+
+218
+00:06:33,280 --> 00:06:37,280
+don't think you can see the full bar cuz
+
+219
+00:06:35,400 --> 00:06:39,280
+my fat [ __ ] face is in the way, but
+
+220
+00:06:37,280 --> 00:06:42,160
+I'm going to paste this prompt directly
+
+221
+00:06:39,280 --> 00:06:43,920
+along with a PNG of my product and hit
+
+222
+00:06:42,160 --> 00:06:47,040
+enter. The settings I have selected is
+
+223
+00:06:43,920 --> 00:06:48,360
+Nano Banana Pro, 9 by 16 aspect ratio.
+
+224
+00:06:47,040 --> 00:06:50,800
+Let's get it. All right, just like that,
+
+225
+00:06:48,360 --> 00:06:52,720
+we got our first image created right
+
+226
+00:06:50,800 --> 00:06:54,480
+here. You can see prompt was entered
+
+227
+00:06:52,720 --> 00:06:57,080
+here. We have a nice little before and
+
+228
+00:06:54,480 --> 00:06:59,320
+after of, you know, the product actually
+
+229
+00:06:57,080 --> 00:07:01,160
+in use or the difference between lotion
+
+230
+00:06:59,320 --> 00:07:02,240
+and the product that we're selling here.
+
+231
+00:07:01,160 --> 00:07:03,840
+And this is good to go. There's
+
+232
+00:07:02,240 --> 00:07:05,600
+literally nothing to change here. And
+
+233
+00:07:03,840 --> 00:07:06,680
+the cool part is anytime you're on
+
+234
+00:07:05,600 --> 00:07:08,080
+Higgsfield, you can create multiple
+
+235
+00:07:06,680 --> 00:07:09,360
+variations and just choose the one that
+
+236
+00:07:08,080 --> 00:07:10,960
+you like the best. You don't have to
+
+237
+00:07:09,360 --> 00:07:12,040
+wait like minutes for every single
+
+238
+00:07:10,960 --> 00:07:13,640
+variation. They're all delivered at
+
+239
+00:07:12,040 --> 00:07:15,320
+once, which is really convenient. So,
+
+240
+00:07:13,640 --> 00:07:17,520
+I'm going to repeat this process for the
+
+241
+00:07:15,320 --> 00:07:19,560
+rest of the images on the lander, and we
+
+242
+00:07:17,520 --> 00:07:21,080
+are going to cross off the images step.
+
+243
+00:07:19,560 --> 00:07:23,360
+Boom. All right, and on that note, we
+
+244
+00:07:21,080 --> 00:07:25,360
+can now move on to the design step,
+
+245
+00:07:23,360 --> 00:07:27,400
+which is actually making the page look
+
+246
+00:07:25,360 --> 00:07:29,040
+like the swipe that we sent it. So, as I
+
+247
+00:07:27,400 --> 00:07:30,760
+mentioned previously, Claude got a
+
+248
+00:07:29,040 --> 00:07:33,000
+little ahead of itself and decided to
+
+249
+00:07:30,760 --> 00:07:34,560
+already create kind of the V1 of the
+
+250
+00:07:33,000 --> 00:07:36,040
+landing page. So, I'm going to give it a
+
+251
+00:07:34,560 --> 00:07:38,000
+little bit of feedback. But if that
+
+252
+00:07:36,040 --> 00:07:39,920
+didn't happen to you, just move simple
+
+253
+00:07:38,000 --> 00:07:41,080
+prompt after you got the copy to say,
+
+254
+00:07:39,920 --> 00:07:43,040
+"Now I want you to actually design this
+
+255
+00:07:41,080 --> 00:07:44,520
+page based off of the swipe that I sent
+
+256
+00:07:43,040 --> 00:07:46,920
+previously. Alrighty, and here we go. We
+
+257
+00:07:44,520 --> 00:07:48,800
+officially got V1 of this landing page
+
+258
+00:07:46,920 --> 00:07:50,960
+done, this lovely listicle. Don't expect
+
+259
+00:07:48,800 --> 00:07:51,840
+it to be perfect on the very first go.
+
+260
+00:07:50,960 --> 00:07:53,160
+I'm going to give it a little bit of
+
+261
+00:07:51,840 --> 00:07:54,960
+feedback. That's literally why I have a
+
+262
+00:07:53,160 --> 00:07:56,080
+step in this process called the chiefing
+
+263
+00:07:54,960 --> 00:07:57,880
+because we're going to go through and
+
+264
+00:07:56,080 --> 00:07:59,400
+adjust everything that we don't like
+
+265
+00:07:57,880 --> 00:08:01,200
+about this. Maybe there's a few bits of
+
+266
+00:07:59,400 --> 00:08:03,320
+copy that we don't like, some stylistic
+
+267
+00:08:01,200 --> 00:08:05,840
+changes that need adjusting, things like
+
+268
+00:08:03,320 --> 00:08:08,040
+that. So, one thing that I did is I sent
+
+269
+00:08:05,840 --> 00:08:09,680
+in the first image that I created, but I
+
+270
+00:08:08,040 --> 00:08:11,920
+didn't send any others because I wanted
+
+271
+00:08:09,680 --> 00:08:14,000
+to make sure that overall the copy was
+
+272
+00:08:11,920 --> 00:08:16,240
+in the right place and everything
+
+273
+00:08:14,000 --> 00:08:17,880
+generally is in place before I give it
+
+274
+00:08:16,240 --> 00:08:21,000
+more feedback. You don't want to like
+
+275
+00:08:17,880 --> 00:08:22,600
+micromanage Claude during this specific
+
+276
+00:08:21,000 --> 00:08:24,840
+step of the process. Right now, we're
+
+277
+00:08:22,600 --> 00:08:26,480
+just trying to get all the pieces in
+
+278
+00:08:24,840 --> 00:08:28,000
+place and then when we get to the
+
+279
+00:08:26,480 --> 00:08:29,440
+chiefing step, we can really fine-tune
+
+280
+00:08:28,000 --> 00:08:32,040
+everything. So, the next step on this
+
+281
+00:08:29,440 --> 00:08:33,720
+process is to enter in all the rest of
+
+282
+00:08:32,040 --> 00:08:35,080
+the images so that they can be filled in
+
+283
+00:08:33,720 --> 00:08:36,520
+properly on the landing page. You need
+
+284
+00:08:35,080 --> 00:08:38,680
+to give a little bit of guidance here.
+
+285
+00:08:36,520 --> 00:08:40,440
+Sometimes it helps to go like image by
+
+286
+00:08:38,680 --> 00:08:41,360
+image. Like, this image goes here, this
+
+287
+00:08:40,440 --> 00:08:43,040
+image goes here, and do it one
+
+288
+00:08:41,360 --> 00:08:44,720
+individual message. I like to [ __ ]
+
+289
+00:08:43,040 --> 00:08:47,000
+Chad ramp [ __ ] So, I sent all the
+
+290
+00:08:44,720 --> 00:08:48,480
+messages and I said the exact places
+
+291
+00:08:47,000 --> 00:08:50,000
+that each one should be, and Claude got
+
+292
+00:08:48,480 --> 00:08:51,680
+it perfectly, actually. It worked out
+
+293
+00:08:50,000 --> 00:08:53,680
+very, very well. All right, here we are
+
+294
+00:08:51,680 --> 00:08:55,720
+on V2 of the lander after Claude
+
+295
+00:08:53,680 --> 00:08:57,520
+finished cooking, and overall everything
+
+296
+00:08:55,720 --> 00:08:59,200
+structurally looks pretty good. The
+
+297
+00:08:57,520 --> 00:09:01,320
+images are all in the right place. It
+
+298
+00:08:59,200 --> 00:09:03,480
+has that standard listicle format of,
+
+299
+00:09:01,320 --> 00:09:04,960
+you know, image, headline, text
+
+300
+00:09:03,480 --> 00:09:06,200
+underneath that, and it continues to
+
+301
+00:09:04,960 --> 00:09:07,680
+repeat that process all throughout the
+
+302
+00:09:06,200 --> 00:09:09,480
+lander. And then all the way down at the
+
+303
+00:09:07,680 --> 00:09:11,520
+bottom, we actually have product card
+
+304
+00:09:09,480 --> 00:09:13,840
+here as well. Is it perfect? No, but I
+
+305
+00:09:11,520 --> 00:09:16,240
+would say at this point it's probably
+
+306
+00:09:13,840 --> 00:09:17,760
+roughly 80% of the way. And one thing I
+
+307
+00:09:16,240 --> 00:09:19,720
+briefly skipped over in regards to the
+
+308
+00:09:17,760 --> 00:09:22,240
+design is how do you actually get a
+
+309
+00:09:19,720 --> 00:09:24,320
+lander to look like yours and not like a
+
+310
+00:09:22,240 --> 00:09:26,480
+competitor? Well, you have to have your
+
+311
+00:09:24,320 --> 00:09:27,960
+own branding kit that you create that
+
+312
+00:09:26,480 --> 00:09:29,680
+you send into Claude so it generally
+
+313
+00:09:27,960 --> 00:09:31,760
+knows what is your color scheme, your
+
+314
+00:09:29,680 --> 00:09:33,440
+color palette, what typography do you
+
+315
+00:09:31,760 --> 00:09:34,960
+use, what does your brand generally
+
+316
+00:09:33,440 --> 00:09:36,680
+stand for, what is the feeling that
+
+317
+00:09:34,960 --> 00:09:38,160
+you're trying to evoke. And so I have a
+
+318
+00:09:36,680 --> 00:09:41,440
+really cool solution for that. You can
+
+319
+00:09:38,160 --> 00:09:42,360
+go to a website called Firecrawl, and if
+
+320
+00:09:41,440 --> 00:09:43,640
+you want to create your brand kit
+
+321
+00:09:42,360 --> 00:09:45,640
+yourself, you know, you can. This
+
+322
+00:09:43,640 --> 00:09:46,920
+process is super duper fast. Check this
+
+323
+00:09:45,640 --> 00:09:48,160
+out. All right, so we're here inside of
+
+324
+00:09:46,920 --> 00:09:50,440
+Firecrawl. We're going to go to the
+
+325
+00:09:48,160 --> 00:09:52,640
+left-hand side and select scrape a
+
+326
+00:09:50,440 --> 00:09:54,320
+webpage. And what you can do here is
+
+327
+00:09:52,640 --> 00:09:56,000
+enter your brand directly if you already
+
+328
+00:09:54,320 --> 00:09:58,280
+have a brand. If you don't, then you can
+
+329
+00:09:56,000 --> 00:10:00,320
+use the branding of another brand to
+
+330
+00:09:58,280 --> 00:10:01,640
+kind of guide what you want your page to
+
+331
+00:10:00,320 --> 00:10:03,240
+look like. So let's say I was selling
+
+332
+00:10:01,640 --> 00:10:04,760
+this nootropic supplement, and I'm just
+
+333
+00:10:03,240 --> 00:10:06,560
+going to take that URL. I'm going to
+
+334
+00:10:04,760 --> 00:10:08,640
+paste it right here, and under format
+
+335
+00:10:06,560 --> 00:10:10,680
+I'm going to select branding and select
+
+336
+00:10:08,640 --> 00:10:12,520
+start scraping. Now you can scroll down
+
+337
+00:10:10,680 --> 00:10:15,120
+to where it says branding, and you are
+
+338
+00:10:12,520 --> 00:10:16,560
+going to copy as JSON. But as you can
+
+339
+00:10:15,120 --> 00:10:18,560
+see, what it did here is basically
+
+340
+00:10:16,560 --> 00:10:20,040
+scraped all the branding information
+
+341
+00:10:18,560 --> 00:10:21,560
+that it possibly could from this Lander.
+
+342
+00:10:20,040 --> 00:10:23,920
+So you can go directly in Claude with
+
+343
+00:10:21,560 --> 00:10:25,840
+this information, paste it in, and say,
+
+344
+00:10:23,920 --> 00:10:27,200
+"This is my branding kit. I want you to
+
+345
+00:10:25,840 --> 00:10:28,720
+adjust the landing page that I have
+
+346
+00:10:27,200 --> 00:10:30,000
+created so that it matches this branding
+
+347
+00:10:28,720 --> 00:10:31,840
+kit right here." I already did this
+
+348
+00:10:30,000 --> 00:10:33,800
+step, but in the case that you don't
+
+349
+00:10:31,840 --> 00:10:35,120
+have this, Firecrawl is a super cool
+
+350
+00:10:33,800 --> 00:10:36,600
+tool that you can use. Not affiliated,
+
+351
+00:10:35,120 --> 00:10:38,080
+just happen to think it's a cool tool.
+
+352
+00:10:36,600 --> 00:10:40,400
+All righty, so now that we kind of got
+
+353
+00:10:38,080 --> 00:10:42,720
+the not the final draft, but we are very
+
+354
+00:10:40,400 --> 00:10:44,360
+close at this point in regards to this
+
+355
+00:10:42,720 --> 00:10:46,400
+listicle. I still have a little bit of
+
+356
+00:10:44,360 --> 00:10:48,240
+feedback here. So the design step at
+
+357
+00:10:46,400 --> 00:10:50,360
+this point is mostly done, and now we
+
+358
+00:10:48,240 --> 00:10:52,480
+move on to chiefing. Chiefing is
+
+359
+00:10:50,360 --> 00:10:55,720
+actually a term specifically for
+
+360
+00:10:52,480 --> 00:10:57,880
+copywriting where you continually reread
+
+361
+00:10:55,720 --> 00:10:59,720
+your copy so that it flows very very
+
+362
+00:10:57,880 --> 00:11:01,680
+smooth, right? There's the analogy of
+
+363
+00:10:59,720 --> 00:11:03,680
+the greased up slide, which is that when
+
+364
+00:11:01,680 --> 00:11:05,440
+you're reading copy, nothing should feel
+
+365
+00:11:03,680 --> 00:11:06,560
+like a big bump in the slide where if
+
+366
+00:11:05,440 --> 00:11:07,840
+you're going down it, you just get
+
+367
+00:11:06,560 --> 00:11:09,520
+freaking launched off. It should be
+
+368
+00:11:07,840 --> 00:11:11,120
+super smooth the entire way down. And
+
+369
+00:11:09,520 --> 00:11:13,440
+the best way to do that is literally to
+
+370
+00:11:11,120 --> 00:11:14,880
+read it out loud continually. Like with
+
+371
+00:11:13,440 --> 00:11:17,160
+when I'm writing copy, I'll read it out
+
+372
+00:11:14,880 --> 00:11:19,320
+loud five to seven times until I'm
+
+373
+00:11:17,160 --> 00:11:20,320
+genuinely happy with what I have. And
+
+374
+00:11:19,320 --> 00:11:22,000
+each time you read through, you'll
+
+375
+00:11:20,320 --> 00:11:23,440
+notice these small little chunks or
+
+376
+00:11:22,000 --> 00:11:25,160
+pieces that just kind of stop you up a
+
+377
+00:11:23,440 --> 00:11:27,120
+little bit. So that's regards to the
+
+378
+00:11:25,160 --> 00:11:28,880
+copy, but you should do the same thing
+
+379
+00:11:27,120 --> 00:11:30,880
+in regards to the aesthetic design of
+
+380
+00:11:28,880 --> 00:11:32,120
+the page. So for example, I hate the
+
+381
+00:11:30,880 --> 00:11:33,800
+fact that there isn't proper
+
+382
+00:11:32,120 --> 00:11:36,120
+capitalization here. Anytime I'm writing
+
+383
+00:11:33,800 --> 00:11:38,160
+a headline, I always do proper caps. And
+
+384
+00:11:36,120 --> 00:11:40,200
+what's funny is these sub-headlines are
+
+385
+00:11:38,160 --> 00:11:40,520
+all fully capped.
+
+386
+00:11:40,200 --> 00:11:42,680
+>> [laughter]
+
+387
+00:11:40,520 --> 00:11:43,880
+>> It's all auto caps, which I also hate.
+
+388
+00:11:42,680 --> 00:11:45,760
+Anytime you're building something where
+
+389
+00:11:43,880 --> 00:11:48,320
+the the objective is to convert people,
+
+390
+00:11:45,760 --> 00:11:50,440
+simplicity is king, which means you want
+
+391
+00:11:48,320 --> 00:11:54,600
+to make your copy, the structure, the
+
+392
+00:11:50,440 --> 00:11:56,520
+design so incredibly easily readable and
+
+393
+00:11:54,600 --> 00:11:57,960
+so incredibly clear because that means
+
+394
+00:11:56,520 --> 00:12:00,200
+you get more consumption, which means
+
+395
+00:11:57,960 --> 00:12:01,400
+you move the sales process further, you
+
+396
+00:12:00,200 --> 00:12:02,960
+convert more people, you make more
+
+397
+00:12:01,400 --> 00:12:04,240
+money. So, I don't like that. That's
+
+398
+00:12:02,960 --> 00:12:06,440
+another piece of feedback I'm going to
+
+399
+00:12:04,240 --> 00:12:08,480
+give. And I also don't like how there's
+
+400
+00:12:06,440 --> 00:12:10,240
+this and then also this. Like this seems
+
+401
+00:12:08,480 --> 00:12:12,320
+super redundant. Like this, this, and
+
+402
+00:12:10,240 --> 00:12:13,760
+this all on the same page seems very,
+
+403
+00:12:12,320 --> 00:12:15,160
+very redundant. I want that removed
+
+404
+00:12:13,760 --> 00:12:16,920
+along with a few other things. We need a
+
+405
+00:12:15,160 --> 00:12:18,880
+photo here. I'm going to adjust a little
+
+406
+00:12:16,920 --> 00:12:20,560
+bit of the copy cuz I'm not super duper
+
+407
+00:12:18,880 --> 00:12:22,400
+loving it. But ultimately, this process
+
+408
+00:12:20,560 --> 00:12:24,040
+should be specific to you. I have my own
+
+409
+00:12:22,400 --> 00:12:25,320
+process when it comes to chiefing
+
+410
+00:12:24,040 --> 00:12:27,560
+because I've been writing copy since
+
+411
+00:12:25,320 --> 00:12:29,080
+2018, but everybody kind of does it
+
+412
+00:12:27,560 --> 00:12:31,120
+differently. The best practice, like I
+
+413
+00:12:29,080 --> 00:12:33,280
+said, is to legitimately read it out
+
+414
+00:12:31,120 --> 00:12:36,000
+loud yourself. All your copy should be
+
+415
+00:12:33,280 --> 00:12:38,120
+readable at absolute maximum eighth
+
+416
+00:12:36,000 --> 00:12:39,800
+grade level, ideally fifth grade or
+
+417
+00:12:38,120 --> 00:12:41,280
+below. That's another great way to chief
+
+418
+00:12:39,800 --> 00:12:43,200
+your copy. Throw it in something like
+
+419
+00:12:41,280 --> 00:12:45,280
+hemingwayapp.com, and you can see
+
+420
+00:12:43,200 --> 00:12:46,920
+generally what is the reading level of
+
+421
+00:12:45,280 --> 00:12:49,120
+what you just wrote. You want to keep it
+
+422
+00:12:46,920 --> 00:12:51,160
+simple. I promise. Keep it simple,
+
+423
+00:12:49,120 --> 00:12:53,360
+stupid [ __ ] okay? Alrighty, and here
+
+424
+00:12:51,160 --> 00:12:56,240
+we are with what is now our final
+
+425
+00:12:53,360 --> 00:12:57,880
+version of this lander. I am a total
+
+426
+00:12:56,240 --> 00:12:59,400
+perfectionist, so if this were me
+
+427
+00:12:57,880 --> 00:13:01,040
+actually running this my brand, there's
+
+428
+00:12:59,400 --> 00:13:03,080
+still some things that I would adjust,
+
+429
+00:13:01,040 --> 00:13:04,600
+but overall, I'm really liking how this
+
+430
+00:13:03,080 --> 00:13:06,120
+is flowing. So, let's say that this
+
+431
+00:13:04,600 --> 00:13:08,720
+lander at this point is good to go. You
+
+432
+00:13:06,120 --> 00:13:10,440
+can go back and forth as much as your
+
+433
+00:13:08,720 --> 00:13:12,160
+little heart desires, but for me, this
+
+434
+00:13:10,440 --> 00:13:14,320
+is good because another thing to keep in
+
+435
+00:13:12,160 --> 00:13:15,760
+mind is while I do love making all these
+
+436
+00:13:14,320 --> 00:13:17,560
+tiny little changes on landers, money
+
+437
+00:13:15,760 --> 00:13:18,640
+loves speed, and some of these things
+
+438
+00:13:17,560 --> 00:13:20,120
+are not going to make a massive
+
+439
+00:13:18,640 --> 00:13:21,920
+difference. But we can cross off the
+
+440
+00:13:20,120 --> 00:13:23,640
+chiefing step at this point, and now we
+
+441
+00:13:21,920 --> 00:13:25,680
+move on to the sixth and final step,
+
+442
+00:13:23,640 --> 00:13:26,920
+which is to actually deploy this lander
+
+443
+00:13:25,680 --> 00:13:29,520
+so that we can start running ads and
+
+444
+00:13:26,920 --> 00:13:31,480
+start having some fun. So, the truth is
+
+445
+00:13:29,520 --> 00:13:34,840
+there's a bunch of ways to do this. You
+
+446
+00:13:31,480 --> 00:13:36,920
+ultimately have the skeleton of a
+
+447
+00:13:34,840 --> 00:13:39,120
+landing page now, okay? You have all the
+
+448
+00:13:36,920 --> 00:13:40,640
+HTML right here, as you can see. You
+
+449
+00:13:39,120 --> 00:13:43,160
+have all the code. Where you want to
+
+450
+00:13:40,640 --> 00:13:45,120
+deploy this is your personal decision.
+
+451
+00:13:43,160 --> 00:13:47,800
+I'm going to tell you what I do. So, I
+
+452
+00:13:45,120 --> 00:13:50,520
+basically take my code and I upload it
+
+453
+00:13:47,800 --> 00:13:53,400
+privately to a GitHub, you know, private
+
+454
+00:13:50,520 --> 00:13:55,440
+repository and then I link GitHub with
+
+455
+00:13:53,400 --> 00:13:57,880
+Cloudflare. The reason I use Cloudflare
+
+456
+00:13:55,440 --> 00:13:59,720
+is because it is a freaking massive
+
+457
+00:13:57,880 --> 00:14:01,600
+company, powers like half the freaking
+
+458
+00:13:59,720 --> 00:14:03,600
+internet. It can be a little complex to
+
+459
+00:14:01,600 --> 00:14:05,240
+set up, but I'll show you how to do it
+
+460
+00:14:03,600 --> 00:14:06,880
+in just a second here. Another cool part
+
+461
+00:14:05,240 --> 00:14:09,680
+about this is that you can build pages
+
+462
+00:14:06,880 --> 00:14:11,280
+on Cloudflare for free. So, let's move
+
+463
+00:14:09,680 --> 00:14:12,560
+into the deployment step and you can see
+
+464
+00:14:11,280 --> 00:14:13,960
+exactly what I do. First thing we're
+
+465
+00:14:12,560 --> 00:14:16,160
+going to do right here, we're actually
+
+466
+00:14:13,960 --> 00:14:18,000
+going to download this entire HTML file.
+
+467
+00:14:16,160 --> 00:14:19,840
+Next, we're going to go into our GitHub
+
+468
+00:14:18,000 --> 00:14:21,680
+account here and next to top
+
+469
+00:14:19,840 --> 00:14:23,000
+repositories, we're going to select new.
+
+470
+00:14:21,680 --> 00:14:24,440
+Can name this whatever you want.
+
+471
+00:14:23,000 --> 00:14:25,960
+Description, once again, put whatever
+
+472
+00:14:24,440 --> 00:14:27,320
+you want and we are going to select
+
+473
+00:14:25,960 --> 00:14:29,680
+create repository. And now that we're
+
+474
+00:14:27,320 --> 00:14:31,200
+inside, if you see this little blue
+
+475
+00:14:29,680 --> 00:14:33,480
+hyperlinked thing right here, it says
+
+476
+00:14:31,200 --> 00:14:36,400
+uploading an existing file, we are going
+
+477
+00:14:33,480 --> 00:14:38,320
+to click and drag in this HTML file that
+
+478
+00:14:36,400 --> 00:14:39,960
+we just created. After that is uploaded,
+
+479
+00:14:38,320 --> 00:14:42,000
+you can select commit changes. We're
+
+480
+00:14:39,960 --> 00:14:44,520
+going to go to the settings tab, scroll
+
+481
+00:14:42,000 --> 00:14:46,000
+all the way down, repository visibility,
+
+482
+00:14:44,520 --> 00:14:48,120
+change visibility to private. All right,
+
+483
+00:14:46,000 --> 00:14:49,720
+next we're going to go to Cloudflare.
+
+484
+00:14:48,120 --> 00:14:52,240
+You can make a free account. I'm inside
+
+485
+00:14:49,720 --> 00:14:53,480
+of my account right here and to actually
+
+486
+00:14:52,240 --> 00:14:55,400
+turn this into a page, you're going to
+
+487
+00:14:53,480 --> 00:14:57,000
+go to this build section. Zoom in a
+
+488
+00:14:55,400 --> 00:14:58,960
+little bit. Under compute, you're going
+
+489
+00:14:57,000 --> 00:14:59,920
+to select workers and pages. Next,
+
+490
+00:14:58,960 --> 00:15:01,640
+you're going to select create
+
+491
+00:14:59,920 --> 00:15:03,600
+application. Next, where it says looking
+
+492
+00:15:01,640 --> 00:15:06,480
+to deploy pages, you're going to select
+
+493
+00:15:03,600 --> 00:15:08,200
+get started and import an existing get
+
+494
+00:15:06,480 --> 00:15:10,080
+repository. Right there, you're going to
+
+495
+00:15:08,200 --> 00:15:12,080
+select get started. From here, make sure
+
+496
+00:15:10,080 --> 00:15:13,800
+your GitHub account is selected. We will
+
+497
+00:15:12,080 --> 00:15:15,480
+select the repository that we just
+
+498
+00:15:13,800 --> 00:15:16,800
+created and select begin setup. Now,
+
+499
+00:15:15,480 --> 00:15:18,800
+you're going to enter all the proper
+
+500
+00:15:16,800 --> 00:15:19,920
+details here and select save and deploy.
+
+501
+00:15:18,800 --> 00:15:21,920
+Now, it's going to take a little bit of
+
+502
+00:15:19,920 --> 00:15:24,200
+time for it to build and actually deploy
+
+503
+00:15:21,920 --> 00:15:26,040
+this on Cloudflare. The only step, if
+
+504
+00:15:24,200 --> 00:15:28,080
+you want to do this, is simply going to
+
+505
+00:15:26,040 --> 00:15:29,320
+be attaching your domain, which there's
+
+506
+00:15:28,080 --> 00:15:31,360
+plenty of tutorials online of how to
+
+507
+00:15:29,320 --> 00:15:33,080
+attach your domain to Cloudflare, and
+
+508
+00:15:31,360 --> 00:15:34,840
+then you just link the two together and
+
+509
+00:15:33,080 --> 00:15:36,640
+you're good to go. It's an incredibly
+
+510
+00:15:34,840 --> 00:15:38,600
+simple process. And at this point, we
+
+511
+00:15:36,640 --> 00:15:41,040
+now have everything. We wrote the copy,
+
+512
+00:15:38,600 --> 00:15:43,680
+we did the images, we designed the page,
+
+513
+00:15:41,040 --> 00:15:45,040
+we achieved it to our liking, and now
+
+514
+00:15:43,680 --> 00:15:46,800
+it's deployed. You just take the live
+
+515
+00:15:45,040 --> 00:15:48,040
+URL and run it inside of your ads
+
+516
+00:15:46,800 --> 00:15:49,560
+manager, wherever you want to start
+
+517
+00:15:48,040 --> 00:15:51,360
+pushing traffic to it. So, that's the
+
+518
+00:15:49,560 --> 00:15:52,560
+entire process A to Z. If any of this
+
+519
+00:15:51,360 --> 00:15:55,080
+stuff was interesting to you, by the
+
+520
+00:15:52,560 --> 00:15:57,000
+way, I do have a mentorship called Brand
+
+521
+00:15:55,080 --> 00:15:58,640
+Builders Academy, where we teach stuff
+
+522
+00:15:57,000 --> 00:16:00,160
+like this, where you can build really
+
+523
+00:15:58,640 --> 00:16:01,760
+cool stuff with AI, whether that's
+
+524
+00:16:00,160 --> 00:16:03,120
+creatives, landing pages, etc. I'm
+
+525
+00:16:01,760 --> 00:16:05,560
+literally working on a new training
+
+526
+00:16:03,120 --> 00:16:06,840
+right now around AI creatives that I've
+
+527
+00:16:05,560 --> 00:16:08,600
+never posted anywhere else. So, if you
+
+528
+00:16:06,840 --> 00:16:10,440
+want to get access to that, you can fill
+
+529
+00:16:08,600 --> 00:16:12,520
+out an application, first link in the
+
+530
+00:16:10,440 --> 00:16:14,800
+description. Full transparency, it's not
+
+531
+00:16:12,520 --> 00:16:16,160
+for everybody. Does cost money. So, if
+
+532
+00:16:14,800 --> 00:16:17,520
+that's not for you, that's cool. Plenty
+
+533
+00:16:16,160 --> 00:16:18,760
+of free content here. Other than that,
+
+534
+00:16:17,520 --> 00:16:20,120
+would love to see you inside. Thanks so
+
+535
+00:16:18,760 --> 00:16:23,040
+much for watching. See you on the next
+
+536
+00:16:20,120 --> 00:16:23,040
+video. Peace.
+

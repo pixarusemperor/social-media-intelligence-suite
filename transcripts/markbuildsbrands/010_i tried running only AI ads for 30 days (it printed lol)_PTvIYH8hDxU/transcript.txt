@@ -1,0 +1,648 @@
+# i tried running only AI ads for 30 days (it printed lol)
+URL: https://www.youtube.com/watch?v=PTvIYH8hDxU
+Category: video
+Duration: 1186s
+Published: 20260429
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be going over how I tried
+[00:00:03] running only AI ads for 30 days and it
+[00:00:05] printed. As you can see, this is the
+[00:00:07] results from last month specifically,
+[00:00:09] $2.2 million
+[00:00:10] in sales. And if we jump over into the
+[00:00:12] ad account, you can see just over a
+[00:00:13] million dollars to spend for the month
+[00:00:15] of March. Now, before you run off into
+[00:00:17] Claude code with some BS process that
+[00:00:19] you got from IG or Twitter, there's
+[00:00:21] something very, very important that you
+[00:00:22] need to understand about AI. Because if
+[00:00:24] you don't understand this, it doesn't
+[00:00:26] matter how good the technology gets,
+[00:00:27] you're never going to make any real
+[00:00:28] money. Now, the old way of running ads,
+[00:00:30] before AI was ever really a thing, you
+[00:00:32] had to choose two things, but there were
+[00:00:34] three options. You could choose between
+[00:00:36] quality, speed, and basically zero cost.
+[00:00:40] And you could choose any two that you
+[00:00:42] wanted, but anytime that you tried to
+[00:00:44] select one, one of them would also be
+[00:00:46] deselected. So, if you want to have
+[00:00:47] quality and speed, that means it's going
+[00:00:49] to cost you a shitload of money. Or if
+[00:00:51] you want to have speed and have it be
+[00:00:52] cheap, then you're going to sacrifice
+[00:00:53] quality. It was always this battle
+[00:00:55] between, okay, I can either pump a
+[00:00:57] shitload of volume into my ad account
+[00:00:59] and just kind of play the volume game,
+[00:01:00] or I can sacrifice volume and make the
+[00:01:03] best quality ads I possibly can that are
+[00:01:05] most likely to succeed. And if you have
+[00:01:07] to choose between both of those, they're
+[00:01:08] both pretty shitty options. What AI has
+[00:01:10] done has basically allowed you to select
+[00:01:12] all three at once, where you can have
+[00:01:14] very high-quality ads, you can produce
+[00:01:16] them incredibly quickly, and it doesn't
+[00:01:18] even cost you a lot of money. This is
+[00:01:19] both a really, really good thing and a
+[00:01:21] really, really bad thing. It's really
+[00:01:22] good because now the barrier to entry is
+[00:01:25] virtually zero for anybody to be able to
+[00:01:27] create amazing ads and a shitload of
+[00:01:30] them, it costs them very, very little,
+[00:01:31] and they can do it in under an hour. So,
+[00:01:34] what does this mean for the advertising
+[00:01:35] space? Well, this is kind of the way
+[00:01:36] that I like to think about it. If you
+[00:01:37] imagine back in 2015, it would cost you
+[00:01:40] thousands of dollars for you to produce
+[00:01:43] a high-quality ad. I mean, like hip,
+[00:01:45] cream of the crop, the best ad that you
+[00:01:47] could possibly ever create. And of
+[00:01:48] course, it's going to take a lot of
+[00:01:49] time, and there's not going to be a lot
+[00:01:50] of competition, right? If you're running
+[00:01:52] Facebook ads back in 2015, you could put
+[00:01:54] up terrible ads by our standards today
+[00:01:56] and make shitloads of money. However, as
+[00:01:58] the years progressed, the cost it takes
+[00:02:00] for you to produce a very high quality
+[00:02:02] ad decreases. This is a negative
+[00:02:04] logarithmic curve that is slowly
+[00:02:06] approaching zero. So, like the cost over
+[00:02:08] time for you to actually produce an ad
+[00:02:10] becomes virtually nothing. You can see
+[00:02:12] this is an estimation, of course, but it
+[00:02:14] becomes very, very low. I mean, you can
+[00:02:15] create incredible ads for, you know, $5,
+[00:02:17] $10, $20, $30 in AI credits. And not
+[00:02:20] only that, but you also have the speed,
+[00:02:23] right? The ads that used to take days
+[00:02:24] for you to put together a whole
+[00:02:25] production team, you can now have a 100%
+[00:02:28] custom content fully edited produced in
+[00:02:30] a matter of minutes. The downside of
+[00:02:31] this, of course, is that over time, as
+[00:02:33] well, the competitor ad volume is
+[00:02:35] actually a positive exponential curve,
+[00:02:38] where because the barrier of entry, not
+[00:02:39] just with the cost, but with the speed
+[00:02:41] as well, is decreasing so substantially,
+[00:02:44] the competitor ad volume is increasing
+[00:02:46] at an unprecedented rate. So, the
+[00:02:48] question becomes, what the hell do you
+[00:02:50] do about this? Because as we see the
+[00:02:51] barrier to entry decreasing and
+[00:02:53] decreasing and decreasing, and the
+[00:02:55] availability of these tools is
+[00:02:56] increasing and increasing, what the hell
+[00:02:58] left is there for you to compete on? How
+[00:03:00] can you actually destroy people in the
+[00:03:02] ad auction? And I spent a lot of time
+[00:03:04] thinking about this, because what is the
+[00:03:06] real moat now? How do you actually
+[00:03:07] protect your business? Because you used
+[00:03:09] to be able to do it with a [ __ ] load of
+[00:03:11] creative volume, or just top tier S tier
+[00:03:14] creatives, but now both of those things
+[00:03:16] are virtually available to anybody. And
+[00:03:18] my general hypothesis is that the main
+[00:03:21] thing that you're going to be able to
+[00:03:22] compete on is going to be the thinking
+[00:03:24] behind each ad that you're creating.
+[00:03:26] It's not going to be the technology,
+[00:03:27] because the technology is evolving
+[00:03:29] incredibly quickly, and it's virtually
+[00:03:30] available to everybody for an incredibly
+[00:03:32] low cost. Instead, the real barrier to
+[00:03:34] entry is going to be the thinking behind
+[00:03:36] all the creatives that you're making,
+[00:03:38] and the systemization of that thinking.
+[00:03:40] Because what most people don't really
+[00:03:41] understand is they're trying to chase
+[00:03:43] after this winning ad, right? You just
+[00:03:45] test, test, test until you can find your
+[00:03:46] one winner that's allowing you to
+[00:03:48] actually like scale your account, right?
+[00:03:49] Well, I actually disagree with this. I
+[00:03:51] think that what you should be aiming for
+[00:03:53] is not a winning ad, but your winning
+[00:03:55] message. Because once you have that
+[00:03:57] winning message, that can be transmuted
+[00:03:59] across dozens, if not hundreds, of
+[00:04:01] different types of ads, different
+[00:04:03] formats, different styles, different
+[00:04:04] creators. You're looking for your
+[00:04:06] winning sales message. If you study any
+[00:04:08] direct response history, like the
+[00:04:10] legends in the space, they say something
+[00:04:12] similar. One of my favorite direct
+[00:04:13] response entrepreneurs is a guy, I'll go
+[00:04:15] by his alias, his name is Michael
+[00:04:17] Masterson. If you haven't read any of
+[00:04:18] his books, I highly recommend it. But
+[00:04:20] this is one thing that he really, really
+[00:04:22] preaches on. Like what is that message?
+[00:04:23] Because that can be used across funnels,
+[00:04:25] that can be used across creatives. That
+[00:04:26] is essentially how you connect with your
+[00:04:29] customers. And if you connect with them,
+[00:04:31] then they will be buying from you all
+[00:04:32] day, every single day for eternity. So
+[00:04:35] what I'm really trying to say here is
+[00:04:36] that being able to find your winning
+[00:04:37] message, this could be as simple as
+[00:04:39] finding a winning angle, is going to be
+[00:04:41] the one thing that differentiates those
+[00:04:43] who are just throwing up AI slop into
+[00:04:45] their ad account and struggling to find
+[00:04:46] winners, and those who are actually
+[00:04:48] predictively adding winners into their
+[00:04:49] ad account every single week. And it
+[00:04:51] comes down to this core understanding
+[00:04:52] that the person who understands their
+[00:04:54] customer best will destroy the person
+[00:04:57] with better tools every single time. And
+[00:04:59] this message right here comes down to
+[00:05:01] your research and your creativity. So
+[00:05:04] before I show you like the actual tools
+[00:05:06] that I use to scale my ad account with
+[00:05:08] 100% AI ads, there's something that you
+[00:05:10] really need to understand. In fact, it's
+[00:05:11] not just one thing, it's what I call the
+[00:05:13] AI non-negotiables. All right, so
+[00:05:15] non-negotiable number one is that your
+[00:05:17] copy is the foundation of everything. I
+[00:05:20] think I talk about this in almost every
+[00:05:21] single one of my videos, but it's
+[00:05:23] because it's so legitimately true. Like
+[00:05:25] the art of copywriting is dying, and
+[00:05:27] most people don't really know how to
+[00:05:29] really write high converting copy. They
+[00:05:31] think that if I just make the most
+[00:05:33] realistic AI videos, the best AI UGC,
+[00:05:35] best AI animation ads, that that's going
+[00:05:37] to make me have profitable ads, but
+[00:05:39] that's not always the case. You still
+[00:05:41] need to have the actual meat, which is
+[00:05:43] the copywriting, the absolutely top
+[00:05:46] tier. And again, this is going to
+[00:05:47] separate like mark my words it's going
+[00:05:49] to separate all the people that are
+[00:05:50] pushing the AI slop and just throwing
+[00:05:52] all these stupid AI creatives. None of
+[00:05:54] them convert into ad account versus the
+[00:05:56] ones that are actually making real money
+[00:05:58] and scaling ad accounts with AI
+[00:05:59] creatives. If your copy sucks, AI is
+[00:06:01] just going to help you make shitty ads
+[00:06:03] faster and more of [clears throat] them.
+[00:06:05] The whole concept of AI, it doesn't
+[00:06:07] actually change like what makes people
+[00:06:08] tick. It doesn't change underlying human
+[00:06:11] psychology. It's a tool that is going to
+[00:06:13] multiply your understanding of
+[00:06:14] psychology. And one of the biggest
+[00:06:16] pieces of your copy is just having
+[00:06:18] incredibly deep psychographic research.
+[00:06:21] Once again, if you study any of the best
+[00:06:24] copywriters in history, they say that
+[00:06:26] anywhere from like 60 to 80% of your
+[00:06:28] time should actually be spent on the
+[00:06:30] research. Like the writing, the actual
+[00:06:32] writing back when they would put pen to
+[00:06:33] paper should be the minority of your
+[00:06:36] time. The majority should be spent in
+[00:06:38] the research. And that was the whole
+[00:06:39] reason that I put together this
+[00:06:41] foundational Docs SOP where you can get
+[00:06:43] incredibly deep research with AI that
+[00:06:46] takes you about 30 minutes and you can
+[00:06:48] have all of your copy ingredients. You
+[00:06:49] can find your unique mechanism, your big
+[00:06:51] idea. You can find your discovery story,
+[00:06:53] unique mechanism of the problem and the
+[00:06:55] solution, your levels of awareness, your
+[00:06:57] stage of sophistication, your level of
+[00:06:58] consciousness, like all these things
+[00:07:01] that actually allow you to sell people
+[00:07:03] hyper effectively. If you don't have
+[00:07:04] that and you're just like trying to rip
+[00:07:06] what everybody else is doing, then
+[00:07:07] you're always going to be behind. By the
+[00:07:09] way, if you want this, I'll leave it in
+[00:07:10] the description of this video. Like do
+[00:07:12] you really think when it comes to me
+[00:07:14] making AI ads, I just go into Claude and
+[00:07:16] I say, "Hey, here's this ad from a
+[00:07:18] successful competitor. Can you rewrite
+[00:07:20] it for my brand?" Of course not. You
+[00:07:21] need to have the underlying research
+[00:07:23] first because that multiplies everything
+[00:07:25] else that you're doing afterwards. The
+[00:07:26] second non-negotiable is understanding
+[00:07:29] that your funnel is a creative
+[00:07:32] multiplier. And I'm going to explain
+[00:07:33] what I mean. Now, everybody likes to,
+[00:07:35] you know, yap from the [ __ ] rooftops
+[00:07:38] about creative diversity. Creative
+[00:07:39] diversity, creative diversity, creative
+[00:07:41] diversity. What about funnel diversity?
+[00:07:43] I think funnel diversity is actually
+[00:07:46] more important than creative diversity,
+[00:07:48] which most people are not going to agree
+[00:07:49] with that. That's just my personal
+[00:07:50] opinion, but let me kind of show you my
+[00:07:52] thinking behind this. I think the best
+[00:07:53] way to explain how powerful a funnel
+[00:07:56] really can be is that old saying where a
+[00:07:58] rising tide raises all ships. So, here's
+[00:08:02] another visual. Just imagine every
+[00:08:03] single quote-unquote ship is one of your
+[00:08:06] creatives, and the sea level is your
+[00:08:09] funnel. If you're able to overall raise
+[00:08:11] the sea level, aka raise the performance
+[00:08:13] of your funnel, all of your creative
+[00:08:15] efforts are going to be multiplied in a
+[00:08:17] positive way. So, let's say you have a
+[00:08:19] D-tier funnel right here, right? Not a
+[00:08:21] very good funnel at all. Your ROAS is
+[00:08:22] [ __ ] You're not producing any winners.
+[00:08:24] You're not able to scale up your ad
+[00:08:25] spend, and your CPA is very high. Now,
+[00:08:28] these numbers are relative. It's just
+[00:08:30] for the visualization purposes. And
+[00:08:32] let's say you have a target ROAS of a
+[00:08:34] 2x, right? This is all your creative.
+[00:08:36] Some are better than others. As you can
+[00:08:37] see, they're kind of organized based off
+[00:08:39] their CPA. If you increase the quality
+[00:08:41] of your funnel, both through the
+[00:08:42] conversion rate and the average order
+[00:08:44] value, you'll see, boom, you immediately
+[00:08:46] improve both the floor of the
+[00:08:49] lowest-performing creatives, and you
+[00:08:50] also raise the ceiling of the
+[00:08:52] highest-performing creative. If we push
+[00:08:53] it up to a B-tier funnel, you can see we
+[00:08:56] now have creatives that are above our
+[00:08:57] target profitability level. Raise it a
+[00:08:59] little bit more, you can see how
+[00:09:01] impactful it is. Raise it again,
+[00:09:02] obviously your win rate's not actually
+[00:09:03] going to be 60%, [laughter] but point
+[00:09:05] being, if you're able to improve your
+[00:09:07] funnel, all the creative efforts The top
+[00:09:10] creative, when you have a terrible
+[00:09:11] funnel, is barely above a 1x ROAS. If
+[00:09:13] you have an incredible funnel, your
+[00:09:14] worst creative is barely above a 1x
+[00:09:17] ROAS. So, it just makes everything else
+[00:09:19] so much easier. It makes finding winning
+[00:09:20] creatives easier. It makes scaling
+[00:09:22] easier. It makes your margins better
+[00:09:24] because you're just generally more
+[00:09:26] profitable. Like, I could just go on and
+[00:09:27] on. The reason I'm including this in
+[00:09:29] this video, by the way, is because so
+[00:09:30] many of you are just like foaming at the
+[00:09:32] [ __ ] mouth for like new technology,
+[00:09:34] shiny objects. What's the new AI tool?
+[00:09:36] What's the workflow? What's the agentic
+[00:09:38] workflow when the fundamentals don't
+[00:09:39] change? If you don't have these things
+[00:09:41] right, then AI is not going to save you.
+[00:09:42] And the way to avoid really bad
+[00:09:44] creatives is pretty simple. It typically
+[00:09:46] can be boiled down to a few things, but
+[00:09:48] the first is just absolute [ __ ]
+[00:09:50] prompting. If you're going into Higgs
+[00:09:52] Field or VEO or Sora isn't really around
+[00:09:55] anymore, but any of these tools and
+[00:09:56] you're writing your own prompts, you're
+[00:09:58] already behind. You don't need to be a
+[00:09:59] prompt genius, but you do need to speak
+[00:10:01] the language of an LLM to get the best
+[00:10:03] prompt as humanly possible. So, what I
+[00:10:04] like to do is use Whisper or Super
+[00:10:06] Whisper, basically verbally say what I'm
+[00:10:09] looking for in terms of, you know,
+[00:10:11] creating a video, and then have it turn
+[00:10:13] it into a image to video or a text to
+[00:10:16] image prompt, and then send that prompt
+[00:10:18] into the technology for it to create the
+[00:10:19] asset. Another reason that they
+[00:10:21] typically won't work, these AI
+[00:10:22] creatives, is you have [ __ ] research.
+[00:10:25] You totally skimp out on the most
+[00:10:26] important step, which is actually
+[00:10:28] understand your customers really, really
+[00:10:29] deeply, and you just hope that, you
+[00:10:31] know, swiping a top competitor or not
+[00:10:33] really knowing your customers that well
+[00:10:35] is somehow going to work out for you. It
+[00:10:37] doesn't. And the third and final reason
+[00:10:38] your AI ads would fail would be [ __ ]
+[00:10:40] technology, which that's actually going
+[00:10:41] to be the next section. You need to make
+[00:10:42] sure you're using the right tool during
+[00:10:45] the right times. Now, first, let's talk
+[00:10:47] about images. They're so easy. This
+[00:10:49] section will probably take like 30
+[00:10:50] seconds in the video. Like, the only
+[00:10:52] technology you really need is Nano
+[00:10:53] Banana Pro. It's relatively cheap if
+[00:10:55] you're able to get it through Higgs
+[00:10:56] Field. That's what I recommend. And as
+[00:10:58] long as your prompting is good enough,
+[00:11:00] there quite literally, in my experience,
+[00:11:02] is nothing that you cannot accomplish
+[00:11:05] with image ads if you have Nano Banana
+[00:11:07] Pro. With good prompting, good reference
+[00:11:09] images, there's no other tool that you
+[00:11:11] need, like literally nothing. There's
+[00:11:12] all these cool video models. With
+[00:11:14] images, it's so freaking basic. I know
+[00:11:15] ChatGPT dropped a new image model. To
+[00:11:17] me, I was like, it's basically just a
+[00:11:19] clone of Nano Banana Pro. I mean, it
+[00:11:20] does all the same things. Speed is just
+[00:11:22] about the same. So, you know, it doesn't
+[00:11:24] really matter which one you use. They're
+[00:11:25] both very, very good. But, I think what
+[00:11:27] most people don't realize is what you
+[00:11:29] can do with Canva. So, let's say that I
+[00:11:31] was selling this device here for, you
+[00:11:33] know, a shower filter and I like the
+[00:11:35] creative, but it's not just the way I
+[00:11:37] want it. What you can do is download it
+[00:11:39] directly from Higgsfield. You're going
+[00:11:40] to go into Canva and select magic layer.
+[00:11:42] And what it'll do, as you can see, it'll
+[00:11:44] scan your entire image and basically
+[00:11:47] make every element on there dynamic. So,
+[00:11:49] if you don't like one specific part of
+[00:11:51] the text, the color, whatever it is,
+[00:11:53] instead of going back and forth with
+[00:11:54] Nano Banana Pro, you can literally just
+[00:11:56] edit it right here. I mean, it has the
+[00:11:58] exact correct font, like everything is
+[00:12:00] correct. It's pretty absurd. And it's
+[00:12:02] free, so what the hell? So, that's
+[00:12:04] images, right? Stupid simple, not much
+[00:12:06] to say. Now, videos you have a few more
+[00:12:08] options and it becomes a little bit more
+[00:12:10] case dependent. Every model here is
+[00:12:12] actually available through Higgsfield.
+[00:12:14] I'm not affiliated with Higgsfield,
+[00:12:15] guys. I just use them all the freaking
+[00:12:17] time. And it is nice to have all your
+[00:12:19] models in one place. The first solid
+[00:12:21] video model is, of course, going to be
+[00:12:23] Kling 3.0. To me, this is the best
+[00:12:26] balance between quality and cost because
+[00:12:29] it's not super duper expensive, but it
+[00:12:31] is definitely better than Veo 3.1 from
+[00:12:33] Google in terms of prompt adherence, in
+[00:12:35] terms of how realistic it is, etc. Veo
+[00:12:38] 3.1, on the other hand, a little bit
+[00:12:40] cheaper, a little bit faster. You have,
+[00:12:42] you know, some limits in terms of how
+[00:12:43] long the clip can be, but I actually
+[00:12:46] still use Veo 3.1 a ton, specifically
+[00:12:48] the image to video model for Veo 3.1. In
+[00:12:51] fact, I almost exclusively use image to
+[00:12:54] video unless I'm creating something
+[00:12:55] completely from scratch and I don't need
+[00:12:57] a reference image and I want the AI to
+[00:12:58] kind of run wild. I'm always doing image
+[00:13:00] generation on Nano Banana Pro and then
+[00:13:02] image to video using Kling or Veo 3.1.
+[00:13:04] Seedance 2.0 is the final one. This is
+[00:13:07] obviously the most expensive by far, but
+[00:13:10] it's also the most realistic model that
+[00:13:13] there is by far. Now, my use case for
+[00:13:15] Seedance 2.0 right now is very, very
+[00:13:17] simple. All I'm doing is taking my top
+[00:13:19] performing creatives and remaking them
+[00:13:20] with Seedance. I'm not using it for
+[00:13:22] testing because, again, it's very slow
+[00:13:24] and it is quite expensive for the amount
+[00:13:26] of creatives that I produce on a daily
+[00:13:27] basis, so it just doesn't really make
+[00:13:28] sense. If you want all the prompts that
+[00:13:29] I use to both, you know, create the
+[00:13:31] images and then also the prompts for
+[00:13:33] image to video, just go to my Instagram
+[00:13:35] @markbuildsbrands and DM me the word
+[00:13:37] stack and I'll send it to you for free.
+[00:13:39] Now, I want to show you some examples of
+[00:13:41] what actually good AI creatives look
+[00:13:43] like. I'm not going to show examples
+[00:13:44] from my specific account, but I will
+[00:13:46] tell you they are very similar to many
+[00:13:48] of the creatives that I run across all
+[00:13:49] my businesses. First, let's take a quick
+[00:13:51] look at some high-performing AI UGC.
+[00:13:54] >> I woke up one morning and everything
+[00:13:55] looked like there were two of them and
+[00:13:57] every doctor told me it had nothing to
+[00:13:58] do with my thyroid. I'd see [music] two
+[00:14:00] coffee cups, two phones, two of
+[00:14:01] everything. I had to close one eye just
+[00:14:03] to function. Went to an ophthalmologist
+[00:14:04] who said my eyes were fine. Went to a
+[00:14:06] neurologist who did an MRI, found
+[00:14:07] nothing. Went back to my endocrinologist
+[00:14:09] who looked at my labs and said, "Your
+[00:14:11] TSH is 1.8. That's perfect. This isn't
+[00:14:13] thyroid-related." But I knew my body
+[00:14:15] something was very wrong. I couldn't
+[00:14:16] drive cuz I'd see two lanes instead of
+[00:14:18] one. I couldn't read because the words
+[00:14:20] doubled. I couldn't work because I
+[00:14:21] couldn't focus on my computer screen. My
+[00:14:23] life was falling apart and nobody could
+[00:14:24] tell me why. Then I found a research
+[00:14:26] study about thyroid eye disease and
+[00:14:28] >> So, before I even talk about the
+[00:14:30] technology here, as you can see, this is
+[00:14:32] a solid script. This is first-person
+[00:14:35] driven copy. It's following a framework
+[00:14:37] that I like to call, "I was just like
+[00:14:38] you, but worse." Where it's like, "I had
+[00:14:40] this clear issue. It wasn't quite as bad
+[00:14:42] as this lady, but if this lady was able
+[00:14:44] to fix her issues, then obviously I can
+[00:14:46] cuz she's in a much worse position than
+[00:14:47] me." And if we look at the hook, let's
+[00:14:49] rewatch the hook.
+[00:14:50] >> I woke up one morning and everything
+[00:14:51] looked like there were two of them and
+[00:14:52] every doctor told me it had nothing to
+[00:14:54] do with my thyroid.
+[00:14:55] >> So, I think one of the reasons this hook
+[00:14:56] was so successful is the second half. My
+[00:14:59] doctor told me it had nothing to do with
+[00:15:00] my thyroid. This is an ad that is
+[00:15:03] running in a solution-aware market,
+[00:15:05] which is actually, ironically, one of
+[00:15:06] the best markets to sell to because
+[00:15:08] people are already relatively aware of,
+[00:15:10] you know, all the products in the
+[00:15:11] market. You just have to play the game
+[00:15:12] of differentiation through your
+[00:15:14] mechanisms, through discrediting
+[00:15:16] alternative solutions, etc. And while
+[00:15:18] this lady didn't use it, one of the most
+[00:15:19] powerful words in copy in general, not
+[00:15:22] the most powerful, but I put it in the
+[00:15:23] top five. It's the word without. Like,
+[00:15:25] this is how you can achieve XYZ outcome
+[00:15:28] without discredit all the common
+[00:15:29] solutions. So, she didn't use the word
+[00:15:31] exactly without, but she was
+[00:15:33] discrediting the most common solution
+[00:15:34] being, you know, an issue with the
+[00:15:36] thyroid. Now, how about we look at an
+[00:15:38] image ad, specifically native static.
+[00:15:40] Native statics are format of images that
+[00:15:42] are designed to blend into the natural
+[00:15:44] scroll of the Facebook feed, yet they're
+[00:15:46] still designed for you to obviously stop
+[00:15:48] the scroll. The way that I view native
+[00:15:50] statics is the creative is essentially
+[00:15:52] the scroll stopper because it's the
+[00:15:54] first thing that people see. People
+[00:15:55] always see the creative way before they
+[00:15:57] read the copy. But, this creative itself
+[00:15:59] doesn't do any selling. What does the
+[00:16:00] actual selling is right here, which is
+[00:16:03] the actual primary text, the copy, which
+[00:16:05] says, "Please stop buying Oral-B 12 for
+[00:16:07] neuropathy." So, obviously selling to
+[00:16:09] the, you know, the health and wellness
+[00:16:10] market and neuropathy product. Now, the
+[00:16:12] reason this is so good is because while
+[00:16:14] it is like the whole native static and
+[00:16:16] it's kind of designed to blend in, it's
+[00:16:17] a balance because you have to blend in,
+[00:16:19] but you also have to stand out to stop
+[00:16:21] the scroll. And this is using a
+[00:16:22] principle called contrast, where if
+[00:16:24] people are scrolling through their feed,
+[00:16:26] this is not something that particularly
+[00:16:29] is pleasant to look at. And in your
+[00:16:30] brain, especially because of all this,
+[00:16:32] you know, the stitches and the purple,
+[00:16:34] it creates a visual sense of contrast.
+[00:16:36] And I posted a few videos ago, if you
+[00:16:38] want to go check it out, I'll leave it
+[00:16:39] somewhere in the description that goes
+[00:16:40] into this a little bit more depth. But,
+[00:16:41] this is another AI image, probably took
+[00:16:43] this person 30 seconds to actually
+[00:16:45] create this, that is scaling really well
+[00:16:47] in the health and wellness market. Now,
+[00:16:48] let's look at one more example here.
+[00:16:50] This is a AI animation ad. This is like
+[00:16:52] one of my points here of this video. You
+[00:16:54] guys have to understand that the whole
+[00:16:56] concept of like, "Oh, that AI looks so
+[00:16:58] realistic. It looks so human." We've
+[00:17:00] passed that point. The point is not AI
+[00:17:02] realism anymore. It maybe was initially
+[00:17:05] to make videos and images that look so
+[00:17:07] freaking realistic, but I'll be honest,
+[00:17:09] like some of the top ads in my account
+[00:17:10] over the last month has been stupid [ __ ]
+[00:17:12] like this. So, don't confine yourself to
+[00:17:14] like AI UGC or like hyperrealistic VSLs.
+[00:17:18] Some of the best ads you can ever run,
+[00:17:19] yes they're made with AI, but they can
+[00:17:21] just be the stupidest [ __ ] ever. So,
+[00:17:23] let's take a look.
+[00:17:24] >> E27 liquid collagen, a powerful blend of
+[00:17:27] collagen peptides, vitamin C, [music]
+[00:17:29] and hyaluronic acid to help curb those
+[00:17:32] pesky cravings, boost metabolism,
+[00:17:35] improve gut health, and support energy.
+[00:17:37] >> I'll be honest with you guys. If you
+[00:17:39] want to know the best way to find like
+[00:17:41] the top ad formats that are running,
+[00:17:43] don't go to Twitter, don't go to
+[00:17:44] Instagram. Everybody there is usually
+[00:17:47] very late, anywhere from like 6 months
+[00:17:48] to multiple years behind. What you
+[00:17:50] really want to do is go backwards. Go
+[00:17:52] back into history because this style of
+[00:17:54] creative has run in TV commercials for
+[00:17:57] decades. And if you really know your
+[00:17:59] history, you'd know that to be true. So,
+[00:18:01] instead of trying to go
+[00:18:02] >> [laughter]
+[00:18:02] >> look forward, go look backwards and you
+[00:18:04] may just find a a new winning format
+[00:18:06] that just prints for you. Speaking from
+[00:18:08] experience.
+[00:18:09] >> [music]
+[00:18:09] >> Just give me a little collagen.
+[00:18:11] Just one drop. E27 liquid collagen gives
+[00:18:15] you the confidence to slim down [music]
+[00:18:16] without the drama. Trust me, your gut
+[00:18:18] will thank you.
+[00:18:19] >> So, this isn't that good of a script,
+[00:18:21] but I actually think the product is
+[00:18:22] carrying a lot more weight here because
+[00:18:24] you're taking a super duper proven
+[00:18:26] market, which is collagen, and having
+[00:18:28] another method of consumption. Which, if
+[00:18:30] you're interested in like R&D in your
+[00:18:32] own brand, just look at the top
+[00:18:33] performing like supplements in a market
+[00:18:35] and transmute that into another method
+[00:18:37] of consumption. If you know, you know.
+[00:18:38] Now, once again, especially with videos,
+[00:18:40] very important you understand, realism
+[00:18:42] in AI is not the goal, okay? The people
+[00:18:45] that were very, very early to those
+[00:18:47] animation style creatives, they know
+[00:18:50] that it's not really about realism. We
+[00:18:52] cracked realism very, very early. I
+[00:18:54] think Sora 2 was the first, you know,
+[00:18:56] real introduction to having incredibly
+[00:18:58] realistic ads. And the better the
+[00:19:00] technology gets, once again, it's going
+[00:19:01] to become cheaper, it's going to become
+[00:19:03] faster. And so, this isn't going to be
+[00:19:05] something that you can compete on. So,
+[00:19:06] you have to adapt and become, you know,
+[00:19:08] more creative and come up with better at
+[00:19:10] formats that you can run instead of just
+[00:19:12] relying on stuff that looks realistic.
+[00:19:14] AI is a vehicle. It's not a strategy.
+[00:19:17] It's a multiplier of what you're already
+[00:19:19] doing. You cannot neglect the
+[00:19:20] fundamentals, or you'll never make
+[00:19:22] winning creatives. And you need to have
+[00:19:23] the right technology for each use case
+[00:19:25] that you have for your creative
+[00:19:26] production. And if you like learning
+[00:19:28] about all this AI stuff and staying on
+[00:19:29] top of AI creatives and strategies, I do
+[00:19:32] have a mentorship program called Brand
+[00:19:34] Builders Academy, where we go through
+[00:19:35] all this stuff in depth. If you're
+[00:19:36] interested, it is via application only
+[00:19:38] as of right now. interested, just click
+[00:19:40] the link in the description, the first
+[00:19:42] one. Other than that, y'all, thank you
+[00:19:43] so much for watching. See y'all in the
+[00:19:44] next video. Peace.

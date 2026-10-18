@@ -1,0 +1,463 @@
+# how to test facebook ads post andromeda update
+URL: https://www.youtube.com/watch?v=z4UAXut0kCA
+Category: video
+Duration: 869s
+Published: 20251126
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, it's Mark here. In this video,
+[00:00:01] I'm going to show you how to test
+[00:00:02] Facebook Ads post Andromeda update.
+[00:00:04] First, I'll be walking you through my
+[00:00:05] personal Facebook Ads testing structure.
+[00:00:07] Second, I'm going to show you how to
+[00:00:08] actually set up this exact structure
+[00:00:11] within your ad account. And third, I'm
+[00:00:13] going to tell you why this structure
+[00:00:14] works so freaking well. So, the
+[00:00:16] Andromeda update basically flipped my
+[00:00:18] entire creative strategy on its head
+[00:00:20] because pre-Andromeda, I was very heavy
+[00:00:23] on testing a [ __ ] load of variations.
+[00:00:26] So, when you're testing ads, you can
+[00:00:27] kind of put them into two categories.
+[00:00:29] You can put them into a lot more, but
+[00:00:30] generally the way that I think about it
+[00:00:31] is you have your variations and you have
+[00:00:33] your new concept. So, if you can't tell
+[00:00:36] by the name, variations are very small
+[00:00:38] changes to existing winning ads. New
+[00:00:41] concepts are basically completely unique
+[00:00:43] creative material that you're bringing
+[00:00:45] into your ad account. So, like I said,
+[00:00:46] it flipped it on its head. What I used
+[00:00:48] to do was the majority of the ads that I
+[00:00:49] was launching, roughly about like 80% I
+[00:00:51] would say, was actually variations
+[00:00:53] because once you find a winner, you can
+[00:00:55] just create winner after winner after
+[00:00:56] winner after winner and skyrocket your
+[00:00:58] win rate because you're just making
+[00:00:59] these tiny changes to your ads. And of
+[00:01:02] course, new concepts would have been the
+[00:01:03] other 20%. But now, this has basically
+[00:01:05] been completely flipped to the point
+[00:01:07] where my creatives are 80% new concepts
+[00:01:10] and 20% variations. And when I'm testing
+[00:01:13] new ads from like a brand new product,
+[00:01:15] let's say, I am pushing much harder on
+[00:01:18] testing new concepts instead of one
+[00:01:19] concept with a bunch of variations. So
+[00:01:21] first, let's talk about the structure.
+[00:01:22] To launch new ads, I recommend typically
+[00:01:25] using a CBO. CBO stands for campaign
+[00:01:28] budget optimization and sounds like a
+[00:01:30] big fancy word. All it means is that you
+[00:01:32] set the budget at the campaign level
+[00:01:34] instead of ad set level and Facebook
+[00:01:35] will determine how to spend your
+[00:01:37] campaign budget across the various ad
+[00:01:39] set. Now, I'm going to come back to the
+[00:01:41] actual budget and how you want to
+[00:01:42] calculate how much you should spend. But
+[00:01:45] inside of your CBO, you're going to have
+[00:01:47] multiple ad sets. The number ultimately
+[00:01:49] is up to you, but if you're launching
+[00:01:50] something new, I recommend at least two
+[00:01:53] or three ad sets in here. So again, back
+[00:01:54] to a CBO, if I set the budget at a $100,
+[00:01:57] it doesn't mean that it's going to
+[00:01:58] perfectly spend $33 here, $33 here, and
+[00:02:02] $33 here. No, of course not. It could
+[00:02:03] quite literally spend $99
+[00:02:06] in this one ad set and 50 cents here and
+[00:02:08] 50 cents here. Unlikely to happen, but a
+[00:02:10] lot of times one ad set does cannibalize
+[00:02:11] things, but that's actually okay. This
+[00:02:13] entire philosophy of how I structure my
+[00:02:16] ad testing centers around letting
+[00:02:18] Facebook do the majority of the heavy
+[00:02:19] lifting for you. So, inside each of
+[00:02:21] these ad sets, the ad set level is
+[00:02:22] typically where you set your targeting.
+[00:02:24] So, who are you really going after? And
+[00:02:26] what I do inside of these ad sets is I
+[00:02:28] keep them completely broad, which means
+[00:02:30] Advantage Plus placements. Typically,
+[00:02:32] I'm running in terms of ages 18 to 65
+[00:02:35] plus and I'm running male and female. Of
+[00:02:37] course, if you're only selling to one
+[00:02:39] demographic, then select the one that's
+[00:02:40] most relevant to you. But if you're
+[00:02:41] selling to both, keep it broad. Now, at
+[00:02:43] this point, you may be wondering, "Mark,
+[00:02:44] why do you have three ad sets if they're
+[00:02:46] all going to be identical? They're all
+[00:02:47] broad, they're all Advantage Plus, and
+[00:02:49] they're all 18-65 plus. Everything is
+[00:02:51] broad. Why do you have three of them?"
+[00:02:53] Well, the reason I have three is because
+[00:02:54] they're not actually identical. You see,
+[00:02:56] inside each of these ad sets, if this is
+[00:02:58] ad set one, this is ad set two and this
+[00:03:00] is ad set three, I'm actually going to
+[00:03:01] have three different creatives in each
+[00:03:03] of these three ad sets. Again, I'm just
+[00:03:05] using three. If you want to have more
+[00:03:07] ads per ad set, you can. But here's the
+[00:03:09] point that I'm trying to make. You want
+[00:03:11] to segment these ad sets by ad concept.
+[00:03:14] So, let's say ad set one is ad concept
+[00:03:16] one, ad set two is ad concept two, and
+[00:03:19] ad set three is ad concept three. And
+[00:03:21] then inside, let's say you have three
+[00:03:23] creatives each, which these three would
+[00:03:25] actually be variations of that one
+[00:03:27] concept, okay? I'll explain kind of what
+[00:03:29] I mean, but this would be a total of, if
+[00:03:31] we count the actual ads, 1 2 3 4 5 6 7 8
+[00:03:35] 9 total ads for this ad launch. But
+[00:03:38] these three ads are going to be
+[00:03:39] variations of this one new concept. So,
+[00:03:43] the reason why I said you can have as
+[00:03:44] many ad sets as you want in here is cuz
+[00:03:46] you could have five ad sets in here, but
+[00:03:48] only one ad per ad set and each one is a
+[00:03:50] new concept. I think the sweet spot is
+[00:03:52] not one. I think it's like anywhere from
+[00:03:54] three to 10, but [ __ ] I have ad sets
+[00:03:57] running that have 20 plus ads in there.
+[00:03:59] So, you know, 30 plus ads, 50 plus ads,
+[00:04:01] some of them. There isn't a rule here,
+[00:04:03] okay? I'll tell you what I recommend is
+[00:04:05] anywhere from three to five ad sets,
+[00:04:07] which means three to five concepts,
+[00:04:09] completely unique concepts, and anywhere
+[00:04:11] from two to five variations in each of
+[00:04:14] those ad set. And by the way, this is
+[00:04:16] mostly relevant to images and videos. I
+[00:04:18] typically do my testing with images cuz
+[00:04:21] you can typically just do it faster. But
+[00:04:23] if you want to test with images and
+[00:04:24] videos, you can. I would recommend
+[00:04:26] segmenting them in the ad set or even in
+[00:04:29] a completely different CBO because
+[00:04:31] typically what I see is if you throw a
+[00:04:33] bunch of images and videos in the same
+[00:04:35] ad set, one of them will cannibalize
+[00:04:37] everything else. Like all the videos
+[00:04:38] will get spent and the images will get
+[00:04:40] no spend, which of course you don't want
+[00:04:42] cuz you still want to make sure you test
+[00:04:43] those images, right? So, I'll do a
+[00:04:45] separate CBO if you're going to combine
+[00:04:47] images and videos. For me, I just keep
+[00:04:49] it simple. Just pick one, only videos or
+[00:04:51] only images, and run with that. Now,
+[00:04:53] let's talk about the budget. How do you
+[00:04:55] calculate the budget for a CBO? Well, I
+[00:04:57] have a golden rule that I would have at
+[00:04:58] least $10 allocated out of my total
+[00:05:01] budget per ad in the CBO. So like I
+[00:05:04] said, how many ads do we have in the CBO
+[00:05:05] right now? Well, 1 2 3 4 5 6 7 8 9. If
+[00:05:08] we take nine and multiply it by $10,
+[00:05:11] that is a total of $90 a day, a day,
+[00:05:15] yes, that you want to run this CBO ad.
+[00:05:18] So, you take the number of ads across
+[00:05:19] all of the ad sets total, multiply that
+[00:05:22] by 10, and that is going to be the
+[00:05:24] minimum daily budget that you run with.
+[00:05:26] The one exception to this rule is I
+[00:05:28] would never recommend that you run a CBO
+[00:05:30] at less than $50 a day. I don't care
+[00:05:32] what your budget is. If you don't have
+[00:05:34] enough cash set aside to run a $50 a day
+[00:05:37] CBO, you should not be running paid ads.
+[00:05:39] It's my personal opinion. If you don't
+[00:05:40] like it, I do not care. So now that
+[00:05:42] we've gone over the structure, let's
+[00:05:43] actually build this inside of the ad
+[00:05:45] account. So, I've got almost a brand new
+[00:05:47] ad account here. What we're going to do
+[00:05:48] is go select create new campaign. We're
+[00:05:50] going to hit sales and hit continue. I'm
+[00:05:52] not going to go over naming conventions
+[00:05:54] in this particular video, but name it
+[00:05:56] something that makes sense for you at
+[00:05:57] the campaign, ad set, and ad level.
+[00:05:58] Here, we're going to set the campaign
+[00:06:00] budget. Let's use our example to $90 a
+[00:06:02] day and make sure that you have campaign
+[00:06:04] budget selected. Everything else here,
+[00:06:06] we're not going to touch. We're going to
+[00:06:07] keep it exactly as is and move on to the
+[00:06:09] ad set level. Here we are at the ad set
+[00:06:11] level. We're going to have website
+[00:06:12] conversion location. Performance goal is
+[00:06:14] going to be max conversions. Data set is
+[00:06:16] going to be the pixel that you're
+[00:06:18] currently running your traffic to.
+[00:06:19] Conversion event, we are going to be
+[00:06:20] optimizing for purchases. I almost
+[00:06:22] exclusively optimize for purchases and
+[00:06:25] almost exclusively run sales campaigns
+[00:06:27] because anything else is mostly mostly,
+[00:06:30] with very rare exceptions, a complete
+[00:06:32] waste of your time and money. Now, we're
+[00:06:33] going to keep scrolling down. Under the
+[00:06:36] attribution window, I typically do 7-day
+[00:06:38] click and 1-day view and I keep the view
+[00:06:40] through completely turned off. You can
+[00:06:41] do testing on this once you get a little
+[00:06:44] bit more advanced, but initially this is
+[00:06:46] a super standard setup, 7-day click
+[00:06:48] 1-day view. Now, onto the budget and
+[00:06:49] schedule. I always schedule my ads for
+[00:06:51] the next day at 6:00 a.m. EST. This
+[00:06:55] account is actually in PSD, but imagine
+[00:06:57] it was in EST. I typically run my ads
+[00:06:59] right around that time to start getting
+[00:07:00] active. Next, what we're going to do is
+[00:07:02] edit the location. So, I do the majority
+[00:07:04] of my testing in the United States.
+[00:07:06] We're just going to search United States
+[00:07:07] here, select it, and remove Singapore,
+[00:07:09] which is there for some reason, and
+[00:07:11] continue to scroll down. Minimum age,
+[00:07:13] you can keep. Languages, I typically
+[00:07:15] keep broad as well in the US because
+[00:07:17] it's an English majority speaking
+[00:07:18] country, at least that's what my
+[00:07:20] customers are going to be buying in. And
+[00:07:21] then finally down here, as I said, we
+[00:07:23] keep it broad. We're going to have the
+[00:07:25] Advantage Plus placements on. So, there
+[00:07:27] is nothing for you to edit within here.
+[00:07:30] You can keep it completely broad, don't
+[00:07:31] touch anything. All right, now we are at
+[00:07:32] the ad level. Once again, apply your
+[00:07:34] naming conventions here. Keep it nice
+[00:07:35] and neat and organized. You're going to
+[00:07:37] have create ad selected, single image or
+[00:07:39] video. You can keep multi-advertiser ad
+[00:07:41] selected. Now, let me tell you this one
+[00:07:43] time. I'm going to upload an ad here
+[00:07:45] just as an example and I'm going to show
+[00:07:47] you how much nonsense Facebook tries to
+[00:07:49] push on you with their updates. I am
+[00:07:52] utterly amazed because I still spend
+[00:07:54] time in my ad accounts every single day,
+[00:07:55] but I'm amazed at how many [ __ ]
+[00:07:57] settings, and that's me putting it
+[00:08:11] very lightly, there are for Facebook to
+[00:08:13] try to take your money. Majority of them
+[00:08:15] are a complete waste of time and money.
+[00:08:17] So, just follow what I do here. This is
+[00:08:19] basically the only setting that it's
+[00:08:20] actually okay to keep it on. And even
+[00:08:22] then, I haven't split tested
+[00:08:23] extensively, but keeping it on
+[00:08:25] personally doesn't hurt. Under
+[00:08:26] destination, you're going to put the
+[00:08:27] website URL that you're driving traffic
+[00:08:29] to. Make sure that this matches the ad
+[00:08:31] the uh if you put your URL in the ad
+[00:08:33] copy as well, make sure that it matches
+[00:08:34] one to one. And also make sure you
+[00:08:36] deselect optimize website destination
+[00:08:38] because if that's on, it will send to
+[00:08:40] traffic outside of that direct domain,
+[00:08:42] which we don't want. Display link, you
+[00:08:44] can keep empty. Browser add-ons, you can
+[00:08:46] keep at none. You don't want to have any
+[00:08:48] add-ons. Now, let's actually upload the
+[00:08:50] creative. Let's say we're running image
+[00:08:51] ads in this case, we go ahead and select
+[00:08:53] image ad. So, as we're going through the
+[00:08:55] creative setup, again, make sure that
+[00:08:57] just about every setting here is turned
+[00:08:58] off. If you want to split test it later
+[00:08:59] down the line, you can. But for me
+[00:09:01] personally, I keep everything off here.
+[00:09:03] So, promo codes is unchecked, branding
+[00:09:05] off, site links off, products off. We're
+[00:09:08] going to hit next and actually upload
+[00:09:09] the creative. And just like that, we got
+[00:09:11] our phenomenal creative there. If you
+[00:09:12] want to take a look, boom, beautiful 10x
+[00:09:15] row ads coming very soon. Now, I don't
+[00:09:18] adjust any of the aspect ratios here.
+[00:09:19] We're going to hit next. Now, you're
+[00:09:20] going to fill in your copy, primary
+[00:09:22] text, the headline, and the description
+[00:09:24] is all there and it's a fantastic
+[00:09:26] message, run more ads. Going to hit
+[00:09:27] next. Image generation, deselect all. It
+[00:09:30] won't even let me deselect it. Now,
+[00:09:32] under enhancements, you want to make
+[00:09:33] sure all of these are turned off. And be
+[00:09:35] careful cuz there's a lot of them. So,
+[00:09:36] you got to scroll down. For example,
+[00:09:38] overlays, turn off, visual touch-ups,
+[00:09:40] music, text improvements, all turned
+[00:09:41] off, animation off as well. All right,
+[00:09:43] there we go. There's our lovely
+[00:09:44] beautiful ad. Let's keep cooking. Keep
+[00:09:46] scrolling down. Call to action, I
+[00:09:48] usually have learn more. I actually have
+[00:09:50] seen a slight lift in learn more versus
+[00:09:53] shop now, but I think most of the time
+[00:09:55] it's pretty trivial. So, depends also
+[00:09:56] what kind of ad you're running. So, I
+[00:09:58] keep it a learn more. If you are going I
+[00:10:00] set this up for one ad, I'll just
+[00:10:02] duplicate it, you know, two times, and
+[00:10:03] I'll go in and edit the creative to
+[00:10:05] change it to a different variation. And
+[00:10:07] after that is created, I'll duplicate
+[00:10:08] this ad set two times, so I have three
+[00:10:11] ad sets in here. The CBO budget is
+[00:10:13] currently set to $90 a day, three ad
+[00:10:15] sets, three concepts, three ads per
+[00:10:17] concept, for a total of nine total ads,
+[00:10:20] as you can see here. And they're all
+[00:10:21] going to be beginning to run tomorrow
+[00:10:23] directly at 6:00 a.m. Eastern. I
+[00:10:25] actually made a separate video to this
+[00:10:26] that is unlisted on my YouTube channel
+[00:10:28] right now, where there's so many
+[00:10:30] questions that come up after you launch
+[00:10:32] the ads. It's like, how do I know when
+[00:10:33] to kill an ad? How do I know when to
+[00:10:34] scale an ad? What if an ad doesn't get
+[00:10:36] spend? I briefly covered that, but it's
+[00:10:37] a little bit more nuanced. What about
+[00:10:39] testing landers? Do you ever use ABOs?
+[00:10:41] There's like a million questions that
+[00:10:42] occur once you click publish ads, and
+[00:10:45] you actually start getting data. So, I
+[00:10:47] put together a separate video. If you
+[00:10:48] want to get access to that, just go to
+[00:10:49] my Instagram, it's at markbuildsbrands,
+[00:10:51] and DM me the word law, like l a w,
+[00:10:55] because these are laws of scaling. Now,
+[00:10:56] the last thing I want to touch on here
+[00:10:57] is why does this strategy actually work?
+[00:11:00] Well, we have seen, or at least I have
+[00:11:02] seen over the years, Facebook push many,
+[00:11:04] many updates to the point where I
+[00:11:05] remember in 2019, they said that CBOs
+[00:11:08] were going to be mandatory, and they
+[00:11:09] were going to just delete ABOs off the
+[00:11:11] face of the earth. So, every time that
+[00:11:12] Facebook will launch an update, you have
+[00:11:14] to kind of take with a grain of salt,
+[00:11:16] and most importantly, trust the data.
+[00:11:17] So, for me, I have a lot of freaking
+[00:11:19] data. Not only do I have my own ad
+[00:11:20] accounts that I run, I have friends' ad
+[00:11:22] accounts that I'm looking at, but I also
+[00:11:23] have all of our students inside of BBA,
+[00:11:25] where we are instructing them the best
+[00:11:27] testing structure. Which So, we've been
+[00:11:29] doing a lot of testing internally to
+[00:11:30] find out what that best structure is,
+[00:11:32] and this is what we found works really,
+[00:11:34] really well. So, the number one reason
+[00:11:35] why it works is just straight data. You
+[00:11:37] know, there's a lot of people that will
+[00:11:38] say, "Oh, this is like not optimal, or
+[00:11:40] you should do, you know, straight up ASC
+[00:11:42] campaign." Look, to be honest, I really
+[00:11:44] don't give a [ __ ] I care about data
+[00:11:46] over anything. A lot of times, Facebook
+[00:11:48] says, "This is how the Facebook machine
+[00:11:49] operates." And all the [ __ ] I don't
+[00:11:51] care. I listen to what the data says,
+[00:11:52] and I am willing to test just about
+[00:11:54] anything in pursuing the right kind of
+[00:11:55] data. But more importantly than that,
+[00:11:57] the real reason why it works is because
+[00:11:59] of what I was mentioning earlier, where,
+[00:12:01] you know, I have shifted much more of my
+[00:12:02] ads to being more unique, more creative
+[00:12:05] diversity, and increasing my ratio of
+[00:12:07] variations to new concepts. But I don't
+[00:12:09] necessarily want you to think about it
+[00:12:11] in terms of like ratios, like 80/20. I
+[00:12:13] think the right way to actually think
+[00:12:15] about how you approach your testing is
+[00:12:17] you basically just change the order in
+[00:12:19] which you're testing variations and new
+[00:12:20] concepts. So, again, like I said
+[00:12:21] earlier, the way that I used to do
+[00:12:23] testing is let's say one concept, like
+[00:12:26] one new concept, and then variation,
+[00:12:28] variation, variation, variation. Just
+[00:12:31] like this, right? And the only
+[00:12:33] difference now is that instead of just
+[00:12:36] testing with one new concept, I'm
+[00:12:37] testing with many. I showed you in this
+[00:12:40] video an example of three, but typically
+[00:12:41] I'm testing with even more than that.
+[00:12:43] Sometimes as many as 10 new concepts for
+[00:12:46] a single product test. So, if I were to
+[00:12:48] visualize it, it's more like this. Like
+[00:12:50] if this were kind of the the five ad
+[00:12:51] sets that I'm running, it's new
+[00:12:52] concepts, and then all the variations in
+[00:12:55] here, right? So, yes, I'm actually
+[00:12:57] testing more ads typically when I'm
+[00:12:58] launching, and that's not a hard rule.
+[00:13:01] The point is,
+[00:13:03] if it hasn't been made abundantly clear
+[00:13:04] by this point, is that you need to
+[00:13:06] prioritize more creative diversity and
+[00:13:08] new concepts in your testing, and less
+[00:13:10] variation testing. Because one is
+[00:13:12] clearly going to move the needle way
+[00:13:13] more than the other. And I know, like
+[00:13:15] the number one objection here,
+[00:13:16] especially when you run CBOs, is, "Well,
+[00:13:18] what if like this ad set gets no spend?"
+[00:13:21] Or like, "What if this ad or these few
+[00:13:23] ads get no spend or being cannibalized
+[00:13:25] by the other?" Well, good. You don't
+[00:13:26] necessarily need to test every single
+[00:13:28] individual ad at the same level of ad
+[00:13:31] spend across, you know, every single ad
+[00:13:33] concept that you're running. Sometimes,
+[00:13:35] sometimes, if Facebook doesn't spend on
+[00:13:37] that particular creative at all, or
+[00:13:39] very, very little, then it means that
+[00:13:40] that creative wasn't that that good to
+[00:13:42] begin with in the first place. So,
+[00:13:43] that's not a hard rule. Sometimes,
+[00:13:45] Facebook is [ __ ] I'll be the first
+[00:13:46] [ __ ] one to admit sometimes Facebook
+[00:13:49] will not spend on a creative, even
+[00:13:51] though it has a like the lowest cost per
+[00:13:53] conversion. So, it's a tough balance.
+[00:13:55] You know, all I can say is that this is
+[00:13:56] supported by data, and I can say one
+[00:13:58] thing for 100% sure in my heart of
+[00:14:01] hearts, which is that you need to be
+[00:14:02] prioritizing creative diversity
+[00:14:04] post-Andromeda. This variation spamming
+[00:14:06] game is just not nearly as effective as
+[00:14:08] it was previously. I kind of alluded to
+[00:14:10] it earlier, but this strategy is exactly
+[00:14:12] what we teach inside of Brand Builds
+[00:14:13] Academy. So, if you're interested in
+[00:14:15] like having somebody actually like help
+[00:14:17] you out, you know, set this up, and more
+[00:14:19] importantly, like the feedback loop that
+[00:14:20] comes after it, you can always click the
+[00:14:21] first link in the description and fill
+[00:14:22] out an application. We'll see if you're
+[00:14:24] a good fit. Other than that, guys, thank
+[00:14:25] you so much for watching. I'll see you
+[00:14:26] legends in the next one. Peace.

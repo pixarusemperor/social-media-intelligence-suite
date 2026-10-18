@@ -1,0 +1,27 @@
+{
+  "post_id": "1428952506082372",
+  "url": "https://www.facebook.com/cnicsarl/posts/1428952506082372?locale=fr_FR",
+  "creation_time": 1792252202,
+  "date_iso": "2026-10-17T15:50:02+00:00",
+  "date_str": "2026-10-17 15:50:02 UTC",
+  "post_text": "🌿 NDJOKA RECRUTE SES MUSES\n\n📍 Les candidatures sont ouvertes à Douala et Yaoundé pour participer à l’expérience des invités lors des évènements ndjoka.\n\n🤝 Accueil, présentation des produits,...",
+  "reactions_count": 11,
+  "shares_count": 0,
+  "comments_count": 0,
+  "top_reactions": [
+    "Solidaire"
+  ],
+  "comments": [],
+  "image_urls": [
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854781171_1882002162793277_4956426261273200341_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s640x640&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SZ06pDR8iT8Q7kNvwGAT-Nj&_nc_oc=Adp8JBlMYk6IoIx2JQ-ndiqpDCBJ96x5njZ-uEtUtkJeKwrzuZSU-9agYlmHni03LQgs4YekVfMntWkfn6lJQaRO&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=FyPzXQXDM_BnBwgRAjkJaQ&_nc_ss=7f289&oh=00_AQOKkTVfaI2b7MJwhqLt3ZPPEKKG5V-xdbFdfb2_-bw0Xg&oe=6AD9CA76"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_06/images/image_01.png",
+      "size_bytes": 29256,
+      "cdn_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854781171_1882002162793277_4956426261273200341_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s640x640&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SZ06pDR8iT8Q7kNvwGAT-Nj&_nc_oc=Adp8JBlMYk6IoIx2JQ-ndiqpDCBJ96x5njZ-uEtUtkJeKwrzuZSU-9agYlmHni03LQgs4YekVfMntWkfn6lJQaRO&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=FyPzXQXDM_BnBwgRAjkJaQ&_nc_ss=7f289&oh=00_AQOKkTVfaI2b7MJwhqLt3ZPPEKKG5V-xdbFdfb2_-bw0Xg&oe=6AD9CA76"
+    }
+  ]
+}

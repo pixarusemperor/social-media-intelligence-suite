@@ -1,0 +1,1196 @@
+1
+00:00:00,080 --> 00:00:03,040
+hey guys Mark here in this video I'm
+
+2
+00:00:01,360 --> 00:00:04,760
+going to show you how I use this new AI
+
+3
+00:00:03,040 --> 00:00:07,240
+tool to find a
+
+4
+00:00:04,760 --> 00:00:09,480
+$376,000 per month winning product that
+
+5
+00:00:07,240 --> 00:00:10,480
+took me basically no time whatsoever and
+
+6
+00:00:09,480 --> 00:00:12,160
+if you're wondering what this new AI
+
+7
+00:00:10,480 --> 00:00:15,040
+tool is it's not chat GPT it's actually
+
+8
+00:00:12,160 --> 00:00:18,360
+a new tool from open aai called operator
+
+9
+00:00:15,040 --> 00:00:20,480
+so operator is open ai's new AI agent
+
+10
+00:00:18,360 --> 00:00:22,240
+tool which an AI agent is basically an
+
+11
+00:00:20,480 --> 00:00:24,080
+AI think of it as an employee that you
+
+12
+00:00:22,240 --> 00:00:25,480
+can hire to go and complete any task on
+
+13
+00:00:24,080 --> 00:00:28,520
+the internet that you want you can give
+
+14
+00:00:25,480 --> 00:00:30,000
+it your specific logins to softwares to
+
+15
+00:00:28,520 --> 00:00:31,800
+platforms and it'll go and actually do
+
+16
+00:00:30,000 --> 00:00:33,360
+stuff for you and then come back going
+
+17
+00:00:31,800 --> 00:00:36,360
+save you a lot of time so what I did is
+
+18
+00:00:33,360 --> 00:00:38,120
+I programmed an operator an AI agent to
+
+19
+00:00:36,360 --> 00:00:40,000
+go and do product research for me based
+
+20
+00:00:38,120 --> 00:00:41,480
+off of a specific set of criteria so
+
+21
+00:00:40,000 --> 00:00:42,720
+once you open your operator account it's
+
+22
+00:00:41,480 --> 00:00:44,600
+very very simple to use it's going to
+
+23
+00:00:42,720 --> 00:00:47,480
+look exactly like chadt and all you want
+
+24
+00:00:44,600 --> 00:00:49,880
+to do is basically insert a set of
+
+25
+00:00:47,480 --> 00:00:51,360
+instructions that you want it to follow
+
+26
+00:00:49,880 --> 00:00:53,080
+in order to find your winning product
+
+27
+00:00:51,360 --> 00:00:55,080
+okay so for me I have a specific set of
+
+28
+00:00:53,080 --> 00:00:56,360
+criteria that I'm looking for in order
+
+29
+00:00:55,080 --> 00:00:57,880
+to find my winning product what I'm
+
+30
+00:00:56,360 --> 00:00:59,400
+going to do is I'm actually going to
+
+31
+00:00:57,880 --> 00:01:00,840
+give it access to one of my favorite
+
+32
+00:00:59,400 --> 00:01:02,680
+softwares that I like to use for product
+
+33
+00:01:00,840 --> 00:01:04,400
+research called get hooked I'm going to
+
+34
+00:01:02,680 --> 00:01:06,600
+give it access to that software and
+
+35
+00:01:04,400 --> 00:01:08,440
+basically have it scrape the ad Library
+
+36
+00:01:06,600 --> 00:01:09,600
+based off a specific set of criteria to
+
+37
+00:01:08,440 --> 00:01:10,920
+find the winning product so let me show
+
+38
+00:01:09,600 --> 00:01:12,120
+you exactly what I mean so this is the
+
+39
+00:01:10,920 --> 00:01:13,600
+get hook software right here what I'm
+
+40
+00:01:12,120 --> 00:01:15,320
+going to do is go over to the left- hand
+
+41
+00:01:13,600 --> 00:01:17,800
+side and as you can see you can
+
+42
+00:01:15,320 --> 00:01:18,960
+basically select the specific criteria
+
+43
+00:01:17,800 --> 00:01:21,080
+that you want to have whether it's like
+
+44
+00:01:18,960 --> 00:01:23,040
+a winning ad a video ad if the ad is
+
+45
+00:01:21,080 --> 00:01:25,720
+still running and I have a a list of
+
+46
+00:01:23,040 --> 00:01:27,080
+criteria that I use that I uploaded into
+
+47
+00:01:25,720 --> 00:01:29,200
+operator along with a whole bunch of
+
+48
+00:01:27,080 --> 00:01:31,320
+other instructions basically hit enter
+
+49
+00:01:29,200 --> 00:01:33,640
+and I basically let it run wild for you
+
+50
+00:01:31,320 --> 00:01:36,320
+know about 5 to 10 minutes it spit out
+
+51
+00:01:33,640 --> 00:01:37,960
+an entire list of 10 winning products
+
+52
+00:01:36,320 --> 00:01:39,200
+and so if you want like the full prompt
+
+53
+00:01:37,960 --> 00:01:40,640
+that I actually used you can tell it's
+
+54
+00:01:39,200 --> 00:01:41,840
+kind of long it did take a little bit of
+
+55
+00:01:40,640 --> 00:01:43,760
+like trial and error to actually get it
+
+56
+00:01:41,840 --> 00:01:45,720
+to work but if you want this specific
+
+57
+00:01:43,760 --> 00:01:47,120
+prompt I'll leave it as the third link
+
+58
+00:01:45,720 --> 00:01:48,520
+in the description so you can always
+
+59
+00:01:47,120 --> 00:01:49,920
+just go and click it and get access to
+
+60
+00:01:48,520 --> 00:01:51,640
+it for free as you can see I put in the
+
+61
+00:01:49,920 --> 00:01:53,280
+prompt here it ran for a little bit of
+
+62
+00:01:51,640 --> 00:01:54,840
+time we went back and forth maybe one or
+
+63
+00:01:53,280 --> 00:01:56,280
+two times cuz there was a few points
+
+64
+00:01:54,840 --> 00:01:57,600
+where it couldn't exactly access
+
+65
+00:01:56,280 --> 00:01:59,200
+something but this is the way that I
+
+66
+00:01:57,600 --> 00:02:00,840
+want you to think about using operator
+
+67
+00:01:59,200 --> 00:02:02,560
+okay and anytime that you're working
+
+68
+00:02:00,840 --> 00:02:04,280
+with an AI agent you have to give it a
+
+69
+00:02:02,560 --> 00:02:05,800
+little bit of guidance so this prompt
+
+70
+00:02:04,280 --> 00:02:07,880
+that I gave you again third link in the
+
+71
+00:02:05,800 --> 00:02:09,760
+description if you want it it's just a
+
+72
+00:02:07,880 --> 00:02:12,120
+starting point okay I have my specific
+
+73
+00:02:09,760 --> 00:02:13,520
+criteria that I use you can set your own
+
+74
+00:02:12,120 --> 00:02:14,920
+you don't have to use get hook you can
+
+75
+00:02:13,520 --> 00:02:16,120
+use whatever software that you want you
+
+76
+00:02:14,920 --> 00:02:17,880
+can have it go straight to the Facebook
+
+77
+00:02:16,120 --> 00:02:19,920
+ads library and search based off
+
+78
+00:02:17,880 --> 00:02:21,440
+keywords it's entirely up to you I like
+
+79
+00:02:19,920 --> 00:02:23,320
+using get hooked because their Explorer
+
+80
+00:02:21,440 --> 00:02:25,040
+section is basically like the ad library
+
+81
+00:02:23,320 --> 00:02:26,760
+but on steroids so I can specifically
+
+82
+00:02:25,040 --> 00:02:28,200
+find ads that I know are winning and
+
+83
+00:02:26,760 --> 00:02:29,240
+reverse engineer them to find the
+
+84
+00:02:28,200 --> 00:02:31,440
+product and the revenue that that
+
+85
+00:02:29,240 --> 00:02:33,320
+product is doing so I sent all this data
+
+86
+00:02:31,440 --> 00:02:34,920
+into operator it worked it worked it
+
+87
+00:02:33,320 --> 00:02:37,600
+worked and it basically spit out this
+
+88
+00:02:34,920 --> 00:02:38,880
+list right here of 10 potential winning
+
+89
+00:02:37,600 --> 00:02:40,720
+products you can see it missed the first
+
+90
+00:02:38,880 --> 00:02:43,160
+one but the other you know nine products
+
+91
+00:02:40,720 --> 00:02:44,800
+got basically perfectly and as I was
+
+92
+00:02:43,160 --> 00:02:46,240
+going through this I actually found you
+
+93
+00:02:44,800 --> 00:02:47,600
+know one really good product here now
+
+94
+00:02:46,240 --> 00:02:49,560
+you don't have to say 10 products you
+
+95
+00:02:47,600 --> 00:02:51,040
+could say 20 you could say 50 you could
+
+96
+00:02:49,560 --> 00:02:53,440
+say 100 you can say whatever you want
+
+97
+00:02:51,040 --> 00:02:55,280
+it's your AI agent that you can use with
+
+98
+00:02:53,440 --> 00:02:57,120
+your own criteria now based off this
+
+99
+00:02:55,280 --> 00:02:58,520
+initial criteria that I used I actually
+
+100
+00:02:57,120 --> 00:03:00,080
+found this product right here so I'm
+
+101
+00:02:58,520 --> 00:03:02,240
+going to click on the link and it's
+
+102
+00:03:00,080 --> 00:03:03,840
+going to take me to the get hooked
+
+103
+00:03:02,240 --> 00:03:06,120
+product because let me tell you this
+
+104
+00:03:03,840 --> 00:03:07,040
+like this video is not over okay I'm
+
+105
+00:03:06,120 --> 00:03:08,280
+going to show you how to find the
+
+106
+00:03:07,040 --> 00:03:09,760
+product but that's only half of the
+
+107
+00:03:08,280 --> 00:03:11,080
+process okay the other half of the
+
+108
+00:03:09,760 --> 00:03:14,360
+process is doing what's called
+
+109
+00:03:11,080 --> 00:03:16,080
+validating the product AKA proving with
+
+110
+00:03:14,360 --> 00:03:17,960
+data that you can confirm that that
+
+111
+00:03:16,080 --> 00:03:20,760
+product is selling at least
+
+112
+00:03:17,960 --> 00:03:21,960
+$300,000 per month in sales if it's not
+
+113
+00:03:20,760 --> 00:03:23,680
+doing that it's not a product that we
+
+114
+00:03:21,960 --> 00:03:25,520
+want to sell so here I'm going to click
+
+115
+00:03:23,680 --> 00:03:27,480
+on details and actually go to the
+
+116
+00:03:25,520 --> 00:03:28,680
+landing page right here and as you can
+
+117
+00:03:27,480 --> 00:03:30,720
+see this product you guys have probably
+
+118
+00:03:28,680 --> 00:03:32,160
+seen it before would be told but this is
+
+119
+00:03:30,720 --> 00:03:36,440
+a really cool thing notice look at the
+
+120
+00:03:32,160 --> 00:03:38,720
+Domain okay Kittys sprout.com Pages dc-
+
+121
+00:03:36,440 --> 00:03:40,920
+listicle meaning on this channel I talk
+
+122
+00:03:38,720 --> 00:03:42,440
+a lot about using competitive advantages
+
+123
+00:03:40,920 --> 00:03:43,920
+um by the way I put together like a full
+
+124
+00:03:42,440 --> 00:03:45,760
+video on this it's unlisted on the
+
+125
+00:03:43,920 --> 00:03:47,280
+channel but you can just DM me on IG DM
+
+126
+00:03:45,760 --> 00:03:49,200
+me the word competitor and I'll send it
+
+127
+00:03:47,280 --> 00:03:51,440
+to you but one of the competitive
+
+128
+00:03:49,200 --> 00:03:53,280
+advantages that you can use is competing
+
+129
+00:03:51,440 --> 00:03:55,800
+on funnels and notice this isn't like a
+
+130
+00:03:53,280 --> 00:03:58,280
+traditional Shopify PDP this isn't a
+
+131
+00:03:55,800 --> 00:04:00,400
+product page what this is is a page that
+
+132
+00:03:58,280 --> 00:04:02,160
+is designed to basically the sales
+
+133
+00:04:00,400 --> 00:04:04,760
+process which can possibly increase your
+
+134
+00:04:02,160 --> 00:04:06,360
+conversion rate and these guys um as you
+
+135
+00:04:04,760 --> 00:04:08,040
+can tell this product is not new right
+
+136
+00:04:06,360 --> 00:04:11,160
+it's very much so validated they say
+
+137
+00:04:08,040 --> 00:04:12,720
+that they sold over 190,000 no I'm not
+
+138
+00:04:11,160 --> 00:04:14,080
+going to believe that for a second maybe
+
+139
+00:04:12,720 --> 00:04:15,400
+it's true maybe it's not I'm not here to
+
+140
+00:04:14,080 --> 00:04:16,920
+judge but what I am going to do is look
+
+141
+00:04:15,400 --> 00:04:18,760
+at the data and so now we want to move
+
+142
+00:04:16,920 --> 00:04:20,960
+on to the validation portion of this
+
+143
+00:04:18,760 --> 00:04:22,400
+video how can you actually validate that
+
+144
+00:04:20,960 --> 00:04:24,520
+this product right here is selling at
+
+145
+00:04:22,400 --> 00:04:26,120
+scale so what I'm going to do pop open
+
+146
+00:04:24,520 --> 00:04:27,640
+the similar web extension and you can
+
+147
+00:04:26,120 --> 00:04:30,160
+see that these guys have scaled to
+
+148
+00:04:27,640 --> 00:04:32,720
+235,000
+
+149
+00:04:30,160 --> 00:04:34,200
+visitors per month okay now you can do a
+
+150
+00:04:32,720 --> 00:04:36,520
+really simple calculation here to
+
+151
+00:04:34,200 --> 00:04:38,320
+determine generally speaking the amount
+
+152
+00:04:36,520 --> 00:04:39,880
+of Revenue that they're doing okay and
+
+153
+00:04:38,320 --> 00:04:41,960
+so I'm going to say with a page like
+
+154
+00:04:39,880 --> 00:04:43,680
+this the conversion rate is going to be
+
+155
+00:04:41,960 --> 00:04:45,040
+a minimum I mean this is a damn good
+
+156
+00:04:43,680 --> 00:04:48,000
+page I would say the conversion rate
+
+157
+00:04:45,040 --> 00:04:49,640
+would be a minimum of a 2% I think 3% is
+
+158
+00:04:48,000 --> 00:04:51,160
+even realistic or maybe even higher than
+
+159
+00:04:49,640 --> 00:04:54,320
+3% but let's just be conservative right
+
+160
+00:04:51,160 --> 00:04:56,680
+let's say 2% so you're going to do 0.02
+
+161
+00:04:54,320 --> 00:05:00,080
+times the number of visitors that they
+
+162
+00:04:56,680 --> 00:05:01,520
+have on their store which is 235,000
+
+163
+00:05:00,080 --> 00:05:04,520
+right so let's go
+
+164
+00:05:01,520 --> 00:05:07,120
+235 that's going to give you
+
+165
+00:05:04,520 --> 00:05:09,640
+4700 orders per month so now we need to
+
+166
+00:05:07,120 --> 00:05:11,280
+estimate what would the aov be of the
+
+167
+00:05:09,640 --> 00:05:14,080
+store the average order value because if
+
+168
+00:05:11,280 --> 00:05:15,720
+you multiply the aov times that 4700
+
+169
+00:05:14,080 --> 00:05:17,520
+number you can generally understand the
+
+170
+00:05:15,720 --> 00:05:19,960
+type of volume that these guys are doing
+
+171
+00:05:17,520 --> 00:05:21,560
+now what I absolutely love about this
+
+172
+00:05:19,960 --> 00:05:23,120
+product by the way not only does it
+
+173
+00:05:21,560 --> 00:05:25,880
+solve a problem which is a very
+
+174
+00:05:23,120 --> 00:05:28,080
+important piece of criteria not only
+
+175
+00:05:25,880 --> 00:05:30,520
+does it solve a problem in a passionate
+
+176
+00:05:28,080 --> 00:05:32,000
+market right the only people that humans
+
+177
+00:05:30,520 --> 00:05:34,680
+love more than themselves or their
+
+178
+00:05:32,000 --> 00:05:36,600
+family is their pets okay so that's why
+
+179
+00:05:34,680 --> 00:05:38,320
+I absolutely love this market look what
+
+180
+00:05:36,600 --> 00:05:40,560
+they did here you basically sign them up
+
+181
+00:05:38,320 --> 00:05:42,200
+on a subscription so instead of just
+
+182
+00:05:40,560 --> 00:05:43,720
+buying the product once which we all
+
+183
+00:05:42,200 --> 00:05:44,960
+know is really really hard for you to be
+
+184
+00:05:43,720 --> 00:05:46,480
+profitable when you just get a customer
+
+185
+00:05:44,960 --> 00:05:47,720
+to buy once right you have to be really
+
+186
+00:05:46,480 --> 00:05:50,400
+aggressive with your aob with your
+
+187
+00:05:47,720 --> 00:05:52,920
+upsells Etc just to be profitable what
+
+188
+00:05:50,400 --> 00:05:55,280
+these guys did is they built a
+
+189
+00:05:52,920 --> 00:05:57,040
+subscription around I'm guessing the
+
+190
+00:05:55,280 --> 00:05:58,880
+filters associated with this product
+
+191
+00:05:57,040 --> 00:06:00,160
+which is genius I absolutely love that
+
+192
+00:05:58,880 --> 00:06:01,920
+they did that cuz now they're
+
+193
+00:06:00,160 --> 00:06:04,240
+repeat customer rate is going to be very
+
+194
+00:06:01,920 --> 00:06:05,920
+high and even if they acquire customer
+
+195
+00:06:04,240 --> 00:06:07,920
+once that customer is going to be paying
+
+196
+00:06:05,920 --> 00:06:09,880
+them over and over and over again and so
+
+197
+00:06:07,920 --> 00:06:12,360
+even like absolute worst case scenario
+
+198
+00:06:09,880 --> 00:06:16,440
+for the two month it's $70 4 months it's
+
+199
+00:06:12,360 --> 00:06:18,000
+84 um and the six month is 94 right so
+
+200
+00:06:16,440 --> 00:06:20,960
+worst case scenario these guys have an
+
+201
+00:06:18,000 --> 00:06:22,520
+aob of at least $80 I think that's being
+
+202
+00:06:20,960 --> 00:06:23,960
+extremely conservative once again I
+
+203
+00:06:22,520 --> 00:06:25,840
+haven't even looked at the other upsell
+
+204
+00:06:23,960 --> 00:06:27,920
+that these guys have but let's say very
+
+205
+00:06:25,840 --> 00:06:30,360
+conservatively they're at 80 right we're
+
+206
+00:06:27,920 --> 00:06:34,360
+going to multiply that 4700
+
+207
+00:06:30,360 --> 00:06:36,600
+uh 4700 unit order number by $80 and
+
+208
+00:06:34,360 --> 00:06:38,920
+see let's do this the right way there we
+
+209
+00:06:36,600 --> 00:06:42,000
+go
+
+210
+00:06:38,920 --> 00:06:43,440
+$376,000 per month in sales that this
+
+211
+00:06:42,000 --> 00:06:45,120
+brand is doing so now that we know that
+
+212
+00:06:43,440 --> 00:06:47,960
+this product once again solves a problem
+
+213
+00:06:45,120 --> 00:06:49,400
+in a Passion Market it is validated so
+
+214
+00:06:47,960 --> 00:06:51,880
+we know that it's selling at at least
+
+215
+00:06:49,400 --> 00:06:53,600
+$300,000 per month the only thing that I
+
+216
+00:06:51,880 --> 00:06:55,840
+want to look into at this point is the
+
+217
+00:06:53,600 --> 00:06:57,960
+margins okay what I mean by margins is
+
+218
+00:06:55,840 --> 00:07:00,360
+how much does it cost for you to get
+
+219
+00:06:57,960 --> 00:07:03,040
+this product at cost so let's quickly
+
+220
+00:07:00,360 --> 00:07:05,760
+just pop open AliExpress to kind of get
+
+221
+00:07:03,040 --> 00:07:07,000
+an idea of how much this product
+
+222
+00:07:05,760 --> 00:07:08,120
+actually cost to fulfill I'm not
+
+223
+00:07:07,000 --> 00:07:09,600
+actually going to fulfill this product
+
+224
+00:07:08,120 --> 00:07:10,960
+for I to sell it through all Express but
+
+225
+00:07:09,600 --> 00:07:13,160
+I just want to kind of get a general
+
+226
+00:07:10,960 --> 00:07:15,480
+idea around how much it would cost okay
+
+227
+00:07:13,160 --> 00:07:17,200
+so let's say cat water fountain
+
+228
+00:07:15,480 --> 00:07:19,240
+obviously it's an electric cat water
+
+229
+00:07:17,200 --> 00:07:20,920
+found so let's go ahead and take a look
+
+230
+00:07:19,240 --> 00:07:23,080
+and generally see I'm sure we'll see it
+
+231
+00:07:20,920 --> 00:07:25,800
+pretty quickly here yep there it is for
+
+232
+00:07:23,080 --> 00:07:28,800
+$17 okay perfect let's just say it's
+
+233
+00:07:25,800 --> 00:07:30,920
+around like $17 to $20 to fulfill and
+
+234
+00:07:28,800 --> 00:07:34,560
+ship this product out that means if
+
+235
+00:07:30,920 --> 00:07:37,080
+they're selling for an average 70 and it
+
+236
+00:07:34,560 --> 00:07:39,400
+costs 20 that means that it meets the
+
+237
+00:07:37,080 --> 00:07:41,000
+two rules of profitability number one
+
+238
+00:07:39,400 --> 00:07:42,840
+you want to have a minimum of a $20
+
+239
+00:07:41,000 --> 00:07:44,120
+margin in this case they have $50 a
+
+240
+00:07:42,840 --> 00:07:46,080
+margin those are really really good
+
+241
+00:07:44,120 --> 00:07:49,120
+profit margins that's the first rule the
+
+242
+00:07:46,080 --> 00:07:52,480
+second rule is the product needs to
+
+243
+00:07:49,120 --> 00:07:53,920
+absolutely positively be 3x your cost of
+
+244
+00:07:52,480 --> 00:07:55,440
+goods sold so in this case to cost a
+
+245
+00:07:53,920 --> 00:07:58,960
+good sold is 20 bucks right like I said
+
+246
+00:07:55,440 --> 00:08:01,240
+earlier 3x the 20 $60 these guys they're
+
+247
+00:07:58,960 --> 00:08:03,080
+selling as 70 so they meet both of those
+
+248
+00:08:01,240 --> 00:08:05,160
+rules of profitability so this product
+
+249
+00:08:03,080 --> 00:08:06,680
+right here checks off so many boxes it's
+
+250
+00:08:05,160 --> 00:08:08,240
+not going to be one that I would sell I
+
+251
+00:08:06,680 --> 00:08:09,520
+mean the one thing that I'm keeping in
+
+252
+00:08:08,240 --> 00:08:11,000
+mind here is that these guys are doing a
+
+253
+00:08:09,520 --> 00:08:13,360
+lot of things right so in the back of my
+
+254
+00:08:11,000 --> 00:08:15,000
+mind I'm like how could I beat them you
+
+255
+00:08:13,360 --> 00:08:16,520
+know I haven't looked necessarily at
+
+256
+00:08:15,000 --> 00:08:18,400
+their ad Library yet that would be the
+
+257
+00:08:16,520 --> 00:08:20,040
+next thing that I do but these guys are
+
+258
+00:08:18,400 --> 00:08:22,480
+freaking destroying it and it's not
+
+259
+00:08:20,040 --> 00:08:23,560
+necessarily not necessarily A company
+
+260
+00:08:22,480 --> 00:08:25,120
+that I want to compete with because
+
+261
+00:08:23,560 --> 00:08:26,280
+they're doing really really well so I'd
+
+262
+00:08:25,120 --> 00:08:27,800
+have to do a little bit more research
+
+263
+00:08:26,280 --> 00:08:29,880
+really I understand but this is the
+
+264
+00:08:27,800 --> 00:08:31,720
+proect that you can use okay you can
+
+265
+00:08:29,880 --> 00:08:34,040
+think of operator literally as one of
+
+266
+00:08:31,720 --> 00:08:35,280
+your vas as one of your employees in
+
+267
+00:08:34,040 --> 00:08:36,560
+your business you can start thinking
+
+268
+00:08:35,280 --> 00:08:38,560
+like an entrepreneur and a business
+
+269
+00:08:36,560 --> 00:08:40,480
+owner un less like an employee because
+
+270
+00:08:38,560 --> 00:08:42,240
+that's how you really create this wealth
+
+271
+00:08:40,480 --> 00:08:43,800
+that I know that you're after so I hope
+
+272
+00:08:42,240 --> 00:08:45,280
+that you guys enjoy this video if you
+
+273
+00:08:43,800 --> 00:08:47,760
+want to learn more about this process of
+
+274
+00:08:45,280 --> 00:08:49,200
+intertwining like AI with with product
+
+275
+00:08:47,760 --> 00:08:51,840
+research with Facebook ads I've been
+
+276
+00:08:49,200 --> 00:08:53,280
+experimenting a lot with operator over
+
+277
+00:08:51,840 --> 00:08:54,960
+the past it's only been out I think
+
+278
+00:08:53,280 --> 00:08:56,200
+around like a week or a week and a half
+
+279
+00:08:54,960 --> 00:08:57,920
+but I've been experimenting a lot I've
+
+280
+00:08:56,200 --> 00:08:59,560
+been using it a lot of my own business
+
+281
+00:08:57,920 --> 00:09:01,000
+so this is all stuff that I share
+
+282
+00:08:59,560 --> 00:09:03,000
+actually inside of our program brand
+
+283
+00:09:01,000 --> 00:09:04,920
+builds Academy so if you're interested
+
+284
+00:09:03,000 --> 00:09:05,880
+in working with me a little bit closer
+
+285
+00:09:04,920 --> 00:09:08,240
+and actually getting like that
+
+286
+00:09:05,880 --> 00:09:10,400
+one-on-one guidance to get you to owning
+
+287
+00:09:08,240 --> 00:09:11,840
+a profitable successful Ecom store that
+
+288
+00:09:10,400 --> 00:09:13,160
+actually pays you real income online
+
+289
+00:09:11,840 --> 00:09:14,520
+just click the first link in the
+
+290
+00:09:13,160 --> 00:09:16,120
+description you can apply for brand
+
+291
+00:09:14,520 --> 00:09:17,760
+builders Academy that's a mentorship
+
+292
+00:09:16,120 --> 00:09:19,680
+program that I own with my partner Alex
+
+293
+00:09:17,760 --> 00:09:20,840
+FedEd off so if that interests you go
+
+294
+00:09:19,680 --> 00:09:22,520
+ahead and fill out an application we
+
+295
+00:09:20,840 --> 00:09:24,520
+don't accept everybody but we will let
+
+296
+00:09:22,520 --> 00:09:25,560
+you know if you want to work with us so
+
+297
+00:09:24,520 --> 00:09:27,320
+other than that guys thank you so much
+
+298
+00:09:25,560 --> 00:09:29,760
+for watching see you in the next video
+
+299
+00:09:27,320 --> 00:09:29,760
+peace
+

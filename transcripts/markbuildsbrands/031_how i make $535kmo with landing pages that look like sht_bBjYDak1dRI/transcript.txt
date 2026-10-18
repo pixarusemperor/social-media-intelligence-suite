@@ -1,0 +1,1007 @@
+# how i make $535k/mo with landing pages that look like sh*t
+URL: https://www.youtube.com/watch?v=bBjYDak1dRI
+Category: video
+Duration: 1872s
+Published: 20251121
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to show you how I make 535K per
+[00:00:03] month using landing pages that look like
+[00:00:05] trash. Now, everybody thinks that your
+[00:00:07] landing pages need to be clean. They
+[00:00:09] need to be aesthetic, need to be all
+[00:00:10] fancy, and just completely impress every
+[00:00:12] single one of your customers. But that's
+[00:00:14] all a lie. In fact, some of my top
+[00:00:16] performing landing pages that I have run
+[00:00:18] look like absolute trash. Well, how is
+[00:00:21] that possible? How is it if they look so
+[00:00:23] terrible, how can they still convert?
+[00:00:25] Well, the reason why is because what you
+[00:00:26] think gets people to convert is these
+[00:00:28] aesthetics. But in reality, there's only
+[00:00:30] two things that actually matter in the
+[00:00:32] performance of your landing page. And
+[00:00:33] these are two quantitative metrics.
+[00:00:35] These are numbers. Doesn't matter
+[00:00:37] qualitatively what it looks like. If
+[00:00:38] these two things are in check and that
+[00:00:40] is going to be number one, your
+[00:00:41] conversion rate and then number two,
+[00:00:43] your average order value. These two
+[00:00:44] numbers, if these two are healthy, I
+[00:00:46] will run the ugliest landing pages that
+[00:00:48] I possibly can simply because if I have
+[00:00:50] a good conversion rate and a good
+[00:00:51] average order value, I am going to be
+[00:00:53] printing. And most people are running
+[00:00:54] traffic to funnels that don't have
+[00:00:56] either of these things dialed in. And
+[00:00:58] that's what we're going to fix in this
+[00:00:59] video. Now, the first thing I want to
+[00:01:00] talk about is going to be your funnel
+[00:01:02] structure. What I like to call your
+[00:01:03] funnel architecture. Now, most people do
+[00:01:05] is they'll run ads on Facebook or Tik
+[00:01:07] Tok or Google. And they will drive all
+[00:01:09] their traffic directly to what's called
+[00:01:11] a PDP. All right? A standard product
+[00:01:13] page is what that stands for. And then
+[00:01:14] immediately after the PDP, you just send
+[00:01:16] them directly to a checkout page. You
+[00:01:18] hope that they actually do check out.
+[00:01:19] And at that point, the payment is
+[00:01:21] secured. and you never really talk to
+[00:01:23] those customers again, never worry about
+[00:01:24] them. They buy from you and they're
+[00:01:25] basically gone forever. This is what
+[00:01:27] most people are doing. And the problem
+[00:01:28] with this, the problem with going
+[00:01:29] directly from an ad to a PDP is PDPs are
+[00:01:33] designed to sell the product. But
+[00:01:34] really, we know that marketing is not
+[00:01:36] about selling products. It's about
+[00:01:37] selling outcome. Nobody buys products
+[00:01:39] for the product itself, but rather for
+[00:01:41] what that product is going to do for
+[00:01:42] them. And this isn't like features and
+[00:01:44] benefits either. It's even a step
+[00:01:45] further than benefits. Outcomes. People
+[00:01:47] buy for this transformational outcome.
+[00:01:50] And not only that, but when you send all
+[00:01:52] your traffic from your ads to a PDP,
+[00:01:55] this is essentially like the equivalent
+[00:01:56] of going out with a girl on the first
+[00:01:58] date and the first words out of your
+[00:02:00] mouth are, "Hey, you want to go back to
+[00:02:01] my place?" Obviously, that's not going
+[00:02:03] to work very well for you with the far
+[00:02:05] majority of girls. Can't say I've done
+[00:02:06] it before, but you know, I don't think
+[00:02:08] it would be a super effective method.
+[00:02:10] You want to develop a relationship
+[00:02:12] immediately trying to go into like to
+[00:02:14] buy my product, buy my product, buy my
+[00:02:16] product. No, you want to take some time,
+[00:02:17] build a chemistry with the customer, and
+[00:02:19] then you can convert them. So, instead,
+[00:02:21] what I like to do if I'm going to be
+[00:02:23] running directly to, you know, some kind
+[00:02:25] of page where I'm trying to sell an
+[00:02:26] outcome instead of selling a product, is
+[00:02:28] I'll have that same ad instead go to a
+[00:02:31] sales page, which sounds like it's the
+[00:02:34] same thing, but I'm going to show you
+[00:02:35] very shortly that it's not. And then
+[00:02:36] even better than that, after the sales
+[00:02:38] page, we are going to be sending people
+[00:02:39] to the order page. Now, the order page
+[00:02:41] is also different from a checkout page,
+[00:02:43] and I'll explain that in a second. And
+[00:02:44] here once again we collect the payment.
+[00:02:46] And most people stop. Most people are
+[00:02:48] like, "Okay, I got the customer. My job
+[00:02:49] is done." Wrong. In fact, this next step
+[00:02:52] is one of the single most important
+[00:02:54] steps in increasing your average order
+[00:02:56] value so that you're making more money
+[00:02:58] per customer coming through your door.
+[00:03:00] And that is going to be all your upsell
+[00:03:01] pages post purchase. These are called
+[00:03:03] Otto's. Otto stands for one-time offer.
+[00:03:06] So this would be like Otto1. The reason
+[00:03:07] this works is because Otto's are the
+[00:03:11] most powerful step in your entire
+[00:03:12] funnel. The reason why is because number
+[00:03:14] one, this state that you got people in
+[00:03:16] right here where you actually accepted
+[00:03:18] the payment information, this is the
+[00:03:19] most emotional state that your customers
+[00:03:22] will ever be in in the history of your
+[00:03:24] business. And what average entrepreneurs
+[00:03:25] do is they basically just kind of let
+[00:03:27] that customer go. They're like, "Okay, I
+[00:03:29] got the one purchase. Let them go." But
+[00:03:30] what great entrepreneurs and great
+[00:03:32] marketers do is they realize that
+[00:03:34] they're in a heightened emotional state,
+[00:03:35] their customers as soon as they buy, and
+[00:03:37] they channel that energy into pushing
+[00:03:39] them to buy another product. ethically
+[00:03:42] of course and that is the power of the
+[00:03:44] Otto1 pages. Not only that, but OTO1
+[00:03:47] pages, reason number two that they work
+[00:03:49] so well is they have something called
+[00:03:51] very high price elasticity. Price
+[00:03:53] elasticity is basically the amount that
+[00:03:55] you can charge and still get customers
+[00:03:56] to buy from you on a particular funnel
+[00:03:58] step. So typically the price elasticity
+[00:04:00] on these early pages is pretty low.
+[00:04:02] That's why it's harder to scale a
+[00:04:04] business when you're selling a product
+[00:04:05] that is like $500 versus a product that
+[00:04:07] is $50. So, if I was selling a front-end
+[00:04:10] product here, for example, for like $50
+[00:04:12] and I get a $50 customer through the
+[00:04:14] door, typically the multiple for what
+[00:04:17] you can sell on O1 is a minimum minimum.
+[00:04:20] You don't have to do this much, but you
+[00:04:22] can sell it for 10x the price and still
+[00:04:24] get people to convert and have good AOV
+[00:04:26] contribution, which means that on this
+[00:04:27] OT1 page, you could literally sell a
+[00:04:29] product for $500. Some people even do
+[00:04:31] $5,000, but let's let's be a little bit
+[00:04:34] conservative here and say $500. Right
+[00:04:36] now, I know what you may be thinking,
+[00:04:37] Mark, who the hell is going to actually
+[00:04:39] buy a product for $500 after they just
+[00:04:41] bought something for 50? Well, number
+[00:04:42] one, yeah, there's caveats to this. This
+[00:04:44] doesn't work if you're dog [ __ ] at
+[00:04:46] writing copy. If you're not good at
+[00:04:48] structuring these OTO1 pages, then you
+[00:04:51] are simply not going to convert anybody.
+[00:04:52] And number two, maybe you do have less
+[00:04:55] people actually take a $500 upsell
+[00:04:57] compared to a $100 upsell. But what
+[00:04:59] you're trying to measure is not the take
+[00:05:01] rate. That is not the variable that
+[00:05:03] you're trying to max out. The variable
+[00:05:05] that you're really trying to max out is
+[00:05:06] your AOV contribution for that
+[00:05:09] particular funnel step. All right?
+[00:05:10] Another term for this, especially in
+[00:05:12] ecom, because you want to factor in your
+[00:05:13] cost of goods sold, is basically going
+[00:05:15] to be your profit contribution per
+[00:05:18] funnel step. So, if we take our example
+[00:05:19] and on that Otto1 page, we actually have
+[00:05:21] a $500 OTO1 and maybe only 10% of people
+[00:05:27] actually buy that $500 upsell, right?
+[00:05:29] That is an AOV contribution of $50. So,
+[00:05:32] you just raised your AOV from 50 to 100.
+[00:05:34] Literally doubled your AOV with one
+[00:05:36] funnel step, one Otto. That is it.
+[00:05:38] That's not including any of the other
+[00:05:39] steps or any of the other things that
+[00:05:41] you could potentially do. Say, well, 10%
+[00:05:43] is really [ __ ] good for a $500
+[00:05:44] upsell. What if it was only five? Okay,
+[00:05:46] five. That's a $25 AOV contribution.
+[00:05:49] Either way, it is substantial. I'm not
+[00:05:50] saying that you should immediately go,
+[00:05:53] you know, run some upsells for like
+[00:05:54] $1,000. Be like, well, I got 10% of
+[00:05:56] people. That's $100 in my AOV.
+[00:05:58] Obviously, the price does matter and
+[00:06:00] it's fully dependent on your ability to
+[00:06:01] write good copy. But the point that I'm
+[00:06:04] trying to tell you is that if you have
+[00:06:06] well ststructured to on your funnel,
+[00:06:08] your AOV will increase and it'll be so
+[00:06:11] much easier for you to be profitable to
+[00:06:13] scale your ads because you have so much
+[00:06:15] more margin for safety, margin for
+[00:06:17] scale. So, generally speaking, this is
+[00:06:19] the funnel structure that I see working
+[00:06:21] really well. I know a lot of people also
+[00:06:23] send traffic to kind of an intermediary
+[00:06:25] step here called pre-sales pages. So,
+[00:06:27] this could be like an avitorial, a
+[00:06:28] listical, a quizfunnel often times is
+[00:06:30] technically like a pre-sales page. So,
+[00:06:32] I'm not going to be talking that in this
+[00:06:33] video. I have a billion videos of that
+[00:06:35] on my channel already. In this video,
+[00:06:37] I'm going to talk about more so these
+[00:06:39] three pages that we got right here. So,
+[00:06:40] let's move on to that. Let's talk about
+[00:06:42] landing pages 101. If you want to
+[00:06:45] understand anything very deeply, I
+[00:06:46] believe the best way to do that is to
+[00:06:48] break down something big like landing
+[00:06:50] pages into its various component parts
+[00:06:52] so that you can understand how all the
+[00:06:54] parts work and move together. Like the
+[00:06:56] people that I know that understand cars
+[00:06:58] the best are the guys that literally
+[00:06:59] built cars from scratch, like from the
+[00:07:02] ground up. They know every single
+[00:07:03] individual part exactly what it does.
+[00:07:05] And if you do that, if you break stuff
+[00:07:06] down and build it back up, you will get
+[00:07:08] an incredible understanding of it. So
+[00:07:10] let's do that with landing pages. What
+[00:07:11] really are landers, aka landing pages?
+[00:07:14] Well, landers are just a combination of
+[00:07:16] three different things on a web page.
+[00:07:18] And those three different things are
+[00:07:19] going to be number one, copy, which is
+[00:07:21] the actual words, the text that is all
+[00:07:23] over the screen. Number two is you have
+[00:07:25] your media, which is going to be all the
+[00:07:26] images, gifts, all the more visually
+[00:07:30] appealing things that are going to be on
+[00:07:31] the landing page. And then finally, we
+[00:07:33] have the actual like design and overall
+[00:07:36] aesthetics, I guess you could say, of
+[00:07:38] the landing page. Now, the reason why I
+[00:07:40] titled this video ugly landers or
+[00:07:42] landing pages that look like [ __ ] is
+[00:07:44] because if you get these two right, for
+[00:07:46] the most part, this one doesn't matter
+[00:07:48] unless you are adding friction to the
+[00:07:51] sales process. So, like the reason ugly
+[00:07:53] landers convert so well is because if
+[00:07:55] you do have good copy and you have good
+[00:07:58] images and videos and gifts that
+[00:08:00] substantiate that copy, it doesn't
+[00:08:02] matter what your [ __ ] call to action
+[00:08:05] color of your button is going to be. It
+[00:08:08] doesn't matter what Shopify theme you're
+[00:08:09] using. Nothing matters because you're
+[00:08:12] saying the right sales message, which is
+[00:08:14] copy, and you're substantiating that
+[00:08:15] sales message with good visual asset.
+[00:08:18] The most important thing in copy and
+[00:08:19] conversions in general is just clarity.
+[00:08:21] Like so many of you are confusing people
+[00:08:23] and a confused mind doesn't buy. So
+[00:08:26] having a good AOV, a good conversion
+[00:08:28] rate, it's a game of subtraction of all
+[00:08:30] the confusing [ __ ] that you have on
+[00:08:32] your website. I would much much much
+[00:08:33] rather have a very ugly but fast and
+[00:08:37] clear landing page than a super duper
+[00:08:40] heavy one with all these animations,
+[00:08:41] incredible like aesthetic design put
+[00:08:43] into it, super heavy images and videos
+[00:08:45] and gifts and then like average copy. I
+[00:08:47] will take the ugly lander every [ __ ]
+[00:08:50] day of the week. And of these three
+[00:08:51] things, the one that is really most
+[00:08:53] important is just your copy. And so many
+[00:08:55] of you suck at writing copy, even if
+[00:08:57] you're using AI to do so. Just because
+[00:08:59] you know how to use AI doesn't mean you
+[00:09:00] know how to write copy and understand
+[00:09:01] how to achieve copy. Even more
+[00:09:03] importantly, however, bad copy typically
+[00:09:06] stems from you just having very very bad
+[00:09:09] research. And the funny thing is like
+[00:09:11] doing research for copy, I did it myself
+[00:09:13] for literally years. It used to be such
+[00:09:14] a long, painful, and low-key [ __ ]
+[00:09:17] annoying process that you would have to
+[00:09:19] go through to deeply understand your
+[00:09:21] customer, how they speak, their main
+[00:09:22] pain points, their desires, their
+[00:09:24] nightmares, like understanding them
+[00:09:25] better than they know themselves. But
+[00:09:27] now with AI, you barely have to [ __ ]
+[00:09:30] think. And that is why I created this
+[00:09:32] foundational docs SOP right here. Now,
+[00:09:34] this has been tossed around on the
+[00:09:35] internet for quite a while now, but this
+[00:09:38] is still one of the best resources I
+[00:09:41] think I have ever made. By the way,
+[00:09:42] guys, if you want access to this entire
+[00:09:44] SOP to create your foundational docs,
+[00:09:46] just go to my Instagram, marks Brands,
+[00:09:47] and DM me the word foundation, and I'll
+[00:09:49] send it over to you for free. But what
+[00:09:51] this does is it completely automates the
+[00:09:53] research process for you into a few
+[00:09:55] basic ass prompts that you can use on
+[00:09:57] chatbt. So, just as an example, we have
+[00:10:00] this drink here, this product here,
+[00:10:02] basically digestive kind of drink that
+[00:10:04] you can have to improve your microbiome
+[00:10:07] and just feel better, gut health, all
+[00:10:08] that good stuff. If you put this through
+[00:10:10] the foundational docs SOP, what'll
+[00:10:12] happen is you'll have four documents
+[00:10:14] returned to you. And the first of these
+[00:10:15] docs is going to be your research
+[00:10:17] document. Now, the research doc is
+[00:10:19] basically a gold mine of all the
+[00:10:22] customer research for your particular
+[00:10:24] product. So, what are customers saying
+[00:10:25] on online forums, on Reddit threads, in
+[00:10:27] the comment sections of YouTube videos,
+[00:10:29] and on Tik Toks. It's everything that
+[00:10:31] your customers are saying, their own
+[00:10:33] words, most importantly, not yours.
+[00:10:36] Because that is one of the biggest
+[00:10:37] mistakes that I see people make with
+[00:10:38] their copywriting in general is they're
+[00:10:40] not using something called VOCC. VOCC
+[00:10:43] stands for voice of customer. You're not
+[00:10:45] writing copy in your own voice or at
+[00:10:47] least you shouldn't be. You should be
+[00:10:48] writing copy in the voice of your
+[00:10:50] customers. It's like they're speaking a
+[00:10:51] different language. And if you try to
+[00:10:52] write copy through your own filters and
+[00:10:54] biases and your own way of speaking,
+[00:10:56] there's immediately a disconnect between
+[00:10:58] you and your customers and that is no
+[00:10:59] good. research document alone gets that
+[00:11:02] real raw research from your customers of
+[00:11:05] how they speak, their pains, the
+[00:11:07] previous solutions they tried. Look,
+[00:11:09] this is a big document. You know, these
+[00:11:10] are typically anywhere from 20 to 60
+[00:11:13] pages long depending on your prompt with
+[00:11:15] all the resources cited. So, that's
+[00:11:17] going to be document number one.
+[00:11:18] Document number two is going to be the
+[00:11:20] offer brief. So if you think about the
+[00:11:21] research being everything about the
+[00:11:23] customer, the offer is channeling all of
+[00:11:25] that data, all of that, you know, 20
+[00:11:27] plus pages of gold into the actual
+[00:11:30] construction of how you're going to sell
+[00:11:32] your product. For example, for the same
+[00:11:34] brand, what are you going to name your
+[00:11:35] product? Like what level of
+[00:11:37] consciousness is your target customer
+[00:11:39] currently operating in? What is your
+[00:11:40] level of awareness? What is the stage of
+[00:11:42] sophistication? What is the big idea?
+[00:11:44] What is the mechanism? Like these are
+[00:11:45] foundational pieces of copywriting. Like
+[00:11:48] if you're to bake a cake and you need
+[00:11:50] all these ingredients, these are the
+[00:11:51] ingredients. The same is true for copy.
+[00:11:53] You have all these ingredients that you
+[00:11:54] need in specific proportions. You got to
+[00:11:56] put them together in the right way. This
+[00:11:57] is the offer dock. The third thing is
+[00:11:59] going to be your avatar sheet. Now your
+[00:12:00] avatar sheet once again is taking all
+[00:12:03] that 20 plus pages from the research
+[00:12:05] doc, but only relating it to the actual
+[00:12:07] avatar. So what are their demographics?
+[00:12:09] What are the key challenges and pain
+[00:12:10] points, goals and aspirations, emotional
+[00:12:12] drivers? Then my favorite part here is
+[00:12:14] going to be all the direct quote. Direct
+[00:12:16] quotes are gold mine for writing good
+[00:12:19] hooks, for writing good headlines, for
+[00:12:20] writing good copy in any way, shape or
+[00:12:22] form. And you just have this massive
+[00:12:24] bank of words to use in your own copy.
+[00:12:27] And then the fourth and final document
+[00:12:28] on the foundational docs is going to be
+[00:12:30] our necessary belief. I believe that at
+[00:12:32] its core, marketing is simply a game of
+[00:12:35] belief change work. You have these
+[00:12:36] customers coming onto your website and
+[00:12:38] they have a specific set of beliefs
+[00:12:39] about the world, about your product,
+[00:12:41] about the market, about everything. And
+[00:12:42] your only job is to shift those beliefs
+[00:12:45] from limiting beliefs to empowering
+[00:12:47] beliefs. Specifically, beliefs that are
+[00:12:48] going to empower them to purchase from
+[00:12:50] your brand. So, if you don't know what
+[00:12:52] beliefs your customers currently have,
+[00:12:54] how could you possibly know how to shift
+[00:12:57] them? Well, you wouldn't. That's why
+[00:12:58] this document is so incredibly
+[00:12:59] important. And this one is very simple.
+[00:13:01] It's typically just four to six
+[00:13:03] statements that begin with I believe
+[00:13:05] that. So, we can see in this case, I
+[00:13:06] believe that this brand is safe and
+[00:13:08] transparent. I believe that last results
+[00:13:10] are worth waiting for. Again, all of
+[00:13:12] this is taken from the research. There's
+[00:13:14] no assumptions that you have to make
+[00:13:16] about the market. Zero. Everything is
+[00:13:17] done for you. Now, let's go page by
+[00:13:19] page, right? I want to talk about first
+[00:13:22] the sales page. Now, like I said, the
+[00:13:23] difference between a sales page and a
+[00:13:25] PDP is a sales page is designed to sell
+[00:13:27] the outcome where a PDP is designed to
+[00:13:29] sell the product. And humans, we are
+[00:13:31] very emotional creatures. We always buy
+[00:13:32] based off of emotion and then we justify
+[00:13:35] it with logic. But emotion always comes
+[00:13:36] first. That's why selling the outcome
+[00:13:38] and the emotions associated with that
+[00:13:40] outcome is going to convert you more
+[00:13:42] customers than just going directly into
+[00:13:44] like the logical sale. Naturally, we're
+[00:13:46] not very logical beings. So, I have a
+[00:13:48] list here of eight things that you want
+[00:13:50] to ensure that you have on your sales
+[00:13:53] page to convert as many people as
+[00:13:54] possible. Number one, and number two, at
+[00:13:56] a high average order value. Now, the
+[00:13:57] first thing on the list is going to be
+[00:13:58] having a benefit driven headline. If you
+[00:14:01] study copywriting like I have for many
+[00:14:03] many years and worked with some
+[00:14:05] amazingly incredible copywriters and
+[00:14:06] mentors over the years. What I
+[00:14:08] discovered very very quickly, in fact,
+[00:14:10] it's one of the first lessons that they
+[00:14:11] will teach you is that the first piece
+[00:14:12] of any piece of copy is always the most
+[00:14:14] important. And on a landing page, on a
+[00:14:16] sales page, that first piece of copy is
+[00:14:18] your headline. If you mess up the
+[00:14:19] headline, nothing else matters. The
+[00:14:21] majority of people who land on your
+[00:14:23] website, they're going to land, they're
+[00:14:24] going to glance, and in a split second,
+[00:14:26] they are going to decide if they want to
+[00:14:27] take their thumb and scroll to see
+[00:14:29] what's next on the page. If not, they're
+[00:14:31] leaving. Most people, 80% on average,
+[00:14:34] typically, if the above the fold
+[00:14:36] section, the headline, that first image
+[00:14:38] doesn't get people to keep scrolling,
+[00:14:40] then they're not going to buy. So,
+[00:14:41] there's kind of a checklist that I use
+[00:14:42] to make sure that your headline, that
+[00:14:44] first benefit driven headline, is
+[00:14:46] actually going to get people to keep
+[00:14:47] reading the rest of the freaking page.
+[00:14:49] Now, you don't need to have all seven of
+[00:14:50] these in a headline, but I would shoot
+[00:14:53] for at least three or four. And a lot of
+[00:14:55] times it is the case where the more that
+[00:14:56] you have, the better it is. So, first we
+[00:14:58] got curiosity. We got calling out the
+[00:15:00] pain point, promising the solution. And
+[00:15:02] then next, specificity, simplicity,
+[00:15:05] credibility, and a time frame. So, let's
+[00:15:07] actually look at an example and see how
+[00:15:09] well it does on this particular list. I
+[00:15:11] think most of these are pretty
+[00:15:12] straightforward, so I don't really need
+[00:15:13] need to explain them, but the example is
+[00:15:14] the best way to explain anyways. Now,
+[00:15:16] first, this page here is actually a VSSL
+[00:15:19] page. So, it's not really like a typical
+[00:15:20] sales page, but this headline is
+[00:15:22] incredibly good. Let me actually show
+[00:15:24] you why. All right, let's start with
+[00:15:25] number one, curiosity. Do we have it?
+[00:15:28] Absolutely. We have 7second brain trick.
+[00:15:30] That alone pies quite a bit of
+[00:15:32] curiosity. We also have scientists
+[00:15:33] stunned, which peaks some curiosity. And
+[00:15:35] the last piece here, with no effort, is
+[00:15:37] also good amount of curiosity. There's a
+[00:15:39] lot of instances in this headline. How
+[00:15:41] about calling out the pain point? This
+[00:15:42] headline, not really. I mean, I guess
+[00:15:45] you could say with no effort is a pain
+[00:15:47] point, but it's not calling that out
+[00:15:48] directly. It's more using that as
+[00:15:50] something that you can get this outcome
+[00:15:51] without this super annoying thing. So,
+[00:15:53] on that one, did not call out the
+[00:15:55] painoint. How about to promise the
+[00:15:56] solution? Yes, absolutely. It promises a
+[00:15:58] solution. Attract success with no
+[00:16:00] effort. That sounds pretty
+[00:16:01] solutionoriented to me. Next,
+[00:16:03] specificity. Once again, almost directly
+[00:16:05] in line with curiosity, we have
+[00:16:07] 7-second. That is definitely some
+[00:16:09] specificity. Actually, outside of that,
+[00:16:11] that's mostly it in terms of
+[00:16:12] specificity, but still checks it off the
+[00:16:13] box. Now, we have simplicity. Now, this
+[00:16:15] is actually what I think this headline
+[00:16:17] does the best is simplicity. That
+[00:16:19] checklist that I gave you of seven
+[00:16:21] different things to have on a headline,
+[00:16:23] that's tough to do. And this headline is
+[00:16:26] only 1 2 3 4 5 6 7 8 9 10 11. It's only
+[00:16:30] 12 words long. And it was able to check
+[00:16:32] off almost every single thing on that
+[00:16:35] freaking checklist. That is incredibly
+[00:16:36] good. There's not a rule ever for how
+[00:16:39] long your copy should be. But the
+[00:16:40] general rule of thumb, if you go and
+[00:16:41] study some amazing copywriters, they
+[00:16:43] always say there's not anything wrong
+[00:16:45] with writing headlines or copy or
+[00:16:47] anything that's super duper long, but
+[00:16:48] you shouldn't ever make it longer than
+[00:16:50] it needs to be. You should make your
+[00:16:51] sales message as long as it needs to be
+[00:16:53] for you to communicate it with clarity
+[00:16:55] and concision. That is it. So simplicity
+[00:16:58] 100% is obviously checked off on this
+[00:17:00] headline. Next up on the list, we have
+[00:17:01] credibility. And this one is super
+[00:17:02] obvious. We have scientist stunned right
+[00:17:04] here. Credibility immediate. And then
+[00:17:06] the last one on the list is going to be
+[00:17:08] the time frame to achieve the results.
+[00:17:10] Now, so technically they do have a time
+[00:17:12] frame, but it's not necessarily of the
+[00:17:13] outcome. I think it's more of like the
+[00:17:15] process, but regardless, it hit every
+[00:17:18] single other thing on this list with the
+[00:17:19] exception of one, which is call out the
+[00:17:21] pain point. Wasn't really done. But if
+[00:17:23] they wanted to have a little eyebrow,
+[00:17:24] like a pre headline, just have it like
+[00:17:26] up here calling out that painoint, you
+[00:17:28] could easily do that and then you would
+[00:17:29] literally check off all seven. But
+[00:17:31] again, the most impressive thing here is
+[00:17:32] the simplicity by far. So that right
+[00:17:35] there is headlines. When you're writing
+[00:17:36] headlines, you can use this checklist
+[00:17:37] and if it gets at least three or four
+[00:17:39] out of seven, you're in pretty good
+[00:17:40] shape. But you would be shocked how many
+[00:17:42] headlines out there don't even have like
+[00:17:44] one or two of these things, let alone
+[00:17:46] four to seven. So, if having a really
+[00:17:48] good benefit driven headline is first
+[00:17:50] thing that you need in a sales page,
+[00:17:51] what is next? Well, number two is going
+[00:17:52] to be using something called urgency,
+[00:17:54] right? This one is very straightforward.
+[00:17:56] Urgency is simply using time and
+[00:17:59] compressing time, manipulating time in
+[00:18:01] order to get people to come and buy from
+[00:18:03] you. Let's look at Primal Queen as an
+[00:18:05] example here. They actually have a few
+[00:18:07] instances of urgency. Number one, they
+[00:18:09] got the timer up here for the Black
+[00:18:10] Friday sale, which is a little early,
+[00:18:13] you know, but it is Black Friday. I'm
+[00:18:14] just kidding. We all know how it works.
+[00:18:16] Also, if we scroll down to the offer
+[00:18:17] section on the page, you can see right
+[00:18:19] here, they do have another instance of
+[00:18:21] urgency with their shipping. You know,
+[00:18:23] if you order within X amount of time,
+[00:18:25] we'll ship it today. So, both of these
+[00:18:26] are like ethical uses of urgency. If you
+[00:18:28] use the fake urgency timers, just know
+[00:18:30] you're, you know, you're treading on a
+[00:18:32] thin line, pal. Number three on the list
+[00:18:34] is going to be scarcity. It's like the
+[00:18:36] little brother of urgency where instead
+[00:18:38] of centering it around time, you're
+[00:18:39] centering it around volume as in
+[00:18:41] typically we don't have a lot of stock
+[00:18:43] left. That is a textbook example of
+[00:18:45] scarcity because we value things more
+[00:18:47] that are scarce in their supply. That's
+[00:18:49] why we really value things like Bitcoin
+[00:18:52] and we don't value the dollar. One has
+[00:18:54] unlimited supply and one has scarce
+[00:18:56] limited supply. Once again, Primal Queen
+[00:18:58] being a fantastic example of this,
+[00:19:01] right? Due to high demand shorts of beef
+[00:19:02] organs, very high risk of selling out.
+[00:19:05] Once again, I think this is a good way
+[00:19:06] to do this ethically without like
+[00:19:07] crossing any boundaries that would put
+[00:19:09] you in legal risk. You know, I'm not
+[00:19:11] your [ __ ] attorney or your lawyer,
+[00:19:12] but to me, this is a lot better for even
+[00:19:15] just for your relationship with your
+[00:19:16] customer. But there's all different ways
+[00:19:17] that you can position it. You see how
+[00:19:19] they're not saying, "We are about to
+[00:19:22] sell out and there's only seven units
+[00:19:23] left." You know, they're like, "There's
+[00:19:24] a risk of you selling out." So you still
+[00:19:26] get the potential scarcity without like
+[00:19:29] crossing any lines. Like I said, next
+[00:19:30] thing on your sales page that you
+[00:19:32] definitely want to have is going to be
+[00:19:33] some sort of guarantee or risk reversal.
+[00:19:36] Now, a lot of people will just go to the
+[00:19:37] standard 30-day guarantee, 90-day
+[00:19:39] guarantee, 365day guarantee. I think the
+[00:19:42] most important thing here with the
+[00:19:43] guarantee is not just to have a
+[00:19:44] guarantee for guarante's sake. The point
+[00:19:46] of the guarantee is the risk reversal.
+[00:19:49] So, how can you make it so that even if
+[00:19:51] everything totally fails, there's no
+[00:19:52] risk for the customer. Sometimes that'll
+[00:19:55] just be like money back guarantee. Other
+[00:19:57] times it'll be like the infospace has
+[00:19:59] been doing for years now. It's like if
+[00:20:00] it doesn't work, you don't pay and I'll
+[00:20:02] like Venmo you $1,000. Like Jesus
+[00:20:04] Christ, you can see how far we're going
+[00:20:05] with the evolution of these guarantees.
+[00:20:08] But I think there's actually something
+[00:20:09] for ecom guys to learn from that cuz if
+[00:20:11] you just compete on the amount of time
+[00:20:12] that your guarantee is, you'll go from
+[00:20:14] 30 to like a one-year guarantee to a
+[00:20:16] lifetime guarantee. Where do you go
+[00:20:18] after that? Like lifetime plus the
+[00:20:20] afterlife. like you're guaranteed that
+[00:20:22] you can still get a refund in heaven.
+[00:20:24] No, no, I don't think so. That's not
+[00:20:26] this is not how it works. You got to be
+[00:20:28] more creative with how you're
+[00:20:29] structuring these guarantees. So, next
+[00:20:30] thing you want your landing page to have
+[00:20:31] is going to be a mechanism. You can
+[00:20:33] think of this kind of in two ways like
+[00:20:35] in through the direct response lens. You
+[00:20:36] have kind of the the UMP and the UMP is
+[00:20:40] unique mechanism of the problem and is
+[00:20:43] unique mechanism of the solution. So for
+[00:20:45] example, this is uh some random weight
+[00:20:48] loss product that I pulled up. But if we
+[00:20:49] look at the unique mechanism here, we
+[00:20:51] just have to scroll down a little bit
+[00:20:52] and you can immediately see the unique
+[00:20:54] mechanism of the solution is this fat
+[00:20:57] burn switch, right? Like the reason that
+[00:20:59] you haven't been able to lose weight
+[00:21:01] this entire time. Who would have
+[00:21:02] thought? Just a little biological switch
+[00:21:04] that your body has to switch on and then
+[00:21:06] you'll actually start to lose weight.
+[00:21:08] That is the unique mechanism of the
+[00:21:10] solution because it's the reason why
+[00:21:12] everything that you've tried before that
+[00:21:13] hasn't actually worked. I don't need to
+[00:21:15] over complicate this. All the mechanism
+[00:21:17] is is why is it that this product is
+[00:21:20] actually going to work for me? Like
+[00:21:21] tactically, what is the reason? And why
+[00:21:24] does it justify why everything else that
+[00:21:26] I've tried before this doesn't work?
+[00:21:27] That's all a mechanism truly is. It's
+[00:21:30] like logically explaining why everything
+[00:21:32] else has failed and this is the only
+[00:21:34] thing that's actually going to work for
+[00:21:35] me. Now, number six on the list of
+[00:21:36] things your lander has to have is going
+[00:21:38] to be social proof. This one very
+[00:21:40] self-explanatory. Once again, Primal
+[00:21:41] Queen did a a great job with this. Down
+[00:21:43] here, they have an entire testimonial
+[00:21:46] section, which is always good. Kind of a
+[00:21:48] review section, but they also do
+[00:21:49] something really good that you guys
+[00:21:51] should be doing, too, which is called
+[00:21:52] embedded testimonials. Embedded
+[00:21:54] testimonials are testimonials that are
+[00:21:56] embedded throughout the page, not in a
+[00:21:57] dedicated testimonial section, but they
+[00:21:59] have a very specific purpose. Like don't
+[00:22:01] just throw social proof in here in
+[00:22:03] reviews for the sake of throwing in the
+[00:22:05] reviews and social proof. Like it should
+[00:22:06] serve a purpose. And for me,
+[00:22:08] testimonials should always do one of two
+[00:22:10] things. Number one is it should overcome
+[00:22:13] some sort of objection or number two it
+[00:22:15] should install some sort of empowering
+[00:22:18] belief. You know, in sales they say that
+[00:22:20] if you can handle objections before they
+[00:22:22] actually come up, before they scroll
+[00:22:23] down to the FAQ section, you're going to
+[00:22:25] be converting more people. Period. A lot
+[00:22:27] of times customers have objections.
+[00:22:28] they're just not thinking of them
+[00:22:29] consciously enough to go scroll down to
+[00:22:31] the FAQ. So, if you can overcome those
+[00:22:33] objections with very specific and
+[00:22:35] purposeful embedded testimonials, you
+[00:22:37] can do very, very well. Now, number
+[00:22:39] seven on the list is, you guessed it,
+[00:22:41] going to be those FAQs. Again, the
+[00:22:43] purpose of the FAQs, it is to answer the
+[00:22:45] most frequently asked questions from
+[00:22:47] customers, but more importantly, this is
+[00:22:48] to overcome objections, plain and
+[00:22:50] simple. So, one of the big objections,
+[00:22:52] for example, in the supplement space is
+[00:22:54] what is the quality of these
+[00:22:56] supplements? like, have these been
+[00:22:57] tested by an external third party? Boom,
+[00:22:59] objection overcome. I'm pregnant. Will
+[00:23:01] this work for me? Boom, objection
+[00:23:03] overcome. But again, I think that you
+[00:23:05] can pre-handle these objections earlier
+[00:23:07] without the FAQ section. If you give a
+[00:23:09] testimonial, for example, specifically
+[00:23:11] about how it was of a pregnant woman,
+[00:23:14] that is going to pre-handle that
+[00:23:15] objection. So, the objection doesn't
+[00:23:17] even become an objection in the first
+[00:23:18] place. It's already handled. Now, the
+[00:23:20] eighth and final thing, eighth wonder of
+[00:23:22] the world that you want to have on your
+[00:23:23] landing pages is going to be some sort
+[00:23:25] of credibility. Now, when I say
+[00:23:27] credibility, I think a lot of people are
+[00:23:29] immediately thinking of like doctors or
+[00:23:32] some like influencers that are promoting
+[00:23:34] their product or something like that.
+[00:23:35] But in a lot of markets, it's not
+[00:23:37] automatically just like a doctor or a
+[00:23:39] lawyer. You This is why the research and
+[00:23:41] using these foundational documents is so
+[00:23:43] important. For example, like I sell in
+[00:23:44] markets right now where the medical
+[00:23:46] industry is actually the enemy in a lot
+[00:23:49] of modern markets, especially in the
+[00:23:50] health and wellness place. I mean, [ __ ]
+[00:23:51] Primal Queen is a good example of this.
+[00:23:53] They are literally saying that, hey, the
+[00:23:55] modern medical system is designed to
+[00:23:57] keep you sick. And we have to go back to
+[00:23:59] our roots. We have to go back to eating
+[00:24:01] organ meat because that's the reason why
+[00:24:03] we're all so unhealthy now. It's because
+[00:24:04] of the modern medical and pharmaceutical
+[00:24:07] complex in the US. So, yes, you should
+[00:24:09] still shoot for credibility. I'm not
+[00:24:11] saying like [ __ ] credibility, but it
+[00:24:13] should be specific to your brand. Don't
+[00:24:14] just assume it's a doctor or assume it's
+[00:24:16] like an athlete. Just listen to what
+[00:24:18] your market. Who do they look up to? Who
+[00:24:20] are the the gurus and their specific
+[00:24:22] minds? Next up, we have the order page.
+[00:24:25] Now, anytime that I run a split test on
+[00:24:26] my order page, it's usually one of the
+[00:24:28] most impactful split tests that I run in
+[00:24:29] my whole business because this is where
+[00:24:31] so many people are actually going to be
+[00:24:32] leaving your page. If you look at the
+[00:24:35] drop off on a funnel from like sales
+[00:24:37] page to order page or from advvertorial
+[00:24:39] to sales page, the biggest drop off
+[00:24:41] always is on the checkout page, also
+[00:24:43] known as the order page. The order page
+[00:24:45] obviously has one job and that's to
+[00:24:46] convert customers. But again, the point
+[00:24:48] I want to make here if you want to have
+[00:24:49] a really really good order page, you
+[00:24:51] should have one goal in mind, which is
+[00:24:53] to have as little friction as humanly
+[00:24:56] possible between the customer and the
+[00:24:59] customer completing their order. No
+[00:25:01] friction. This is the one page where
+[00:25:03] clarity is king. I mean, clarity is king
+[00:25:05] on every page, but especially this page.
+[00:25:07] If they legitimately don't know where to
+[00:25:09] enter their credit card information,
+[00:25:10] which has happened, then you're not
+[00:25:12] going to get people to buy. You're going
+[00:25:13] to look at your funnel stat and be like,
+[00:25:15] "What the hell?" Like, "Why aren't these
+[00:25:16] ads profitable?" People don't even know
+[00:25:17] how to put in their CVV number, man.
+[00:25:20] Like, you have to enforce clarity over
+[00:25:23] being clever. Keep it simple, stupid.
+[00:25:26] This is a very traditional example of a
+[00:25:28] good sales page. Now notice we have the
+[00:25:31] most likely fake urgency here, but more
+[00:25:33] importantly, we have a few things done
+[00:25:35] really, really well. Number one, we got
+[00:25:37] the quantity breaks, right? We got
+[00:25:38] quantity discounts that is trying to
+[00:25:40] push people for them to buy more units
+[00:25:42] of the same product, which will
+[00:25:44] obviously increase your average order
+[00:25:45] value. Number two, if we scroll down, we
+[00:25:46] got these little boxes right here, these
+[00:25:48] two boxes, which are called order bumps.
+[00:25:50] Order bumps are one of the greatest
+[00:25:52] inventions and that's why I'm so bullish
+[00:25:54] on order pages instead of like the
+[00:25:55] Shopify checkout pages because a lot of
+[00:25:57] times this upsell technically an upsell
+[00:26:00] is the upsell with the highest take
+[00:26:02] rate. So maybe it's only like $10 or
+[00:26:03] $20, but you get 50% of people to check
+[00:26:06] this box. I mean that's like immediately
+[00:26:08] a $5 AOV contribution. Like that's
+[00:26:10] substantial as you scale up having an
+[00:26:12] additional $5 per customer. You know if
+[00:26:14] you're getting 100 customers a day in
+[00:26:16] your brand that's additional $500. And a
+[00:26:18] lot of times, for example, these two,
+[00:26:20] these don't cost you anything else.
+[00:26:21] Expedite shipping, shipping insurance.
+[00:26:23] We know damn well you're not changing
+[00:26:24] anything. So, a lot of times, for that
+[00:26:26] reason, digital products can be an
+[00:26:27] incredible upsell here, too. But do you
+[00:26:28] notice something here on this page? Are
+[00:26:30] you kind of getting the trend of this
+[00:26:31] video? This [ __ ] is ugly. Like, it
+[00:26:34] doesn't look aesthetically pleasing by
+[00:26:36] any means whatsoever. And I've ran
+[00:26:38] checkout pages. Some look similar, some
+[00:26:40] look a little bit different, but all of
+[00:26:41] them are ugly. And they just work.
+[00:26:44] Period. cuz the copy is good, clear, and
+[00:26:46] I don't give a [ __ ] about slowing
+[00:26:48] everything down with these insane design
+[00:26:49] elements. And last but not least, we
+[00:26:51] have the Otto page, which is my favorite
+[00:26:53] page of all because typically it has the
+[00:26:56] potential to add the most amount of
+[00:26:58] money to your AOV. And if you have an
+[00:27:00] AOV with the same CPA as everybody else,
+[00:27:02] but your AOV is double all your
+[00:27:04] competitors, you're going to destroy
+[00:27:05] them. Most people, as I was saying
+[00:27:07] earlier, they stop after they collect
+[00:27:10] that payment. Right? That dotted line
+[00:27:11] that I drew that signified you actually
+[00:27:13] collecting payment. Most people just
+[00:27:15] stop. But the real thing that you should
+[00:27:16] do is continue to sell and put good
+[00:27:19] offers in front of the face of your
+[00:27:20] customers in the form of Otto's. Now,
+[00:27:23] the structure of an Otto typically will
+[00:27:25] fall into one of two categories. First,
+[00:27:27] you got VSSL Otto's, which is a video
+[00:27:31] sales letter. It's essentially a video
+[00:27:32] embedded on a page with almost nothing
+[00:27:34] else on there. And the VSSL itself is
+[00:27:36] selling the product. Or you have these
+[00:27:38] short TSL Otto's. TSL obviously stands
+[00:27:41] for text sales letter. And it's
+[00:27:43] literally just a VSSL except it's
+[00:27:44] printed out on the page. That is all. So
+[00:27:46] for a video upsell, a VSSL Otto, this is
+[00:27:48] a good example here. Typically, it'll
+[00:27:50] look like, wait, your order is not yet
+[00:27:52] complete. Please watch this video to get
+[00:27:53] this, you know, special XYZ offer. And
+[00:27:56] then you can have a little bit of
+[00:27:57] details underneath the video. This isn't
+[00:27:58] even an ecom example. It's in the info
+[00:28:00] space, but still a very good example of
+[00:28:02] a VSSL Otto. Another good page is this
+[00:28:05] one right here. I don't even know the
+[00:28:07] name of this brand, but this page here,
+[00:28:09] as you can see, right, we got the order
+[00:28:11] approved. We got you're kind of in this
+[00:28:12] middle stage of customizing your order
+[00:28:14] before you get to the order
+[00:28:14] confirmation. And it says, "Wait, order
+[00:28:16] is not going to be yet complete. Please
+[00:28:18] watch this important message with a VSSL
+[00:28:20] and then the offer directly underneath
+[00:28:22] the VSSL." Ironically, the thing that
+[00:28:24] most people [ __ ] up with the Otto's is
+[00:28:27] what product they're actually selling. I
+[00:28:28] think there's two really good frameworks
+[00:28:30] for deciding like what product you
+[00:28:32] should decide sell as an Otto. Framework
+[00:28:35] number one is simple AOTS upsell, which
+[00:28:38] literally just stands for more of the
+[00:28:40] same. That's it. and it's selling the
+[00:28:41] exact same product just in higher
+[00:28:43] quantities. This is most popular in the
+[00:28:44] supplement space because people buy like
+[00:28:46] one bottle of a supplement, they'll hit
+[00:28:47] that OTO1, they'll say, "Hey, you can
+[00:28:49] get, you know, an extra 3 month supply,
+[00:28:50] 6 month supply for discounted price
+[00:28:52] while we're like packaging your order."
+[00:28:54] That's usually the typical frame that
+[00:28:55] they put you in. The second one that I
+[00:28:57] actually prefer is going to be I don't
+[00:28:59] have a sexy name for it, but it's
+[00:29:00] literally just solve one problem, create
+[00:29:02] another. So, this is how you should
+[00:29:03] think about it. When you're selling
+[00:29:04] products on the front end, right, which
+[00:29:05] is like before the Otto1 pages, the main
+[00:29:07] product that you're selling, it should
+[00:29:09] have two purposes. Its purpose is to
+[00:29:11] solve one problem and create another.
+[00:29:13] Perfect example is the weight loss
+[00:29:15] space. In weight loss, you have this I
+[00:29:17] mean we can use ompic gop ones as an
+[00:29:20] example, right? People are fat, they're
+[00:29:22] overweight, they want to lose the
+[00:29:23] weight, so they get on semiglutide,
+[00:29:25] whatever, they inject themselves, they
+[00:29:27] lose the weight, but then they get off
+[00:29:29] and the weight comes right back. So yes,
+[00:29:30] it did solve the problem of them losing
+[00:29:33] weight. But the new problem that was
+[00:29:35] created as a result was how do I keep
+[00:29:38] the weight off? And that gap right there
+[00:29:40] is the perfect place to position an
+[00:29:42] additional product. When you're like
+[00:29:44] sitting down, you're like, hm, what
+[00:29:45] product should I sell? It should both
+[00:29:46] solve a problem and then create a new
+[00:29:49] one. Two things. And nobody thinks like
+[00:29:51] this when they think of what product to
+[00:29:53] sell. But I promise you, you look at the
+[00:29:54] big brands out there that are not just
+[00:29:56] like 8 figureure companies, but they're
+[00:29:58] like nine and sometimes even 10 figure
+[00:30:00] companies. This is something that they
+[00:30:02] do extraordinarily well. Extraordinarily
+[00:30:04] well. And the best part is with the
+[00:30:06] Otto, back to our original drawing up
+[00:30:07] here. Let me make some space. After this
+[00:30:09] first Otto, what are you going to do?
+[00:30:10] Stop? No. You can send them to Otto
+[00:30:12] number two. Or what if they say no to
+[00:30:14] Otto1? Well, if they say no, then you
+[00:30:16] can send them to an OTO1 downell. So,
+[00:30:18] there's so many options and like
+[00:30:19] customizations that you can make here to
+[00:30:21] just have a wildly wildly profitable
+[00:30:24] funnel and landing page structure. Now,
+[00:30:25] if we zoom out here, this is a lot of
+[00:30:27] information. For a lot of people, it can
+[00:30:29] become very very overwhelming,
+[00:30:31] especially this funnel structure
+[00:30:32] section. But I'm telling you, like if
+[00:30:34] you want to win and create those highly
+[00:30:36] profitable landing pages, this is one of
+[00:30:38] the best structures that you can run
+[00:30:40] with. And this is the reason why like I
+[00:30:41] built Brandill's Academy with my partner
+[00:30:43] Alex so that we can have like actual
+[00:30:45] real training around this topic because
+[00:30:47] you go and like search on YouTube, very
+[00:30:49] very few people actually talk about this
+[00:30:51] and nobody goes into depth. So that's
+[00:30:53] why we created this program to do that
+[00:30:54] and also help you with everything else
+[00:30:56] like for example email and SMS which
+[00:30:58] what I didn't tell you is that every
+[00:31:00] single step here there's drop off and
+[00:31:01] email and SMS is designed to plug those
+[00:31:04] leaks. So if you're interested in
+[00:31:06] joining Brmples Academy obviously you
+[00:31:07] can click the first link in the
+[00:31:08] description. Other than that y'all thank
+[00:31:10] you so much for watching the video. I'll
+[00:31:11] see you on the next one.

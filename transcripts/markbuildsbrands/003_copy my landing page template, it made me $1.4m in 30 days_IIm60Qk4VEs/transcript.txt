@@ -1,0 +1,1107 @@
+# copy my landing page template, it made me $1.4m in 30 days
+URL: https://www.youtube.com/watch?v=IIm60Qk4VEs
+Category: video
+Duration: 2008s
+Published: 20260708
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be showing you how you can copy
+[00:00:02] my landing page template that made me
+[00:00:04] $1.4 million in the last 30 days. And
+[00:00:06] the number one biggest mistake that I
+[00:00:08] see people make with their landers is
+[00:00:10] not that they don't have a good offer.
+[00:00:11] It's not that their price point is not
+[00:00:13] correct. All it is is that they're
+[00:00:14] optimizing for the wrong thing. They
+[00:00:16] think that if they optimize specifically
+[00:00:18] for aesthetics and they build the most
+[00:00:21] beautiful looking lander of all time
+[00:00:22] that it's going to convert. When in
+[00:00:23] reality, they're neglecting the single
+[00:00:25] most important things that actually move
+[00:00:27] the needle to help increase your
+[00:00:29] conversion rate. So, that's what I'm
+[00:00:30] going to be covering in this video in
+[00:00:31] detail. Now, before I get into the
+[00:00:33] actual template, there's a really
+[00:00:34] important distinction that I need to
+[00:00:35] make between what people call a PDP,
+[00:00:38] which is a product page, and a sales
+[00:00:41] page, because I actually view these
+[00:00:42] differently, and I want to be really
+[00:00:43] clear about the difference between the
+[00:00:45] two. A PDP is a templated Shopify page
+[00:00:49] that is applied across all products that
+[00:00:51] you are running on your Shopify store. I
+[00:00:53] think Shopify is great for most things,
+[00:00:55] but the one area that they really suck
+[00:00:57] is being able to have full control and
+[00:00:59] customizability over your PDPs and have
+[00:01:02] every individual page for different
+[00:01:04] products look a little bit differently.
+[00:01:05] Sales pages, on the other hand, are
+[00:01:07] usually built custom. This means they
+[00:01:08] could be built with Clawude. This could
+[00:01:10] mean that they're built through a page
+[00:01:11] builder such as Replo or Gem Pages, but
+[00:01:14] ultimately they give you a very, very
+[00:01:16] high degree of customizability. I
+[00:01:18] personally am more of a fan of sales
+[00:01:20] pages because you're able to control the
+[00:01:22] justification of your product
+[00:01:24] substantially more compared to a PDP
+[00:01:26] where typically is like a photo of your
+[00:01:28] product, little description, some
+[00:01:30] benefit statements, and then immediately
+[00:01:31] shows the price. I personally like to
+[00:01:33] control the perception of my product for
+[00:01:35] as long as I possibly can before I put
+[00:01:37] the price in front of them. And a lot of
+[00:01:39] times that leads to a higher conversion
+[00:01:40] rate. But in this video, even if you're
+[00:01:42] running PDPs, you can take away almost
+[00:01:44] everything that I'm talking about. I'm
+[00:01:45] just saying for technicality purposes. I
+[00:01:47] personally prefer sales pages. Whether
+[00:01:48] you're running a PDP or a sales page
+[00:01:50] matters less. What really matters is the
+[00:01:52] purpose of the pages and understanding
+[00:01:54] why you run them. The purpose is not to
+[00:01:56] sell the product. Don't get it twisted.
+[00:01:57] The purpose of these pages, yes, I said
+[00:01:59] this, is not to sell the product. It is
+[00:02:01] to sell the outcome. Nobody buys a
+[00:02:03] product for the product's sake. They buy
+[00:02:04] a product for what it can do for them.
+[00:02:07] So, you've probably heard people talk
+[00:02:08] about features, which is like specific
+[00:02:10] things about the product itself. And
+[00:02:12] then there's benefits, but you can go
+[00:02:13] even deeper into the ultimate outcome,
+[00:02:15] which is essentially like the emotional
+[00:02:17] state that people get in after they get
+[00:02:19] the benefits of the product. So, it's
+[00:02:21] even deeper than benefits because these
+[00:02:22] two are good and you should have them on
+[00:02:24] your page, but ultimately everybody buys
+[00:02:26] for an outcome. Now, another really
+[00:02:27] important thing before the actual
+[00:02:29] template, and I know you're thinking,
+[00:02:30] Mark, why are you talking about traffic
+[00:02:32] on a video that's about landing pages?
+[00:02:34] Give me the goddamn template. The truth
+[00:02:35] is, if you don't understand the full
+[00:02:37] comprehensive view from the ads, the
+[00:02:39] quality of the traffic that you're
+[00:02:41] driving from which platforms onto your
+[00:02:42] funnel architecture, then you're always
+[00:02:44] going to be capped in your conversion
+[00:02:46] rate. You're going to try to solve the
+[00:02:47] wrong problem. Maybe the problem isn't
+[00:02:48] actually your land yourself. It actually
+[00:02:50] is something with your traffic. But the
+[00:02:51] reason that I say this is so important
+[00:02:53] to know is because obviously the
+[00:02:55] temperature of your traffic, which is
+[00:02:57] basically how many touch points have you
+[00:02:59] already had with your potential
+[00:03:00] customers before they buy, is going to
+[00:03:02] affect where you should send them. And
+[00:03:03] what I mean by that is typically you can
+[00:03:05] think of three main types of traffic,
+[00:03:07] right? You have top of funnel, you have
+[00:03:08] middle of funnel, and you have bottom of
+[00:03:10] funnel. If you are running an
+[00:03:11] advertorial funnel, let's say, and you
+[00:03:13] have some bottom off ofunnel creatives,
+[00:03:15] are you going to send them through this
+[00:03:16] long multi-step [ __ ] funnel where
+[00:03:19] they have to click through four separate
+[00:03:21] pages before they can even buy your
+[00:03:22] product. They've already had so many
+[00:03:24] impressions with your brand. They've
+[00:03:25] clicked through your advtorial before
+[00:03:26] and you're going to lose out on a lot of
+[00:03:28] sales from people that are already ready
+[00:03:30] to buy. So if you're not properly
+[00:03:32] matching the temperature with the type
+[00:03:34] of landing page that you're running to,
+[00:03:35] then you're just wasting ad spend. The
+[00:03:37] other thing to keep in mind is traffic
+[00:03:39] quality driven by the types of ads that
+[00:03:41] you run. So I remember this was mostly
+[00:03:43] in 2024 2025 there was a format of ad
+[00:03:48] that was doing really really well and
+[00:03:49] honestly it still can do really well
+[00:03:51] which is a you know a long form VSSL.
+[00:03:53] Think of an infeed ad that is roughly 8
+[00:03:56] to 12 minutes long. I know it's long,
+[00:03:58] but it was working at the time and I was
+[00:04:00] running a lot of them. And so with long
+[00:04:01] form VSSLs, once again, this is all a
+[00:04:03] question of consumption. How much
+[00:04:05] consumption have people already had with
+[00:04:07] your content, your ads, your brand, your
+[00:04:08] landers? That's going to determine where
+[00:04:10] you should be sending the traffic to.
+[00:04:11] Now, the reason I made this video about
+[00:04:12] sales pages specifically is because
+[00:04:15] every single funnel, for the most part,
+[00:04:16] with very few exceptions, has a sales
+[00:04:18] page. If you're running an aviatorial
+[00:04:19] funnel, it's typically the advvertorial
+[00:04:21] to the sales page or the advvertorial to
+[00:04:22] the PDP. or if you're running a
+[00:04:24] quizunnel, it's typically, you know, the
+[00:04:26] quiz to a sales page, maybe with the
+[00:04:28] offer or checkout at the bottom. So,
+[00:04:29] this applies universally. That's why I'm
+[00:04:31] not making a video specifically about
+[00:04:33] advertorials, for example. This is one
+[00:04:35] of the most important pages in your
+[00:04:37] entire funnel. So, back to this law of
+[00:04:39] consumption. You need to be aware of the
+[00:04:42] types of ads and how much consumption
+[00:04:44] they're getting and where you should be
+[00:04:45] sending them. Once again, if you're
+[00:04:47] running, for example, a format that's
+[00:04:48] really popular right now, say you're
+[00:04:50] running something like, you know, native
+[00:04:51] statics, which is image ads with long
+[00:04:54] form ad copy, this is a very indirect
+[00:04:56] type of ad. So, if you're running like
+[00:04:58] UGC or some offerheavy statics, those
+[00:05:01] are going to be pretty far on the direct
+[00:05:04] side of the spectrum. And on this other
+[00:05:05] side, you have indirect. Native statics
+[00:05:07] are basically as indirect as you could
+[00:05:09] possibly get. Therefore, that's why it's
+[00:05:11] so difficult for you to convert them
+[00:05:12] when you only send them directly to a
+[00:05:14] sales page instead of having like an
+[00:05:15] advvertorial before or a listical before
+[00:05:18] or a quiz before. All these things
+[00:05:20] matter in context with one another. And
+[00:05:22] if you don't understand them, then
+[00:05:23] you're going to end up thinking that you
+[00:05:24] have a landing page problem when in
+[00:05:26] reality, you're actually getting a
+[00:05:27] discount the more indirect that you are.
+[00:05:29] Typically, if you're running something
+[00:05:31] like native statics, you should have
+[00:05:32] lower CPCs. you should have
+[00:05:34] substantially lower CPCs and very
+[00:05:36] elevated CTRs, which means naturally
+[00:05:38] you're probably going to have a little
+[00:05:39] bit lower of a conversion rate, but
+[00:05:40] that's okay because you're getting a
+[00:05:42] discount on that traffic. And as long as
+[00:05:44] your funnel matches how indirect your
+[00:05:46] ads are, that's how you make really
+[00:05:48] profitable funnels. So, now that we got
+[00:05:49] that out of the way, let's actually move
+[00:05:50] on to the template. And when you're
+[00:05:52] running traffic to a lander, doesn't
+[00:05:53] matter what lander it is, it's a very
+[00:05:55] simple combination of a few things. You
+[00:05:58] have text on the page. You have your
+[00:06:00] media on the page, which would be your
+[00:06:02] images, your videos, your gifts. And
+[00:06:04] when you break it down to its component
+[00:06:06] pieces, that's actually it. That's all a
+[00:06:08] landing page is. It's just a individual
+[00:06:10] web page with text and media arranged in
+[00:06:13] a very specific way. The most important
+[00:06:15] thing, whether it's the copy that is on
+[00:06:17] your page, which is the text, or the
+[00:06:18] images and the video, is that they're
+[00:06:20] all in perfect alignment with your
+[00:06:23] research. If you study some of the
+[00:06:25] greatest direct response marketers of
+[00:06:26] all time, especially the copywriters,
+[00:06:28] you will see that they spent the far far
+[00:06:31] majority of their time building a new
+[00:06:33] promotion on the research phase. And now
+[00:06:34] this is actually pretty freaking easy
+[00:06:36] with AI, especially every LLM has a
+[00:06:39] built-in deep research tool. And as long
+[00:06:41] as you have really good prompting, then
+[00:06:42] you can get incredibly good marketing
+[00:06:45] driven research for your image creation,
+[00:06:47] your video creation, and your actual
+[00:06:49] copy. And for those that know, I have a
+[00:06:51] document that has helped God knows how
+[00:06:52] many people, you know, be able to write
+[00:06:54] good copy and create good images because
+[00:06:56] they just have good research. And that
+[00:06:57] is the foundational docs SOP. If you go
+[00:07:00] through this process, you'll come out
+[00:07:01] with four documents that is everything
+[00:07:03] that you need to know. Every individual,
+[00:07:05] I like to call copy ingredient that you
+[00:07:08] need to create an incredible promotion,
+[00:07:10] an incredible landing page, ad,
+[00:07:12] whatever. You can use this with
+[00:07:13] everything. I always leave this for free
+[00:07:15] linked in the description of this video
+[00:07:16] if you want to use it. Plus, as a little
+[00:07:18] bonus, I've actually noticed recently
+[00:07:20] Perplexity is incredible with their deep
+[00:07:22] research functionality, and that's
+[00:07:24] almost exclusively what I use right now.
+[00:07:25] The most impactful section of your
+[00:07:28] landing page and of this template is
+[00:07:30] what we call the above the fold section,
+[00:07:31] and that is everything on desktop
+[00:07:33] specifically, that is not needing to
+[00:07:35] scroll to see more content. So, whatever
+[00:07:37] you load on on your page load, that is
+[00:07:40] the above the fold section. And it's the
+[00:07:41] exact same thing on mobile, except
+[00:07:43] there's going to be substantially less
+[00:07:44] content because you're on a smaller
+[00:07:46] screen naturally. So, what I'm going to
+[00:07:47] do is I'm going to pull up an example
+[00:07:49] here of a lander that has a really,
+[00:07:51] really good structure and pretty decent
+[00:07:54] copy from what I've seen. And it's a
+[00:07:55] really, really good one to break down
+[00:07:57] because they do a lot of things right
+[00:07:59] now. Final caveat here. The best way to
+[00:08:01] view CRO and building landing pages, it
+[00:08:03] should almost always be done in mobile.
+[00:08:05] Like 95% of everything that you do
+[00:08:07] regarding conversion rate stuff should
+[00:08:09] be done in mobile because that's where
+[00:08:10] 95% of your traffic is going to be
+[00:08:12] coming from. But truthfully, this looks
+[00:08:14] kind of like [ __ ] on my computer sharing
+[00:08:17] screen. So, just for simplicity and
+[00:08:19] clarity purposes for you guys, I'm going
+[00:08:21] to be reviewing in desktop mode. But
+[00:08:23] just for this example, all of the above
+[00:08:25] the fold section would be here. We have
+[00:08:26] the brand name, we have a banner, we
+[00:08:28] have an image carousel, we have a little
+[00:08:29] bit of social proof, and we have a
+[00:08:30] benefit statement. That is all that is
+[00:08:32] above the fold for these guys. So, let's
+[00:08:33] break down what a good above the fold
+[00:08:35] section looks. The first is going to be
+[00:08:37] the photo carousel. And I see a lot of
+[00:08:39] guys that are super duper random and
+[00:08:41] arbitrary with the photos that they're
+[00:08:43] using in their carousel. Understand
+[00:08:45] this. Every single element on your
+[00:08:47] landing page should have a purpose. If I
+[00:08:49] ask you and I point at something on your
+[00:08:51] lander and I say, "What's the purpose of
+[00:08:52] this?" and you can't tell me, then you
+[00:08:54] need to improve your landing page
+[00:08:56] skills. Everything should be purposeful.
+[00:08:57] I see a lot of guys that are using
+[00:08:58] images on their photo carousel
+[00:09:00] especially that just they think it looks
+[00:09:02] good. That's not the purpose. The first
+[00:09:03] thing people do when they land on a page
+[00:09:05] like this, especially on mobile, is they
+[00:09:07] scroll through the images. So, if you're
+[00:09:09] not being intentional with your images,
+[00:09:10] especially with the above the fold
+[00:09:11] section, you're losing out on a lot of
+[00:09:13] money. And so, what I've done is come up
+[00:09:15] with a a simple cadence that you can use
+[00:09:17] and feel free to steal. This is not a
+[00:09:19] hard rule by any means, but the first
+[00:09:20] image typically should just be a very
+[00:09:23] standard hero image of the product.
+[00:09:25] Doesn't need to be in use. Just needs to
+[00:09:26] be clear what the product is, what it
+[00:09:28] looks like, and generally what it does.
+[00:09:30] Now, as soon as they swipe, and what
+[00:09:32] this brand does really well, you want to
+[00:09:33] show a transformation. If it's something
+[00:09:35] cosmetic, like in this case, you can do
+[00:09:37] literally just a before and after. And
+[00:09:39] before and afters, while they can
+[00:09:41] sometimes be like a little bit
+[00:09:42] aggressive, nothing [ __ ] sells like a
+[00:09:44] before and after. Like, it is one of the
+[00:09:46] most proven image formats of all time.
+[00:09:48] And this brand even did two before and
+[00:09:50] afters in a row kind of different
+[00:09:52] formats. This is like a top bottom
+[00:09:54] before and after. And then we have a
+[00:09:56] left right. And you can see it's
+[00:09:57] attacking different pain points. This is
+[00:09:58] smoker's lines. And this one is, you
+[00:10:00] know, thinning lips. So, it's able to
+[00:10:02] hit multiple things but still show the
+[00:10:04] insane transformation associated with
+[00:10:05] that product. The next image I like to
+[00:10:07] use in a carousel is going to be
+[00:10:08] something that handles your number one
+[00:10:10] most frequent objection. If you're
+[00:10:12] marketing in any market that is above,
+[00:10:14] let's say stage four sophistication,
+[00:10:16] which if you don't know your levels of
+[00:10:17] sophistication, you definitely should.
+[00:10:19] But just to give you a reminder, level
+[00:10:21] four sophistication is where there are
+[00:10:23] already so many competitors and so many
+[00:10:25] competitors have mechanisms already that
+[00:10:27] what you're really competing on is the
+[00:10:29] mechanism itself. So if you don't have
+[00:10:31] clear differentiation through your
+[00:10:33] mechanism of why your product is so much
+[00:10:35] better and you're not overcoming
+[00:10:36] objections actively, then your
+[00:10:38] competitors are just going to destroy
+[00:10:39] you. So that's where the far far
+[00:10:41] majority of markets are these days. Um
+[00:10:44] so having an objection handler really
+[00:10:46] really quickly front and center you're
+[00:10:48] able to pre-handle objections. You
+[00:10:49] handle the objection before it even
+[00:10:51] becomes conscious in their brain. So in
+[00:10:53] this case you know an objection
+[00:10:54] constantly with lip and cosmetic related
+[00:10:56] things is you have to be really
+[00:10:58] consistent with it for a really long
+[00:10:59] time before you actually see results. So
+[00:11:00] they overcome that objection by saying
+[00:11:02] you know real results you can see after
+[00:11:04] just one use. And then some simple,
+[00:11:06] very, very simple benefit little bullet
+[00:11:08] points here as well for all the various
+[00:11:10] things that it actually works for. If
+[00:11:11] you're selling anything cosmetic or
+[00:11:13] medical, this is really, really good.
+[00:11:14] Everybody thinks their situation is
+[00:11:16] different. Everybody thinks they're
+[00:11:17] unique. They're [ __ ] not. You know,
+[00:11:18] does it work for me? My situation is
+[00:11:20] different. You want to list every
+[00:11:22] individual specific problem of every
+[00:11:25] avatar to overcome all of those
+[00:11:27] objections. Like, okay, this is good,
+[00:11:28] but does it work for smoker's lines?
+[00:11:30] Like, okay, it works for the lips, but
+[00:11:31] does it work for my wrinkles? Okay, it
+[00:11:33] works for lips. that work for dark spots
+[00:11:35] on my face. They're hitting every single
+[00:11:37] one and doing a great job with it. Now,
+[00:11:38] these next three are relatively
+[00:11:41] interchangeable. If you want to have a
+[00:11:43] competitor comparison instead, you can.
+[00:11:45] Ultimately, I don't look too much into
+[00:11:47] these, but they should all still serve a
+[00:11:49] purpose. It's very market specific. For
+[00:11:51] this particular brand, for example, you
+[00:11:52] can see that, you know, with anything
+[00:11:53] cosmetic or medical, having research
+[00:11:55] behind it is really, really important.
+[00:11:57] Like if you're selling supplements for
+[00:11:58] example, showing the research behind
+[00:12:00] each individual ingredient and why this
+[00:12:02] [clears throat] specific formula is
+[00:12:03] better than any other formula on the
+[00:12:05] market is a great great way to push the
+[00:12:07] sale further. And here they have a nice
+[00:12:09] risk reversal. So you can see on mine
+[00:12:11] the risk reversal is another great thing
+[00:12:12] to have as an image. And then lastly is
+[00:12:14] just the social proof, the testimonial.
+[00:12:16] It can be a collage like this one. It
+[00:12:18] can be very specific. You can go back to
+[00:12:19] the before and afters, but just showing
+[00:12:21] the proof. There's no such thing as too
+[00:12:22] much proof ever. Now let's move on to
+[00:12:24] the right hand side of the screen here,
+[00:12:25] which is going to be the headline. the
+[00:12:27] sub headline and all of these benefit
+[00:12:29] driven bullet points here. Now, since
+[00:12:31] this is above the fold, especially on
+[00:12:33] mobile, the only things that are above
+[00:12:34] the fold is typically the headline, sub
+[00:12:36] headline, the image, and maybe a few
+[00:12:38] bullet points. That's it. That's where
+[00:12:40] you should be focusing 90% of your
+[00:12:42] energy because that's really where the
+[00:12:44] sale is made or broken because the
+[00:12:46] number one goal of CRO on the above the
+[00:12:49] fold section is what? It's to get people
+[00:12:51] to scroll. It's to get people to keep
+[00:12:53] consuming. The more consumption that you
+[00:12:54] get, the closer you're getting people to
+[00:12:56] buying. That's also why I'm spending the
+[00:12:58] most amount of time on this section of
+[00:12:59] the page so that I can get it through
+[00:13:00] your thick [ __ ] skull. So, I'm not
+[00:13:02] going to do a whole, you know,
+[00:13:04] copywriting lesson here, but I do want
+[00:13:05] to break down what this brand did
+[00:13:08] really, really well. Because looking at
+[00:13:09] this copy, is it absolutely mindfucking
+[00:13:11] insanely good copy? No. But I'll tell
+[00:13:13] you what it is. It's clear. It's
+[00:13:15] incredibly [ __ ] clear. One of my
+[00:13:17] copywriting mentors that taught me a lot
+[00:13:19] about writing highly converting copy
+[00:13:21] before AI was ever even a thing told me
+[00:13:23] that you should always try to be clear
+[00:13:25] and not clever. Your goal is not to
+[00:13:27] impress people with how clever your
+[00:13:28] [ __ ] copy is. The goal is to convert
+[00:13:30] and clarity converts. A confused mind
+[00:13:33] never buys. So, is this an aggressive
+[00:13:35] claim? [ __ ] yeah. But [laughter]
+[00:13:37] it is also incredibly clear. Let me show
+[00:13:39] you. What did I start this entire video
+[00:13:40] with? You want to sell based off
+[00:13:42] outcomes, not benefits, not features,
+[00:13:44] outcomes. What is the outcome that they
+[00:13:46] want? Well, let's see. They want fuller,
+[00:13:47] smoother lips. Boom. Outcome achieved.
+[00:13:50] Biggest thing achieved right off the
+[00:13:51] bat. The next is a time frame. 5
+[00:13:53] minutes. Yes. Insane claim. I know. But
+[00:13:56] [ __ ] it still [ __ ] works a lot of
+[00:13:58] the times. And lastly, they have their
+[00:14:00] mechanism, right? The microl lift
+[00:14:02] system. I know that's technically I
+[00:14:03] think the name of the product and like
+[00:14:05] micro infusion is probably the real
+[00:14:07] mechanism here, but ultimately it
+[00:14:09] doesn't matter. The whole concept of
+[00:14:10] having a unique mechanism is why is it
+[00:14:13] that this product works and every other
+[00:14:15] thing that they've already tried totally
+[00:14:17] failed? Why does this product actually
+[00:14:19] address the root cause? That is the
+[00:14:21] epitome of unique mechanisms. So
+[00:14:22] technically that was achieved. If you
+[00:14:24] look at the formula of this particular
+[00:14:26] headline, it's literally outcome, time
+[00:14:28] frame, mechanism. That's it. And it's so
+[00:14:30] clear. It's using their exact language
+[00:14:33] and it has the differentiation to make
+[00:14:34] it different from anything else on the
+[00:14:36] market. And then they took it a step
+[00:14:37] further with this sub headline. Again,
+[00:14:39] whoever wrote this lander, they knew
+[00:14:40] their market. They knew they're in stage
+[00:14:42] four sophistication. They've already
+[00:14:43] seen all these claims. They've already
+[00:14:45] tried all these other alternative
+[00:14:46] solutions, and they acknowledge it.
+[00:14:48] Like, you can get this incredible
+[00:14:49] outcome without. Without is one of the
+[00:14:51] most powerful words in stage 4
+[00:14:53] sophistication copy. Use it. Okay.
+[00:14:56] Without Botox, costly clinic visits,
+[00:14:58] vasive procedures. Like, they knew their
+[00:15:00] market very, very well. They knew the
+[00:15:02] exact things that they've tried in order
+[00:15:03] of frequency. It shouldn't just be like,
+[00:15:05] "Oh, I saw one customer on Reddit has
+[00:15:08] one time used Botox." No, Botox is the
+[00:15:10] number one most frequently used thing.
+[00:15:12] That's why they hit it first in this
+[00:15:14] without statement in the sub headline.
+[00:15:16] Like I said, is this copy that's like,
+[00:15:17] "Holy [ __ ] this is blowing my [ __ ]
+[00:15:19] mind how good it is." No. But that
+[00:15:20] doesn't matter. Again, it doesn't need
+[00:15:22] to be incredibly clever. It just needs
+[00:15:23] to be clear. And they achieved that
+[00:15:25] incredibly well with this lander. Now,
+[00:15:26] one thing that I talk about a lot in BBA
+[00:15:29] is the headline and the copy of the
+[00:15:31] headline. And it's difficult to
+[00:15:33] communicate copy unless you've written a
+[00:15:35] lot of it. And so I create these
+[00:15:36] checklists of things that you can use
+[00:15:38] inside of your headline to make it
+[00:15:39] better. And I have this checklist here
+[00:15:41] of seven individual things. Now, it
+[00:15:43] doesn't need to have every single one,
+[00:15:45] especially in a relatively like this is
+[00:15:47] a pretty short headline in my opinion.
+[00:15:49] But if we look at the headline and the
+[00:15:50] sub headline combo, how many of these
+[00:15:53] seven, you know, qualities are actually
+[00:15:55] hit? Well, is there curiosity? I would
+[00:15:57] say maybe a little bit of curiosity with
+[00:15:59] like the microlift system piece, but
+[00:16:00] overall I would actually say no. I don't
+[00:16:02] think there's a ton of curiosity here.
+[00:16:03] Is it calling out the pain points? Yes,
+[00:16:05] it is calling out the pain point of the
+[00:16:07] alternative solutions that they have
+[00:16:09] already tried, which would be Botox,
+[00:16:11] clinic visits, and invasive procedures.
+[00:16:12] Is it promising a solution? [ __ ] yes.
+[00:16:14] That's the entire first part of this
+[00:16:16] headline. It is absolutely promising the
+[00:16:18] solution of fuller, smoother lips in 5
+[00:16:20] minutes. Is there, you know, the time
+[00:16:22] frame? Absolutely. That's the 5 minutes
+[00:16:24] piece. So, we already have time frame
+[00:16:26] checked. We have painpoint checked. We
+[00:16:28] have promise solution checked. We have
+[00:16:29] specificity as well because it's talking
+[00:16:31] about specific time. There's specificity
+[00:16:34] in the mechanism itself and their
+[00:16:35] specificity and the other alternative
+[00:16:37] solutions that they've already tried.
+[00:16:38] Plus, I think it's simple. Absolutely.
+[00:16:41] Is there credibility? I would say no.
+[00:16:42] And curiosity overall say no. So
+[00:16:44] overall, this gets like five out of
+[00:16:46] seven. You don't need to have all seven.
+[00:16:48] It's not like the more of these that you
+[00:16:50] add the better the headline is. But I do
+[00:16:52] believe you should have at least four.
+[00:16:54] But you can have multiple instances of
+[00:16:56] one of these things on the checklist to
+[00:16:58] make it stronger. For example, the
+[00:16:59] curiosity piece is a big miss in this
+[00:17:01] particular headline. But at the same
+[00:17:02] time, this is the headline on a sales
+[00:17:04] page. It's not like an advertorial
+[00:17:06] headline where you really really have to
+[00:17:07] push with curiosity. So really, I I
+[00:17:10] would probably give this entire headline
+[00:17:12] sub headline combo probably like a 8.7
+[00:17:14] out of 10, maybe even like a nine simply
+[00:17:17] due to how clear it is and how well they
+[00:17:18] understand the market. Now, after the
+[00:17:19] headline and sub headline, what we have
+[00:17:21] next is these benefit driven bullet
+[00:17:23] statements. And some of them, if you
+[00:17:25] notice, are actually featured driven on
+[00:17:27] this particular page. For the most part,
+[00:17:28] I would keep them benefit driven. I
+[00:17:30] would keep the feature stuff for a
+[00:17:32] little bit later in the page in the
+[00:17:33] education section, which we'll get to in
+[00:17:35] just a second. But don't overthink this
+[00:17:37] piece, okay? What are the specific
+[00:17:39] mechanisms from which this works? What
+[00:17:41] are the pain points of other products
+[00:17:43] that they have tried that this product
+[00:17:44] avoids? And ultimately, why does it
+[00:17:47] work? what is the mechanism through
+[00:17:48] which it works and I don't mean your
+[00:17:50] unique mechanism I mean the mechanism
+[00:17:52] for example of collagen production or of
+[00:17:54] serum absorption right or micro infusion
+[00:17:57] that's what I mean now the next pieces
+[00:17:58] of this page is going to be your offer
+[00:18:00] and CTA and the risk reversal now if we
+[00:18:03] look at this uh landing page I've been
+[00:18:05] breaking down here so far these guys
+[00:18:06] actually did it a little bit differently
+[00:18:08] their entire offer is actually on an
+[00:18:10] offer page or their order page or
+[00:18:12] checkout page it's not on this page
+[00:18:13] anywhere all the CTAs lead to an
+[00:18:16] additional page where you actually see
+[00:18:17] the offer and compare and contrast
+[00:18:19] there. So, if you guys want, I can do a
+[00:18:21] video, maybe an unlisted video or
+[00:18:23] something specifically on offers because
+[00:18:26] there's so much to break down there. If
+[00:18:27] you look at these guys, this is now kind
+[00:18:29] of their quote unquote offer page. I'll
+[00:18:31] just call like a checkout page. And what
+[00:18:32] we see is there's buy one, there's buy
+[00:18:34] two, get one free, and there's buy
+[00:18:36] three, get three free. And every time
+[00:18:38] that you click, you also get and unlock
+[00:18:41] specific free gifts underneath. The
+[00:18:43] first free gift is free shipping and
+[00:18:45] then you get additional treatments and
+[00:18:46] then you get a $15 gift card. Now, let
+[00:18:49] me rant real quick on offers and offer
+[00:18:51] structure just so that you generally
+[00:18:53] understand how to make offers that
+[00:18:54] actually convert. Number one, you only
+[00:18:56] want to use a quantity breaks offer
+[00:18:58] which is like a you know the more that
+[00:19:00] you give them the bigger discount that
+[00:19:02] they get. In this case, it's like only
+[00:19:03] 25% off or buy one but 63% off or buy
+[00:19:06] three. If it doesn't make sense just
+[00:19:08] logically for them to buy, you know,
+[00:19:10] multiple of one individual product, you
+[00:19:12] need to be bundling additional cross
+[00:19:14] cells into the bundle to make the offer
+[00:19:16] still irresistible. Now, let's say for
+[00:19:18] the large majority of you, selling more
+[00:19:20] of the same product actually does make
+[00:19:21] the offer sweeter. So, you want to make
+[00:19:23] sure that you have the discount on each
+[00:19:24] level. You want to have one option that
+[00:19:26] is highlighted as most popular. And you
+[00:19:29] also want to have one that is
+[00:19:30] essentially a decoy. So, if you're not
+[00:19:32] familiar with the decoy effect is
+[00:19:34] essentially having typically a middle
+[00:19:36] option that is priced very very closely
+[00:19:38] to the most expensive option knowing
+[00:19:41] that people are going to make a logical
+[00:19:43] justification of the jump between in
+[00:19:44] this case a medium and a large popcorn
+[00:19:46] cuz you know it's only 50 cents more
+[00:19:47] when in reality this was intentionally
+[00:19:49] priced to make the highest bundled offer
+[00:19:51] the most expensive offer seem like a
+[00:19:53] no-brainer. So you can use the same
+[00:19:54] thing in your offer structure. But the
+[00:19:56] most important thing when it comes to
+[00:19:58] the gifts associated with the offer, I
+[00:20:00] see so many people make this mistake.
+[00:20:02] They literally just like randomly throw
+[00:20:04] [ __ ] into their offer and expect it that
+[00:20:06] it makes it sweeter. No. Every single
+[00:20:08] free gift associated with your offer.
+[00:20:10] Everything that goes into your offer in
+[00:20:11] general, outside of the main product, it
+[00:20:13] should be designed to overcome some sort
+[00:20:16] of objection or help them achieve the
+[00:20:19] outcome faster or easier. So overall,
+[00:20:22] like how did these guys do with that
+[00:20:24] taken into consideration? First free
+[00:20:26] gift is like free shipping, which is
+[00:20:28] like cool, okay, this nothing too
+[00:20:30] special. Does that help them achieve the
+[00:20:31] outcome easier or faster? No. Is that
+[00:20:33] overcome the objection? Maybe. And then
+[00:20:34] they throw in additional treatments,
+[00:20:37] additional supplies and a gift card. I
+[00:20:39] would give this overall offer structure
+[00:20:41] probably like a 6 out of 10. Granted, I
+[00:20:43] don't know this particular, you know,
+[00:20:45] product market and the way that these
+[00:20:46] guys do, but generally I would say that
+[00:20:48] these free gifts were just kind of
+[00:20:49] randomly thrown in there. Don't do that.
+[00:20:51] So you can absolutely have your offer on
+[00:20:53] the sales page on your PDP and it
+[00:20:55] doesn't need to be on a separate page
+[00:20:57] whatsoever. With that said, you know
+[00:20:58] what do I do? I like to control
+[00:21:00] attention for as much time as possible
+[00:21:02] for my customers that are on my lander.
+[00:21:04] So for example, one thing I've been
+[00:21:06] experimenting with recently is removing
+[00:21:08] all CTAs except for the one at the
+[00:21:10] bottom, which is basically a big no no
+[00:21:12] when it comes to like conversion rate
+[00:21:14] optimization. But I just like testing
+[00:21:16] stuff that most people don't think
+[00:21:17] about. And my whole philosophy behind it
+[00:21:19] is again I want to be able to control
+[00:21:21] the justification. I want to be able to
+[00:21:23] force more consumption in the same way
+[00:21:25] that you would do so with like a force
+[00:21:26] VSSL or like a super long advertorial
+[00:21:29] where you're forcing the customer to
+[00:21:31] educate themselves more on the product
+[00:21:33] before they see the price. You're
+[00:21:34] building more justification of why this
+[00:21:37] product is so great, why it's such a
+[00:21:38] no-brainer before you ever throw a price
+[00:21:40] in front of it. So, their perceived
+[00:21:42] value of how much this product going to
+[00:21:44] cost just gets raised and raised and
+[00:21:46] raised and raised the more consumption
+[00:21:47] that you force on them. I think most
+[00:21:49] people don't agree with me on that and
+[00:21:50] truthfully I'm still testing it, but
+[00:21:52] just something to keep in mind. So, next
+[00:21:54] section on the lander is going to be
+[00:21:55] your FAQs. Once again, stage four
+[00:21:57] sophistication. Being able to handle the
+[00:21:59] main objections really quickly is
+[00:22:01] fantastic. I recommend having a few FAQs
+[00:22:04] actually directly underneath your offer
+[00:22:06] and then also more FAQs at the bottom of
+[00:22:08] the page or at least in the education
+[00:22:10] section which as you can see that is
+[00:22:12] actually exactly what these guys did as
+[00:22:13] well. You can see at the bottom of the
+[00:22:14] page here they have more FAQs. So again
+[00:22:17] this is a very sophisticated market.
+[00:22:19] This is damn near like skincare
+[00:22:20] anti-aging stuff is damn near stage five
+[00:22:23] sophistication. So having FAQs
+[00:22:25] everywhere I think is not going to hurt
+[00:22:27] you. Now, regarding your FAQs, per
+[00:22:29] usual, it should be coming from the
+[00:22:31] research, but what a lot of people do, I
+[00:22:33] want to rant on this for just one
+[00:22:35] second. A lot of people are using like
+[00:22:37] the comments underneath their ads to
+[00:22:40] create FAQs out of because they're like,
+[00:22:42] "Oh, they're talking about this. If I
+[00:22:43] just overcame that, then I would get
+[00:22:45] more customers." And you know, maybe
+[00:22:46] that's true. Maybe that's true. But here
+[00:22:48] is an alternative perspective for you.
+[00:22:51] So, there's a little something called
+[00:22:52] survivorship bias. And the best way to
+[00:22:54] explain it is to explain the inception
+[00:22:56] of survivorship bias in World War II.
+[00:22:58] The US was losing these bombers in World
+[00:23:02] War II at an extremely alarming rate.
+[00:23:04] And what would happen is they would send
+[00:23:06] out the bombers, they would come back
+[00:23:06] and they would have all these bullet
+[00:23:08] holes all over the plane. And the
+[00:23:11] scientists at the time were like, "Okay,
+[00:23:13] in order to make these planes more
+[00:23:15] durable and make sure we lose fewer
+[00:23:17] bombers, we got to put more armor, which
+[00:23:19] is heavy, and that costs fuel. we got to
+[00:23:21] put more armor around all these bullet
+[00:23:23] points, not these green circles, all
+[00:23:25] these red dots so that we make the
+[00:23:27] planes more durable. And then there was
+[00:23:28] I think like this Hungarian
+[00:23:30] statistician, this like mathematician
+[00:23:32] essentially that was like, "No, no, no.
+[00:23:33] You guys got this all [ __ ] wrong."
+[00:23:35] Okay, you are trying to repair the
+[00:23:37] planes that are coming back and
+[00:23:38] surviving. If they got hit and they
+[00:23:41] survived, that means that there is
+[00:23:43] enough armor on those portions of the
+[00:23:44] plane. where we need to be adding armor
+[00:23:46] is the places where there are no bullet
+[00:23:48] holes, no damage being taken because
+[00:23:50] those are the planes that are not
+[00:23:52] returning. And so that's why these green
+[00:23:54] kind of circles here, that's where we
+[00:23:55] actually should put more reinforced
+[00:23:57] armor to make the planes more durable
+[00:23:58] and lose fewer planes in the war. Now,
+[00:24:01] what the [ __ ] does this have to do with
+[00:24:02] ecom? Well, if you are going to the
+[00:24:06] people that are already not buying from
+[00:24:07] you and asking them, why didn't you buy
+[00:24:09] from me? I think that's actually less
+[00:24:11] valuable than going to your customers
+[00:24:13] that already have bought from you and
+[00:24:15] ask them, "Hey, I know you bought. What
+[00:24:17] almost kept you from buying?" Because I
+[00:24:20] really, really believe that the Facebook
+[00:24:21] comments are where some of the biggest
+[00:24:23] losers on the [ __ ] planet hang out.
+[00:24:25] It's always in the comment section. And
+[00:24:26] a lot of times that's all the people
+[00:24:28] that are never going to buy from you, no
+[00:24:30] matter how many, you know, [ __ ]
+[00:24:32] questions you have in your FAQ. So yes,
+[00:24:33] you can go to the Facebook comment
+[00:24:35] section and take some. Maybe it'll work.
+[00:24:36] Maybe. But what I think is more
+[00:24:38] valuable, speaking to your own customers
+[00:24:39] and ask them what almost kept them from
+[00:24:41] buying and using those and integrating
+[00:24:43] those into your FAQ instead. Now, after
+[00:24:45] this FAQ section, as you can see here,
+[00:24:47] what we have is what comes right beneath
+[00:24:49] the fold, at least on desktop, which is
+[00:24:51] going to be all of the testimonials and
+[00:24:53] reviews. Once again, this should all be
+[00:24:55] purposeful. You want to take reviews
+[00:24:57] from your customers that are overcoming
+[00:24:59] an objection or seeding a belief. I
+[00:25:02] believe that marketing at its core is
+[00:25:04] just a game of belief change work. And
+[00:25:06] you're able to seed reviews best through
+[00:25:09] people that are not associated with your
+[00:25:11] brand. It's your customers and they
+[00:25:13] should all be intentional is really what
+[00:25:14] I'm trying to say. Don't just throw
+[00:25:16] social proof on there for the sake of
+[00:25:17] having it. Be intentional. Every element
+[00:25:19] on your page should be moving people
+[00:25:20] closer to a sale. And you can see this
+[00:25:22] brand does it incredibly well. They have
+[00:25:24] the image. They have transformations. I
+[00:25:25] don't even want to call it like a
+[00:25:26] testimonial. I know it is, but think of
+[00:25:28] it in terms of transformations because
+[00:25:30] transformational marketing is like the
+[00:25:32] strongest [ __ ] marketing you can ever
+[00:25:33] have. I know I've already said that, but
+[00:25:35] it's just it's just so so incredibly
+[00:25:37] true. Another important thing is make
+[00:25:38] sure that it's in alignment with your
+[00:25:39] research, right? As you can tell, is
+[00:25:41] there like a woman on this page that
+[00:25:43] looks under the age of like 30 or under
+[00:25:45] the age of 40? No, they all look like
+[00:25:47] they perfectly match the demographic in
+[00:25:49] every way in race and ethnicity, in age,
+[00:25:52] in gender. In every conceivable way, it
+[00:25:55] should match your target avatar. Now,
+[00:25:56] what we have next in this template is
+[00:25:58] just broadly labeled as the education
+[00:26:00] section. This is where you have your
+[00:26:02] authority figure. If you're selling
+[00:26:03] supplements, this is where you're going
+[00:26:04] to have a lot of your ingredient
+[00:26:06] explaining the research behind them. The
+[00:26:07] how it works section, especially with
+[00:26:09] gifts, can be incredibly powerful. You
+[00:26:11] know, specifically who it's for. Maybe
+[00:26:13] having a comparison, especially for
+[00:26:14] level four, stage four sophistication
+[00:26:16] markets is super super important. Even
+[00:26:18] stage three sophistication, I would say,
+[00:26:19] is very important for that technology.
+[00:26:21] Basically, like the how this thing
+[00:26:23] actually [ __ ] works. And if we scroll
+[00:26:24] down on this example lander, that's
+[00:26:26] exactly what we see. We see it here,
+[00:26:27] which is the exact how it works section.
+[00:26:29] We have more embedded social proof here.
+[00:26:32] And then boom, it's going
+[00:26:33] [clears throat] deeply into how it
+[00:26:35] works, the actual mechanism uh that this
+[00:26:37] product actually works. Boom, more
+[00:26:38] social proof and transformations. Boom,
+[00:26:40] more education. So like they're seating
+[00:26:42] all the social proof in between these
+[00:26:45] educational sections cuz this is where
+[00:26:46] you're going to lose a lot of people
+[00:26:48] because this is where you stop talking
+[00:26:49] about what it can do for you and
+[00:26:51] specifics on the product and the
+[00:26:52] mechanism with which it works. So
+[00:26:54] injecting that social proof is super
+[00:26:56] super powerful like these guys are doing
+[00:26:58] here. Here's another example of you know
+[00:27:00] how it works. more injected social proof
+[00:27:02] as well. Now, we have the ingredients
+[00:27:04] section going through each one and
+[00:27:05] explaining it. What I think they could
+[00:27:06] be doing better here is like showing
+[00:27:08] research behind it. Like, yes, they say
+[00:27:09] sciencebacked, but what if you're able
+[00:27:11] to actually see the research? Once
+[00:27:12] again, another how it works section.
+[00:27:14] Actually, how to use the product, I
+[00:27:16] should say. More injected social proof.
+[00:27:18] Next, we have a comparison. As you can
+[00:27:20] see, comparisons can work really, really
+[00:27:21] well. Us versus them. Risk reversal.
+[00:27:24] Once again, an additional FAQ. As you
+[00:27:26] can see here, we have more objections
+[00:27:29] being handled. And then finally, we got
+[00:27:31] our little offer card, which is going
+[00:27:32] back to those outcomes, the CTA, maybe
+[00:27:35] some urgency, some scarcity. And that's
+[00:27:37] it. That's it for this entire page here.
+[00:27:39] As you can see, this last piece that I
+[00:27:40] have blocked off is just that that offer
+[00:27:42] portion. By the way, guys, if you want
+[00:27:43] this template, just go to my Instagram
+[00:27:44] and I'll give it to you. It's Markbuilds
+[00:27:46] Brands. DM me the word template so I
+[00:27:48] know that's what you're looking for and
+[00:27:49] I'll just send it to you for free so you
+[00:27:51] can use it. Now, I want to go over some
+[00:27:52] bonus persuasive elements that you can
+[00:27:54] add on your page to increase the
+[00:27:56] conversion rate. I spoke a little bit
+[00:27:58] about authority. I know a lot of you
+[00:28:00] guys are using, you know, doctors or,
+[00:28:02] you know, veterinarians or whatever your
+[00:28:04] authority figure is, and that's great.
+[00:28:06] Authority is an incredibly powerful
+[00:28:07] thing. But here's the thing I want to
+[00:28:09] warn you about with authority. Don't
+[00:28:10] default to what you think the authority
+[00:28:13] figure is. In more sophisticated
+[00:28:14] markets, a lot of times there's actually
+[00:28:17] resentment towards doctors, towards
+[00:28:19] veterinarians, towards like insert
+[00:28:21] authority figure here. And like the real
+[00:28:23] authority figure for them is somebody
+[00:28:25] who is like, I've been there. I've tried
+[00:28:27] it all. And then I like I said, [ __ ]
+[00:28:29] this system, you know? [ __ ] the doctors.
+[00:28:31] [ __ ] this. And I became my own [ __ ]
+[00:28:32] thing. So this ultimately comes down to
+[00:28:34] research. You should know what your true
+[00:28:36] authority figure is through the
+[00:28:38] research. Maybe it actually is a doctor.
+[00:28:40] Maybe it's not though, and you end up
+[00:28:42] [ __ ] yourself from day one because
+[00:28:43] you just assumed that it's a doctor.
+[00:28:45] Especially with like where the world is
+[00:28:47] going now. I think if anything we have
+[00:28:49] less and less trust in the medical
+[00:28:51] system in general. So that's shared with
+[00:28:54] a lot of your market. So keep that in in
+[00:28:56] consideration. Two additional elements,
+[00:28:57] scarcity and urgency. Scarcity is when
+[00:29:00] obviously you tell people that there's
+[00:29:01] only x amount of units or x amount of I
+[00:29:03] guess that would be it. Just ask x
+[00:29:04] amount of units for them to be able to
+[00:29:06] secure a discount. Just make sure that
+[00:29:08] you use it ethically because you can get
+[00:29:10] [ __ ] Uh same thing with urgency. The
+[00:29:12] best ways to use urgency I think is
+[00:29:14] actually what these guys are doing
+[00:29:15] because it's very indirect. Like they
+[00:29:17] say, you know, only this many units. I
+[00:29:19] guess that's not very compliant. But
+[00:29:20] what I was referring to is like these
+[00:29:21] sales. In the United States, there's
+[00:29:23] holidays [ __ ] every few weeks. And
+[00:29:25] you can always use that as like an
+[00:29:26] indirect way to get urgency and to, you
+[00:29:30] know, increase your conversion rate
+[00:29:31] because people want to take advantage of
+[00:29:33] it. Lastly, I want to talk about CRO and
+[00:29:35] split testing. especially uh split
+[00:29:37] testing can be an absolute cesspool of
+[00:29:41] [ __ ] that doesn't actually move the
+[00:29:43] needle and gives especially Facebook and
+[00:29:45] the pixel conflicting data. Let me draw
+[00:29:47] this out so you know what I mean. So if
+[00:29:49] you have like an ad here and you're
+[00:29:51] driving traffic to this first page, I
+[00:29:52] don't care if it's advtorial or a PDP or
+[00:29:55] whatever, it doesn't really matter. What
+[00:29:56] does matter is that you don't run split
+[00:29:58] tests on this page. Yes, I said it. Sue
+[00:30:01] me. The ultimate truth that I've seen is
+[00:30:03] that as soon as you start to make
+[00:30:05] changes on the page that Facebook crawls
+[00:30:07] the most in your funnel. It [ __ ] up
+[00:30:09] your optimization, [ __ ] up your
+[00:30:10] learning, and it can actually number one
+[00:30:13] skew the results of your split test, but
+[00:30:14] number two, destroy your control. Do you
+[00:30:16] want to destroy your control like cause
+[00:30:18] more variability and your rorowass and
+[00:30:20] performance? I don't. So, anytime that I
+[00:30:22] want to test this first page, whether
+[00:30:23] that's quiz, avitorial, PDP, whatever, I
+[00:30:26] always create new post IDs and send them
+[00:30:28] to a new URL using the same creatives,
+[00:30:30] of course, but new post IDs entirely.
+[00:30:32] This is the true way to get good
+[00:30:34] performance data on split test because
+[00:30:36] Facebook views these pages as data like
+[00:30:39] this, right? The source code. So, it has
+[00:30:41] all this data. It scans it constantly
+[00:30:43] throughout the day and it can notice
+[00:30:46] when you're making changes to the pages.
+[00:30:48] And so if you're constantly making
+[00:30:49] changes to these pages, then that's
+[00:30:51] going to affect the traffic that
+[00:30:52] Facebook is going to be sending you,
+[00:30:53] which can affect your conversion rate
+[00:30:54] and the results of the split test. So
+[00:30:56] don't do it. Just launch new post IDs.
+[00:30:58] And I promise you, you'll thank me
+[00:30:59] later. The time that I saw that this was
+[00:31:01] so [ __ ] clear is that I was running
+[00:31:02] split tests on this first page. By the
+[00:31:04] way, I've had this opinion for years. I
+[00:31:06] think since like 2019, because I
+[00:31:08] realized as soon as I started doing
+[00:31:10] split testing there, like all my results
+[00:31:11] would go to [ __ ] including the control,
+[00:31:13] which was already working. If you want
+[00:31:14] to run split tests on additional pages
+[00:31:17] after this first page that you send
+[00:31:18] traffic to, let's say this actually is
+[00:31:19] an advtorial and then you go to a sales
+[00:31:21] page. You want to run split tests here
+[00:31:22] by diverting traffic 50/50. Cool. You
+[00:31:24] can do it 100%. Just make sure that you
+[00:31:25] track it properly. The true way that I
+[00:31:28] look at conversion rate test, CRO test
+[00:31:30] rather, is not through conversion rate.
+[00:31:32] It's almost exclusively through EPV
+[00:31:34] because a lot of times the changes that
+[00:31:36] you make actually affect your average
+[00:31:37] order value. and you'll see the
+[00:31:38] conversion rate drop, but the average
+[00:31:40] order value increases substantially,
+[00:31:42] which actually on a net EPV basis would
+[00:31:44] make that new variation more profitable
+[00:31:46] than your control. So, always look at
+[00:31:48] EPV, earnings per view. You can even
+[00:31:49] look at like profit per view as a better
+[00:31:52] indicator. If you're even changing like
+[00:31:53] the SKUs associated with your free
+[00:31:55] gifts, that can be a very great metric
+[00:31:56] to look at as well. And honestly, in
+[00:31:58] general, when it comes to split testing
+[00:32:00] stuff, guys, think not in terms of what
+[00:32:03] can I add on the page to make people buy
+[00:32:05] more and instead ask yourself, what can
+[00:32:07] I remove? A lot of times, removing stuff
+[00:32:09] can have a better impact on your
+[00:32:11] conversion rate than adding stuff.
+[00:32:13] Because the more that you add, the
+[00:32:14] heavier the page gets, the slower it
+[00:32:16] loads, the fewer people actually even
+[00:32:17] get to see that content. So, test both.
+[00:32:20] But a lot of times, the best way to
+[00:32:21] become more profitable is through
+[00:32:22] subtraction, not addition. Typically,
+[00:32:24] like the reason that I see people not be
+[00:32:26] able to increase the conversion rate on
+[00:32:28] their page, it's not because of the
+[00:32:29] structure. It's not because of the
+[00:32:30] template. I just gave you the template
+[00:32:32] right here. Instead, they launch it and
+[00:32:34] they don't know what to tweak. They
+[00:32:35] don't know what numbers to look at. They
+[00:32:37] don't know how to analyze the heat maps.
+[00:32:38] They don't know drop off KPIs. And the
+[00:32:41] only way to really be able to see what
+[00:32:43] is actually going wrong is just to learn
+[00:32:45] from somebody who knows it better than
+[00:32:47] you. Truthfully, the amount of split
+[00:32:48] tests that I have run since I got
+[00:32:50] started running ads in 2018 is in the
+[00:32:53] thousands. easily and I've just tested
+[00:32:55] so many things I know exactly what
+[00:32:57] works. So like that's why I built Brand
+[00:32:59] Builder Academy because I see so many
+[00:33:00] people watching videos like this, they
+[00:33:02] make the adjustments and they still
+[00:33:03] don't get results, still not profitable.
+[00:33:05] And all it takes a lot of times is one
+[00:33:07] simple little tweak. So every single
+[00:33:09] Monday I have calls inside of BBA. I go
+[00:33:11] through your landers, your ads, identify
+[00:33:13] the real constraint, and give you the
+[00:33:14] solution. And then people will come back
+[00:33:16] to me next week and we'll be just
+[00:33:17] absolutely printing. So if you want to
+[00:33:19] join and work more closely with me, you
+[00:33:20] can always join Brands Academy and my
+[00:33:22] mentorship. just click the first link in
+[00:33:23] the description of this video. Other
+[00:33:24] than that guys, thank you so much for
+[00:33:26] watching and I'll see you on the next
+[00:33:27] one.

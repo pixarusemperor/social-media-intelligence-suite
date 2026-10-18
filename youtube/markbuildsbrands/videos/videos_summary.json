@@ -1,0 +1,195 @@
+{
+  "channel": {
+    "name": "Mark Builds Brands",
+    "url": "https://www.youtube.com/@markbuildsbrands",
+    "channel_id": "UCkRbLkvUX5zuwnKOBwFHOjg"
+  },
+  "extraction_timestamp": "2026-10-18T06:34:26.800348+00:00",
+  "total_videos_analyzed": 10,
+  "aggregate_metrics": {
+    "total_views": 820184,
+    "average_views": 82018,
+    "total_likes": 34566,
+    "average_likes": 3456,
+    "total_comments": 1291,
+    "average_comments": 129,
+    "total_duration_seconds": 12576,
+    "total_duration_formatted": "03:29:36"
+  },
+  "date_range": {
+    "earliest_upload": "2026-04-29T10:57:44-07:00",
+    "latest_upload": "2026-07-30T10:43:27-07:00"
+  },
+  "videos": [
+    {
+      "index": 1,
+      "folder": "video_01",
+      "video_id": "1XhpB0-vckw",
+      "title": "f*ck it. ZERO to $1k/day in 3 days with ai dropshipping. [full case study]",
+      "url": "https://www.youtube.com/watch?v=1XhpB0-vckw",
+      "published_at_iso": "2026-07-30T10:43:27-07:00",
+      "published_at_human": "July 30, 2026 at 10:43 AM UTC-07:00",
+      "view_count": 90515,
+      "like_count": 3253,
+      "comment_count": 127,
+      "duration_seconds": 1512,
+      "duration_formatted": "25:12",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 2,
+      "folder": "video_02",
+      "video_id": "iuz6KLRH7_g",
+      "title": "how to make AI animations ads that print (full workflow + skill)",
+      "url": "https://www.youtube.com/watch?v=iuz6KLRH7_g",
+      "published_at_iso": "2026-07-14T08:57:40-07:00",
+      "published_at_human": "July 14, 2026 at 08:57 AM UTC-07:00",
+      "view_count": 46624,
+      "like_count": 1670,
+      "comment_count": 61,
+      "duration_seconds": 1066,
+      "duration_formatted": "17:46",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 3,
+      "folder": "video_03",
+      "video_id": "IIm60Qk4VEs",
+      "title": "copy my landing page template, it made me $1.4m in 30 days",
+      "url": "https://www.youtube.com/watch?v=IIm60Qk4VEs",
+      "published_at_iso": "2026-07-08T10:25:15-07:00",
+      "published_at_human": "July 08, 2026 at 10:25 AM UTC-07:00",
+      "view_count": 159127,
+      "like_count": 5083,
+      "comment_count": 150,
+      "duration_seconds": 2008,
+      "duration_formatted": "33:28",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 4,
+      "folder": "video_04",
+      "video_id": "VbP_PTYcyDA",
+      "title": "how i print $42k/day with AI dropshipping (more addicting than gambling)",
+      "url": "https://www.youtube.com/watch?v=VbP_PTYcyDA",
+      "published_at_iso": "2026-06-27T11:35:12-07:00",
+      "published_at_human": "June 27, 2026 at 11:35 AM UTC-07:00",
+      "view_count": 51300,
+      "like_count": 1972,
+      "comment_count": 147,
+      "duration_seconds": 1104,
+      "duration_formatted": "18:24",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 5,
+      "folder": "video_05",
+      "video_id": "1KrsOagtWgM",
+      "title": "i asked claude to find me a $1k/day product (it worked)",
+      "url": "https://www.youtube.com/watch?v=1KrsOagtWgM",
+      "published_at_iso": "2026-06-11T10:15:13-07:00",
+      "published_at_human": "June 11, 2026 at 10:15 AM UTC-07:00",
+      "view_count": 75333,
+      "like_count": 2917,
+      "comment_count": 105,
+      "duration_seconds": 1093,
+      "duration_formatted": "18:13",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 6,
+      "folder": "video_06",
+      "video_id": "Lr8uwWz3LYc",
+      "title": "r3tarded habits that made me rich (TIER LIST)",
+      "url": "https://www.youtube.com/watch?v=Lr8uwWz3LYc",
+      "published_at_iso": "2026-06-02T11:20:20-07:00",
+      "published_at_human": "June 02, 2026 at 11:20 AM UTC-07:00",
+      "view_count": 58588,
+      "like_count": 2883,
+      "comment_count": 145,
+      "duration_seconds": 1392,
+      "duration_formatted": "23:12",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 7,
+      "folder": "video_07",
+      "video_id": "XlCQPnZ2gfA",
+      "title": "Neuroscience Confirms: this is what makes people buy from your ads",
+      "url": "https://www.youtube.com/watch?v=XlCQPnZ2gfA",
+      "published_at_iso": "2026-05-28T10:22:14-07:00",
+      "published_at_human": "May 28, 2026 at 10:22 AM UTC-07:00",
+      "view_count": 40928,
+      "like_count": 2264,
+      "comment_count": 98,
+      "duration_seconds": 1634,
+      "duration_formatted": "27:14",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 8,
+      "folder": "video_08",
+      "video_id": "JMw6SmRdYQY",
+      "title": "the entire meta ads algorithm explained in 21 mins",
+      "url": "https://www.youtube.com/watch?v=JMw6SmRdYQY",
+      "published_at_iso": "2026-05-11T12:37:26-07:00",
+      "published_at_human": "May 11, 2026 at 12:37 PM UTC-07:00",
+      "view_count": 195615,
+      "like_count": 9168,
+      "comment_count": 164,
+      "duration_seconds": 1279,
+      "duration_formatted": "21:19",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 9,
+      "folder": "video_09",
+      "video_id": "zJijWXTaJDU",
+      "title": "stop trying to save your f*cking friends",
+      "url": "https://www.youtube.com/watch?v=zJijWXTaJDU",
+      "published_at_iso": "2026-05-01T11:17:59-07:00",
+      "published_at_human": "May 01, 2026 at 11:17 AM UTC-07:00",
+      "view_count": 32826,
+      "like_count": 2517,
+      "comment_count": 156,
+      "duration_seconds": 302,
+      "duration_formatted": "5:02",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "index": 10,
+      "folder": "video_10",
+      "video_id": "PTvIYH8hDxU",
+      "title": "i tried running only AI ads for 30 days (it printed lol)",
+      "url": "https://www.youtube.com/watch?v=PTvIYH8hDxU",
+      "published_at_iso": "2026-04-29T10:57:44-07:00",
+      "published_at_human": "April 29, 2026 at 10:57 AM UTC-07:00",
+      "view_count": 69328,
+      "like_count": 2839,
+      "comment_count": 138,
+      "duration_seconds": 1186,
+      "duration_formatted": "19:46",
+      "categories": [
+        "Education"
+      ]
+    }
+  ]
+}

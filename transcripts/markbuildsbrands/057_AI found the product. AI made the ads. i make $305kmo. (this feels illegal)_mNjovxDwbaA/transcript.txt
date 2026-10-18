@@ -1,0 +1,627 @@
+# AI found the product. AI made the ads. i make $305k/mo. (this feels illegal)
+URL: https://www.youtube.com/watch?v=mNjovxDwbaA
+Category: video
+Duration: 1108s
+Published: 20250610
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to show you how I use AI to find a
+[00:00:03] winning product. I use AI to build an
+[00:00:04] entire funnel. And I use AI even to make
+[00:00:07] the ads completely from scratch and
+[00:00:08] scale to over 10K a day, as you can see
+[00:00:10] here. And just so we're clear, this is
+[00:00:12] not going to be a video about how to use
+[00:00:14] [ __ ] Chat GBT 101, Claude 101. No,
+[00:00:18] we're going to do some cool [ __ ] We're
+[00:00:19] not going to get into a Gentics quite
+[00:00:20] yet. That's a video coming soon. But as
+[00:00:22] long as you follow this process here,
+[00:00:24] you can easily find a good product,
+[00:00:25] build an amazing funnel, and write some
+[00:00:26] really [ __ ] good copy. So, let's get
+[00:00:28] to it. Now the first step in the process
+[00:00:29] here is of course to find the product.
+[00:00:31] Now shockingly this is actually the
+[00:00:33] easiest part of this entire process and
+[00:00:35] probably the fastest part because all
+[00:00:37] you have to do is use one specific AI
+[00:00:39] tool to go and do some research out on
+[00:00:41] the interwebs for you and find the best
+[00:00:43] product that meets my criteria. My
+[00:00:44] criteria of course being you want to
+[00:00:46] sell a product that is already proven to
+[00:00:47] sell, right? I call these validated
+[00:00:48] products. Ideally a product that is
+[00:00:51] already generating at least 300,000
+[00:00:53] visits per month via something like
+[00:00:55] Similar Web. We can prove that. We can
+[00:00:57] guesstimate that they're probably doing
+[00:00:58] around 8 to 10K per day. Maybe more,
+[00:01:01] maybe less. I don't really care. All I
+[00:01:02] know is they're driving volume and I
+[00:01:04] only want to sell products that other
+[00:01:05] people are already selling successfully.
+[00:01:07] So, because I want to make your job as
+[00:01:09] easy as humanly possible, I put together
+[00:01:11] a little something called the Mark
+[00:01:13] Builds Brands AI product research
+[00:01:14] prompt. Now, you may be wondering, Mark,
+[00:01:16] what could possibly be on this document?
+[00:01:18] Well, it's actually a prompt. Use AI to
+[00:01:20] do product research for you. I know it
+[00:01:22] sounds crazy, but that is exactly what
+[00:01:23] it's for. But the cool part is I loaded
+[00:01:25] in all my specific criteria here. You
+[00:01:27] can see like this isn't a super
+[00:01:28] extensive prompt, right? All I have is
+[00:01:30] my specific criteria. I show it where to
+[00:01:32] look, what to find, and then give me a
+[00:01:34] few specific pieces of information for
+[00:01:36] each product that is found. All right,
+[00:01:37] so you can adjust this to your liking,
+[00:01:38] but what you're going to do is you're
+[00:01:39] going to copy all of this. You're going
+[00:01:41] to go into trusty dusty chat GPT. You're
+[00:01:43] going to paste that right in. And then
+[00:01:44] you're going to go to tools and make
+[00:01:46] sure that you hit run deep research and
+[00:01:48] go ahead and hit enter. Chat GPT may ask
+[00:01:50] you one or two clarifying questions to
+[00:01:51] make sure that it properly conducts the
+[00:01:53] research. But as you can tell here, I
+[00:01:54] ran this prompt myself and we got this
+[00:01:56] amazing list of five winning DTOC
+[00:01:58] supplement products specifically. So,
+[00:02:00] one thing that I did in this particular
+[00:02:02] prompt is I specified that I wanted to
+[00:02:04] be in the supplement market because
+[00:02:05] selling supplements is fun. So, that's
+[00:02:07] exactly what I did, but you can change
+[00:02:08] that based off the niche that you're
+[00:02:09] selling in or want to sell in. And as
+[00:02:11] you can see, we got this amazing list
+[00:02:12] here of five winning DTOC supplement
+[00:02:15] products that are solving meaningful
+[00:02:16] problems. So, one of the prompts or
+[00:02:18] things that I put in this prompt is I
+[00:02:19] want it to be a product that is solving
+[00:02:21] a painful problem in a emotional hungry
+[00:02:24] market, right? I believe that markets
+[00:02:26] rule everything. You can go in with a
+[00:02:27] shitty product, shitty funnel, shitty
+[00:02:29] ads, and probably still print if the
+[00:02:30] market is really that good. So, I want
+[00:02:32] to go after markets first. We got a few
+[00:02:34] different examples here. Number one, we
+[00:02:35] have the company called Seed doing
+[00:02:37] 500,000 over 500,000 visits per month.
+[00:02:40] We have Bloom Nutrition also doing
+[00:02:42] around a quarter million visits per
+[00:02:43] month on Similar Web. We got Mudwater,
+[00:02:45] obviously massive DTOC brand. Here we
+[00:02:47] have O Positive, also massive,
+[00:02:49] absolutely massive. I mean 1.8 million
+[00:02:52] plus visits. And specifically, we're
+[00:02:53] looking at the Flow PMS gummies, but
+[00:02:55] still very massive brand. And then we
+[00:02:56] also have front of the pack, basically a
+[00:02:59] dog multivitamin supplement. So for
+[00:03:01] example purposes, I'm going to go with
+[00:03:03] the Flow PMS gummy vitamins cuz I think
+[00:03:05] that there's some really cool copy and
+[00:03:06] angles that you can tap into
+[00:03:08] specifically for this market. So, since
+[00:03:10] it already did all the hard work for
+[00:03:11] you, you can just click one of the links
+[00:03:12] here and see the exact product that was
+[00:03:14] already found for you. Now, obviously
+[00:03:16] with supplements, there's a pretty high
+[00:03:18] degree of differentiation that has to be
+[00:03:19] done in order for you to sell this
+[00:03:21] product. So, the process is a little bit
+[00:03:22] different, but the whole product
+[00:03:23] research process, that process that I
+[00:03:25] just took you through, it's really just
+[00:03:26] to find a product that you can prove is
+[00:03:28] selling. The rest of the work we'll get
+[00:03:30] to, all right, but the whole purpose of
+[00:03:32] product research is really just to find
+[00:03:33] a product that you can prove with data
+[00:03:35] is selling at a high scale. And I define
+[00:03:37] a high scale at around 10K per day. So
+[00:03:39] just like that, we got step number one
+[00:03:41] done. Now we're going to move on to step
+[00:03:43] number two. Step number two here is
+[00:03:45] specifically going to be the process of
+[00:03:46] creating the funnel. Now I'm not going
+[00:03:48] to go through and design a landing page
+[00:03:50] in front of you because between me and
+[00:03:51] you, I have people on my team that do
+[00:03:52] that for me. But I will write all the
+[00:03:55] copy right in front of you. But before
+[00:03:57] we do that, the whole process of
+[00:03:58] building a funnel is very, very heavy on
+[00:04:01] copywriting. Right? The most common
+[00:04:02] mistake that I see people make when they
+[00:04:04] come to, you know, my YouTube lives or
+[00:04:06] wherever, is they say, "Mark, I'm
+[00:04:07] getting all this traffic, but I'm
+[00:04:08] getting no sales." Yeah, that's because
+[00:04:09] your funnel sucks, dick. It's not
+[00:04:11] converting anybody. Even the most
+[00:04:14] perfect prime buyer that just whips out
+[00:04:16] their credit card for for [ __ ]
+[00:04:17] anything won't even buy it. That's how
+[00:04:18] shitty it is. You got to step the [ __ ]
+[00:04:20] up. So, anytime that you're writing
+[00:04:21] copy, I have these documents that I call
+[00:04:23] the foundational documents. Now, the
+[00:04:25] foundational documents is a series of
+[00:04:27] four documents that I put together here
+[00:04:29] that is basically going to be, you know,
+[00:04:31] the foundation of every word of copy
+[00:04:33] that you write, whether that's your ads,
+[00:04:35] your landing pages, your advvertorials,
+[00:04:37] whatever. It's all being written based
+[00:04:39] off of these foundational documents. So,
+[00:04:40] it's very important that you don't [ __ ]
+[00:04:42] them up. So, let's go through and
+[00:04:43] actually create these foundational
+[00:04:44] documents based off a new brand that I'm
+[00:04:46] saying I'm going to launch, which I'm
+[00:04:47] not, but let's say I were to launch a
+[00:04:49] competitor to the Flow product by O
+[00:04:51] Positive. This is the exact document
+[00:04:53] that you want to follow. And again, I
+[00:04:54] have links to all these SOPs and
+[00:04:56] everything in the description. Now, I
+[00:04:58] hope you guys understand. I am quite
+[00:05:00] literally spoon feeding you this
+[00:05:02] information. So, if you apply it and it
+[00:05:04] doesn't work, I apply almost this
+[00:05:06] identical process myself and I'm doing
+[00:05:08] just fine myself. So, what's the really
+[00:05:10] the problem? Probably you're a dumbass.
+[00:05:12] All right. So, the four the four
+[00:05:14] foundational documents is a research
+[00:05:16] document, which this is going to be the
+[00:05:17] longest document where you basically
+[00:05:19] prompt chatbt to do deep research for
+[00:05:20] you specifically about your market. And
+[00:05:22] then we have the avatar doc and the
+[00:05:24] offer brief that builds the marketing
+[00:05:26] material things like the unique
+[00:05:27] mechanism the state of awareness the
+[00:05:30] level of sophistication all these like
+[00:05:31] foundational marketing principles into
+[00:05:33] one or two documents and then the final
+[00:05:35] is what I call the necessary beliefs
+[00:05:38] document. So I believe that marketing at
+[00:05:40] its core is simply a game of belief
+[00:05:42] change work. So people are coming into
+[00:05:43] your business with a specific set of
+[00:05:45] beliefs and it's your job to shift those
+[00:05:46] beliefs into beliefs that align with
+[00:05:49] buying your product. So all this [ __ ] is
+[00:05:51] so [ __ ] easy. I'm going to skip
+[00:05:52] through this part and just, you know,
+[00:05:54] create these documents myself and move
+[00:05:55] on. So, I'm just going to create these
+[00:05:56] foundational documents real quick as if
+[00:05:58] I was like a copywriter for O Positive.
+[00:06:00] This is how I would start out by doing
+[00:06:01] it. All right, so we got our full deep
+[00:06:03] research done by ChatBT. Now, if I were
+[00:06:05] you, I would go and actually read all of
+[00:06:07] this. You don't have to read every word
+[00:06:08] of copy that you write, but this is one
+[00:06:10] document that I would really, really
+[00:06:11] recommend you actually read it from top
+[00:06:13] to bottom. I know it's a lot, but you
+[00:06:14] know, take some time and you give it a
+[00:06:16] read because it'll help you write so
+[00:06:18] much better copy cuz you'll know exactly
+[00:06:20] what to look for. Anyways, we're not
+[00:06:21] going to do that cuz we're lazy. Let's
+[00:06:23] copy all of this here. Copy it. And
+[00:06:25] we're just going to paste it into its
+[00:06:26] own document, which is now 20 pages
+[00:06:28] long. And we're going to call this OP
+[00:06:31] research. All righty. So, we got all
+[00:06:33] four of our foundational documents
+[00:06:34] created here. The research document,
+[00:06:36] avatar sheet, offer brief, as well as
+[00:06:38] the necessary beliefs document. So, we
+[00:06:40] are ready to finally finally write some
+[00:06:42] [ __ ] copy. And for that, we're going
+[00:06:44] to head over to claude.ai. Now, standard
+[00:06:47] rule of thumb for me personally at least
+[00:06:48] is when it comes to writing copy, Claude
+[00:06:52] is king. I play around with this stuff
+[00:06:54] all the time, guys. Like all day, every
+[00:06:56] single day, I'm trying every new tool,
+[00:06:57] every rapper, every new LLM. Claude is
+[00:07:00] consistently one of the best at creative
+[00:07:02] forms of writing, which copywriting is a
+[00:07:04] creative act. So, I think that it's the
+[00:07:06] best option for copywriting as of right
+[00:07:07] now. Of course, you can build your own
+[00:07:09] custom solutions. That would be the only
+[00:07:10] thing that's maybe a little bit better,
+[00:07:11] but Claude is fantastic if you're just
+[00:07:12] starting out. However, what we're not
+[00:07:14] going to do is just start typing prompts
+[00:07:16] into Claude and expect to get amazing
+[00:07:17] results. Instead, we're going to create
+[00:07:19] a system where we can come in here and
+[00:07:20] write, let's say, an advvertorial in
+[00:07:22] this case over and over and over again
+[00:07:24] without having to prompt it a million
+[00:07:26] times. And so, Claude has this thing
+[00:07:27] called projects that is basically the
+[00:07:29] anthropic equivalent of a custom GPT.
+[00:07:32] So, this is a kind of custom database
+[00:07:35] where you can give a particular custom
+[00:07:37] LLM set of instructions and a set of
+[00:07:40] resources and a knowledge base. So, what
+[00:07:42] we're going to do is go up and hit new
+[00:07:43] project. You can name this whatever you
+[00:07:45] want. Uh oh, misspelled it. God, that's
+[00:07:47] embarrassing. Um, all right, cool. Now,
+[00:07:49] let's move on to the next one.
+[00:07:53] Now, what we're going to do, just going
+[00:07:54] to go into set project instructions. And
+[00:07:57] once again, I'll make sure that I put
+[00:07:58] this somewhere in the description, but
+[00:08:00] you're going to paste that right there.
+[00:08:01] And go ahead and hit save instructions.
+[00:08:03] The only thing you need to edit here is
+[00:08:04] the actual names of your files. So, I
+[00:08:06] named all mine exactly like this. So,
+[00:08:08] just go through and adjust names if need
+[00:08:09] be. And then the other thing we're going
+[00:08:11] to do, go up to the righthand corner of
+[00:08:12] project knowledge and you're going to
+[00:08:14] hit this little plus button and then hit
+[00:08:16] upload from device. And what I'm going
+[00:08:17] to do here to begin is I'm going to
+[00:08:19] upload those four foundational
+[00:08:21] documents, right? The research,
+[00:08:22] necessary beliefs, offer brief, and
+[00:08:24] avatar sheet. As you can see, those are
+[00:08:26] all loaded in there. Beautiful. I love
+[00:08:29] it. Now, the only other thing I'm going
+[00:08:30] to load in here is just a metric
+[00:08:32] shitload of swipes. specifically swipes
+[00:08:35] around advertorials because this project
+[00:08:37] that I created here is an advvertorial
+[00:08:40] writing custom claw project. Wow, that
+[00:08:42] was a mouthful, but that's essentially
+[00:08:44] what it is, right? It's very specific to
+[00:08:45] advvertorials, not to ad copy, not to
+[00:08:47] anything else. For now, it's just going
+[00:08:49] to be an advvertorial writing machine.
+[00:08:51] All right, so let me go ahead and load
+[00:08:53] in those swipes. Now, since we already
+[00:08:54] loaded so much knowledge and so much
+[00:08:57] background research into this cla
+[00:08:59] project, the prompting is super duper
+[00:09:00] simple. I can talk to it just like it's
+[00:09:02] a standard human being almost like an
+[00:09:04] employee and just say hey I want you to
+[00:09:05] write you know a few different outlines
+[00:09:07] for advvertorials. So in this case all I
+[00:09:09] said is please come up with a list of
+[00:09:10] five different advtorial outlines for my
+[00:09:12] brand flow that sells gummies to help
+[00:09:13] women's BMS. And once again super super
+[00:09:15] basic prompting right like that's
+[00:09:17] because we already did all the hard work
+[00:09:19] of creating the project in the first
+[00:09:20] place. As you can see now it's searching
+[00:09:22] through our project database our
+[00:09:23] knowledge base to identify the best
+[00:09:25] potential angles that would resonate
+[00:09:26] with the research that we did. Now, if I
+[00:09:28] wanted to take this a step further, what
+[00:09:30] I would do is I would actually go and
+[00:09:32] start spying on O Positive or Flow in
+[00:09:34] this case, and go look at their top ads.
+[00:09:36] A lot of times, you'll see that their
+[00:09:37] top ads have one specific thing in
+[00:09:38] common, specifically one angle. Once you
+[00:09:40] identify the angle, I'll come back here
+[00:09:42] and say, "Please come up with a list of
+[00:09:43] five different advtorial outline
+[00:09:44] specifically around the angle of XYZ."
+[00:09:47] That's what I would say because that's
+[00:09:48] going to give you the best chance of
+[00:09:50] success when it comes to writing this
+[00:09:52] new advtorial cuz Claude is going to
+[00:09:53] write a great advtorial here regardless.
+[00:09:55] Now whether it resonates with the market
+[00:09:57] in the specific angle that's already
+[00:09:58] proven to convert and is destroying for
+[00:10:00] this other company that's up to you. So
+[00:10:02] you have to go and analyze this brand
+[00:10:04] and understand why are they actually
+[00:10:05] successful and then take that knowledge
+[00:10:07] into AI because AI is a tool. It's not
+[00:10:09] going to replace you at least not yet.
+[00:10:11] It will in the future and it'll be a lot
+[00:10:13] better than you cuz you suck.
+[00:10:16] [Laughter]
+[00:10:20] Uh so the first prompt that I sent here
+[00:10:22] once again so freaking simple, right?
+[00:10:24] But I said, can you come up with a list
+[00:10:25] of five different headlines, each for a
+[00:10:26] new advvertorial? Now, what I'm going to
+[00:10:28] do is identify the top performing or the
+[00:10:30] top headline that I like the most. Have
+[00:10:32] it write an outline surrounding that
+[00:10:34] particular headline and then have it
+[00:10:35] write the entire advvertorial start to
+[00:10:37] finish. Right? So, let's go through
+[00:10:38] these examples here. Number one,
+[00:10:39] Harvard's Women Health Researcher
+[00:10:40] exposes the real reason 75% of women
+[00:10:42] suffer from PMS and the ancient
+[00:10:43] solution, big pharma hopes you never
+[00:10:45] find. I actually like that one quite a
+[00:10:47] bit. That one's going to be pretty hard
+[00:10:48] to beat. Number two, my PMS rage ended
+[00:10:50] my engagement until I discovered this
+[00:10:52] 500-year-old European secret. Okay, it's
+[00:10:54] okay. What high achieving women are
+[00:10:55] secretly using is hormonal thermostat.
+[00:10:57] Oh, wow. I love that. I love that unique
+[00:10:59] mechanism. Stop PMS from sabotaging
+[00:11:01] their success. Tik Tok viral PMS hack
+[00:11:03] that's making gynecologist furious. This
+[00:11:05] one is pretty good, too, actually. Man,
+[00:11:07] I've created a monster. Speaking of
+[00:11:08] monsters, the PMS monster finally has a
+[00:11:10] match. Meet the four ingredient formula
+[00:11:12] that's giving women their lives back.
+[00:11:13] So, this one is obviously going to be a
+[00:11:14] much more product aare advtorial
+[00:11:16] compared to something else. I personally
+[00:11:18] like going like the really high high tam
+[00:11:22] high emotional channel all that emotion
+[00:11:24] into the product instead of starting
+[00:11:26] with the product in the actual headline.
+[00:11:28] So for that reason, let's go ahead and
+[00:11:30] rock with number one, right? So let's
+[00:11:32] prompt claude again. So for this prompt,
+[00:11:34] once again, do not overthink it. You did
+[00:11:36] the hard work already with building the
+[00:11:37] project. All I said was go ahead and
+[00:11:38] write a full outline for an advator.
+[00:11:40] With this headline, I just chose the one
+[00:11:41] that I like the most. So now we have an
+[00:11:43] outline. I like doing the outlines
+[00:11:44] before actually, you know, writing the
+[00:11:47] entire thing start to finish because if
+[00:11:49] there's something you don't like about
+[00:11:50] the structure, then you can fix it there
+[00:11:52] instead of having to, you know, rewrite
+[00:11:53] the whole thing again and again and
+[00:11:55] again. All right, so I'm pretty happy
+[00:11:56] with the outline. I'm just going to tell
+[00:11:58] to write the full advator. Let's see
+[00:11:59] what it does. All righty. So, we got the
+[00:12:01] full advator done here. Now, is this
+[00:12:03] ready to run 100% without any editing
+[00:12:05] whatsoever, without any chiefing at all?
+[00:12:07] No, of course not. God damn it. Don't
+[00:12:09] you learn anything from watching my
+[00:12:10] channel? You got to go through and chief
+[00:12:12] this copy. And if you guys want a full
+[00:12:14] video on that, you can let me know. By
+[00:12:15] the way, I decided to do something
+[00:12:17] really special for the people that are
+[00:12:18] still watching up until this point. I
+[00:12:20] put together a video that shows you how
+[00:12:21] to take this text. Like, let's say this
+[00:12:23] aviator is perfect, good to go, and
+[00:12:25] actually turn it into a live landing
+[00:12:26] page using 100% AI. You don't have to
+[00:12:28] know anything about coding or building
+[00:12:30] landing pages or using any Shopify apps.
+[00:12:32] We'll build everything completely from
+[00:12:33] scratch and it looks good and it works.
+[00:12:35] If you want that video, go DM me the
+[00:12:37] word secret sauce on IG and I'll send it
+[00:12:40] to you. But keep it between you and me.
+[00:12:42] All right. All righty. Now, at that
+[00:12:43] point, we have the product. We have now
+[00:12:46] created the funnel. Now, we only created
+[00:12:48] one step in the funnel, but you're just
+[00:12:49] going to rinse and repeat that exact
+[00:12:50] same process for the sales page, for the
+[00:12:52] order page, for any other pages or any
+[00:12:54] other copy, honestly, that you write.
+[00:12:56] The only step that we have left now is,
+[00:12:58] of course, the ads. And ironically, this
+[00:13:01] is the most important piece of all. And
+[00:13:02] what I'm going to do is I'm actually
+[00:13:04] going to start testing my ads with
+[00:13:06] static ads, with image ads, because it's
+[00:13:08] a very costefficient, lean way to test.
+[00:13:11] You often times reduce your CPMs when
+[00:13:13] you're testing with statics compared to
+[00:13:15] videos, and you can identify the winning
+[00:13:17] angle faster than you can with something
+[00:13:19] like a VSSL, right? So, what I use to
+[00:13:21] create my image ads is Sora run through
+[00:13:25] ChateBT. So, what we're actually going
+[00:13:26] to do first is I'm going to load in all
+[00:13:28] my foundational documents. Now to begin,
+[00:13:31] all we're going to do is send over all
+[00:13:33] of our foundational documents. Just say,
+[00:13:34] "Hey, analyze these and let me know your
+[00:13:36] thoughts." This is literally just to
+[00:13:38] give this particular chatb window
+[00:13:40] context around our particular offer,
+[00:13:42] around our research, around the
+[00:13:43] psychological triggers that are
+[00:13:45] associated with our market. Now, for the
+[00:13:46] next step, I want to find a successful
+[00:13:49] ad, specifically a successful image ad
+[00:13:51] that I can model for my own brand. Cuz
+[00:13:53] you never want to reinvent the wheel.
+[00:13:54] You want to take your research and
+[00:13:56] associate that with a proven image ad
+[00:13:58] format that is working for other brands.
+[00:14:00] So the perfect way to do that is to go
+[00:14:02] to trusty dusty gheth hooked.ai link in
+[00:14:05] the description. And what you can do
+[00:14:08] here is my whole purpose is really to
+[00:14:10] find a winning image ad for another
+[00:14:12] brand and then recreate it based off my
+[00:14:15] brand. So, what we're going to do over
+[00:14:16] on the lefth hand side, go to
+[00:14:17] performance, select four and five stars,
+[00:14:19] go to ad format, select image, and then
+[00:14:21] under static ad style, you can use just
+[00:14:23] about any one of these specific static
+[00:14:25] ad styles, or you can just go without
+[00:14:27] any direction whatsoever. Let's just say
+[00:14:29] you wanted to run before and afters. I
+[00:14:30] don't recommend before and afters. Great
+[00:14:32] way to get your ad account banned, but
+[00:14:33] obviously some people are using it
+[00:14:35] successfully, right? So, with that said,
+[00:14:37] let's find a good example that we want
+[00:14:39] to model. Keep in mind that the product
+[00:14:41] I'm selling here, this low product, is
+[00:14:43] specifically for women struggling with
+[00:14:44] PMS. So, I need something that is very
+[00:14:47] clear that it has to do with PMS
+[00:14:50] specifically. So, let's say I really
+[00:14:52] love this particular static ad here and
+[00:14:54] I wanted to test it for my own brand
+[00:14:56] instead. So, what we're going to do is
+[00:14:57] going to click here, right where it says
+[00:14:59] download media. It's going to download
+[00:15:00] that particular image. Let's go back
+[00:15:01] into our chatbt window and upload that
+[00:15:04] image. Now, what I did here in the
+[00:15:05] prompting is I basically wanted to draw
+[00:15:07] out of this image all the text and then
+[00:15:09] have chatbt rewrite what the text should
+[00:15:12] be along with a prompt for how to create
+[00:15:13] the entire image. Right? So, you can
+[00:15:15] copy this prompt if you want. Pause the
+[00:15:17] video and do it. All that I have now is
+[00:15:18] a prompt that looks a little something
+[00:15:20] like this. And I'm going to upload the
+[00:15:22] example once again as a, you know, kind
+[00:15:24] of a swipe. Go to tools, hit create an
+[00:15:26] image. And now we're going to go ahead
+[00:15:28] and hit enter and see what the hell
+[00:15:30] happens. Now, while that particular
+[00:15:31] image is loading, what I like to do as
+[00:15:33] well, I can't load up my account right
+[00:15:35] now, or else I'd expose all my my
+[00:15:37] product images, but I highly recommend
+[00:15:39] going to sora.chipt.com
+[00:15:42] and you can actually get multiple images
+[00:15:44] created at once. I go four images at one
+[00:15:47] time so you can see specific variations
+[00:15:48] all the time. You can still make those
+[00:15:50] adjustments. For now, we're just rocking
+[00:15:51] with a basic chatbt window, but sorry,
+[00:15:54] you can get you can kind of iterate a
+[00:15:56] lot faster because it's just creating
+[00:15:57] more generations. Little fun fact, while
+[00:15:59] this image ad is being created, this new
+[00:16:01] model from Chatbt for image generation
+[00:16:03] is the first model to ever create images
+[00:16:06] pixel by pixel. That's why it's so
+[00:16:08] freaking good. And even the text is not
+[00:16:10] messed up. Hopefully, I didn't jinx it.
+[00:16:11] Nope, the text looks perfect. But yeah,
+[00:16:13] it's the first model that really does
+[00:16:14] that. So, let's take a look. This is our
+[00:16:15] creative that we have right now. And if
+[00:16:17] you really didn't know that this was
+[00:16:19] created with AI, you would think that
+[00:16:20] this was probably some professional
+[00:16:22] graphic designer, but we just modeled
+[00:16:23] the exact winning version that we had
+[00:16:25] over here. It took the specific color
+[00:16:27] palette. It took the specific copy that
+[00:16:29] I had it right. The only thing that's
+[00:16:30] not perfect, I think, I haven't actually
+[00:16:32] checked, is going to be obviously the
+[00:16:33] style of the branding on the package.
+[00:16:34] But that's a very simple fix. I'll just
+[00:16:36] download this, send it right back to
+[00:16:37] Chad GBT, and then reprompt it with
+[00:16:40] specifically a mockup of the product and
+[00:16:42] nothing else, and it'll replace it with
+[00:16:43] with zero issues whatsoever. But as you
+[00:16:45] can see, like zero issues with the text.
+[00:16:47] Every once in a while there's issues
+[00:16:48] with text. It's very simple fix. You
+[00:16:50] just have to reprompt it. And another
+[00:16:52] little tip for image generation, if you
+[00:16:54] have a window that's like super duper
+[00:16:55] long, you're only going to get worse and
+[00:16:57] worse responses, right? You have to
+[00:16:59] understand the context window associated
+[00:17:01] with LLMs. For chatbt40, I believe the
+[00:17:03] context window is like 128,000 or
+[00:17:06] 200,000. I can't remember exactly. It's
+[00:17:08] around that range. And so the longer
+[00:17:10] that the window goes, it doesn't mean
+[00:17:11] you're going to get better and better
+[00:17:12] responses. Usually it means you're going
+[00:17:13] to get worse and worse responses because
+[00:17:15] you've already surpassed the context
+[00:17:17] window. And I can't take context of
+[00:17:18] everything from A to Z, right? But look,
+[00:17:21] just like that, we got the product, we
+[00:17:22] got the funnel, and we got the ads. And
+[00:17:25] guys, I'm telling you, this is basically
+[00:17:26] the exact process that I use to scale. I
+[00:17:28] mean, we just scaled a new brand from 0
+[00:17:30] to 10k a day using this exact process.
+[00:17:32] And so, if you're one of those people
+[00:17:33] that's like not taking AI seriously, I
+[00:17:36] didn't even get into Agentics. This is
+[00:17:38] still like level one [ __ ] This is just
+[00:17:40] using specific LLM for specific purposes
+[00:17:43] and being not a total [ __ ] about it.
+[00:17:45] But if you actually understand a Gentex
+[00:17:47] and you start to automate this process
+[00:17:49] with AI agents, then [ __ ] starts to get
+[00:17:51] really, really interesting. And if you
+[00:17:53] like all this AI stuff and applying it
+[00:17:55] to e-commerce specifically, I do have a
+[00:17:57] mentorship program that I own with my
+[00:17:59] partner, Alex. And if you want to be a
+[00:18:01] part of it and you want to learn from me
+[00:18:02] a little bit closer, you can click the
+[00:18:04] first link in the description and fill
+[00:18:05] out an application for that. The reason
+[00:18:07] we have an application and we don't just
+[00:18:08] like have, you know, a course link or
+[00:18:10] something is because we really care
+[00:18:11] about the people that are coming in the
+[00:18:12] program. We have your best interest in
+[00:18:14] mind. And if you're serious, we'll be
+[00:18:16] serious, too. But we don't allow
+[00:18:17] everybody in for that reason. So, if you
+[00:18:18] are serious and you have some capital
+[00:18:20] set aside, cuz obviously it's not free,
+[00:18:21] you can click the first thing in the
+[00:18:22] description, fill out an application,
+[00:18:23] see if you're a good fit. Other than
+[00:18:24] that, y'all be legendary and I'll talk
+[00:18:26] to you'all soon. Peace.

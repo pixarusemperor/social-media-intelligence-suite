@@ -1,0 +1,545 @@
+# i asked claude to build me a $5k/day website (it worked lol)
+URL: https://www.youtube.com/watch?v=r3Ozh7EtoEw
+Category: video
+Duration: 981s
+Published: 20260417
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be showing you how I asked
+[00:00:03] Claude to build me a 5K per day website
+[00:00:06] and it actually worked. As you can see
+[00:00:07] here, scaled from zero to over $5,000
+[00:00:10] per day in revenue in 5 days or so. And
+[00:00:14] the cool part about all this is this is
+[00:00:15] actually pretty simple and I'm going to
+[00:00:16] show you how to do it in this video.
+[00:00:17] Now, I've noticed there's a lot of these
+[00:00:19] videos out on the internet about how to
+[00:00:21] make these landing pages with Claude or
+[00:00:23] Claude code and truthfully, most of them
+[00:00:26] create beautiful websites that convert
+[00:00:27] nobody. And in this video, I'm actually
+[00:00:29] going to show you how to build websites
+[00:00:31] that are designed to make you money. As
+[00:00:32] I said, it's a simple process. The first
+[00:00:34] thing we're going to do is get a swipe,
+[00:00:36] which is just a landing page that you
+[00:00:37] want to emulate for inspiration. Second,
+[00:00:39] I'm going to show you how to write the
+[00:00:40] copy, which is the most important part
+[00:00:43] of the entire page, by the way, because
+[00:00:45] like those beautiful pages, just cuz
+[00:00:46] something is aesthetic doesn't mean it's
+[00:00:47] going to convert, right? The saying
+[00:00:49] goes, "Ugly landers equals pretty
+[00:00:51] profits." After that, I'm going to show
+[00:00:52] you how to create the images all using
+[00:00:54] AI and then go and actually design that
+[00:00:57] page that looks exactly how you want it.
+[00:00:58] Then, we will cheat the entire page,
+[00:01:00] which is a fancy way to say we're going
+[00:01:01] to review it. Then finally, we're
+[00:01:03] actually going to deploy it live so that
+[00:01:04] we can start running traffic to it,
+[00:01:06] whether that's paid traffic, free
+[00:01:07] traffic, doesn't matter. Now, swiping is
+[00:01:09] the simplest step, whether you're going
+[00:01:10] to be looking on the Facebook Ads
+[00:01:11] Library, you know, Get Hooked, whatever
+[00:01:13] your competitors. Just go to one of your
+[00:01:15] competitors' landing pages, download it
+[00:01:16] as a PDF or if you want to start from
+[00:01:19] scratch, you can also do that. You just
+[00:01:20] have to fill in a few steps here and
+[00:01:21] there. But this is just a great way to
+[00:01:23] get started and it's so simple to do. I
+[00:01:24] don't even have to show you how to do
+[00:01:26] it. You probably have one in mind
+[00:01:27] already. Now, moving on to step two,
+[00:01:28] this is all about the copy, which is the
+[00:01:31] words that are designed to persuade
+[00:01:33] people to take an action on your
+[00:01:34] website, whether that's fill out a lead
+[00:01:35] form, make a purchase, or convert
+[00:01:38] somebody in some way, shape, or form.
+[00:01:39] Any phenomenal copywriter in history
+[00:01:42] will tell you that the majority of the
+[00:01:43] money is made in the research. And the
+[00:01:46] funny part is research used to be
+[00:01:48] something that you had to conduct
+[00:01:49] manually. You used to have to go on
+[00:01:51] forums, Facebook groups, Reddit threads,
+[00:01:53] and just take heaps of notes. And it was
+[00:01:56] basically the copywriter that can have
+[00:01:57] the best research often times was the
+[00:01:59] copywriter that would make the most
+[00:02:01] money with their offers. But now AI can
+[00:02:02] do all of that for you. And I built a
+[00:02:04] full process for this that you can steal
+[00:02:06] directly from me for free. And that
+[00:02:07] process is of course my legendary
+[00:02:09] foundational docs SOP. If you want
+[00:02:11] access to this document, I'll leave it
+[00:02:13] the second link in the description. You
+[00:02:15] can go get it for free. Basically, it's
+[00:02:16] going to walk you through how to get
+[00:02:18] deep psychological and emotional pains
+[00:02:21] from your customers so that you can use
+[00:02:22] that in your copy to get them to convert
+[00:02:24] cuz we all know humans are emotional
+[00:02:25] creatures, right? We buy based off of
+[00:02:27] emotion and then we justify it with
+[00:02:29] logic. But that entire research step is
+[00:02:31] is handled for you because AI will go
+[00:02:32] and scrape all these websites for you so
+[00:02:34] that you have the best research as
+[00:02:35] humanly possible. Once you have those
+[00:02:37] four foundational docs, now it's time to
+[00:02:38] actually write, which you guessed it,
+[00:02:40] we're going to be using Claude for
+[00:02:42] writing all this copy. So let's do it.
+[00:02:43] So here we are in Claude. I'm going to
+[00:02:45] begin by uploading all my foundational
+[00:02:46] docs. And for the model, I prefer Opus.
+[00:02:49] And as of today, me filming this, Opus
+[00:02:51] 4.7 has recently dropped. So ultimately,
+[00:02:54] the difference between Opus and Sonnet
+[00:02:55] for this particular purpose it's not
+[00:02:57] going to be that substantial. I'll keep
+[00:02:59] Sonnet on just for simplicity purposes.
+[00:03:01] Next, I'm going to paste in this lovely
+[00:03:02] prompt. By the way, if you want all the
+[00:03:04] prompts that are associated with this
+[00:03:06] video and all the resources, just go to
+[00:03:08] my Instagram. It's @markbuildsbrands and
+[00:03:10] DM me the word "lander" and I'll send it
+[00:03:12] over to you. And now we hit enter. So
+[00:03:14] Claude just finished up. That step is
+[00:03:15] literally just to give context for all
+[00:03:18] of the research that we just conducted
+[00:03:19] so that Claude is able to use that
+[00:03:21] context to actually write the copy. And
+[00:03:22] now that it has a context, we're now
+[00:03:24] going to upload a PDF of a swipe, which
+[00:03:27] is that, you know, landing page that
+[00:03:29] we're trying to emulate along with this
+[00:03:30] prompt and hit enter. All right, so that
+[00:03:32] prompt is finished up. What that prompt
+[00:03:34] did is basically analyze why that
+[00:03:37] landing page, that swipe, was actually
+[00:03:39] successful so that we can reverse
+[00:03:40] engineer it for ourselves. But we
+[00:03:41] haven't written anything yet. That is
+[00:03:43] what this next prompt is for to actually
+[00:03:45] take all of that context now, the
+[00:03:47] competitor, all of our foundational
+[00:03:48] docs, and use it to rewrite and actually
+[00:03:51] write the copy for this lander. And
+[00:03:53] boom, just like that, we got all the
+[00:03:54] copy already written. And Claude
+[00:03:57] [clears throat] is so stinking smart
+[00:03:58] that it actually decided to go ahead and
+[00:04:00] create the landing page already. It's a
+[00:04:01] little premature. Right now, we just got
+[00:04:03] the copy, so let's check that off our
+[00:04:05] list. Boom. Now, before we look at what
+[00:04:07] Claude actually created that whole
+[00:04:09] lander, let's work on the images because
+[00:04:11] any landing page is literally just copy,
+[00:04:13] images, and a bunch of stylistic
+[00:04:15] elements to actually give that page its
+[00:04:17] aesthetic design. Now, here's the thing
+[00:04:19] about creating images, okay? Most people
+[00:04:21] are so unintentional about the images
+[00:04:24] that they are creating on their landing
+[00:04:26] page. They just think, "Oh, let me just
+[00:04:28] throw up some good-looking product
+[00:04:29] photos, some lifestyle photos, and just
+[00:04:32] pray to the gods that it's actually
+[00:04:34] going to work and be profitable." No,
+[00:04:36] every image should serve a purpose. It
+[00:04:38] truthfully should do one of two things.
+[00:04:40] The first thing is it should install a
+[00:04:42] belief, okay? Because we all know that
+[00:04:45] marketing is literally just belief
+[00:04:47] change work, which means your customers
+[00:04:48] or potential customers come into your
+[00:04:50] business, see your landing page with a
+[00:04:51] very specific set of beliefs. Just like
+[00:04:53] you have a set of beliefs about the
+[00:04:54] world, I have a set of beliefs about the
+[00:04:56] world, so does your customer. Your job
+[00:04:58] is to either install an empowering
+[00:05:01] belief that aligns with the belief
+[00:05:02] that's needed to purchase your product
+[00:05:04] or remove a limiting belief that is
+[00:05:07] keeping them from purchasing. So, that's
+[00:05:09] one thing that your images should
+[00:05:11] potentially do. And the other thing is,
+[00:05:12] of course, your images should be
+[00:05:14] designed to remove objections. A lot of
+[00:05:16] people think that selling stuff online
+[00:05:19] is all about like adding. Like, how can
+[00:05:21] I give the customer as much information
+[00:05:22] as I possibly can? Really, it's about
+[00:05:24] removing as much resistance between the
+[00:05:26] customer where they're at right now and
+[00:05:27] them actually buying the product. And
+[00:05:29] that's what removing objections really
+[00:05:30] does. So, every image that you create
+[00:05:32] should be very tactical. It should be
+[00:05:33] very purposeful so that even though in
+[00:05:36] their mind they're just seeing an image,
+[00:05:37] you're actually moving them one step
+[00:05:38] closer to the sale. Now, for our image
+[00:05:40] generation, we're going to be using Nano
+[00:05:42] Banana Pro specifically within Higgs
+[00:05:44] Field because it's just so efficient.
+[00:05:46] You can create many photos very quickly.
+[00:05:48] But first, we have to actually create
+[00:05:49] the prompts to get those images the way
+[00:05:51] that we want them to. Again, if you want
+[00:05:53] access to all these resources, just DM
+[00:05:55] me on Instagram the word "lander". I'll
+[00:05:57] send it. So, once again, we are going to
+[00:05:58] attach all of our foundational docs,
+[00:06:00] boom, along with this prompt as well.
+[00:06:03] Once again, sauna 4.6 is just fine for
+[00:06:05] these purposes. All right, and just like
+[00:06:06] that, we already got our first prompt
+[00:06:09] here that actually matches the copy. So,
+[00:06:11] not only should the images be
+[00:06:12] purposeful, but they obviously should
+[00:06:13] also be matching the copy. And so, in
+[00:06:15] this page that I'm building, which is
+[00:06:17] actually a listical, which is a format
+[00:06:19] of a pre-sales page, this one is
+[00:06:21] specifically going to be matching the
+[00:06:22] point that lotion was never designed to
+[00:06:24] make skin beautiful as if I was selling
+[00:06:26] a skin care product. So, I'm going to
+[00:06:28] copy this entire prompt right here and
+[00:06:30] paste that right into Higgsfield. All
+[00:06:32] right, so I'm here in Higgsfield. I
+[00:06:33] don't think you can see the full bar cuz
+[00:06:35] my fat [ __ ] face is in the way, but
+[00:06:37] I'm going to paste this prompt directly
+[00:06:39] along with a PNG of my product and hit
+[00:06:42] enter. The settings I have selected is
+[00:06:43] Nano Banana Pro, 9 by 16 aspect ratio.
+[00:06:47] Let's get it. All right, just like that,
+[00:06:48] we got our first image created right
+[00:06:50] here. You can see prompt was entered
+[00:06:52] here. We have a nice little before and
+[00:06:54] after of, you know, the product actually
+[00:06:57] in use or the difference between lotion
+[00:06:59] and the product that we're selling here.
+[00:07:01] And this is good to go. There's
+[00:07:02] literally nothing to change here. And
+[00:07:03] the cool part is anytime you're on
+[00:07:05] Higgsfield, you can create multiple
+[00:07:06] variations and just choose the one that
+[00:07:08] you like the best. You don't have to
+[00:07:09] wait like minutes for every single
+[00:07:10] variation. They're all delivered at
+[00:07:12] once, which is really convenient. So,
+[00:07:13] I'm going to repeat this process for the
+[00:07:15] rest of the images on the lander, and we
+[00:07:17] are going to cross off the images step.
+[00:07:19] Boom. All right, and on that note, we
+[00:07:21] can now move on to the design step,
+[00:07:23] which is actually making the page look
+[00:07:25] like the swipe that we sent it. So, as I
+[00:07:27] mentioned previously, Claude got a
+[00:07:29] little ahead of itself and decided to
+[00:07:30] already create kind of the V1 of the
+[00:07:33] landing page. So, I'm going to give it a
+[00:07:34] little bit of feedback. But if that
+[00:07:36] didn't happen to you, just move simple
+[00:07:38] prompt after you got the copy to say,
+[00:07:39] "Now I want you to actually design this
+[00:07:41] page based off of the swipe that I sent
+[00:07:43] previously. Alrighty, and here we go. We
+[00:07:44] officially got V1 of this landing page
+[00:07:46] done, this lovely listicle. Don't expect
+[00:07:48] it to be perfect on the very first go.
+[00:07:50] I'm going to give it a little bit of
+[00:07:51] feedback. That's literally why I have a
+[00:07:53] step in this process called the chiefing
+[00:07:54] because we're going to go through and
+[00:07:56] adjust everything that we don't like
+[00:07:57] about this. Maybe there's a few bits of
+[00:07:59] copy that we don't like, some stylistic
+[00:08:01] changes that need adjusting, things like
+[00:08:03] that. So, one thing that I did is I sent
+[00:08:05] in the first image that I created, but I
+[00:08:08] didn't send any others because I wanted
+[00:08:09] to make sure that overall the copy was
+[00:08:11] in the right place and everything
+[00:08:14] generally is in place before I give it
+[00:08:16] more feedback. You don't want to like
+[00:08:17] micromanage Claude during this specific
+[00:08:21] step of the process. Right now, we're
+[00:08:22] just trying to get all the pieces in
+[00:08:24] place and then when we get to the
+[00:08:26] chiefing step, we can really fine-tune
+[00:08:28] everything. So, the next step on this
+[00:08:29] process is to enter in all the rest of
+[00:08:32] the images so that they can be filled in
+[00:08:33] properly on the landing page. You need
+[00:08:35] to give a little bit of guidance here.
+[00:08:36] Sometimes it helps to go like image by
+[00:08:38] image. Like, this image goes here, this
+[00:08:40] image goes here, and do it one
+[00:08:41] individual message. I like to [ __ ]
+[00:08:43] Chad ramp [ __ ] So, I sent all the
+[00:08:44] messages and I said the exact places
+[00:08:47] that each one should be, and Claude got
+[00:08:48] it perfectly, actually. It worked out
+[00:08:50] very, very well. All right, here we are
+[00:08:51] on V2 of the lander after Claude
+[00:08:53] finished cooking, and overall everything
+[00:08:55] structurally looks pretty good. The
+[00:08:57] images are all in the right place. It
+[00:08:59] has that standard listicle format of,
+[00:09:01] you know, image, headline, text
+[00:09:03] underneath that, and it continues to
+[00:09:04] repeat that process all throughout the
+[00:09:06] lander. And then all the way down at the
+[00:09:07] bottom, we actually have product card
+[00:09:09] here as well. Is it perfect? No, but I
+[00:09:11] would say at this point it's probably
+[00:09:13] roughly 80% of the way. And one thing I
+[00:09:16] briefly skipped over in regards to the
+[00:09:17] design is how do you actually get a
+[00:09:19] lander to look like yours and not like a
+[00:09:22] competitor? Well, you have to have your
+[00:09:24] own branding kit that you create that
+[00:09:26] you send into Claude so it generally
+[00:09:27] knows what is your color scheme, your
+[00:09:29] color palette, what typography do you
+[00:09:31] use, what does your brand generally
+[00:09:33] stand for, what is the feeling that
+[00:09:34] you're trying to evoke. And so I have a
+[00:09:36] really cool solution for that. You can
+[00:09:38] go to a website called Firecrawl, and if
+[00:09:41] you want to create your brand kit
+[00:09:42] yourself, you know, you can. This
+[00:09:43] process is super duper fast. Check this
+[00:09:45] out. All right, so we're here inside of
+[00:09:46] Firecrawl. We're going to go to the
+[00:09:48] left-hand side and select scrape a
+[00:09:50] webpage. And what you can do here is
+[00:09:52] enter your brand directly if you already
+[00:09:54] have a brand. If you don't, then you can
+[00:09:56] use the branding of another brand to
+[00:09:58] kind of guide what you want your page to
+[00:10:00] look like. So let's say I was selling
+[00:10:01] this nootropic supplement, and I'm just
+[00:10:03] going to take that URL. I'm going to
+[00:10:04] paste it right here, and under format
+[00:10:06] I'm going to select branding and select
+[00:10:08] start scraping. Now you can scroll down
+[00:10:10] to where it says branding, and you are
+[00:10:12] going to copy as JSON. But as you can
+[00:10:15] see, what it did here is basically
+[00:10:16] scraped all the branding information
+[00:10:18] that it possibly could from this Lander.
+[00:10:20] So you can go directly in Claude with
+[00:10:21] this information, paste it in, and say,
+[00:10:23] "This is my branding kit. I want you to
+[00:10:25] adjust the landing page that I have
+[00:10:27] created so that it matches this branding
+[00:10:28] kit right here." I already did this
+[00:10:30] step, but in the case that you don't
+[00:10:31] have this, Firecrawl is a super cool
+[00:10:33] tool that you can use. Not affiliated,
+[00:10:35] just happen to think it's a cool tool.
+[00:10:36] All righty, so now that we kind of got
+[00:10:38] the not the final draft, but we are very
+[00:10:40] close at this point in regards to this
+[00:10:42] listicle. I still have a little bit of
+[00:10:44] feedback here. So the design step at
+[00:10:46] this point is mostly done, and now we
+[00:10:48] move on to chiefing. Chiefing is
+[00:10:50] actually a term specifically for
+[00:10:52] copywriting where you continually reread
+[00:10:55] your copy so that it flows very very
+[00:10:57] smooth, right? There's the analogy of
+[00:10:59] the greased up slide, which is that when
+[00:11:01] you're reading copy, nothing should feel
+[00:11:03] like a big bump in the slide where if
+[00:11:05] you're going down it, you just get
+[00:11:06] freaking launched off. It should be
+[00:11:07] super smooth the entire way down. And
+[00:11:09] the best way to do that is literally to
+[00:11:11] read it out loud continually. Like with
+[00:11:13] when I'm writing copy, I'll read it out
+[00:11:14] loud five to seven times until I'm
+[00:11:17] genuinely happy with what I have. And
+[00:11:19] each time you read through, you'll
+[00:11:20] notice these small little chunks or
+[00:11:22] pieces that just kind of stop you up a
+[00:11:23] little bit. So that's regards to the
+[00:11:25] copy, but you should do the same thing
+[00:11:27] in regards to the aesthetic design of
+[00:11:28] the page. So for example, I hate the
+[00:11:30] fact that there isn't proper
+[00:11:32] capitalization here. Anytime I'm writing
+[00:11:33] a headline, I always do proper caps. And
+[00:11:36] what's funny is these sub-headlines are
+[00:11:38] all fully capped.
+[00:11:40] >> [laughter]
+[00:11:40] >> It's all auto caps, which I also hate.
+[00:11:42] Anytime you're building something where
+[00:11:43] the the objective is to convert people,
+[00:11:45] simplicity is king, which means you want
+[00:11:48] to make your copy, the structure, the
+[00:11:50] design so incredibly easily readable and
+[00:11:54] so incredibly clear because that means
+[00:11:56] you get more consumption, which means
+[00:11:57] you move the sales process further, you
+[00:12:00] convert more people, you make more
+[00:12:01] money. So, I don't like that. That's
+[00:12:02] another piece of feedback I'm going to
+[00:12:04] give. And I also don't like how there's
+[00:12:06] this and then also this. Like this seems
+[00:12:08] super redundant. Like this, this, and
+[00:12:10] this all on the same page seems very,
+[00:12:12] very redundant. I want that removed
+[00:12:13] along with a few other things. We need a
+[00:12:15] photo here. I'm going to adjust a little
+[00:12:16] bit of the copy cuz I'm not super duper
+[00:12:18] loving it. But ultimately, this process
+[00:12:20] should be specific to you. I have my own
+[00:12:22] process when it comes to chiefing
+[00:12:24] because I've been writing copy since
+[00:12:25] 2018, but everybody kind of does it
+[00:12:27] differently. The best practice, like I
+[00:12:29] said, is to legitimately read it out
+[00:12:31] loud yourself. All your copy should be
+[00:12:33] readable at absolute maximum eighth
+[00:12:36] grade level, ideally fifth grade or
+[00:12:38] below. That's another great way to chief
+[00:12:39] your copy. Throw it in something like
+[00:12:41] hemingwayapp.com, and you can see
+[00:12:43] generally what is the reading level of
+[00:12:45] what you just wrote. You want to keep it
+[00:12:46] simple. I promise. Keep it simple,
+[00:12:49] stupid [ __ ] okay? Alrighty, and here
+[00:12:51] we are with what is now our final
+[00:12:53] version of this lander. I am a total
+[00:12:56] perfectionist, so if this were me
+[00:12:57] actually running this my brand, there's
+[00:12:59] still some things that I would adjust,
+[00:13:01] but overall, I'm really liking how this
+[00:13:03] is flowing. So, let's say that this
+[00:13:04] lander at this point is good to go. You
+[00:13:06] can go back and forth as much as your
+[00:13:08] little heart desires, but for me, this
+[00:13:10] is good because another thing to keep in
+[00:13:12] mind is while I do love making all these
+[00:13:14] tiny little changes on landers, money
+[00:13:15] loves speed, and some of these things
+[00:13:17] are not going to make a massive
+[00:13:18] difference. But we can cross off the
+[00:13:20] chiefing step at this point, and now we
+[00:13:21] move on to the sixth and final step,
+[00:13:23] which is to actually deploy this lander
+[00:13:25] so that we can start running ads and
+[00:13:26] start having some fun. So, the truth is
+[00:13:29] there's a bunch of ways to do this. You
+[00:13:31] ultimately have the skeleton of a
+[00:13:34] landing page now, okay? You have all the
+[00:13:36] HTML right here, as you can see. You
+[00:13:39] have all the code. Where you want to
+[00:13:40] deploy this is your personal decision.
+[00:13:43] I'm going to tell you what I do. So, I
+[00:13:45] basically take my code and I upload it
+[00:13:47] privately to a GitHub, you know, private
+[00:13:50] repository and then I link GitHub with
+[00:13:53] Cloudflare. The reason I use Cloudflare
+[00:13:55] is because it is a freaking massive
+[00:13:57] company, powers like half the freaking
+[00:13:59] internet. It can be a little complex to
+[00:14:01] set up, but I'll show you how to do it
+[00:14:03] in just a second here. Another cool part
+[00:14:05] about this is that you can build pages
+[00:14:06] on Cloudflare for free. So, let's move
+[00:14:09] into the deployment step and you can see
+[00:14:11] exactly what I do. First thing we're
+[00:14:12] going to do right here, we're actually
+[00:14:13] going to download this entire HTML file.
+[00:14:16] Next, we're going to go into our GitHub
+[00:14:18] account here and next to top
+[00:14:19] repositories, we're going to select new.
+[00:14:21] Can name this whatever you want.
+[00:14:23] Description, once again, put whatever
+[00:14:24] you want and we are going to select
+[00:14:25] create repository. And now that we're
+[00:14:27] inside, if you see this little blue
+[00:14:29] hyperlinked thing right here, it says
+[00:14:31] uploading an existing file, we are going
+[00:14:33] to click and drag in this HTML file that
+[00:14:36] we just created. After that is uploaded,
+[00:14:38] you can select commit changes. We're
+[00:14:39] going to go to the settings tab, scroll
+[00:14:42] all the way down, repository visibility,
+[00:14:44] change visibility to private. All right,
+[00:14:46] next we're going to go to Cloudflare.
+[00:14:48] You can make a free account. I'm inside
+[00:14:49] of my account right here and to actually
+[00:14:52] turn this into a page, you're going to
+[00:14:53] go to this build section. Zoom in a
+[00:14:55] little bit. Under compute, you're going
+[00:14:57] to select workers and pages. Next,
+[00:14:58] you're going to select create
+[00:14:59] application. Next, where it says looking
+[00:15:01] to deploy pages, you're going to select
+[00:15:03] get started and import an existing get
+[00:15:06] repository. Right there, you're going to
+[00:15:08] select get started. From here, make sure
+[00:15:10] your GitHub account is selected. We will
+[00:15:12] select the repository that we just
+[00:15:13] created and select begin setup. Now,
+[00:15:15] you're going to enter all the proper
+[00:15:16] details here and select save and deploy.
+[00:15:18] Now, it's going to take a little bit of
+[00:15:19] time for it to build and actually deploy
+[00:15:21] this on Cloudflare. The only step, if
+[00:15:24] you want to do this, is simply going to
+[00:15:26] be attaching your domain, which there's
+[00:15:28] plenty of tutorials online of how to
+[00:15:29] attach your domain to Cloudflare, and
+[00:15:31] then you just link the two together and
+[00:15:33] you're good to go. It's an incredibly
+[00:15:34] simple process. And at this point, we
+[00:15:36] now have everything. We wrote the copy,
+[00:15:38] we did the images, we designed the page,
+[00:15:41] we achieved it to our liking, and now
+[00:15:43] it's deployed. You just take the live
+[00:15:45] URL and run it inside of your ads
+[00:15:46] manager, wherever you want to start
+[00:15:48] pushing traffic to it. So, that's the
+[00:15:49] entire process A to Z. If any of this
+[00:15:51] stuff was interesting to you, by the
+[00:15:52] way, I do have a mentorship called Brand
+[00:15:55] Builders Academy, where we teach stuff
+[00:15:57] like this, where you can build really
+[00:15:58] cool stuff with AI, whether that's
+[00:16:00] creatives, landing pages, etc. I'm
+[00:16:01] literally working on a new training
+[00:16:03] right now around AI creatives that I've
+[00:16:05] never posted anywhere else. So, if you
+[00:16:06] want to get access to that, you can fill
+[00:16:08] out an application, first link in the
+[00:16:10] description. Full transparency, it's not
+[00:16:12] for everybody. Does cost money. So, if
+[00:16:14] that's not for you, that's cool. Plenty
+[00:16:16] of free content here. Other than that,
+[00:16:17] would love to see you inside. Thanks so
+[00:16:18] much for watching. See you on the next
+[00:16:20] video. Peace.

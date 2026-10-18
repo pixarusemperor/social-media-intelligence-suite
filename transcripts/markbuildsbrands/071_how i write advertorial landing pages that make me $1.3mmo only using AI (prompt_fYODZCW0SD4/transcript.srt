@@ -1,0 +1,2740 @@
+1
+00:00:00,040 --> 00:00:02,440
+hey guys Mark here in this video I'm
+
+2
+00:00:01,360 --> 00:00:04,120
+going to show you how to write a full
+
+3
+00:00:02,440 --> 00:00:06,000
+ADV tutorial completely from scratch
+
+4
+00:00:04,120 --> 00:00:07,600
+using AI now what most people do which
+
+5
+00:00:06,000 --> 00:00:10,320
+is a terrible terrible terrible terrible
+
+6
+00:00:07,600 --> 00:00:12,400
+terrible idea is number one is they find
+
+7
+00:00:10,320 --> 00:00:14,240
+some swipe right they find somebody else
+
+8
+00:00:12,400 --> 00:00:16,120
+that's running an avator and then they
+
+9
+00:00:14,240 --> 00:00:18,120
+go over to you know good old trusty chat
+
+10
+00:00:16,120 --> 00:00:19,320
+gbt or over to Claude you know chat gbt
+
+11
+00:00:18,120 --> 00:00:21,240
+is superior but that's a whole another
+
+12
+00:00:19,320 --> 00:00:24,400
+thing and they basically say hey rewrite
+
+13
+00:00:21,240 --> 00:00:26,840
+this but for my company and this overall
+
+14
+00:00:24,400 --> 00:00:28,400
+is an absolutely terrible way to ever
+
+15
+00:00:26,840 --> 00:00:29,800
+write a successful avator because you're
+
+16
+00:00:28,400 --> 00:00:31,600
+not doing any of your research around
+
+17
+00:00:29,800 --> 00:00:33,640
+your product your audience your offer
+
+18
+00:00:31,600 --> 00:00:35,400
+nothing basically say hey chbt write
+
+19
+00:00:33,640 --> 00:00:36,440
+this make me a millionaire make it print
+
+20
+00:00:35,400 --> 00:00:37,720
+I don't want anything else to do with
+
+21
+00:00:36,440 --> 00:00:39,040
+this and you know as I said that's a
+
+22
+00:00:37,720 --> 00:00:40,160
+terrible strategy and so in this video
+
+23
+00:00:39,040 --> 00:00:41,600
+I'm going to show you the real strategy
+
+24
+00:00:40,160 --> 00:00:43,320
+that you should be following which is
+
+25
+00:00:41,600 --> 00:00:44,960
+much more extensive but once you do all
+
+26
+00:00:43,320 --> 00:00:47,080
+the hard work it's very very easy for
+
+27
+00:00:44,960 --> 00:00:48,320
+you to replicate avator using AI really
+
+28
+00:00:47,080 --> 00:00:50,080
+really quickly if you don't know what an
+
+29
+00:00:48,320 --> 00:00:52,000
+avoral is looks a little something like
+
+30
+00:00:50,080 --> 00:00:54,040
+this where you're basically selling to
+
+31
+00:00:52,000 --> 00:00:55,720
+somebody using a combination of an ad
+
+32
+00:00:54,040 --> 00:00:57,160
+and an editorial so it feels like it was
+
+33
+00:00:55,720 --> 00:00:58,720
+written by a third party or somebody
+
+34
+00:00:57,160 --> 00:01:00,400
+that's completely impartial completely
+
+35
+00:00:58,720 --> 00:01:02,000
+unbiased but in reality selling your
+
+36
+00:01:00,400 --> 00:01:03,440
+product throughout the entire landing
+
+37
+00:01:02,000 --> 00:01:04,720
+page so I actually have a full swipe
+
+38
+00:01:03,440 --> 00:01:06,080
+file I'll leave it in the description of
+
+39
+00:01:04,720 --> 00:01:08,480
+this video that you guys can check out
+
+40
+00:01:06,080 --> 00:01:10,120
+of all hundreds of just really really
+
+41
+00:01:08,480 --> 00:01:11,360
+successful avoral but that's not the
+
+42
+00:01:10,120 --> 00:01:13,200
+purpose of this video the purpose of
+
+43
+00:01:11,360 --> 00:01:15,440
+this video is to show you the new best
+
+44
+00:01:13,200 --> 00:01:17,280
+way for you to actually write an avoral
+
+45
+00:01:15,440 --> 00:01:18,920
+completely from scratch now since we're
+
+46
+00:01:17,280 --> 00:01:20,200
+not using this old process the real
+
+47
+00:01:18,920 --> 00:01:21,760
+process that we're going to follow is
+
+48
+00:01:20,200 --> 00:01:23,720
+actually really really simple first
+
+49
+00:01:21,760 --> 00:01:24,720
+you're going to be doing your research
+
+50
+00:01:23,720 --> 00:01:25,840
+now this is not something that you're
+
+51
+00:01:24,720 --> 00:01:27,680
+going to be doing yourself we're going
+
+52
+00:01:25,840 --> 00:01:29,320
+to use AI to do this once you have your
+
+53
+00:01:27,680 --> 00:01:31,960
+research step number two is you're going
+
+54
+00:01:29,320 --> 00:01:33,760
+to build what I call your foundational
+
+55
+00:01:31,960 --> 00:01:36,120
+docs now your foundational docs is
+
+56
+00:01:33,760 --> 00:01:37,360
+basically a set of three or four
+
+57
+00:01:36,120 --> 00:01:38,960
+different documents that you put
+
+58
+00:01:37,360 --> 00:01:40,640
+together that you constantly feed into
+
+59
+00:01:38,960 --> 00:01:42,760
+Ai and if they have these four documents
+
+60
+00:01:40,640 --> 00:01:44,880
+AI is always always always always always
+
+61
+00:01:42,760 --> 00:01:46,840
+going to spit out just phenomenal high
+
+62
+00:01:44,880 --> 00:01:48,440
+quality copy that is based off of the
+
+63
+00:01:46,840 --> 00:01:50,200
+research that you did prior this is the
+
+64
+00:01:48,440 --> 00:01:51,440
+step that most people Skip and as a
+
+65
+00:01:50,200 --> 00:01:53,280
+result they're never able to write an
+
+66
+00:01:51,440 --> 00:01:55,360
+ADV tutorial that actually converts step
+
+67
+00:01:53,280 --> 00:01:58,240
+number three is you are going to find a
+
+68
+00:01:55,360 --> 00:02:00,520
+successful competitor and swipe them for
+
+69
+00:01:58,240 --> 00:02:02,360
+your own rewriting process step number
+
+70
+00:02:00,520 --> 00:02:04,560
+four is you're actually going to have ai
+
+71
+00:02:02,360 --> 00:02:05,960
+write the full ADV tutorial and then
+
+72
+00:02:04,560 --> 00:02:07,320
+step number five of course one of the
+
+73
+00:02:05,960 --> 00:02:10,080
+most important steps again probably
+
+74
+00:02:07,320 --> 00:02:12,320
+second most important is to Chief okay
+
+75
+00:02:10,080 --> 00:02:13,720
+so chiefing is a process of reviewing
+
+76
+00:02:12,320 --> 00:02:15,080
+your copy and make sure that it's
+
+77
+00:02:13,720 --> 00:02:16,360
+actually ready to be put out into the
+
+78
+00:02:15,080 --> 00:02:17,960
+wild so that you can spend some money on
+
+79
+00:02:16,360 --> 00:02:19,080
+it make some money back in return so
+
+80
+00:02:17,960 --> 00:02:20,800
+let's go ahead and get right into it you
+
+81
+00:02:19,080 --> 00:02:22,440
+know no long-winded intro or anything
+
+82
+00:02:20,800 --> 00:02:24,400
+what I did is I pulled together this
+
+83
+00:02:22,440 --> 00:02:26,120
+full document here I'm not lying to you
+
+84
+00:02:24,400 --> 00:02:29,120
+guys when I tell you this you could give
+
+85
+00:02:26,120 --> 00:02:30,600
+the most sub 5050 IQ individual this
+
+86
+00:02:29,120 --> 00:02:32,320
+document and they would still be able to
+
+87
+00:02:30,600 --> 00:02:34,440
+put out a really really high quality
+
+88
+00:02:32,320 --> 00:02:35,880
+avator this is the best sop I think I
+
+89
+00:02:34,440 --> 00:02:37,400
+may have ever created in my life so
+
+90
+00:02:35,880 --> 00:02:39,040
+we're literally going to follow this
+
+91
+00:02:37,400 --> 00:02:40,760
+step by step right and the first step
+
+92
+00:02:39,040 --> 00:02:41,960
+like I said is research so we're going
+
+93
+00:02:40,760 --> 00:02:43,560
+to copy this prompt and head over to
+
+94
+00:02:41,960 --> 00:02:45,240
+chat gbt and by the way I said this
+
+95
+00:02:43,560 --> 00:02:46,880
+briefly in the intro but I really
+
+96
+00:02:45,240 --> 00:02:49,680
+believe that chat gbt is superior to
+
+97
+00:02:46,880 --> 00:02:52,000
+Claude I actually call chat gbt Chad GPT
+
+98
+00:02:49,680 --> 00:02:53,400
+because Claude tries to be so PC with
+
+99
+00:02:52,000 --> 00:02:54,840
+everything and they don't end up getting
+
+100
+00:02:53,400 --> 00:02:56,200
+as deep into the research as I really
+
+101
+00:02:54,840 --> 00:02:57,840
+want them to plus we're going to use an
+
+102
+00:02:56,200 --> 00:02:59,040
+additional feature in chpt that claw
+
+103
+00:02:57,840 --> 00:03:00,320
+doesn't have that I'm going to show you
+
+104
+00:02:59,040 --> 00:03:02,120
+in just one second so so all you have to
+
+105
+00:03:00,320 --> 00:03:03,880
+do here is take out this little section
+
+106
+00:03:02,120 --> 00:03:06,320
+right here where it says explain what
+
+107
+00:03:03,880 --> 00:03:08,080
+you're selling to and who in this case
+
+108
+00:03:06,320 --> 00:03:09,560
+I'm going to take this actual product
+
+109
+00:03:08,080 --> 00:03:10,920
+right here and I'm basically going to
+
+110
+00:03:09,560 --> 00:03:12,400
+write an adoral for this product so I'm
+
+111
+00:03:10,920 --> 00:03:14,800
+going to go ahead and copy this right
+
+112
+00:03:12,400 --> 00:03:15,880
+here and add a little line in AI that
+
+113
+00:03:14,800 --> 00:03:17,520
+kind of explains actually what we're
+
+114
+00:03:15,880 --> 00:03:19,120
+selling here now very important before I
+
+115
+00:03:17,520 --> 00:03:20,800
+hit send on this what I'm going to do is
+
+116
+00:03:19,120 --> 00:03:22,480
+I'm going to go to the brand that I'm
+
+117
+00:03:20,800 --> 00:03:24,560
+writing for in this case I'm going to go
+
+118
+00:03:22,480 --> 00:03:26,400
+over to web page to PDF and I'm going to
+
+119
+00:03:24,560 --> 00:03:28,520
+convert their entire sales page into a
+
+120
+00:03:26,400 --> 00:03:29,840
+PDF and upload it so that chpt has a
+
+121
+00:03:28,520 --> 00:03:31,040
+little bit of context about the brand
+
+122
+00:03:29,840 --> 00:03:33,080
+that you're running for this your own
+
+123
+00:03:31,040 --> 00:03:34,840
+brand just upload any content that you
+
+124
+00:03:33,080 --> 00:03:36,440
+have it could be PDF of your sales page
+
+125
+00:03:34,840 --> 00:03:38,480
+PDF of your existing ad tutorials just
+
+126
+00:03:36,440 --> 00:03:40,200
+give it as much information as possible
+
+127
+00:03:38,480 --> 00:03:41,480
+on the product itself so I'm going to go
+
+128
+00:03:40,200 --> 00:03:43,520
+ahead and download this and then we're
+
+129
+00:03:41,480 --> 00:03:45,200
+going to upload it right into chat gbt
+
+130
+00:03:43,520 --> 00:03:47,400
+and hit enter and by the way make sure
+
+131
+00:03:45,200 --> 00:03:48,560
+that you guys are using chbt 4.5 I've
+
+132
+00:03:47,400 --> 00:03:50,960
+been doing a lot of experimenting
+
+133
+00:03:48,560 --> 00:03:52,800
+recently with AI and 4.5 honestly is
+
+134
+00:03:50,960 --> 00:03:54,240
+significantly better than 40 a lot of
+
+135
+00:03:52,800 --> 00:03:55,720
+the updates are just like marginal
+
+136
+00:03:54,240 --> 00:03:57,120
+improvements but this one I really feel
+
+137
+00:03:55,720 --> 00:03:58,760
+is significantly better than the
+
+138
+00:03:57,120 --> 00:04:00,520
+previous model now after we've hit these
+
+139
+00:03:58,760 --> 00:04:01,840
+prompts a lot lot of times it's going to
+
+140
+00:04:00,520 --> 00:04:03,240
+give you you know this full analysis
+
+141
+00:04:01,840 --> 00:04:04,760
+which is fantastic we actually don't
+
+142
+00:04:03,240 --> 00:04:06,640
+care about that we really only care
+
+143
+00:04:04,760 --> 00:04:08,760
+about the finished product right now and
+
+144
+00:04:06,640 --> 00:04:10,960
+I'm really just priming chat gbt to be
+
+145
+00:04:08,760 --> 00:04:12,400
+able to put out the best quality copy as
+
+146
+00:04:10,960 --> 00:04:13,800
+humanly possible now I'm going to copy
+
+147
+00:04:12,400 --> 00:04:15,800
+prompt number two here go over to chat
+
+148
+00:04:13,800 --> 00:04:17,560
+gbt paste it in I'm also going to paste
+
+149
+00:04:15,800 --> 00:04:19,160
+two documents about how to properly
+
+150
+00:04:17,560 --> 00:04:20,520
+conduct copyrighting research I have
+
+151
+00:04:19,160 --> 00:04:21,640
+these Linked In the document right here
+
+152
+00:04:20,520 --> 00:04:23,560
+and here can't believe they're giving
+
+153
+00:04:21,640 --> 00:04:24,920
+the [ __ ] away for free so I uploaded
+
+154
+00:04:23,560 --> 00:04:26,800
+these two doc going to hit enter and
+
+155
+00:04:24,920 --> 00:04:28,160
+wait till it finishes the analysis next
+
+156
+00:04:26,800 --> 00:04:29,360
+up we're going to move on to prompt
+
+157
+00:04:28,160 --> 00:04:30,920
+number three so I'm going to copy this
+
+158
+00:04:29,360 --> 00:04:32,400
+here from from the dock pasted over here
+
+159
+00:04:30,920 --> 00:04:33,880
+and once again just fill out this one
+
+160
+00:04:32,400 --> 00:04:35,040
+line here that actually explains the
+
+161
+00:04:33,880 --> 00:04:36,720
+product that we're going to be selling
+
+162
+00:04:35,040 --> 00:04:38,640
+now this prompt is very very important
+
+163
+00:04:36,720 --> 00:04:42,040
+cuz basically what I'm telling it to do
+
+164
+00:04:38,640 --> 00:04:43,960
+is create a prompt for itself so it's
+
+165
+00:04:42,040 --> 00:04:46,120
+kind of like AI Inception I'm creating
+
+166
+00:04:43,960 --> 00:04:47,320
+an AI to do AI research and what we're
+
+167
+00:04:46,120 --> 00:04:49,720
+doing here is basically creating a
+
+168
+00:04:47,320 --> 00:04:52,400
+prompt for it to use the Deep research
+
+169
+00:04:49,720 --> 00:04:54,040
+feature right here on chat gbt so I
+
+170
+00:04:52,400 --> 00:04:55,640
+could write my own prompt no problem but
+
+171
+00:04:54,040 --> 00:04:57,680
+why when I could use AI to write the
+
+172
+00:04:55,640 --> 00:04:59,040
+prompt for me so as soon as I hit enter
+
+173
+00:04:57,680 --> 00:05:00,640
+on this particular prompt it's going to
+
+174
+00:04:59,040 --> 00:05:02,360
+spit out a full prompt I'm literally
+
+175
+00:05:00,640 --> 00:05:04,720
+going to copy and paste directly back
+
+176
+00:05:02,360 --> 00:05:06,600
+into chbt but make sure I have deep
+
+177
+00:05:04,720 --> 00:05:08,760
+research selected so let's hit enter on
+
+178
+00:05:06,600 --> 00:05:08,760
+this
+
+179
+00:05:10,880 --> 00:05:14,520
+prompt all right so it finished the full
+
+180
+00:05:12,880 --> 00:05:15,920
+prompt here so I just copied that entire
+
+181
+00:05:14,520 --> 00:05:17,840
+prompt that it gave me right here and
+
+182
+00:05:15,920 --> 00:05:20,000
+literally just pasted it right back and
+
+183
+00:05:17,840 --> 00:05:21,640
+so let me scroll to the top here no work
+
+184
+00:05:20,000 --> 00:05:23,040
+necessary here like AI just wrote this
+
+185
+00:05:21,640 --> 00:05:24,120
+entire prompt is very very good just
+
+186
+00:05:23,040 --> 00:05:26,040
+make sure you have deep research
+
+187
+00:05:24,120 --> 00:05:27,080
+selected and I'm going to hit enter now
+
+188
+00:05:26,040 --> 00:05:28,960
+when you go through this process
+
+189
+00:05:27,080 --> 00:05:30,480
+typically the AI will ask you a few
+
+190
+00:05:28,960 --> 00:05:31,920
+clarifying question questions yep there
+
+191
+00:05:30,480 --> 00:05:33,240
+it goes right here so you just have to
+
+192
+00:05:31,920 --> 00:05:34,880
+quickly answer those and then it's going
+
+193
+00:05:33,240 --> 00:05:36,440
+to go through the Deep research process
+
+194
+00:05:34,880 --> 00:05:38,280
+so for this particular example I'm going
+
+195
+00:05:36,440 --> 00:05:39,800
+to say yes we are specifically us-based
+
+196
+00:05:38,280 --> 00:05:41,240
+for number two I'm going to say all
+
+197
+00:05:39,800 --> 00:05:43,000
+price ranges and number three I'm going
+
+198
+00:05:41,240 --> 00:05:45,000
+to say yes and after this I literally
+
+199
+00:05:43,000 --> 00:05:47,480
+hit enter it's going to begin the Deep
+
+200
+00:05:45,000 --> 00:05:49,240
+research process now depending on your
+
+201
+00:05:47,480 --> 00:05:51,320
+product your Market Etc this is
+
+202
+00:05:49,240 --> 00:05:53,160
+typically going to take anywhere from 8
+
+203
+00:05:51,320 --> 00:05:54,960
+to 20 minutes so I'm going to step away
+
+204
+00:05:53,160 --> 00:05:56,160
+for a second I'm going to let Chachi
+
+205
+00:05:54,960 --> 00:05:57,680
+cook and I'll be right back all right so
+
+206
+00:05:56,160 --> 00:06:00,360
+I took about 11 minutes and as you can
+
+207
+00:05:57,680 --> 00:06:02,240
+see here oh my God goodness gracious
+
+208
+00:06:00,360 --> 00:06:04,360
+look at all this beautiful beautiful
+
+209
+00:06:02,240 --> 00:06:05,920
+beautiful research that just goes on for
+
+210
+00:06:04,360 --> 00:06:07,720
+so long so what you want to do now is
+
+211
+00:06:05,920 --> 00:06:09,680
+you're going to copy this entire message
+
+212
+00:06:07,720 --> 00:06:11,680
+paste it into a new Doc download that
+
+213
+00:06:09,680 --> 00:06:13,560
+document as a PDF cuz that's going to be
+
+214
+00:06:11,680 --> 00:06:15,040
+one of your foundational documents that
+
+215
+00:06:13,560 --> 00:06:16,600
+you create as I said here in this
+
+216
+00:06:15,040 --> 00:06:18,560
+process there's a set of foundational
+
+217
+00:06:16,600 --> 00:06:21,240
+docs that you need okay one is going to
+
+218
+00:06:18,560 --> 00:06:23,720
+be the research doc all right and at
+
+219
+00:06:21,240 --> 00:06:25,040
+this point you have that done this is
+
+220
+00:06:23,720 --> 00:06:26,960
+the most difficult part which is
+
+221
+00:06:25,040 --> 00:06:28,320
+ironically also the easiest part cuz AI
+
+222
+00:06:26,960 --> 00:06:30,400
+just did all of it for you now we go
+
+223
+00:06:28,320 --> 00:06:32,000
+back to the dock and and we are going to
+
+224
+00:06:30,400 --> 00:06:34,040
+move on to the next foundational
+
+225
+00:06:32,000 --> 00:06:35,760
+document which is going to be our Avatar
+
+226
+00:06:34,040 --> 00:06:37,120
+sheet template so I'm going to copy this
+
+227
+00:06:35,760 --> 00:06:38,840
+prompt here go right here and again I
+
+228
+00:06:37,120 --> 00:06:40,760
+have links all these documents guys in
+
+229
+00:06:38,840 --> 00:06:42,200
+this one Mega document that I created
+
+230
+00:06:40,760 --> 00:06:43,200
+this one here so if you need the Avatar
+
+231
+00:06:42,200 --> 00:06:44,480
+sheet template just go ahead and
+
+232
+00:06:43,200 --> 00:06:46,640
+download that there now we're going to
+
+233
+00:06:44,480 --> 00:06:49,160
+paste this document with the template
+
+234
+00:06:46,640 --> 00:06:50,200
+downloaded also as a PDF and if you
+
+235
+00:06:49,160 --> 00:06:52,240
+don't know how to download these by the
+
+236
+00:06:50,200 --> 00:06:54,400
+way you just go to file download you can
+
+237
+00:06:52,240 --> 00:06:55,960
+select PDF right there we got the Avatar
+
+238
+00:06:54,400 --> 00:06:57,640
+sheet doc uploaded we're going to hit
+
+239
+00:06:55,960 --> 00:06:59,160
+enter and keep cooking now what it's
+
+240
+00:06:57,640 --> 00:07:01,600
+going to do here is fill out based off
+
+241
+00:06:59,160 --> 00:07:03,200
+the research all of the specific details
+
+242
+00:07:01,600 --> 00:07:04,800
+around the Avatar that you currently
+
+243
+00:07:03,200 --> 00:07:07,040
+want to sell to all right so what we're
+
+244
+00:07:04,800 --> 00:07:08,760
+doing now is building the second
+
+245
+00:07:07,040 --> 00:07:11,480
+foundational dock which is going to be
+
+246
+00:07:08,760 --> 00:07:11,480
+our Avatar
+
+247
+00:07:12,440 --> 00:07:17,200
+sheet this is such gold it's even just
+
+248
+00:07:15,560 --> 00:07:20,840
+watching this AI cook right in front of
+
+249
+00:07:17,200 --> 00:07:22,800
+me it is so so
+
+250
+00:07:20,840 --> 00:07:24,200
+good I mean just look at like some of
+
+251
+00:07:22,800 --> 00:07:25,720
+these quotes for this particular product
+
+252
+00:07:24,200 --> 00:07:27,440
+right I need a solution now before
+
+253
+00:07:25,720 --> 00:07:29,280
+another freezing winter hits I'm
+
+254
+00:07:27,440 --> 00:07:30,960
+desperate to stop throwing a money away
+
+255
+00:07:29,280 --> 00:07:32,880
+on inefficient heating finding a safe
+
+256
+00:07:30,960 --> 00:07:34,680
+CED heater is a priority I can't afford
+
+257
+00:07:32,880 --> 00:07:36,440
+another huge bill like I literally can't
+
+258
+00:07:34,680 --> 00:07:37,640
+afford another huge bill that is a
+
+259
+00:07:36,440 --> 00:07:40,080
+massive pain that we're going to be able
+
+260
+00:07:37,640 --> 00:07:42,240
+to tap into with the copy on this ad
+
+261
+00:07:40,080 --> 00:07:44,480
+tutorial so same process we're going to
+
+262
+00:07:42,240 --> 00:07:46,440
+copy all of this right here paste it
+
+263
+00:07:44,480 --> 00:07:49,640
+right into another document called
+
+264
+00:07:46,440 --> 00:07:51,560
+Avatar sheet download as a PDF save it
+
+265
+00:07:49,640 --> 00:07:53,200
+for later next we're going to move on to
+
+266
+00:07:51,560 --> 00:07:54,720
+the third foundational document so let's
+
+267
+00:07:53,200 --> 00:07:56,960
+go ahead and copy this going to paste it
+
+268
+00:07:54,720 --> 00:07:58,120
+right in here and attach the offer brief
+
+269
+00:07:56,960 --> 00:07:59,880
+template so this is going to be the
+
+270
+00:07:58,120 --> 00:08:01,760
+third foundational dock this is all
+
+271
+00:07:59,880 --> 00:08:03,080
+about the actual offer itself so what is
+
+272
+00:08:01,760 --> 00:08:04,520
+the funnel architecture that we want to
+
+273
+00:08:03,080 --> 00:08:06,440
+use what is the level of Consciousness
+
+274
+00:08:04,520 --> 00:08:08,120
+we want to speak to what is the stage of
+
+275
+00:08:06,440 --> 00:08:10,000
+awareness stage of sophistication all
+
+276
+00:08:08,120 --> 00:08:11,520
+that unique mechanism everything all the
+
+277
+00:08:10,000 --> 00:08:12,920
+copy ingredients that you want to put
+
+278
+00:08:11,520 --> 00:08:14,800
+together to actually create a good vssl
+
+279
+00:08:12,920 --> 00:08:17,120
+this is why most people that just like
+
+280
+00:08:14,800 --> 00:08:18,520
+paste in a swipe and say hey Chad do you
+
+281
+00:08:17,120 --> 00:08:20,440
+rewrite this this is where they mess up
+
+282
+00:08:18,520 --> 00:08:21,960
+they don't actually understand the Deep
+
+283
+00:08:20,440 --> 00:08:24,280
+underlying principles behind High
+
+284
+00:08:21,960 --> 00:08:25,560
+converting copy they just blindly swipe
+
+285
+00:08:24,280 --> 00:08:27,200
+and hope that it makes them familiar
+
+286
+00:08:25,560 --> 00:08:28,840
+it's a terrible terrible strategy so
+
+287
+00:08:27,200 --> 00:08:30,160
+here with the offer document we past the
+
+288
+00:08:28,840 --> 00:08:32,360
+prompt in there I'm going to upload the
+
+289
+00:08:30,160 --> 00:08:34,120
+offer doc upload that right there wait
+
+290
+00:08:32,360 --> 00:08:35,440
+for it to upload and just hit enter now
+
+291
+00:08:34,120 --> 00:08:36,600
+it's going to fill out same exact
+
+292
+00:08:35,440 --> 00:08:40,840
+process but it's going to fill out
+
+293
+00:08:36,600 --> 00:08:40,840
+everything regarding the offer
+
+294
+00:08:43,000 --> 00:08:47,720
+itself this is so [ __ ] good like I
+
+295
+00:08:45,280 --> 00:08:49,360
+can't stop saying it bro but this is so
+
+296
+00:08:47,720 --> 00:08:50,680
+insane I like to think that I'm smart
+
+297
+00:08:49,360 --> 00:08:53,000
+that I came up with this but really this
+
+298
+00:08:50,680 --> 00:08:54,240
+is all this all AI doing this [ __ ] man
+
+299
+00:08:53,000 --> 00:08:56,480
+it's
+
+300
+00:08:54,240 --> 00:08:58,080
+incredible all right same process here
+
+301
+00:08:56,480 --> 00:09:00,160
+the offer brief is done we're going to
+
+302
+00:08:58,080 --> 00:09:01,840
+copy all of this information here if you
+
+303
+00:09:00,160 --> 00:09:03,080
+want to add more information to these
+
+304
+00:09:01,840 --> 00:09:05,600
+documents guys you're more than welcome
+
+305
+00:09:03,080 --> 00:09:08,280
+to the quality of the output that you
+
+306
+00:09:05,600 --> 00:09:10,480
+get from AI is directly proportional to
+
+307
+00:09:08,280 --> 00:09:12,800
+the quality of inputs that you feed it
+
+308
+00:09:10,480 --> 00:09:13,880
+so for the people that are like oh gbt
+
+309
+00:09:12,800 --> 00:09:15,840
+doesn't write good copy Cloud doesn't
+
+310
+00:09:13,880 --> 00:09:16,840
+write good copy no you just suck at
+
+311
+00:09:15,840 --> 00:09:18,840
+prompting it so I'm going to save it
+
+312
+00:09:16,840 --> 00:09:21,680
+through another document right now and
+
+313
+00:09:18,840 --> 00:09:23,640
+save it as a PDF save it for later now
+
+314
+00:09:21,680 --> 00:09:25,120
+we're going to head back to the document
+
+315
+00:09:23,640 --> 00:09:26,400
+and going to work on our final
+
+316
+00:09:25,120 --> 00:09:27,600
+foundational document now you don't need
+
+317
+00:09:26,400 --> 00:09:28,440
+to understand what all that text is I
+
+318
+00:09:27,600 --> 00:09:30,480
+know you're going to see it's like oh
+
+319
+00:09:28,440 --> 00:09:32,480
+it's a lot really what doing is creating
+
+320
+00:09:30,480 --> 00:09:35,000
+this final foundational document which
+
+321
+00:09:32,480 --> 00:09:36,960
+is the necessary beliefs that your
+
+322
+00:09:35,000 --> 00:09:38,560
+prospect needs to have in order to
+
+323
+00:09:36,960 --> 00:09:40,640
+actually buy your product I believe that
+
+324
+00:09:38,560 --> 00:09:42,520
+marketing at its core is simply a game
+
+325
+00:09:40,640 --> 00:09:43,720
+of belief change prospects are coming
+
+326
+00:09:42,520 --> 00:09:45,680
+into your business into your website
+
+327
+00:09:43,720 --> 00:09:47,120
+into your funnel with a specific set of
+
+328
+00:09:45,680 --> 00:09:49,080
+beliefs because we always act in
+
+329
+00:09:47,120 --> 00:09:51,600
+accordance with our own beliefs your job
+
+330
+00:09:49,080 --> 00:09:53,200
+is simply to shift those beliefs into
+
+331
+00:09:51,600 --> 00:09:54,640
+empowering beliefs instead of limiting
+
+332
+00:09:53,200 --> 00:09:57,640
+beliefs so that they will actually
+
+333
+00:09:54,640 --> 00:09:59,800
+purchase your product
+
+334
+00:09:57,640 --> 00:10:01,360
+necessary so I'm literally going to take
+
+335
+00:09:59,800 --> 00:10:03,120
+all of this prompt right here don't
+
+336
+00:10:01,360 --> 00:10:04,800
+worry about the text it's basically just
+
+337
+00:10:03,120 --> 00:10:06,240
+going to analyze this transcript we're
+
+338
+00:10:04,800 --> 00:10:08,320
+going to paste it directly in nothing
+
+339
+00:10:06,240 --> 00:10:10,000
+needs to change and have it Analyze This
+
+340
+00:10:08,320 --> 00:10:11,720
+transcript real quick while that is
+
+341
+00:10:10,000 --> 00:10:13,920
+cooking let's go ahead and go to prompt
+
+342
+00:10:11,720 --> 00:10:15,520
+4 we're going to copy this and note you
+
+343
+00:10:13,920 --> 00:10:17,400
+have to attach the Avatar sheet the
+
+344
+00:10:15,520 --> 00:10:18,440
+offer brief and the research document
+
+345
+00:10:17,400 --> 00:10:20,040
+that you already had created so we're
+
+346
+00:10:18,440 --> 00:10:23,200
+going to copy all of this and then
+
+347
+00:10:20,040 --> 00:10:25,600
+attach those other three foundational
+
+348
+00:10:23,200 --> 00:10:27,120
+documents that we have already created
+
+349
+00:10:25,600 --> 00:10:29,480
+previously so I'm going to paste this
+
+350
+00:10:27,120 --> 00:10:30,960
+here and I'm going to upload the three
+
+351
+00:10:29,480 --> 00:10:32,040
+additional documents as this is going
+
+352
+00:10:30,960 --> 00:10:33,800
+another thing that I do guys just to
+
+353
+00:10:32,040 --> 00:10:36,040
+speed up the process I literally hit
+
+354
+00:10:33,800 --> 00:10:37,760
+enter on chat JT on the prompt and I
+
+355
+00:10:36,040 --> 00:10:39,280
+immediately move on to the next one
+
+356
+00:10:37,760 --> 00:10:41,720
+because again we're not specifically
+
+357
+00:10:39,280 --> 00:10:43,200
+looking for the output yet cuz we have
+
+358
+00:10:41,720 --> 00:10:44,440
+not written an ADV vtorial yet we're
+
+359
+00:10:43,200 --> 00:10:46,040
+really just doing the research we're
+
+360
+00:10:44,440 --> 00:10:48,200
+building up the foundation that's why I
+
+361
+00:10:46,040 --> 00:10:49,680
+call them foundational documents because
+
+362
+00:10:48,200 --> 00:10:51,120
+if you have them you only have to do
+
+363
+00:10:49,680 --> 00:10:52,280
+this once as soon as you have it you're
+
+364
+00:10:51,120 --> 00:10:54,120
+going to upload these documents in the
+
+365
+00:10:52,280 --> 00:10:55,440
+future and liter just start printing
+
+366
+00:10:54,120 --> 00:10:56,960
+really really good copy whether that's
+
+367
+00:10:55,440 --> 00:10:58,840
+vs cells whether that's ads whether it's
+
+368
+00:10:56,960 --> 00:11:00,440
+ad tutorials anything landing page copy
+
+369
+00:10:58,840 --> 00:11:03,320
+you can do it at all so the short of
+
+370
+00:11:00,440 --> 00:11:05,640
+this prompt is I want you to create
+
+371
+00:11:03,320 --> 00:11:07,560
+these beliefs at a maximum of six
+
+372
+00:11:05,640 --> 00:11:09,800
+beliefs that if they have every single
+
+373
+00:11:07,560 --> 00:11:11,960
+one of these beliefs that they will
+
+374
+00:11:09,800 --> 00:11:13,160
+positively buy our product so then we
+
+375
+00:11:11,960 --> 00:11:14,960
+know the only thing that we have to do
+
+376
+00:11:13,160 --> 00:11:17,720
+at that stage is simply make sure that
+
+377
+00:11:14,960 --> 00:11:19,200
+our copy aligns with those six necessary
+
+378
+00:11:17,720 --> 00:11:20,960
+beliefs that they have to have in order
+
+379
+00:11:19,200 --> 00:11:22,600
+to buy the product and our job is done
+
+380
+00:11:20,960 --> 00:11:24,600
+so let's go ahead and hit enter and it's
+
+381
+00:11:22,600 --> 00:11:26,320
+going to go through and create those six
+
+382
+00:11:24,600 --> 00:11:28,720
+necessary
+
+383
+00:11:26,320 --> 00:11:30,080
+beliefs so same process as before guys
+
+384
+00:11:28,720 --> 00:11:31,720
+we're literally going to copy all of
+
+385
+00:11:30,080 --> 00:11:34,000
+these beliefs right here going to paste
+
+386
+00:11:31,720 --> 00:11:36,000
+them into a new Doc save it and download
+
+387
+00:11:34,000 --> 00:11:37,360
+it as a PDF and let's move on to the
+
+388
+00:11:36,000 --> 00:11:39,400
+next step okay so the next step is going
+
+389
+00:11:37,360 --> 00:11:41,120
+to be prompt number five in which case
+
+390
+00:11:39,400 --> 00:11:43,440
+we're literally just going to refresh
+
+391
+00:11:41,120 --> 00:11:45,320
+its memory and now send all the
+
+392
+00:11:43,440 --> 00:11:46,800
+documents together and have them analyze
+
+393
+00:11:45,320 --> 00:11:48,960
+each individual document so that they're
+
+394
+00:11:46,800 --> 00:11:50,280
+completely top of line for the AI if you
+
+395
+00:11:48,960 --> 00:11:52,480
+really want to write good copy with chat
+
+396
+00:11:50,280 --> 00:11:54,240
+jbt don't think of it as an AI think of
+
+397
+00:11:52,480 --> 00:11:55,840
+it as your Junior copywriter you want to
+
+398
+00:11:54,240 --> 00:11:57,560
+guide it you want to have a conversation
+
+399
+00:11:55,840 --> 00:11:58,840
+give it feedback critique it so I'm
+
+400
+00:11:57,560 --> 00:12:00,400
+going to upload these four documents
+
+401
+00:11:58,840 --> 00:12:02,240
+right here at this point all of our
+
+402
+00:12:00,400 --> 00:12:03,600
+foundational documents have been created
+
+403
+00:12:02,240 --> 00:12:05,280
+we have the research doc the Avatar doc
+
+404
+00:12:03,600 --> 00:12:07,240
+the offer brief and the necessary
+
+405
+00:12:05,280 --> 00:12:08,840
+beliefs documents so I just uploaded all
+
+406
+00:12:07,240 --> 00:12:10,360
+those here let's go ahead and hit send
+
+407
+00:12:08,840 --> 00:12:13,120
+and again this is really just to refresh
+
+408
+00:12:10,360 --> 00:12:14,880
+its memory on all the research that is
+
+409
+00:12:13,120 --> 00:12:16,920
+done prior all the hard work the next
+
+410
+00:12:14,880 --> 00:12:18,920
+step in this process is going to be to
+
+411
+00:12:16,920 --> 00:12:20,000
+find a swipe now like I said earlier you
+
+412
+00:12:18,920 --> 00:12:21,560
+can check the link in the description I
+
+413
+00:12:20,000 --> 00:12:22,840
+have a full swipe file already created
+
+414
+00:12:21,560 --> 00:12:24,600
+on get hooked you guys can go and see
+
+415
+00:12:22,840 --> 00:12:26,920
+all the ad tutorials there for
+
+416
+00:12:24,600 --> 00:12:28,920
+Simplicity purposes what I'm going to do
+
+417
+00:12:26,920 --> 00:12:30,360
+is just use this ad tutorial for this
+
+418
+00:12:28,920 --> 00:12:31,880
+product that's already running and just
+
+419
+00:12:30,360 --> 00:12:33,480
+say like you know this one is running
+
+420
+00:12:31,880 --> 00:12:35,360
+successfully currently so I'm just going
+
+421
+00:12:33,480 --> 00:12:37,040
+to take this URL and follow the same
+
+422
+00:12:35,360 --> 00:12:39,520
+process that we did before and do the
+
+423
+00:12:37,040 --> 00:12:41,200
+URL to PDF go ahead and convert it and
+
+424
+00:12:39,520 --> 00:12:42,520
+I'm going to download that so I can send
+
+425
+00:12:41,200 --> 00:12:45,560
+it as the
+
+426
+00:12:42,520 --> 00:12:48,040
+swipe so I'm going to upload that swiped
+
+427
+00:12:45,560 --> 00:12:49,480
+PDF of the adoral that we want to
+
+428
+00:12:48,040 --> 00:12:51,320
+emulate then the next step we're going
+
+429
+00:12:49,480 --> 00:12:52,680
+to go back to our trusty document here
+
+430
+00:12:51,320 --> 00:12:54,280
+and move on to the swipe section all
+
+431
+00:12:52,680 --> 00:12:55,960
+right so we're going to copy all of this
+
+432
+00:12:54,280 --> 00:12:57,520
+right here and paste that entire prompt
+
+433
+00:12:55,960 --> 00:12:59,360
+right into chaty BT by the way as a
+
+434
+00:12:57,520 --> 00:13:01,360
+little side note I'm using this e
+
+435
+00:12:59,360 --> 00:13:02,720
+product this uh internal space heating
+
+436
+00:13:01,360 --> 00:13:04,040
+product this is not a product that i'
+
+437
+00:13:02,720 --> 00:13:06,280
+personally sell and if you're wondering
+
+438
+00:13:04,040 --> 00:13:08,000
+why the reason why is because the main
+
+439
+00:13:06,280 --> 00:13:09,360
+reason that I've seen from this research
+
+440
+00:13:08,000 --> 00:13:11,720
+specifically that people are looking for
+
+441
+00:13:09,360 --> 00:13:13,440
+this product is to save money it's for
+
+442
+00:13:11,720 --> 00:13:14,800
+affordability now this product is
+
+443
+00:13:13,440 --> 00:13:16,320
+definitely affordable I'm going to hit
+
+444
+00:13:14,800 --> 00:13:17,840
+send here while I rant for a little bit
+
+445
+00:13:16,320 --> 00:13:19,480
+this product is definitely affordable if
+
+446
+00:13:17,840 --> 00:13:21,360
+you compare it to like your heating bill
+
+447
+00:13:19,480 --> 00:13:23,440
+however typically audiences that are
+
+448
+00:13:21,360 --> 00:13:24,400
+looking for the cheapest way to do
+
+449
+00:13:23,440 --> 00:13:25,880
+things like I don't never want to
+
+450
+00:13:24,400 --> 00:13:27,680
+compete on price I want to have the
+
+451
+00:13:25,880 --> 00:13:29,520
+premium product in my market cuz it's
+
+452
+00:13:27,680 --> 00:13:31,840
+going to match with premium marketing
+
+453
+00:13:29,520 --> 00:13:33,880
+premium messaging premium copy and so I
+
+454
+00:13:31,840 --> 00:13:35,360
+don't really like selling to markets
+
+455
+00:13:33,880 --> 00:13:36,720
+that are like looking for the cheapest
+
+456
+00:13:35,360 --> 00:13:38,120
+way to do something it's a race to the
+
+457
+00:13:36,720 --> 00:13:39,720
+bottom there's a reason why nobody's
+
+458
+00:13:38,120 --> 00:13:41,600
+able to compete with Walmart in they're
+
+459
+00:13:39,720 --> 00:13:43,600
+extremely low prices or same thing with
+
+460
+00:13:41,600 --> 00:13:46,240
+Amazon just the margins are ridiculously
+
+461
+00:13:43,600 --> 00:13:47,800
+low I'd rather sell premium products to
+
+462
+00:13:46,240 --> 00:13:49,640
+a premium audience so now that we
+
+463
+00:13:47,800 --> 00:13:51,160
+uploaded the swipe and chat BT has
+
+464
+00:13:49,640 --> 00:13:52,600
+analyzed the swipe this step is now
+
+465
+00:13:51,160 --> 00:13:55,120
+completely done so like the research
+
+466
+00:13:52,600 --> 00:13:57,520
+step is done foundational docs created
+
+467
+00:13:55,120 --> 00:13:59,120
+swipe has been uploaded next we get to
+
+468
+00:13:57,520 --> 00:14:01,680
+actually have some fun and start right
+
+469
+00:13:59,120 --> 00:14:03,720
+writing the adoral now one thing that I
+
+470
+00:14:01,680 --> 00:14:05,520
+noticed quick caveat is that when you're
+
+471
+00:14:03,720 --> 00:14:07,200
+writing adoral in any type of copy
+
+472
+00:14:05,520 --> 00:14:08,520
+honestly with chbt you have to be very
+
+473
+00:14:07,200 --> 00:14:09,960
+careful with how much copy you want it
+
+474
+00:14:08,520 --> 00:14:11,880
+to write if I tell it to write the
+
+475
+00:14:09,960 --> 00:14:13,160
+entire aatori start to finish the
+
+476
+00:14:11,880 --> 00:14:14,840
+quality of the output is going to be
+
+477
+00:14:13,160 --> 00:14:16,320
+very low because it's limited with a
+
+478
+00:14:14,840 --> 00:14:17,960
+number of tokens that it can send back
+
+479
+00:14:16,320 --> 00:14:19,880
+to you so for example if there's an
+
+480
+00:14:17,960 --> 00:14:21,480
+adoral that's like 2,000 words and you
+
+481
+00:14:19,880 --> 00:14:22,840
+say hey like rewrite this based off all
+
+482
+00:14:21,480 --> 00:14:24,120
+the foundational research that we did
+
+483
+00:14:22,840 --> 00:14:26,040
+it's only going to send you back like a
+
+484
+00:14:24,120 --> 00:14:27,840
+thousand words so I like to do it in
+
+485
+00:14:26,040 --> 00:14:30,440
+chunks either like first half second
+
+486
+00:14:27,840 --> 00:14:32,560
+half or you know by chunks of the actual
+
+487
+00:14:30,440 --> 00:14:34,280
+avoral inside of my document here I have
+
+488
+00:14:32,560 --> 00:14:36,000
+it go first half to second half so we're
+
+489
+00:14:34,280 --> 00:14:37,480
+going to go to the right section now
+
+490
+00:14:36,000 --> 00:14:40,280
+that we're on that step I'm going to
+
+491
+00:14:37,480 --> 00:14:42,040
+copy this go back to chat jbt paste it
+
+492
+00:14:40,280 --> 00:14:43,320
+and just fill in this information here
+
+493
+00:14:42,040 --> 00:14:45,200
+all right and now that analysis is
+
+494
+00:14:43,320 --> 00:14:47,520
+finished and I filled in the info on
+
+495
+00:14:45,200 --> 00:14:48,800
+this prompt I'm going to hit send and
+
+496
+00:14:47,520 --> 00:14:50,880
+now the fun actually begins where it's
+
+497
+00:14:48,800 --> 00:14:52,760
+actually going to be writing the avator
+
+498
+00:14:50,880 --> 00:14:54,360
+for you now keep in mind I only told it
+
+499
+00:14:52,760 --> 00:14:55,920
+to write the first half so let's look at
+
+500
+00:14:54,360 --> 00:14:58,560
+the first half if it's good we'll have
+
+501
+00:14:55,920 --> 00:15:00,000
+it continue and finish the entire adoral
+
+502
+00:14:58,560 --> 00:15:01,520
+if it needs tweaking if we want to write
+
+503
+00:15:00,000 --> 00:15:04,120
+to a different angle then we'll take
+
+504
+00:15:01,520 --> 00:15:06,320
+some time to readjust it again it should
+
+505
+00:15:04,120 --> 00:15:07,960
+be a conversation at this point like all
+
+506
+00:15:06,320 --> 00:15:09,840
+the hard work has been done it's really
+
+507
+00:15:07,960 --> 00:15:11,080
+just finding the perfect angle for your
+
+508
+00:15:09,840 --> 00:15:13,120
+adventori and making sure that it's
+
+509
+00:15:11,080 --> 00:15:14,840
+being communicated properly another
+
+510
+00:15:13,120 --> 00:15:16,200
+thing just cuz I'm really an annoying
+
+511
+00:15:14,840 --> 00:15:17,680
+[ __ ] is I don't like it when it goes
+
+512
+00:15:16,200 --> 00:15:19,640
+through the side view here I always
+
+513
+00:15:17,680 --> 00:15:21,280
+select answer in chat instead cuz in my
+
+514
+00:15:19,640 --> 00:15:23,000
+opinion sometimes the outputs come out
+
+515
+00:15:21,280 --> 00:15:24,960
+cleaner that could be totally biased but
+
+516
+00:15:23,000 --> 00:15:26,960
+that's just my personal experience oh
+
+517
+00:15:24,960 --> 00:15:30,960
+great I broke
+
+518
+00:15:26,960 --> 00:15:30,960
+it there we go
+
+519
+00:15:31,000 --> 00:15:34,880
+all right so it's in the process of
+
+520
+00:15:32,200 --> 00:15:36,360
+writing this full avator I'm already
+
+521
+00:15:34,880 --> 00:15:37,720
+super excited because for those that
+
+522
+00:15:36,360 --> 00:15:39,040
+don't know here's a headline that I came
+
+523
+00:15:37,720 --> 00:15:40,840
+up with right I couldn't sleep at night
+
+524
+00:15:39,040 --> 00:15:43,360
+terrified about our heating bills till I
+
+525
+00:15:40,840 --> 00:15:45,080
+discovered this new device so massive
+
+526
+00:15:43,360 --> 00:15:46,600
+open loop here created which is exactly
+
+527
+00:15:45,080 --> 00:15:47,640
+what you want with an adventori I'm
+
+528
+00:15:46,600 --> 00:15:49,040
+dying to read the rest of this thing
+
+529
+00:15:47,640 --> 00:15:50,200
+after reading the headline at one simple
+
+530
+00:15:49,040 --> 00:15:52,240
+portable heer finally free my family
+
+531
+00:15:50,200 --> 00:15:54,520
+from the endless stress of skyrocketing
+
+532
+00:15:52,240 --> 00:15:57,120
+energy cost pretty solid headline but
+
+533
+00:15:54,520 --> 00:16:00,200
+the crazy thing here is that this
+
+534
+00:15:57,120 --> 00:16:02,520
+headline here is actually a swipe of one
+
+535
+00:16:00,200 --> 00:16:04,200
+of the most successful headlines of all
+
+536
+00:16:02,520 --> 00:16:05,520
+time a really really old direct response
+
+537
+00:16:04,200 --> 00:16:06,760
+headline I did not tell it to do this so
+
+538
+00:16:05,520 --> 00:16:08,120
+the fact that it did this is really
+
+539
+00:16:06,760 --> 00:16:09,480
+[ __ ] cool sales letter I'm talking
+
+540
+00:16:08,120 --> 00:16:11,040
+about here is this headline here they
+
+541
+00:16:09,480 --> 00:16:12,560
+laughed when I sat down at the pan when
+
+542
+00:16:11,040 --> 00:16:14,200
+I started to play so look at this
+
+543
+00:16:12,560 --> 00:16:15,920
+headline here I couldn't sleep at night
+
+544
+00:16:14,200 --> 00:16:17,840
+terrifying until I discovered this new
+
+545
+00:16:15,920 --> 00:16:19,360
+device so it's like a very very similar
+
+546
+00:16:17,840 --> 00:16:21,080
+format here I'm pretty happy with this
+
+547
+00:16:19,360 --> 00:16:22,800
+first half honestly mostly just based
+
+548
+00:16:21,080 --> 00:16:24,320
+off of the headline because the headline
+
+549
+00:16:22,800 --> 00:16:26,400
+when it comes to split testing things
+
+550
+00:16:24,320 --> 00:16:28,200
+the headline pulls like 90% of your
+
+551
+00:16:26,400 --> 00:16:29,760
+entire ad tutorial and so at this point
+
+552
+00:16:28,200 --> 00:16:31,280
+I could cross reference and start going
+
+553
+00:16:29,760 --> 00:16:32,480
+back and forth with chbt I'm pretty
+
+554
+00:16:31,280 --> 00:16:35,360
+happy with this so I'm going to tell to
+
+555
+00:16:32,480 --> 00:16:37,520
+write the second
+
+556
+00:16:35,360 --> 00:16:38,920
+half and while it's writing that second
+
+557
+00:16:37,520 --> 00:16:41,360
+half I'm going to go ahead and copy the
+
+558
+00:16:38,920 --> 00:16:43,760
+entire first half here and paste it into
+
+559
+00:16:41,360 --> 00:16:43,760
+its own
+
+560
+00:16:44,160 --> 00:16:48,760
+document and it has finished the second
+
+561
+00:16:46,520 --> 00:16:50,440
+half of the adoral so same exact process
+
+562
+00:16:48,760 --> 00:16:52,520
+guys I'm going to copy the second half
+
+563
+00:16:50,440 --> 00:16:53,880
+paste it into my ADV vtorial documents
+
+564
+00:16:52,520 --> 00:16:56,040
+so that at this point we should have
+
+565
+00:16:53,880 --> 00:16:57,400
+like a fully finished fully written ADV
+
+566
+00:16:56,040 --> 00:16:59,080
+vtorial and what you're going to do is
+
+567
+00:16:57,400 --> 00:17:00,760
+pay all into another document same
+
+568
+00:16:59,080 --> 00:17:03,040
+process right download as a PDF and
+
+569
+00:17:00,760 --> 00:17:04,720
+immediately upload it back to Chach CU
+
+570
+00:17:03,040 --> 00:17:05,760
+at this point we have it written right
+
+571
+00:17:04,720 --> 00:17:07,520
+you can go back and forth you can
+
+572
+00:17:05,760 --> 00:17:08,800
+brainstorm new angles constantly like
+
+573
+00:17:07,520 --> 00:17:10,600
+this is the step where you can really
+
+574
+00:17:08,800 --> 00:17:12,200
+experiment but next we want to Chief it
+
+575
+00:17:10,600 --> 00:17:13,520
+and we can Chief it ourselves which we
+
+576
+00:17:12,200 --> 00:17:15,480
+you know I always recommended you do but
+
+577
+00:17:13,520 --> 00:17:17,360
+I'm going to have ai Chief it first
+
+578
+00:17:15,480 --> 00:17:18,960
+based off of the research that it did
+
+579
+00:17:17,360 --> 00:17:20,800
+like is this adventori actually in
+
+580
+00:17:18,960 --> 00:17:22,080
+alignment with the necessary beliefs is
+
+581
+00:17:20,800 --> 00:17:24,120
+it actually in alignment with the
+
+582
+00:17:22,080 --> 00:17:25,600
+research is it actually following the
+
+583
+00:17:24,120 --> 00:17:27,280
+necessary copywriting principles that
+
+584
+00:17:25,600 --> 00:17:28,680
+need to be followed in order for you to
+
+585
+00:17:27,280 --> 00:17:30,240
+write really high converting copy so I'm
+
+586
+00:17:28,680 --> 00:17:32,160
+going to copy all this here paste it
+
+587
+00:17:30,240 --> 00:17:33,960
+into my document download as a PDF and
+
+588
+00:17:32,160 --> 00:17:35,360
+immediately upload it right back we're
+
+589
+00:17:33,960 --> 00:17:36,680
+going to go over here and now we're
+
+590
+00:17:35,360 --> 00:17:37,840
+going to go to the chiefing section of
+
+591
+00:17:36,680 --> 00:17:40,000
+this document all right so I'm going to
+
+592
+00:17:37,840 --> 00:17:41,600
+copy all of this here and go ahead and
+
+593
+00:17:40,000 --> 00:17:43,560
+paste it right in now I said this
+
+594
+00:17:41,600 --> 00:17:46,000
+earlier but I want to reiterate when you
+
+595
+00:17:43,560 --> 00:17:48,400
+are chiefing copy you should have ai
+
+596
+00:17:46,000 --> 00:17:50,200
+Chief it but you're not done you still
+
+597
+00:17:48,400 --> 00:17:52,600
+have to go through and chief it yourself
+
+598
+00:17:50,200 --> 00:17:54,320
+and so my favorite chiefing process is
+
+599
+00:17:52,600 --> 00:17:56,280
+pretty standard I like to read through
+
+600
+00:17:54,320 --> 00:17:59,000
+it and anytime I feel stuck like there's
+
+601
+00:17:56,280 --> 00:18:01,680
+not a completely natural flow and
+
+602
+00:17:59,000 --> 00:18:03,040
+there's some illogical organization of
+
+603
+00:18:01,680 --> 00:18:04,960
+the words that's going to be something
+
+604
+00:18:03,040 --> 00:18:06,280
+that I actually personally adjust all
+
+605
+00:18:04,960 --> 00:18:08,800
+right there was a famous copywriter
+
+606
+00:18:06,280 --> 00:18:10,360
+can't remember his name currently but he
+
+607
+00:18:08,800 --> 00:18:11,880
+said that your copy should basically be
+
+608
+00:18:10,360 --> 00:18:14,000
+like your prospect is sliding down a
+
+609
+00:18:11,880 --> 00:18:15,080
+slippery slide like a greased up slide
+
+610
+00:18:14,000 --> 00:18:16,680
+so if there's any point during your
+
+611
+00:18:15,080 --> 00:18:18,040
+adoral where it feels like there's a
+
+612
+00:18:16,680 --> 00:18:20,360
+bump in the slide and it just doesn't
+
+613
+00:18:18,040 --> 00:18:21,600
+feel natural that's really the goal of
+
+614
+00:18:20,360 --> 00:18:24,000
+the achieving process where we can
+
+615
+00:18:21,600 --> 00:18:25,760
+identify those points where it's not
+
+616
+00:18:24,000 --> 00:18:26,680
+flowing super super well cuz that's
+
+617
+00:18:25,760 --> 00:18:28,320
+going to be something that ends up
+
+618
+00:18:26,680 --> 00:18:30,600
+costing you conversions so now this is
+
+619
+00:18:28,320 --> 00:18:32,840
+actually step that you want to read the
+
+620
+00:18:30,600 --> 00:18:34,400
+output that AI has given you so let's
+
+621
+00:18:32,840 --> 00:18:36,640
+take a look at the the chiefing that it
+
+622
+00:18:34,400 --> 00:18:38,680
+did here so it does align with the
+
+623
+00:18:36,640 --> 00:18:40,680
+emotional storytelling identification of
+
+624
+00:18:38,680 --> 00:18:42,440
+the problem so hit the necessary beliefs
+
+625
+00:18:40,680 --> 00:18:44,160
+I believe my current heating method is
+
+626
+00:18:42,440 --> 00:18:46,920
+inefficient and costly the unique
+
+627
+00:18:44,160 --> 00:18:48,600
+mechanism is clearly presented we preh
+
+628
+00:18:46,920 --> 00:18:49,840
+handled objections like a lot of people
+
+629
+00:18:48,600 --> 00:18:51,720
+think that objections is something
+
+630
+00:18:49,840 --> 00:18:54,000
+that's only covered like an FAQ section
+
+631
+00:18:51,720 --> 00:18:56,160
+no ideally there's no objections ideally
+
+632
+00:18:54,000 --> 00:18:58,000
+you cover and handle all the objections
+
+633
+00:18:56,160 --> 00:18:59,440
+before they even get to the sales page
+
+634
+00:18:58,000 --> 00:19:01,120
+of your offer so this is really really
+
+635
+00:18:59,440 --> 00:19:02,400
+good leveraging external Blain and
+
+636
+00:19:01,120 --> 00:19:03,680
+villain so this is like from the
+
+637
+00:19:02,400 --> 00:19:05,400
+competitor analysis that I did
+
+638
+00:19:03,680 --> 00:19:06,960
+previously the risk reversal is there
+
+639
+00:19:05,400 --> 00:19:09,000
+which is going to help with the
+
+640
+00:19:06,960 --> 00:19:10,160
+affordability aspect also in alignment
+
+641
+00:19:09,000 --> 00:19:12,520
+with our levels of consciousness and
+
+642
+00:19:10,160 --> 00:19:14,880
+stages of sophistication and then also
+
+643
+00:19:12,520 --> 00:19:16,640
+gives a few areas for you to potentially
+
+644
+00:19:14,880 --> 00:19:18,040
+improve especially like the conspiracy
+
+645
+00:19:16,640 --> 00:19:19,360
+angle because with this one it's like
+
+646
+00:19:18,040 --> 00:19:21,160
+the heating companies are like trying to
+
+647
+00:19:19,360 --> 00:19:23,160
+keep you broke or like trying to always
+
+648
+00:19:21,160 --> 00:19:25,240
+keep increasing your bill etc etc so
+
+649
+00:19:23,160 --> 00:19:26,560
+that could be an entire new angle that
+
+650
+00:19:25,240 --> 00:19:28,080
+you dive into this is called The
+
+651
+00:19:26,560 --> 00:19:30,080
+Whistleblower angle where there was like
+
+652
+00:19:28,080 --> 00:19:31,600
+somebody on the inside quote unquote
+
+653
+00:19:30,080 --> 00:19:33,240
+that was able to escape and is now
+
+654
+00:19:31,600 --> 00:19:34,480
+trying to tell the truth to the world
+
+655
+00:19:33,240 --> 00:19:36,440
+that's a really powerful angle that you
+
+656
+00:19:34,480 --> 00:19:38,160
+can use in your avator as well overall
+
+657
+00:19:36,440 --> 00:19:39,640
+everything is pretty in line you can see
+
+658
+00:19:38,160 --> 00:19:41,200
+that it's in line with Avatar research
+
+659
+00:19:39,640 --> 00:19:42,720
+with the offer brief with the necessary
+
+660
+00:19:41,200 --> 00:19:44,360
+beliefs with the levels of consciousness
+
+661
+00:19:42,720 --> 00:19:46,400
+everything that you could possibly need
+
+662
+00:19:44,360 --> 00:19:47,920
+and at this point you have completed the
+
+663
+00:19:46,400 --> 00:19:49,360
+process I added a bonus here on the
+
+664
+00:19:47,920 --> 00:19:51,400
+document which is basically how to
+
+665
+00:19:49,360 --> 00:19:53,320
+create editorial with additional angles
+
+666
+00:19:51,400 --> 00:19:54,720
+but it's really in this process right
+
+667
+00:19:53,320 --> 00:19:56,280
+here so after you go through and write
+
+668
+00:19:54,720 --> 00:19:58,840
+it now you can actually have a
+
+669
+00:19:56,280 --> 00:20:00,320
+conversation with AI the entire time but
+
+670
+00:19:58,840 --> 00:20:02,040
+that's basically it for this video guys
+
+671
+00:20:00,320 --> 00:20:03,480
+I mean at this point you know exactly
+
+672
+00:20:02,040 --> 00:20:04,960
+how to conduct really effective
+
+673
+00:20:03,480 --> 00:20:06,320
+copyrighting research you know how to
+
+674
+00:20:04,960 --> 00:20:07,520
+create the foundational documents you
+
+675
+00:20:06,320 --> 00:20:09,200
+know how to find the swipe you know how
+
+676
+00:20:07,520 --> 00:20:12,480
+to write it and you know how to Chief so
+
+677
+00:20:09,200 --> 00:20:13,880
+like you are basically 100% completed on
+
+678
+00:20:12,480 --> 00:20:16,040
+writing an ad tutorial and that took us
+
+679
+00:20:13,880 --> 00:20:18,000
+like under an hour to do the entire
+
+680
+00:20:16,040 --> 00:20:20,240
+process it's absolutely insane like the
+
+681
+00:20:18,000 --> 00:20:21,880
+capabilities of AI right now and this is
+
+682
+00:20:20,240 --> 00:20:23,120
+something that we use actively in our
+
+683
+00:20:21,880 --> 00:20:24,440
+business and something that I'm proving
+
+684
+00:20:23,120 --> 00:20:28,000
+every single day but this is what we're
+
+685
+00:20:24,440 --> 00:20:28,000
+actually doing right now if you
+

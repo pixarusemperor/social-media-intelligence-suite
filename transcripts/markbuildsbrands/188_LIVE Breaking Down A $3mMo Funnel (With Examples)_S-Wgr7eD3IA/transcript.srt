@@ -1,0 +1,5960 @@
+1
+00:00:06,840 --> 00:00:11,400
+all right how's it going guys um in this
+
+2
+00:00:09,000 --> 00:00:13,520
+video I'm going to be going over a $3
+
+3
+00:00:11,400 --> 00:00:15,680
+million per month econ brand uh that is
+
+4
+00:00:13,520 --> 00:00:18,400
+utilizing the really really well
+
+5
+00:00:15,680 --> 00:00:19,680
+constructed funnel architecture and so
+
+6
+00:00:18,400 --> 00:00:21,680
+in this video I want to actually break
+
+7
+00:00:19,680 --> 00:00:24,760
+down the exact funnel architecture that
+
+8
+00:00:21,680 --> 00:00:27,200
+they specifically are using and why this
+
+9
+00:00:24,760 --> 00:00:29,120
+is the best structure uh to run if you
+
+10
+00:00:27,200 --> 00:00:30,480
+have an Ecom store in 2024 and going
+
+11
+00:00:29,120 --> 00:00:32,880
+into 2025
+
+12
+00:00:30,480 --> 00:00:34,840
+so I posted a video a few days ago um
+
+13
+00:00:32,880 --> 00:00:36,800
+actually about a week ago now and it was
+
+14
+00:00:34,840 --> 00:00:38,760
+basically around the concept of not
+
+15
+00:00:36,800 --> 00:00:40,680
+sending traffic to regular product page
+
+16
+00:00:38,760 --> 00:00:42,440
+if you're uh doing Ecom if you're doing
+
+17
+00:00:40,680 --> 00:00:44,200
+Drop Shipping etc for the majority of
+
+18
+00:00:42,440 --> 00:00:45,480
+niches um I really think that this is
+
+19
+00:00:44,200 --> 00:00:47,600
+the best way to run things because if
+
+20
+00:00:45,480 --> 00:00:49,720
+you're still trying to run uh you know
+
+21
+00:00:47,600 --> 00:00:51,440
+e-commerce in 2024 into 2025 and you're
+
+22
+00:00:49,720 --> 00:00:52,440
+using what I call like the old model
+
+23
+00:00:51,440 --> 00:00:53,760
+which where you're just sending traffic
+
+24
+00:00:52,440 --> 00:00:56,160
+to a basic product page or simply just
+
+25
+00:00:53,760 --> 00:00:58,440
+not going to survive you know long term
+
+26
+00:00:56,160 --> 00:00:59,760
+um I know a lot of the a lot of really
+
+27
+00:00:58,440 --> 00:01:02,360
+big players like in the direct response
+
+28
+00:00:59,760 --> 00:01:05,160
+base and e-commerce and most of them are
+
+29
+00:01:02,360 --> 00:01:06,960
+just so so bullish so freaking bullish
+
+30
+00:01:05,160 --> 00:01:09,000
+on this method and that's why I adopted
+
+31
+00:01:06,960 --> 00:01:10,640
+it into my own Brands as well and you
+
+32
+00:01:09,000 --> 00:01:12,320
+just have so much more flexibility with
+
+33
+00:01:10,640 --> 00:01:14,840
+the post-p purchase upsell path you can
+
+34
+00:01:12,320 --> 00:01:16,800
+maximize your aov make more money uh
+
+35
+00:01:14,840 --> 00:01:18,520
+even convert more customers because the
+
+36
+00:01:16,800 --> 00:01:19,600
+first thing that people uh you know like
+
+37
+00:01:18,520 --> 00:01:20,840
+the the objection that people have
+
+38
+00:01:19,600 --> 00:01:24,720
+whenever you're running a structure like
+
+39
+00:01:20,840 --> 00:01:26,760
+this is simply that the um you're adding
+
+40
+00:01:24,720 --> 00:01:27,960
+friction and to most people especially
+
+41
+00:01:26,760 --> 00:01:29,200
+like beginners it just doesn't make any
+
+42
+00:01:27,960 --> 00:01:31,760
+sense because don't you want to remove
+
+43
+00:01:29,200 --> 00:01:33,360
+steps don't you want to remove the
+
+44
+00:01:31,760 --> 00:01:37,440
+friction
+
+45
+00:01:33,360 --> 00:01:39,720
+and the answer is is actually no and
+
+46
+00:01:37,440 --> 00:01:40,880
+you're not really adding friction and so
+
+47
+00:01:39,720 --> 00:01:43,000
+let me kind of show you what most people
+
+48
+00:01:40,880 --> 00:01:45,320
+are kind of doing right now in in Ecom
+
+49
+00:01:43,000 --> 00:01:47,280
+and in this whole Space is they have an
+
+50
+00:01:45,320 --> 00:01:49,880
+ad right here say this like an ad on
+
+51
+00:01:47,280 --> 00:01:52,240
+Facebook and you know I know my drawings
+
+52
+00:01:49,880 --> 00:01:54,280
+are really really good so you know
+
+53
+00:01:52,240 --> 00:01:56,200
+nothing you can do about that um but if
+
+54
+00:01:54,280 --> 00:01:58,880
+we have an ad it just drive straight to
+
+55
+00:01:56,200 --> 00:02:00,680
+a Shopify product page you know you have
+
+56
+00:01:58,880 --> 00:02:02,440
+the image of the product right here you
+
+57
+00:02:00,680 --> 00:02:04,200
+got the name you got like a little bit
+
+58
+00:02:02,440 --> 00:02:05,400
+of a description down here some reviews
+
+59
+00:02:04,200 --> 00:02:07,440
+like this is the standard model that
+
+60
+00:02:05,400 --> 00:02:09,640
+most people are run to then from here
+
+61
+00:02:07,440 --> 00:02:12,200
+you got the cart page and then the
+
+62
+00:02:09,640 --> 00:02:14,200
+checkout and then after the checkout so
+
+63
+00:02:12,200 --> 00:02:16,040
+that's checkout and then this is the
+
+64
+00:02:14,200 --> 00:02:19,680
+cart and so after people get to the
+
+65
+00:02:16,040 --> 00:02:22,280
+checkout uh page they're basically done
+
+66
+00:02:19,680 --> 00:02:23,600
+and this alone is really a a poor me
+
+67
+00:02:22,280 --> 00:02:25,200
+poor method of converting customers and
+
+68
+00:02:23,600 --> 00:02:28,920
+the reason why is simply
+
+69
+00:02:25,200 --> 00:02:30,400
+because you're only speaking to the tiny
+
+70
+00:02:28,920 --> 00:02:32,880
+tiny portion of the market that is ready
+
+71
+00:02:30,400 --> 00:02:34,120
+to buy right now so let me say that
+
+72
+00:02:32,880 --> 00:02:35,480
+again you're only really speaking to the
+
+73
+00:02:34,120 --> 00:02:37,480
+small tiny portion of the market that is
+
+74
+00:02:35,480 --> 00:02:39,320
+ready to buy right right now and that
+
+75
+00:02:37,480 --> 00:02:42,000
+could be like 1 to 3% of the total
+
+76
+00:02:39,320 --> 00:02:44,000
+target market your job as a marketer as
+
+77
+00:02:42,000 --> 00:02:45,760
+an Advertiser is to channel the existing
+
+78
+00:02:44,000 --> 00:02:47,280
+desire through your funnel to take
+
+79
+00:02:45,760 --> 00:02:48,840
+people that maybe aren't ready to buy
+
+80
+00:02:47,280 --> 00:02:50,640
+right now and get them to buy right now
+
+81
+00:02:48,840 --> 00:02:53,440
+that's your whole job that's the whole
+
+82
+00:02:50,640 --> 00:02:55,680
+point of going through this process okay
+
+83
+00:02:53,440 --> 00:02:57,120
+so if this is like the normal um normal
+
+84
+00:02:55,680 --> 00:02:58,800
+process right here let's say you're
+
+85
+00:02:57,120 --> 00:03:00,440
+selling a you know let's take like a
+
+86
+00:02:58,800 --> 00:03:02,840
+nice round easy number let's say you're
+
+87
+00:03:00,440 --> 00:03:04,680
+selling like a $50 product right right
+
+88
+00:03:02,840 --> 00:03:07,120
+here on the product page the average
+
+89
+00:03:04,680 --> 00:03:08,600
+conversion rate on you know a typical
+
+90
+00:03:07,120 --> 00:03:10,680
+funnel like this we'll just call this
+
+91
+00:03:08,600 --> 00:03:12,640
+you know I made a joke that this was
+
+92
+00:03:10,680 --> 00:03:14,120
+called the basic [ __ ] funnel but it's
+
+93
+00:03:12,640 --> 00:03:15,640
+just a basic funnel you know standard
+
+94
+00:03:14,120 --> 00:03:18,120
+sending straight to a you know product
+
+95
+00:03:15,640 --> 00:03:19,400
+page PDP and then you know you got card
+
+96
+00:03:18,120 --> 00:03:20,760
+page and check out the problem with this
+
+97
+00:03:19,400 --> 00:03:22,520
+method is that it's really restricting
+
+98
+00:03:20,760 --> 00:03:23,960
+your aov and really restricting your
+
+99
+00:03:22,520 --> 00:03:25,840
+conversion rate so in this video I
+
+100
+00:03:23,960 --> 00:03:27,800
+wanted to in this live rather I really
+
+101
+00:03:25,840 --> 00:03:29,080
+want to show you guys a brand that is
+
+102
+00:03:27,800 --> 00:03:30,400
+absolutely destroying right now that is
+
+103
+00:03:29,080 --> 00:03:32,800
+using a more advanced
+
+104
+00:03:30,400 --> 00:03:35,320
+funnel architecture as I like to call it
+
+105
+00:03:32,800 --> 00:03:37,760
+and like I said if you were to take like
+
+106
+00:03:35,320 --> 00:03:40,560
+your entire market and they were to be
+
+107
+00:03:37,760 --> 00:03:42,360
+in this oh God there we go okay if they
+
+108
+00:03:40,560 --> 00:03:45,080
+were to be like in this uh this pie
+
+109
+00:03:42,360 --> 00:03:48,560
+chart basically you have about
+
+110
+00:03:45,080 --> 00:03:52,000
+97% of people that are basically not
+
+111
+00:03:48,560 --> 00:03:55,920
+ready to buy um so that leaves this tiny
+
+112
+00:03:52,000 --> 00:03:57,240
+3% chunk right here that actually is so
+
+113
+00:03:55,920 --> 00:03:58,840
+when you're running the standard model I
+
+114
+00:03:57,240 --> 00:04:00,400
+really want you to understand like why
+
+115
+00:03:58,840 --> 00:04:02,640
+this is not the best way to do do things
+
+116
+00:04:00,400 --> 00:04:04,240
+if you're running a a standard uh funnel
+
+117
+00:04:02,640 --> 00:04:05,800
+architecture like this you're really
+
+118
+00:04:04,240 --> 00:04:08,200
+only talking to this
+
+119
+00:04:05,800 --> 00:04:10,280
+3% little do you know it's like the tip
+
+120
+00:04:08,200 --> 00:04:13,120
+of an iceberg you know you see like if
+
+121
+00:04:10,280 --> 00:04:16,000
+this is if this is the ocean and you see
+
+122
+00:04:13,120 --> 00:04:17,440
+like the tip of the iceberg right here
+
+123
+00:04:16,000 --> 00:04:18,640
+you're like oh this is awesome I'm just
+
+124
+00:04:17,440 --> 00:04:20,280
+going to go after all these buyers right
+
+125
+00:04:18,640 --> 00:04:22,240
+here they're ready to buy they know the
+
+126
+00:04:20,280 --> 00:04:24,440
+product they're they're they're solution
+
+127
+00:04:22,240 --> 00:04:25,960
+aware and I hi them with my ad and they
+
+128
+00:04:24,440 --> 00:04:27,720
+convert as long as my product page is
+
+129
+00:04:25,960 --> 00:04:29,120
+good my ad is good and everything else
+
+130
+00:04:27,720 --> 00:04:30,600
+will take care of itself and these are
+
+131
+00:04:29,120 --> 00:04:32,160
+the types of people people by the way
+
+132
+00:04:30,600 --> 00:04:33,400
+that obsess over the product because
+
+133
+00:04:32,160 --> 00:04:35,160
+think about what you're really competing
+
+134
+00:04:33,400 --> 00:04:36,880
+on in this instance if you have an ad
+
+135
+00:04:35,160 --> 00:04:39,120
+that's going to a PDP and then C page in
+
+136
+00:04:36,880 --> 00:04:41,520
+a checkout all the emphasis all the
+
+137
+00:04:39,120 --> 00:04:43,840
+power is in the hands of the ad and the
+
+138
+00:04:41,520 --> 00:04:46,120
+product those are very very very
+
+139
+00:04:43,840 --> 00:04:48,240
+competitive and difficult varibles to
+
+140
+00:04:46,120 --> 00:04:50,040
+compete on so in the video that I posted
+
+141
+00:04:48,240 --> 00:04:51,280
+last week um if you're not if you
+
+142
+00:04:50,040 --> 00:04:52,800
+haven't watched it by the way absolutely
+
+143
+00:04:51,280 --> 00:04:54,880
+watch that video It's called you know
+
+144
+00:04:52,800 --> 00:04:56,400
+zero to uh 600k a month with branded
+
+145
+00:04:54,880 --> 00:04:57,600
+Drop Shipping just copy me if you
+
+146
+00:04:56,400 --> 00:04:59,760
+haven't watched that video please watch
+
+147
+00:04:57,600 --> 00:05:01,200
+it now cuz I explain that this is not
+
+148
+00:04:59,760 --> 00:05:02,640
+not the best way of doing things because
+
+149
+00:05:01,200 --> 00:05:03,800
+you're really only talking to a tiny
+
+150
+00:05:02,640 --> 00:05:05,600
+percent of the market that's ready to
+
+151
+00:05:03,800 --> 00:05:07,240
+buy right now however if you simply
+
+152
+00:05:05,600 --> 00:05:09,160
+change the structure of your funnel you
+
+153
+00:05:07,240 --> 00:05:11,160
+run some different ads and then instead
+
+154
+00:05:09,160 --> 00:05:13,320
+of sending them to a PDP you know a
+
+155
+00:05:11,160 --> 00:05:15,680
+regular product page you send them to a
+
+156
+00:05:13,320 --> 00:05:17,880
+well constructed ad vtorial funnel or
+
+157
+00:05:15,680 --> 00:05:21,120
+via cell funnel and then instead of just
+
+158
+00:05:17,880 --> 00:05:23,760
+ending the whole checkout process right
+
+159
+00:05:21,120 --> 00:05:24,720
+here you have I can't scroll over
+
+160
+00:05:23,760 --> 00:05:25,840
+because I have I have some other
+
+161
+00:05:24,720 --> 00:05:28,280
+writings here that I was I was training
+
+162
+00:05:25,840 --> 00:05:30,120
+my team on but basically you know [ __ ]
+
+163
+00:05:28,280 --> 00:05:34,840
+all that basically it's going to be you
+
+164
+00:05:30,120 --> 00:05:38,160
+know upsell boom down sell boom upsell
+
+165
+00:05:34,840 --> 00:05:40,640
+two boom down sell two boom and so you
+
+166
+00:05:38,160 --> 00:05:42,320
+can completely construct this super
+
+167
+00:05:40,640 --> 00:05:44,760
+super well-designed direct response
+
+168
+00:05:42,320 --> 00:05:46,360
+funnel where you can capture more than
+
+169
+00:05:44,760 --> 00:05:47,880
+3% of the market and you can maybe take
+
+170
+00:05:46,360 --> 00:05:49,560
+it from like 3% you know it's not going
+
+171
+00:05:47,880 --> 00:05:51,080
+to you're not going to Target 97 because
+
+172
+00:05:49,560 --> 00:05:53,680
+you just have to be a god of a marketer
+
+173
+00:05:51,080 --> 00:05:56,880
+and even those guys like they're maybe
+
+174
+00:05:53,680 --> 00:05:58,200
+capturing like 10% you know but you can
+
+175
+00:05:56,880 --> 00:05:59,440
+speak to so many more people because
+
+176
+00:05:58,200 --> 00:06:00,960
+you're not just going like hey buy my
+
+177
+00:05:59,440 --> 00:06:02,120
+prodct by my product that's that's
+
+178
+00:06:00,960 --> 00:06:04,040
+essentially what this funnel is doing I
+
+179
+00:06:02,120 --> 00:06:05,240
+hope you guys understand people are
+
+180
+00:06:04,040 --> 00:06:07,480
+going through the feed and they don't
+
+181
+00:06:05,240 --> 00:06:09,720
+like looking at ads generally speaking
+
+182
+00:06:07,480 --> 00:06:11,240
+unless you're competing with like the
+
+183
+00:06:09,720 --> 00:06:12,800
+perfect product and you message that in
+
+184
+00:06:11,240 --> 00:06:14,800
+the perfect way on your ad on your
+
+185
+00:06:12,800 --> 00:06:16,760
+creative then you can make this funnel
+
+186
+00:06:14,800 --> 00:06:17,880
+work um don't get me wrong there's a lot
+
+187
+00:06:16,760 --> 00:06:20,560
+of Brands right now that are crushing
+
+188
+00:06:17,880 --> 00:06:22,320
+with this funnel um and if you look at
+
+189
+00:06:20,560 --> 00:06:24,600
+them it's typically because they have a
+
+190
+00:06:22,320 --> 00:06:26,440
+very good brand presence and a very very
+
+191
+00:06:24,600 --> 00:06:27,640
+very good product Market fit and they
+
+192
+00:06:26,440 --> 00:06:29,360
+know exactly how to speak to the
+
+193
+00:06:27,640 --> 00:06:31,520
+customers that they want to go after so
+
+194
+00:06:29,360 --> 00:06:33,280
+that's like the real real way that they
+
+195
+00:06:31,520 --> 00:06:34,840
+compete for you especially if you're
+
+196
+00:06:33,280 --> 00:06:36,840
+just starting out you don't have that
+
+197
+00:06:34,840 --> 00:06:38,520
+competitive Advantage you just don't and
+
+198
+00:06:36,840 --> 00:06:40,240
+so you have to come up with something
+
+199
+00:06:38,520 --> 00:06:42,040
+else to compete on so that's why my
+
+200
+00:06:40,240 --> 00:06:43,120
+whole thing in the in the previous uh
+
+201
+00:06:42,040 --> 00:06:44,400
+previous funnel was competing on
+
+202
+00:06:43,120 --> 00:06:46,640
+marketing competing on funnel and
+
+203
+00:06:44,400 --> 00:06:47,960
+competing on economics which again that
+
+204
+00:06:46,640 --> 00:06:49,760
+idea originally was brought to me like
+
+205
+00:06:47,960 --> 00:06:51,960
+Years Ago by alen suton so I want to
+
+206
+00:06:49,760 --> 00:06:55,160
+make sure I give credit to that guy and
+
+207
+00:06:51,960 --> 00:06:57,480
+um it's basically ad product pce cart
+
+208
+00:06:55,160 --> 00:06:59,160
+check out boom that's it you're done
+
+209
+00:06:57,480 --> 00:07:01,120
+that's how you capture 3% but if you
+
+210
+00:06:59,160 --> 00:07:02,600
+want to capture 97% let me show you what
+
+211
+00:07:01,120 --> 00:07:04,200
+this brand is doing you can actually
+
+212
+00:07:02,600 --> 00:07:06,040
+look at them as a great example because
+
+213
+00:07:04,200 --> 00:07:08,160
+instead of just targeting this tiny
+
+214
+00:07:06,040 --> 00:07:11,800
+little tip of the iceberg little do you
+
+215
+00:07:08,160 --> 00:07:14,840
+know there's just a massive massive pile
+
+216
+00:07:11,800 --> 00:07:16,680
+of cash beneath this monstrous [ __ ]
+
+217
+00:07:14,840 --> 00:07:19,040
+Iceberg but all you see is the tip
+
+218
+00:07:16,680 --> 00:07:20,680
+simply because you like most people
+
+219
+00:07:19,040 --> 00:07:22,360
+aren't doing this and the people that
+
+220
+00:07:20,680 --> 00:07:24,280
+are they're very very underground they
+
+221
+00:07:22,360 --> 00:07:26,120
+don't talk about it nobody really talks
+
+222
+00:07:24,280 --> 00:07:28,320
+about this this this structure anywhere
+
+223
+00:07:26,120 --> 00:07:31,120
+people are still teaching the same [ __ ]
+
+224
+00:07:28,320 --> 00:07:32,000
+that that happened when I started Drop
+
+225
+00:07:31,120 --> 00:07:34,160
+Shipping in
+
+226
+00:07:32,000 --> 00:07:35,400
+2018 still teaching the same [ __ ] don't
+
+227
+00:07:34,160 --> 00:07:37,080
+you think that the game has changed a
+
+228
+00:07:35,400 --> 00:07:39,040
+little bit still trying to compete on
+
+229
+00:07:37,080 --> 00:07:41,720
+the product still trying to compete on
+
+230
+00:07:39,040 --> 00:07:43,680
+like having a standard Shopify store
+
+231
+00:07:41,720 --> 00:07:45,320
+you're just going to be screwed like
+
+232
+00:07:43,680 --> 00:07:47,000
+you're just going to be screwed so
+
+233
+00:07:45,320 --> 00:07:49,040
+instead of you know using a model like
+
+234
+00:07:47,000 --> 00:07:51,800
+this um and only only going after like
+
+235
+00:07:49,040 --> 00:07:53,760
+that 3% that tip of the iceberg let me
+
+236
+00:07:51,800 --> 00:07:55,480
+show you how to actually capture uh
+
+237
+00:07:53,760 --> 00:08:00,280
+capture a significantly greater market
+
+238
+00:07:55,480 --> 00:08:01,880
+share like this 97% here okay so um what
+
+239
+00:08:00,280 --> 00:08:03,280
+like I said the main problem with this
+
+240
+00:08:01,880 --> 00:08:04,720
+funnel and the reason that I keep going
+
+241
+00:08:03,280 --> 00:08:07,200
+back to this is you have to understand
+
+242
+00:08:04,720 --> 00:08:09,480
+why this doesn't work so I can explain
+
+243
+00:08:07,200 --> 00:08:11,400
+what really does work so the problem
+
+244
+00:08:09,480 --> 00:08:12,680
+here is that you're going from ad
+
+245
+00:08:11,400 --> 00:08:13,920
+straight to a product page and getting
+
+246
+00:08:12,680 --> 00:08:16,160
+people to buy immediately without
+
+247
+00:08:13,920 --> 00:08:18,000
+channeling any existing desire that's
+
+248
+00:08:16,160 --> 00:08:20,880
+really in the market you're not really
+
+249
+00:08:18,000 --> 00:08:22,560
+take putting them in the uh in the
+
+250
+00:08:20,880 --> 00:08:24,600
+problem State and then taking them to
+
+251
+00:08:22,560 --> 00:08:26,320
+the solution State because the thing
+
+252
+00:08:24,600 --> 00:08:27,480
+here is that you're basically only going
+
+253
+00:08:26,320 --> 00:08:29,640
+after them when people are in the
+
+254
+00:08:27,480 --> 00:08:32,160
+solution State unless they know about
+
+255
+00:08:29,640 --> 00:08:34,680
+the the root cause of the problem and
+
+256
+00:08:32,160 --> 00:08:36,080
+this happens to directly align with that
+
+257
+00:08:34,680 --> 00:08:39,200
+as a solution like your product just
+
+258
+00:08:36,080 --> 00:08:40,280
+happens to perfectly fit like a glove um
+
+259
+00:08:39,200 --> 00:08:42,120
+then you're then you're really really
+
+260
+00:08:40,280 --> 00:08:43,480
+limiting yourself and so the reason that
+
+261
+00:08:42,120 --> 00:08:45,440
+this funnel um that I'm about to draw
+
+262
+00:08:43,480 --> 00:08:48,280
+out for you guys works so much better is
+
+263
+00:08:45,440 --> 00:08:52,880
+because you can you can like morph it
+
+264
+00:08:48,280 --> 00:08:54,640
+and and uh structure it in a way that
+
+265
+00:08:52,880 --> 00:08:56,840
+really really benefits you you can kind
+
+266
+00:08:54,640 --> 00:08:59,000
+of twist it and morph it into your own
+
+267
+00:08:56,840 --> 00:09:00,160
+unique solution so this is why you can
+
+268
+00:08:59,000 --> 00:09:01,920
+take product products that are quote
+
+269
+00:09:00,160 --> 00:09:03,640
+unquote saturated just absolutely
+
+270
+00:09:01,920 --> 00:09:05,600
+destroy it's because of this model here
+
+271
+00:09:03,640 --> 00:09:07,800
+so let me kind of show you guys what I
+
+272
+00:09:05,600 --> 00:09:08,960
+mean here so the first thing is you know
+
+273
+00:09:07,800 --> 00:09:10,360
+we're still going to start with an ads
+
+274
+00:09:08,960 --> 00:09:12,880
+because you know run more ads that's our
+
+275
+00:09:10,360 --> 00:09:15,040
+thing um however like the difference in
+
+276
+00:09:12,880 --> 00:09:16,280
+the ad here is I'm probably not going to
+
+277
+00:09:15,040 --> 00:09:17,760
+use like a standard if you think of what
+
+278
+00:09:16,280 --> 00:09:20,440
+a Drop Shipping ad is or if you don't
+
+279
+00:09:17,760 --> 00:09:21,840
+know you can just go on any AD spy tool
+
+280
+00:09:20,440 --> 00:09:23,200
+and you'll probably see a lot of them
+
+281
+00:09:21,840 --> 00:09:25,280
+it's just standard like all about the
+
+282
+00:09:23,200 --> 00:09:27,000
+product um but what's working really
+
+283
+00:09:25,280 --> 00:09:29,440
+really well right now is actually having
+
+284
+00:09:27,000 --> 00:09:31,200
+a little bit longer ads um that are
+
+285
+00:09:29,440 --> 00:09:33,120
+actually many vsls they'll they'll be
+
+286
+00:09:31,200 --> 00:09:34,880
+like vsl ads that are anywhere from like
+
+287
+00:09:33,120 --> 00:09:37,600
+you know 4 to 8 minutes long sometimes
+
+288
+00:09:34,880 --> 00:09:39,800
+they're even like 3 minutes long um but
+
+289
+00:09:37,600 --> 00:09:41,640
+they're really really putting people in
+
+290
+00:09:39,800 --> 00:09:42,760
+their own problem State attacking them
+
+291
+00:09:41,640 --> 00:09:44,720
+there and getting them in the proper
+
+292
+00:09:42,760 --> 00:09:46,720
+solution state so that by the time they
+
+293
+00:09:44,720 --> 00:09:49,520
+actually get to your Lander they're
+
+294
+00:09:46,720 --> 00:09:50,800
+already pre-sold okay and so with this
+
+295
+00:09:49,520 --> 00:09:53,760
+you know granted I'm not going to say
+
+296
+00:09:50,800 --> 00:09:56,000
+that this is an easy method to start up
+
+297
+00:09:53,760 --> 00:09:57,440
+so like even for beginners I'm like
+
+298
+00:09:56,000 --> 00:10:00,600
+should I really be recommending this
+
+299
+00:09:57,440 --> 00:10:02,120
+because it's uh it's it's not easy like
+
+300
+00:10:00,600 --> 00:10:03,760
+for me to just sit back here and say
+
+301
+00:10:02,120 --> 00:10:05,640
+that oh this new model is easy Ecom is
+
+302
+00:10:03,760 --> 00:10:08,600
+easy Shopify is easy I'm just not going
+
+303
+00:10:05,640 --> 00:10:10,080
+to say that because it's not true um
+
+304
+00:10:08,600 --> 00:10:11,040
+however if you do it the right way I
+
+305
+00:10:10,080 --> 00:10:12,760
+really really think you're setting
+
+306
+00:10:11,040 --> 00:10:14,400
+yourself up for Success long term not
+
+307
+00:10:12,760 --> 00:10:16,240
+just for like you know making a few
+
+308
+00:10:14,400 --> 00:10:17,760
+thousand dollars not just a few thous uh
+
+309
+00:10:16,240 --> 00:10:18,920
+tens of thousand dolls or 100 thousand
+
+310
+00:10:17,760 --> 00:10:19,960
+like literally millions of dollars
+
+311
+00:10:18,920 --> 00:10:23,360
+because these are the brands right now
+
+312
+00:10:19,960 --> 00:10:25,120
+that are scaling to 50 100 $500,000 per
+
+313
+00:10:23,360 --> 00:10:27,680
+day in sales it's a brands that are
+
+314
+00:10:25,120 --> 00:10:29,840
+using a model like this so we have um
+
+315
+00:10:27,680 --> 00:10:31,400
+the ad but instead of the ad going to to
+
+316
+00:10:29,840 --> 00:10:33,520
+the straight like PDP which is what we
+
+317
+00:10:31,400 --> 00:10:36,560
+had previously that ad is actually going
+
+318
+00:10:33,520 --> 00:10:37,760
+to be going to a pre-sell page so this
+
+319
+00:10:36,560 --> 00:10:40,800
+could be a number of things this could
+
+320
+00:10:37,760 --> 00:10:44,440
+be an advertorial this could be a
+
+321
+00:10:40,800 --> 00:10:46,120
+listicle this could be a vsl page those
+
+322
+00:10:44,440 --> 00:10:47,920
+are the most common models that I see
+
+323
+00:10:46,120 --> 00:10:51,280
+what I see working really well right now
+
+324
+00:10:47,920 --> 00:10:52,720
+is going from a relatively short um BSL
+
+325
+00:10:51,280 --> 00:10:54,720
+ad like I said here where you can get
+
+326
+00:10:52,720 --> 00:10:57,240
+even a you know significantly higher
+
+327
+00:10:54,720 --> 00:10:58,880
+click the rate of 3% I I remember when I
+
+328
+00:10:57,240 --> 00:11:01,120
+first uh tried this model out myself I
+
+329
+00:10:58,880 --> 00:11:04,400
+ran an ad it was a simple image ad but
+
+330
+00:11:01,120 --> 00:11:06,880
+because I messaged it so well no joke I
+
+331
+00:11:04,400 --> 00:11:08,520
+was getting click through rates of 10%
+
+332
+00:11:06,880 --> 00:11:10,520
+10 freaking percent. I'm not going to
+
+333
+00:11:08,520 --> 00:11:12,120
+say that's normal because it's not but
+
+334
+00:11:10,520 --> 00:11:14,760
+the the goal here is really to get the
+
+335
+00:11:12,120 --> 00:11:16,960
+most qualified people onto your Lander
+
+336
+00:11:14,760 --> 00:11:18,640
+and really shape the beliefs in their
+
+337
+00:11:16,960 --> 00:11:19,680
+mind through your copy that by the time
+
+338
+00:11:18,640 --> 00:11:21,240
+they actually get to the order page and
+
+339
+00:11:19,680 --> 00:11:23,600
+the sales page they're ready to freaking
+
+340
+00:11:21,240 --> 00:11:25,000
+buy and they're not only ready to buy
+
+341
+00:11:23,600 --> 00:11:28,080
+once they're going to buy from you
+
+342
+00:11:25,000 --> 00:11:29,560
+multiple times you have emotionally um
+
+343
+00:11:28,080 --> 00:11:31,880
+kind of warped that customer to the
+
+344
+00:11:29,560 --> 00:11:35,600
+point where they are ready to pay you
+
+345
+00:11:31,880 --> 00:11:36,800
+$100 plus if you have an aov of over 100
+
+346
+00:11:35,600 --> 00:11:38,240
+it's just going to be so much easier for
+
+347
+00:11:36,800 --> 00:11:40,040
+you to scale I don't care how much your
+
+348
+00:11:38,240 --> 00:11:43,040
+product is I sold products that are like
+
+349
+00:11:40,040 --> 00:11:45,360
+you know uh $25 and I can still get an
+
+350
+00:11:43,040 --> 00:11:48,520
+aov above 100 if you follow this process
+
+351
+00:11:45,360 --> 00:11:50,480
+and construct things in the right way so
+
+352
+00:11:48,520 --> 00:11:51,880
+from the ad here you're next going to go
+
+353
+00:11:50,480 --> 00:11:53,480
+to that pre-sale page so in this case
+
+354
+00:11:51,880 --> 00:11:55,840
+let's just say it's an ad tutorial I use
+
+355
+00:11:53,480 --> 00:11:56,920
+P but like let's say this is an ad
+
+356
+00:11:55,840 --> 00:11:59,840
+[ __ ]
+
+357
+00:11:56,920 --> 00:12:01,360
+hell let's just say this is an and AD
+
+358
+00:11:59,840 --> 00:12:04,600
+tutorial hopefully you guys can uh can
+
+359
+00:12:01,360 --> 00:12:06,640
+still hear hear me and see me my uh wifi
+
+360
+00:12:04,600 --> 00:12:09,640
+isn't always cooperating but let's just
+
+361
+00:12:06,640 --> 00:12:12,160
+say this year is an adoral page right
+
+362
+00:12:09,640 --> 00:12:15,040
+the the purpose of the adoral page is to
+
+363
+00:12:12,160 --> 00:12:16,960
+create that desire okay so instead of
+
+364
+00:12:15,040 --> 00:12:20,560
+this this model here where you're just
+
+365
+00:12:16,960 --> 00:12:22,400
+hoping to align with the the desire um
+
+366
+00:12:20,560 --> 00:12:23,760
+of the the customers that already exist
+
+367
+00:12:22,400 --> 00:12:25,400
+in their mind here you can build it
+
+368
+00:12:23,760 --> 00:12:26,680
+yourself you can push all these
+
+369
+00:12:25,400 --> 00:12:28,560
+emotional buttons If you write really
+
+370
+00:12:26,680 --> 00:12:29,800
+compelling copy and get them to the
+
+371
+00:12:28,560 --> 00:12:33,040
+point
+
+372
+00:12:29,800 --> 00:12:34,680
+where there's so much more desire
+
+373
+00:12:33,040 --> 00:12:35,960
+created within their body so that by the
+
+374
+00:12:34,680 --> 00:12:38,840
+time that they actually get to the next
+
+375
+00:12:35,960 --> 00:12:42,080
+step the sales page they are ready to
+
+376
+00:12:38,840 --> 00:12:43,760
+buy significantly more from you so the
+
+377
+00:12:42,080 --> 00:12:45,360
+point of this funnel is to create
+
+378
+00:12:43,760 --> 00:12:47,240
+customers that are more
+
+379
+00:12:45,360 --> 00:12:48,880
+valuable let me say that again the point
+
+380
+00:12:47,240 --> 00:12:51,440
+of this new funnel is to create
+
+381
+00:12:48,880 --> 00:12:53,440
+customers that are more valuable because
+
+382
+00:12:51,440 --> 00:12:55,800
+when you have an aov that's $100 plus
+
+383
+00:12:53,440 --> 00:12:57,000
+you know 120 150 even 200 I know some
+
+384
+00:12:55,800 --> 00:12:59,560
+brands in the in the game right now
+
+385
+00:12:57,000 --> 00:13:00,440
+doing like eight figures per month a of
+
+386
+00:12:59,560 --> 00:13:02,760
+like
+
+387
+00:13:00,440 --> 00:13:05,360
+190 and the the front end product is
+
+388
+00:13:02,760 --> 00:13:07,480
+only like $60 or $70 okay so you have a
+
+389
+00:13:05,360 --> 00:13:08,880
+pre-sale page ad tutorial from here you
+
+390
+00:13:07,480 --> 00:13:10,760
+actually are going to go to the sales
+
+391
+00:13:08,880 --> 00:13:12,840
+page so this is the specifics of the
+
+392
+00:13:10,760 --> 00:13:14,360
+product so think of this as almost like
+
+393
+00:13:12,840 --> 00:13:15,880
+the benefits and the outcomes that you
+
+394
+00:13:14,360 --> 00:13:18,360
+can get as a result of this product
+
+395
+00:13:15,880 --> 00:13:20,200
+pre-selling people warming them up and
+
+396
+00:13:18,360 --> 00:13:21,560
+then this is going to be the actual
+
+397
+00:13:20,200 --> 00:13:23,920
+sales page with all the information
+
+398
+00:13:21,560 --> 00:13:25,040
+about the product um so that they get
+
+399
+00:13:23,920 --> 00:13:26,480
+them to actually buy and then from the
+
+400
+00:13:25,040 --> 00:13:28,160
+sales page and again guys I'm going to
+
+401
+00:13:26,480 --> 00:13:29,800
+show you an example of this uh in just
+
+402
+00:13:28,160 --> 00:13:31,760
+one second like I I know you guys want
+
+403
+00:13:29,800 --> 00:13:33,000
+examples badly and I'll I'll show you
+
+404
+00:13:31,760 --> 00:13:35,360
+and I'll also show you how you can find
+
+405
+00:13:33,000 --> 00:13:36,640
+examples yourself on your own um so this
+
+406
+00:13:35,360 --> 00:13:38,320
+is all the information at the product
+
+407
+00:13:36,640 --> 00:13:43,600
+after this
+
+408
+00:13:38,320 --> 00:13:46,360
+point What's Next the order page o it's
+
+409
+00:13:43,600 --> 00:13:48,600
+good uh good abbreviation there because
+
+410
+00:13:46,360 --> 00:13:50,480
+it is [ __ ] op and the reason that's
+
+411
+00:13:48,600 --> 00:13:51,720
+op is simply because of the amount of
+
+412
+00:13:50,480 --> 00:13:53,440
+offers that you can put in front of
+
+413
+00:13:51,720 --> 00:13:55,720
+somebody and get them to take on this
+
+414
+00:13:53,440 --> 00:13:57,080
+order page so the whole point of having
+
+415
+00:13:55,720 --> 00:13:58,240
+an order page you're like Mark why not
+
+416
+00:13:57,080 --> 00:13:59,400
+just like have them purchase right here
+
+417
+00:13:58,240 --> 00:14:00,320
+on the sales page I mean at this point
+
+418
+00:13:59,400 --> 00:14:02,520
+they've already seen an ad they've
+
+419
+00:14:00,320 --> 00:14:03,840
+already seen an ad tutorial and to get
+
+420
+00:14:02,520 --> 00:14:06,200
+to the sales page why not just have them
+
+421
+00:14:03,840 --> 00:14:08,920
+purchase there the reason why is because
+
+422
+00:14:06,200 --> 00:14:10,400
+you can add so many more um aov boosters
+
+423
+00:14:08,920 --> 00:14:12,640
+on the order page than you can on a
+
+424
+00:14:10,400 --> 00:14:14,360
+sales page so number one it's going to
+
+425
+00:14:12,640 --> 00:14:16,160
+be volume discounts like quantity
+
+426
+00:14:14,360 --> 00:14:17,720
+discounts so the more that you buy the
+
+427
+00:14:16,160 --> 00:14:19,640
+more that you save so this is like
+
+428
+00:14:17,720 --> 00:14:21,920
+bundles this could be like the more you
+
+429
+00:14:19,640 --> 00:14:23,920
+pay the more that you save this could be
+
+430
+00:14:21,920 --> 00:14:25,280
+um also bundles with additional products
+
+431
+00:14:23,920 --> 00:14:27,280
+I was thinking mostly of bundles of the
+
+432
+00:14:25,280 --> 00:14:28,760
+same product you can bundle additional
+
+433
+00:14:27,280 --> 00:14:31,320
+products uh depending on what your
+
+434
+00:14:28,760 --> 00:14:32,440
+product is so like I I'm I'm actually
+
+435
+00:14:31,320 --> 00:14:34,000
+I'll give you guys a little open loop
+
+436
+00:14:32,440 --> 00:14:35,560
+I'm dropping a video um tomorrow
+
+437
+00:14:34,000 --> 00:14:37,280
+actually it's all about product research
+
+438
+00:14:35,560 --> 00:14:39,240
+one of the criteria that I look for
+
+439
+00:14:37,280 --> 00:14:41,680
+before you even sell anything is to pick
+
+440
+00:14:39,240 --> 00:14:43,480
+a product that you know has the
+
+441
+00:14:41,680 --> 00:14:45,160
+potential for upsales in the future
+
+442
+00:14:43,480 --> 00:14:46,760
+don't pick a product and then try to
+
+443
+00:14:45,160 --> 00:14:48,880
+find upsells pick pick a product that
+
+444
+00:14:46,760 --> 00:14:52,360
+you know from day one has upsells that
+
+445
+00:14:48,880 --> 00:14:53,920
+make clear perfect [ __ ] sense because
+
+446
+00:14:52,360 --> 00:14:56,760
+that is how you really have to compete
+
+447
+00:14:53,920 --> 00:14:57,960
+in 2024 and 25 is again if you're still
+
+448
+00:14:56,760 --> 00:15:00,000
+running like with the same model you
+
+449
+00:14:57,960 --> 00:15:01,600
+have a low aov low conversion rate it's
+
+450
+00:15:00,000 --> 00:15:04,360
+just going to be so so difficult for you
+
+451
+00:15:01,600 --> 00:15:05,680
+to scale long term ads are only going to
+
+452
+00:15:04,360 --> 00:15:08,400
+get more expensive I know the election's
+
+453
+00:15:05,680 --> 00:15:10,920
+over which is great still Q4 all right
+
+454
+00:15:08,400 --> 00:15:14,320
+we have uh Black Friday and Cyber Monday
+
+455
+00:15:10,920 --> 00:15:15,440
+in almost exactly two weeks ads are
+
+456
+00:15:14,320 --> 00:15:18,120
+going to get more expensive until the
+
+457
+00:15:15,440 --> 00:15:20,440
+end of the year q1 will be better but
+
+458
+00:15:18,120 --> 00:15:23,120
+anytime during Q4 a lot of [ __ ] happens
+
+459
+00:15:20,440 --> 00:15:25,640
+ad accounts go down BMS go down Pages go
+
+460
+00:15:23,120 --> 00:15:28,000
+down co- files go down and on top of
+
+461
+00:15:25,640 --> 00:15:30,360
+that you have CPAs Rising you have uh
+
+462
+00:15:28,000 --> 00:15:31,640
+cpms Rising and it's just a natural part
+
+463
+00:15:30,360 --> 00:15:33,760
+of the game and if you don't really try
+
+464
+00:15:31,640 --> 00:15:36,200
+to compete this way long term you're
+
+465
+00:15:33,760 --> 00:15:37,560
+just not going to make it um so like I
+
+466
+00:15:36,200 --> 00:15:38,760
+said you can have a bunch of different
+
+467
+00:15:37,560 --> 00:15:41,400
+volume discounts the other thing that
+
+468
+00:15:38,760 --> 00:15:43,440
+you can do on this page specifically is
+
+469
+00:15:41,400 --> 00:15:44,840
+have um order bumps so like that's
+
+470
+00:15:43,440 --> 00:15:46,600
+another way that you can add aob
+
+471
+00:15:44,840 --> 00:15:48,280
+boosters you know another thing that I
+
+472
+00:15:46,600 --> 00:15:50,240
+posted in the video last week was
+
+473
+00:15:48,280 --> 00:15:52,160
+specifically that you want to get as
+
+474
+00:15:50,240 --> 00:15:54,000
+many offers in front of people as you
+
+475
+00:15:52,160 --> 00:15:55,920
+can but it only works if you have a
+
+476
+00:15:54,000 --> 00:15:59,200
+model like this because you have like
+
+477
+00:15:55,920 --> 00:16:01,440
+you've taken one step two step three
+
+478
+00:15:59,200 --> 00:16:03,840
+step to build up all this desire in
+
+479
+00:16:01,440 --> 00:16:06,040
+people right so this is like if you know
+
+480
+00:16:03,840 --> 00:16:08,280
+like the Ada formula attention interest
+
+481
+00:16:06,040 --> 00:16:10,960
+uh attention interest desire action this
+
+482
+00:16:08,280 --> 00:16:13,160
+is like the attention right this is the
+
+483
+00:16:10,960 --> 00:16:15,320
+interest this is the
+
+484
+00:16:13,160 --> 00:16:17,240
+desire this is the action this is where
+
+485
+00:16:15,320 --> 00:16:20,200
+they actually purpose uh I'm sorry
+
+486
+00:16:17,240 --> 00:16:22,040
+purchase so it's literally like designed
+
+487
+00:16:20,200 --> 00:16:23,080
+perfectly according to this formula and
+
+488
+00:16:22,040 --> 00:16:24,280
+you know you can say what you want about
+
+489
+00:16:23,080 --> 00:16:25,920
+this formula I know there's a bunch of
+
+490
+00:16:24,280 --> 00:16:27,360
+different variations of it but you know
+
+491
+00:16:25,920 --> 00:16:29,160
+I'm I'm a fundamentalist so I like to
+
+492
+00:16:27,360 --> 00:16:30,800
+keep it relatively simple get more
+
+493
+00:16:29,160 --> 00:16:33,800
+offers in front of your in front of your
+
+494
+00:16:30,800 --> 00:16:36,880
+customers right here more offers bumps
+
+495
+00:16:33,800 --> 00:16:38,640
+volume discounts cross sales cuz this is
+
+496
+00:16:36,880 --> 00:16:41,680
+really where you're going to have so
+
+497
+00:16:38,640 --> 00:16:43,240
+much impact on your aov um but not the
+
+498
+00:16:41,680 --> 00:16:45,160
+most interestingly enough so where you
+
+499
+00:16:43,240 --> 00:16:47,040
+have the most impact on your aov it's
+
+500
+00:16:45,160 --> 00:16:49,520
+actually The Next Step so this is going
+
+501
+00:16:47,040 --> 00:16:51,520
+to be your first Oto your first upsell
+
+502
+00:16:49,520 --> 00:16:54,040
+so we'll just name it like
+
+503
+00:16:51,520 --> 00:16:57,320
+oot one you don't know o in for a one
+
+504
+00:16:54,040 --> 00:16:59,440
+time offer and this is where you can
+
+505
+00:16:57,320 --> 00:17:01,600
+have the most impact on your aov
+
+506
+00:16:59,440 --> 00:17:03,480
+throughout your entire funnel aside from
+
+507
+00:17:01,600 --> 00:17:04,920
+maybe if you have like a higher ticket
+
+508
+00:17:03,480 --> 00:17:07,360
+you know product price on the order page
+
+509
+00:17:04,920 --> 00:17:10,080
+I'm talking like $100 plus this is going
+
+510
+00:17:07,360 --> 00:17:13,120
+to have the most significant impact on
+
+511
+00:17:10,080 --> 00:17:14,720
+your aov is 01 upsell number one the
+
+512
+00:17:13,120 --> 00:17:16,360
+reason why is because at this point you
+
+513
+00:17:14,720 --> 00:17:19,640
+have their credit card information you
+
+514
+00:17:16,360 --> 00:17:21,760
+have a customer and if you use your your
+
+515
+00:17:19,640 --> 00:17:25,800
+copy in your language right you can use
+
+516
+00:17:21,760 --> 00:17:28,280
+the emotional um momentum that has been
+
+517
+00:17:25,800 --> 00:17:30,280
+created to increase your aov
+
+518
+00:17:28,280 --> 00:17:31,680
+substantially so like I said I've I've
+
+519
+00:17:30,280 --> 00:17:33,880
+had products that are very very low
+
+520
+00:17:31,680 --> 00:17:35,280
+ticket in the space I'm talking like $20
+
+521
+00:17:33,880 --> 00:17:38,680
+$25
+
+522
+00:17:35,280 --> 00:17:42,480
+$30 but with this one Otto you can sell
+
+523
+00:17:38,680 --> 00:17:45,800
+stuff as expensive as expensive as $200
+
+524
+00:17:42,480 --> 00:17:50,680
+as $300 in fact I have sold um you know
+
+525
+00:17:45,800 --> 00:17:53,480
+a product that is uh 297
+
+526
+00:17:50,680 --> 00:17:55,160
+297 on a very very low front and product
+
+527
+00:17:53,480 --> 00:17:56,800
+price and now I know what you're
+
+528
+00:17:55,160 --> 00:17:58,480
+thinking like Mark how many people are
+
+529
+00:17:56,800 --> 00:17:59,800
+actually going to buy this well that all
+
+530
+00:17:58,480 --> 00:18:01,920
+depends on on your copy that all depends
+
+531
+00:17:59,800 --> 00:18:03,600
+on the page all depends on how you
+
+532
+00:18:01,920 --> 00:18:05,920
+actually decided to go with this product
+
+533
+00:18:03,600 --> 00:18:07,400
+to upsell because like I know people
+
+534
+00:18:05,920 --> 00:18:08,520
+always say the more of the same upsell
+
+535
+00:18:07,400 --> 00:18:11,640
+typically does
+
+536
+00:18:08,520 --> 00:18:13,360
+well um and I agree I think it does it's
+
+537
+00:18:11,640 --> 00:18:15,240
+like a safe bet however if you want to
+
+538
+00:18:13,360 --> 00:18:18,200
+have a very very big impact on your aop
+
+539
+00:18:15,240 --> 00:18:19,520
+I'm talking like $30 $50 plus then I
+
+540
+00:18:18,200 --> 00:18:21,280
+think cross selling a different product
+
+541
+00:18:19,520 --> 00:18:22,640
+is typically the best way to go but it
+
+542
+00:18:21,280 --> 00:18:25,880
+has to logically make sense you want to
+
+543
+00:18:22,640 --> 00:18:27,400
+reverse engineer um upsells one of thing
+
+544
+00:18:25,880 --> 00:18:30,080
+I I tell my teams all the time is like
+
+545
+00:18:27,400 --> 00:18:32,280
+the um the purpose of the front end
+
+546
+00:18:30,080 --> 00:18:35,400
+product is to solve the Market's main
+
+547
+00:18:32,280 --> 00:18:37,880
+problem and to create a new
+
+548
+00:18:35,400 --> 00:18:40,000
+one the purpose of the main product that
+
+549
+00:18:37,880 --> 00:18:42,440
+you're selling is to solve a problem and
+
+550
+00:18:40,000 --> 00:18:44,480
+create a new one okay what I mean by
+
+551
+00:18:42,440 --> 00:18:46,600
+that for example is let's say you're in
+
+552
+00:18:44,480 --> 00:18:50,480
+the weight loss market and you're trying
+
+553
+00:18:46,600 --> 00:18:52,480
+to help people um like reduce their
+
+554
+00:18:50,480 --> 00:18:55,160
+weight and keep off body fat uh
+
+555
+00:18:52,480 --> 00:18:57,400
+specifically take off body fat and so
+
+556
+00:18:55,160 --> 00:18:59,880
+you you have this product let's say like
+
+557
+00:18:57,400 --> 00:19:01,440
+a horrible horrible example let's say
+
+558
+00:18:59,880 --> 00:19:02,760
+it's a literal weight loss pill I do not
+
+559
+00:19:01,440 --> 00:19:04,640
+endorse weight loss pills but let's say
+
+560
+00:19:02,760 --> 00:19:06,480
+it's like a weight loss pill um almost
+
+561
+00:19:04,640 --> 00:19:08,880
+like a like an OIC right
+
+562
+00:19:06,480 --> 00:19:11,200
+semaglutide that product is fantastic
+
+563
+00:19:08,880 --> 00:19:13,400
+because it's it's super like TurnKey you
+
+564
+00:19:11,200 --> 00:19:14,640
+just take the pill sit back do whatever
+
+565
+00:19:13,400 --> 00:19:16,160
+I don't you know I can't speak to the
+
+566
+00:19:14,640 --> 00:19:18,960
+effectiveness of it not recommending it
+
+567
+00:19:16,160 --> 00:19:20,520
+in any way um however people sell it and
+
+568
+00:19:18,960 --> 00:19:21,680
+people destroy it with with that product
+
+569
+00:19:20,520 --> 00:19:22,960
+there was there's a reason why the
+
+570
+00:19:21,680 --> 00:19:25,240
+weight loss Market is multi-billion
+
+571
+00:19:22,960 --> 00:19:26,800
+dollar industry every single year so
+
+572
+00:19:25,240 --> 00:19:28,360
+with that said you solve the main
+
+573
+00:19:26,800 --> 00:19:30,560
+problem of the market that's losing
+
+574
+00:19:28,360 --> 00:19:33,080
+weight what new problem is Created from
+
+575
+00:19:30,560 --> 00:19:35,280
+that let me think they don't have to
+
+576
+00:19:33,080 --> 00:19:38,280
+wait anymore what if they gain it back
+
+577
+00:19:35,280 --> 00:19:40,360
+that's a problem so the next logical
+
+578
+00:19:38,280 --> 00:19:42,160
+upsell from that is going to be to keep
+
+579
+00:19:40,360 --> 00:19:43,760
+that weight off because as soon as you
+
+580
+00:19:42,160 --> 00:19:46,080
+stop taking the pills or whatever like
+
+581
+00:19:43,760 --> 00:19:47,840
+you know you're not going to be um like
+
+582
+00:19:46,080 --> 00:19:49,360
+you'll just gain the weight rate back
+
+583
+00:19:47,840 --> 00:19:50,760
+and this is a really really good thing
+
+584
+00:19:49,360 --> 00:19:52,360
+for really really good way to structure
+
+585
+00:19:50,760 --> 00:19:54,680
+upsells in the weight loss Market is
+
+586
+00:19:52,360 --> 00:19:56,800
+number one front end product how to
+
+587
+00:19:54,680 --> 00:19:59,240
+reduce a weight um number two how to
+
+588
+00:19:56,800 --> 00:20:01,240
+keep that weight off perfect example
+
+589
+00:19:59,240 --> 00:20:02,880
+so that's the next logical step that's
+
+590
+00:20:01,240 --> 00:20:04,160
+the first problem that was solved in a
+
+591
+00:20:02,880 --> 00:20:05,400
+new problem created it's really
+
+592
+00:20:04,160 --> 00:20:07,560
+important that you guys understand that
+
+593
+00:20:05,400 --> 00:20:08,920
+because maybe the biggest impact like I
+
+594
+00:20:07,560 --> 00:20:10,280
+can talk talk about how to structure
+
+595
+00:20:08,920 --> 00:20:12,760
+these Pages blah blah blah but the
+
+596
+00:20:10,280 --> 00:20:15,520
+really the the biggest impact on your
+
+597
+00:20:12,760 --> 00:20:16,800
+post purchase upsell path which even
+
+598
+00:20:15,520 --> 00:20:19,320
+from here you know haven't talked about
+
+599
+00:20:16,800 --> 00:20:20,600
+it yet but you can have O2 and in
+
+600
+00:20:19,320 --> 00:20:23,040
+example I'm going to show you I think
+
+601
+00:20:20,600 --> 00:20:25,520
+there's ot3 and maybe even four actually
+
+602
+00:20:23,040 --> 00:20:27,640
+there may be four upsells um I'll show
+
+603
+00:20:25,520 --> 00:20:30,480
+you but this is like two and this is
+
+604
+00:20:27,640 --> 00:20:32,000
+three I'm just going to end it here uh
+
+605
+00:20:30,480 --> 00:20:34,560
+the you know the funnel not the video
+
+606
+00:20:32,000 --> 00:20:35,960
+say this is the thank you page I think
+
+607
+00:20:34,560 --> 00:20:37,080
+in the exam there may be four upsells
+
+608
+00:20:35,960 --> 00:20:38,720
+though because I actually purchased the
+
+609
+00:20:37,080 --> 00:20:40,240
+product right before this video so I can
+
+610
+00:20:38,720 --> 00:20:44,160
+show you guys a really good example live
+
+611
+00:20:40,240 --> 00:20:47,800
+in real time um but this this upso right
+
+612
+00:20:44,160 --> 00:20:50,440
+here by far has the most um price uh
+
+613
+00:20:47,800 --> 00:20:53,440
+elasticity so you can go from something
+
+614
+00:20:50,440 --> 00:20:56,000
+that is you know $50 $100 to 300 to 500
+
+615
+00:20:53,440 --> 00:20:58,160
+even $1,000 you can do because while you
+
+616
+00:20:56,000 --> 00:21:00,160
+may not have a super high take rate even
+
+617
+00:20:58,160 --> 00:21:03,640
+something like you know on $1,000
+
+618
+00:21:00,160 --> 00:21:05,800
+product 10% that's a $100 aob
+
+619
+00:21:03,640 --> 00:21:07,120
+contribution 5% that's a $50 aob
+
+620
+00:21:05,800 --> 00:21:09,280
+contribution and you're getting better
+
+621
+00:21:07,120 --> 00:21:10,880
+customers people that pay you more money
+
+622
+00:21:09,280 --> 00:21:13,200
+are your best customers those your those
+
+623
+00:21:10,880 --> 00:21:15,040
+are your highest value customers so the
+
+624
+00:21:13,200 --> 00:21:17,040
+more that you can speak to those people
+
+625
+00:21:15,040 --> 00:21:18,320
+and get offers in front of those people
+
+626
+00:21:17,040 --> 00:21:19,720
+that resonate with those people because
+
+627
+00:21:18,320 --> 00:21:21,360
+there's going to be different offers
+
+628
+00:21:19,720 --> 00:21:22,640
+like an offer that resonates with a $20
+
+629
+00:21:21,360 --> 00:21:23,840
+buyer is going to be completely
+
+630
+00:21:22,640 --> 00:21:26,360
+different from an offer that resonates
+
+631
+00:21:23,840 --> 00:21:28,120
+with a $1,000 buyer so if you get more
+
+632
+00:21:26,360 --> 00:21:29,360
+of these these offers in front of your
+
+633
+00:21:28,120 --> 00:21:30,840
+best customer customers even if you have
+
+634
+00:21:29,360 --> 00:21:32,600
+a lower take rate economically you can
+
+635
+00:21:30,840 --> 00:21:34,760
+still scale you can still scale very
+
+636
+00:21:32,600 --> 00:21:37,240
+very well um so what happens as you go
+
+637
+00:21:34,760 --> 00:21:39,480
+down this upsell path is that your
+
+638
+00:21:37,240 --> 00:21:41,280
+product price of the upsells typically
+
+639
+00:21:39,480 --> 00:21:44,800
+should decrease like it's hard to go
+
+640
+00:21:41,280 --> 00:21:47,600
+from here you know a $300 offer to here
+
+641
+00:21:44,800 --> 00:21:49,160
+this would be like a $500 offer very
+
+642
+00:21:47,600 --> 00:21:51,280
+very hard to do that I don't recommend
+
+643
+00:21:49,160 --> 00:21:52,320
+it I recommend as you go down the funnel
+
+644
+00:21:51,280 --> 00:21:53,600
+the price of the offers that you're
+
+645
+00:21:52,320 --> 00:21:55,920
+getting in front of people should go
+
+646
+00:21:53,600 --> 00:21:57,280
+down economically um because naturally
+
+647
+00:21:55,920 --> 00:21:59,080
+the take rates are also go down because
+
+648
+00:21:57,280 --> 00:22:00,160
+people drop off at every step anytime
+
+649
+00:21:59,080 --> 00:22:02,360
+you have a funnel and this is like
+
+650
+00:22:00,160 --> 00:22:04,160
+marketing [ __ ] 101 anytime you have a
+
+651
+00:22:02,360 --> 00:22:06,840
+funnel like this and a funnel in general
+
+652
+00:22:04,160 --> 00:22:10,280
+there's drop off at every step like on
+
+653
+00:22:06,840 --> 00:22:12,160
+the [ __ ] hell on the ad level right
+
+654
+00:22:10,280 --> 00:22:14,040
+make sure we're still uh yeah yeah yeah
+
+655
+00:22:12,160 --> 00:22:16,840
+yeah yeah okay
+
+656
+00:22:14,040 --> 00:22:18,440
+cool on the ad level there's significant
+
+657
+00:22:16,840 --> 00:22:20,320
+drop off if you have a 3% click the rate
+
+658
+00:22:18,440 --> 00:22:22,320
+that means you have a 97% drop off for
+
+659
+00:22:20,320 --> 00:22:24,080
+every impression to somebody who clicks
+
+660
+00:22:22,320 --> 00:22:26,560
+from here there's a drop off even from
+
+661
+00:22:24,080 --> 00:22:28,760
+the ad to to the pre-sale landing page
+
+662
+00:22:26,560 --> 00:22:30,440
+you'll typically have 5 10 15% drop drop
+
+663
+00:22:28,760 --> 00:22:31,840
+off just because of your website loading
+
+664
+00:22:30,440 --> 00:22:33,000
+speed not everybody who clicks on your
+
+665
+00:22:31,840 --> 00:22:35,360
+ad is actually going to make it here a
+
+666
+00:22:33,000 --> 00:22:37,200
+lot of people are in poor uh internet
+
+667
+00:22:35,360 --> 00:22:38,520
+locations they click on the link and
+
+668
+00:22:37,200 --> 00:22:39,920
+they never actually register as a
+
+669
+00:22:38,520 --> 00:22:41,960
+landing page view because they leave
+
+670
+00:22:39,920 --> 00:22:43,880
+before the P before the page fully loads
+
+671
+00:22:41,960 --> 00:22:45,920
+so you have to drop off there then from
+
+672
+00:22:43,880 --> 00:22:47,800
+the the pre-sale page to the sales page
+
+673
+00:22:45,920 --> 00:22:51,040
+you have significant drop offs often
+
+674
+00:22:47,800 --> 00:22:52,640
+times it's uh you know 60 70% 80% even
+
+675
+00:22:51,040 --> 00:22:54,240
+drop off so you have like a 20% click
+
+676
+00:22:52,640 --> 00:22:55,400
+theate from here to here from the sales
+
+677
+00:22:54,240 --> 00:22:56,960
+page to the order page you're also going
+
+678
+00:22:55,400 --> 00:22:58,040
+to have drop off so I get what people
+
+679
+00:22:56,960 --> 00:22:59,560
+mean when they're like Mark why would
+
+680
+00:22:58,040 --> 00:23:01,920
+you're going to add friction add more
+
+681
+00:22:59,560 --> 00:23:04,320
+steps you have to keep the end in mind
+
+682
+00:23:01,920 --> 00:23:05,640
+you want the best buyers out of the pool
+
+683
+00:23:04,320 --> 00:23:07,480
+of let's say Facebook if you're running
+
+684
+00:23:05,640 --> 00:23:09,000
+ads you want to get the best customers
+
+685
+00:23:07,480 --> 00:23:10,320
+from Facebook so that as you scale your
+
+686
+00:23:09,000 --> 00:23:12,560
+business becomes more valuable because
+
+687
+00:23:10,320 --> 00:23:15,280
+it's built around customers that don't
+
+688
+00:23:12,560 --> 00:23:20,320
+have an aov of $30 they have an aov of
+
+689
+00:23:15,280 --> 00:23:21,960
+$150 of $200 that make sense and so like
+
+690
+00:23:20,320 --> 00:23:24,200
+I said as you're as you're as you're
+
+691
+00:23:21,960 --> 00:23:26,440
+scaling and going down the upsell path
+
+692
+00:23:24,200 --> 00:23:29,160
+um they're going to have let me get my
+
+693
+00:23:26,440 --> 00:23:32,600
+oh we got it okay you're going to have
+
+694
+00:23:29,160 --> 00:23:35,360
+uh upsell down sell upsell down sell
+
+695
+00:23:32,600 --> 00:23:36,480
+upsell down sell and so every single
+
+696
+00:23:35,360 --> 00:23:37,920
+offer that you can put in front of
+
+697
+00:23:36,480 --> 00:23:38,880
+people post purchase the more money
+
+698
+00:23:37,920 --> 00:23:41,000
+you're going to make it's just very
+
+699
+00:23:38,880 --> 00:23:42,600
+simple then by the time you get here
+
+700
+00:23:41,000 --> 00:23:43,840
+work gets really cool and I'm not going
+
+701
+00:23:42,600 --> 00:23:44,960
+to talk about this in this video if we
+
+702
+00:23:43,840 --> 00:23:46,880
+want we can talk about it in another
+
+703
+00:23:44,960 --> 00:23:48,320
+video but you can segment the people who
+
+704
+00:23:46,880 --> 00:23:50,000
+bought this product didn't buy this
+
+705
+00:23:48,320 --> 00:23:50,840
+product and didn't buy this product so
+
+706
+00:23:50,000 --> 00:23:52,520
+then what are you going to do in your
+
+707
+00:23:50,840 --> 00:23:54,840
+email sequences right of course you're
+
+708
+00:23:52,520 --> 00:23:56,440
+going to send them the the success email
+
+709
+00:23:54,840 --> 00:23:59,080
+um their their order confirmation all
+
+710
+00:23:56,440 --> 00:24:00,920
+that but then people are still in that
+
+711
+00:23:59,080 --> 00:24:03,240
+emotional state of purchasing for an
+
+712
+00:24:00,920 --> 00:24:05,320
+average of about 24 hours and so you can
+
+713
+00:24:03,240 --> 00:24:07,000
+actually upsell after they complete this
+
+714
+00:24:05,320 --> 00:24:08,680
+whole funnel path because a lot of
+
+715
+00:24:07,000 --> 00:24:10,240
+people will drop off here there's going
+
+716
+00:24:08,680 --> 00:24:11,920
+to be drop off from here to here from
+
+717
+00:24:10,240 --> 00:24:13,800
+here to here from here to here every
+
+718
+00:24:11,920 --> 00:24:15,600
+single step there's drop off and you may
+
+719
+00:24:13,800 --> 00:24:18,360
+see that as a bad thing but if you add
+
+720
+00:24:15,600 --> 00:24:22,080
+in really well constructed email and
+
+721
+00:24:18,360 --> 00:24:24,480
+SMS email and SMS uh workflows based off
+
+722
+00:24:22,080 --> 00:24:26,640
+of their behavior in this funnel you can
+
+723
+00:24:24,480 --> 00:24:28,680
+clean up a lot of that drop off and by
+
+724
+00:24:26,640 --> 00:24:32,320
+the way that's true of every single St
+
+725
+00:24:28,680 --> 00:24:34,080
+here if they get to the the um you know
+
+726
+00:24:32,320 --> 00:24:36,840
+the out tutorial page to the sales page
+
+727
+00:24:34,080 --> 00:24:38,720
+if you collect their email right here
+
+728
+00:24:36,840 --> 00:24:42,680
+guess what you can do email an
+
+729
+00:24:38,720 --> 00:24:42,680
+SMS let me draw a little phone
+
+730
+00:24:42,760 --> 00:24:47,320
+icon you can hit them with email and SMS
+
+731
+00:24:45,720 --> 00:24:49,560
+to get them back to the sales page and
+
+732
+00:24:47,320 --> 00:24:51,240
+convert an even higher percentage here
+
+733
+00:24:49,560 --> 00:24:52,520
+so this all works together as you can
+
+734
+00:24:51,240 --> 00:24:55,240
+see like just look at all this [ __ ]
+
+735
+00:24:52,520 --> 00:24:56,520
+scribbling guys I mean this is of course
+
+736
+00:24:55,240 --> 00:24:58,400
+is very valuable but I'm not going to
+
+737
+00:24:56,520 --> 00:25:00,440
+say that it's not it's easy to do I I
+
+738
+00:24:58,400 --> 00:25:01,560
+think it's the best way to do things um
+
+739
+00:25:00,440 --> 00:25:02,800
+but if you don't know how to set all the
+
+740
+00:25:01,560 --> 00:25:04,800
+stuff up and if you guys want like a
+
+741
+00:25:02,800 --> 00:25:06,760
+tutorial on you know how to step uh set
+
+742
+00:25:04,800 --> 00:25:07,800
+the stuff up just let me know um so this
+
+743
+00:25:06,760 --> 00:25:08,720
+is the structure guys this is the
+
+744
+00:25:07,800 --> 00:25:10,680
+structure of the brand I'm actually
+
+745
+00:25:08,720 --> 00:25:11,760
+going to show you right now and um if
+
+746
+00:25:10,680 --> 00:25:13,720
+you have any questions please put them
+
+747
+00:25:11,760 --> 00:25:14,840
+in the comments actually I'm not going
+
+748
+00:25:13,720 --> 00:25:18,040
+to lie to you I don't know how to check
+
+749
+00:25:14,840 --> 00:25:19,720
+the questions um I'll see if I can pull
+
+750
+00:25:18,040 --> 00:25:22,840
+up some questions on my phone but I I
+
+751
+00:25:19,720 --> 00:25:24,760
+genuinely don't know um so for now I
+
+752
+00:25:22,840 --> 00:25:25,920
+want you guys just comment um in the
+
+753
+00:25:24,760 --> 00:25:28,040
+chat below let me know if this is
+
+754
+00:25:25,920 --> 00:25:31,960
+helpful and while you're doing that let
+
+755
+00:25:28,040 --> 00:25:33,440
+me see if I can find any comments here
+
+756
+00:25:31,960 --> 00:25:35,280
+um and answer them real quick before I
+
+757
+00:25:33,440 --> 00:25:37,600
+actually go to the examples that I'm
+
+758
+00:25:35,280 --> 00:25:37,600
+talking
+
+759
+00:25:53,760 --> 00:25:58,800
+about oh by the way guys uh before I
+
+760
+00:25:56,280 --> 00:26:01,240
+before I show you the example um I
+
+761
+00:25:58,800 --> 00:26:02,880
+actually put together a doc uh in a loom
+
+762
+00:26:01,240 --> 00:26:05,720
+video to go with it that explains kind
+
+763
+00:26:02,880 --> 00:26:07,200
+of my whole funnel uh scaling process um
+
+764
+00:26:05,720 --> 00:26:08,480
+I actually have to give credit to Alex
+
+765
+00:26:07,200 --> 00:26:10,280
+fedad off he's my business partner but
+
+766
+00:26:08,480 --> 00:26:11,960
+he came up with a funnel scaling idea
+
+767
+00:26:10,280 --> 00:26:13,640
+way before anybody else like that dude
+
+768
+00:26:11,960 --> 00:26:14,840
+is just so ahead of the curve when it
+
+769
+00:26:13,640 --> 00:26:17,000
+comes to this stuff he was doing this
+
+770
+00:26:14,840 --> 00:26:19,160
+way before any other econ Brands were
+
+771
+00:26:17,000 --> 00:26:22,800
+and uh that you know his his results and
+
+772
+00:26:19,160 --> 00:26:26,400
+success show um so let me just see if I
+
+773
+00:26:22,800 --> 00:26:28,920
+can look at any comments
+
+774
+00:26:26,400 --> 00:26:32,120
+here I
+
+775
+00:26:28,920 --> 00:26:32,120
+I I genuinely don't
+
+776
+00:26:32,880 --> 00:26:36,720
+know all right let's go
+
+777
+00:26:44,560 --> 00:26:48,880
+to so like I said if you want that um if
+
+778
+00:26:47,640 --> 00:26:50,520
+you want that cheat sheet and the loom
+
+779
+00:26:48,880 --> 00:26:52,760
+video that that goes over this entire
+
+780
+00:26:50,520 --> 00:26:55,520
+process just in a little bit more detail
+
+781
+00:26:52,760 --> 00:26:58,400
+um please just do me a favor and go to
+
+782
+00:26:55,520 --> 00:26:59,560
+my Instagram Mark builds BRS and DM me
+
+783
+00:26:58,400 --> 00:27:01,160
+the word funnel and I'm happy to get
+
+784
+00:26:59,560 --> 00:27:03,120
+that over to you all right guys give me
+
+785
+00:27:01,160 --> 00:27:06,640
+15 seconds I'm going to see if I can
+
+786
+00:27:03,120 --> 00:27:09,240
+make this work um let's
+
+787
+00:27:06,640 --> 00:27:13,040
+see oh hell yeah I got the comments all
+
+788
+00:27:09,240 --> 00:27:13,040
+right cool let's see what we
+
+789
+00:27:13,760 --> 00:27:19,960
+got oh man I I know my production value
+
+790
+00:27:16,560 --> 00:27:19,960
+is just not up there
+
+791
+00:27:20,680 --> 00:27:25,080
+um so they're asking for examples cool
+
+792
+00:27:23,360 --> 00:27:27,800
+yeah I'm going to give you some
+
+793
+00:27:25,080 --> 00:27:28,720
+examples broad audience is better yeah
+
+794
+00:27:27,800 --> 00:27:30,520
+guys so
+
+795
+00:27:28,720 --> 00:27:33,560
+another really important thing here this
+
+796
+00:27:30,520 --> 00:27:36,520
+model really only works when you are
+
+797
+00:27:33,560 --> 00:27:38,440
+going for scale if you have a very very
+
+798
+00:27:36,520 --> 00:27:39,760
+extremely Niche product it's hard to
+
+799
+00:27:38,440 --> 00:27:41,520
+make this work so that's why I'm like a
+
+800
+00:27:39,760 --> 00:27:43,520
+huge fan of actually going into
+
+801
+00:27:41,520 --> 00:27:45,280
+saturated markets I love going into
+
+802
+00:27:43,520 --> 00:27:47,120
+saturated markets because I know that
+
+803
+00:27:45,280 --> 00:27:49,520
+it's proven I know that there's red hot
+
+804
+00:27:47,120 --> 00:27:51,160
+fires and all I have to do is to out
+
+805
+00:27:49,520 --> 00:27:52,560
+compete everybody else and I know that
+
+806
+00:27:51,160 --> 00:27:55,320
+sounds like a lot sounds like a hard
+
+807
+00:27:52,560 --> 00:27:56,520
+thing to do however you'd be shocked at
+
+808
+00:27:55,320 --> 00:27:59,520
+how many people don't run a structure
+
+809
+00:27:56,520 --> 00:28:01,680
+like this shocked okay so without
+
+810
+00:27:59,520 --> 00:28:03,000
+further Ado let's hop into the the
+
+811
+00:28:01,680 --> 00:28:05,320
+example that I want to kind of show you
+
+812
+00:28:03,000 --> 00:28:08,280
+here so the first thing is anytime that
+
+813
+00:28:05,320 --> 00:28:10,960
+I'm kind of doing uh research on ads I'm
+
+814
+00:28:08,280 --> 00:28:13,440
+typically going to a a website that's
+
+815
+00:28:10,960 --> 00:28:16,040
+just littered with cookies and Native
+
+816
+00:28:13,440 --> 00:28:18,360
+ads and so uh I actually found this this
+
+817
+00:28:16,040 --> 00:28:20,840
+offer um blissy many of you probably
+
+818
+00:28:18,360 --> 00:28:22,720
+know it but this is an adventori funnel
+
+819
+00:28:20,840 --> 00:28:25,240
+that I went through before this call and
+
+820
+00:28:22,720 --> 00:28:26,360
+I want to show you guys exactly how um
+
+821
+00:28:25,240 --> 00:28:27,840
+how it's structured and why it's
+
+822
+00:28:26,360 --> 00:28:29,040
+structured so well and this is the brand
+
+823
+00:28:27,840 --> 00:28:31,280
+that's doing doing like $3 million per
+
+824
+00:28:29,040 --> 00:28:33,560
+month like this is a monstrous brand and
+
+825
+00:28:31,280 --> 00:28:34,840
+as you can see you know a lot of these
+
+826
+00:28:33,560 --> 00:28:36,920
+funnels you'll be like oh this doesn't
+
+827
+00:28:34,840 --> 00:28:42,040
+even look that good doesn't look that
+
+828
+00:28:36,920 --> 00:28:45,080
+crazy and to that I say um ugly ads ugly
+
+829
+00:28:42,040 --> 00:28:48,520
+funnels equals pretty profits a lot of
+
+830
+00:28:45,080 --> 00:28:51,200
+the stuff that you think is ugly deep
+
+831
+00:28:48,520 --> 00:28:53,200
+down is just printing absolutely
+
+832
+00:28:51,200 --> 00:28:55,240
+Printing and you'd be You' be shocked
+
+833
+00:28:53,200 --> 00:28:57,000
+about the ads that I have personally ran
+
+834
+00:28:55,240 --> 00:28:58,360
+myself you'd be like this is disgusting
+
+835
+00:28:57,000 --> 00:28:59,520
+Mark like like why' you even show me
+
+836
+00:28:58,360 --> 00:29:01,400
+this I feel like I want to throw up just
+
+837
+00:28:59,520 --> 00:29:04,120
+looking at this ad but it's destroying
+
+838
+00:29:01,400 --> 00:29:06,480
+it destroying so this offer here is an
+
+839
+00:29:04,120 --> 00:29:07,920
+adoral funnel what makes Blissey the
+
+840
+00:29:06,480 --> 00:29:09,240
+most popular pillow case in the world so
+
+841
+00:29:07,920 --> 00:29:11,080
+if I were to go to my my beautiful
+
+842
+00:29:09,240 --> 00:29:12,600
+drawing here we're now at I didn't show
+
+843
+00:29:11,080 --> 00:29:14,880
+you guys the ad because it's a native ad
+
+844
+00:29:12,600 --> 00:29:16,120
+but we're now at the avator step this is
+
+845
+00:29:14,880 --> 00:29:17,720
+where we're building the interest we got
+
+846
+00:29:16,120 --> 00:29:20,040
+the attention this is where we're
+
+847
+00:29:17,720 --> 00:29:21,360
+building that interest um for this
+
+848
+00:29:20,040 --> 00:29:24,400
+particular offer so this is an
+
+849
+00:29:21,360 --> 00:29:27,160
+interesting one because it's not it it's
+
+850
+00:29:24,400 --> 00:29:29,240
+breeding it's very very uh product aware
+
+851
+00:29:27,160 --> 00:29:32,680
+adoral meaning you're not like building
+
+852
+00:29:29,240 --> 00:29:34,680
+the desire um of the problem you're more
+
+853
+00:29:32,680 --> 00:29:36,080
+building the desire of the product so
+
+854
+00:29:34,680 --> 00:29:38,320
+you're going a little bit farther down
+
+855
+00:29:36,080 --> 00:29:41,960
+funnel a little bit farther on the
+
+856
+00:29:38,320 --> 00:29:41,960
+levels of awareness
+
+857
+00:29:42,680 --> 00:29:46,680
+um and so when you do that you know it
+
+858
+00:29:45,440 --> 00:29:49,000
+works for a lot of people a lot of
+
+859
+00:29:46,680 --> 00:29:50,560
+bigger Brands um however if you're not
+
+860
+00:29:49,000 --> 00:29:52,960
+like a really well-known brand like if I
+
+861
+00:29:50,560 --> 00:29:54,640
+were to just look up blitzy on like
+
+862
+00:29:52,960 --> 00:29:56,000
+Google Trends or like Google search with
+
+863
+00:29:54,640 --> 00:29:57,080
+keywords everywhere I can see how many
+
+864
+00:29:56,000 --> 00:29:58,760
+people are searching for this keyword
+
+865
+00:29:57,080 --> 00:30:01,200
+and since this is like a multi8 figure
+
+866
+00:29:58,760 --> 00:30:03,160
+brand they have a lot of brand value
+
+867
+00:30:01,200 --> 00:30:05,200
+they have a lot of existing demand just
+
+868
+00:30:03,160 --> 00:30:07,600
+for this single keyword and so this
+
+869
+00:30:05,200 --> 00:30:10,440
+could be like a you know some type of
+
+870
+00:30:07,600 --> 00:30:12,200
+retargeting um this could be some some
+
+871
+00:30:10,440 --> 00:30:13,760
+type of retargeting offer but regardless
+
+872
+00:30:12,200 --> 00:30:16,280
+like this is still an offer that could
+
+873
+00:30:13,760 --> 00:30:19,120
+convert on cold so what makes blissy the
+
+874
+00:30:16,280 --> 00:30:21,000
+most popular pillow case in the world um
+
+875
+00:30:19,120 --> 00:30:23,840
+you know building the the status of the
+
+876
+00:30:21,000 --> 00:30:26,640
+brand um they'll never sleep on anything
+
+877
+00:30:23,840 --> 00:30:28,760
+else credibility and social proof
+
+878
+00:30:26,640 --> 00:30:31,160
+112,000 F star revie
+
+879
+00:30:28,760 --> 00:30:32,560
+and what exactly does it do so this
+
+880
+00:30:31,160 --> 00:30:34,480
+immediately we're getting into like you
+
+881
+00:30:32,560 --> 00:30:36,920
+know the five reasons um actually not
+
+882
+00:30:34,480 --> 00:30:38,600
+five reasons 10 11 12 reasons that this
+
+883
+00:30:36,920 --> 00:30:40,800
+product is so good and each one is not
+
+884
+00:30:38,600 --> 00:30:43,160
+just a reason it's a well- constructed
+
+885
+00:30:40,800 --> 00:30:44,880
+um outcome statement so like the real
+
+886
+00:30:43,160 --> 00:30:46,080
+reason that people buy this product it's
+
+887
+00:30:44,880 --> 00:30:48,640
+not because they want to sleep better
+
+888
+00:30:46,080 --> 00:30:49,920
+it's for their skin and so that you know
+
+889
+00:30:48,640 --> 00:30:51,520
+you kind of frame the problem as the
+
+890
+00:30:49,920 --> 00:30:53,000
+reason that you have these these skin
+
+891
+00:30:51,520 --> 00:30:54,800
+issues is because of the pillow that
+
+892
+00:30:53,000 --> 00:30:56,480
+you're sleeping on just a house of
+
+893
+00:30:54,800 --> 00:30:58,800
+bacteria so they're building all that
+
+894
+00:30:56,480 --> 00:31:01,640
+desire here within this particular
+
+895
+00:30:58,800 --> 00:31:03,840
+avator page okay so this is a great um
+
+896
+00:31:01,640 --> 00:31:07,040
+you know this is actually almost a
+
+897
+00:31:03,840 --> 00:31:08,600
+listicle more than is a an advat toal um
+
+898
+00:31:07,040 --> 00:31:10,440
+because it is just listing out the
+
+899
+00:31:08,600 --> 00:31:13,360
+benefits of the product um but it's also
+
+900
+00:31:10,440 --> 00:31:15,840
+building the brand at the same time so a
+
+901
+00:31:13,360 --> 00:31:17,920
+page like this is fantastic to emulate
+
+902
+00:31:15,840 --> 00:31:20,440
+if you're looking at a good avator
+
+903
+00:31:17,920 --> 00:31:22,440
+funnel and of course at the bottom they
+
+904
+00:31:20,440 --> 00:31:23,760
+have their call to action and typically
+
+905
+00:31:22,440 --> 00:31:25,600
+what I see in avoral is a call the
+
+906
+00:31:23,760 --> 00:31:26,720
+actions like check availability then if
+
+907
+00:31:25,600 --> 00:31:28,560
+you check this obviously there's going
+
+908
+00:31:26,720 --> 00:31:30,680
+to be some
+
+909
+00:31:28,560 --> 00:31:32,680
+yep sales page right there so now we're
+
+910
+00:31:30,680 --> 00:31:33,880
+on to the actual sales page you can see
+
+911
+00:31:32,680 --> 00:31:36,600
+how much different it actually looks
+
+912
+00:31:33,880 --> 00:31:38,720
+this is the actual brand um you know
+
+913
+00:31:36,600 --> 00:31:40,000
+selling the product selling talking a
+
+914
+00:31:38,720 --> 00:31:42,320
+lot more still about the outcomes and
+
+915
+00:31:40,000 --> 00:31:44,240
+the benefits but a lot deeper into the
+
+916
+00:31:42,320 --> 00:31:46,680
+features of the product uh for example
+
+917
+00:31:44,240 --> 00:31:48,840
+like pure mberry silk that is a feature
+
+918
+00:31:46,680 --> 00:31:50,280
+no toxic chemicals that's a feature
+
+919
+00:31:48,840 --> 00:31:52,360
+intertwined with the benefit
+
+920
+00:31:50,280 --> 00:31:53,760
+hypoallergenic antibacterial so now
+
+921
+00:31:52,360 --> 00:31:55,600
+you're kind of getting the people like
+
+922
+00:31:53,760 --> 00:31:58,280
+at this point especially with that
+
+923
+00:31:55,600 --> 00:31:59,400
+advertorial because it's product aware
+
+924
+00:31:58,280 --> 00:32:01,040
+people know the product and they
+
+925
+00:31:59,400 --> 00:32:03,640
+generally understand it pretty well
+
+926
+00:32:01,040 --> 00:32:05,280
+already this is more so to answer um you
+
+927
+00:32:03,640 --> 00:32:07,800
+know build the desire a little bit more
+
+928
+00:32:05,280 --> 00:32:10,400
+and at this point we're at the step of
+
+929
+00:32:07,800 --> 00:32:12,400
+um like I said building the desire
+
+930
+00:32:10,400 --> 00:32:14,360
+because you can't actually purchase on
+
+931
+00:32:12,400 --> 00:32:16,400
+this page you scroll down there's called
+
+932
+00:32:14,360 --> 00:32:17,680
+the action buttons but as you can see
+
+933
+00:32:16,400 --> 00:32:19,200
+there's no way for you to purchase on
+
+934
+00:32:17,680 --> 00:32:21,400
+this page you have to go to the next
+
+935
+00:32:19,200 --> 00:32:24,520
+step of the funnel so this is a really
+
+936
+00:32:21,400 --> 00:32:26,520
+well constructal landing page um not
+
+937
+00:32:24,520 --> 00:32:28,400
+exactly sure how they built this page
+
+938
+00:32:26,520 --> 00:32:30,200
+with what tool let's see if I can find
+
+939
+00:32:28,400 --> 00:32:35,720
+out really quickly
+
+940
+00:32:30,200 --> 00:32:35,720
+um this might be a custom page let's
+
+941
+00:32:41,400 --> 00:32:46,240
+see yeah I think this is a a custom page
+
+942
+00:32:44,120 --> 00:32:48,520
+because I can't see any specific here
+
+943
+00:32:46,240 --> 00:32:50,080
+which naturally this is a massive brand
+
+944
+00:32:48,520 --> 00:32:53,000
+so this it's no shock to me that this is
+
+945
+00:32:50,080 --> 00:32:54,720
+not um built on like a tool but if you
+
+946
+00:32:53,000 --> 00:32:56,000
+want to build a a page like this and you
+
+947
+00:32:54,720 --> 00:32:57,160
+want to build out this entire funnel
+
+948
+00:32:56,000 --> 00:32:58,880
+structure I recommend using something
+
+949
+00:32:57,160 --> 00:33:00,600
+like funnelish or using checkout champ
+
+950
+00:32:58,880 --> 00:33:02,760
+checkout champ you probably need um
+
+951
+00:33:00,600 --> 00:33:05,160
+actually you definitely need a developer
+
+952
+00:33:02,760 --> 00:33:06,880
+in order to get everything set up uh we
+
+953
+00:33:05,160 --> 00:33:08,240
+actually have a developer full-time on
+
+954
+00:33:06,880 --> 00:33:11,240
+our team that builds these funnels like
+
+955
+00:33:08,240 --> 00:33:12,760
+nonstop so it's not a big issue for us
+
+956
+00:33:11,240 --> 00:33:13,640
+however if you're just starting out you
+
+957
+00:33:12,760 --> 00:33:16,480
+know you're not going to be able to do
+
+958
+00:33:13,640 --> 00:33:19,200
+that so funnelish is a good option
+
+959
+00:33:16,480 --> 00:33:20,880
+um so that this is the entire First Step
+
+960
+00:33:19,200 --> 00:33:22,800
+there's not a whole lot to go over here
+
+961
+00:33:20,880 --> 00:33:25,360
+um I can drop like I said if you DM me
+
+962
+00:33:22,800 --> 00:33:27,080
+the word um funnel on Instagram I'm
+
+963
+00:33:25,360 --> 00:33:28,320
+happy to send you a link with like all
+
+964
+00:33:27,080 --> 00:33:29,960
+these links together that you can go
+
+965
+00:33:28,320 --> 00:33:31,520
+through yourself but let's say we go
+
+966
+00:33:29,960 --> 00:33:34,560
+through to the actual order page right
+
+967
+00:33:31,520 --> 00:33:35,680
+so at this point we have now checked you
+
+968
+00:33:34,560 --> 00:33:37,280
+know I didn't show the ad but we checked
+
+969
+00:33:35,680 --> 00:33:39,080
+the box there check the box there check
+
+970
+00:33:37,280 --> 00:33:41,320
+the box there we're now going on to the
+
+971
+00:33:39,080 --> 00:33:44,200
+order page and so this is the order page
+
+972
+00:33:41,320 --> 00:33:46,320
+here Best Kept Beauty secret get younger
+
+973
+00:33:44,200 --> 00:33:47,560
+while you sleep wow what a what a
+
+974
+00:33:46,320 --> 00:33:48,320
+benefit statement right there that's
+
+975
+00:33:47,560 --> 00:33:50,680
+[ __ ]
+
+976
+00:33:48,320 --> 00:33:52,480
+awesome um sleeping obl is recommended
+
+977
+00:33:50,680 --> 00:33:54,360
+by dermatologist Beauty experts and 2
+
+978
+00:33:52,480 --> 00:33:56,560
+million plus customers hella social
+
+979
+00:33:54,360 --> 00:33:58,880
+proof um that is like a very very
+
+980
+00:33:56,560 --> 00:34:00,240
+important thing um on the order page is
+
+981
+00:33:58,880 --> 00:34:02,680
+just building that trust and social
+
+982
+00:34:00,240 --> 00:34:03,840
+proof so much more like undeniably
+
+983
+00:34:02,680 --> 00:34:06,240
+summarizing what they're actually going
+
+984
+00:34:03,840 --> 00:34:08,840
+to get the benefits the outcomes and
+
+985
+00:34:06,240 --> 00:34:11,440
+then here is the actual
+
+986
+00:34:08,840 --> 00:34:14,640
+um here is the actual offer so as you
+
+987
+00:34:11,440 --> 00:34:16,280
+can see already we can see all these
+
+988
+00:34:14,640 --> 00:34:17,880
+different offers number one free
+
+989
+00:34:16,280 --> 00:34:19,280
+shipping that's great it's free it does
+
+990
+00:34:17,880 --> 00:34:21,280
+nothing for us uh you know as the
+
+991
+00:34:19,280 --> 00:34:22,560
+entrepreneur but that is building in
+
+992
+00:34:21,280 --> 00:34:23,960
+more of that perceived value of the
+
+993
+00:34:22,560 --> 00:34:25,720
+product before they actually purchase
+
+994
+00:34:23,960 --> 00:34:28,320
+but you can see here we have product
+
+995
+00:34:25,720 --> 00:34:29,760
+variance we have this this is
+
+996
+00:34:28,320 --> 00:34:31,880
+technically you know people say like
+
+997
+00:34:29,760 --> 00:34:33,520
+upses and cross sales they're they're
+
+998
+00:34:31,880 --> 00:34:35,360
+actually like a little bit different and
+
+999
+00:34:33,520 --> 00:34:36,520
+the reason why is because technically
+
+1000
+00:34:35,360 --> 00:34:37,720
+speaking like a cross sale is a
+
+1001
+00:34:36,520 --> 00:34:39,520
+different product and upsale is like an
+
+1002
+00:34:37,720 --> 00:34:41,080
+upgraded version of the original product
+
+1003
+00:34:39,520 --> 00:34:42,840
+just use the words upsell right nobody
+
+1004
+00:34:41,080 --> 00:34:46,440
+really uses the word cross sale right
+
+1005
+00:34:42,840 --> 00:34:48,640
+anyways so [ __ ] it all right um so here
+
+1006
+00:34:46,440 --> 00:34:51,400
+you can select your size and be upsold
+
+1007
+00:34:48,640 --> 00:34:52,840
+for various options of pillow which I
+
+1008
+00:34:51,400 --> 00:34:54,440
+didn't even know there's [ __ ] sizes
+
+1009
+00:34:52,840 --> 00:34:55,120
+of pillows so it's probably something
+
+1010
+00:34:54,440 --> 00:34:57,840
+they
+
+1011
+00:34:55,120 --> 00:34:59,600
+invented I'm kidding but um I I wasn't
+
+1012
+00:34:57,840 --> 00:35:00,880
+of that but that you can obviously go
+
+1013
+00:34:59,600 --> 00:35:03,400
+from like a standard pill to a queen or
+
+1014
+00:35:00,880 --> 00:35:04,520
+a king now we have the volume discount
+
+1015
+00:35:03,400 --> 00:35:06,240
+so this is exactly what I was talking to
+
+1016
+00:35:04,520 --> 00:35:07,520
+you guys about earlier look how many
+
+1017
+00:35:06,240 --> 00:35:10,160
+offers they have in front of me right
+
+1018
+00:35:07,520 --> 00:35:12,000
+now we have 1 two three immediately just
+
+1019
+00:35:10,160 --> 00:35:14,240
+a size for the package we have an
+
+1020
+00:35:12,000 --> 00:35:16,720
+additional one two three we can do buy
+
+1021
+00:35:14,240 --> 00:35:19,680
+three get one free buy two or buy one
+
+1022
+00:35:16,720 --> 00:35:19,680
+$70 for a
+
+1023
+00:35:20,080 --> 00:35:26,400
+pillow wow okay so like we can buy four
+
+1024
+00:35:23,240 --> 00:35:28,120
+pillows we can buy two or we can buy one
+
+1025
+00:35:26,400 --> 00:35:29,320
+and look look at the difference in the
+
+1026
+00:35:28,120 --> 00:35:31,800
+as you can see these guys they they're
+
+1027
+00:35:29,320 --> 00:35:33,880
+not even showing the the total price in
+
+1028
+00:35:31,800 --> 00:35:36,720
+Big B teex it's always how much each one
+
+1029
+00:35:33,880 --> 00:35:39,720
+is individually so the total is 180 here
+
+1030
+00:35:36,720 --> 00:35:42,080
+is 120 and here is 70 so look at how
+
+1031
+00:35:39,720 --> 00:35:43,200
+much they can build the aov just on this
+
+1032
+00:35:42,080 --> 00:35:44,640
+one page we haven't even got to the
+
+1033
+00:35:43,200 --> 00:35:47,280
+upside page but look at how much they
+
+1034
+00:35:44,640 --> 00:35:49,800
+can really build up this value okay so
+
+1035
+00:35:47,280 --> 00:35:50,960
+um this is another option here where you
+
+1036
+00:35:49,800 --> 00:35:54,000
+can get another offer in front of
+
+1037
+00:35:50,960 --> 00:35:56,000
+people's face is that it of course not
+
+1038
+00:35:54,000 --> 00:35:57,880
+there's another offer this is the bump
+
+1039
+00:35:56,000 --> 00:36:00,640
+so the bump is an offer that you put
+
+1040
+00:35:57,880 --> 00:36:02,680
+right below the checkout option um so
+
+1041
+00:36:00,640 --> 00:36:05,960
+this if I selected this this is an
+
+1042
+00:36:02,680 --> 00:36:07,200
+additional $18 extended extended
+
+1043
+00:36:05,960 --> 00:36:09,080
+protection this could be where you put
+
+1044
+00:36:07,200 --> 00:36:11,200
+your I mean this could be like a
+
+1045
+00:36:09,080 --> 00:36:13,720
+warranty work works very well here
+
+1046
+00:36:11,200 --> 00:36:15,960
+priority shipping um you can even have
+
+1047
+00:36:13,720 --> 00:36:18,840
+multiple bumps like for a while I was
+
+1048
+00:36:15,960 --> 00:36:20,840
+using clickfunnels um for for an offer
+
+1049
+00:36:18,840 --> 00:36:22,440
+like this and there's an extension
+
+1050
+00:36:20,840 --> 00:36:23,480
+actually I think maybe click funel 2.0
+
+1051
+00:36:22,440 --> 00:36:25,160
+has it built in but there was an
+
+1052
+00:36:23,480 --> 00:36:27,640
+extension that you can get called CF Pro
+
+1053
+00:36:25,160 --> 00:36:29,880
+Tools you can add multiple bumps um
+
+1054
+00:36:27,640 --> 00:36:31,560
+right here beneath your uh beneath your
+
+1055
+00:36:29,880 --> 00:36:33,200
+checkouts you get even more offers in
+
+1056
+00:36:31,560 --> 00:36:36,400
+front of people as you can see just
+
+1057
+00:36:33,200 --> 00:36:38,120
+littered with uh social proof everywhere
+
+1058
+00:36:36,400 --> 00:36:39,600
+FAQs by the way if you want like a
+
+1059
+00:36:38,120 --> 00:36:42,240
+little hack to increase your conversion
+
+1060
+00:36:39,600 --> 00:36:43,640
+rate add more FAQs than you think go to
+
+1061
+00:36:42,240 --> 00:36:45,720
+the comments of your ads see what people
+
+1062
+00:36:43,640 --> 00:36:48,560
+are actually asking call your customers
+
+1063
+00:36:45,720 --> 00:36:50,760
+call the optins like people that ban a
+
+1064
+00:36:48,560 --> 00:36:52,120
+check out call them people are afraid to
+
+1065
+00:36:50,760 --> 00:36:54,120
+talk to their customers call them why
+
+1066
+00:36:52,120 --> 00:36:55,360
+didn't you purchase deeply deeply
+
+1067
+00:36:54,120 --> 00:36:58,240
+understand your customer and you'll be
+
+1068
+00:36:55,360 --> 00:37:00,240
+the best marketer in the room so under
+
+1069
+00:36:58,240 --> 00:37:01,920
+the FAQ you can see they have a lot um
+
+1070
+00:37:00,240 --> 00:37:05,160
+I'm a big fan of having a lot of FAQs
+
+1071
+00:37:01,920 --> 00:37:07,320
+underneath the uh underneath the page um
+
+1072
+00:37:05,160 --> 00:37:09,200
+because they're like all it could take
+
+1073
+00:37:07,320 --> 00:37:11,920
+is one specific question that needs to
+
+1074
+00:37:09,200 --> 00:37:14,000
+be answered and you're able to like
+
+1075
+00:37:11,920 --> 00:37:15,520
+scale the living hell out of that offer
+
+1076
+00:37:14,000 --> 00:37:17,200
+because if you didn't answer that one
+
+1077
+00:37:15,520 --> 00:37:18,440
+that could be an extra like 5 10% of
+
+1078
+00:37:17,200 --> 00:37:20,800
+customers that you bring in just from
+
+1079
+00:37:18,440 --> 00:37:23,240
+that one FAQ you'd never know that if
+
+1080
+00:37:20,800 --> 00:37:24,720
+you don't talk to your customer win wink
+
+1081
+00:37:23,240 --> 00:37:27,960
+so yeah as you can see there's one offer
+
+1082
+00:37:24,720 --> 00:37:29,080
+here two three four um five six seven
+
+1083
+00:37:27,960 --> 00:37:31,080
+and there's a bunch of different
+
+1084
+00:37:29,080 --> 00:37:32,800
+combinations that you could do here all
+
+1085
+00:37:31,080 --> 00:37:34,800
+adding to the aov of this particular
+
+1086
+00:37:32,800 --> 00:37:36,840
+offer another thing like I said just to
+
+1087
+00:37:34,800 --> 00:37:38,800
+summarize so much Social proof so many
+
+1088
+00:37:36,840 --> 00:37:40,720
+reviews
+
+1089
+00:37:38,800 --> 00:37:42,680
+FAQs you know you would think that it's
+
+1090
+00:37:40,720 --> 00:37:45,520
+like oh is it too much is it overboard
+
+1091
+00:37:42,680 --> 00:37:47,600
+no with trust with reviews it is hard to
+
+1092
+00:37:45,520 --> 00:37:49,000
+go overboard put more in front of their
+
+1093
+00:37:47,600 --> 00:37:51,160
+face build more of the trust because a
+
+1094
+00:37:49,000 --> 00:37:53,840
+lot of people will read multiple reviews
+
+1095
+00:37:51,160 --> 00:37:53,840
+before they actually
+
+1096
+00:37:55,520 --> 00:37:58,560
+purchase all right so we're going to go
+
+1097
+00:37:57,200 --> 00:38:00,760
+to the Next Step let's say I actually go
+
+1098
+00:37:58,560 --> 00:38:02,600
+through and purchase with which uh I
+
+1099
+00:38:00,760 --> 00:38:04,000
+[ __ ] did um the next page that you
+
+1100
+00:38:02,600 --> 00:38:07,400
+would see is a page like this now this
+
+1101
+00:38:04,000 --> 00:38:07,400
+is the actual
+
+1102
+00:38:08,920 --> 00:38:12,680
+oh oh you got to be kidding
+
+1103
+00:38:16,240 --> 00:38:21,600
+me these are smart [ __ ] God
+
+1104
+00:38:19,400 --> 00:38:21,600
+damn
+
+1105
+00:38:21,800 --> 00:38:26,920
+it I wanted to show you guys the upsell
+
+1106
+00:38:24,280 --> 00:38:28,680
+pages but as you can see um they block
+
+1107
+00:38:26,920 --> 00:38:31,200
+me because unless I have like a previous
+
+1108
+00:38:28,680 --> 00:38:34,040
+request for for purchasing that info is
+
+1109
+00:38:31,200 --> 00:38:35,280
+not passed um so that's okay I can kind
+
+1110
+00:38:34,040 --> 00:38:36,600
+of explain what this page looks like
+
+1111
+00:38:35,280 --> 00:38:40,120
+anyways because I I really did just buy
+
+1112
+00:38:36,600 --> 00:38:41,960
+it before this call um so if you were
+
+1113
+00:38:40,120 --> 00:38:43,680
+looking at one of their upsell Pages ot1
+
+1114
+00:38:41,960 --> 00:38:44,560
+for example I can't remember the exact
+
+1115
+00:38:43,680 --> 00:38:46,840
+product I probably should have
+
+1116
+00:38:44,560 --> 00:38:49,120
+screenshotted it now that I'm that I'm
+
+1117
+00:38:46,840 --> 00:38:52,040
+looking at this um but it's very very
+
+1118
+00:38:49,120 --> 00:38:55,240
+basic you know it's literally just um a
+
+1119
+00:38:52,040 --> 00:38:58,040
+little bit of text here product text
+
+1120
+00:38:55,240 --> 00:39:00,200
+text text text buyon
+
+1121
+00:38:58,040 --> 00:39:03,440
+button and I'm not joking when I tell
+
+1122
+00:39:00,200 --> 00:39:06,040
+you this exact same thing here exact
+
+1123
+00:39:03,440 --> 00:39:08,920
+same thing here and I'm pretty
+
+1124
+00:39:06,040 --> 00:39:11,520
+sure yeah they had four upsells so it
+
+1125
+00:39:08,920 --> 00:39:13,760
+was actually another upsell and then the
+
+1126
+00:39:11,520 --> 00:39:15,120
+thank you page and all the pages looked
+
+1127
+00:39:13,760 --> 00:39:17,760
+identical all they changed was the
+
+1128
+00:39:15,120 --> 00:39:19,360
+product so like I said I I apologize I
+
+1129
+00:39:17,760 --> 00:39:20,640
+wanted to show you guys an example
+
+1130
+00:39:19,360 --> 00:39:23,440
+especially of like the post-p purchase
+
+1131
+00:39:20,640 --> 00:39:24,480
+process more uh more specifically but
+
+1132
+00:39:23,440 --> 00:39:26,640
+they you know they block me from
+
+1133
+00:39:24,480 --> 00:39:27,960
+purchasing uh or showing the upsell path
+
+1134
+00:39:26,640 --> 00:39:29,480
+so I apologize
+
+1135
+00:39:27,960 --> 00:39:30,760
+but yeah if you guys have any questions
+
+1136
+00:39:29,480 --> 00:39:32,480
+about this this funnel or what this
+
+1137
+00:39:30,760 --> 00:39:34,040
+really looks like or if you want like a
+
+1138
+00:39:32,480 --> 00:39:35,360
+template for how to do this yourself
+
+1139
+00:39:34,040 --> 00:39:36,880
+just go to my Instagram Mark Fields
+
+1140
+00:39:35,360 --> 00:39:39,280
+Brands and DM me the word funnel and I
+
+1141
+00:39:36,880 --> 00:39:40,480
+can send you over some cool [ __ ] um you
+
+1142
+00:39:39,280 --> 00:39:42,280
+know just just because I like to help
+
+1143
+00:39:40,480 --> 00:39:44,600
+out and nobody really teaches this stuff
+
+1144
+00:39:42,280 --> 00:39:45,400
+so uh yeah that's it at this point guys
+
+1145
+00:39:44,600 --> 00:39:47,480
+I'm going to look at some of the
+
+1146
+00:39:45,400 --> 00:39:48,560
+questions here and try to answer some if
+
+1147
+00:39:47,480 --> 00:39:49,960
+so if you have some questions that have
+
+1148
+00:39:48,560 --> 00:39:51,440
+been coming in that have been lingering
+
+1149
+00:39:49,960 --> 00:39:52,960
+please feel free to just throw them in
+
+1150
+00:39:51,440 --> 00:39:56,160
+the chat because I'm actually looking at
+
+1151
+00:39:52,960 --> 00:39:56,160
+it now
+
+1152
+00:40:00,680 --> 00:40:03,160
+so broad audience is better because the
+
+1153
+00:40:02,160 --> 00:40:04,200
+more audience you have the bigger the
+
+1154
+00:40:03,160 --> 00:40:06,920
+people that continue going through the
+
+1155
+00:40:04,200 --> 00:40:08,800
+funnel yes absolutely that's that like I
+
+1156
+00:40:06,920 --> 00:40:11,760
+said that's exactly why I really really
+
+1157
+00:40:08,800 --> 00:40:13,520
+want to go after markets that are red
+
+1158
+00:40:11,760 --> 00:40:15,720
+that are hot that are buyers buying R
+
+1159
+00:40:13,520 --> 00:40:18,080
+now the whole untapped winning product
+
+1160
+00:40:15,720 --> 00:40:21,200
+thing I understand why people go that
+
+1161
+00:40:18,080 --> 00:40:24,000
+route it's not for me it's just not I
+
+1162
+00:40:21,200 --> 00:40:25,240
+mean you already have so many variables
+
+1163
+00:40:24,000 --> 00:40:26,240
+when it comes to running an e-commerce
+
+1164
+00:40:25,240 --> 00:40:27,960
+business when it comes to like starting
+
+1165
+00:40:26,240 --> 00:40:29,680
+up your Shopify store whatever ever why
+
+1166
+00:40:27,960 --> 00:40:31,840
+would you add more variables and make
+
+1167
+00:40:29,680 --> 00:40:33,800
+the product a variable you already have
+
+1168
+00:40:31,840 --> 00:40:35,440
+to get the winning creative you already
+
+1169
+00:40:33,800 --> 00:40:36,680
+have to write like if you're doing the
+
+1170
+00:40:35,440 --> 00:40:38,040
+product page you always you already have
+
+1171
+00:40:36,680 --> 00:40:40,360
+to build a really good product page you
+
+1172
+00:40:38,040 --> 00:40:41,800
+have to have a really good website why
+
+1173
+00:40:40,360 --> 00:40:42,800
+add the product as an additional
+
+1174
+00:40:41,800 --> 00:40:45,680
+variable where you don't know if it's
+
+1175
+00:40:42,800 --> 00:40:47,920
+going to work or not you're just IM
+
+1176
+00:40:45,680 --> 00:40:49,720
+immediately increasing the level of
+
+1177
+00:40:47,920 --> 00:40:51,200
+complexity within your brand and if
+
+1178
+00:40:49,720 --> 00:40:54,160
+you're starting out I don't think that's
+
+1179
+00:40:51,200 --> 00:40:55,640
+a good idea next question will this be
+
+1180
+00:40:54,160 --> 00:40:57,960
+saved yeah this live will be
+
+1181
+00:40:55,640 --> 00:40:59,840
+saved can I run a head shop by store
+
+1182
+00:40:57,960 --> 00:41:02,280
+without a logo on the product yes you
+
+1183
+00:40:59,840 --> 00:41:02,280
+absolutely
+
+1184
+00:41:03,600 --> 00:41:06,920
+can when testing a product with a funnel
+
+1185
+00:41:05,760 --> 00:41:09,520
+do you recommend increasing the testing
+
+1186
+00:41:06,920 --> 00:41:11,160
+budget since there's no so much drop off
+
+1187
+00:41:09,520 --> 00:41:13,280
+usually I start with about $100 a day
+
+1188
+00:41:11,160 --> 00:41:14,600
+$100 a day is just fine um just because
+
+1189
+00:41:13,280 --> 00:41:16,440
+you have a more complex funnel doesn't
+
+1190
+00:41:14,600 --> 00:41:18,040
+mean that you need more spend behind it
+
+1191
+00:41:16,440 --> 00:41:19,200
+you should compensate with that with
+
+1192
+00:41:18,040 --> 00:41:21,160
+better ads and a higher clickthrough
+
+1193
+00:41:19,200 --> 00:41:23,960
+rate because you can be more creative
+
+1194
+00:41:21,160 --> 00:41:26,360
+with the ads that you're creating um so
+
+1195
+00:41:23,960 --> 00:41:29,000
+I think $100 a day is just fine
+
+1196
+00:41:26,360 --> 00:41:31,400
+personally um I would never spend less
+
+1197
+00:41:29,000 --> 00:41:32,360
+than like $500 on a test and I know
+
+1198
+00:41:31,400 --> 00:41:35,000
+that's a little bit more than some
+
+1199
+00:41:32,360 --> 00:41:37,000
+people say U but with this model I would
+
+1200
+00:41:35,000 --> 00:41:38,320
+want a little bit more spend to go
+
+1201
+00:41:37,000 --> 00:41:41,280
+behind it you don't need to increase the
+
+1202
+00:41:38,320 --> 00:41:42,280
+daily spend though um so regardless of
+
+1203
+00:41:41,280 --> 00:41:44,320
+the product it really comes down to
+
+1204
+00:41:42,280 --> 00:41:46,360
+reading the data so initially I would
+
+1205
+00:41:44,320 --> 00:41:47,880
+probably throw like $500 at it and I
+
+1206
+00:41:46,360 --> 00:41:50,800
+want to see where is the biggest drop
+
+1207
+00:41:47,880 --> 00:41:53,560
+off happening and how is my actual um
+
+1208
+00:41:50,800 --> 00:41:55,080
+aob so a lot of people think that with
+
+1209
+00:41:53,560 --> 00:41:56,840
+Drop Shipping Ecom and Shopify and all
+
+1210
+00:41:55,080 --> 00:41:58,400
+this [ __ ] that you just put some stuff
+
+1211
+00:41:56,840 --> 00:42:00,440
+up you put put up a you know Shopify
+
+1212
+00:41:58,400 --> 00:42:01,520
+product page you do this you do that and
+
+1213
+00:42:00,440 --> 00:42:03,280
+if the product doesn't work you just
+
+1214
+00:42:01,520 --> 00:42:04,840
+move on but they don't like they don't
+
+1215
+00:42:03,280 --> 00:42:07,240
+really teach you how to like read the ad
+
+1216
+00:42:04,840 --> 00:42:08,600
+data read the funnel data read the aov
+
+1217
+00:42:07,240 --> 00:42:09,920
+and conversion rate data so that you
+
+1218
+00:42:08,600 --> 00:42:12,040
+don't really know what the real problem
+
+1219
+00:42:09,920 --> 00:42:13,520
+is what if all you needed to do was just
+
+1220
+00:42:12,040 --> 00:42:15,400
+change the messaging on the Lander and
+
+1221
+00:42:13,520 --> 00:42:17,560
+then you have like a 3% conversion rate
+
+1222
+00:42:15,400 --> 00:42:19,600
+instead of a 05% conversion rate what if
+
+1223
+00:42:17,560 --> 00:42:20,720
+all you needed to do was just test a new
+
+1224
+00:42:19,600 --> 00:42:22,200
+hook that resonates more with your
+
+1225
+00:42:20,720 --> 00:42:24,600
+audience and that becomes a winning
+
+1226
+00:42:22,200 --> 00:42:26,640
+creative that scales like 100k um in
+
+1227
+00:42:24,600 --> 00:42:28,280
+spend and Beyond like it could be one
+
+1228
+00:42:26,640 --> 00:42:31,200
+simple change you have to make why would
+
+1229
+00:42:28,280 --> 00:42:33,600
+you um not look at the
+
+1230
+00:42:31,200 --> 00:42:34,920
+data and just say like oh I'm only going
+
+1231
+00:42:33,600 --> 00:42:37,680
+to spend 300 if it doesn't work I'm
+
+1232
+00:42:34,920 --> 00:42:39,000
+moving on you know I'm it's just again
+
+1233
+00:42:37,680 --> 00:42:41,320
+My
+
+1234
+00:42:39,000 --> 00:42:43,280
+Philosophy next
+
+1235
+00:42:41,320 --> 00:42:44,960
+question is there an advantage in
+
+1236
+00:42:43,280 --> 00:42:47,040
+building an uglier ADV tutorial I
+
+1237
+00:42:44,960 --> 00:42:48,800
+wouldn't make it ugly just for the sakes
+
+1238
+00:42:47,040 --> 00:42:50,400
+sake of making it ugly in the same way
+
+1239
+00:42:48,800 --> 00:42:52,280
+that I wouldn't make it beautiful just
+
+1240
+00:42:50,400 --> 00:42:53,480
+for the sake of making it beautiful I'll
+
+1241
+00:42:52,280 --> 00:42:55,480
+look at what's working really really
+
+1242
+00:42:53,480 --> 00:42:56,680
+well and understand that a lot of the
+
+1243
+00:42:55,480 --> 00:42:58,080
+people especially if you're selling on
+
+1244
+00:42:56,680 --> 00:43:00,120
+Facebook and you're selling to an
+
+1245
+00:42:58,080 --> 00:43:01,760
+audience that's 35 Plus the beautiful
+
+1246
+00:43:00,120 --> 00:43:03,600
+Landers don't necessarily resonate with
+
+1247
+00:43:01,760 --> 00:43:05,320
+them you know they they have a different
+
+1248
+00:43:03,600 --> 00:43:06,320
+way of communicating you know they were
+
+1249
+00:43:05,320 --> 00:43:09,360
+especially if it's like an audience
+
+1250
+00:43:06,320 --> 00:43:11,360
+that's like 40 to 50 like they are just
+
+1251
+00:43:09,360 --> 00:43:13,160
+receptive to different styles of what we
+
+1252
+00:43:11,360 --> 00:43:14,400
+deem as like aesthetically pleasing
+
+1253
+00:43:13,160 --> 00:43:15,960
+because if you're like you know I'm 24
+
+1254
+00:43:14,400 --> 00:43:17,840
+years old if you're watching this video
+
+1255
+00:43:15,960 --> 00:43:20,600
+and you're in your your 20s or your
+
+1256
+00:43:17,840 --> 00:43:22,000
+early 30s or whatever like the the the
+
+1257
+00:43:20,600 --> 00:43:23,640
+type of content that you respond to and
+
+1258
+00:43:22,000 --> 00:43:26,520
+you think is like a well constructed
+
+1259
+00:43:23,640 --> 00:43:28,080
+page is completely different from what a
+
+1260
+00:43:26,520 --> 00:43:31,160
+you know 50 six-year-old would think is
+
+1261
+00:43:28,080 --> 00:43:33,680
+a well constructed page so um what
+
+1262
+00:43:31,160 --> 00:43:35,400
+matters is that you have Clarity so the
+
+1263
+00:43:33,680 --> 00:43:36,560
+colors of the page the font I wouldn't
+
+1264
+00:43:35,400 --> 00:43:38,080
+stress too much about it and I
+
+1265
+00:43:36,560 --> 00:43:42,280
+definitely wouldn't create an ugly page
+
+1266
+00:43:38,080 --> 00:43:45,520
+just because it's ugly um I I may have
+
+1267
+00:43:42,280 --> 00:43:45,520
+tested that myself it's not worth
+
+1268
+00:43:47,920 --> 00:43:53,680
+it all right next question Dario hi all
+
+1269
+00:43:51,880 --> 00:43:55,120
+really helpful you are one of the few
+
+1270
+00:43:53,680 --> 00:43:57,640
+who gives really useful information
+
+1271
+00:43:55,120 --> 00:43:59,360
+you're welcome question does this
+
+1272
+00:43:57,640 --> 00:44:02,000
+structure not work with products of a
+
+1273
+00:43:59,360 --> 00:44:05,280
+non brand non broad Niche I think I kind
+
+1274
+00:44:02,000 --> 00:44:07,120
+of answer that one um maybe you can give
+
+1275
+00:44:05,280 --> 00:44:09,360
+like a specific example it doesn't work
+
+1276
+00:44:07,120 --> 00:44:11,400
+for everything but it works for the
+
+1277
+00:44:09,360 --> 00:44:15,520
+product that I go after which again
+
+1278
+00:44:11,400 --> 00:44:17,600
+product research video very soon um I
+
+1279
+00:44:15,520 --> 00:44:19,200
+want to go after markets that are
+
+1280
+00:44:17,600 --> 00:44:20,680
+validated that are proven I specifically
+
+1281
+00:44:19,200 --> 00:44:23,560
+want to sell products that solve a
+
+1282
+00:44:20,680 --> 00:44:26,080
+really hard problem for example if I was
+
+1283
+00:44:23,560 --> 00:44:27,560
+running a clothing brand I would not be
+
+1284
+00:44:26,080 --> 00:44:29,440
+using this model like you have to get
+
+1285
+00:44:27,560 --> 00:44:31,360
+really really creative not saying it
+
+1286
+00:44:29,440 --> 00:44:33,120
+can't work cuz it can but it would be
+
+1287
+00:44:31,360 --> 00:44:35,400
+very very different it's not a direct
+
+1288
+00:44:33,120 --> 00:44:37,480
+hard pain point with a clothing brand
+
+1289
+00:44:35,400 --> 00:44:39,480
+you have to go really really hard on on
+
+1290
+00:44:37,480 --> 00:44:40,800
+brand content exactly like the direct
+
+1291
+00:44:39,480 --> 00:44:43,080
+response ofu that I'm showing you here
+
+1292
+00:44:40,800 --> 00:44:45,240
+isn't typically going to resonate quite
+
+1293
+00:44:43,080 --> 00:44:45,240
+as
+
+1294
+00:44:45,800 --> 00:44:51,840
+much what countries in Europe would and
+
+1295
+00:44:48,440 --> 00:44:57,760
+Europe would you test to
+
+1296
+00:44:51,840 --> 00:44:57,760
+um Germany Sweden Finland
+
+1297
+00:44:58,880 --> 00:45:05,440
+Belgium Austria Spain Italy
+
+1298
+00:45:03,520 --> 00:45:06,960
+France um those would be the main ones
+
+1299
+00:45:05,440 --> 00:45:08,480
+but typically like the Nordic countries
+
+1300
+00:45:06,960 --> 00:45:10,480
+works really well any part of Northern
+
+1301
+00:45:08,480 --> 00:45:13,600
+Europe can be a fantastic Market to sell
+
+1302
+00:45:10,480 --> 00:45:16,520
+in um and then Germany is a super super
+
+1303
+00:45:13,600 --> 00:45:21,000
+popular one
+
+1304
+00:45:16,520 --> 00:45:21,000
+um yeah that's that's it I side good
+
+1305
+00:45:22,680 --> 00:45:28,880
+there yeah sherro you said some Brands
+
+1306
+00:45:25,360 --> 00:45:31,400
+like Ace and are using just product page
+
+1307
+00:45:28,880 --> 00:45:33,400
+I know I know dude um like I said the
+
+1308
+00:45:31,400 --> 00:45:34,560
+the product page method that funnel
+
+1309
+00:45:33,400 --> 00:45:36,440
+totally works I don't want to like
+
+1310
+00:45:34,560 --> 00:45:37,640
+discredit it well I do a little bit
+
+1311
+00:45:36,440 --> 00:45:39,040
+because I think there's better ways of
+
+1312
+00:45:37,640 --> 00:45:40,880
+doing things but if you have like a
+
+1313
+00:45:39,040 --> 00:45:42,360
+really big brand presence and you have
+
+1314
+00:45:40,880 --> 00:45:43,640
+really really good creatives you don't
+
+1315
+00:45:42,360 --> 00:45:45,680
+need this whole structure I'm just
+
+1316
+00:45:43,640 --> 00:45:47,360
+telling you what you can do to out
+
+1317
+00:45:45,680 --> 00:45:49,040
+compete people like that because if you
+
+1318
+00:45:47,360 --> 00:45:50,560
+don't have a solid aov you don't have a
+
+1319
+00:45:49,040 --> 00:45:52,560
+really well constructed post purchase
+
+1320
+00:45:50,560 --> 00:45:53,600
+upsell process you can out compete
+
+1321
+00:45:52,560 --> 00:45:58,440
+people that are running traffic to a
+
+1322
+00:45:53,600 --> 00:45:58,440
+straight PDP plain and simple
+
+1323
+00:45:58,640 --> 00:46:01,160
+do you still host most of your orders on
+
+1324
+00:45:59,920 --> 00:46:03,520
+Shopify or do you build payments into
+
+1325
+00:46:01,160 --> 00:46:05,560
+these funnel platforms so those are kind
+
+1326
+00:46:03,520 --> 00:46:08,560
+of those are two different questions
+
+1327
+00:46:05,560 --> 00:46:11,000
+dude um what's your name Matthew so
+
+1328
+00:46:08,560 --> 00:46:13,000
+orders are hosted on Shopify yes payment
+
+1329
+00:46:11,000 --> 00:46:15,760
+is collected on funnelish your checkout
+
+1330
+00:46:13,000 --> 00:46:18,240
+champ so think of Shopify as like the
+
+1331
+00:46:15,760 --> 00:46:20,520
+middle of funnel and bottom of funnel um
+
+1332
+00:46:18,240 --> 00:46:23,720
+and the CRM so by CRM I mean what
+
+1333
+00:46:20,520 --> 00:46:25,800
+actually uh houses all of your orders
+
+1334
+00:46:23,720 --> 00:46:27,760
+it's um and then for people that don't
+
+1335
+00:46:25,800 --> 00:46:29,200
+convert on cold with this direct
+
+1336
+00:46:27,760 --> 00:46:31,040
+response you know more aggressive adoral
+
+1337
+00:46:29,200 --> 00:46:32,360
+funnel then you could retarget them with
+
+1338
+00:46:31,040 --> 00:46:34,520
+like a standard PDP that would be like
+
+1339
+00:46:32,360 --> 00:46:37,000
+middle funnel bottom of funnel hopefully
+
+1340
+00:46:34,520 --> 00:46:37,000
+that answer your
+
+1341
+00:46:38,640 --> 00:46:42,360
+question uh what is your opinion on
+
+1342
+00:46:40,600 --> 00:46:44,480
+organic affiliate marketing using social
+
+1343
+00:46:42,360 --> 00:46:46,560
+media and SEO I mean that's not really
+
+1344
+00:46:44,480 --> 00:46:48,080
+I'm talking about e-commerce uh if you
+
+1345
+00:46:46,560 --> 00:46:50,360
+mean like in the realm of e-commerce
+
+1346
+00:46:48,080 --> 00:46:52,080
+like using Affiliates to sell your
+
+1347
+00:46:50,360 --> 00:46:53,520
+products it can it can totally work I
+
+1348
+00:46:52,080 --> 00:46:57,520
+know brands that destroy it but for a
+
+1349
+00:46:53,520 --> 00:46:57,520
+beginner I wouldn't recommend it
+
+1350
+00:46:58,440 --> 00:47:02,760
+Dario can I have a $70 front-end product
+
+1351
+00:47:00,920 --> 00:47:04,240
+and upsell over a thousand if the
+
+1352
+00:47:02,760 --> 00:47:06,720
+industry I'm in is
+
+1353
+00:47:04,240 --> 00:47:09,480
+small oh man that really depends that's
+
+1354
+00:47:06,720 --> 00:47:10,720
+a very aggressive upsell like I I I said
+
+1355
+00:47:09,480 --> 00:47:14,000
+this in the you know in the thing you
+
+1356
+00:47:10,720 --> 00:47:16,640
+may have like a 5% take rate or like a
+
+1357
+00:47:14,000 --> 00:47:18,440
+3% take rate um in smaller countries it
+
+1358
+00:47:16,640 --> 00:47:20,640
+is harder especially considering like
+
+1359
+00:47:18,440 --> 00:47:22,200
+keep in mind if you're in the US right
+
+1360
+00:47:20,640 --> 00:47:25,040
+we mainly run ads in the US if you're in
+
+1361
+00:47:22,200 --> 00:47:27,880
+the US you can have amazing upsell pass
+
+1362
+00:47:25,040 --> 00:47:30,240
+you can have that that price elasticity
+
+1363
+00:47:27,880 --> 00:47:32,640
+of like 10x of your frontend product
+
+1364
+00:47:30,240 --> 00:47:34,120
+price even like 100x of your front-end
+
+1365
+00:47:32,640 --> 00:47:36,680
+product price however in other countries
+
+1366
+00:47:34,120 --> 00:47:38,680
+it's not always the same because the the
+
+1367
+00:47:36,680 --> 00:47:40,640
+skepticism can be higher just not as
+
+1368
+00:47:38,680 --> 00:47:42,200
+sophisticated as a market you don't have
+
+1369
+00:47:40,640 --> 00:47:43,840
+access to the credit system that we have
+
+1370
+00:47:42,200 --> 00:47:45,360
+here in the United States so there's a
+
+1371
+00:47:43,840 --> 00:47:47,120
+lot of variables there not going to say
+
+1372
+00:47:45,360 --> 00:47:49,160
+it's not happen uh not going to happen
+
+1373
+00:47:47,120 --> 00:47:51,040
+not going to work but I would I can't
+
+1374
+00:47:49,160 --> 00:47:53,920
+say I would recommend um going that
+
+1375
+00:47:51,040 --> 00:47:56,920
+route for a small country in a small
+
+1376
+00:47:53,920 --> 00:47:56,920
+Market
+
+1377
+00:47:57,200 --> 00:48:00,800
+what do you think about building brands
+
+1378
+00:47:58,440 --> 00:48:03,160
+in Europe less competition but vat so is
+
+1379
+00:48:00,800 --> 00:48:03,160
+it worth
+
+1380
+00:48:04,480 --> 00:48:13,000
+it yeah viit uh sorry vat is a [ __ ]
+
+1381
+00:48:10,160 --> 00:48:15,560
+um would I recommend it probably not I
+
+1382
+00:48:13,000 --> 00:48:16,960
+mean a lot of the stuff that I do it is
+
+1383
+00:48:15,560 --> 00:48:18,600
+like really going against grin I know
+
+1384
+00:48:16,960 --> 00:48:21,560
+Europe Drop Shipping is really popular
+
+1385
+00:48:18,600 --> 00:48:23,240
+right now but I I really really love the
+
+1386
+00:48:21,560 --> 00:48:25,520
+flexibility and the aov that you can
+
+1387
+00:48:23,240 --> 00:48:28,280
+have in the United States I mean I split
+
+1388
+00:48:25,520 --> 00:48:31,040
+test a lot I has a lot of countries and
+
+1389
+00:48:28,280 --> 00:48:33,600
+the aov in other countries is almost
+
+1390
+00:48:31,040 --> 00:48:35,720
+almost never close to the aov in United
+
+1391
+00:48:33,600 --> 00:48:36,640
+States so for that reason I like
+
+1392
+00:48:35,720 --> 00:48:37,880
+creating businesses that are more
+
+1393
+00:48:36,640 --> 00:48:39,160
+valuable then again it's more expensive
+
+1394
+00:48:37,880 --> 00:48:41,080
+to advertise in the United States so
+
+1395
+00:48:39,160 --> 00:48:43,200
+there's trade-offs I still run you know
+
+1396
+00:48:41,080 --> 00:48:45,000
+10 to 20% of my traffic outside the US
+
+1397
+00:48:43,200 --> 00:48:48,240
+and 80% within the
+
+1398
+00:48:45,000 --> 00:48:48,240
+us next
+
+1399
+00:48:49,760 --> 00:48:53,840
+question how do you know if your product
+
+1400
+00:48:52,040 --> 00:48:55,560
+is product Market fit I know some guys
+
+1401
+00:48:53,840 --> 00:48:57,120
+are commenting about my mic by the way
+
+1402
+00:48:55,560 --> 00:49:00,480
+um
+
+1403
+00:48:57,120 --> 00:49:01,960
+too bad maybe I need this was like a $10
+
+1404
+00:49:00,480 --> 00:49:04,400
+mic
+
+1405
+00:49:01,960 --> 00:49:06,840
+so the question was how do you know if
+
+1406
+00:49:04,400 --> 00:49:10,320
+the product has product product Market
+
+1407
+00:49:06,840 --> 00:49:10,320
+fit you're making
+
+1408
+00:49:10,840 --> 00:49:16,240
+money that's how you
+
+1409
+00:49:13,400 --> 00:49:18,920
+know relatively simple if you're making
+
+1410
+00:49:16,240 --> 00:49:20,160
+over like if you're making $1,000 a day
+
+1411
+00:49:18,920 --> 00:49:22,000
+I would say you have that market fit the
+
+1412
+00:49:20,160 --> 00:49:23,760
+scale is going to be depending on you
+
+1413
+00:49:22,000 --> 00:49:25,000
+know your creative output but if you're
+
+1414
+00:49:23,760 --> 00:49:26,440
+able to make money with a product
+
+1415
+00:49:25,000 --> 00:49:28,720
+congratulations you have product Market
+
+1416
+00:49:26,440 --> 00:49:28,720
+V
+
+1417
+00:49:29,600 --> 00:49:32,520
+do you have to have a page translated to
+
+1418
+00:49:31,240 --> 00:49:35,000
+their own language in order to convert
+
+1419
+00:49:32,520 --> 00:49:36,600
+for year of Drop Shipping um yeah I
+
+1420
+00:49:35,000 --> 00:49:38,040
+would absolutely recommend that um I
+
+1421
+00:49:36,600 --> 00:49:39,360
+know a lot of these countries do speak
+
+1422
+00:49:38,040 --> 00:49:40,600
+English some of them even have English
+
+1423
+00:49:39,360 --> 00:49:42,680
+as like their first language that they
+
+1424
+00:49:40,600 --> 00:49:43,840
+speak however if you're doing Europe
+
+1425
+00:49:42,680 --> 00:49:46,280
+draft shriving the whole point is like
+
+1426
+00:49:43,840 --> 00:49:47,840
+compete on a less competitive market why
+
+1427
+00:49:46,280 --> 00:49:50,720
+would you have it in English have it in
+
+1428
+00:49:47,840 --> 00:49:53,400
+their native language um so you can use
+
+1429
+00:49:50,720 --> 00:49:55,320
+some um some translation tools online
+
+1430
+00:49:53,400 --> 00:49:56,760
+that work really well that's what we do
+
+1431
+00:49:55,320 --> 00:49:58,720
+and then we'll actually have somebody on
+
+1432
+00:49:56,760 --> 00:49:59,960
+F or like review the the page that's
+
+1433
+00:49:58,720 --> 00:50:02,160
+actually native speaker because it's not
+
+1434
+00:49:59,960 --> 00:50:04,360
+always going to be like one to
+
+1435
+00:50:02,160 --> 00:50:06,200
+one do you advertise on any other
+
+1436
+00:50:04,360 --> 00:50:08,080
+platforms other than Facebook and Tik
+
+1437
+00:50:06,200 --> 00:50:11,040
+Tok
+
+1438
+00:50:08,080 --> 00:50:13,200
+um yeah Google so we do a lot of Google
+
+1439
+00:50:11,040 --> 00:50:15,640
+we've done Pinterest we've done uh
+
+1440
+00:50:13,200 --> 00:50:17,160
+Snapchat Facebook is our main bread and
+
+1441
+00:50:15,640 --> 00:50:18,280
+butter second to that would be Tik Tok
+
+1442
+00:50:17,160 --> 00:50:20,800
+and then third to that would be Google
+
+1443
+00:50:18,280 --> 00:50:22,960
+and YouTube so we do run ads just about
+
+1444
+00:50:20,800 --> 00:50:25,200
+everywhere um so guys I appreciate you
+
+1445
+00:50:22,960 --> 00:50:28,720
+being on this live we're running uh you
+
+1446
+00:50:25,200 --> 00:50:30,080
+know close to the hour long time um
+
+1447
+00:50:28,720 --> 00:50:32,560
+again if you want I know you're looking
+
+1448
+00:50:30,080 --> 00:50:35,160
+at like this this beautiful mess of a of
+
+1449
+00:50:32,560 --> 00:50:37,200
+a board here but if you want a special
+
+1450
+00:50:35,160 --> 00:50:39,760
+cheat sheet that I specifically created
+
+1451
+00:50:37,200 --> 00:50:40,880
+that has the uh that has a lot more
+
+1452
+00:50:39,760 --> 00:50:42,720
+information on kind of this funnel
+
+1453
+00:50:40,880 --> 00:50:45,400
+scaling process please just go to my
+
+1454
+00:50:42,720 --> 00:50:48,360
+Instagram Mark builds Brands um can pull
+
+1455
+00:50:45,400 --> 00:50:48,360
+it up for you real
+
+1456
+00:50:51,480 --> 00:50:57,480
+quick and just DM me the word funnel and
+
+1457
+00:50:55,240 --> 00:50:59,040
+I can send it right over to you right
+
+1458
+00:50:57,480 --> 00:51:01,520
+so right here Mark builds Brands run
+
+1459
+00:50:59,040 --> 00:51:03,600
+more ads guy go here DM me the word
+
+1460
+00:51:01,520 --> 00:51:05,520
+funnel um and I really hope you guys
+
+1461
+00:51:03,600 --> 00:51:06,840
+enjoy this video uh the reason that I
+
+1462
+00:51:05,520 --> 00:51:08,160
+made this in the first place is because
+
+1463
+00:51:06,840 --> 00:51:09,440
+I saw so many people that were
+
+1464
+00:51:08,160 --> 00:51:12,000
+commenting and they wanted to see an
+
+1465
+00:51:09,440 --> 00:51:14,280
+example now you got an example and now
+
+1466
+00:51:12,000 --> 00:51:15,440
+you know how to find more examples so
+
+1467
+00:51:14,280 --> 00:51:17,880
+that's it for this video guys thank you
+
+1468
+00:51:15,440 --> 00:51:19,400
+so much for for joining I appreciate you
+
+1469
+00:51:17,880 --> 00:51:20,680
+um make sure you check out the video
+
+1470
+00:51:19,400 --> 00:51:22,720
+that's coming tomorrow subscribe to my
+
+1471
+00:51:20,680 --> 00:51:24,800
+channel here on YouTube and send me a DM
+
+1472
+00:51:22,720 --> 00:51:27,040
+on Instagram if you need any help and
+
+1473
+00:51:24,800 --> 00:51:28,560
+specifically if you are looking for
+
+1474
+00:51:27,040 --> 00:51:29,840
+someone like myself or my partner Alex
+
+1475
+00:51:28,560 --> 00:51:31,800
+fedad off to actually like hold your
+
+1476
+00:51:29,840 --> 00:51:34,000
+hand through this entire process of like
+
+1477
+00:51:31,800 --> 00:51:35,520
+you know creating a brand um finding the
+
+1478
+00:51:34,000 --> 00:51:37,400
+product finding that product Market fit
+
+1479
+00:51:35,520 --> 00:51:40,080
+from scratch scaling using some of these
+
+1480
+00:51:37,400 --> 00:51:44,200
+more funnel scaling uh tactics and in in
+
+1481
+00:51:40,080 --> 00:51:46,000
+methods just go to um the first link in
+
+1482
+00:51:44,200 --> 00:51:47,480
+the description of this video you can
+
+1483
+00:51:46,000 --> 00:51:49,320
+just fill out an application to apply
+
+1484
+00:51:47,480 --> 00:51:51,160
+for brand builders Academy and uh that's
+
+1485
+00:51:49,320 --> 00:51:52,640
+a program that we own together as you
+
+1486
+00:51:51,160 --> 00:51:54,160
+can see here so if you have any
+
+1487
+00:51:52,640 --> 00:51:55,160
+questions on that please let me know
+
+1488
+00:51:54,160 --> 00:51:58,320
+other than that guys thank you so much
+
+1489
+00:51:55,160 --> 00:52:00,920
+for joining com DM funnel on Instagram
+
+1490
+00:51:58,320 --> 00:52:00,920
+talk to youall later
+

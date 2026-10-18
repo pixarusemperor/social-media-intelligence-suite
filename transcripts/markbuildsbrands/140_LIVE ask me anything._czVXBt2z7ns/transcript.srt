@@ -1,0 +1,6452 @@
+1
+00:00:08,640 --> 00:00:15,240
+What is up, legends? Smart here
+
+2
+00:00:16,720 --> 00:00:22,560
+and we're live, baby. What's good? We
+
+3
+00:00:19,280 --> 00:00:24,720
+got a lovely little AMA today. Ask me
+
+4
+00:00:22,560 --> 00:00:26,080
+anything.
+
+5
+00:00:24,720 --> 00:00:27,360
+It's going to be a fun one. Got about an
+
+6
+00:00:26,080 --> 00:00:29,520
+hour set aside. All right. So, whatever
+
+7
+00:00:27,360 --> 00:00:32,640
+questions you have about ecom, got about
+
+8
+00:00:29,520 --> 00:00:37,280
+life, you got about the gym, you're
+
+9
+00:00:32,640 --> 00:00:40,480
+jealous of my traps, you here, gasp,
+
+10
+00:00:37,280 --> 00:00:41,920
+that's the first. Um,
+
+11
+00:00:40,480 --> 00:00:43,040
+no, seriously, any questions you have,
+
+12
+00:00:41,920 --> 00:00:44,160
+drop them in the chat. Let's have a good
+
+13
+00:00:43,040 --> 00:00:47,200
+time. All right, fellas. Let's have some
+
+14
+00:00:44,160 --> 00:00:49,120
+fun. [ __ ] around, find out, make money,
+
+15
+00:00:47,200 --> 00:00:50,480
+scale ads, run more ads, run more ads,
+
+16
+00:00:49,120 --> 00:00:52,400
+run more ads, run more ads, run more
+
+17
+00:00:50,480 --> 00:00:53,760
+ads. All right, let me get the chat
+
+18
+00:00:52,400 --> 00:00:56,560
+pulled up to the side here. Let's get
+
+19
+00:00:53,760 --> 00:00:59,560
+cooking. I'm I'm about to break a sweat
+
+20
+00:00:56,560 --> 00:00:59,560
+already.
+
+21
+00:01:00,080 --> 00:01:04,480
+So, let's have some fun. Also, let me
+
+22
+00:01:02,320 --> 00:01:08,760
+know where you're listening in from
+
+23
+00:01:04,480 --> 00:01:08,760
+around the world.
+
+24
+00:01:12,480 --> 00:01:16,200
+Where the [ __ ] is the chat?
+
+25
+00:01:22,640 --> 00:01:25,730
+[Applause]
+
+26
+00:01:29,120 --> 00:01:33,680
+Let me know if you guys can hear and see
+
+27
+00:01:31,680 --> 00:01:36,000
+me well.
+
+28
+00:01:33,680 --> 00:01:38,320
+Um, I can't see the chat for some reason
+
+29
+00:01:36,000 --> 00:01:40,320
+here.
+
+30
+00:01:38,320 --> 00:01:42,480
+Let me see if I can get it pulled up
+
+31
+00:01:40,320 --> 00:01:47,160
+inside of OBS. OBS always gives me
+
+32
+00:01:42,480 --> 00:01:47,160
+issues, man. Every single time.
+
+33
+00:01:48,240 --> 00:01:51,480
+Please hold
+
+34
+00:02:12,800 --> 00:02:17,080
+Damn, I don't have my phone on me
+
+35
+00:02:14,080 --> 00:02:17,080
+either.
+
+36
+00:02:20,080 --> 00:02:23,840
+All right, I know I know the chat is
+
+37
+00:02:22,400 --> 00:02:27,200
+there. I just got to figure out how to
+
+38
+00:02:23,840 --> 00:02:31,160
+get it pulled up.
+
+39
+00:02:27,200 --> 00:02:31,160
+You know what? I got an idea.
+
+40
+00:02:47,200 --> 00:02:55,120
+Ah, we got it. What's up, fellas?
+
+41
+00:02:52,240 --> 00:02:57,040
+Terry, what's up, dude? We got uh who's
+
+42
+00:02:55,120 --> 00:03:01,800
+in the building today? Have you read
+
+43
+00:02:57,040 --> 00:03:01,800
+into Brian Tracy's work? I have. Yes.
+
+44
+00:03:04,240 --> 00:03:07,360
+Yo, I'm trying to get a Urus. What
+
+45
+00:03:05,760 --> 00:03:11,000
+product should I launch? Uh, you should
+
+46
+00:03:07,360 --> 00:03:11,000
+choose a better car.
+
+47
+00:03:12,960 --> 00:03:15,920
+No, I like I like [ __ ] on the
+
+48
+00:03:14,240 --> 00:03:18,080
+Uruses, man. But if that's your thing,
+
+49
+00:03:15,920 --> 00:03:19,520
+that's cool. That's cool, I guess. What
+
+50
+00:03:18,080 --> 00:03:21,680
+product should I launch? Dude, you're
+
+51
+00:03:19,520 --> 00:03:23,360
+asking the wrong questions. Number one
+
+52
+00:03:21,680 --> 00:03:25,200
+need to be asking what creative should I
+
+53
+00:03:23,360 --> 00:03:27,040
+launch? What funnel should I launch? The
+
+54
+00:03:25,200 --> 00:03:29,920
+overall success formula of ecom, I think
+
+55
+00:03:27,040 --> 00:03:32,640
+it's a little something like this. Like
+
+56
+00:03:29,920 --> 00:03:34,000
+if this was almost like kind of a pie
+
+57
+00:03:32,640 --> 00:03:36,320
+chart, right? Except it's a [ __ ]
+
+58
+00:03:34,000 --> 00:03:39,120
+rectangle.
+
+59
+00:03:36,320 --> 00:03:44,000
+I think the product is
+
+60
+00:03:39,120 --> 00:03:47,520
+max absolute maximum like 50%. So if
+
+61
+00:03:44,000 --> 00:03:50,960
+this is product right here,
+
+62
+00:03:47,520 --> 00:03:55,000
+max 50% of your success. Um from there
+
+63
+00:03:50,960 --> 00:03:55,000
+we have funnel and creatives.
+
+64
+00:03:56,480 --> 00:04:01,040
+Funnel creatives. Honestly, you could
+
+65
+00:03:59,680 --> 00:04:02,960
+you could package in the product with
+
+66
+00:04:01,040 --> 00:04:07,040
+the actual funnel, but point being, bro,
+
+67
+00:04:02,960 --> 00:04:08,480
+you need to be obsessing. Obsessing
+
+68
+00:04:07,040 --> 00:04:10,000
+over the funnel and the creatives, not
+
+69
+00:04:08,480 --> 00:04:11,120
+as much the product. I honestly I don't
+
+70
+00:04:10,000 --> 00:04:12,640
+even think this [ __ ] true. I think
+
+71
+00:04:11,120 --> 00:04:14,160
+it's more like this and then funnel
+
+72
+00:04:12,640 --> 00:04:17,920
+would be like all this. Creatives would
+
+73
+00:04:14,160 --> 00:04:21,280
+be that or vice versa.
+
+74
+00:04:17,920 --> 00:04:24,000
+Ahmad, what's up? Isan when to use
+
+75
+00:04:21,280 --> 00:04:28,680
+listical advtorial and product page.
+
+76
+00:04:24,000 --> 00:04:28,680
+Actually amazing question here.
+
+77
+00:04:35,280 --> 00:04:39,360
+All right. So let's say we got the the
+
+78
+00:04:37,440 --> 00:04:41,760
+stages of sophistication right here,
+
+79
+00:04:39,360 --> 00:04:44,240
+right? Let me move this [ __ ] piece of
+
+80
+00:04:41,760 --> 00:04:46,560
+[ __ ] [ __ ] Jesus.
+
+81
+00:04:44,240 --> 00:04:48,320
+[ __ ]
+
+82
+00:04:46,560 --> 00:04:50,400
+So you got the five stages of awareness.
+
+83
+00:04:48,320 --> 00:04:53,200
+The decision of whether to use a
+
+84
+00:04:50,400 --> 00:04:55,120
+listical, an advvertorial or a PDP, it
+
+85
+00:04:53,200 --> 00:04:57,760
+depends on a lot of variables, but I
+
+86
+00:04:55,120 --> 00:04:59,360
+think the most important variable is the
+
+87
+00:04:57,760 --> 00:05:02,640
+level of awareness. Another variable
+
+88
+00:04:59,360 --> 00:05:04,320
+just so that you you understand is the
+
+89
+00:05:02,640 --> 00:05:06,960
+level of sophistication or stage of
+
+90
+00:05:04,320 --> 00:05:08,640
+sophistication rather and also do you
+
+91
+00:05:06,960 --> 00:05:10,480
+have a credibility or an authority
+
+92
+00:05:08,640 --> 00:05:11,920
+figure working with you? Because think
+
+93
+00:05:10,480 --> 00:05:14,080
+about it. Would you ever see someone
+
+94
+00:05:11,920 --> 00:05:16,720
+like
+
+95
+00:05:14,080 --> 00:05:18,560
+um Justin Bieber, like Cardi B, like
+
+96
+00:05:16,720 --> 00:05:21,920
+Rihanna, they have their brands, right?
+
+97
+00:05:18,560 --> 00:05:26,000
+Would you ever see them running traffic
+
+98
+00:05:21,920 --> 00:05:28,400
+to an advvertorial, bro? [ __ ] no. [ __ ]
+
+99
+00:05:26,000 --> 00:05:30,160
+no. And the reason why is because yes,
+
+100
+00:05:28,400 --> 00:05:32,640
+there is a relatively high level
+
+101
+00:05:30,160 --> 00:05:34,160
+awareness, but they just have so much
+
+102
+00:05:32,640 --> 00:05:36,080
+power. They have so much pull, so much
+
+103
+00:05:34,160 --> 00:05:37,280
+credibility, so much authority that you
+
+104
+00:05:36,080 --> 00:05:38,320
+can bypass some of the rules. But
+
+105
+00:05:37,280 --> 00:05:39,360
+generally, that's not going to be most
+
+106
+00:05:38,320 --> 00:05:40,640
+of the people on this call. Most of
+
+107
+00:05:39,360 --> 00:05:42,320
+people probably have zero authority
+
+108
+00:05:40,640 --> 00:05:45,280
+figure, you know, if any if it
+
+109
+00:05:42,320 --> 00:05:46,800
+definitely not a super strong one. Um,
+
+110
+00:05:45,280 --> 00:05:47,760
+with with a few exceptions, of course. I
+
+111
+00:05:46,800 --> 00:05:50,400
+know some of you guys work with
+
+112
+00:05:47,760 --> 00:05:54,160
+celebrities, but you know what I mean.
+
+113
+00:05:50,400 --> 00:05:55,600
+So, listical, advtorial, or PDP.
+
+114
+00:05:54,160 --> 00:05:58,480
+Typically, you can think about it this
+
+115
+00:05:55,600 --> 00:06:00,640
+way. If you have a product that you're
+
+116
+00:05:58,480 --> 00:06:03,680
+selling, a market that you're selling to
+
+117
+00:06:00,640 --> 00:06:05,040
+that currently is
+
+118
+00:06:03,680 --> 00:06:07,760
+like basically what I'm what I'm trying
+
+119
+00:06:05,040 --> 00:06:10,160
+to say is like from level of from a
+
+120
+00:06:07,760 --> 00:06:13,800
+level of awareness perspective,
+
+121
+00:06:10,160 --> 00:06:13,800
+you're going to have advtorial.
+
+122
+00:06:13,840 --> 00:06:18,640
+You're going to have advtorial first,
+
+123
+00:06:15,520 --> 00:06:20,480
+meaning that it's the deepest down the
+
+124
+00:06:18,640 --> 00:06:22,560
+stages of awareness and then you're
+
+125
+00:06:20,480 --> 00:06:25,960
+going to have
+
+126
+00:06:22,560 --> 00:06:25,960
+the listical
+
+127
+00:06:27,520 --> 00:06:32,400
+and then you are going to have the PDP.
+
+128
+00:06:30,080 --> 00:06:34,240
+I don't have it directly under any
+
+129
+00:06:32,400 --> 00:06:37,200
+individual one. You should think of it
+
+130
+00:06:34,240 --> 00:06:39,920
+more so as a as a spectrum, right? And
+
+131
+00:06:37,200 --> 00:06:41,840
+so the more unaware your audience is,
+
+132
+00:06:39,920 --> 00:06:42,960
+the more that you can be using these
+
+133
+00:06:41,840 --> 00:06:45,520
+direct response elements like an
+
+134
+00:06:42,960 --> 00:06:47,120
+advvertorial like VSSLs, etc. to control
+
+135
+00:06:45,520 --> 00:06:49,760
+the narrative more, control the
+
+136
+00:06:47,120 --> 00:06:51,280
+messaging to be able to sell them more
+
+137
+00:06:49,760 --> 00:06:52,960
+effectively. But not everybody is going
+
+138
+00:06:51,280 --> 00:06:54,960
+to be like an advvertorial buyer. Not
+
+139
+00:06:52,960 --> 00:06:58,360
+everybody is an advtorial buyer. Most
+
+140
+00:06:54,960 --> 00:06:58,360
+people are not.
+
+141
+00:06:59,600 --> 00:07:04,720
+All right, next question. How many ads
+
+142
+00:07:01,760 --> 00:07:09,480
+you test per day?
+
+143
+00:07:04,720 --> 00:07:09,480
+Um, dozens. dozens per day.
+
+144
+00:07:12,320 --> 00:07:18,320
+All right, next question from Wise
+
+145
+00:07:14,000 --> 00:07:19,920
+Stuff. Mark, what's up? What's up? What
+
+146
+00:07:18,320 --> 00:07:21,440
+type of beats or frequencies do you
+
+147
+00:07:19,920 --> 00:07:22,640
+recommend to listen to to get locked in?
+
+148
+00:07:21,440 --> 00:07:25,360
+And what do you think of offering
+
+149
+00:07:22,640 --> 00:07:27,600
+automation services with the help of AI?
+
+150
+00:07:25,360 --> 00:07:28,960
+Okay, let's two vastly different
+
+151
+00:07:27,600 --> 00:07:31,120
+questions, but let's [ __ ] let's
+
+152
+00:07:28,960 --> 00:07:32,800
+[ __ ] do it anyways. So, the first
+
+153
+00:07:31,120 --> 00:07:34,080
+question is is about music. Like, what
+
+154
+00:07:32,800 --> 00:07:35,280
+is the best music that helps you lock
+
+155
+00:07:34,080 --> 00:07:37,440
+in? All right, there's really there's
+
+156
+00:07:35,280 --> 00:07:41,120
+two sides to this. Side number one is
+
+157
+00:07:37,440 --> 00:07:42,240
+like what does the science say?
+
+158
+00:07:41,120 --> 00:07:43,600
+Because there actually is, you know,
+
+159
+00:07:42,240 --> 00:07:45,680
+specific types of music that works
+
+160
+00:07:43,600 --> 00:07:50,720
+really well backed by research. And then
+
+161
+00:07:45,680 --> 00:07:52,480
+you have what does my soul say?
+
+162
+00:07:50,720 --> 00:07:54,320
+Because let's be honest, there are some
+
+163
+00:07:52,480 --> 00:07:56,560
+things in life, I know this is
+
+164
+00:07:54,320 --> 00:07:59,760
+especially true in the gym that
+
+165
+00:07:56,560 --> 00:08:01,760
+scientifically may not lead, let's use
+
+166
+00:07:59,760 --> 00:08:03,760
+the example of the gym, may not lead to
+
+167
+00:08:01,760 --> 00:08:06,080
+more muscle, may not lead to more
+
+168
+00:08:03,760 --> 00:08:09,280
+hypertrophy, more muscle gain, muscle
+
+169
+00:08:06,080 --> 00:08:12,000
+density, etc. Yet, I still do them
+
+170
+00:08:09,280 --> 00:08:14,000
+because they either feel really, really
+
+171
+00:08:12,000 --> 00:08:17,120
+good or they work specifically for my
+
+172
+00:08:14,000 --> 00:08:19,280
+biomechanics compared to other movements
+
+173
+00:08:17,120 --> 00:08:21,840
+or I just [ __ ] enjoy doing them. And
+
+174
+00:08:19,280 --> 00:08:23,520
+some things I'm okay doing them just
+
+175
+00:08:21,840 --> 00:08:24,880
+because I enjoy them and not because
+
+176
+00:08:23,520 --> 00:08:27,120
+they're going to get me directly to my
+
+177
+00:08:24,880 --> 00:08:28,560
+goals. I know it sounds a little bit
+
+178
+00:08:27,120 --> 00:08:29,760
+weird, a little bit backwards, but
+
+179
+00:08:28,560 --> 00:08:31,520
+that's just the truth of the matter
+
+180
+00:08:29,760 --> 00:08:34,080
+after doing a lot of this. Okay, so the
+
+181
+00:08:31,520 --> 00:08:35,840
+science says that there's a few kind of
+
+182
+00:08:34,080 --> 00:08:38,000
+types of music that can get you into an
+
+183
+00:08:35,840 --> 00:08:40,320
+ultra focused deep state of work where
+
+184
+00:08:38,000 --> 00:08:43,200
+you're just incredibly productive. One
+
+185
+00:08:40,320 --> 00:08:48,800
+of those is a a type of classical music
+
+186
+00:08:43,200 --> 00:08:50,640
+called Baroque. spelled B A R O Q U E.
+
+187
+00:08:48,800 --> 00:08:53,440
+The science behind this is that Baroque
+
+188
+00:08:50,640 --> 00:08:56,240
+is specifically rated at 120 beat, you
+
+189
+00:08:53,440 --> 00:08:58,880
+know, beats per minute. Um, which is
+
+190
+00:08:56,240 --> 00:09:02,000
+double in double time what your heart
+
+191
+00:08:58,880 --> 00:09:04,960
+rate would be if it was at 60 BPM. And
+
+192
+00:09:02,000 --> 00:09:08,240
+if your heart is typically at 60 BPM and
+
+193
+00:09:04,960 --> 00:09:09,840
+the music is at 60 BPM, you can feel the
+
+194
+00:09:08,240 --> 00:09:11,680
+state of relaxation. You can feel like
+
+195
+00:09:09,840 --> 00:09:13,280
+you're more relaxed. For me, I can't
+
+196
+00:09:11,680 --> 00:09:14,640
+work very well to this music. I
+
+197
+00:09:13,280 --> 00:09:16,000
+definitely can't read to this music
+
+198
+00:09:14,640 --> 00:09:16,880
+because I tried it in college all the
+
+199
+00:09:16,000 --> 00:09:19,520
+time when I had to read through all
+
+200
+00:09:16,880 --> 00:09:20,960
+these massive textbooks. It was a [ __ ]
+
+201
+00:09:19,520 --> 00:09:23,920
+And the reason why is because I'm I'm
+
+202
+00:09:20,960 --> 00:09:26,640
+very musically minded. So my brain will
+
+203
+00:09:23,920 --> 00:09:27,920
+like start to follow the melody to the
+
+204
+00:09:26,640 --> 00:09:30,000
+point where it detracts me from the work
+
+205
+00:09:27,920 --> 00:09:32,000
+that I'm doing in the first place. So
+
+206
+00:09:30,000 --> 00:09:33,840
+for some people this works great. For me
+
+207
+00:09:32,000 --> 00:09:36,320
+it's it does not work great. Works
+
+208
+00:09:33,840 --> 00:09:40,400
+terribly. Another one is simply just
+
+209
+00:09:36,320 --> 00:09:43,440
+using um you know these two kinds of
+
+210
+00:09:40,400 --> 00:09:46,560
+beats. One is called binaural
+
+211
+00:09:43,440 --> 00:09:49,840
+binaural beats. The other is called
+
+212
+00:09:46,560 --> 00:09:51,920
+isocchronic tones.
+
+213
+00:09:49,840 --> 00:09:53,600
+So binaural beats are a little bit more
+
+214
+00:09:51,920 --> 00:09:56,640
+they actually sound like music.
+
+215
+00:09:53,600 --> 00:09:58,400
+Isocchronic tones are literally
+
+216
+00:09:56,640 --> 00:09:59,760
+just two different tones being played in
+
+217
+00:09:58,400 --> 00:10:01,200
+your ear. So one let's say is at like
+
+218
+00:09:59,760 --> 00:10:02,720
+six hertz, the other is at eight. So
+
+219
+00:10:01,200 --> 00:10:04,560
+there's a discrepancy of two hertz. It's
+
+220
+00:10:02,720 --> 00:10:06,560
+supposed to create this hemisync
+
+221
+00:10:04,560 --> 00:10:08,480
+response in your brain blah blah blah.
+
+222
+00:10:06,560 --> 00:10:10,320
+Um, I found that binaural beats is more
+
+223
+00:10:08,480 --> 00:10:13,040
+sustainable because isocchronic tones,
+
+224
+00:10:10,320 --> 00:10:14,640
+it's literally like in your ear all the
+
+225
+00:10:13,040 --> 00:10:16,640
+[ __ ] time that's basically just like
+
+226
+00:10:14,640 --> 00:10:19,680
+this high-pitched [ __ ] annoying ass
+
+227
+00:10:16,640 --> 00:10:21,280
+noise. I actually like it because then
+
+228
+00:10:19,680 --> 00:10:23,840
+like in in the example that I said about
+
+229
+00:10:21,280 --> 00:10:25,360
+Baroque music, I can't work because my
+
+230
+00:10:23,840 --> 00:10:27,200
+brain will start to follow the natural
+
+231
+00:10:25,360 --> 00:10:28,560
+melody of the song. With isopchronic
+
+232
+00:10:27,200 --> 00:10:30,480
+tones, there's zero melody whatsoever.
+
+233
+00:10:28,560 --> 00:10:33,360
+It's just this just one tone literally
+
+234
+00:10:30,480 --> 00:10:35,440
+the entire time. But I only use that for
+
+235
+00:10:33,360 --> 00:10:37,200
+like ultra ultra deep states of focus or
+
+236
+00:10:35,440 --> 00:10:38,320
+else it'll get really annoying. Like if
+
+237
+00:10:37,200 --> 00:10:40,320
+you listen that [ __ ] all day, it's
+
+238
+00:10:38,320 --> 00:10:41,840
+almost like a fly. It's just like flying
+
+239
+00:10:40,320 --> 00:10:43,680
+around your head all [ __ ] day. Super
+
+240
+00:10:41,840 --> 00:10:45,840
+annoying. So that's what the science
+
+241
+00:10:43,680 --> 00:10:49,200
+says. These two kinds of music can be
+
+242
+00:10:45,840 --> 00:10:50,560
+really really effective for for deep
+
+243
+00:10:49,200 --> 00:10:52,880
+states of productivity. Now for the
+
+244
+00:10:50,560 --> 00:10:54,960
+soul, this is completely different. This
+
+245
+00:10:52,880 --> 00:10:57,200
+is in my personal experience what gets
+
+246
+00:10:54,960 --> 00:11:00,480
+me into these uh these super locked in
+
+247
+00:10:57,200 --> 00:11:04,400
+states of productivity. Okay. Number one
+
+248
+00:11:00,480 --> 00:11:06,960
+uh for me personally is this subg genre
+
+249
+00:11:04,400 --> 00:11:10,000
+of electronic music called like synth
+
+250
+00:11:06,960 --> 00:11:11,840
+wave. Synth wave and vapor wave works
+
+251
+00:11:10,000 --> 00:11:15,120
+really really well for me. It's just
+
+252
+00:11:11,840 --> 00:11:16,960
+that perfect like predictability of the
+
+253
+00:11:15,120 --> 00:11:19,840
+the percussive instruments like the
+
+254
+00:11:16,960 --> 00:11:21,360
+drum, the snare, all the [ __ ] that
+
+255
+00:11:19,840 --> 00:11:22,720
+creates like the consistency and then
+
+256
+00:11:21,360 --> 00:11:24,000
+there is a little bit of like flowing
+
+257
+00:11:22,720 --> 00:11:25,600
+with the sound which I like. I think
+
+258
+00:11:24,000 --> 00:11:29,720
+that I can work for hours upon hours
+
+259
+00:11:25,600 --> 00:11:29,720
+with that. Um,
+
+260
+00:11:30,080 --> 00:11:34,640
+another another kind of music that that
+
+261
+00:11:32,880 --> 00:11:41,120
+for me is like really enjoyable to work
+
+262
+00:11:34,640 --> 00:11:42,960
+to is like liquid liquid DMB or
+
+263
+00:11:41,120 --> 00:11:44,640
+atmosphereic
+
+264
+00:11:42,960 --> 00:11:46,400
+DMB.
+
+265
+00:11:44,640 --> 00:11:48,720
+Those also, for whatever reason, just
+
+266
+00:11:46,400 --> 00:11:50,480
+get me into a super locked in state.
+
+267
+00:11:48,720 --> 00:11:52,640
+Now, I'm going to add a bonus on here,
+
+268
+00:11:50,480 --> 00:11:54,800
+okay? Specifically, if you're writing
+
+269
+00:11:52,640 --> 00:11:56,560
+copy, this is this is super super
+
+270
+00:11:54,800 --> 00:11:58,160
+applicable. not copy with AI. I mean,
+
+271
+00:11:56,560 --> 00:11:59,440
+you can do it for copy if AI if you
+
+272
+00:11:58,160 --> 00:12:00,560
+want, but specifically if you're like
+
+273
+00:11:59,440 --> 00:12:04,400
+sitting down, you're like, I'm gonna
+
+274
+00:12:00,560 --> 00:12:06,480
+actually write copy right now. Um, the
+
+275
+00:12:04,400 --> 00:12:08,400
+the philosophy behind this is that
+
+276
+00:12:06,480 --> 00:12:10,240
+writing copy should be a process of like
+
+277
+00:12:08,400 --> 00:12:12,320
+80% you doing your research,
+
+278
+00:12:10,240 --> 00:12:13,840
+understanding your customer, the VOCC,
+
+279
+00:12:12,320 --> 00:12:17,440
+the voice of the customer, the language
+
+280
+00:12:13,840 --> 00:12:19,760
+that they use, all these things. And the
+
+281
+00:12:17,440 --> 00:12:23,280
+writing process should be one of the
+
+282
+00:12:19,760 --> 00:12:24,880
+easier, more enjoyable pieces. Uh but
+
+283
+00:12:23,280 --> 00:12:26,160
+it's it's definitely much more of your
+
+284
+00:12:24,880 --> 00:12:27,440
+creative brain. So the way I think about
+
+285
+00:12:26,160 --> 00:12:28,960
+it is you're essentially loading your
+
+286
+00:12:27,440 --> 00:12:31,280
+brain with all this material, all this
+
+287
+00:12:28,960 --> 00:12:33,040
+copywriting um you know, research
+
+288
+00:12:31,280 --> 00:12:34,560
+philosophy, but also the philosophy of
+
+289
+00:12:33,040 --> 00:12:36,320
+the market that you're selling to. It
+
+290
+00:12:34,560 --> 00:12:38,000
+creates like this uh this storm of
+
+291
+00:12:36,320 --> 00:12:39,920
+information. And you just have to take
+
+292
+00:12:38,000 --> 00:12:41,920
+that storm and channel it out onto the
+
+293
+00:12:39,920 --> 00:12:44,080
+onto the piece of paper or onto your
+
+294
+00:12:41,920 --> 00:12:45,760
+laptop. And so in order to do that,
+
+295
+00:12:44,080 --> 00:12:47,040
+that's an energetic experience, right? I
+
+296
+00:12:45,760 --> 00:12:50,160
+had a mentor that would always say that
+
+297
+00:12:47,040 --> 00:12:52,960
+copy is an energetic experience. And in
+
+298
+00:12:50,160 --> 00:12:54,720
+order to write the best quality copy,
+
+299
+00:12:52,960 --> 00:12:56,400
+you have to get yourself in a state
+
+300
+00:12:54,720 --> 00:12:57,600
+where you feel the energy pumping
+
+301
+00:12:56,400 --> 00:13:00,080
+through your body. This is not
+
+302
+00:12:57,600 --> 00:13:01,600
+necessarily a super deeply focused like
+
+303
+00:13:00,080 --> 00:13:04,080
+I'm working through [ __ ] spreadsheets
+
+304
+00:13:01,600 --> 00:13:06,160
+or like I'm trying to identify like a
+
+305
+00:13:04,080 --> 00:13:07,760
+new winning variable on my ads. No, it's
+
+306
+00:13:06,160 --> 00:13:09,600
+not like that. That's very leftbrain
+
+307
+00:13:07,760 --> 00:13:11,200
+thinking, very logical. You want to
+
+308
+00:13:09,600 --> 00:13:13,520
+shift into the creative side, something
+
+309
+00:13:11,200 --> 00:13:15,760
+very energetic, almost spiritual.
+
+310
+00:13:13,520 --> 00:13:17,280
+Everybody has different kinds of music
+
+311
+00:13:15,760 --> 00:13:20,000
+that is going to trigger them and get
+
+312
+00:13:17,280 --> 00:13:23,240
+this get them into this kind of state.
+
+313
+00:13:20,000 --> 00:13:23,240
+For me,
+
+314
+00:13:24,800 --> 00:13:30,160
+for me, this varies um quite a lot. I
+
+315
+00:13:28,080 --> 00:13:32,880
+can't really have anything with lyrics
+
+316
+00:13:30,160 --> 00:13:34,800
+for the same reason that
+
+317
+00:13:32,880 --> 00:13:36,400
+Baroque music is like over here. It's
+
+318
+00:13:34,800 --> 00:13:38,080
+just it just ends up distracting me more
+
+319
+00:13:36,400 --> 00:13:40,560
+than getting me into a focused date. But
+
+320
+00:13:38,080 --> 00:13:43,680
+some people like my mentor um Allan, one
+
+321
+00:13:40,560 --> 00:13:45,440
+of one of my amazing mentors, he he will
+
+322
+00:13:43,680 --> 00:13:46,720
+play Jay-Z when he's writing copy. And
+
+323
+00:13:45,440 --> 00:13:48,560
+he'll like he'll really feel it. He'll
+
+324
+00:13:46,720 --> 00:13:49,920
+start standing up sometimes. He'll be
+
+325
+00:13:48,560 --> 00:13:52,560
+like bobbing his head. He'll be like
+
+326
+00:13:49,920 --> 00:13:54,000
+dancing. That's that's what the process
+
+327
+00:13:52,560 --> 00:13:55,200
+of copywriting should actually look
+
+328
+00:13:54,000 --> 00:13:57,200
+like. If you're the one writing the
+
+329
+00:13:55,200 --> 00:13:58,960
+copy, it should feel like very very
+
+330
+00:13:57,200 --> 00:14:00,960
+energetic, almost like effortless if you
+
+331
+00:13:58,960 --> 00:14:02,800
+do it correctly. Uh the chiefing
+
+332
+00:14:00,960 --> 00:14:03,920
+process, total pain in the ass, total
+
+333
+00:14:02,800 --> 00:14:06,640
+[ __ ] And that's where you bring in
+
+334
+00:14:03,920 --> 00:14:08,320
+your uh your left brain thinking to uh
+
+335
+00:14:06,640 --> 00:14:09,760
+work through these principles. But if
+
+336
+00:14:08,320 --> 00:14:11,600
+you're just sitting down and writing
+
+337
+00:14:09,760 --> 00:14:16,160
+this creative act, it should be very
+
+338
+00:14:11,600 --> 00:14:18,560
+expressive. It's not like um
+
+339
+00:14:16,160 --> 00:14:20,000
+it shouldn't be suppressive, right? The
+
+340
+00:14:18,560 --> 00:14:20,960
+the opposite of expression is
+
+341
+00:14:20,000 --> 00:14:22,000
+suppression. You shouldn't be
+
+342
+00:14:20,960 --> 00:14:25,040
+suppressing anything. You should feel
+
+343
+00:14:22,000 --> 00:14:26,400
+very very flowy, very energetic, and
+
+344
+00:14:25,040 --> 00:14:28,240
+just feel like everything is just kind
+
+345
+00:14:26,400 --> 00:14:30,880
+of flowing through you onto your onto
+
+346
+00:14:28,240 --> 00:14:33,360
+your laptop. So, for me, like more
+
+347
+00:14:30,880 --> 00:14:35,360
+upbeat EDM can do really, really well.
+
+348
+00:14:33,360 --> 00:14:36,240
+Also to the point of like aggressive. I
+
+349
+00:14:35,360 --> 00:14:37,760
+mean, you guys are going to think I'm
+
+350
+00:14:36,240 --> 00:14:39,600
+[ __ ] psychotic when I say this, but I
+
+351
+00:14:37,760 --> 00:14:43,520
+I literally write copy sometimes to like
+
+352
+00:14:39,600 --> 00:14:46,560
+metal music, like metal, death metal,
+
+353
+00:14:43,520 --> 00:14:48,240
+because I feel like the rhythm
+
+354
+00:14:46,560 --> 00:14:50,480
+I can't [ __ ] understand what they're
+
+355
+00:14:48,240 --> 00:14:52,160
+what they're saying. So, I don't have to
+
+356
+00:14:50,480 --> 00:14:55,120
+worry about like my brain following the
+
+357
+00:14:52,160 --> 00:14:56,880
+lyrics. But, it does like feel really
+
+358
+00:14:55,120 --> 00:14:58,400
+really good energetically. A lot of rap
+
+359
+00:14:56,880 --> 00:14:59,760
+as well I'll listen to as long as I
+
+360
+00:14:58,400 --> 00:15:02,160
+again as long as I don't know the
+
+361
+00:14:59,760 --> 00:15:03,760
+lyrics. Um instrumental rap beats like
+
+362
+00:15:02,160 --> 00:15:05,200
+boom bap. I really like listening to
+
+363
+00:15:03,760 --> 00:15:07,120
+like instrumental boom bap. Gets me in a
+
+364
+00:15:05,200 --> 00:15:08,400
+great state. But yeah, that's that's
+
+365
+00:15:07,120 --> 00:15:09,520
+what I would recommend. I know that was
+
+366
+00:15:08,400 --> 00:15:14,360
+a lot longer than you were probably
+
+367
+00:15:09,520 --> 00:15:14,360
+expecting, but there you go.
+
+368
+00:15:26,720 --> 00:15:33,480
+Tune tune vonam mark what was your
+
+369
+00:15:29,600 --> 00:15:33,480
+favorite subject in school.
+
+370
+00:15:33,760 --> 00:15:40,400
+My favorite subject was math because I
+
+371
+00:15:36,720 --> 00:15:42,240
+was I was good at it. I was like, um,
+
+372
+00:15:40,400 --> 00:15:46,200
+yeah, it just like made a lot of sense.
+
+373
+00:15:42,240 --> 00:15:46,200
+Made a lot of sense to me.
+
+374
+00:15:47,120 --> 00:15:51,480
+It was it was challenging, which I
+
+375
+00:15:48,480 --> 00:15:51,480
+liked.
+
+376
+00:15:53,760 --> 00:15:57,440
+Swag doodle. Oh, [ __ ] Where'd it go?
+
+377
+00:15:55,680 --> 00:15:58,640
+There we go. Hey Mark, I'm a complete
+
+378
+00:15:57,440 --> 00:16:01,200
+beginner and in a few weeks I have
+
+379
+00:15:58,640 --> 00:16:02,480
+around 15 to 20k to spend on testing ads
+
+380
+00:16:01,200 --> 00:16:05,200
+and products. How many products and how
+
+381
+00:16:02,480 --> 00:16:07,920
+many ads per product should I test?
+
+382
+00:16:05,200 --> 00:16:09,280
+Okay, so if you're a beginner and you're
+
+383
+00:16:07,920 --> 00:16:11,440
+getting into testing and you got a good
+
+384
+00:16:09,280 --> 00:16:13,360
+budget, number one, amazing [ __ ]
+
+385
+00:16:11,440 --> 00:16:14,880
+work. Most people get into testing,
+
+386
+00:16:13,360 --> 00:16:15,840
+especially with paid ads, are like, "I I
+
+387
+00:16:14,880 --> 00:16:17,920
+have a hundred bucks." And I'm like,
+
+388
+00:16:15,840 --> 00:16:19,200
+"Just quit.
+
+389
+00:16:17,920 --> 00:16:21,360
+Just quit. You're just going to burn
+
+390
+00:16:19,200 --> 00:16:23,440
+your money." But you got a good budget
+
+391
+00:16:21,360 --> 00:16:27,760
+set aside. So that's number one. Good
+
+392
+00:16:23,440 --> 00:16:29,520
+job. Number two,
+
+393
+00:16:27,760 --> 00:16:31,440
+how do you actually launch? Okay, so
+
+394
+00:16:29,520 --> 00:16:36,240
+once you find a product, I would
+
+395
+00:16:31,440 --> 00:16:38,080
+recommend testing three to five ads per
+
+396
+00:16:36,240 --> 00:16:40,560
+product per launch. And what I mean by
+
+397
+00:16:38,080 --> 00:16:42,160
+that is I always like anytime you launch
+
+398
+00:16:40,560 --> 00:16:43,440
+any new product, you're basically taking
+
+399
+00:16:42,160 --> 00:16:44,400
+all the [ __ ] that you never know if it's
+
+400
+00:16:43,440 --> 00:16:46,160
+actually going to convert, throwing
+
+401
+00:16:44,400 --> 00:16:47,680
+against the wall, and let's say you
+
+402
+00:16:46,160 --> 00:16:50,000
+throw like 50 things against the wall,
+
+403
+00:16:47,680 --> 00:16:52,800
+like two of them are going to stick. But
+
+404
+00:16:50,000 --> 00:16:54,720
+those two things are going to be the two
+
+405
+00:16:52,800 --> 00:16:56,960
+things that end up making you really,
+
+406
+00:16:54,720 --> 00:16:58,320
+really successful in having a scalable
+
+407
+00:16:56,960 --> 00:16:59,760
+business in the future. So you have to
+
+408
+00:16:58,320 --> 00:17:02,720
+go through this process of just testing
+
+409
+00:16:59,760 --> 00:17:04,240
+a lot of things. So if you test five ads
+
+410
+00:17:02,720 --> 00:17:06,960
+with one particular product, you spend a
+
+411
+00:17:04,240 --> 00:17:10,160
+few hundred, you get some data. I have a
+
+412
+00:17:06,960 --> 00:17:13,280
+simple one
+
+413
+00:17:10,160 --> 00:17:15,600
+relaunch rule. And all that means is
+
+414
+00:17:13,280 --> 00:17:17,520
+anytime that I'm testing a new product,
+
+415
+00:17:15,600 --> 00:17:19,760
+I want to of course launch it and get
+
+416
+00:17:17,520 --> 00:17:23,040
+the data, but I'll give myself
+
+417
+00:17:19,760 --> 00:17:25,520
+permission to analyze the data, identify
+
+418
+00:17:23,040 --> 00:17:29,920
+the constraint, and relaunch at least
+
+419
+00:17:25,520 --> 00:17:32,240
+once. not at least once, at most once
+
+420
+00:17:29,920 --> 00:17:33,680
+to make that product profitable and see
+
+421
+00:17:32,240 --> 00:17:35,600
+some like promising indicators. So, for
+
+422
+00:17:33,680 --> 00:17:37,520
+example, let's say I test a product, I
+
+423
+00:17:35,600 --> 00:17:39,760
+spent 300 bucks, I'm operating at like
+
+424
+00:17:37,520 --> 00:17:41,520
+0.9 rorowass. So, like I'm not doing
+
+425
+00:17:39,760 --> 00:17:42,960
+terrible. I'm below profitability. Of
+
+426
+00:17:41,520 --> 00:17:46,560
+course, I'm below my break even point,
+
+427
+00:17:42,960 --> 00:17:48,080
+but overall, I did get some people to
+
+428
+00:17:46,560 --> 00:17:49,600
+purchase.
+
+429
+00:17:48,080 --> 00:17:52,240
+I just needed I just didn't do it well
+
+430
+00:17:49,600 --> 00:17:53,680
+enough. So, I go in, I look at my data,
+
+431
+00:17:52,240 --> 00:17:55,120
+I look at Facebook, and I'm looking at
+
+432
+00:17:53,680 --> 00:17:57,280
+the ads that it's spending on. And I
+
+433
+00:17:55,120 --> 00:17:58,880
+notice that all the profitable sales are
+
+434
+00:17:57,280 --> 00:18:00,240
+coming from just one creative, but the
+
+435
+00:17:58,880 --> 00:18:03,280
+one creative is not getting the majority
+
+436
+00:18:00,240 --> 00:18:05,680
+of the spend. It's getting like third
+
+437
+00:18:03,280 --> 00:18:07,040
+spend out of the five creatives. But if
+
+438
+00:18:05,680 --> 00:18:08,880
+it got all the spend, it' probably be a
+
+439
+00:18:07,040 --> 00:18:11,520
+lot more profitable. So, what I would do
+
+440
+00:18:08,880 --> 00:18:14,400
+is I would cut everything. I would
+
+441
+00:18:11,520 --> 00:18:16,320
+relaunch it with also three to five
+
+442
+00:18:14,400 --> 00:18:18,080
+creatives, but I would take that one
+
+443
+00:18:16,320 --> 00:18:20,160
+that actually performed really really
+
+444
+00:18:18,080 --> 00:18:22,160
+well and I would make three to five
+
+445
+00:18:20,160 --> 00:18:24,960
+iterations of that one and launch it
+
+446
+00:18:22,160 --> 00:18:26,960
+alongside that original one
+
+447
+00:18:24,960 --> 00:18:28,480
+and see how that converts. So that would
+
+448
+00:18:26,960 --> 00:18:30,320
+be like an example of a relaunch. So I
+
+449
+00:18:28,480 --> 00:18:32,240
+launch it, I'm not profitable, I
+
+450
+00:18:30,320 --> 00:18:34,880
+identify the constraint, I solve the
+
+451
+00:18:32,240 --> 00:18:37,600
+constraint, I relaunch. If at that point
+
+452
+00:18:34,880 --> 00:18:39,600
+I'm still not at least break even, then
+
+453
+00:18:37,600 --> 00:18:40,880
+I will move on to the next product. Not
+
+454
+00:18:39,600 --> 00:18:42,160
+because I don't think I can make that
+
+455
+00:18:40,880 --> 00:18:44,080
+product work. I think that I can make
+
+456
+00:18:42,160 --> 00:18:46,320
+just about any product work. But the
+
+457
+00:18:44,080 --> 00:18:48,000
+opportunity cost is going to be greater
+
+458
+00:18:46,320 --> 00:18:49,680
+for continuing to pursue this product
+
+459
+00:18:48,000 --> 00:18:53,200
+versus potentially having a product that
+
+460
+00:18:49,680 --> 00:18:54,880
+is easier to sell down the line if I
+
+461
+00:18:53,200 --> 00:18:56,880
+just, you know, say [ __ ] this one and
+
+462
+00:18:54,880 --> 00:18:59,440
+move on to the next one. That's that's
+
+463
+00:18:56,880 --> 00:19:03,040
+the best way to test because this way
+
+464
+00:18:59,440 --> 00:19:05,360
+this creates basically a you know kind
+
+465
+00:19:03,040 --> 00:19:07,760
+of boundary of sorts where a lot of
+
+466
+00:19:05,360 --> 00:19:09,920
+people if they like test a product
+
+467
+00:19:07,760 --> 00:19:11,200
+they'll like this is going to be an
+
+468
+00:19:09,920 --> 00:19:13,280
+interesting visual but they'll they'll
+
+469
+00:19:11,200 --> 00:19:15,520
+test a product be like oh it didn't get
+
+470
+00:19:13,280 --> 00:19:17,280
+any sales maybe try like a new landing
+
+471
+00:19:15,520 --> 00:19:19,040
+page and so they tried a new landing
+
+472
+00:19:17,280 --> 00:19:20,240
+page and like oh shoot now I've wast all
+
+473
+00:19:19,040 --> 00:19:21,440
+this money okay let me go back to
+
+474
+00:19:20,240 --> 00:19:23,200
+creatives I think that was actually a
+
+475
+00:19:21,440 --> 00:19:24,720
+problem then they test the creatives
+
+476
+00:19:23,200 --> 00:19:26,400
+what they needed to do in reality is
+
+477
+00:19:24,720 --> 00:19:27,920
+create this boundary for themsel where
+
+478
+00:19:26,400 --> 00:19:30,560
+maybe they do test something, it doesn't
+
+479
+00:19:27,920 --> 00:19:33,440
+work, they test another thing
+
+480
+00:19:30,560 --> 00:19:34,800
+and it also doesn't work, but since they
+
+481
+00:19:33,440 --> 00:19:36,000
+followed the one relaunch rule, they
+
+482
+00:19:34,800 --> 00:19:37,840
+just go right back to where they were
+
+483
+00:19:36,000 --> 00:19:40,080
+previously. So, they can bounce around
+
+484
+00:19:37,840 --> 00:19:42,000
+this box all that they want, but they
+
+485
+00:19:40,080 --> 00:19:43,920
+won't ever go outside of it. So, that's
+
+486
+00:19:42,000 --> 00:19:45,440
+why creating rules like this, it's
+
+487
+00:19:43,920 --> 00:19:48,080
+honestly a good principle for life. Just
+
+488
+00:19:45,440 --> 00:19:50,560
+creating rules so that you can operate
+
+489
+00:19:48,080 --> 00:19:52,000
+within these uh these boundaries and you
+
+490
+00:19:50,560 --> 00:19:53,360
+can [ __ ] up as much as you want within
+
+491
+00:19:52,000 --> 00:19:55,920
+these boundaries, but you have to stay
+
+492
+00:19:53,360 --> 00:19:57,840
+within them. It's like the principle
+
+493
+00:19:55,920 --> 00:20:00,880
+that Jaco Willink has like discipline
+
+494
+00:19:57,840 --> 00:20:02,320
+equals freedom. And he's like, well,
+
+495
+00:20:00,880 --> 00:20:03,520
+isn't that like really restraining if
+
+496
+00:20:02,320 --> 00:20:04,560
+you're like super duper disciplined all
+
+497
+00:20:03,520 --> 00:20:05,600
+time? Like you don't even have any fun.
+
+498
+00:20:04,560 --> 00:20:06,800
+No, you do. You just create an
+
+499
+00:20:05,600 --> 00:20:08,720
+environment where you can have as much
+
+500
+00:20:06,800 --> 00:20:10,400
+[ __ ] fun as you want as you want, but
+
+501
+00:20:08,720 --> 00:20:12,160
+you just do it in a specific
+
+502
+00:20:10,400 --> 00:20:14,960
+environment, specific period of time, in
+
+503
+00:20:12,160 --> 00:20:19,080
+a specific way, right?
+
+504
+00:20:14,960 --> 00:20:19,080
+Next question.
+
+505
+00:20:23,200 --> 00:20:26,240
+Adam, why don't you sell on Amazon? You
+
+506
+00:20:24,880 --> 00:20:29,200
+don't need to make any form of ads on
+
+507
+00:20:26,240 --> 00:20:31,120
+that platform. It's just PPC. PPC is is
+
+508
+00:20:29,200 --> 00:20:33,520
+literally ads.
+
+509
+00:20:31,120 --> 00:20:36,560
+That's it's pay per click. Oh my god.
+
+510
+00:20:33,520 --> 00:20:38,000
+And I do run on Amazon. I do like
+
+511
+00:20:36,560 --> 00:20:40,000
+multiple six figures per month on
+
+512
+00:20:38,000 --> 00:20:43,120
+Amazon.
+
+513
+00:20:40,000 --> 00:20:44,400
+Um but it's not you're saying like you
+
+514
+00:20:43,120 --> 00:20:46,000
+don't have to make any ads. Yeah, it's
+
+515
+00:20:44,400 --> 00:20:47,360
+the same as like running on Facebook.
+
+516
+00:20:46,000 --> 00:20:49,040
+Like you can technically get sales
+
+517
+00:20:47,360 --> 00:20:50,960
+organically on Facebook, but running ads
+
+518
+00:20:49,040 --> 00:20:53,360
+makes it a lot easier and more scalable.
+
+519
+00:20:50,960 --> 00:20:56,000
+So I do SEO is probably what you're
+
+520
+00:20:53,360 --> 00:20:59,680
+referring to within the context of
+
+521
+00:20:56,000 --> 00:21:02,800
+Amazon, but PPC is known as paid and we
+
+522
+00:20:59,680 --> 00:21:04,560
+uh we do run on Amazon and I do have
+
+523
+00:21:02,800 --> 00:21:07,560
+money being spent on Amazon ads right
+
+524
+00:21:04,560 --> 00:21:07,560
+now.
+
+525
+00:21:08,720 --> 00:21:12,000
+Next question from Juv Mark, I've been
+
+526
+00:21:10,720 --> 00:21:13,120
+struggling to scale my niche clothing
+
+527
+00:21:12,000 --> 00:21:14,400
+brand. I know you are against this
+
+528
+00:21:13,120 --> 00:21:16,480
+category, but my niche has a strong
+
+529
+00:21:14,400 --> 00:21:19,040
+customers has a strong customer base.
+
+530
+00:21:16,480 --> 00:21:21,760
+Will more ads help me scale or working
+
+531
+00:21:19,040 --> 00:21:23,600
+on website etc. Dude, there's so much
+
+532
+00:21:21,760 --> 00:21:25,840
+that I would need to ask to give you a
+
+533
+00:21:23,600 --> 00:21:28,000
+good answer to this question, but you're
+
+534
+00:21:25,840 --> 00:21:30,160
+right. I'm not a fan of the apparel
+
+535
+00:21:28,000 --> 00:21:33,560
+category, but you say you have a strong
+
+536
+00:21:30,160 --> 00:21:33,560
+customer base.
+
+537
+00:21:34,240 --> 00:21:38,160
+Um, I'm guessing it's like by strong
+
+538
+00:21:36,480 --> 00:21:39,760
+customer base, you probably mean like a
+
+539
+00:21:38,160 --> 00:21:41,280
+really passionate customer base, almost
+
+540
+00:21:39,760 --> 00:21:43,280
+like selling like anime clothing or
+
+541
+00:21:41,280 --> 00:21:45,760
+something like that. Will more ads help
+
+542
+00:21:43,280 --> 00:21:48,080
+me scale or working on website? That's
+
+543
+00:21:45,760 --> 00:21:50,000
+that's where I would need to get some
+
+544
+00:21:48,080 --> 00:21:52,720
+some clarity from you because I do
+
+545
+00:21:50,000 --> 00:21:56,080
+believe that
+
+546
+00:21:52,720 --> 00:21:57,600
+I do believe that ads will help you
+
+547
+00:21:56,080 --> 00:21:58,800
+scale but only if your website is good
+
+548
+00:21:57,600 --> 00:22:00,160
+in the first place. So you need to
+
+549
+00:21:58,800 --> 00:22:01,520
+identify what the constraint is right if
+
+550
+00:22:00,160 --> 00:22:03,120
+you haven't spent any money on ads. I'd
+
+551
+00:22:01,520 --> 00:22:04,480
+want to see what is your existing
+
+552
+00:22:03,120 --> 00:22:08,640
+conversion rate. Have you been getting
+
+553
+00:22:04,480 --> 00:22:10,080
+traffic already? Ads is like ads is very
+
+554
+00:22:08,640 --> 00:22:12,000
+similar to money. So you know how they
+
+555
+00:22:10,080 --> 00:22:13,200
+say that when you start making money it
+
+556
+00:22:12,000 --> 00:22:15,760
+doesn't change who you are. It just
+
+557
+00:22:13,200 --> 00:22:17,280
+amplifies who you were originally. It
+
+558
+00:22:15,760 --> 00:22:19,360
+makes all these these like darker
+
+559
+00:22:17,280 --> 00:22:20,960
+character traits come about and they're
+
+560
+00:22:19,360 --> 00:22:22,560
+all of a sudden super visible. The same
+
+561
+00:22:20,960 --> 00:22:25,280
+thing is true with ads. Ads are going to
+
+562
+00:22:22,560 --> 00:22:27,600
+amplify whatever was already existing
+
+563
+00:22:25,280 --> 00:22:28,960
+there. So if you have a really [ __ ]
+
+564
+00:22:27,600 --> 00:22:30,800
+website and your conversion rate is like
+
+565
+00:22:28,960 --> 00:22:31,920
+2%. You start running ads to that
+
+566
+00:22:30,800 --> 00:22:33,200
+conversion rate is going to go down even
+
+567
+00:22:31,920 --> 00:22:35,280
+more. You're going to be even more
+
+568
+00:22:33,200 --> 00:22:36,160
+unprofitable, lose even more money.
+
+569
+00:22:35,280 --> 00:22:37,360
+That's the way that you should think
+
+570
+00:22:36,160 --> 00:22:39,760
+about ads. If you have something good
+
+571
+00:22:37,360 --> 00:22:43,680
+already, putting ads as fuel, that's
+
+572
+00:22:39,760 --> 00:22:43,680
+that's the way to think about it.
+
+573
+00:22:50,880 --> 00:22:56,320
+Um, question from intelligent money.
+
+574
+00:22:54,320 --> 00:22:58,000
+Mark,
+
+575
+00:22:56,320 --> 00:23:00,800
+do you train seven days a week with
+
+576
+00:22:58,000 --> 00:23:03,920
+weights or what rest/c cardio days you
+
+577
+00:23:00,800 --> 00:23:06,240
+have? So, I trade every single day for
+
+578
+00:23:03,920 --> 00:23:08,720
+multiple years. I I've recently switched
+
+579
+00:23:06,240 --> 00:23:11,200
+up my split um just because I wanted to
+
+580
+00:23:08,720 --> 00:23:12,960
+change things up and I actually just
+
+581
+00:23:11,200 --> 00:23:15,520
+changed it again recently. So my split
+
+582
+00:23:12,960 --> 00:23:17,440
+right now is is like this.
+
+583
+00:23:15,520 --> 00:23:19,200
+I do this is very specific to me by the
+
+584
+00:23:17,440 --> 00:23:21,600
+way. This is like by no means the best
+
+585
+00:23:19,200 --> 00:23:23,200
+way of doing things. But based off my
+
+586
+00:23:21,600 --> 00:23:25,120
+existing physique and the goals that I
+
+587
+00:23:23,200 --> 00:23:27,520
+have and how I want to feel, this is
+
+588
+00:23:25,120 --> 00:23:29,280
+what I do. So first is just chest and
+
+589
+00:23:27,520 --> 00:23:31,680
+shoulders
+
+590
+00:23:29,280 --> 00:23:37,920
+and then I do abs at the end of that.
+
+591
+00:23:31,680 --> 00:23:40,160
+The next day I do back and triceps. Very
+
+592
+00:23:37,920 --> 00:23:44,400
+weird. I know it's not a normal not a
+
+593
+00:23:40,160 --> 00:23:49,120
+normal [ __ ] thing. Then I do leg day
+
+594
+00:23:44,400 --> 00:23:53,280
+and one bicep movement.
+
+595
+00:23:49,120 --> 00:23:54,880
+Also very weird like one bicep exercise.
+
+596
+00:23:53,280 --> 00:23:56,800
+I can explain why I do that if you if
+
+597
+00:23:54,880 --> 00:24:00,240
+you really [ __ ] care. And then we
+
+598
+00:23:56,800 --> 00:24:01,840
+have a a rest day because I'm always
+
+599
+00:24:00,240 --> 00:24:04,640
+super fatigued after leg day. It's just
+
+600
+00:24:01,840 --> 00:24:08,920
+like beats the [ __ ] out of you.
+
+601
+00:24:04,640 --> 00:24:08,920
+After that, then we go into
+
+602
+00:24:10,640 --> 00:24:16,000
+chest and back.
+
+603
+00:24:13,440 --> 00:24:17,520
+And then we get into
+
+604
+00:24:16,000 --> 00:24:22,160
+arms.
+
+605
+00:24:17,520 --> 00:24:26,560
+And then we get into another leg day.
+
+606
+00:24:22,160 --> 00:24:28,400
+So, this is arms and uh four forearms.
+
+607
+00:24:26,560 --> 00:24:29,600
+So, here's the logic behind the split.
+
+608
+00:24:28,400 --> 00:24:32,160
+All right. And I know this is what you
+
+609
+00:24:29,600 --> 00:24:33,920
+guys really came for. I I know you just
+
+610
+00:24:32,160 --> 00:24:36,880
+wanted to to know what my split is. It's
+
+611
+00:24:33,920 --> 00:24:40,240
+okay.
+
+612
+00:24:36,880 --> 00:24:42,480
+So, important proxies for growth. Number
+
+613
+00:24:40,240 --> 00:24:44,000
+one, intensity, of course. Number two,
+
+614
+00:24:42,480 --> 00:24:46,480
+nutrition, sleep, blah blah blah. Let's
+
+615
+00:24:44,000 --> 00:24:47,840
+say you're doing all that, right? A very
+
+616
+00:24:46,480 --> 00:24:49,920
+important one is making sure that you
+
+617
+00:24:47,840 --> 00:24:52,000
+hit your your most important muscle
+
+618
+00:24:49,920 --> 00:24:55,120
+groups two times per week. So, do we hit
+
+619
+00:24:52,000 --> 00:24:57,760
+chest two times per week? One, two. Yes,
+
+620
+00:24:55,120 --> 00:25:00,760
+we do. Do we hit shoulders two times per
+
+621
+00:24:57,760 --> 00:25:00,760
+week?
+
+622
+00:25:03,040 --> 00:25:09,600
+Actually, forgot to add something here.
+
+623
+00:25:05,600 --> 00:25:11,280
+This is shoulders and arms.
+
+624
+00:25:09,600 --> 00:25:14,400
+So, do we hit shoulders two times per
+
+625
+00:25:11,280 --> 00:25:16,160
+week? The answer is yes. One, two. Do we
+
+626
+00:25:14,400 --> 00:25:18,560
+hit back two times a week? Yes. One,
+
+627
+00:25:16,160 --> 00:25:20,560
+two. Do we hit a rest day? Yes. Do we
+
+628
+00:25:18,560 --> 00:25:22,160
+hit abs twice a week? No, cuz I don't
+
+629
+00:25:20,560 --> 00:25:26,400
+care. Do we have legs twice a week? Yes.
+
+630
+00:25:22,160 --> 00:25:28,160
+One, two. How about biceps? Yes.
+
+631
+00:25:26,400 --> 00:25:32,000
+One,
+
+632
+00:25:28,160 --> 00:25:34,720
+two. How about triceps? Yes. One,
+
+633
+00:25:32,000 --> 00:25:38,000
+two. So, that's why I have the split
+
+634
+00:25:34,720 --> 00:25:39,840
+structure that way. Um,
+
+635
+00:25:38,000 --> 00:25:42,880
+yeah.
+
+636
+00:25:39,840 --> 00:25:45,120
+All right. Next question.
+
+637
+00:25:42,880 --> 00:25:46,320
+Um, Billy, what's up, dude? I'm
+
+638
+00:25:45,120 --> 00:25:47,600
+switching from affiliate marketing to
+
+639
+00:25:46,320 --> 00:25:50,240
+drop shipping. You say apparel is not
+
+640
+00:25:47,600 --> 00:25:52,080
+the way. Why not? And what are the best
+
+641
+00:25:50,240 --> 00:25:55,360
+in dices.
+
+642
+00:25:52,080 --> 00:25:57,920
+Guess you mean niches. So I say apparel
+
+643
+00:25:55,360 --> 00:25:59,760
+is not the way for the majority of
+
+644
+00:25:57,920 --> 00:26:01,520
+people because
+
+645
+00:25:59,760 --> 00:26:03,120
+typically as soon as people say that
+
+646
+00:26:01,520 --> 00:26:05,840
+they want to start a business like
+
+647
+00:26:03,120 --> 00:26:09,200
+they're they're getting into [ __ ]
+
+648
+00:26:05,840 --> 00:26:10,960
+clothing not because they want to run a
+
+649
+00:26:09,200 --> 00:26:13,040
+clothing brand but because they want
+
+650
+00:26:10,960 --> 00:26:14,800
+other people to know they have a
+
+651
+00:26:13,040 --> 00:26:17,840
+clothing brand. It's just a [ __ ]
+
+652
+00:26:14,800 --> 00:26:19,600
+status play, which is not a good
+
+653
+00:26:17,840 --> 00:26:20,640
+motivator for getting your [ __ ]
+
+654
+00:26:19,600 --> 00:26:22,320
+business off the ground. If you just
+
+655
+00:26:20,640 --> 00:26:23,600
+want people to know that you have a
+
+656
+00:26:22,320 --> 00:26:25,280
+clothing brand, you can get your status
+
+657
+00:26:23,600 --> 00:26:28,000
+in other [ __ ] ways. Get jacked, get
+
+658
+00:26:25,280 --> 00:26:30,400
+healthy, make a lot of [ __ ] money. If
+
+659
+00:26:28,000 --> 00:26:31,920
+you want the [ __ ] clout, do something
+
+660
+00:26:30,400 --> 00:26:34,880
+else. There's more effective ways to get
+
+661
+00:26:31,920 --> 00:26:36,880
+that.
+
+662
+00:26:34,880 --> 00:26:39,280
+But my real issue with the apparel space
+
+663
+00:26:36,880 --> 00:26:41,120
+is number one, it's incredibly
+
+664
+00:26:39,280 --> 00:26:42,800
+competitive. That's not the problem in
+
+665
+00:26:41,120 --> 00:26:44,960
+of itself. The problem is that how do
+
+666
+00:26:42,800 --> 00:26:47,280
+you out compete in an industry that's
+
+667
+00:26:44,960 --> 00:26:48,720
+really competitive? Well, with uh with
+
+668
+00:26:47,280 --> 00:26:50,240
+other, you guys know my strategy, right?
+
+669
+00:26:48,720 --> 00:26:51,200
+If I'm selling a product, I want to make
+
+670
+00:26:50,240 --> 00:26:52,720
+sure other people are selling it
+
+671
+00:26:51,200 --> 00:26:56,560
+successfully. I actually like going into
+
+672
+00:26:52,720 --> 00:26:58,320
+red oceans. That is true. However, I
+
+673
+00:26:56,560 --> 00:27:00,720
+only like going to red oceans because I
+
+674
+00:26:58,320 --> 00:27:02,320
+can compete on marketing, specifically
+
+675
+00:27:00,720 --> 00:27:03,840
+direct response marketing. I can compete
+
+676
+00:27:02,320 --> 00:27:05,680
+on creatives. I can compete on funnel
+
+677
+00:27:03,840 --> 00:27:07,600
+economics. I can compete on AOV on
+
+678
+00:27:05,680 --> 00:27:09,920
+conversion rate. I can destroy people
+
+679
+00:27:07,600 --> 00:27:11,760
+when it comes to acquisition because I
+
+680
+00:27:09,920 --> 00:27:15,520
+can use all these tools in my disposal
+
+681
+00:27:11,760 --> 00:27:18,000
+that I have. With uh apparel, you don't
+
+682
+00:27:15,520 --> 00:27:20,400
+have as many of those tools. And yes, it
+
+683
+00:27:18,000 --> 00:27:22,400
+is true that it's you can still compete
+
+684
+00:27:20,400 --> 00:27:24,720
+on marketing. It is much more difficult
+
+685
+00:27:22,400 --> 00:27:26,160
+to do so because you know you're not
+
+686
+00:27:24,720 --> 00:27:27,200
+going to be using like these unique
+
+687
+00:27:26,160 --> 00:27:28,320
+mechanisms. You're not going to be using
+
+688
+00:27:27,200 --> 00:27:30,880
+big ideas. You're not going to be using
+
+689
+00:27:28,320 --> 00:27:33,760
+VSSLs, right? It's like your your
+
+690
+00:27:30,880 --> 00:27:35,840
+ammunition is just cut so aggressively.
+
+691
+00:27:33,760 --> 00:27:37,360
+And that's why another reason is just
+
+692
+00:27:35,840 --> 00:27:39,920
+simply the nature of running apparel
+
+693
+00:27:37,360 --> 00:27:41,760
+period which is you have a a very high
+
+694
+00:27:39,920 --> 00:27:44,240
+refund rate because people will buy try
+
+695
+00:27:41,760 --> 00:27:46,960
+it on and want to send it back. Um
+
+696
+00:27:44,240 --> 00:27:49,120
+chargeback rate very high exchanges very
+
+697
+00:27:46,960 --> 00:27:53,160
+very high and just a pain in the ass.
+
+698
+00:27:49,120 --> 00:27:53,160
+Like that's not what I want to run.
+
+699
+00:27:57,040 --> 00:28:03,200
+What what this [ __ ] guy say?
+
+700
+00:28:00,320 --> 00:28:04,800
+Leg day today. Going to cry like a baby.
+
+701
+00:28:03,200 --> 00:28:07,600
+made 10K on branded drop shipping
+
+702
+00:28:04,800 --> 00:28:10,920
+yesterday. I [ __ ] love that, bro.
+
+703
+00:28:07,600 --> 00:28:10,920
+Hell yeah.
+
+704
+00:28:11,760 --> 00:28:16,320
+Can you make a workout guide PDF? That
+
+705
+00:28:13,760 --> 00:28:19,320
+would be fire.
+
+706
+00:28:16,320 --> 00:28:19,320
+No,
+
+707
+00:28:20,480 --> 00:28:23,840
+there's [ __ ] Wait, you want me to
+
+708
+00:28:22,000 --> 00:28:27,480
+spoon feed you more? No, I'm kidding.
+
+709
+00:28:23,840 --> 00:28:27,480
+This isn't that much.
+
+710
+00:28:30,000 --> 00:28:33,560
+All right, next question.
+
+711
+00:28:33,840 --> 00:28:39,040
+Hey Mark, I have a product slashbrand.
+
+712
+00:28:35,920 --> 00:28:41,840
+Did 1K day a month and a half ago, but
+
+713
+00:28:39,040 --> 00:28:46,400
+it's drying up. Not sure if it's
+
+714
+00:28:41,840 --> 00:28:49,280
+You did 1K day a month and a half ago
+
+715
+00:28:46,400 --> 00:28:51,760
+and you're asking about
+
+716
+00:28:49,280 --> 00:28:53,520
+creative fatigue.
+
+717
+00:28:51,760 --> 00:28:54,960
+I can pretty confidently say that that's
+
+718
+00:28:53,520 --> 00:28:56,320
+not creative fatigue and probably just
+
+719
+00:28:54,960 --> 00:28:58,640
+say your creatives were not that good in
+
+720
+00:28:56,320 --> 00:29:02,240
+the first place and probably say the
+
+721
+00:28:58,640 --> 00:29:03,680
+same thing about your funnel.
+
+722
+00:29:02,240 --> 00:29:05,200
+If you feel like you have good results
+
+723
+00:29:03,680 --> 00:29:07,280
+like one day and bad results the next,
+
+724
+00:29:05,200 --> 00:29:08,800
+it's because you're uh you're not
+
+725
+00:29:07,280 --> 00:29:13,640
+spending enough money on ads and you're
+
+726
+00:29:08,800 --> 00:29:13,640
+not looking at a large enough data set.
+
+727
+00:29:19,360 --> 00:29:25,480
+What's your best advice for 17year-olds
+
+728
+00:29:21,680 --> 00:29:25,480
+looking to get into entrepreneurship?
+
+729
+00:29:28,960 --> 00:29:34,160
+Look, I I'll tell you the reality of
+
+730
+00:29:30,800 --> 00:29:37,040
+being an entrepreneur. Um,
+
+731
+00:29:34,160 --> 00:29:38,960
+entrepreneurship, if you're running a
+
+732
+00:29:37,040 --> 00:29:41,840
+big successful business, it is not
+
+733
+00:29:38,960 --> 00:29:45,440
+glamorous whatsoever.
+
+734
+00:29:41,840 --> 00:29:49,520
+All this [ __ ] on YouTube, Tik Tok,
+
+735
+00:29:45,440 --> 00:29:52,480
+Instagram, it's all an illusion.
+
+736
+00:29:49,520 --> 00:29:55,360
+The best entrepreneurs that I know, they
+
+737
+00:29:52,480 --> 00:29:58,480
+work their [ __ ] ass off. They work
+
+738
+00:29:55,360 --> 00:30:00,800
+their ass off day in and day out. And
+
+739
+00:29:58,480 --> 00:30:03,760
+not only do they work their ass off,
+
+740
+00:30:00,800 --> 00:30:04,800
+many times they make less than other
+
+741
+00:30:03,760 --> 00:30:06,080
+people in their company because they're
+
+742
+00:30:04,800 --> 00:30:10,160
+the entrepreneur and they get paid on
+
+743
+00:30:06,080 --> 00:30:12,240
+profits. Many times they
+
+744
+00:30:10,160 --> 00:30:16,400
+have to deal with like drama in their
+
+745
+00:30:12,240 --> 00:30:18,640
+team. Many times
+
+746
+00:30:16,400 --> 00:30:20,320
+they have to inject more of their own
+
+747
+00:30:18,640 --> 00:30:22,320
+capital into their business because you
+
+748
+00:30:20,320 --> 00:30:23,520
+know one of their top performers left.
+
+749
+00:30:22,320 --> 00:30:24,800
+So if you want to get into
+
+750
+00:30:23,520 --> 00:30:26,960
+entrepreneurship because you want to
+
+751
+00:30:24,800 --> 00:30:28,480
+make a lot of money,
+
+752
+00:30:26,960 --> 00:30:31,840
+number one, there are other ways to make
+
+753
+00:30:28,480 --> 00:30:33,280
+a lot of money. So identify what the
+
+754
+00:30:31,840 --> 00:30:35,120
+real reason is that you want to get into
+
+755
+00:30:33,280 --> 00:30:36,640
+the game because it's going to test you.
+
+756
+00:30:35,120 --> 00:30:38,400
+It's going to test you very very hard
+
+757
+00:30:36,640 --> 00:30:41,600
+and probably very aggressively in the
+
+758
+00:30:38,400 --> 00:30:43,840
+beginning. You're going to be tested and
+
+759
+00:30:41,600 --> 00:30:46,240
+it's definitely not for the the faint of
+
+760
+00:30:43,840 --> 00:30:48,400
+heart.
+
+761
+00:30:46,240 --> 00:30:50,640
+With all that being said, my advice for
+
+762
+00:30:48,400 --> 00:30:51,840
+a 17-year-old is entrepreneurship is one
+
+763
+00:30:50,640 --> 00:30:53,440
+of the most difficult paths you can
+
+764
+00:30:51,840 --> 00:30:55,600
+take, but it's also the most rewarding.
+
+765
+00:30:53,440 --> 00:30:57,840
+It is that the highest risk, highest
+
+766
+00:30:55,600 --> 00:31:00,320
+reward kind of game that you get to
+
+767
+00:30:57,840 --> 00:31:02,400
+play, but you're playing against some of
+
+768
+00:31:00,320 --> 00:31:04,000
+like it is the most competitive game
+
+769
+00:31:02,400 --> 00:31:08,720
+that you can play. It's more competitive
+
+770
+00:31:04,000 --> 00:31:11,440
+than NBA, NBA, NFL, [ __ ] FIFA. It's
+
+771
+00:31:08,720 --> 00:31:13,680
+more competitive than any sport and it's
+
+772
+00:31:11,440 --> 00:31:16,400
+not even close.
+
+773
+00:31:13,680 --> 00:31:17,840
+So
+
+774
+00:31:16,400 --> 00:31:19,600
+I do think though with all that being
+
+775
+00:31:17,840 --> 00:31:22,960
+said, it is one of the most rewarding
+
+776
+00:31:19,600 --> 00:31:25,440
+journeys. So my advice to you is look at
+
+777
+00:31:22,960 --> 00:31:27,440
+your personality, right? What what is a
+
+778
+00:31:25,440 --> 00:31:29,680
+business model that matches your
+
+779
+00:31:27,440 --> 00:31:31,840
+personality?
+
+780
+00:31:29,680 --> 00:31:36,520
+What what is a business model that
+
+781
+00:31:31,840 --> 00:31:36,520
+matches what you're already good at?
+
+782
+00:31:37,360 --> 00:31:40,240
+I think a lot of people are looking at
+
+783
+00:31:38,880 --> 00:31:42,000
+like these business models, these
+
+784
+00:31:40,240 --> 00:31:44,880
+YouTube videos that's like, you know, I
+
+785
+00:31:42,000 --> 00:31:46,560
+ranked the best business models XYZ. It
+
+786
+00:31:44,880 --> 00:31:48,240
+all comes down to to personal
+
+787
+00:31:46,560 --> 00:31:49,680
+preference. They all work. Every single
+
+788
+00:31:48,240 --> 00:31:51,440
+[ __ ] business model on the work on
+
+789
+00:31:49,680 --> 00:31:55,600
+the list works. Amazon FBA works,
+
+790
+00:31:51,440 --> 00:31:57,680
+trading works, crypto works, um, remote
+
+791
+00:31:55,600 --> 00:31:59,280
+closing works, remote sales in general
+
+792
+00:31:57,680 --> 00:32:01,920
+works,
+
+793
+00:31:59,280 --> 00:32:03,440
+what the [ __ ] else is out there. Um,
+
+794
+00:32:01,920 --> 00:32:05,760
+yeah, but like all all this [ __ ] works.
+
+795
+00:32:03,440 --> 00:32:09,200
+Point being,
+
+796
+00:32:05,760 --> 00:32:12,320
+the biggest issue for you is going to be
+
+797
+00:32:09,200 --> 00:32:15,120
+not getting distracted by shiny objects.
+
+798
+00:32:12,320 --> 00:32:16,720
+If you just identify one vehicle that
+
+799
+00:32:15,120 --> 00:32:18,800
+matches your personality and you you're
+
+800
+00:32:16,720 --> 00:32:21,920
+a little bit good at already and you
+
+801
+00:32:18,800 --> 00:32:23,760
+just stick with it 100% regardless of
+
+802
+00:32:21,920 --> 00:32:25,440
+[ __ ] crypto cycles, regardless of
+
+803
+00:32:23,760 --> 00:32:28,000
+market cycles, regardless of business
+
+804
+00:32:25,440 --> 00:32:29,680
+cycles, regardless of your favorite guru
+
+805
+00:32:28,000 --> 00:32:31,280
+switching business models to this new
+
+806
+00:32:29,680 --> 00:32:34,880
+super duper exciting thing you've never
+
+807
+00:32:31,280 --> 00:32:37,040
+seen before. just stay in your lane and
+
+808
+00:32:34,880 --> 00:32:38,800
+keep working. It's going to be a period
+
+809
+00:32:37,040 --> 00:32:40,400
+of time where you are working your ass
+
+810
+00:32:38,800 --> 00:32:41,760
+off and you'll see any results. And
+
+811
+00:32:40,400 --> 00:32:43,200
+that's to weed out the people that are
+
+812
+00:32:41,760 --> 00:32:45,200
+not weak enough to stay in it for the
+
+813
+00:32:43,200 --> 00:32:48,760
+long term.
+
+814
+00:32:45,200 --> 00:32:48,760
+Hopefully that helps.
+
+815
+00:33:13,200 --> 00:33:17,280
+question from Young JB. Do you still try
+
+816
+00:33:15,040 --> 00:33:18,400
+to get bigger or just maintain? If
+
+817
+00:33:17,280 --> 00:33:21,280
+you're still booking up, how do you do
+
+818
+00:33:18,400 --> 00:33:23,120
+it? You know,
+
+819
+00:33:21,280 --> 00:33:25,600
+this is an internal dialogue in my head
+
+820
+00:33:23,120 --> 00:33:28,720
+at all times where I'll like pass a
+
+821
+00:33:25,600 --> 00:33:30,960
+mirror, some good lighting, and be like,
+
+822
+00:33:28,720 --> 00:33:34,640
+"Jesus,
+
+823
+00:33:30,960 --> 00:33:36,480
+I'm I'm I'm I'm getting too big." Like,
+
+824
+00:33:34,640 --> 00:33:38,880
+I don't I don't want to be looking like
+
+825
+00:33:36,480 --> 00:33:41,440
+a a fullon bodybuilder,
+
+826
+00:33:38,880 --> 00:33:42,640
+like on gear kind of look, like, you
+
+827
+00:33:41,440 --> 00:33:43,680
+know, the look that I'm talking about. I
+
+828
+00:33:42,640 --> 00:33:47,160
+don't really want that look. I still
+
+829
+00:33:43,680 --> 00:33:47,160
+want to be pretty athletic.
+
+830
+00:33:47,200 --> 00:33:51,040
+And sometimes I'll walk by a mirror and
+
+831
+00:33:48,480 --> 00:33:53,920
+be like, "Dude, I think I need to chill
+
+832
+00:33:51,040 --> 00:33:56,400
+out a little bit."
+
+833
+00:33:53,920 --> 00:33:57,840
+And then the next day we'll roll around
+
+834
+00:33:56,400 --> 00:33:59,840
+and I'll see myself in the mirror first
+
+835
+00:33:57,840 --> 00:34:02,640
+thing in the morning, no pump, and it be
+
+836
+00:33:59,840 --> 00:34:05,840
+like, "Jesus Christ, I'm so pathetic and
+
+837
+00:34:02,640 --> 00:34:09,120
+small and weak. It's disgusting. Such a
+
+838
+00:34:05,840 --> 00:34:13,520
+little [ __ ] [ __ ] [ __ ] you."
+
+839
+00:34:09,120 --> 00:34:15,680
+And then I walk out and get to work. So
+
+840
+00:34:13,520 --> 00:34:17,120
+it's, you know, it never goes away. Like
+
+841
+00:34:15,680 --> 00:34:19,200
+you would think there's no way this guy
+
+842
+00:34:17,120 --> 00:34:20,560
+has body dysmorphia, but the people that
+
+843
+00:34:19,200 --> 00:34:22,720
+know me know me that I probably have the
+
+844
+00:34:20,560 --> 00:34:27,040
+most aggressive form of body dysmorphia
+
+845
+00:34:22,720 --> 00:34:29,360
+out of anyone that they know. So,
+
+846
+00:34:27,040 --> 00:34:30,640
+double-edged sword like most things. To
+
+847
+00:34:29,360 --> 00:34:32,080
+answer your question, I'm mostly going
+
+848
+00:34:30,640 --> 00:34:34,640
+to be maintaining at least at the body
+
+849
+00:34:32,080 --> 00:34:36,320
+weight level. I don't really care about
+
+850
+00:34:34,640 --> 00:34:38,720
+uh getting bigger, but at the same time,
+
+851
+00:34:36,320 --> 00:34:40,080
+it's like I I don't want to stop working
+
+852
+00:34:38,720 --> 00:34:41,520
+out. You know, let's say I didn't want
+
+853
+00:34:40,080 --> 00:34:43,200
+to get any bigger. What am I just going
+
+854
+00:34:41,520 --> 00:34:44,480
+to stop going to the gym? No, I can't
+
+855
+00:34:43,200 --> 00:34:47,480
+stop going to the gym. I have an
+
+856
+00:34:44,480 --> 00:34:47,480
+addiction.
+
+857
+00:34:49,200 --> 00:34:54,320
+All right, next question. Uh, best
+
+858
+00:34:52,160 --> 00:34:57,360
+spiritual books. I'm guessing you mean
+
+859
+00:34:54,320 --> 00:34:59,040
+like metaphysical spiritual type [ __ ]
+
+860
+00:34:57,360 --> 00:35:00,720
+Um, my favorite is probably going to be
+
+861
+00:34:59,040 --> 00:35:03,680
+Just Work by David Hawkins. You know,
+
+862
+00:35:00,720 --> 00:35:05,840
+Power Versus Force, I think, is one of
+
+863
+00:35:03,680 --> 00:35:08,480
+the best books that I have read in my
+
+864
+00:35:05,840 --> 00:35:10,480
+entire life. Um, I would actually
+
+865
+00:35:08,480 --> 00:35:13,840
+classify the book Mastery by Robert
+
+866
+00:35:10,480 --> 00:35:15,680
+Green also as a spiritual book. book. I
+
+867
+00:35:13,840 --> 00:35:17,680
+think at least for me that book spoke to
+
+868
+00:35:15,680 --> 00:35:19,200
+me very spiritually.
+
+869
+00:35:17,680 --> 00:35:23,120
+Um,
+
+870
+00:35:19,200 --> 00:35:26,080
+anything by Neville Goddard is great. U
+
+871
+00:35:23,120 --> 00:35:27,920
+James Clear also great. James Clear.
+
+872
+00:35:26,080 --> 00:35:32,200
+Yeah. No, James Allen. James Allen. I'm
+
+873
+00:35:27,920 --> 00:35:32,200
+sorry. James Clear wrote Atomic Habits.
+
+874
+00:35:33,040 --> 00:35:37,680
+All right. Next question.
+
+875
+00:35:35,280 --> 00:35:38,880
+Jeter Jeter Garcia. How many days on
+
+876
+00:35:37,680 --> 00:35:40,480
+average should someone be spending on
+
+877
+00:35:38,880 --> 00:35:42,400
+testing products? If it's something that
+
+878
+00:35:40,480 --> 00:35:44,480
+is showing some results and define to
+
+879
+00:35:42,400 --> 00:35:47,480
+take more than a week trying to make it
+
+880
+00:35:44,480 --> 00:35:47,480
+work,
+
+881
+00:35:49,200 --> 00:35:52,240
+I wouldn't think of it in terms of days,
+
+882
+00:35:50,800 --> 00:35:53,760
+but rather think of it in terms of ad
+
+883
+00:35:52,240 --> 00:35:55,280
+spend. So, you're asking like how many
+
+884
+00:35:53,760 --> 00:35:56,880
+days? Well, let's say you did three
+
+885
+00:35:55,280 --> 00:35:58,720
+days, but you did a dollar a day in ad
+
+886
+00:35:56,880 --> 00:35:59,840
+spend. Okay? In that case, you're going
+
+887
+00:35:58,720 --> 00:36:02,400
+to want to spend like three months
+
+888
+00:35:59,840 --> 00:36:03,840
+testing that product at a dollar a day.
+
+889
+00:36:02,400 --> 00:36:06,480
+But if you test that, which I've done
+
+890
+00:36:03,840 --> 00:36:08,480
+before, at like $500 a day, you can know
+
+891
+00:36:06,480 --> 00:36:10,320
+in a single day if that product is going
+
+892
+00:36:08,480 --> 00:36:12,400
+to be, you know, showing any signs of
+
+893
+00:36:10,320 --> 00:36:13,760
+life or not. So don't think of it in
+
+894
+00:36:12,400 --> 00:36:15,760
+terms of days. Think of in terms of ad
+
+895
+00:36:13,760 --> 00:36:18,400
+spend. My my general rule, spend between
+
+896
+00:36:15,760 --> 00:36:20,960
+50 to 100 bucks a day for three days to
+
+897
+00:36:18,400 --> 00:36:22,800
+get substantial data for a product. So
+
+898
+00:36:20,960 --> 00:36:24,720
+that's because like the downside of
+
+899
+00:36:22,800 --> 00:36:27,520
+testing everything in one day is like
+
+900
+00:36:24,720 --> 00:36:31,520
+maybe, which happens all the time, maybe
+
+901
+00:36:27,520 --> 00:36:33,360
+that was just a [ __ ] day on Facebook.
+
+902
+00:36:31,520 --> 00:36:35,040
+Maybe that day was just, you know, Zuck
+
+903
+00:36:33,360 --> 00:36:36,880
+woke up on the wrong side of the bed.
+
+904
+00:36:35,040 --> 00:36:38,640
+He's like, you know, that CPM machine,
+
+905
+00:36:36,880 --> 00:36:40,720
+let's go ahead and crank those by 20%
+
+906
+00:36:38,640 --> 00:36:43,840
+for everybody,
+
+907
+00:36:40,720 --> 00:36:47,680
+you know, just wants to to wake up and
+
+908
+00:36:43,840 --> 00:36:49,600
+buck us up. Part of the game.
+
+909
+00:36:47,680 --> 00:36:52,480
+Um,
+
+910
+00:36:49,600 --> 00:36:53,760
+so yeah. And the second question, if
+
+911
+00:36:52,480 --> 00:36:55,120
+it's something that is showing some
+
+912
+00:36:53,760 --> 00:36:56,160
+results, is it fine if it takes more
+
+913
+00:36:55,120 --> 00:36:59,280
+than a week trying to make it work?
+
+914
+00:36:56,160 --> 00:37:02,240
+Yeah, it it is fine. Yeah, of course.
+
+915
+00:36:59,280 --> 00:37:03,680
+Again, the data is what matters. So, not
+
+916
+00:37:02,240 --> 00:37:05,200
+the amount of time, but the data you're
+
+917
+00:37:03,680 --> 00:37:07,200
+acquiring, which is, of course, the ad
+
+918
+00:37:05,200 --> 00:37:09,120
+spend.
+
+919
+00:37:07,200 --> 00:37:10,880
+Amed, what's up, bro? Hi, Mark. CPMs are
+
+920
+00:37:09,120 --> 00:37:13,760
+going crazy. I've tried everything. Cost
+
+921
+00:37:10,880 --> 00:37:16,560
+controls, testing over
+
+922
+00:37:13,760 --> 00:37:18,320
+340 ads. Holy [ __ ] CPMs are between 150
+
+923
+00:37:16,560 --> 00:37:19,600
+and 250 and even more. I pushed AOV
+
+924
+00:37:18,320 --> 00:37:22,480
+multiple times to cover the crazy cost
+
+925
+00:37:19,600 --> 00:37:25,480
+for the ads.
+
+926
+00:37:22,480 --> 00:37:25,480
+Okay,
+
+927
+00:37:25,520 --> 00:37:29,240
+you've tried everything.
+
+928
+00:37:37,440 --> 00:37:40,160
+CPMs. Like I would have to have a
+
+929
+00:37:38,960 --> 00:37:41,600
+conversation with you, dude, because
+
+930
+00:37:40,160 --> 00:37:44,160
+here here's some things that I would ask
+
+931
+00:37:41,600 --> 00:37:46,160
+you, right? Your CPMs are super duper
+
+932
+00:37:44,160 --> 00:37:47,760
+high
+
+933
+00:37:46,160 --> 00:37:49,360
+and and you've already tested a lot,
+
+934
+00:37:47,760 --> 00:37:52,400
+right? One one great thing that you've
+
+935
+00:37:49,360 --> 00:37:54,800
+done is you have tested 340 ads. That's
+
+936
+00:37:52,400 --> 00:37:56,640
+a shitload of ads. Holy cow. Um, it
+
+937
+00:37:54,800 --> 00:37:59,760
+sounds like you've tried manual bidding,
+
+938
+00:37:56,640 --> 00:38:01,600
+which is great. Uh, if you've tested
+
+939
+00:37:59,760 --> 00:38:03,840
+cost caps, that's great. I think that
+
+940
+00:38:01,600 --> 00:38:05,040
+can also reduce CPMs. Bit caps. I don't
+
+941
+00:38:03,840 --> 00:38:08,560
+really do a lot of testing with bid
+
+942
+00:38:05,040 --> 00:38:10,240
+caps, mostly cost caps. Um,
+
+943
+00:38:08,560 --> 00:38:12,560
+have you tested a lot of landers? I
+
+944
+00:38:10,240 --> 00:38:14,720
+think this is something that can that
+
+945
+00:38:12,560 --> 00:38:16,960
+consistently has a phenomenal uh
+
+946
+00:38:14,720 --> 00:38:18,640
+reduction in your CPMs is just testing
+
+947
+00:38:16,960 --> 00:38:21,200
+new landers in general, specifically
+
+948
+00:38:18,640 --> 00:38:23,360
+interstitial pages. So, like pre-landers
+
+949
+00:38:21,200 --> 00:38:25,040
+of some sort. Um, this could be as
+
+950
+00:38:23,360 --> 00:38:26,720
+simple as like a quiz. You know, this is
+
+951
+00:38:25,040 --> 00:38:27,920
+why quiz quiz funnels can be incredibly
+
+952
+00:38:26,720 --> 00:38:32,720
+scalable because you're sending all this
+
+953
+00:38:27,920 --> 00:38:35,840
+traffic to a page that is super duper
+
+954
+00:38:32,720 --> 00:38:38,560
+compliant in the eyes of Facebook to be
+
+955
+00:38:35,840 --> 00:38:40,240
+super easy for you to scale something
+
+956
+00:38:38,560 --> 00:38:42,480
+like that when your CPMs are like 50
+
+957
+00:38:40,240 --> 00:38:43,680
+instead of 150. So, test a variety of
+
+958
+00:38:42,480 --> 00:38:45,040
+different landers, bro, and see if you
+
+959
+00:38:43,680 --> 00:38:47,280
+can get that down. The reality of the
+
+960
+00:38:45,040 --> 00:38:48,800
+CPM's issue is there's something that
+
+961
+00:38:47,280 --> 00:38:51,040
+Facebook is identifying, something that
+
+962
+00:38:48,800 --> 00:38:52,320
+is triggering them to increase the CPMs.
+
+963
+00:38:51,040 --> 00:38:54,000
+Maybe it's the ad account, maybe it's
+
+964
+00:38:52,320 --> 00:38:56,320
+the BM, maybe it's the URL, maybe it's
+
+965
+00:38:54,000 --> 00:38:57,920
+the IP, right? So, when you say you
+
+966
+00:38:56,320 --> 00:39:00,000
+tested everything, I don't believe you
+
+967
+00:38:57,920 --> 00:39:01,440
+because to test everything, that would
+
+968
+00:39:00,000 --> 00:39:02,720
+that would have to take like multiple
+
+969
+00:39:01,440 --> 00:39:04,080
+months and you have to have incredibly
+
+970
+00:39:02,720 --> 00:39:07,120
+deep understanding of how Facebook
+
+971
+00:39:04,080 --> 00:39:09,920
+works. That only comes with experience.
+
+972
+00:39:07,120 --> 00:39:12,000
+So, have you tested like new IPs? Have
+
+973
+00:39:09,920 --> 00:39:14,960
+you tested new MAC address? Have you
+
+974
+00:39:12,000 --> 00:39:16,800
+tested proxies, VPNs? Have you tested uh
+
+975
+00:39:14,960 --> 00:39:20,000
+new profiles, new pages, new ad account,
+
+976
+00:39:16,800 --> 00:39:22,960
+new pixel, new new conversion, new
+
+977
+00:39:20,000 --> 00:39:24,480
+objective? Have you tried um a custom
+
+978
+00:39:22,960 --> 00:39:26,800
+conversion as a purchase, but you don't
+
+979
+00:39:24,480 --> 00:39:28,400
+identified as a purchase? Have you tried
+
+980
+00:39:26,800 --> 00:39:29,920
+all the landers that I mentioned? Have
+
+981
+00:39:28,400 --> 00:39:31,920
+you tried running to Shopify versus
+
+982
+00:39:29,920 --> 00:39:34,960
+funnelist versus Checkout Champ? Like, I
+
+983
+00:39:31,920 --> 00:39:37,600
+could go on for minutes of all the
+
+984
+00:39:34,960 --> 00:39:38,960
+things that affect your CPMs, but the
+
+985
+00:39:37,600 --> 00:39:40,480
+reality is still the same. There is
+
+986
+00:39:38,960 --> 00:39:42,960
+something that is triggering this
+
+987
+00:39:40,480 --> 00:39:45,040
+increase in CPMs. I would want to look
+
+988
+00:39:42,960 --> 00:39:46,320
+into all the 340 ads that you tested.
+
+989
+00:39:45,040 --> 00:39:48,240
+Was there anything that showed a
+
+990
+00:39:46,320 --> 00:39:50,240
+reduction of CPMs? And maybe it wasn't
+
+991
+00:39:48,240 --> 00:39:51,920
+profitable, but at least you reduce the
+
+992
+00:39:50,240 --> 00:39:53,680
+CPMs and you can identify what caused
+
+993
+00:39:51,920 --> 00:39:56,320
+the higher ones in the first place.
+
+994
+00:39:53,680 --> 00:39:58,480
+Like, it's all about like,
+
+995
+00:39:56,320 --> 00:39:59,920
+yeah, it's just all about testing and
+
+996
+00:39:58,480 --> 00:40:01,680
+tweaking until you find that thing that
+
+997
+00:39:59,920 --> 00:40:03,200
+actually moves the needle. And even if
+
+998
+00:40:01,680 --> 00:40:05,280
+it doesn't make you more profitable, but
+
+999
+00:40:03,200 --> 00:40:07,040
+it does move the CPM needle, you can
+
+1000
+00:40:05,280 --> 00:40:09,920
+make more profitable ads. But you you
+
+1001
+00:40:07,040 --> 00:40:12,880
+can't manually, you know, you can't
+
+1002
+00:40:09,920 --> 00:40:15,120
+manually [ __ ] just turn down your
+
+1003
+00:40:12,880 --> 00:40:16,560
+CPMs.
+
+1004
+00:40:15,120 --> 00:40:18,640
+But yeah, hopefully that helps, bro.
+
+1005
+00:40:16,560 --> 00:40:20,080
+There's there's a [ __ ] lot. Like I I
+
+1006
+00:40:18,640 --> 00:40:22,560
+am going to make a video on it. It'll be
+
+1007
+00:40:20,080 --> 00:40:25,200
+a private video. All you guys will will
+
+1008
+00:40:22,560 --> 00:40:27,280
+get access to it here in the live. But
+
+1009
+00:40:25,200 --> 00:40:29,040
+yeah,
+
+1010
+00:40:27,280 --> 00:40:31,040
+Mr. Elephant, bro, I'm having trouble. I
+
+1011
+00:40:29,040 --> 00:40:32,320
+tested a new product and got 10 sales on
+
+1012
+00:40:31,040 --> 00:40:33,920
+Facebook ads, but after bumping the
+
+1013
+00:40:32,320 --> 00:40:35,120
+budget up after 5 days, completely died
+
+1014
+00:40:33,920 --> 00:40:36,320
+with no more sale for two, three days,
+
+1015
+00:40:35,120 --> 00:40:39,320
+and I'm still getting hella add to
+
+1016
+00:40:36,320 --> 00:40:39,320
+carts.
+
+1017
+00:40:40,400 --> 00:40:45,000
+Okay, so this is uh
+
+1018
+00:40:46,320 --> 00:40:50,080
+what likely happened is you bumped the
+
+1019
+00:40:48,720 --> 00:40:52,960
+budget a little bit too much. You said
+
+1020
+00:40:50,080 --> 00:40:54,320
+you bumped the budget up after 5 days.
+
+1021
+00:40:52,960 --> 00:40:56,000
+Okay, actually this this is a good
+
+1022
+00:40:54,320 --> 00:40:57,440
+teaching moment and I can't believe how
+
+1023
+00:40:56,000 --> 00:41:01,920
+many times I have to [ __ ] say this,
+
+1024
+00:40:57,440 --> 00:41:04,320
+but bro, if you have something on
+
+1025
+00:41:01,920 --> 00:41:06,320
+Facebook that is working, it's
+
+1026
+00:41:04,320 --> 00:41:08,960
+profitable, it's getting you customers,
+
+1027
+00:41:06,320 --> 00:41:11,840
+you're making money,
+
+1028
+00:41:08,960 --> 00:41:15,440
+don't touch it, don't increase the
+
+1029
+00:41:11,840 --> 00:41:17,840
+budget. You can scale in other ways.
+
+1030
+00:41:15,440 --> 00:41:20,720
+that that for me is always like the last
+
+1031
+00:41:17,840 --> 00:41:22,960
+[ __ ] option is to do like internal
+
+1032
+00:41:20,720 --> 00:41:25,600
+budget scaling of a campaign or an
+
+1033
+00:41:22,960 --> 00:41:27,760
+adset. That's the last [ __ ] option
+
+1034
+00:41:25,600 --> 00:41:29,760
+because it's the highest risk. It's the
+
+1035
+00:41:27,760 --> 00:41:31,600
+thing that is most likely going to kill
+
+1036
+00:41:29,760 --> 00:41:34,160
+what is already working so well for you.
+
+1037
+00:41:31,600 --> 00:41:36,320
+Why would you ever
+
+1038
+00:41:34,160 --> 00:41:39,320
+do that until you exhaust all your other
+
+1039
+00:41:36,320 --> 00:41:39,320
+options?
+
+1040
+00:41:47,520 --> 00:41:51,160
+All right, next question.
+
+1041
+00:41:51,840 --> 00:41:55,760
+Yeah, CPMs are lower for sure if the
+
+1042
+00:41:53,440 --> 00:41:57,200
+target is not sales. Yeah, of course. I
+
+1043
+00:41:55,760 --> 00:41:59,840
+didn't mean like run a PB campaign. I
+
+1044
+00:41:57,200 --> 00:42:01,200
+mean running like a uh for example like
+
+1045
+00:41:59,840 --> 00:42:02,720
+a lead campaign where you can still get
+
+1046
+00:42:01,200 --> 00:42:04,880
+buyers on lead campaigns. Like you think
+
+1047
+00:42:02,720 --> 00:42:06,240
+of Yeah, that's a whole another rabbit
+
+1048
+00:42:04,880 --> 00:42:08,240
+hole. You guys can get to meta another
+
+1049
+00:42:06,240 --> 00:42:09,520
+time,
+
+1050
+00:42:08,240 --> 00:42:13,160
+but you might just [ __ ] around and try
+
+1051
+00:42:09,520 --> 00:42:13,160
+some lead campaigns. Anyways,
+
+1052
+00:42:14,320 --> 00:42:19,360
+Cena, what's up, bro? Hey, Mark. I'm
+
+1053
+00:42:17,360 --> 00:42:20,800
+making about 1K profit per day, but I've
+
+1054
+00:42:19,360 --> 00:42:22,880
+noticed that if I don't launch new
+
+1055
+00:42:20,800 --> 00:42:24,720
+creative daily, my old winners keep the
+
+1056
+00:42:22,880 --> 00:42:28,240
+same CBC, but side conversions drop
+
+1057
+00:42:24,720 --> 00:42:30,000
+hard. Why does this happen? This is part
+
+1058
+00:42:28,240 --> 00:42:32,640
+of the Andromeda update, dude. You need
+
+1059
+00:42:30,000 --> 00:42:34,400
+to be injecting new creative material
+
+1060
+00:42:32,640 --> 00:42:36,480
+into your ad account every single day or
+
+1061
+00:42:34,400 --> 00:42:38,480
+you will be penalized.
+
+1062
+00:42:36,480 --> 00:42:40,800
+Simple as that.
+
+1063
+00:42:38,480 --> 00:42:42,240
+Also, it doesn't really matter why.
+
+1064
+00:42:40,800 --> 00:42:43,680
+Like, you see the Well, what if you
+
+1065
+00:42:42,240 --> 00:42:45,360
+never figured out why you see the trend
+
+1066
+00:42:43,680 --> 00:42:47,440
+of what's happening? Every time you
+
+1067
+00:42:45,360 --> 00:42:50,160
+don't launch new creatives, you see your
+
+1068
+00:42:47,440 --> 00:42:51,920
+uh your conversions drop.
+
+1069
+00:42:50,160 --> 00:42:55,400
+Just launch creatives daily, you know,
+
+1070
+00:42:51,920 --> 00:42:55,400
+simple as that.
+
+1071
+00:42:58,320 --> 00:43:02,080
+Does the one relaunch rule apply to
+
+1072
+00:43:00,480 --> 00:43:04,960
+someone that isn't as knowledgeable as
+
+1073
+00:43:02,080 --> 00:43:06,480
+you? Yes, it does. When you post an ad
+
+1074
+00:43:04,960 --> 00:43:08,960
+you already know is really good, like
+
+1075
+00:43:06,480 --> 00:43:10,880
+when I test, I don't really know. I also
+
+1076
+00:43:08,960 --> 00:43:12,800
+don't really know. Like I have I'm wrong
+
+1077
+00:43:10,880 --> 00:43:16,000
+all the time, dude. It's not like I I'm
+
+1078
+00:43:12,800 --> 00:43:17,920
+not a I'm not God. Like even the best ad
+
+1079
+00:43:16,000 --> 00:43:18,960
+buyers in the world, they can launch ads
+
+1080
+00:43:17,920 --> 00:43:20,480
+that they think are going to do great
+
+1081
+00:43:18,960 --> 00:43:23,600
+and they end up totally flopping. It
+
+1082
+00:43:20,480 --> 00:43:26,720
+happens all the time. It's that's why I
+
+1083
+00:43:23,600 --> 00:43:28,960
+do my best to remain humble and have at
+
+1084
+00:43:26,720 --> 00:43:30,640
+least an ounce of humility because I I'm
+
+1085
+00:43:28,960 --> 00:43:32,160
+nowhere near knowing everything. Like
+
+1086
+00:43:30,640 --> 00:43:34,480
+that still every single day I test stuff
+
+1087
+00:43:32,160 --> 00:43:37,280
+that doesn't work. So, even someone like
+
+1088
+00:43:34,480 --> 00:43:38,320
+me, if I can't properly identify if
+
+1089
+00:43:37,280 --> 00:43:43,120
+something is going to be a winner or
+
+1090
+00:43:38,320 --> 00:43:45,440
+not, then you definitely can't. And I
+
+1091
+00:43:43,120 --> 00:43:47,280
+don't mean that to to like say that I'm
+
+1092
+00:43:45,440 --> 00:43:48,800
+so [ __ ] impressive because I'm not.
+
+1093
+00:43:47,280 --> 00:43:50,720
+I'm saying that because I just have so
+
+1094
+00:43:48,800 --> 00:43:53,840
+many more years of experience and so
+
+1095
+00:43:50,720 --> 00:43:57,640
+many ads launched under my my
+
+1096
+00:43:53,840 --> 00:43:57,640
+viewership, you know?
+
+1097
+00:43:59,040 --> 00:44:02,600
+All right, next question.
+
+1098
+00:44:03,840 --> 00:44:06,720
+Hey Mark, what's something that stress
+
+1099
+00:44:05,280 --> 00:44:08,240
+you out the most while building your
+
+1100
+00:44:06,720 --> 00:44:11,240
+first businesses other than Mark
+
+1101
+00:44:08,240 --> 00:44:11,240
+Zuckerberg,
+
+1102
+00:44:19,360 --> 00:44:23,200
+dude? I I don't know how else to say
+
+1103
+00:44:20,800 --> 00:44:25,600
+this, but like just being broke stressed
+
+1104
+00:44:23,200 --> 00:44:27,760
+me the [ __ ] out.
+
+1105
+00:44:25,600 --> 00:44:31,280
+That [ __ ] [ __ ] stressed me out. Most
+
+1106
+00:44:27,760 --> 00:44:35,440
+of my problems, my my issues stem from
+
+1107
+00:44:31,280 --> 00:44:38,080
+me just like not having any money.
+
+1108
+00:44:35,440 --> 00:44:39,520
+Money doesn't buy happiness, but you
+
+1109
+00:44:38,080 --> 00:44:42,560
+can't say that until you've made a [ __ ]
+
+1110
+00:44:39,520 --> 00:44:44,080
+ton of it. Cuz it's typically like, I'll
+
+1111
+00:44:42,560 --> 00:44:46,480
+be honest, it's typically broke people
+
+1112
+00:44:44,080 --> 00:44:49,040
+that say that. It's like, oh, money
+
+1113
+00:44:46,480 --> 00:44:50,720
+isn't everything. You can only you only
+
+1114
+00:44:49,040 --> 00:44:53,440
+earn the right to say that. This isn't
+
+1115
+00:44:50,720 --> 00:44:54,880
+obviously true, but thought experiment.
+
+1116
+00:44:53,440 --> 00:44:57,440
+You really should only say that if
+
+1117
+00:44:54,880 --> 00:44:59,280
+you've already made a ton of [ __ ]
+
+1118
+00:44:57,440 --> 00:45:02,880
+money so that you can empathize with
+
+1119
+00:44:59,280 --> 00:45:05,600
+that feeling because money is amazing.
+
+1120
+00:45:02,880 --> 00:45:08,160
+Money is a tool that can help you unlock
+
+1121
+00:45:05,600 --> 00:45:11,160
+a lot in your life for yourself and for
+
+1122
+00:45:08,160 --> 00:45:11,160
+others.
+
+1123
+00:45:12,320 --> 00:45:21,200
+I flew my mom uh on a first class round
+
+1124
+00:45:17,200 --> 00:45:23,040
+trip to to somewhere in Europe and I
+
+1125
+00:45:21,200 --> 00:45:24,720
+paid for the entire ticket myself. is
+
+1126
+00:45:23,040 --> 00:45:27,720
+about
+
+1127
+00:45:24,720 --> 00:45:27,720
+$10,000.
+
+1128
+00:45:30,800 --> 00:45:35,680
+That's that made her happy, you know,
+
+1129
+00:45:32,640 --> 00:45:38,800
+and her being happy made me happy. So
+
+1130
+00:45:35,680 --> 00:45:40,400
+stuff like that, money is great, but
+
+1131
+00:45:38,800 --> 00:45:41,920
+your problems don't go away when you
+
+1132
+00:45:40,400 --> 00:45:46,840
+have money. They just change. They just
+
+1133
+00:45:41,920 --> 00:45:46,840
+change into other problems.
+
+1134
+00:46:05,520 --> 00:46:08,800
+What do you think about quizzes, bro?
+
+1135
+00:46:07,200 --> 00:46:12,960
+I'm a I'm a huge proponent of quiz
+
+1136
+00:46:08,800 --> 00:46:14,720
+funnels, man. They're
+
+1137
+00:46:12,960 --> 00:46:15,920
+they're they're destroying for a lot of
+
+1138
+00:46:14,720 --> 00:46:19,040
+big brands. If you're definitely in like
+
+1139
+00:46:15,920 --> 00:46:22,240
+the neutra space, uh, health wellness
+
+1140
+00:46:19,040 --> 00:46:27,880
+can totally destroy and is actively
+
+1141
+00:46:22,240 --> 00:46:27,880
+being run by by me right now.
+
+1142
+00:46:29,760 --> 00:46:33,280
+Yo, Mark, if I'm a beginner, would you
+
+1143
+00:46:31,200 --> 00:46:37,920
+say stick to using AI to write my AI
+
+1144
+00:46:33,280 --> 00:46:40,920
+video ads? AI video ads?
+
+1145
+00:46:37,920 --> 00:46:40,920
+Yes.
+
+1146
+00:46:42,080 --> 00:46:46,160
+What can you learn from inactive ads on
+
+1147
+00:46:44,080 --> 00:46:48,320
+Facebook ads library? I found a product
+
+1148
+00:46:46,160 --> 00:46:50,000
+that solves a problem, but it has seven
+
+1149
+00:46:48,320 --> 00:46:54,480
+active ads in the market. I would sell
+
+1150
+00:46:50,000 --> 00:46:58,680
+in and 680 inactive. Oh, interesting
+
+1151
+00:46:54,480 --> 00:46:58,680
+question, bro. Very interesting.
+
+1152
+00:47:00,480 --> 00:47:06,880
+I
+
+1153
+00:47:02,000 --> 00:47:08,880
+would say no. That product is not worth
+
+1154
+00:47:06,880 --> 00:47:11,360
+testing.
+
+1155
+00:47:08,880 --> 00:47:12,880
+they have 680 inactive ads. A few
+
+1156
+00:47:11,360 --> 00:47:15,120
+reasons. Number one, a lot of times
+
+1157
+00:47:12,880 --> 00:47:18,880
+people will artificially
+
+1158
+00:47:15,120 --> 00:47:20,400
+um increase their like ad library
+
+1159
+00:47:18,880 --> 00:47:21,600
+in order to like protect the quality of
+
+1160
+00:47:20,400 --> 00:47:24,080
+their account. For example, launching a
+
+1161
+00:47:21,600 --> 00:47:26,240
+bunch of PPE ads, page campaigns, etc.
+
+1162
+00:47:24,080 --> 00:47:28,320
+So, they can artificially
+
+1163
+00:47:26,240 --> 00:47:30,160
+increase that number. Number two is
+
+1164
+00:47:28,320 --> 00:47:31,440
+maybe that doesn't say when well what
+
+1165
+00:47:30,160 --> 00:47:34,480
+does say maybe it says when they're
+
+1166
+00:47:31,440 --> 00:47:37,120
+turned off but maybe it was a long time
+
+1167
+00:47:34,480 --> 00:47:38,640
+ago in the point where the demand for
+
+1168
+00:47:37,120 --> 00:47:40,160
+that particular product is now lower at
+
+1169
+00:47:38,640 --> 00:47:41,600
+this particular point in time. So, I
+
+1170
+00:47:40,160 --> 00:47:42,960
+think you can find better products,
+
+1171
+00:47:41,600 --> 00:47:45,040
+dude. I wouldn't have I wouldn't resort
+
+1172
+00:47:42,960 --> 00:47:48,560
+to brand. Like, if you can't prove that
+
+1173
+00:47:45,040 --> 00:47:50,960
+a brand is doing over 300K per month,
+
+1174
+00:47:48,560 --> 00:47:53,280
+then don't sell the product. Just just
+
+1175
+00:47:50,960 --> 00:47:57,880
+like live by that rule and you'll make
+
+1176
+00:47:53,280 --> 00:47:57,880
+you you'll end up doing a lot more
+
+1177
+00:47:58,160 --> 00:48:05,240
+a lot more cash.
+
+1178
+00:48:00,560 --> 00:48:05,240
+Guys, what is a drop shipping?
+
+1179
+00:48:05,600 --> 00:48:09,760
+A drop shipping is like a shipping
+
+1180
+00:48:08,000 --> 00:48:13,200
+container, right? like a like a
+
+1181
+00:48:09,760 --> 00:48:14,960
+cardboard box and then somebody holds it
+
+1182
+00:48:13,200 --> 00:48:17,360
+suspended above like 10 feet in the air
+
+1183
+00:48:14,960 --> 00:48:20,760
+and then drops it. That's what a drop
+
+1184
+00:48:17,360 --> 00:48:20,760
+shipping is.
+
+1185
+00:48:23,120 --> 00:48:26,120
+What?
+
+1186
+00:48:27,120 --> 00:48:31,680
+All right. Question from Alex. I've seen
+
+1187
+00:48:29,280 --> 00:48:35,360
+I've seen a few of your questions, bro.
+
+1188
+00:48:31,680 --> 00:48:37,200
+Alex. Alex.
+
+1189
+00:48:35,360 --> 00:48:40,960
+No, I'm not even going to try. Mark, I'm
+
+1190
+00:48:37,200 --> 00:48:43,280
+6'4, 185 pounds.
+
+1191
+00:48:40,960 --> 00:48:44,720
+I want to get bigger, but I like to do
+
+1192
+00:48:43,280 --> 00:48:47,440
+deep work in the morning, so I don't eat
+
+1193
+00:48:44,720 --> 00:48:48,640
+breakfast.
+
+1194
+00:48:47,440 --> 00:48:53,000
+What's your best tip for eating more if
+
+1195
+00:48:48,640 --> 00:48:53,000
+you don't have time for meal prepping?
+
+1196
+00:48:55,680 --> 00:48:59,040
+You don't have time for meal prepping
+
+1197
+00:48:57,120 --> 00:49:02,040
+and you work do your deep works in the
+
+1198
+00:48:59,040 --> 00:49:02,040
+mornings.
+
+1199
+00:49:06,240 --> 00:49:08,880
+I don't even know what I could what I
+
+1200
+00:49:07,760 --> 00:49:11,040
+could say here. I mean, you have to
+
+1201
+00:49:08,880 --> 00:49:12,880
+[ __ ] eat more. Like, you you have to
+
+1202
+00:49:11,040 --> 00:49:15,680
+eat more period, but you have to eat
+
+1203
+00:49:12,880 --> 00:49:17,280
+even more than you think you do because
+
+1204
+00:49:15,680 --> 00:49:18,800
+uh you're not eating in the mornings.
+
+1205
+00:49:17,280 --> 00:49:21,360
+So, like from the hours of let's say
+
+1206
+00:49:18,800 --> 00:49:22,560
+like 12:00 p.m. to to midnight, let's
+
+1207
+00:49:21,360 --> 00:49:24,800
+say. You have like a 12-h hour eating
+
+1208
+00:49:22,560 --> 00:49:26,480
+window. You got to consume
+
+1209
+00:49:24,800 --> 00:49:29,040
+for you, bro. [ __ ] I would be consuming
+
+1210
+00:49:26,480 --> 00:49:30,400
+like 4,000 calories minimum in that
+
+1211
+00:49:29,040 --> 00:49:32,880
+particular time frame. And I would make
+
+1212
+00:49:30,400 --> 00:49:34,240
+it all real foods. There was a point in
+
+1213
+00:49:32,880 --> 00:49:36,000
+time, dude, when I was trying to gain
+
+1214
+00:49:34,240 --> 00:49:37,920
+weight that I tried one of these mass
+
+1215
+00:49:36,000 --> 00:49:40,320
+gainers.
+
+1216
+00:49:37,920 --> 00:49:43,440
+Horrible, horrible [ __ ] idea. Just
+
+1217
+00:49:40,320 --> 00:49:44,960
+eat real food, whole foods. Um, if you
+
+1218
+00:49:43,440 --> 00:49:46,640
+have to, you can throw some junk in
+
+1219
+00:49:44,960 --> 00:49:48,640
+there, but ideally keep it as whole as
+
+1220
+00:49:46,640 --> 00:49:51,520
+possible, but unfortunately, there's
+
+1221
+00:49:48,640 --> 00:49:54,160
+really no shortcuts. Just eat like high
+
+1222
+00:49:51,520 --> 00:49:56,480
+high calorically dense foods, stuff like
+
+1223
+00:49:54,160 --> 00:49:59,640
+like peanut butter and bananas and [ __ ]
+
+1224
+00:49:56,480 --> 00:49:59,640
+like that.
+
+1225
+00:50:03,120 --> 00:50:06,440
+Next question.
+
+1226
+00:50:13,280 --> 00:50:16,080
+Hey Mark, how do you compete with brands
+
+1227
+00:50:14,560 --> 00:50:17,920
+that are spending thousands of dollars a
+
+1228
+00:50:16,080 --> 00:50:19,680
+day on advertising? My budget might be
+
+1229
+00:50:17,920 --> 00:50:22,320
+$100 a day. They clearly have so much
+
+1230
+00:50:19,680 --> 00:50:24,880
+more experience than me. Um, you won't
+
+1231
+00:50:22,320 --> 00:50:26,320
+you won't beat them at $100 per day,
+
+1232
+00:50:24,880 --> 00:50:28,560
+period.
+
+1233
+00:50:26,320 --> 00:50:30,320
+You can be winning at a small scale, you
+
+1234
+00:50:28,560 --> 00:50:31,760
+know, at $100 per day, but just because
+
+1235
+00:50:30,320 --> 00:50:32,960
+there's a competitor that's spending
+
+1236
+00:50:31,760 --> 00:50:34,640
+more money than you doesn't mean that
+
+1237
+00:50:32,960 --> 00:50:36,400
+you can't also make money in that same
+
+1238
+00:50:34,640 --> 00:50:38,880
+market. You can totally make money in
+
+1239
+00:50:36,400 --> 00:50:42,400
+that same market. You can you can you
+
+1240
+00:50:38,880 --> 00:50:43,840
+can outscale them 100%. Look, I want to
+
+1241
+00:50:42,400 --> 00:50:46,800
+show you guys something. There was
+
+1242
+00:50:43,840 --> 00:50:49,520
+something that was created uh back in I
+
+1243
+00:50:46,800 --> 00:50:51,760
+think it was around 2018. Facebook has
+
+1244
+00:50:49,520 --> 00:50:52,880
+since removed it a while ago from their
+
+1245
+00:50:51,760 --> 00:50:57,600
+website, but they were basically
+
+1246
+00:50:52,880 --> 00:51:01,400
+explaining how advertising auctions work
+
+1247
+00:50:57,600 --> 00:51:01,400
+and it was called
+
+1248
+00:51:03,120 --> 00:51:10,680
+total total advertiser
+
+1249
+00:51:07,680 --> 00:51:10,680
+value.
+
+1250
+00:51:11,760 --> 00:51:15,480
+Ah, found it.
+
+1251
+00:51:18,320 --> 00:51:21,280
+All right, you guys are about to be
+
+1252
+00:51:19,680 --> 00:51:23,280
+[ __ ]
+
+1253
+00:51:21,280 --> 00:51:25,840
+put on right now. They literally removed
+
+1254
+00:51:23,280 --> 00:51:27,040
+this from their website like years ago
+
+1255
+00:51:25,840 --> 00:51:28,400
+because they're giving people too much
+
+1256
+00:51:27,040 --> 00:51:30,080
+information on how to make enough money
+
+1257
+00:51:28,400 --> 00:51:32,400
+on the platform. So this is how it
+
+1258
+00:51:30,080 --> 00:51:36,000
+works. So look, this is their words.
+
+1259
+00:51:32,400 --> 00:51:38,480
+This was on their website.
+
+1260
+00:51:36,000 --> 00:51:40,240
+We rank ads based on a total value for
+
+1261
+00:51:38,480 --> 00:51:41,920
+each ad. So obviously the ads that are
+
+1262
+00:51:40,240 --> 00:51:44,800
+going to win the auction have a higher
+
+1263
+00:51:41,920 --> 00:51:46,720
+total value. So piece number one is
+
+1264
+00:51:44,800 --> 00:51:50,480
+going to be the advertiser bid. This is
+
+1265
+00:51:46,720 --> 00:51:52,400
+the actual bid in your adset that you
+
+1266
+00:51:50,480 --> 00:51:55,120
+have set up, right? So most people are
+
+1267
+00:51:52,400 --> 00:51:56,480
+going to be using automatic bidding. So
+
+1268
+00:51:55,120 --> 00:51:58,000
+what this means is that Facebook is
+
+1269
+00:51:56,480 --> 00:52:00,320
+going to be determining the value of
+
+1270
+00:51:58,000 --> 00:52:02,640
+your bid for each space of of
+
+1271
+00:52:00,320 --> 00:52:04,240
+advertising. That's why the people that
+
+1272
+00:52:02,640 --> 00:52:05,840
+are able to scale very very well at
+
+1273
+00:52:04,240 --> 00:52:09,280
+higher levels of spend, they have to
+
+1274
+00:52:05,840 --> 00:52:12,400
+start bidding manually using stuff like
+
+1275
+00:52:09,280 --> 00:52:14,480
+cost caps or bid caps. So specifically
+
+1276
+00:52:12,400 --> 00:52:16,160
+bid caps is where you can manually
+
+1277
+00:52:14,480 --> 00:52:18,800
+control the maximum amount that you're
+
+1278
+00:52:16,160 --> 00:52:20,720
+willing to bid for a particular uh
+
+1279
+00:52:18,800 --> 00:52:22,960
+conversion.
+
+1280
+00:52:20,720 --> 00:52:27,440
+All right. So that's number one. Number
+
+1281
+00:52:22,960 --> 00:52:31,200
+two, estimated action rates.
+
+1282
+00:52:27,440 --> 00:52:36,160
+So by estimated action rates,
+
+1283
+00:52:31,200 --> 00:52:37,680
+this is mostly your soft metrics. So,
+
+1284
+00:52:36,160 --> 00:52:39,440
+think of your your click to rate number
+
+1285
+00:52:37,680 --> 00:52:42,880
+one is going to be like most important.
+
+1286
+00:52:39,440 --> 00:52:44,560
+Click to rate, CPC, uh CPMs is not like
+
+1287
+00:52:42,880 --> 00:52:48,720
+an action, but that's kind of like a an
+
+1288
+00:52:44,560 --> 00:52:50,800
+indicator. Um CPC, CTR, you know,
+
+1289
+00:52:48,720 --> 00:52:53,200
+average average watch time, cost per 30
+
+1290
+00:52:50,800 --> 00:52:55,280
+second video view. These are your
+
+1291
+00:52:53,200 --> 00:52:57,840
+general soft metrics. This is also
+
+1292
+00:52:55,280 --> 00:53:00,840
+combined
+
+1293
+00:52:57,840 --> 00:53:00,840
+with
+
+1294
+00:53:02,640 --> 00:53:06,160
+your conversion rate,
+
+1295
+00:53:04,880 --> 00:53:08,000
+right? It actually says that right down
+
+1296
+00:53:06,160 --> 00:53:09,600
+here. Total value for a conversion
+
+1297
+00:53:08,000 --> 00:53:10,800
+optimized ad, which is this is what all
+
+1298
+00:53:09,600 --> 00:53:13,200
+you [ __ ] are running,
+
+1299
+00:53:10,800 --> 00:53:16,320
+conversion ads, right? Total value is
+
+1300
+00:53:13,200 --> 00:53:20,000
+the bid for the conversion number one,
+
+1301
+00:53:16,320 --> 00:53:23,000
+plus the estimated click-through rate,
+
+1302
+00:53:20,000 --> 00:53:23,000
+aka
+
+1303
+00:53:23,440 --> 00:53:28,400
+one of the action rates, times your
+
+1304
+00:53:26,160 --> 00:53:30,160
+estimated click to conversion rate. So,
+
+1305
+00:53:28,400 --> 00:53:31,920
+this is like we call it just conversion
+
+1306
+00:53:30,160 --> 00:53:34,000
+rate because it's from website visitor
+
+1307
+00:53:31,920 --> 00:53:35,360
+to buyer on your website. But the way
+
+1308
+00:53:34,000 --> 00:53:37,840
+that Facebook thinks about it is click
+
+1309
+00:53:35,360 --> 00:53:41,280
+to buy. So, but what is your rate of
+
+1310
+00:53:37,840 --> 00:53:42,800
+people that click the people that bought
+
+1311
+00:53:41,280 --> 00:53:44,800
+plus
+
+1312
+00:53:42,800 --> 00:53:47,040
+relevance/quality
+
+1313
+00:53:44,800 --> 00:53:48,480
+factors? So, when we dissect again guys,
+
+1314
+00:53:47,040 --> 00:53:50,080
+this this is like the system that they
+
+1315
+00:53:48,480 --> 00:53:51,680
+use. It's more sophisticated now, but
+
+1316
+00:53:50,080 --> 00:53:53,600
+this is the this is the [ __ ]
+
+1317
+00:53:51,680 --> 00:53:55,840
+foundation right here. So, for the
+
+1318
+00:53:53,600 --> 00:53:58,400
+people asking about CPMs, this is how
+
+1319
+00:53:55,840 --> 00:54:01,200
+Facebook is ranking your ads. And if you
+
+1320
+00:53:58,400 --> 00:54:02,720
+see that your CPMs are really high,
+
+1321
+00:54:01,200 --> 00:54:04,960
+number one, is your click-through rate
+
+1322
+00:54:02,720 --> 00:54:05,760
+really low? Okay, there's low relevancy,
+
+1323
+00:54:04,960 --> 00:54:07,760
+meaning you're probably going to get
+
+1324
+00:54:05,760 --> 00:54:10,080
+penalized with high CPMs. Okay, is your
+
+1325
+00:54:07,760 --> 00:54:12,320
+conversion rate really low? Okay, that
+
+1326
+00:54:10,080 --> 00:54:13,760
+means there's low there's there's a poor
+
+1327
+00:54:12,320 --> 00:54:15,120
+match between the audience, the
+
+1328
+00:54:13,760 --> 00:54:16,480
+creative, and the landing page
+
+1329
+00:54:15,120 --> 00:54:18,800
+experience. You're going to get higher
+
+1330
+00:54:16,480 --> 00:54:20,640
+CPMs.
+
+1331
+00:54:18,800 --> 00:54:22,160
+And the last one here, which is probably
+
+1332
+00:54:20,640 --> 00:54:24,400
+what most of you are probably getting
+
+1333
+00:54:22,160 --> 00:54:27,120
+kicked in the ass with with CPMs, is
+
+1334
+00:54:24,400 --> 00:54:29,040
+going to be the user value, which is
+
+1335
+00:54:27,120 --> 00:54:30,800
+also known as relevance and quality
+
+1336
+00:54:29,040 --> 00:54:33,280
+factors. So, I think Facebook removed
+
+1337
+00:54:30,800 --> 00:54:34,720
+these from the ads manager. Uh, I don't
+
+1338
+00:54:33,280 --> 00:54:36,240
+know. They go back and forth with like
+
+1339
+00:54:34,720 --> 00:54:38,560
+removing it and then adding it back, but
+
+1340
+00:54:36,240 --> 00:54:42,080
+it's the conversion rate ranking,
+
+1341
+00:54:38,560 --> 00:54:44,720
+engagement rate, ranking, and quality
+
+1342
+00:54:42,080 --> 00:54:45,920
+score. I know they removed quality score
+
+1343
+00:54:44,720 --> 00:54:48,160
+because they're giving us too much
+
+1344
+00:54:45,920 --> 00:54:49,920
+[ __ ] too much data. we're doing a
+
+1345
+00:54:48,160 --> 00:54:53,080
+little bit too good. They got to remove
+
+1346
+00:54:49,920 --> 00:54:53,080
+some controls
+
+1347
+00:54:53,920 --> 00:54:57,920
+and
+
+1348
+00:54:56,400 --> 00:55:00,000
+yeah, so they removed that, but I think
+
+1349
+00:54:57,920 --> 00:55:03,200
+they still do have conversion rate and
+
+1350
+00:55:00,000 --> 00:55:04,720
+engagement rate uh scores. Anyways,
+
+1351
+00:55:03,200 --> 00:55:06,240
+that's where most of you are getting bit
+
+1352
+00:55:04,720 --> 00:55:08,560
+in the ass because you're providing a
+
+1353
+00:55:06,240 --> 00:55:09,680
+terrible landing page experience for the
+
+1354
+00:55:08,560 --> 00:55:11,280
+people that click on the ad. Therefore,
+
+1355
+00:55:09,680 --> 00:55:13,520
+you're getting penalized with high CPMs.
+
+1356
+00:55:11,280 --> 00:55:14,800
+So that could that that often times is
+
+1357
+00:55:13,520 --> 00:55:17,680
+what I see is like the main reason that
+
+1358
+00:55:14,800 --> 00:55:21,360
+people have high CPMs. But
+
+1359
+00:55:17,680 --> 00:55:23,120
+you guys got to [ __ ]
+
+1360
+00:55:21,360 --> 00:55:25,040
+understand this [ __ ] right here. I I
+
+1361
+00:55:23,120 --> 00:55:27,040
+don't see anybody that talks about this
+
+1362
+00:55:25,040 --> 00:55:28,400
+because most people haven't been in the
+
+1363
+00:55:27,040 --> 00:55:29,920
+game for as long as me. And the crazy
+
+1364
+00:55:28,400 --> 00:55:30,880
+part is I'm not even I feel like I
+
+1365
+00:55:29,920 --> 00:55:32,320
+haven't even been in the game for that
+
+1366
+00:55:30,880 --> 00:55:36,760
+long. It's like seven years. People have
+
+1367
+00:55:32,320 --> 00:55:36,760
+been in this for [ __ ] decades, dude.
+
+1368
+00:55:37,920 --> 00:55:45,000
+Anyways, back to the chat.
+
+1369
+00:55:41,200 --> 00:55:45,000
+What question you guys got?
+
+1370
+00:55:50,960 --> 00:55:55,360
+Habibi Mark, how do you chief most your
+
+1371
+00:55:52,640 --> 00:56:00,240
+copy? Um, dude, I got some unfortunate
+
+1372
+00:55:55,360 --> 00:56:01,920
+news. I chief with an AI agent that I uh
+
+1373
+00:56:00,240 --> 00:56:03,120
+that I can't share publicly right now
+
+1374
+00:56:01,920 --> 00:56:04,960
+because there's a lot of my personal
+
+1375
+00:56:03,120 --> 00:56:06,960
+brand information on there. But I also
+
+1376
+00:56:04,960 --> 00:56:08,880
+chief just using my brain because I've
+
+1377
+00:56:06,960 --> 00:56:10,400
+been trained by some of the greatest
+
+1378
+00:56:08,880 --> 00:56:11,680
+copywriters in the world over the past
+
+1379
+00:56:10,400 --> 00:56:13,040
+few years. So I have a pretty good
+
+1380
+00:56:11,680 --> 00:56:16,040
+understanding of chiefing copy in my
+
+1381
+00:56:13,040 --> 00:56:16,040
+head.
+
+1382
+00:56:22,720 --> 00:56:29,840
+Do you still answer questions?
+
+1383
+00:56:25,840 --> 00:56:33,120
+What? It's an AMA.
+
+1384
+00:56:29,840 --> 00:56:35,440
+Of course not.
+
+1385
+00:56:33,120 --> 00:56:36,960
+Hey Mark Goat, I'm selling 1K per day
+
+1386
+00:56:35,440 --> 00:56:38,240
+and I'm struggling to get to 3K per day.
+
+1387
+00:56:36,960 --> 00:56:40,400
+What could it be? Bro, give me some
+
+1388
+00:56:38,240 --> 00:56:42,720
+data, dude. Give me some [ __ ] data or
+
+1389
+00:56:40,400 --> 00:56:44,400
+I'm going to lead you down the wrong
+
+1390
+00:56:42,720 --> 00:56:47,360
+path.
+
+1391
+00:56:44,400 --> 00:56:48,640
+What is your CTR, CBC, CPMs? What is
+
+1392
+00:56:47,360 --> 00:56:52,000
+your rorowass? What is your conversion
+
+1393
+00:56:48,640 --> 00:56:53,280
+rate? What is your
+
+1394
+00:56:52,000 --> 00:56:56,160
+how much are you spending? What is your
+
+1395
+00:56:53,280 --> 00:56:58,480
+CPA? What is your AOV? Give me that [ __ ]
+
+1396
+00:56:56,160 --> 00:57:00,320
+and I'll answer.
+
+1397
+00:56:58,480 --> 00:57:02,480
+But in reality, like for most people,
+
+1398
+00:57:00,320 --> 00:57:03,920
+90% of the people asking that question,
+
+1399
+00:57:02,480 --> 00:57:06,480
+it's going to be the same [ __ ] [ __ ] I
+
+1400
+00:57:03,920 --> 00:57:08,560
+say every time. You're at 1K per day,
+
+1401
+00:57:06,480 --> 00:57:10,160
+need to get to three. Actually, here
+
+1402
+00:57:08,560 --> 00:57:12,080
+here's what you can [ __ ] do. If
+
+1403
+00:57:10,160 --> 00:57:14,800
+you're stuck at 1K per day and you want
+
+1404
+00:57:12,080 --> 00:57:16,320
+to get to 3K per day, you're going to
+
+1405
+00:57:14,800 --> 00:57:17,840
+start spending more money on [ __ ]
+
+1406
+00:57:16,320 --> 00:57:19,840
+ads. You're going to run more ads. It's
+
+1407
+00:57:17,840 --> 00:57:21,040
+what you're going to do. And what's
+
+1408
+00:57:19,840 --> 00:57:22,720
+going to happen is you're going to go
+
+1409
+00:57:21,040 --> 00:57:25,680
+from spending, let's say, like 500 bucks
+
+1410
+00:57:22,720 --> 00:57:28,400
+a day to a thousand. And something is
+
+1411
+00:57:25,680 --> 00:57:30,320
+going to break. If it doesn't, that's
+
+1412
+00:57:28,400 --> 00:57:31,680
+great. Spend more money. But something
+
+1413
+00:57:30,320 --> 00:57:33,040
+is going to break when you double your
+
+1414
+00:57:31,680 --> 00:57:34,960
+ad spend. Something is going to break.
+
+1415
+00:57:33,040 --> 00:57:38,080
+What is the first thing that you see
+
+1416
+00:57:34,960 --> 00:57:40,480
+breaks? Is it your cost per click goes
+
+1417
+00:57:38,080 --> 00:57:44,160
+up like crazy, so the overall the cost
+
+1418
+00:57:40,480 --> 00:57:45,520
+of traffic increases? Is it your
+
+1419
+00:57:44,160 --> 00:57:46,640
+conversion rate that goes down,
+
+1420
+00:57:45,520 --> 00:57:49,360
+therefore your funnel is not strong
+
+1421
+00:57:46,640 --> 00:57:51,120
+enough? Is it a combination of both? In
+
+1422
+00:57:49,360 --> 00:57:52,800
+which case, it's both things that you
+
+1423
+00:57:51,120 --> 00:57:55,760
+need to be better at, creatives and
+
+1424
+00:57:52,800 --> 00:57:56,960
+funnel. That's a great way to tell. But
+
+1425
+00:57:55,760 --> 00:57:59,120
+generally, it's just better creatives
+
+1426
+00:57:56,960 --> 00:58:01,840
+and better better creatives and better
+
+1427
+00:57:59,120 --> 00:58:03,440
+funnel, better pizza, Papa John's, you
+
+1428
+00:58:01,840 --> 00:58:06,760
+know? Like, it's it's really [ __ ] as
+
+1429
+00:58:03,440 --> 00:58:06,760
+simple as that.
+
+1430
+00:58:17,600 --> 00:58:21,840
+Uh, Magnus, do you have any affiliates
+
+1431
+00:58:20,640 --> 00:58:23,760
+running ads for your brand and giving
+
+1432
+00:58:21,840 --> 00:58:25,760
+that CPA on purchases? If not, have you
+
+1433
+00:58:23,760 --> 00:58:29,680
+considered it? Right now, the answer is
+
+1434
+00:58:25,760 --> 00:58:32,560
+no. I have considered it. The reason why
+
+1435
+00:58:29,680 --> 00:58:34,160
+we haven't done it is mostly just for
+
+1436
+00:58:32,560 --> 00:58:35,920
+compliance purposes because you can't
+
+1437
+00:58:34,160 --> 00:58:37,920
+control what affiliates do for the most
+
+1438
+00:58:35,920 --> 00:58:40,400
+part. Um, as long as they get their
+
+1439
+00:58:37,920 --> 00:58:43,840
+their [ __ ] CPA, you know, they're
+
+1440
+00:58:40,400 --> 00:58:45,440
+they're happy and I have the intention
+
+1441
+00:58:43,840 --> 00:58:47,200
+of exiting this brand. So, if I was just
+
+1442
+00:58:45,440 --> 00:58:48,720
+like doing it as a cash cow vehicle and
+
+1443
+00:58:47,200 --> 00:58:50,960
+I like I I would put up on [ __ ]
+
+1444
+00:58:48,720 --> 00:58:53,520
+ClickBank and, you know, go really hard
+
+1445
+00:58:50,960 --> 00:58:56,480
+on the affiliate stuff, but right now I
+
+1446
+00:58:53,520 --> 00:58:58,400
+don't think that's the best move for
+
+1447
+00:58:56,480 --> 00:59:00,400
+that reason. But I'm totally open-minded
+
+1448
+00:58:58,400 --> 00:59:02,400
+about that. If you disagree, please
+
+1449
+00:59:00,400 --> 00:59:05,120
+please let me know. I'm curious on on
+
+1450
+00:59:02,400 --> 00:59:06,800
+your perspective there. For me, the ones
+
+1451
+00:59:05,120 --> 00:59:10,160
+that I see, the brands that I see that
+
+1452
+00:59:06,800 --> 00:59:12,560
+are scaling the best are
+
+1453
+00:59:10,160 --> 00:59:18,200
+mostly doing like
+
+1454
+00:59:12,560 --> 00:59:18,200
+basic D to see, some retail, Amazon.
+
+1455
+00:59:20,000 --> 00:59:23,400
+Is that it?
+
+1456
+00:59:23,680 --> 00:59:27,960
+I think that's mostly it. You know,
+
+1457
+00:59:30,400 --> 00:59:34,160
+what do you think of
+
+1458
+00:59:32,560 --> 00:59:36,000
+the grounding products? I actually think
+
+1459
+00:59:34,160 --> 00:59:37,360
+grounding is a fantastic market mostly
+
+1460
+00:59:36,000 --> 00:59:39,680
+because of like the macro trend that's
+
+1461
+00:59:37,360 --> 00:59:42,080
+going on with like animal-based
+
+1462
+00:59:39,680 --> 00:59:44,080
+uh [ __ ] liver king lifestyle type
+
+1463
+00:59:42,080 --> 00:59:46,480
+[ __ ] People are we're still very much
+
+1464
+00:59:44,080 --> 00:59:49,040
+so like in that phase even though most
+
+1465
+00:59:46,480 --> 00:59:50,560
+of it is [ __ ] nonsense. But I don't
+
+1466
+00:59:49,040 --> 00:59:53,600
+know. I have a friend of mine actually
+
+1467
+00:59:50,560 --> 00:59:54,960
+he he works you know on my team. Um he
+
+1468
+00:59:53,600 --> 00:59:56,640
+got one of these grounding sheets for
+
+1469
+00:59:54,960 --> 00:59:58,800
+the bed and he told me like his back
+
+1470
+00:59:56,640 --> 01:00:00,240
+pain went away. Of course it's
+
+1471
+00:59:58,800 --> 01:00:01,760
+anecdotal. There's not really a lot of
+
+1472
+01:00:00,240 --> 01:00:03,680
+research on grounding stuff in general
+
+1473
+01:00:01,760 --> 01:00:04,800
+that looks super strong, but hey, you
+
+1474
+01:00:03,680 --> 01:00:07,800
+know, sometimes that's enough for
+
+1475
+01:00:04,800 --> 01:00:07,800
+people.
+
+1476
+01:00:11,280 --> 01:00:15,840
+Yeah, if we're going for an exit, get a
+
+1477
+01:00:13,200 --> 01:00:19,320
+bunch of quality affiliates. Do you see
+
+1478
+01:00:15,840 --> 01:00:19,320
+quality affiliates?
+
+1479
+01:00:19,760 --> 01:00:26,640
+It's kind of an oxymoron, you know.
+
+1480
+01:00:24,320 --> 01:00:29,600
+No, I I love my affiliates, man. I I I
+
+1481
+01:00:26,640 --> 01:00:33,600
+like all you [ __ ] you [ __ ] idiots.
+
+1482
+01:00:29,600 --> 01:00:35,360
+Respectfully, uh I'm an idiot, too.
+
+1483
+01:00:33,600 --> 01:00:37,120
+That is definitely an option. It's just
+
+1484
+01:00:35,360 --> 01:00:39,440
+still a game of like quality control and
+
+1485
+01:00:37,120 --> 01:00:41,040
+making sure that they don't like Yeah.
+
+1486
+01:00:39,440 --> 01:00:46,440
+making sure that they don't go so
+
+1487
+01:00:41,040 --> 01:00:46,440
+[ __ ] hard and and pull some [ __ ]
+
+1488
+01:00:51,840 --> 01:00:56,320
+Uh do you think grounding could work
+
+1489
+01:00:53,680 --> 01:00:59,280
+from bodybuilding angle?
+
+1490
+01:00:56,320 --> 01:01:01,200
+I would be very against it, dude. I I
+
+1491
+01:00:59,280 --> 01:01:03,200
+actually think bodybuilders like they
+
+1492
+01:01:01,200 --> 01:01:05,760
+may be injecting themselves with with
+
+1493
+01:01:03,200 --> 01:01:08,640
+synthetic hormones. However, they
+
+1494
+01:01:05,760 --> 01:01:10,240
+understand the basics of nutrition and
+
+1495
+01:01:08,640 --> 01:01:11,840
+muscle building and they're able to spot
+
+1496
+01:01:10,240 --> 01:01:13,840
+out [ __ ] better than the average
+
+1497
+01:01:11,840 --> 01:01:17,120
+person. Like all these [ __ ] health
+
+1498
+01:01:13,840 --> 01:01:18,720
+fads that that roll through, carnivore,
+
+1499
+01:01:17,120 --> 01:01:20,320
+keto,
+
+1500
+01:01:18,720 --> 01:01:22,960
+animal-based,
+
+1501
+01:01:20,320 --> 01:01:24,720
+vegan, vegetarian, all these things came
+
+1502
+01:01:22,960 --> 01:01:27,040
+and went and bodybuilders just stayed in
+
+1503
+01:01:24,720 --> 01:01:29,520
+their own lane, eating chicken and rice,
+
+1504
+01:01:27,040 --> 01:01:32,400
+healthy fats, getting a high protein
+
+1505
+01:01:29,520 --> 01:01:34,880
+diet.
+
+1506
+01:01:32,400 --> 01:01:36,480
+They they really knew like what actually
+
+1507
+01:01:34,880 --> 01:01:40,800
+moved the needle. So, I think they're
+
+1508
+01:01:36,480 --> 01:01:44,080
+very skeptical of like these non uh less
+
+1509
+01:01:40,800 --> 01:01:45,920
+scientifically proven
+
+1510
+01:01:44,080 --> 01:01:48,880
+gadgets, I guess you could say, like a
+
+1511
+01:01:45,920 --> 01:01:52,160
+grounding matter, a grounding pad for
+
+1512
+01:01:48,880 --> 01:01:55,120
+your bed. That's my personal opinion.
+
+1513
+01:01:52,160 --> 01:01:56,640
+You know, I know some bodybuilders and
+
+1514
+01:01:55,120 --> 01:01:58,720
+I think they're a little bit more immune
+
+1515
+01:01:56,640 --> 01:02:00,800
+to like some of the marketing tricks
+
+1516
+01:01:58,720 --> 01:02:03,800
+that are used compared to the average
+
+1517
+01:02:00,800 --> 01:02:03,800
+individual.
+
+1518
+01:02:10,000 --> 01:02:15,440
+guys, these questions like, "Hey, Mark,
+
+1519
+01:02:12,000 --> 01:02:18,240
+how to how to scale on Meta?" It's like,
+
+1520
+01:02:15,440 --> 01:02:20,480
+bro, I need more context. Like, ask
+
+1521
+01:02:18,240 --> 01:02:23,120
+something more specific. Like, I could I
+
+1522
+01:02:20,480 --> 01:02:24,800
+could quite literally talk for days
+
+1523
+01:02:23,120 --> 01:02:26,320
+about how to scale on Meta. [ __ ] What
+
+1524
+01:02:24,800 --> 01:02:28,160
+you're looking at right now on my screen
+
+1525
+01:02:26,320 --> 01:02:32,600
+is like going to solve 80% of your
+
+1526
+01:02:28,160 --> 01:02:32,600
+[ __ ] issues with Facebook right here.
+
+1527
+01:02:37,280 --> 01:02:40,080
+Hey Mark, any advice on the new
+
+1528
+01:02:38,560 --> 01:02:41,200
+Andromeda algorithm? From what I know,
+
+1529
+01:02:40,080 --> 01:02:43,280
+it's completely changed the way we need
+
+1530
+01:02:41,200 --> 01:02:46,160
+to run ads. I would watch the live that
+
+1531
+01:02:43,280 --> 01:02:49,160
+I did on I think I did on Sunday or
+
+1532
+01:02:46,160 --> 01:02:49,160
+Monday.
+
+1533
+01:02:57,040 --> 01:03:00,000
+All right, guys. I'm going to be uh
+
+1534
+01:02:58,560 --> 01:03:01,120
+ending this one pretty soon. So, any
+
+1535
+01:03:00,000 --> 01:03:04,720
+last minute questions you have, just
+
+1536
+01:03:01,120 --> 01:03:08,240
+drop them in. Before I go, if you
+
+1537
+01:03:04,720 --> 01:03:09,760
+haven't heard, we are officially
+
+1538
+01:03:08,240 --> 01:03:12,800
+relaunching
+
+1539
+01:03:09,760 --> 01:03:14,960
+the Elite Mastermind here in Miami. It's
+
+1540
+01:03:12,800 --> 01:03:17,920
+going to be October 16th to the 18th.
+
+1541
+01:03:14,960 --> 01:03:20,800
+So, we did one last time in February in
+
+1542
+01:03:17,920 --> 01:03:22,720
+Dubai and it went incredibly well. One
+
+1543
+01:03:20,800 --> 01:03:24,480
+of the best events that we've ever had.
+
+1544
+01:03:22,720 --> 01:03:26,160
+The reason that I can say that with like
+
+1545
+01:03:24,480 --> 01:03:31,280
+such confidence, by the way, the average
+
+1546
+01:03:26,160 --> 01:03:34,000
+person in our mastermind in Dubai, the
+
+1547
+01:03:31,280 --> 01:03:37,280
+average business average was doing $30
+
+1548
+01:03:34,000 --> 01:03:39,120
+million per year in revenue. There is
+
+1549
+01:03:37,280 --> 01:03:41,280
+not a better room that you can be in in
+
+1550
+01:03:39,120 --> 01:03:43,360
+the e-commerce space than the lead
+
+1551
+01:03:41,280 --> 01:03:46,320
+mastermind. And the data proves that.
+
+1552
+01:03:43,360 --> 01:03:48,080
+So, if you're going to be in Miami, or
+
+1553
+01:03:46,320 --> 01:03:49,920
+if you're not, you should be there
+
+1554
+01:03:48,080 --> 01:03:52,640
+anyways.
+
+1555
+01:03:49,920 --> 01:03:54,880
+Um, let me see if I dropped the link in
+
+1556
+01:03:52,640 --> 01:03:57,280
+the description for this. Uh, yes, I
+
+1557
+01:03:54,880 --> 01:03:58,720
+did. Second link in the description to
+
+1558
+01:03:57,280 --> 01:04:00,000
+get your tickets to Elite Mastermind.
+
+1559
+01:03:58,720 --> 01:04:01,120
+Again, this is only for guys that are
+
+1560
+01:04:00,000 --> 01:04:04,800
+advanced. If you're not doing seven
+
+1561
+01:04:01,120 --> 01:04:06,560
+figures a year, this is not for you. But
+
+1562
+01:04:04,800 --> 01:04:07,920
+if you are and you want to hear me
+
+1563
+01:04:06,560 --> 01:04:09,520
+speak, you want to hear some of our
+
+1564
+01:04:07,920 --> 01:04:11,040
+amazing speakers that we have. We've got
+
+1565
+01:04:09,520 --> 01:04:12,480
+Stephan Georg. I actually I saw somebody
+
+1566
+01:04:11,040 --> 01:04:16,480
+comment in the chat. Stephan is going to
+
+1567
+01:04:12,480 --> 01:04:20,400
+be speaking. We have uh Ron Ron Shaw as
+
+1568
+01:04:16,480 --> 01:04:21,840
+well as Ash. Ron and Ash are amazing
+
+1569
+01:04:20,400 --> 01:04:24,080
+entrepreneurs. They run a brand called
+
+1570
+01:04:21,840 --> 01:04:27,520
+Obi, the uh the fat burning like
+
+1571
+01:04:24,080 --> 01:04:29,520
+collagen kind of brand. Um absolutely
+
+1572
+01:04:27,520 --> 01:04:32,480
+savages, incredibly sharp. Ron spoke at
+
+1573
+01:04:29,520 --> 01:04:34,560
+our last event and that was one of my
+
+1574
+01:04:32,480 --> 01:04:36,640
+favorite speeches of the entire event.
+
+1575
+01:04:34,560 --> 01:04:39,200
+Like this guy is operating on an
+
+1576
+01:04:36,640 --> 01:04:44,280
+incredibly high level.
+
+1577
+01:04:39,200 --> 01:04:44,280
+Um will I have a shirt on at this event?
+
+1578
+01:04:44,880 --> 01:04:48,240
+No promises. All right. No promises.
+
+1579
+01:04:46,960 --> 01:04:50,240
+Anyways guys, if you want to get
+
+1580
+01:04:48,240 --> 01:04:51,600
+tickets, second link in the description.
+
+1581
+01:04:50,240 --> 01:04:53,280
+All right, you can check it out. It's
+
+1582
+01:04:51,600 --> 01:04:54,800
+only available by application and we do
+
+1583
+01:04:53,280 --> 01:04:58,080
+that on purpose because we want to keep
+
+1584
+01:04:54,800 --> 01:04:59,440
+the quality of the event very high. So
+
+1585
+01:04:58,080 --> 01:05:00,960
+again, if you're doing over seven
+
+1586
+01:04:59,440 --> 01:05:04,000
+figures a year, second link in
+
+1587
+01:05:00,960 --> 01:05:07,640
+description, fill it out. Come see me.
+
+1588
+01:05:04,000 --> 01:05:07,640
+Come see me in person.
+
+1589
+01:05:09,840 --> 01:05:13,040
+All right, let's do one more question
+
+1590
+01:05:11,040 --> 01:05:14,560
+here or a few more. Hey Mark, do you
+
+1591
+01:05:13,040 --> 01:05:19,280
+still recommend Hicksfield AI for static
+
+1592
+01:05:14,560 --> 01:05:21,440
+ads? Yes, 100%. Hicksfield is amazing.
+
+1593
+01:05:19,280 --> 01:05:23,680
+Do you Do you think looking to rank on
+
+1594
+01:05:21,440 --> 01:05:27,440
+the LLM is something I should do at sub
+
+1595
+01:05:23,680 --> 01:05:29,040
+1k? Dude, [ __ ] no. [ __ ] no. Sub 1k
+
+1596
+01:05:27,440 --> 01:05:32,080
+monthly revenue, brother. You need
+
+1597
+01:05:29,040 --> 01:05:35,360
+customers now. Direct response all the
+
+1598
+01:05:32,080 --> 01:05:37,120
+way for the win. Don't worry about uh
+
+1599
+01:05:35,360 --> 01:05:41,040
+this is actually um I think it's called
+
+1600
+01:05:37,120 --> 01:05:43,200
+AIO instead of SEO. It's like ranking on
+
+1601
+01:05:41,040 --> 01:05:47,520
+like the AI summaries and inside actual
+
+1602
+01:05:43,200 --> 01:05:51,640
+LLMs, but I would not uh No, definitely
+
+1603
+01:05:47,520 --> 01:05:51,640
+not. Definitely not, dude.
+
+1604
+01:05:56,800 --> 01:05:59,840
+All right, legends. That's all the time
+
+1605
+01:05:58,400 --> 01:06:02,080
+I have for today. Thank you so much for
+
+1606
+01:05:59,840 --> 01:06:03,920
+being here. Let's have an amazing rest
+
+1607
+01:06:02,080 --> 01:06:05,600
+of our week. Let's run more ads. Let's
+
+1608
+01:06:03,920 --> 01:06:06,800
+scale. It is scaling season after all.
+
+1609
+01:06:05,600 --> 01:06:08,560
+Q4 is right around the corner. Let's
+
+1610
+01:06:06,800 --> 01:06:10,080
+have a good time. Let's have a ball. I'm
+
+1611
+01:06:08,560 --> 01:06:12,800
+going to the [ __ ] gym. I'll talk to
+
+1612
+01:06:10,080 --> 01:06:15,800
+y'all later.
+
+1613
+01:06:12,800 --> 01:06:15,800
+Peace.
+

@@ -1,0 +1,31 @@
+{
+  "post_id": "1428685012775788",
+  "url": "https://www.facebook.com/cnicsarl/posts/1428685012775788?locale=fr_FR",
+  "creation_time": 1792231043,
+  "date_iso": "2026-10-17T09:57:23+00:00",
+  "date_str": "2026-10-17 09:57:23 UTC",
+  "post_text": "Je suis d'accord avec vous sur ce point ou vous nous faites comprendre que certains marketeurs disent beaucoup des produits pour juste les vendre mais moi en tant que marketeur avnt de vendre un produit je fais plus de recherches sur mon produit et je me focalise sur les pathologies  auxquelles ils pourront travailler.",
+  "reactions_count": 90,
+  "shares_count": 1,
+  "comments_count": 1,
+  "top_reactions": [],
+  "comments": [
+    {
+      "comment_id": "2742693339574111",
+      "author": "Ulrich Brayan",
+      "text": "Je suis d'accord avec vous sur ce point ou vous nous faites comprendre que certains marketeurs disent beaucoup des produits pour juste les vendre mais moi en tant que marketeur avnt de vendre un produit je fais plus de recherches sur mon produit et je me focalise sur les pathologies  auxquelles ils pourront travailler."
+    }
+  ],
+  "image_urls": [
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854650795_1786192099098927_8490822249380751259_n.png?stp=dst-jpg_tt6&cstp=mx986x1440&ctp=p526x296&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gDMc1t812LAQ7kNvwEeDaJV&_nc_oc=AdrFjOvLecF9GA2MtCngq4ZaiF57P-IXRuyB5r4WXKGkqgXBFR_1bqFrgyME5YuRwu6IOJ4MlAeWY2Ky1T_EusjL&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=jpVMZDb2V_qX0AMdtT4zLg&_nc_ss=7f289&oh=00_AQN-vmedytbhYFmNjjh2Sjx6saEfETxjddMdK6j5EstP5w&oe=6AD9F2ED"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_08/images/image_01.png",
+      "size_bytes": 39160,
+      "cdn_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854650795_1786192099098927_8490822249380751259_n.png?stp=dst-jpg_tt6&cstp=mx986x1440&ctp=p526x296&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gDMc1t812LAQ7kNvwEeDaJV&_nc_oc=AdrFjOvLecF9GA2MtCngq4ZaiF57P-IXRuyB5r4WXKGkqgXBFR_1bqFrgyME5YuRwu6IOJ4MlAeWY2Ky1T_EusjL&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=jpVMZDb2V_qX0AMdtT4zLg&_nc_ss=7f289&oh=00_AQN-vmedytbhYFmNjjh2Sjx6saEfETxjddMdK6j5EstP5w&oe=6AD9F2ED"
+    }
+  ]
+}

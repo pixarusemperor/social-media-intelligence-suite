@@ -1,0 +1,1872 @@
+1
+00:00:00,000 --> 00:00:02,360
+Hey guys, Mark here. In this video I'm
+
+2
+00:00:01,480 --> 00:00:05,200
+going to show you how to get
+
+3
+00:00:02,360 --> 00:00:06,640
+disgustingly rich with AI image ads. AI
+
+4
+00:00:05,200 --> 00:00:08,360
+image ads are one of the greatest
+
+5
+00:00:06,640 --> 00:00:10,200
+inventions in the history of modern
+
+6
+00:00:08,360 --> 00:00:12,320
+advertising. The reason why is number
+
+7
+00:00:10,200 --> 00:00:13,600
+one, you can make them extremely fast,
+
+8
+00:00:12,320 --> 00:00:16,000
+especially what we're going to be using
+
+9
+00:00:13,600 --> 00:00:17,360
+today, Nano Banana Pro. You basically
+
+10
+00:00:16,000 --> 00:00:19,400
+don't need anything else. Like literally
+
+11
+00:00:17,360 --> 00:00:21,200
+that is the gold standard right now.
+
+12
+00:00:19,400 --> 00:00:23,120
+There's not even any reason to have
+
+13
+00:00:21,200 --> 00:00:24,520
+another model. Reason number two is
+
+14
+00:00:23,120 --> 00:00:26,200
+they're really cheap. A lot of times
+
+15
+00:00:24,520 --> 00:00:28,160
+you'll run video ads and you'll see your
+
+16
+00:00:26,200 --> 00:00:30,200
+ad costs will immediately rise just
+
+17
+00:00:28,160 --> 00:00:32,720
+because it's going from an image format
+
+18
+00:00:30,200 --> 00:00:34,160
+to a video. Videos are just expensive. A
+
+19
+00:00:32,720 --> 00:00:35,600
+lot of times because sometimes you get
+
+20
+00:00:34,160 --> 00:00:37,360
+higher quality traffic, but not always.
+
+21
+00:00:35,600 --> 00:00:39,440
+Some of my most successful ads in my
+
+22
+00:00:37,360 --> 00:00:40,760
+career have actually been images. Now,
+
+23
+00:00:39,440 --> 00:00:43,000
+the only problem with these two things
+
+24
+00:00:40,760 --> 00:00:45,480
+is that most people, despite this, still
+
+25
+00:00:43,000 --> 00:00:47,280
+have zero idea how to actually make good
+
+26
+00:00:45,480 --> 00:00:49,240
+image ads. Even if you have Nano Banana
+
+27
+00:00:47,280 --> 00:00:51,800
+Pro, it's not always as simple. What
+
+28
+00:00:49,240 --> 00:00:53,680
+most people do is just find a competitor
+
+29
+00:00:51,800 --> 00:00:54,920
+and just say, "Hey, remake this." And
+
+30
+00:00:53,680 --> 00:00:56,280
+you can do that, of course, and
+
+31
+00:00:54,920 --> 00:00:58,000
+sometimes it'll work, but there is a way
+
+32
+00:00:56,280 --> 00:00:59,680
+that is so much easier, so much better,
+
+33
+00:00:58,000 --> 00:01:01,080
+and will actually produce you real
+
+34
+00:00:59,680 --> 00:01:02,480
+winners that you can scale and make some
+
+35
+00:01:01,080 --> 00:01:03,760
+stupid [ __ ] money with. So, let's get
+
+36
+00:01:02,480 --> 00:01:05,440
+into it. Now, let's talk about something
+
+37
+00:01:03,760 --> 00:01:07,440
+that nobody actually talks about, which
+
+38
+00:01:05,440 --> 00:01:08,680
+is there's really two types of image ads
+
+39
+00:01:07,440 --> 00:01:10,440
+that you can run. And this is actually
+
+40
+00:01:08,680 --> 00:01:12,520
+something that, unlike most things in
+
+41
+00:01:10,440 --> 00:01:14,240
+the world, does actually exist on a
+
+42
+00:01:12,520 --> 00:01:17,800
+spectrum. On the left-hand side, you
+
+43
+00:01:14,240 --> 00:01:19,040
+have very indirect ads. Indirect ads are
+
+44
+00:01:17,800 --> 00:01:20,880
+essentially ads that you're running
+
+45
+00:01:19,040 --> 00:01:22,520
+where the person that's looking at the
+
+46
+00:01:20,880 --> 00:01:23,960
+ad is not super aware of the sales
+
+47
+00:01:22,520 --> 00:01:25,840
+process that's going on. And of course,
+
+48
+00:01:23,960 --> 00:01:27,720
+at the other side would be direct ads.
+
+49
+00:01:25,840 --> 00:01:29,560
+Direct ads, think of super bottom of
+
+50
+00:01:27,720 --> 00:01:31,480
+funnel retargeting ads. Hey, buy my
+
+51
+00:01:29,560 --> 00:01:33,560
+[ __ ] buy my [ __ ] buy my [ __ ] Here's
+
+52
+00:01:31,480 --> 00:01:35,560
+the reality of this spectrum. They both
+
+53
+00:01:33,560 --> 00:01:37,360
+actually work. They are both incredibly
+
+54
+00:01:35,560 --> 00:01:39,800
+effective and they can both sometimes
+
+55
+00:01:37,360 --> 00:01:42,160
+work on all different temperatures of
+
+56
+00:01:39,800 --> 00:01:43,680
+traffic, not just cold, warm, or hot.
+
+57
+00:01:42,160 --> 00:01:45,080
+But most of the times you'll see your
+
+58
+00:01:43,680 --> 00:01:46,360
+indirect ads be the ones that can scale
+
+59
+00:01:45,080 --> 00:01:47,160
+the most on cold. These are the ones
+
+60
+00:01:46,360 --> 00:01:48,800
+that are going to make you the most
+
+61
+00:01:47,160 --> 00:01:50,680
+amount of money. And then that direct,
+
+62
+00:01:48,800 --> 00:01:52,080
+more often than not, is what you use on
+
+63
+00:01:50,680 --> 00:01:53,520
+all your retargeting traffic. Still can
+
+64
+00:01:52,080 --> 00:01:55,680
+make you a lot of money, but just not at
+
+65
+00:01:53,520 --> 00:01:57,440
+the scale that these indirect ones can.
+
+66
+00:01:55,680 --> 00:01:58,760
+And notice, literally the only
+
+67
+00:01:57,440 --> 00:02:00,480
+difference between ads that are direct
+
+68
+00:01:58,760 --> 00:02:02,960
+versus ads that are indirect is their
+
+69
+00:02:00,480 --> 00:02:04,320
+level of awareness. This is fundamental
+
+70
+00:02:02,960 --> 00:02:06,400
+marketing knowledge, but if you're to
+
+71
+00:02:04,320 --> 00:02:08,080
+run a direct ad, where do you think that
+
+72
+00:02:06,400 --> 00:02:09,760
+mostly be? Well, I'd say mostly product
+
+73
+00:02:08,080 --> 00:02:11,280
+aware and most aware. Whereas if you're
+
+74
+00:02:09,760 --> 00:02:13,200
+running an unaware ad, then you're doing
+
+75
+00:02:11,280 --> 00:02:14,920
+more education, more persuasion, you're
+
+76
+00:02:13,200 --> 00:02:17,240
+using longer-form ad copy, maybe you're
+
+77
+00:02:14,920 --> 00:02:18,880
+using VSLs, maybe you're using long-form
+
+78
+00:02:17,240 --> 00:02:20,360
+primary text with your images. That's
+
+79
+00:02:18,880 --> 00:02:22,520
+going to be mostly the unaware and the
+
+80
+00:02:20,360 --> 00:02:24,080
+problem aware segment. Not always, but
+
+81
+00:02:22,520 --> 00:02:26,680
+that's generally a way that you can kind
+
+82
+00:02:24,080 --> 00:02:29,000
+of distinguish the two. Again, they both
+
+83
+00:02:26,680 --> 00:02:30,160
+work incredibly well. I see most people
+
+84
+00:02:29,000 --> 00:02:32,040
+that are making image ads, they're
+
+85
+00:02:30,160 --> 00:02:33,680
+typically residing over here, when in
+
+86
+00:02:32,040 --> 00:02:35,400
+reality, these are the ones that can
+
+87
+00:02:33,680 --> 00:02:37,000
+actually help you scale your account and
+
+88
+00:02:35,400 --> 00:02:38,120
+make you stupid [ __ ] money. But in
+
+89
+00:02:37,000 --> 00:02:39,680
+this video we're going to talk about
+
+90
+00:02:38,120 --> 00:02:40,880
+both. So, I'm inside my software Get
+
+91
+00:02:39,680 --> 00:02:41,960
+Hooked here. If you guys want to check
+
+92
+00:02:40,880 --> 00:02:44,360
+it out, hit the second link in the
+
+93
+00:02:41,960 --> 00:02:47,120
+description, but this is an example of a
+
+94
+00:02:44,360 --> 00:02:48,960
+direct ad. As you can see, it's one main
+
+95
+00:02:47,120 --> 00:02:50,920
+benefit statement, the product is in the
+
+96
+00:02:48,960 --> 00:02:53,360
+image, and then there's a few additional
+
+97
+00:02:50,920 --> 00:02:54,480
+features {slash} kind of benefit-driven
+
+98
+00:02:53,360 --> 00:02:56,160
+statements here. It's actually kind of
+
+99
+00:02:54,480 --> 00:02:58,040
+funny because this guy was clearly using
+
+100
+00:02:56,160 --> 00:03:00,200
+AI and not using it correctly because he
+
+101
+00:02:58,040 --> 00:03:01,920
+misspelled inflammation. And I literally
+
+102
+00:03:00,200 --> 00:03:03,880
+just noticed that right now. This is a
+
+103
+00:03:01,920 --> 00:03:05,880
+you know, relatively successful ad. But
+
+104
+00:03:03,880 --> 00:03:08,040
+anyways, this is an example of a direct
+
+105
+00:03:05,880 --> 00:03:10,240
+ad. Another great example here from
+
+106
+00:03:08,040 --> 00:03:12,000
+Blissy, very successful direct response
+
+107
+00:03:10,240 --> 00:03:14,200
+heavy brand as well, where there's an
+
+108
+00:03:12,000 --> 00:03:16,160
+offer, a testimonial, the product,
+
+109
+00:03:14,200 --> 00:03:17,680
+social proof. It's very simple, but it's
+
+110
+00:03:16,160 --> 00:03:18,960
+also very direct. Is this going to be
+
+111
+00:03:17,680 --> 00:03:20,400
+something that scales, you know,
+
+112
+00:03:18,960 --> 00:03:22,440
+hundreds of thousands of dollars worth
+
+113
+00:03:20,400 --> 00:03:23,600
+of ad spend on cold traffic? Probably
+
+114
+00:03:22,440 --> 00:03:25,200
+not, but you put that in your
+
+115
+00:03:23,600 --> 00:03:26,760
+retargeting campaigns, middle and bottom
+
+116
+00:03:25,200 --> 00:03:28,000
+of funnel, or just use them as middle
+
+117
+00:03:26,760 --> 00:03:29,960
+and bottom of funnel creatives, they're
+
+118
+00:03:28,000 --> 00:03:31,800
+likely going to be very profitable for
+
+119
+00:03:29,960 --> 00:03:33,400
+you at a lower scale. Now, indirect ads
+
+120
+00:03:31,800 --> 00:03:35,640
+on the other hand would be something
+
+121
+00:03:33,400 --> 00:03:37,600
+like this, which it is incredibly,
+
+122
+00:03:35,640 --> 00:03:39,280
+incredibly top of funnel. You're casting
+
+123
+00:03:37,600 --> 00:03:41,200
+a massively wide net. And what these
+
+124
+00:03:39,280 --> 00:03:43,160
+guys are doing, if you scroll down, is
+
+125
+00:03:41,200 --> 00:03:44,840
+they essentially have the image here
+
+126
+00:03:43,160 --> 00:03:46,520
+simply as a scroll stopper, which is a
+
+127
+00:03:44,840 --> 00:03:47,920
+super common, you know, what people call
+
+128
+00:03:46,520 --> 00:03:49,960
+like native ads, but it's been around
+
+129
+00:03:47,920 --> 00:03:51,760
+for [ __ ] ever. But this is where the
+
+130
+00:03:49,960 --> 00:03:53,280
+image is mostly just designed to get you
+
+131
+00:03:51,760 --> 00:03:54,600
+to stop scrolling. If you just look at
+
+132
+00:03:53,280 --> 00:03:56,040
+the image, I have no idea what's being
+
+133
+00:03:54,600 --> 00:03:57,840
+sold here. I'm not a [ __ ] clue. But
+
+134
+00:03:56,040 --> 00:03:59,880
+then you look at the ad copy and it's
+
+135
+00:03:57,840 --> 00:04:01,720
+old-school direct response long-form and
+
+136
+00:03:59,880 --> 00:04:03,840
+finally getting to whatever the [ __ ]
+
+137
+00:04:01,720 --> 00:04:06,880
+they're selling down here. Great example
+
+138
+00:04:03,840 --> 00:04:08,280
+of a indirect top of funnel ad. Again,
+
+139
+00:04:06,880 --> 00:04:10,440
+of course, made with AI. Here's another
+
+140
+00:04:08,280 --> 00:04:12,440
+good example of an indirect ad here. As
+
+141
+00:04:10,440 --> 00:04:14,040
+you can see, a lot of text on this one.
+
+142
+00:04:12,440 --> 00:04:15,600
+I'm actually not a huge fan of having a
+
+143
+00:04:14,040 --> 00:04:17,080
+ton of text on your image ads because a
+
+144
+00:04:15,600 --> 00:04:19,120
+lot of times you can see it increase
+
+145
+00:04:17,080 --> 00:04:20,240
+your CPMs, but sometimes it's worth it,
+
+146
+00:04:19,120 --> 00:04:22,280
+you know? In this case, this is
+
+147
+00:04:20,240 --> 00:04:25,280
+essentially like a news headline. She's
+
+148
+00:04:22,280 --> 00:04:26,680
+57 from Norway, here's why she has zero
+
+149
+00:04:25,280 --> 00:04:28,680
+belly fat. And then it's read the
+
+150
+00:04:26,680 --> 00:04:30,400
+article, going to a listicle, going to
+
+151
+00:04:28,680 --> 00:04:32,320
+an advertorial, the pre-sell them before
+
+152
+00:04:30,400 --> 00:04:34,800
+they actually buy. Once again, a
+
+153
+00:04:32,320 --> 00:04:36,040
+relatively solid indirect ad here. And
+
+154
+00:04:34,800 --> 00:04:37,120
+so, I'm going to show you in this video
+
+155
+00:04:36,040 --> 00:04:38,280
+how to make both of them, direct,
+
+156
+00:04:37,120 --> 00:04:40,120
+indirect. This method works for
+
+157
+00:04:38,280 --> 00:04:41,480
+everything. Now, for all of you lazy
+
+158
+00:04:40,120 --> 00:04:43,480
+[ __ ] out there, which is
+
+159
+00:04:41,480 --> 00:04:45,800
+probably the majority of you, you got to
+
+160
+00:04:43,480 --> 00:04:48,120
+understand that there are two ways that
+
+161
+00:04:45,800 --> 00:04:50,400
+you can make ads. You can either swipe,
+
+162
+00:04:48,120 --> 00:04:52,200
+which is just a marketer's way of saying
+
+163
+00:04:50,400 --> 00:04:53,360
+steal somebody else's ad and kind of
+
+164
+00:04:52,200 --> 00:04:56,000
+like adjust a little bit of it and rip
+
+165
+00:04:53,360 --> 00:04:58,520
+it for yourself, or number two, you can
+
+166
+00:04:56,000 --> 00:05:00,320
+create your own from scratch. And these
+
+167
+00:04:58,520 --> 00:05:02,280
+both have their place, to be honest. My
+
+168
+00:05:00,320 --> 00:05:04,160
+most successful ads have been ads that I
+
+169
+00:05:02,280 --> 00:05:06,320
+have created, not ads that I have
+
+170
+00:05:04,160 --> 00:05:08,080
+swiped. But swipes are typically going
+
+171
+00:05:06,320 --> 00:05:09,920
+to have a slightly higher win rate,
+
+172
+00:05:08,080 --> 00:05:11,000
+which means your likelihood of actually
+
+173
+00:05:09,920 --> 00:05:12,520
+having an ad that is successful and
+
+174
+00:05:11,000 --> 00:05:14,280
+profitable is higher, simply because
+
+175
+00:05:12,520 --> 00:05:15,720
+you're taking somebody else's data. This
+
+176
+00:05:14,280 --> 00:05:17,200
+competitor already tested this ad,
+
+177
+00:05:15,720 --> 00:05:18,280
+figured out that it was working, and
+
+178
+00:05:17,200 --> 00:05:19,920
+it's going to remake it for himself.
+
+179
+00:05:18,280 --> 00:05:21,240
+Now, let's start with swipes. As I said,
+
+180
+00:05:19,920 --> 00:05:22,560
+I'm going to show you both. The best way
+
+181
+00:05:21,240 --> 00:05:23,680
+to look at swipes is of course going to
+
+182
+00:05:22,560 --> 00:05:25,240
+be inside of Get Hooked. I know,
+
+183
+00:05:23,680 --> 00:05:26,600
+shameless plug, but you know, second
+
+184
+00:05:25,240 --> 00:05:28,560
+link in the description, you know? Get
+
+185
+00:05:26,600 --> 00:05:31,120
+Hooked on AI has an explore section,
+
+186
+00:05:28,560 --> 00:05:32,800
+which is basically like the ad library,
+
+187
+00:05:31,120 --> 00:05:34,840
+but on steroids. Every time there's a
+
+188
+00:05:32,800 --> 00:05:36,600
+new update published to the ad library,
+
+189
+00:05:34,840 --> 00:05:38,280
+we also publish it inside of Get Hooked.
+
+190
+00:05:36,600 --> 00:05:39,840
+Most recently, there is the like the low
+
+191
+00:05:38,280 --> 00:05:41,160
+impression score, high impression score,
+
+192
+00:05:39,840 --> 00:05:42,200
+so we also have that in here just for
+
+193
+00:05:41,160 --> 00:05:43,640
+those that are curious. But what you
+
+194
+00:05:42,200 --> 00:05:44,920
+want to do, go to left-hand side and
+
+195
+00:05:43,640 --> 00:05:46,440
+select ads that are at least four or
+
+196
+00:05:44,920 --> 00:05:47,720
+five stars. We're going to look for ads
+
+197
+00:05:46,440 --> 00:05:49,080
+that are images right now, so we're
+
+198
+00:05:47,720 --> 00:05:50,600
+going to select that. I want to see ads
+
+199
+00:05:49,080 --> 00:05:53,040
+that are still running and they've been
+
+200
+00:05:50,600 --> 00:05:54,400
+running for at least, let's say, 7 days.
+
+201
+00:05:53,040 --> 00:05:56,200
+Anything less than that is not going to
+
+202
+00:05:54,400 --> 00:05:57,120
+be proven. And then last thing, I don't
+
+203
+00:05:56,200 --> 00:05:58,400
+even know if you guys can see this, but
+
+204
+00:05:57,120 --> 00:06:00,440
+I'm going to put obviously ads in
+
+205
+00:05:58,400 --> 00:06:02,200
+English as well. And now, you quite
+
+206
+00:06:00,440 --> 00:06:04,800
+literally just take your pick. All of
+
+207
+00:06:02,200 --> 00:06:06,240
+these ads are successful in some rights.
+
+208
+00:06:04,800 --> 00:06:07,880
+Of course, we can't see exactly how much
+
+209
+00:06:06,240 --> 00:06:09,280
+ad spend, but obviously that'd be
+
+210
+00:06:07,880 --> 00:06:11,560
+something a little bit different. But
+
+211
+00:06:09,280 --> 00:06:13,120
+this is an incredible resource for you
+
+212
+00:06:11,560 --> 00:06:14,840
+to be able to create image ads. So, for
+
+213
+00:06:13,120 --> 00:06:16,600
+example, we look at one like this. Is
+
+214
+00:06:14,840 --> 00:06:17,720
+this direct or indirect? Obviously, this
+
+215
+00:06:16,600 --> 00:06:19,480
+is going to be more direct. We got the
+
+216
+00:06:17,720 --> 00:06:21,560
+product right in front of us, the price
+
+217
+00:06:19,480 --> 00:06:23,240
+on the image, a simple benefit
+
+218
+00:06:21,560 --> 00:06:25,640
+statement, and a call to action. This is
+
+219
+00:06:23,240 --> 00:06:27,160
+like the most basic ad of all time. Who
+
+220
+00:06:25,640 --> 00:06:28,480
+knows how successful it is, you know,
+
+221
+00:06:27,160 --> 00:06:30,200
+obviously successful at least a little
+
+222
+00:06:28,480 --> 00:06:31,600
+bit, maybe it's only as a retargeting
+
+223
+00:06:30,200 --> 00:06:33,680
+ad. But let me show you how to actually
+
+224
+00:06:31,600 --> 00:06:34,880
+recreate an ad like this in literally
+
+225
+00:06:33,680 --> 00:06:37,280
+less than 30 seconds. Now, whether
+
+226
+00:06:34,880 --> 00:06:39,080
+you're creating from a swipe or creating
+
+227
+00:06:37,280 --> 00:06:40,880
+from, you know, completely scratch, you
+
+228
+00:06:39,080 --> 00:06:42,040
+need to have your foundational docs,
+
+229
+00:06:40,880 --> 00:06:43,280
+okay? I'll leave the link to this
+
+230
+00:06:42,040 --> 00:06:45,640
+document in the description of this
+
+231
+00:06:43,280 --> 00:06:47,680
+video. This is the most important
+
+232
+00:06:45,640 --> 00:06:50,480
+document anytime you're creating ads
+
+233
+00:06:47,680 --> 00:06:51,600
+because this is the fuel for everything
+
+234
+00:06:50,480 --> 00:06:53,200
+that you write and everything that you
+
+235
+00:06:51,600 --> 00:06:54,400
+create. Why are your customers actually
+
+236
+00:06:53,200 --> 00:06:55,520
+buying? What is their level of
+
+237
+00:06:54,400 --> 00:06:57,040
+awareness? What is their level of
+
+238
+00:06:55,520 --> 00:06:58,600
+consciousness? What is their stage of
+
+239
+00:06:57,040 --> 00:07:00,200
+sophistication? If you don't know any
+
+240
+00:06:58,600 --> 00:07:01,840
+about what I just said, you definitely
+
+241
+00:07:00,200 --> 00:07:03,320
+need this document. So, just take some
+
+242
+00:07:01,840 --> 00:07:05,480
+time, follow the SOP, and what's going
+
+243
+00:07:03,320 --> 00:07:07,000
+to happen is you'll get an output of
+
+244
+00:07:05,480 --> 00:07:08,560
+four to five documents that are
+
+245
+00:07:07,000 --> 00:07:09,640
+essentially like your They're called the
+
+246
+00:07:08,560 --> 00:07:11,280
+foundational docs for a reason, like
+
+247
+00:07:09,640 --> 00:07:12,800
+it's literally your foundation to create
+
+248
+00:07:11,280 --> 00:07:14,080
+anything that you want. So, after you
+
+249
+00:07:12,800 --> 00:07:16,680
+have those documents, we're going to
+
+250
+00:07:14,080 --> 00:07:19,480
+head over to Gemini. The three main AI
+
+251
+00:07:16,680 --> 00:07:21,640
+models are ChatGPT, Gemini, and Claude.
+
+252
+00:07:19,480 --> 00:07:23,640
+And each of them have their own unique
+
+253
+00:07:21,640 --> 00:07:26,160
+version of essentially how you can kind
+
+254
+00:07:23,640 --> 00:07:27,640
+of pre-train a conversation and you
+
+255
+00:07:26,160 --> 00:07:28,720
+won't have to just like have all these
+
+256
+00:07:27,640 --> 00:07:30,000
+prompts, you know, that you're like
+
+257
+00:07:28,720 --> 00:07:31,880
+copy-pasting and copy-pasting. You only
+
+258
+00:07:30,000 --> 00:07:34,320
+have to do it once. For ChatGPT, it's
+
+259
+00:07:31,880 --> 00:07:36,160
+custom GPTs. For Claude, it's projects.
+
+260
+00:07:34,320 --> 00:07:38,160
+And for Gemini, it's custom gems. So,
+
+261
+00:07:36,160 --> 00:07:40,280
+all you have to do is go to Gemini and
+
+262
+00:07:38,160 --> 00:07:42,640
+select new gem. Now, if you want the
+
+263
+00:07:40,280 --> 00:07:44,160
+actual instructions to use in this
+
+264
+00:07:42,640 --> 00:07:45,760
+Gemini gem, as well as all the other
+
+265
+00:07:44,160 --> 00:07:46,880
+prompts associated with this video, just
+
+266
+00:07:45,760 --> 00:07:49,120
+go to my Instagram, it's
+
+267
+00:07:46,880 --> 00:07:50,800
+@markbuildsbrands, and DM me the word
+
+268
+00:07:49,120 --> 00:07:52,920
+spoon. You know why? Because I'm
+
+269
+00:07:50,800 --> 00:07:54,520
+spoon-feeding you guys right now with
+
+270
+00:07:52,920 --> 00:07:56,160
+how easy this is. You'll paste in the
+
+271
+00:07:54,520 --> 00:07:58,120
+instructions, and then the only other
+
+272
+00:07:56,160 --> 00:08:00,720
+thing you have to do is upload those
+
+273
+00:07:58,120 --> 00:08:02,680
+foundational documents as knowledge in
+
+274
+00:08:00,720 --> 00:08:04,120
+this Gemini gem. That is it. As soon as
+
+275
+00:08:02,680 --> 00:08:05,400
+you hit that, you can hit save, and
+
+276
+00:08:04,120 --> 00:08:06,680
+let's give it a test. Now, let's say
+
+277
+00:08:05,400 --> 00:08:08,280
+this is the ad that I wanted to
+
+278
+00:08:06,680 --> 00:08:10,040
+recreate. You guys want to see how easy
+
+279
+00:08:08,280 --> 00:08:11,160
+this process is? You're just going to go
+
+280
+00:08:10,040 --> 00:08:12,640
+inside of Get Hooked, you're going to
+
+281
+00:08:11,160 --> 00:08:14,400
+hit download media, you're going to go
+
+282
+00:08:12,640 --> 00:08:16,360
+to that Gemini gem that you just built,
+
+283
+00:08:14,400 --> 00:08:17,960
+and we are going to upload that directly
+
+284
+00:08:16,360 --> 00:08:19,520
+in the conversation and then hit enter.
+
+285
+00:08:17,960 --> 00:08:21,240
+You don't need to say anything, no
+
+286
+00:08:19,520 --> 00:08:23,400
+prompting, all the hard work is already
+
+287
+00:08:21,240 --> 00:08:24,720
+done because you have that knowledge
+
+288
+00:08:23,400 --> 00:08:26,560
+already built in and you have the
+
+289
+00:08:24,720 --> 00:08:29,200
+instructions already written. This will
+
+290
+00:08:26,560 --> 00:08:31,080
+run, it'll take 10 to 30 seconds, and
+
+291
+00:08:29,200 --> 00:08:33,240
+then you'll see the output. Now, in this
+
+292
+00:08:31,080 --> 00:08:35,000
+case, I'm using a demo brand and selling
+
+293
+00:08:33,240 --> 00:08:36,640
+filtered shower heads, so it's going to
+
+294
+00:08:35,000 --> 00:08:37,840
+be difficult to, you know, to get it to
+
+295
+00:08:36,640 --> 00:08:39,400
+work for this style of creative, but
+
+296
+00:08:37,840 --> 00:08:41,520
+let's see what we can do. So, basically
+
+297
+00:08:39,400 --> 00:08:43,360
+what it's doing is analyzing why this
+
+298
+00:08:41,520 --> 00:08:45,280
+was successful, turning it into a sort
+
+299
+00:08:43,360 --> 00:08:48,000
+of formula, coming up with options for
+
+300
+00:08:45,280 --> 00:08:49,920
+the copy, also including the branding so
+
+301
+00:08:48,000 --> 00:08:51,360
+that the ad doesn't look like this ad,
+
+302
+00:08:49,920 --> 00:08:53,480
+it's actually your own branding, your
+
+303
+00:08:51,360 --> 00:08:55,480
+own font, your own like everything looks
+
+304
+00:08:53,480 --> 00:08:56,480
+like your brand. And then down here, we
+
+305
+00:08:55,480 --> 00:08:58,360
+have the prompt. So, what we're going to
+
+306
+00:08:56,480 --> 00:09:00,200
+do is copy that prompt, and then we're
+
+307
+00:08:58,360 --> 00:09:02,040
+going to go into Higgs Field. Higgs
+
+308
+00:09:00,200 --> 00:09:03,920
+Field is still my favorite image
+
+309
+00:09:02,040 --> 00:09:05,840
+generation tool. If you want to just use
+
+310
+00:09:03,920 --> 00:09:07,640
+Gemini and Nano Banana Pro in there, you
+
+311
+00:09:05,840 --> 00:09:09,080
+can. The reason that I like Higgs Field
+
+312
+00:09:07,640 --> 00:09:11,200
+is because you can create so many
+
+313
+00:09:09,080 --> 00:09:12,760
+variations so freaking fast. As you can
+
+314
+00:09:11,200 --> 00:09:14,360
+see, before I was filming this video, I
+
+315
+00:09:12,760 --> 00:09:16,640
+was having some fun. Uh but it's just so
+
+316
+00:09:14,360 --> 00:09:18,440
+insane because this entire process, like
+
+317
+00:09:16,640 --> 00:09:20,160
+you can just have dozens of fire ad
+
+318
+00:09:18,440 --> 00:09:21,920
+concepts in like 20 minutes. But what
+
+319
+00:09:20,160 --> 00:09:23,880
+we're going to do is go ahead and paste
+
+320
+00:09:21,920 --> 00:09:25,280
+that entire prompt into the section down
+
+321
+00:09:23,880 --> 00:09:27,080
+here. Make sure you have Nano Banana Pro
+
+322
+00:09:25,280 --> 00:09:28,960
+selected. I'm in the one-to-one aspect
+
+323
+00:09:27,080 --> 00:09:30,680
+ratio, and I'm making four generations
+
+324
+00:09:28,960 --> 00:09:32,640
+here. Now, since this is an ad that has
+
+325
+00:09:30,680 --> 00:09:35,000
+the product featured in it, I'm just
+
+326
+00:09:32,640 --> 00:09:36,480
+also going to upload a PNG of my product
+
+327
+00:09:35,000 --> 00:09:37,520
+on a white background. Everything is
+
+328
+00:09:36,480 --> 00:09:39,120
+done at this point, we're going to hit
+
+329
+00:09:37,520 --> 00:09:40,920
+enter. Now, we have all those variations
+
+330
+00:09:39,120 --> 00:09:44,080
+loaded right here, and boom, we already
+
+331
+00:09:40,920 --> 00:09:45,840
+have eight damn near perfect generations
+
+332
+00:09:44,080 --> 00:09:47,440
+of these images. You can see the text,
+
+333
+00:09:45,840 --> 00:09:49,040
+there's zero issues with it, everything
+
+334
+00:09:47,440 --> 00:09:50,760
+is perfect, everything is crystal clear,
+
+335
+00:09:49,040 --> 00:09:53,760
+there's no misspellings, and it's still
+
+336
+00:09:50,760 --> 00:09:55,840
+modeling that main image. This is just
+
+337
+00:09:53,760 --> 00:09:57,720
+insane. Like we have amazing concepts
+
+338
+00:09:55,840 --> 00:09:58,800
+right here, it's perfectly on brand.
+
+339
+00:09:57,720 --> 00:10:00,440
+It's benefit-driven. There's
+
+340
+00:09:58,800 --> 00:10:02,840
+high-converting copy. What else do you
+
+341
+00:10:00,440 --> 00:10:04,200
+need at this point? Nothing.
+
+342
+00:10:02,840 --> 00:10:05,560
+So, from here, you just take your
+
+343
+00:10:04,200 --> 00:10:07,360
+favorite generation. If you want to make
+
+344
+00:10:05,560 --> 00:10:08,600
+any adjustments, you can. Maybe if you
+
+345
+00:10:07,360 --> 00:10:10,120
+want to change the copy, you're just
+
+346
+00:10:08,600 --> 00:10:12,680
+come here and adjust the prompt. The
+
+347
+00:10:10,120 --> 00:10:14,240
+only caveat here is if you have an ad
+
+348
+00:10:12,680 --> 00:10:15,480
+like this one, like say, and you're
+
+349
+00:10:14,240 --> 00:10:16,920
+like, "It's good, not great. I want to
+
+350
+00:10:15,480 --> 00:10:18,800
+make some adjustments." Just copy the
+
+351
+00:10:16,920 --> 00:10:19,840
+image, go into Gemini, and go back and
+
+352
+00:10:18,800 --> 00:10:21,400
+forth with Gemini making the
+
+353
+00:10:19,840 --> 00:10:23,720
+adjustments. It's that simple. You can
+
+354
+00:10:21,400 --> 00:10:25,440
+now literally just type a one-sentence
+
+355
+00:10:23,720 --> 00:10:27,040
+prompt and say, "Hey, fix this, change
+
+356
+00:10:25,440 --> 00:10:28,680
+this to that." And it'll do it perfectly
+
+357
+00:10:27,040 --> 00:10:30,440
+almost every single time. So, if it's
+
+358
+00:10:28,680 --> 00:10:31,880
+not quite perfect in Hicksfield, that's
+
+359
+00:10:30,440 --> 00:10:33,400
+what I do. They used to have an edit
+
+360
+00:10:31,880 --> 00:10:34,800
+option in here in Hicksfield. Unless I'm
+
+361
+00:10:33,400 --> 00:10:37,120
+[ __ ] which is, you know, very
+
+362
+00:10:34,800 --> 00:10:38,440
+likely, I don't see it anymore. So, you
+
+363
+00:10:37,120 --> 00:10:40,040
+can just go into Gemini and do it there.
+
+364
+00:10:38,440 --> 00:10:42,880
+So, just like that, you already have a
+
+365
+00:10:40,040 --> 00:10:45,200
+freaking billion ad ideas because swipes
+
+366
+00:10:42,880 --> 00:10:46,840
+are relatively easy, and they're usually
+
+367
+00:10:45,200 --> 00:10:48,400
+relatively profitable, too. Now, let's
+
+368
+00:10:46,840 --> 00:10:49,920
+talk about actually creating new ad
+
+369
+00:10:48,400 --> 00:10:51,600
+concepts from scratch. This is something
+
+370
+00:10:49,920 --> 00:10:53,760
+really cool because most people in the
+
+371
+00:10:51,600 --> 00:10:56,360
+space don't have more than four brain
+
+372
+00:10:53,760 --> 00:10:57,720
+cells combined up in their cranium. So,
+
+373
+00:10:56,360 --> 00:10:59,120
+if you're able to come up with original
+
+374
+00:10:57,720 --> 00:11:00,800
+ideas yourself, you can actually
+
+375
+00:10:59,120 --> 00:11:02,600
+separate yourself from the competition,
+
+376
+00:11:00,800 --> 00:11:04,200
+and you can use AI as a second brain to
+
+377
+00:11:02,600 --> 00:11:06,120
+come up with highly, highly unique ideas
+
+378
+00:11:04,200 --> 00:11:07,640
+that can scale before anybody else tries
+
+379
+00:11:06,120 --> 00:11:09,480
+to rip your ass. Unfortunately for you,
+
+380
+00:11:07,640 --> 00:11:10,520
+this process is also very simple. This
+
+381
+00:11:09,480 --> 00:11:12,080
+is what we're going to do. Instead of
+
+382
+00:11:10,520 --> 00:11:14,040
+being Gemini, we're going to head over
+
+383
+00:11:12,080 --> 00:11:16,040
+to Claude. Now that we're inside Claude,
+
+384
+00:11:14,040 --> 00:11:17,480
+what we're going to do is paste our
+
+385
+00:11:16,040 --> 00:11:19,480
+fancy-dancing little prompt again. If
+
+386
+00:11:17,480 --> 00:11:20,640
+you want to, just DM me Boone on
+
+387
+00:11:19,480 --> 00:11:22,240
+Instagram, and then we're going to
+
+388
+00:11:20,640 --> 00:11:23,400
+upload our foundational docs and go
+
+389
+00:11:22,240 --> 00:11:25,880
+ahead and hit enter. Make sure you have
+
+390
+00:11:23,400 --> 00:11:27,120
+Sonnet 4.5 selected. Having anything
+
+391
+00:11:25,880 --> 00:11:29,160
+more than that is overkill and
+
+392
+00:11:27,120 --> 00:11:30,280
+oftentimes even less effective. And now
+
+393
+00:11:29,160 --> 00:11:32,320
+that we completed that, we're going to
+
+394
+00:11:30,280 --> 00:11:33,640
+enter our second prompt. And while this
+
+395
+00:11:32,320 --> 00:11:34,840
+is loading, I'll kind of explain what
+
+396
+00:11:33,640 --> 00:11:37,840
+we're doing here. What we're really
+
+397
+00:11:34,840 --> 00:11:39,560
+doing is giving this Claude window all
+
+398
+00:11:37,840 --> 00:11:41,440
+of the context on our offer, on the
+
+399
+00:11:39,560 --> 00:11:44,200
+product, on the market, and then feeding
+
+400
+00:11:41,440 --> 00:11:46,480
+it a few different image ad concepts
+
+401
+00:11:44,200 --> 00:11:49,160
+ideas, and having it go deep into the
+
+402
+00:11:46,480 --> 00:11:51,320
+emotional research specifically to pull
+
+403
+00:11:49,160 --> 00:11:53,040
+out what are the real emotional hot
+
+404
+00:11:51,320 --> 00:11:55,120
+points, what are the real real triggers,
+
+405
+00:11:53,040 --> 00:11:57,360
+and then turning those into static ad
+
+406
+00:11:55,120 --> 00:11:59,120
+concepts. So, she'll be generating a few
+
+407
+00:11:57,360 --> 00:12:00,320
+as ready already, as you can see. So,
+
+408
+00:11:59,120 --> 00:12:02,240
+we'll take a concept like this, a
+
+409
+00:12:00,320 --> 00:12:04,000
+before-and-after transformation, very
+
+410
+00:12:02,240 --> 00:12:05,360
+proven, but can sometimes be risky to
+
+411
+00:12:04,000 --> 00:12:07,280
+add in your ad account. Good thing this
+
+412
+00:12:05,360 --> 00:12:09,000
+isn't an actual brand we're running
+
+413
+00:12:07,280 --> 00:12:10,560
+right now. Then, we're going to pop back
+
+414
+00:12:09,000 --> 00:12:12,320
+in Hicksfield, paste the prompt, hit
+
+415
+00:12:10,560 --> 00:12:13,800
+generate. In this case, you know, I did
+
+416
+00:12:12,320 --> 00:12:15,480
+take a quick glance, but there is no
+
+417
+00:12:13,800 --> 00:12:17,240
+product in this one. It is literally
+
+418
+00:12:15,480 --> 00:12:18,840
+just a kind of a before-and-after here.
+
+419
+00:12:17,240 --> 00:12:20,000
+So, we got the prompt, put into
+
+420
+00:12:18,840 --> 00:12:21,520
+Hicksfield, let's see what we get. All
+
+421
+00:12:20,000 --> 00:12:23,040
+right, we've got some good options here,
+
+422
+00:12:21,520 --> 00:12:24,320
+some very interesting options. We have
+
+423
+00:12:23,040 --> 00:12:26,760
+the one that I like the best here is
+
+424
+00:12:24,320 --> 00:12:27,920
+probably going to be either this one or
+
+425
+00:12:26,760 --> 00:12:29,960
+the one right next to it, which is this
+
+426
+00:12:27,920 --> 00:12:32,200
+one. But both very solid,
+
+427
+00:12:29,960 --> 00:12:34,520
+high-curiosity, high-top-of-funnel,
+
+428
+00:12:32,200 --> 00:12:36,280
+indirect ads that we created. Now, is
+
+429
+00:12:34,520 --> 00:12:37,920
+this really new concept? No, obviously.
+
+430
+00:12:36,280 --> 00:12:40,120
+Obviously, before-and-afters are nothing
+
+431
+00:12:37,920 --> 00:12:41,960
+new. But if you continue to run this
+
+432
+00:12:40,120 --> 00:12:43,920
+Claude process, guess what you can say.
+
+433
+00:12:41,960 --> 00:12:45,680
+Make me 10 more. Make me 20 more. Make
+
+434
+00:12:43,920 --> 00:12:47,240
+me 30 more. You can just keep going and
+
+435
+00:12:45,680 --> 00:12:48,520
+keep going and keep going. Not every
+
+436
+00:12:47,240 --> 00:12:49,960
+single one is going to be like
+
+437
+00:12:48,520 --> 00:12:51,640
+completely unique, nobody's ever thought
+
+438
+00:12:49,960 --> 00:12:53,320
+of it or done it before, but some of
+
+439
+00:12:51,640 --> 00:12:54,760
+them are. And even if it doesn't fall
+
+440
+00:12:53,320 --> 00:12:56,960
+into that category, maybe you can find a
+
+441
+00:12:54,760 --> 00:12:59,320
+unique spin on a proven concept, a
+
+442
+00:12:56,960 --> 00:13:01,000
+proven format of a static ad, and just
+
+443
+00:12:59,320 --> 00:13:02,800
+iterate, iterate, iterate, and you have
+
+444
+00:13:01,000 --> 00:13:04,280
+just a bunch of variations of highly
+
+445
+00:13:02,800 --> 00:13:06,120
+successful ad. Now, the last thing I
+
+446
+00:13:04,280 --> 00:13:07,280
+want to say in this video is for the
+
+447
+00:13:06,120 --> 00:13:09,120
+past few months, I've actually been
+
+448
+00:13:07,280 --> 00:13:11,600
+building something that I have literally
+
+449
+00:13:09,120 --> 00:13:13,480
+told nobody about. Not even my own team
+
+450
+00:13:11,600 --> 00:13:14,840
+knows about what I've been building. And
+
+451
+00:13:13,480 --> 00:13:17,320
+this is going to be something specific
+
+452
+00:13:14,840 --> 00:13:18,960
+for guys that are doing over $100,000
+
+453
+00:13:17,320 --> 00:13:20,560
+per month. So, if that's you and you're
+
+454
+00:13:18,960 --> 00:13:22,760
+listening to me speak these words right
+
+455
+00:13:20,560 --> 00:13:24,240
+now, I want you to click the third link
+
+456
+00:13:22,760 --> 00:13:25,880
+in the description and join my email
+
+457
+00:13:24,240 --> 00:13:27,480
+list because that is where I'm going to
+
+458
+00:13:25,880 --> 00:13:29,040
+be announcing the secret project I've
+
+459
+00:13:27,480 --> 00:13:30,920
+been working on very soon. So, if that's
+
+460
+00:13:29,040 --> 00:13:32,680
+you, go ahead there. Other than that, we
+
+461
+00:13:30,920 --> 00:13:34,080
+have plenty of training inside of Brand
+
+462
+00:13:32,680 --> 00:13:35,600
+Builders Academy, guys. If you want to
+
+463
+00:13:34,080 --> 00:13:37,680
+learn more about our AI image ad
+
+464
+00:13:35,600 --> 00:13:38,880
+process, AI videos, which is a whole
+
+465
+00:13:37,680 --> 00:13:40,280
+'nother thing. So, if you're interested,
+
+466
+00:13:38,880 --> 00:13:41,600
+you can always click the first link and
+
+467
+00:13:40,280 --> 00:13:45,280
+apply for that. Other than that, see you
+
+468
+00:13:41,600 --> 00:13:45,280
+guys in the next video. Peace.
+

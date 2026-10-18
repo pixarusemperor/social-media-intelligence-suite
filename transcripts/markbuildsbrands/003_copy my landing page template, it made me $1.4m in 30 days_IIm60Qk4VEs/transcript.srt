@@ -1,0 +1,4392 @@
+1
+00:00:00,000 --> 00:00:02,640
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,360 --> 00:00:04,560
+going to be showing you how you can copy
+
+3
+00:00:02,640 --> 00:00:06,960
+my landing page template that made me
+
+4
+00:00:04,560 --> 00:00:08,320
+$1.4 million in the last 30 days. And
+
+5
+00:00:06,960 --> 00:00:10,160
+the number one biggest mistake that I
+
+6
+00:00:08,320 --> 00:00:11,680
+see people make with their landers is
+
+7
+00:00:10,160 --> 00:00:13,440
+not that they don't have a good offer.
+
+8
+00:00:11,680 --> 00:00:14,960
+It's not that their price point is not
+
+9
+00:00:13,440 --> 00:00:16,800
+correct. All it is is that they're
+
+10
+00:00:14,960 --> 00:00:18,560
+optimizing for the wrong thing. They
+
+11
+00:00:16,800 --> 00:00:21,040
+think that if they optimize specifically
+
+12
+00:00:18,560 --> 00:00:22,400
+for aesthetics and they build the most
+
+13
+00:00:21,040 --> 00:00:23,600
+beautiful looking lander of all time
+
+14
+00:00:22,400 --> 00:00:25,680
+that it's going to convert. When in
+
+15
+00:00:23,600 --> 00:00:27,440
+reality, they're neglecting the single
+
+16
+00:00:25,680 --> 00:00:29,120
+most important things that actually move
+
+17
+00:00:27,440 --> 00:00:30,320
+the needle to help increase your
+
+18
+00:00:29,120 --> 00:00:31,920
+conversion rate. So, that's what I'm
+
+19
+00:00:30,320 --> 00:00:33,360
+going to be covering in this video in
+
+20
+00:00:31,920 --> 00:00:34,480
+detail. Now, before I get into the
+
+21
+00:00:33,360 --> 00:00:35,760
+actual template, there's a really
+
+22
+00:00:34,480 --> 00:00:38,320
+important distinction that I need to
+
+23
+00:00:35,760 --> 00:00:41,200
+make between what people call a PDP,
+
+24
+00:00:38,320 --> 00:00:42,720
+which is a product page, and a sales
+
+25
+00:00:41,200 --> 00:00:43,920
+page, because I actually view these
+
+26
+00:00:42,720 --> 00:00:45,120
+differently, and I want to be really
+
+27
+00:00:43,920 --> 00:00:49,200
+clear about the difference between the
+
+28
+00:00:45,120 --> 00:00:51,680
+two. A PDP is a templated Shopify page
+
+29
+00:00:49,200 --> 00:00:53,520
+that is applied across all products that
+
+30
+00:00:51,680 --> 00:00:55,840
+you are running on your Shopify store. I
+
+31
+00:00:53,520 --> 00:00:57,760
+think Shopify is great for most things,
+
+32
+00:00:55,840 --> 00:00:59,840
+but the one area that they really suck
+
+33
+00:00:57,760 --> 00:01:02,480
+is being able to have full control and
+
+34
+00:00:59,840 --> 00:01:04,000
+customizability over your PDPs and have
+
+35
+00:01:02,480 --> 00:01:05,520
+every individual page for different
+
+36
+00:01:04,000 --> 00:01:07,120
+products look a little bit differently.
+
+37
+00:01:05,520 --> 00:01:08,960
+Sales pages, on the other hand, are
+
+38
+00:01:07,120 --> 00:01:10,720
+usually built custom. This means they
+
+39
+00:01:08,960 --> 00:01:11,920
+could be built with Clawude. This could
+
+40
+00:01:10,720 --> 00:01:14,560
+mean that they're built through a page
+
+41
+00:01:11,920 --> 00:01:16,320
+builder such as Replo or Gem Pages, but
+
+42
+00:01:14,560 --> 00:01:18,400
+ultimately they give you a very, very
+
+43
+00:01:16,320 --> 00:01:20,240
+high degree of customizability. I
+
+44
+00:01:18,400 --> 00:01:22,800
+personally am more of a fan of sales
+
+45
+00:01:20,240 --> 00:01:24,240
+pages because you're able to control the
+
+46
+00:01:22,800 --> 00:01:26,080
+justification of your product
+
+47
+00:01:24,240 --> 00:01:28,720
+substantially more compared to a PDP
+
+48
+00:01:26,080 --> 00:01:30,320
+where typically is like a photo of your
+
+49
+00:01:28,720 --> 00:01:31,760
+product, little description, some
+
+50
+00:01:30,320 --> 00:01:33,600
+benefit statements, and then immediately
+
+51
+00:01:31,760 --> 00:01:35,440
+shows the price. I personally like to
+
+52
+00:01:33,600 --> 00:01:37,680
+control the perception of my product for
+
+53
+00:01:35,440 --> 00:01:39,280
+as long as I possibly can before I put
+
+54
+00:01:37,680 --> 00:01:40,720
+the price in front of them. And a lot of
+
+55
+00:01:39,280 --> 00:01:42,240
+times that leads to a higher conversion
+
+56
+00:01:40,720 --> 00:01:44,080
+rate. But in this video, even if you're
+
+57
+00:01:42,240 --> 00:01:45,280
+running PDPs, you can take away almost
+
+58
+00:01:44,080 --> 00:01:47,360
+everything that I'm talking about. I'm
+
+59
+00:01:45,280 --> 00:01:48,720
+just saying for technicality purposes. I
+
+60
+00:01:47,360 --> 00:01:50,480
+personally prefer sales pages. Whether
+
+61
+00:01:48,720 --> 00:01:52,800
+you're running a PDP or a sales page
+
+62
+00:01:50,480 --> 00:01:54,480
+matters less. What really matters is the
+
+63
+00:01:52,800 --> 00:01:56,160
+purpose of the pages and understanding
+
+64
+00:01:54,480 --> 00:01:57,680
+why you run them. The purpose is not to
+
+65
+00:01:56,160 --> 00:01:59,520
+sell the product. Don't get it twisted.
+
+66
+00:01:57,680 --> 00:02:01,120
+The purpose of these pages, yes, I said
+
+67
+00:01:59,520 --> 00:02:03,440
+this, is not to sell the product. It is
+
+68
+00:02:01,120 --> 00:02:04,880
+to sell the outcome. Nobody buys a
+
+69
+00:02:03,440 --> 00:02:07,120
+product for the product's sake. They buy
+
+70
+00:02:04,880 --> 00:02:08,320
+a product for what it can do for them.
+
+71
+00:02:07,120 --> 00:02:10,480
+So, you've probably heard people talk
+
+72
+00:02:08,320 --> 00:02:12,000
+about features, which is like specific
+
+73
+00:02:10,480 --> 00:02:13,600
+things about the product itself. And
+
+74
+00:02:12,000 --> 00:02:15,760
+then there's benefits, but you can go
+
+75
+00:02:13,600 --> 00:02:17,680
+even deeper into the ultimate outcome,
+
+76
+00:02:15,760 --> 00:02:19,600
+which is essentially like the emotional
+
+77
+00:02:17,680 --> 00:02:21,120
+state that people get in after they get
+
+78
+00:02:19,600 --> 00:02:22,800
+the benefits of the product. So, it's
+
+79
+00:02:21,120 --> 00:02:24,320
+even deeper than benefits because these
+
+80
+00:02:22,800 --> 00:02:26,000
+two are good and you should have them on
+
+81
+00:02:24,320 --> 00:02:27,440
+your page, but ultimately everybody buys
+
+82
+00:02:26,000 --> 00:02:29,280
+for an outcome. Now, another really
+
+83
+00:02:27,440 --> 00:02:30,720
+important thing before the actual
+
+84
+00:02:29,280 --> 00:02:32,560
+template, and I know you're thinking,
+
+85
+00:02:30,720 --> 00:02:34,240
+Mark, why are you talking about traffic
+
+86
+00:02:32,560 --> 00:02:35,600
+on a video that's about landing pages?
+
+87
+00:02:34,240 --> 00:02:37,520
+Give me the goddamn template. The truth
+
+88
+00:02:35,600 --> 00:02:39,840
+is, if you don't understand the full
+
+89
+00:02:37,520 --> 00:02:41,040
+comprehensive view from the ads, the
+
+90
+00:02:39,840 --> 00:02:42,720
+quality of the traffic that you're
+
+91
+00:02:41,040 --> 00:02:44,720
+driving from which platforms onto your
+
+92
+00:02:42,720 --> 00:02:46,000
+funnel architecture, then you're always
+
+93
+00:02:44,720 --> 00:02:47,280
+going to be capped in your conversion
+
+94
+00:02:46,000 --> 00:02:48,800
+rate. You're going to try to solve the
+
+95
+00:02:47,280 --> 00:02:50,160
+wrong problem. Maybe the problem isn't
+
+96
+00:02:48,800 --> 00:02:51,520
+actually your land yourself. It actually
+
+97
+00:02:50,160 --> 00:02:53,040
+is something with your traffic. But the
+
+98
+00:02:51,520 --> 00:02:55,600
+reason that I say this is so important
+
+99
+00:02:53,040 --> 00:02:57,040
+to know is because obviously the
+
+100
+00:02:55,600 --> 00:02:59,040
+temperature of your traffic, which is
+
+101
+00:02:57,040 --> 00:03:00,560
+basically how many touch points have you
+
+102
+00:02:59,040 --> 00:03:02,080
+already had with your potential
+
+103
+00:03:00,560 --> 00:03:03,280
+customers before they buy, is going to
+
+104
+00:03:02,080 --> 00:03:05,200
+affect where you should send them. And
+
+105
+00:03:03,280 --> 00:03:07,200
+what I mean by that is typically you can
+
+106
+00:03:05,200 --> 00:03:08,560
+think of three main types of traffic,
+
+107
+00:03:07,200 --> 00:03:10,160
+right? You have top of funnel, you have
+
+108
+00:03:08,560 --> 00:03:11,520
+middle of funnel, and you have bottom of
+
+109
+00:03:10,160 --> 00:03:13,440
+funnel. If you are running an
+
+110
+00:03:11,520 --> 00:03:15,120
+advertorial funnel, let's say, and you
+
+111
+00:03:13,440 --> 00:03:16,800
+have some bottom off ofunnel creatives,
+
+112
+00:03:15,120 --> 00:03:19,680
+are you going to send them through this
+
+113
+00:03:16,800 --> 00:03:21,040
+long multi-step [ __ ] funnel where
+
+114
+00:03:19,680 --> 00:03:22,560
+they have to click through four separate
+
+115
+00:03:21,040 --> 00:03:24,080
+pages before they can even buy your
+
+116
+00:03:22,560 --> 00:03:25,440
+product. They've already had so many
+
+117
+00:03:24,080 --> 00:03:26,800
+impressions with your brand. They've
+
+118
+00:03:25,440 --> 00:03:28,240
+clicked through your advtorial before
+
+119
+00:03:26,800 --> 00:03:30,080
+and you're going to lose out on a lot of
+
+120
+00:03:28,240 --> 00:03:32,000
+sales from people that are already ready
+
+121
+00:03:30,080 --> 00:03:34,000
+to buy. So if you're not properly
+
+122
+00:03:32,000 --> 00:03:35,440
+matching the temperature with the type
+
+123
+00:03:34,000 --> 00:03:37,680
+of landing page that you're running to,
+
+124
+00:03:35,440 --> 00:03:39,440
+then you're just wasting ad spend. The
+
+125
+00:03:37,680 --> 00:03:41,600
+other thing to keep in mind is traffic
+
+126
+00:03:39,440 --> 00:03:43,840
+quality driven by the types of ads that
+
+127
+00:03:41,600 --> 00:03:48,160
+you run. So I remember this was mostly
+
+128
+00:03:43,840 --> 00:03:49,680
+in 2024 2025 there was a format of ad
+
+129
+00:03:48,160 --> 00:03:51,200
+that was doing really really well and
+
+130
+00:03:49,680 --> 00:03:53,760
+honestly it still can do really well
+
+131
+00:03:51,200 --> 00:03:56,400
+which is a you know a long form VSSL.
+
+132
+00:03:53,760 --> 00:03:58,400
+Think of an infeed ad that is roughly 8
+
+133
+00:03:56,400 --> 00:04:00,160
+to 12 minutes long. I know it's long,
+
+134
+00:03:58,400 --> 00:04:01,440
+but it was working at the time and I was
+
+135
+00:04:00,160 --> 00:04:03,600
+running a lot of them. And so with long
+
+136
+00:04:01,440 --> 00:04:05,120
+form VSSLs, once again, this is all a
+
+137
+00:04:03,600 --> 00:04:07,040
+question of consumption. How much
+
+138
+00:04:05,120 --> 00:04:08,640
+consumption have people already had with
+
+139
+00:04:07,040 --> 00:04:10,160
+your content, your ads, your brand, your
+
+140
+00:04:08,640 --> 00:04:11,360
+landers? That's going to determine where
+
+141
+00:04:10,160 --> 00:04:12,960
+you should be sending the traffic to.
+
+142
+00:04:11,360 --> 00:04:15,040
+Now, the reason I made this video about
+
+143
+00:04:12,960 --> 00:04:16,800
+sales pages specifically is because
+
+144
+00:04:15,040 --> 00:04:18,480
+every single funnel, for the most part,
+
+145
+00:04:16,800 --> 00:04:19,840
+with very few exceptions, has a sales
+
+146
+00:04:18,480 --> 00:04:21,280
+page. If you're running an aviatorial
+
+147
+00:04:19,840 --> 00:04:22,960
+funnel, it's typically the advvertorial
+
+148
+00:04:21,280 --> 00:04:24,640
+to the sales page or the advvertorial to
+
+149
+00:04:22,960 --> 00:04:26,240
+the PDP. or if you're running a
+
+150
+00:04:24,640 --> 00:04:28,160
+quizunnel, it's typically, you know, the
+
+151
+00:04:26,240 --> 00:04:29,760
+quiz to a sales page, maybe with the
+
+152
+00:04:28,160 --> 00:04:31,760
+offer or checkout at the bottom. So,
+
+153
+00:04:29,760 --> 00:04:33,600
+this applies universally. That's why I'm
+
+154
+00:04:31,760 --> 00:04:35,760
+not making a video specifically about
+
+155
+00:04:33,600 --> 00:04:37,920
+advertorials, for example. This is one
+
+156
+00:04:35,760 --> 00:04:39,840
+of the most important pages in your
+
+157
+00:04:37,920 --> 00:04:42,400
+entire funnel. So, back to this law of
+
+158
+00:04:39,840 --> 00:04:44,160
+consumption. You need to be aware of the
+
+159
+00:04:42,400 --> 00:04:45,840
+types of ads and how much consumption
+
+160
+00:04:44,160 --> 00:04:47,200
+they're getting and where you should be
+
+161
+00:04:45,840 --> 00:04:48,560
+sending them. Once again, if you're
+
+162
+00:04:47,200 --> 00:04:50,080
+running, for example, a format that's
+
+163
+00:04:48,560 --> 00:04:51,440
+really popular right now, say you're
+
+164
+00:04:50,080 --> 00:04:54,000
+running something like, you know, native
+
+165
+00:04:51,440 --> 00:04:56,640
+statics, which is image ads with long
+
+166
+00:04:54,000 --> 00:04:58,240
+form ad copy, this is a very indirect
+
+167
+00:04:56,640 --> 00:05:01,360
+type of ad. So, if you're running like
+
+168
+00:04:58,240 --> 00:05:04,000
+UGC or some offerheavy statics, those
+
+169
+00:05:01,360 --> 00:05:05,600
+are going to be pretty far on the direct
+
+170
+00:05:04,000 --> 00:05:07,440
+side of the spectrum. And on this other
+
+171
+00:05:05,600 --> 00:05:09,440
+side, you have indirect. Native statics
+
+172
+00:05:07,440 --> 00:05:11,280
+are basically as indirect as you could
+
+173
+00:05:09,440 --> 00:05:12,800
+possibly get. Therefore, that's why it's
+
+174
+00:05:11,280 --> 00:05:14,240
+so difficult for you to convert them
+
+175
+00:05:12,800 --> 00:05:15,680
+when you only send them directly to a
+
+176
+00:05:14,240 --> 00:05:18,080
+sales page instead of having like an
+
+177
+00:05:15,680 --> 00:05:20,480
+advvertorial before or a listical before
+
+178
+00:05:18,080 --> 00:05:22,240
+or a quiz before. All these things
+
+179
+00:05:20,480 --> 00:05:23,600
+matter in context with one another. And
+
+180
+00:05:22,240 --> 00:05:24,640
+if you don't understand them, then
+
+181
+00:05:23,600 --> 00:05:26,000
+you're going to end up thinking that you
+
+182
+00:05:24,640 --> 00:05:27,840
+have a landing page problem when in
+
+183
+00:05:26,000 --> 00:05:29,920
+reality, you're actually getting a
+
+184
+00:05:27,840 --> 00:05:31,120
+discount the more indirect that you are.
+
+185
+00:05:29,920 --> 00:05:32,880
+Typically, if you're running something
+
+186
+00:05:31,120 --> 00:05:34,480
+like native statics, you should have
+
+187
+00:05:32,880 --> 00:05:36,480
+lower CPCs. you should have
+
+188
+00:05:34,480 --> 00:05:38,320
+substantially lower CPCs and very
+
+189
+00:05:36,480 --> 00:05:39,280
+elevated CTRs, which means naturally
+
+190
+00:05:38,320 --> 00:05:40,640
+you're probably going to have a little
+
+191
+00:05:39,280 --> 00:05:42,480
+bit lower of a conversion rate, but
+
+192
+00:05:40,640 --> 00:05:44,080
+that's okay because you're getting a
+
+193
+00:05:42,480 --> 00:05:46,400
+discount on that traffic. And as long as
+
+194
+00:05:44,080 --> 00:05:48,000
+your funnel matches how indirect your
+
+195
+00:05:46,400 --> 00:05:49,440
+ads are, that's how you make really
+
+196
+00:05:48,000 --> 00:05:50,800
+profitable funnels. So, now that we got
+
+197
+00:05:49,440 --> 00:05:52,400
+that out of the way, let's actually move
+
+198
+00:05:50,800 --> 00:05:53,840
+on to the template. And when you're
+
+199
+00:05:52,400 --> 00:05:55,840
+running traffic to a lander, doesn't
+
+200
+00:05:53,840 --> 00:05:58,000
+matter what lander it is, it's a very
+
+201
+00:05:55,840 --> 00:06:00,720
+simple combination of a few things. You
+
+202
+00:05:58,000 --> 00:06:02,560
+have text on the page. You have your
+
+203
+00:06:00,720 --> 00:06:04,640
+media on the page, which would be your
+
+204
+00:06:02,560 --> 00:06:06,160
+images, your videos, your gifts. And
+
+205
+00:06:04,640 --> 00:06:08,400
+when you break it down to its component
+
+206
+00:06:06,160 --> 00:06:10,640
+pieces, that's actually it. That's all a
+
+207
+00:06:08,400 --> 00:06:13,040
+landing page is. It's just a individual
+
+208
+00:06:10,640 --> 00:06:15,200
+web page with text and media arranged in
+
+209
+00:06:13,040 --> 00:06:17,120
+a very specific way. The most important
+
+210
+00:06:15,200 --> 00:06:18,480
+thing, whether it's the copy that is on
+
+211
+00:06:17,120 --> 00:06:20,000
+your page, which is the text, or the
+
+212
+00:06:18,480 --> 00:06:23,280
+images and the video, is that they're
+
+213
+00:06:20,000 --> 00:06:25,200
+all in perfect alignment with your
+
+214
+00:06:23,280 --> 00:06:26,720
+research. If you study some of the
+
+215
+00:06:25,200 --> 00:06:28,880
+greatest direct response marketers of
+
+216
+00:06:26,720 --> 00:06:31,360
+all time, especially the copywriters,
+
+217
+00:06:28,880 --> 00:06:33,040
+you will see that they spent the far far
+
+218
+00:06:31,360 --> 00:06:34,960
+majority of their time building a new
+
+219
+00:06:33,040 --> 00:06:36,720
+promotion on the research phase. And now
+
+220
+00:06:34,960 --> 00:06:39,360
+this is actually pretty freaking easy
+
+221
+00:06:36,720 --> 00:06:41,280
+with AI, especially every LLM has a
+
+222
+00:06:39,360 --> 00:06:42,880
+built-in deep research tool. And as long
+
+223
+00:06:41,280 --> 00:06:45,200
+as you have really good prompting, then
+
+224
+00:06:42,880 --> 00:06:47,600
+you can get incredibly good marketing
+
+225
+00:06:45,200 --> 00:06:49,200
+driven research for your image creation,
+
+226
+00:06:47,600 --> 00:06:51,280
+your video creation, and your actual
+
+227
+00:06:49,200 --> 00:06:52,960
+copy. And for those that know, I have a
+
+228
+00:06:51,280 --> 00:06:54,800
+document that has helped God knows how
+
+229
+00:06:52,960 --> 00:06:56,320
+many people, you know, be able to write
+
+230
+00:06:54,800 --> 00:06:57,680
+good copy and create good images because
+
+231
+00:06:56,320 --> 00:07:00,000
+they just have good research. And that
+
+232
+00:06:57,680 --> 00:07:01,440
+is the foundational docs SOP. If you go
+
+233
+00:07:00,000 --> 00:07:03,440
+through this process, you'll come out
+
+234
+00:07:01,440 --> 00:07:05,760
+with four documents that is everything
+
+235
+00:07:03,440 --> 00:07:08,000
+that you need to know. Every individual,
+
+236
+00:07:05,760 --> 00:07:10,640
+I like to call copy ingredient that you
+
+237
+00:07:08,000 --> 00:07:12,480
+need to create an incredible promotion,
+
+238
+00:07:10,640 --> 00:07:13,600
+an incredible landing page, ad,
+
+239
+00:07:12,480 --> 00:07:15,120
+whatever. You can use this with
+
+240
+00:07:13,600 --> 00:07:16,880
+everything. I always leave this for free
+
+241
+00:07:15,120 --> 00:07:18,560
+linked in the description of this video
+
+242
+00:07:16,880 --> 00:07:20,160
+if you want to use it. Plus, as a little
+
+243
+00:07:18,560 --> 00:07:22,720
+bonus, I've actually noticed recently
+
+244
+00:07:20,160 --> 00:07:24,080
+Perplexity is incredible with their deep
+
+245
+00:07:22,720 --> 00:07:25,760
+research functionality, and that's
+
+246
+00:07:24,080 --> 00:07:28,080
+almost exclusively what I use right now.
+
+247
+00:07:25,760 --> 00:07:30,160
+The most impactful section of your
+
+248
+00:07:28,080 --> 00:07:31,760
+landing page and of this template is
+
+249
+00:07:30,160 --> 00:07:33,520
+what we call the above the fold section,
+
+250
+00:07:31,760 --> 00:07:35,680
+and that is everything on desktop
+
+251
+00:07:33,520 --> 00:07:37,840
+specifically, that is not needing to
+
+252
+00:07:35,680 --> 00:07:40,160
+scroll to see more content. So, whatever
+
+253
+00:07:37,840 --> 00:07:41,760
+you load on on your page load, that is
+
+254
+00:07:40,160 --> 00:07:43,040
+the above the fold section. And it's the
+
+255
+00:07:41,760 --> 00:07:44,480
+exact same thing on mobile, except
+
+256
+00:07:43,040 --> 00:07:46,400
+there's going to be substantially less
+
+257
+00:07:44,480 --> 00:07:47,840
+content because you're on a smaller
+
+258
+00:07:46,400 --> 00:07:49,200
+screen naturally. So, what I'm going to
+
+259
+00:07:47,840 --> 00:07:51,680
+do is I'm going to pull up an example
+
+260
+00:07:49,200 --> 00:07:54,320
+here of a lander that has a really,
+
+261
+00:07:51,680 --> 00:07:55,840
+really good structure and pretty decent
+
+262
+00:07:54,320 --> 00:07:57,200
+copy from what I've seen. And it's a
+
+263
+00:07:55,840 --> 00:07:59,040
+really, really good one to break down
+
+264
+00:07:57,200 --> 00:08:01,600
+because they do a lot of things right
+
+265
+00:07:59,040 --> 00:08:03,840
+now. Final caveat here. The best way to
+
+266
+00:08:01,600 --> 00:08:05,360
+view CRO and building landing pages, it
+
+267
+00:08:03,840 --> 00:08:07,680
+should almost always be done in mobile.
+
+268
+00:08:05,360 --> 00:08:09,040
+Like 95% of everything that you do
+
+269
+00:08:07,680 --> 00:08:10,640
+regarding conversion rate stuff should
+
+270
+00:08:09,040 --> 00:08:12,480
+be done in mobile because that's where
+
+271
+00:08:10,640 --> 00:08:14,560
+95% of your traffic is going to be
+
+272
+00:08:12,480 --> 00:08:17,040
+coming from. But truthfully, this looks
+
+273
+00:08:14,560 --> 00:08:19,520
+kind of like [ __ ] on my computer sharing
+
+274
+00:08:17,040 --> 00:08:21,520
+screen. So, just for simplicity and
+
+275
+00:08:19,520 --> 00:08:23,360
+clarity purposes for you guys, I'm going
+
+276
+00:08:21,520 --> 00:08:25,040
+to be reviewing in desktop mode. But
+
+277
+00:08:23,360 --> 00:08:26,640
+just for this example, all of the above
+
+278
+00:08:25,040 --> 00:08:28,320
+the fold section would be here. We have
+
+279
+00:08:26,640 --> 00:08:29,840
+the brand name, we have a banner, we
+
+280
+00:08:28,320 --> 00:08:30,960
+have an image carousel, we have a little
+
+281
+00:08:29,840 --> 00:08:32,400
+bit of social proof, and we have a
+
+282
+00:08:30,960 --> 00:08:33,840
+benefit statement. That is all that is
+
+283
+00:08:32,400 --> 00:08:35,520
+above the fold for these guys. So, let's
+
+284
+00:08:33,840 --> 00:08:37,360
+break down what a good above the fold
+
+285
+00:08:35,520 --> 00:08:39,360
+section looks. The first is going to be
+
+286
+00:08:37,360 --> 00:08:41,840
+the photo carousel. And I see a lot of
+
+287
+00:08:39,360 --> 00:08:43,680
+guys that are super duper random and
+
+288
+00:08:41,840 --> 00:08:45,600
+arbitrary with the photos that they're
+
+289
+00:08:43,680 --> 00:08:47,680
+using in their carousel. Understand
+
+290
+00:08:45,600 --> 00:08:49,680
+this. Every single element on your
+
+291
+00:08:47,680 --> 00:08:51,120
+landing page should have a purpose. If I
+
+292
+00:08:49,680 --> 00:08:52,480
+ask you and I point at something on your
+
+293
+00:08:51,120 --> 00:08:54,560
+lander and I say, "What's the purpose of
+
+294
+00:08:52,480 --> 00:08:56,080
+this?" and you can't tell me, then you
+
+295
+00:08:54,560 --> 00:08:57,760
+need to improve your landing page
+
+296
+00:08:56,080 --> 00:08:58,880
+skills. Everything should be purposeful.
+
+297
+00:08:57,760 --> 00:09:00,240
+I see a lot of guys that are using
+
+298
+00:08:58,880 --> 00:09:02,080
+images on their photo carousel
+
+299
+00:09:00,240 --> 00:09:03,680
+especially that just they think it looks
+
+300
+00:09:02,080 --> 00:09:05,600
+good. That's not the purpose. The first
+
+301
+00:09:03,680 --> 00:09:07,520
+thing people do when they land on a page
+
+302
+00:09:05,600 --> 00:09:09,040
+like this, especially on mobile, is they
+
+303
+00:09:07,520 --> 00:09:10,640
+scroll through the images. So, if you're
+
+304
+00:09:09,040 --> 00:09:11,840
+not being intentional with your images,
+
+305
+00:09:10,640 --> 00:09:13,520
+especially with the above the fold
+
+306
+00:09:11,840 --> 00:09:15,040
+section, you're losing out on a lot of
+
+307
+00:09:13,520 --> 00:09:17,200
+money. And so, what I've done is come up
+
+308
+00:09:15,040 --> 00:09:19,040
+with a a simple cadence that you can use
+
+309
+00:09:17,200 --> 00:09:20,960
+and feel free to steal. This is not a
+
+310
+00:09:19,040 --> 00:09:23,280
+hard rule by any means, but the first
+
+311
+00:09:20,960 --> 00:09:25,360
+image typically should just be a very
+
+312
+00:09:23,280 --> 00:09:26,880
+standard hero image of the product.
+
+313
+00:09:25,360 --> 00:09:28,640
+Doesn't need to be in use. Just needs to
+
+314
+00:09:26,880 --> 00:09:30,400
+be clear what the product is, what it
+
+315
+00:09:28,640 --> 00:09:32,160
+looks like, and generally what it does.
+
+316
+00:09:30,400 --> 00:09:33,760
+Now, as soon as they swipe, and what
+
+317
+00:09:32,160 --> 00:09:35,600
+this brand does really well, you want to
+
+318
+00:09:33,760 --> 00:09:37,600
+show a transformation. If it's something
+
+319
+00:09:35,600 --> 00:09:39,600
+cosmetic, like in this case, you can do
+
+320
+00:09:37,600 --> 00:09:41,120
+literally just a before and after. And
+
+321
+00:09:39,600 --> 00:09:42,400
+before and afters, while they can
+
+322
+00:09:41,120 --> 00:09:44,480
+sometimes be like a little bit
+
+323
+00:09:42,400 --> 00:09:46,080
+aggressive, nothing [ __ ] sells like a
+
+324
+00:09:44,480 --> 00:09:48,960
+before and after. Like, it is one of the
+
+325
+00:09:46,080 --> 00:09:50,960
+most proven image formats of all time.
+
+326
+00:09:48,960 --> 00:09:52,480
+And this brand even did two before and
+
+327
+00:09:50,960 --> 00:09:54,160
+afters in a row kind of different
+
+328
+00:09:52,480 --> 00:09:56,000
+formats. This is like a top bottom
+
+329
+00:09:54,160 --> 00:09:57,280
+before and after. And then we have a
+
+330
+00:09:56,000 --> 00:09:58,960
+left right. And you can see it's
+
+331
+00:09:57,280 --> 00:10:00,800
+attacking different pain points. This is
+
+332
+00:09:58,960 --> 00:10:02,320
+smoker's lines. And this one is, you
+
+333
+00:10:00,800 --> 00:10:04,240
+know, thinning lips. So, it's able to
+
+334
+00:10:02,320 --> 00:10:05,760
+hit multiple things but still show the
+
+335
+00:10:04,240 --> 00:10:07,120
+insane transformation associated with
+
+336
+00:10:05,760 --> 00:10:08,720
+that product. The next image I like to
+
+337
+00:10:07,120 --> 00:10:10,240
+use in a carousel is going to be
+
+338
+00:10:08,720 --> 00:10:12,000
+something that handles your number one
+
+339
+00:10:10,240 --> 00:10:14,080
+most frequent objection. If you're
+
+340
+00:10:12,000 --> 00:10:16,160
+marketing in any market that is above,
+
+341
+00:10:14,080 --> 00:10:17,760
+let's say stage four sophistication,
+
+342
+00:10:16,160 --> 00:10:19,440
+which if you don't know your levels of
+
+343
+00:10:17,760 --> 00:10:21,040
+sophistication, you definitely should.
+
+344
+00:10:19,440 --> 00:10:23,280
+But just to give you a reminder, level
+
+345
+00:10:21,040 --> 00:10:25,440
+four sophistication is where there are
+
+346
+00:10:23,280 --> 00:10:27,680
+already so many competitors and so many
+
+347
+00:10:25,440 --> 00:10:29,200
+competitors have mechanisms already that
+
+348
+00:10:27,680 --> 00:10:31,200
+what you're really competing on is the
+
+349
+00:10:29,200 --> 00:10:33,120
+mechanism itself. So if you don't have
+
+350
+00:10:31,200 --> 00:10:35,280
+clear differentiation through your
+
+351
+00:10:33,120 --> 00:10:36,640
+mechanism of why your product is so much
+
+352
+00:10:35,280 --> 00:10:38,160
+better and you're not overcoming
+
+353
+00:10:36,640 --> 00:10:39,680
+objections actively, then your
+
+354
+00:10:38,160 --> 00:10:41,520
+competitors are just going to destroy
+
+355
+00:10:39,680 --> 00:10:44,400
+you. So that's where the far far
+
+356
+00:10:41,520 --> 00:10:46,640
+majority of markets are these days. Um
+
+357
+00:10:44,400 --> 00:10:48,240
+so having an objection handler really
+
+358
+00:10:46,640 --> 00:10:49,680
+really quickly front and center you're
+
+359
+00:10:48,240 --> 00:10:51,120
+able to pre-handle objections. You
+
+360
+00:10:49,680 --> 00:10:53,120
+handle the objection before it even
+
+361
+00:10:51,120 --> 00:10:54,720
+becomes conscious in their brain. So in
+
+362
+00:10:53,120 --> 00:10:56,960
+this case you know an objection
+
+363
+00:10:54,720 --> 00:10:58,000
+constantly with lip and cosmetic related
+
+364
+00:10:56,960 --> 00:10:59,440
+things is you have to be really
+
+365
+00:10:58,000 --> 00:11:00,880
+consistent with it for a really long
+
+366
+00:10:59,440 --> 00:11:02,880
+time before you actually see results. So
+
+367
+00:11:00,880 --> 00:11:04,800
+they overcome that objection by saying
+
+368
+00:11:02,880 --> 00:11:06,800
+you know real results you can see after
+
+369
+00:11:04,800 --> 00:11:08,640
+just one use. And then some simple,
+
+370
+00:11:06,800 --> 00:11:10,320
+very, very simple benefit little bullet
+
+371
+00:11:08,640 --> 00:11:11,760
+points here as well for all the various
+
+372
+00:11:10,320 --> 00:11:13,360
+things that it actually works for. If
+
+373
+00:11:11,760 --> 00:11:14,880
+you're selling anything cosmetic or
+
+374
+00:11:13,360 --> 00:11:16,240
+medical, this is really, really good.
+
+375
+00:11:14,880 --> 00:11:17,360
+Everybody thinks their situation is
+
+376
+00:11:16,240 --> 00:11:18,960
+different. Everybody thinks they're
+
+377
+00:11:17,360 --> 00:11:20,800
+unique. They're [ __ ] not. You know,
+
+378
+00:11:18,960 --> 00:11:22,400
+does it work for me? My situation is
+
+379
+00:11:20,800 --> 00:11:25,520
+different. You want to list every
+
+380
+00:11:22,400 --> 00:11:27,520
+individual specific problem of every
+
+381
+00:11:25,520 --> 00:11:28,960
+avatar to overcome all of those
+
+382
+00:11:27,520 --> 00:11:30,480
+objections. Like, okay, this is good,
+
+383
+00:11:28,960 --> 00:11:31,760
+but does it work for smoker's lines?
+
+384
+00:11:30,480 --> 00:11:33,200
+Like, okay, it works for the lips, but
+
+385
+00:11:31,760 --> 00:11:35,280
+does it work for my wrinkles? Okay, it
+
+386
+00:11:33,200 --> 00:11:37,040
+works for lips. that work for dark spots
+
+387
+00:11:35,280 --> 00:11:38,800
+on my face. They're hitting every single
+
+388
+00:11:37,040 --> 00:11:41,520
+one and doing a great job with it. Now,
+
+389
+00:11:38,800 --> 00:11:43,200
+these next three are relatively
+
+390
+00:11:41,520 --> 00:11:45,280
+interchangeable. If you want to have a
+
+391
+00:11:43,200 --> 00:11:47,280
+competitor comparison instead, you can.
+
+392
+00:11:45,280 --> 00:11:49,200
+Ultimately, I don't look too much into
+
+393
+00:11:47,280 --> 00:11:51,040
+these, but they should all still serve a
+
+394
+00:11:49,200 --> 00:11:52,560
+purpose. It's very market specific. For
+
+395
+00:11:51,040 --> 00:11:53,920
+this particular brand, for example, you
+
+396
+00:11:52,560 --> 00:11:55,760
+can see that, you know, with anything
+
+397
+00:11:53,920 --> 00:11:57,200
+cosmetic or medical, having research
+
+398
+00:11:55,760 --> 00:11:58,560
+behind it is really, really important.
+
+399
+00:11:57,200 --> 00:12:00,480
+Like if you're selling supplements for
+
+400
+00:11:58,560 --> 00:12:02,470
+example, showing the research behind
+
+401
+00:12:00,480 --> 00:12:03,680
+each individual ingredient and why this
+
+402
+00:12:02,470 --> 00:12:05,120
+[clears throat] specific formula is
+
+403
+00:12:03,680 --> 00:12:07,600
+better than any other formula on the
+
+404
+00:12:05,120 --> 00:12:09,680
+market is a great great way to push the
+
+405
+00:12:07,600 --> 00:12:11,360
+sale further. And here they have a nice
+
+406
+00:12:09,680 --> 00:12:12,960
+risk reversal. So you can see on mine
+
+407
+00:12:11,360 --> 00:12:14,720
+the risk reversal is another great thing
+
+408
+00:12:12,960 --> 00:12:16,400
+to have as an image. And then lastly is
+
+409
+00:12:14,720 --> 00:12:18,240
+just the social proof, the testimonial.
+
+410
+00:12:16,400 --> 00:12:19,680
+It can be a collage like this one. It
+
+411
+00:12:18,240 --> 00:12:21,280
+can be very specific. You can go back to
+
+412
+00:12:19,680 --> 00:12:22,720
+the before and afters, but just showing
+
+413
+00:12:21,280 --> 00:12:24,240
+the proof. There's no such thing as too
+
+414
+00:12:22,720 --> 00:12:25,600
+much proof ever. Now let's move on to
+
+415
+00:12:24,240 --> 00:12:27,120
+the right hand side of the screen here,
+
+416
+00:12:25,600 --> 00:12:29,440
+which is going to be the headline. the
+
+417
+00:12:27,120 --> 00:12:31,360
+sub headline and all of these benefit
+
+418
+00:12:29,440 --> 00:12:33,440
+driven bullet points here. Now, since
+
+419
+00:12:31,360 --> 00:12:34,800
+this is above the fold, especially on
+
+420
+00:12:33,440 --> 00:12:36,400
+mobile, the only things that are above
+
+421
+00:12:34,800 --> 00:12:38,240
+the fold is typically the headline, sub
+
+422
+00:12:36,400 --> 00:12:40,000
+headline, the image, and maybe a few
+
+423
+00:12:38,240 --> 00:12:42,880
+bullet points. That's it. That's where
+
+424
+00:12:40,000 --> 00:12:44,880
+you should be focusing 90% of your
+
+425
+00:12:42,880 --> 00:12:46,640
+energy because that's really where the
+
+426
+00:12:44,880 --> 00:12:49,120
+sale is made or broken because the
+
+427
+00:12:46,640 --> 00:12:51,040
+number one goal of CRO on the above the
+
+428
+00:12:49,120 --> 00:12:53,120
+fold section is what? It's to get people
+
+429
+00:12:51,040 --> 00:12:54,720
+to scroll. It's to get people to keep
+
+430
+00:12:53,120 --> 00:12:56,320
+consuming. The more consumption that you
+
+431
+00:12:54,720 --> 00:12:58,080
+get, the closer you're getting people to
+
+432
+00:12:56,320 --> 00:12:59,440
+buying. That's also why I'm spending the
+
+433
+00:12:58,080 --> 00:13:00,960
+most amount of time on this section of
+
+434
+00:12:59,440 --> 00:13:02,560
+the page so that I can get it through
+
+435
+00:13:00,960 --> 00:13:04,000
+your thick [ __ ] skull. So, I'm not
+
+436
+00:13:02,560 --> 00:13:05,920
+going to do a whole, you know,
+
+437
+00:13:04,000 --> 00:13:08,080
+copywriting lesson here, but I do want
+
+438
+00:13:05,920 --> 00:13:09,360
+to break down what this brand did
+
+439
+00:13:08,080 --> 00:13:11,520
+really, really well. Because looking at
+
+440
+00:13:09,360 --> 00:13:13,600
+this copy, is it absolutely mindfucking
+
+441
+00:13:11,520 --> 00:13:15,680
+insanely good copy? No. But I'll tell
+
+442
+00:13:13,600 --> 00:13:17,440
+you what it is. It's clear. It's
+
+443
+00:13:15,680 --> 00:13:19,680
+incredibly [ __ ] clear. One of my
+
+444
+00:13:17,440 --> 00:13:21,200
+copywriting mentors that taught me a lot
+
+445
+00:13:19,680 --> 00:13:23,600
+about writing highly converting copy
+
+446
+00:13:21,200 --> 00:13:25,680
+before AI was ever even a thing told me
+
+447
+00:13:23,600 --> 00:13:27,280
+that you should always try to be clear
+
+448
+00:13:25,680 --> 00:13:28,960
+and not clever. Your goal is not to
+
+449
+00:13:27,280 --> 00:13:30,640
+impress people with how clever your
+
+450
+00:13:28,960 --> 00:13:33,120
+[ __ ] copy is. The goal is to convert
+
+451
+00:13:30,640 --> 00:13:35,040
+and clarity converts. A confused mind
+
+452
+00:13:33,120 --> 00:13:37,600
+never buys. So, is this an aggressive
+
+453
+00:13:35,040 --> 00:13:39,520
+claim? [ __ ] yeah. But [laughter]
+
+454
+00:13:37,600 --> 00:13:40,960
+it is also incredibly clear. Let me show
+
+455
+00:13:39,520 --> 00:13:42,320
+you. What did I start this entire video
+
+456
+00:13:40,960 --> 00:13:44,480
+with? You want to sell based off
+
+457
+00:13:42,320 --> 00:13:46,000
+outcomes, not benefits, not features,
+
+458
+00:13:44,480 --> 00:13:47,920
+outcomes. What is the outcome that they
+
+459
+00:13:46,000 --> 00:13:50,480
+want? Well, let's see. They want fuller,
+
+460
+00:13:47,920 --> 00:13:51,920
+smoother lips. Boom. Outcome achieved.
+
+461
+00:13:50,480 --> 00:13:53,840
+Biggest thing achieved right off the
+
+462
+00:13:51,920 --> 00:13:56,400
+bat. The next is a time frame. 5
+
+463
+00:13:53,840 --> 00:13:58,560
+minutes. Yes. Insane claim. I know. But
+
+464
+00:13:56,400 --> 00:14:00,880
+[ __ ] it still [ __ ] works a lot of
+
+465
+00:13:58,560 --> 00:14:02,400
+the times. And lastly, they have their
+
+466
+00:14:00,880 --> 00:14:03,680
+mechanism, right? The microl lift
+
+467
+00:14:02,400 --> 00:14:05,200
+system. I know that's technically I
+
+468
+00:14:03,680 --> 00:14:07,280
+think the name of the product and like
+
+469
+00:14:05,200 --> 00:14:09,040
+micro infusion is probably the real
+
+470
+00:14:07,280 --> 00:14:10,640
+mechanism here, but ultimately it
+
+471
+00:14:09,040 --> 00:14:13,840
+doesn't matter. The whole concept of
+
+472
+00:14:10,640 --> 00:14:15,920
+having a unique mechanism is why is it
+
+473
+00:14:13,840 --> 00:14:17,440
+that this product works and every other
+
+474
+00:14:15,920 --> 00:14:19,040
+thing that they've already tried totally
+
+475
+00:14:17,440 --> 00:14:21,040
+failed? Why does this product actually
+
+476
+00:14:19,040 --> 00:14:22,880
+address the root cause? That is the
+
+477
+00:14:21,040 --> 00:14:24,400
+epitome of unique mechanisms. So
+
+478
+00:14:22,880 --> 00:14:26,080
+technically that was achieved. If you
+
+479
+00:14:24,400 --> 00:14:28,160
+look at the formula of this particular
+
+480
+00:14:26,080 --> 00:14:30,800
+headline, it's literally outcome, time
+
+481
+00:14:28,160 --> 00:14:33,040
+frame, mechanism. That's it. And it's so
+
+482
+00:14:30,800 --> 00:14:34,960
+clear. It's using their exact language
+
+483
+00:14:33,040 --> 00:14:36,320
+and it has the differentiation to make
+
+484
+00:14:34,960 --> 00:14:37,600
+it different from anything else on the
+
+485
+00:14:36,320 --> 00:14:39,600
+market. And then they took it a step
+
+486
+00:14:37,600 --> 00:14:40,960
+further with this sub headline. Again,
+
+487
+00:14:39,600 --> 00:14:42,320
+whoever wrote this lander, they knew
+
+488
+00:14:40,960 --> 00:14:43,760
+their market. They knew they're in stage
+
+489
+00:14:42,320 --> 00:14:45,040
+four sophistication. They've already
+
+490
+00:14:43,760 --> 00:14:46,720
+seen all these claims. They've already
+
+491
+00:14:45,040 --> 00:14:48,160
+tried all these other alternative
+
+492
+00:14:46,720 --> 00:14:49,280
+solutions, and they acknowledge it.
+
+493
+00:14:48,160 --> 00:14:51,680
+Like, you can get this incredible
+
+494
+00:14:49,280 --> 00:14:53,920
+outcome without. Without is one of the
+
+495
+00:14:51,680 --> 00:14:56,400
+most powerful words in stage 4
+
+496
+00:14:53,920 --> 00:14:58,720
+sophistication copy. Use it. Okay.
+
+497
+00:14:56,400 --> 00:15:00,640
+Without Botox, costly clinic visits,
+
+498
+00:14:58,720 --> 00:15:02,160
+vasive procedures. Like, they knew their
+
+499
+00:15:00,640 --> 00:15:03,760
+market very, very well. They knew the
+
+500
+00:15:02,160 --> 00:15:05,680
+exact things that they've tried in order
+
+501
+00:15:03,760 --> 00:15:08,240
+of frequency. It shouldn't just be like,
+
+502
+00:15:05,680 --> 00:15:10,800
+"Oh, I saw one customer on Reddit has
+
+503
+00:15:08,240 --> 00:15:12,720
+one time used Botox." No, Botox is the
+
+504
+00:15:10,800 --> 00:15:14,480
+number one most frequently used thing.
+
+505
+00:15:12,720 --> 00:15:16,240
+That's why they hit it first in this
+
+506
+00:15:14,480 --> 00:15:17,840
+without statement in the sub headline.
+
+507
+00:15:16,240 --> 00:15:19,360
+Like I said, is this copy that's like,
+
+508
+00:15:17,840 --> 00:15:20,960
+"Holy [ __ ] this is blowing my [ __ ]
+
+509
+00:15:19,360 --> 00:15:22,160
+mind how good it is." No. But that
+
+510
+00:15:20,960 --> 00:15:23,600
+doesn't matter. Again, it doesn't need
+
+511
+00:15:22,160 --> 00:15:25,200
+to be incredibly clever. It just needs
+
+512
+00:15:23,600 --> 00:15:26,880
+to be clear. And they achieved that
+
+513
+00:15:25,200 --> 00:15:29,360
+incredibly well with this lander. Now,
+
+514
+00:15:26,880 --> 00:15:31,680
+one thing that I talk about a lot in BBA
+
+515
+00:15:29,360 --> 00:15:33,600
+is the headline and the copy of the
+
+516
+00:15:31,680 --> 00:15:35,360
+headline. And it's difficult to
+
+517
+00:15:33,600 --> 00:15:36,640
+communicate copy unless you've written a
+
+518
+00:15:35,360 --> 00:15:38,400
+lot of it. And so I create these
+
+519
+00:15:36,640 --> 00:15:39,840
+checklists of things that you can use
+
+520
+00:15:38,400 --> 00:15:41,360
+inside of your headline to make it
+
+521
+00:15:39,840 --> 00:15:43,280
+better. And I have this checklist here
+
+522
+00:15:41,360 --> 00:15:45,840
+of seven individual things. Now, it
+
+523
+00:15:43,280 --> 00:15:47,360
+doesn't need to have every single one,
+
+524
+00:15:45,840 --> 00:15:49,200
+especially in a relatively like this is
+
+525
+00:15:47,360 --> 00:15:50,560
+a pretty short headline in my opinion.
+
+526
+00:15:49,200 --> 00:15:53,040
+But if we look at the headline and the
+
+527
+00:15:50,560 --> 00:15:55,200
+sub headline combo, how many of these
+
+528
+00:15:53,040 --> 00:15:57,280
+seven, you know, qualities are actually
+
+529
+00:15:55,200 --> 00:15:59,120
+hit? Well, is there curiosity? I would
+
+530
+00:15:57,280 --> 00:16:00,720
+say maybe a little bit of curiosity with
+
+531
+00:15:59,120 --> 00:16:02,640
+like the microlift system piece, but
+
+532
+00:16:00,720 --> 00:16:03,920
+overall I would actually say no. I don't
+
+533
+00:16:02,640 --> 00:16:05,760
+think there's a ton of curiosity here.
+
+534
+00:16:03,920 --> 00:16:07,360
+Is it calling out the pain points? Yes,
+
+535
+00:16:05,760 --> 00:16:09,440
+it is calling out the pain point of the
+
+536
+00:16:07,360 --> 00:16:11,120
+alternative solutions that they have
+
+537
+00:16:09,440 --> 00:16:12,960
+already tried, which would be Botox,
+
+538
+00:16:11,120 --> 00:16:14,960
+clinic visits, and invasive procedures.
+
+539
+00:16:12,960 --> 00:16:16,720
+Is it promising a solution? [ __ ] yes.
+
+540
+00:16:14,960 --> 00:16:18,800
+That's the entire first part of this
+
+541
+00:16:16,720 --> 00:16:20,320
+headline. It is absolutely promising the
+
+542
+00:16:18,800 --> 00:16:22,160
+solution of fuller, smoother lips in 5
+
+543
+00:16:20,320 --> 00:16:24,240
+minutes. Is there, you know, the time
+
+544
+00:16:22,160 --> 00:16:26,080
+frame? Absolutely. That's the 5 minutes
+
+545
+00:16:24,240 --> 00:16:28,080
+piece. So, we already have time frame
+
+546
+00:16:26,080 --> 00:16:29,840
+checked. We have painpoint checked. We
+
+547
+00:16:28,080 --> 00:16:31,680
+have promise solution checked. We have
+
+548
+00:16:29,840 --> 00:16:34,080
+specificity as well because it's talking
+
+549
+00:16:31,680 --> 00:16:35,920
+about specific time. There's specificity
+
+550
+00:16:34,080 --> 00:16:37,600
+in the mechanism itself and their
+
+551
+00:16:35,920 --> 00:16:38,960
+specificity and the other alternative
+
+552
+00:16:37,600 --> 00:16:41,040
+solutions that they've already tried.
+
+553
+00:16:38,960 --> 00:16:42,720
+Plus, I think it's simple. Absolutely.
+
+554
+00:16:41,040 --> 00:16:44,480
+Is there credibility? I would say no.
+
+555
+00:16:42,720 --> 00:16:46,640
+And curiosity overall say no. So
+
+556
+00:16:44,480 --> 00:16:48,640
+overall, this gets like five out of
+
+557
+00:16:46,640 --> 00:16:50,160
+seven. You don't need to have all seven.
+
+558
+00:16:48,640 --> 00:16:52,240
+It's not like the more of these that you
+
+559
+00:16:50,160 --> 00:16:54,240
+add the better the headline is. But I do
+
+560
+00:16:52,240 --> 00:16:56,480
+believe you should have at least four.
+
+561
+00:16:54,240 --> 00:16:58,320
+But you can have multiple instances of
+
+562
+00:16:56,480 --> 00:16:59,520
+one of these things on the checklist to
+
+563
+00:16:58,320 --> 00:17:01,280
+make it stronger. For example, the
+
+564
+00:16:59,520 --> 00:17:02,880
+curiosity piece is a big miss in this
+
+565
+00:17:01,280 --> 00:17:04,480
+particular headline. But at the same
+
+566
+00:17:02,880 --> 00:17:06,000
+time, this is the headline on a sales
+
+567
+00:17:04,480 --> 00:17:07,760
+page. It's not like an advertorial
+
+568
+00:17:06,000 --> 00:17:10,400
+headline where you really really have to
+
+569
+00:17:07,760 --> 00:17:12,080
+push with curiosity. So really, I I
+
+570
+00:17:10,400 --> 00:17:14,880
+would probably give this entire headline
+
+571
+00:17:12,080 --> 00:17:17,040
+sub headline combo probably like a 8.7
+
+572
+00:17:14,880 --> 00:17:18,640
+out of 10, maybe even like a nine simply
+
+573
+00:17:17,040 --> 00:17:19,840
+due to how clear it is and how well they
+
+574
+00:17:18,640 --> 00:17:21,440
+understand the market. Now, after the
+
+575
+00:17:19,840 --> 00:17:23,600
+headline and sub headline, what we have
+
+576
+00:17:21,440 --> 00:17:25,040
+next is these benefit driven bullet
+
+577
+00:17:23,600 --> 00:17:27,200
+statements. And some of them, if you
+
+578
+00:17:25,040 --> 00:17:28,800
+notice, are actually featured driven on
+
+579
+00:17:27,200 --> 00:17:30,320
+this particular page. For the most part,
+
+580
+00:17:28,800 --> 00:17:32,000
+I would keep them benefit driven. I
+
+581
+00:17:30,320 --> 00:17:33,280
+would keep the feature stuff for a
+
+582
+00:17:32,000 --> 00:17:35,200
+little bit later in the page in the
+
+583
+00:17:33,280 --> 00:17:37,360
+education section, which we'll get to in
+
+584
+00:17:35,200 --> 00:17:39,440
+just a second. But don't overthink this
+
+585
+00:17:37,360 --> 00:17:41,520
+piece, okay? What are the specific
+
+586
+00:17:39,440 --> 00:17:43,120
+mechanisms from which this works? What
+
+587
+00:17:41,520 --> 00:17:44,880
+are the pain points of other products
+
+588
+00:17:43,120 --> 00:17:47,280
+that they have tried that this product
+
+589
+00:17:44,880 --> 00:17:48,720
+avoids? And ultimately, why does it
+
+590
+00:17:47,280 --> 00:17:50,400
+work? what is the mechanism through
+
+591
+00:17:48,720 --> 00:17:52,240
+which it works and I don't mean your
+
+592
+00:17:50,400 --> 00:17:54,720
+unique mechanism I mean the mechanism
+
+593
+00:17:52,240 --> 00:17:57,360
+for example of collagen production or of
+
+594
+00:17:54,720 --> 00:17:58,720
+serum absorption right or micro infusion
+
+595
+00:17:57,360 --> 00:18:00,240
+that's what I mean now the next pieces
+
+596
+00:17:58,720 --> 00:18:03,040
+of this page is going to be your offer
+
+597
+00:18:00,240 --> 00:18:05,120
+and CTA and the risk reversal now if we
+
+598
+00:18:03,040 --> 00:18:06,800
+look at this uh landing page I've been
+
+599
+00:18:05,120 --> 00:18:08,080
+breaking down here so far these guys
+
+600
+00:18:06,800 --> 00:18:10,000
+actually did it a little bit differently
+
+601
+00:18:08,080 --> 00:18:12,240
+their entire offer is actually on an
+
+602
+00:18:10,000 --> 00:18:13,920
+offer page or their order page or
+
+603
+00:18:12,240 --> 00:18:16,480
+checkout page it's not on this page
+
+604
+00:18:13,920 --> 00:18:17,840
+anywhere all the CTAs lead to an
+
+605
+00:18:16,480 --> 00:18:19,680
+additional page where you actually see
+
+606
+00:18:17,840 --> 00:18:21,840
+the offer and compare and contrast
+
+607
+00:18:19,680 --> 00:18:23,600
+there. So, if you guys want, I can do a
+
+608
+00:18:21,840 --> 00:18:26,000
+video, maybe an unlisted video or
+
+609
+00:18:23,600 --> 00:18:27,920
+something specifically on offers because
+
+610
+00:18:26,000 --> 00:18:29,600
+there's so much to break down there. If
+
+611
+00:18:27,920 --> 00:18:31,200
+you look at these guys, this is now kind
+
+612
+00:18:29,600 --> 00:18:32,960
+of their quote unquote offer page. I'll
+
+613
+00:18:31,200 --> 00:18:34,880
+just call like a checkout page. And what
+
+614
+00:18:32,960 --> 00:18:36,560
+we see is there's buy one, there's buy
+
+615
+00:18:34,880 --> 00:18:38,480
+two, get one free, and there's buy
+
+616
+00:18:36,560 --> 00:18:41,440
+three, get three free. And every time
+
+617
+00:18:38,480 --> 00:18:43,120
+that you click, you also get and unlock
+
+618
+00:18:41,440 --> 00:18:45,120
+specific free gifts underneath. The
+
+619
+00:18:43,120 --> 00:18:46,880
+first free gift is free shipping and
+
+620
+00:18:45,120 --> 00:18:49,600
+then you get additional treatments and
+
+621
+00:18:46,880 --> 00:18:51,680
+then you get a $15 gift card. Now, let
+
+622
+00:18:49,600 --> 00:18:53,200
+me rant real quick on offers and offer
+
+623
+00:18:51,680 --> 00:18:54,800
+structure just so that you generally
+
+624
+00:18:53,200 --> 00:18:56,800
+understand how to make offers that
+
+625
+00:18:54,800 --> 00:18:58,960
+actually convert. Number one, you only
+
+626
+00:18:56,800 --> 00:19:00,880
+want to use a quantity breaks offer
+
+627
+00:18:58,960 --> 00:19:02,240
+which is like a you know the more that
+
+628
+00:19:00,880 --> 00:19:03,680
+you give them the bigger discount that
+
+629
+00:19:02,240 --> 00:19:06,640
+they get. In this case, it's like only
+
+630
+00:19:03,680 --> 00:19:08,320
+25% off or buy one but 63% off or buy
+
+631
+00:19:06,640 --> 00:19:10,080
+three. If it doesn't make sense just
+
+632
+00:19:08,320 --> 00:19:12,240
+logically for them to buy, you know,
+
+633
+00:19:10,080 --> 00:19:14,000
+multiple of one individual product, you
+
+634
+00:19:12,240 --> 00:19:16,560
+need to be bundling additional cross
+
+635
+00:19:14,000 --> 00:19:18,640
+cells into the bundle to make the offer
+
+636
+00:19:16,560 --> 00:19:20,400
+still irresistible. Now, let's say for
+
+637
+00:19:18,640 --> 00:19:21,680
+the large majority of you, selling more
+
+638
+00:19:20,400 --> 00:19:23,520
+of the same product actually does make
+
+639
+00:19:21,680 --> 00:19:24,800
+the offer sweeter. So, you want to make
+
+640
+00:19:23,520 --> 00:19:26,640
+sure that you have the discount on each
+
+641
+00:19:24,800 --> 00:19:29,120
+level. You want to have one option that
+
+642
+00:19:26,640 --> 00:19:30,720
+is highlighted as most popular. And you
+
+643
+00:19:29,120 --> 00:19:32,320
+also want to have one that is
+
+644
+00:19:30,720 --> 00:19:34,160
+essentially a decoy. So, if you're not
+
+645
+00:19:32,320 --> 00:19:36,320
+familiar with the decoy effect is
+
+646
+00:19:34,160 --> 00:19:38,800
+essentially having typically a middle
+
+647
+00:19:36,320 --> 00:19:41,200
+option that is priced very very closely
+
+648
+00:19:38,800 --> 00:19:43,120
+to the most expensive option knowing
+
+649
+00:19:41,200 --> 00:19:44,800
+that people are going to make a logical
+
+650
+00:19:43,120 --> 00:19:46,320
+justification of the jump between in
+
+651
+00:19:44,800 --> 00:19:47,760
+this case a medium and a large popcorn
+
+652
+00:19:46,320 --> 00:19:49,520
+cuz you know it's only 50 cents more
+
+653
+00:19:47,760 --> 00:19:51,680
+when in reality this was intentionally
+
+654
+00:19:49,520 --> 00:19:53,440
+priced to make the highest bundled offer
+
+655
+00:19:51,680 --> 00:19:54,800
+the most expensive offer seem like a
+
+656
+00:19:53,440 --> 00:19:56,640
+no-brainer. So you can use the same
+
+657
+00:19:54,800 --> 00:19:58,400
+thing in your offer structure. But the
+
+658
+00:19:56,640 --> 00:20:00,560
+most important thing when it comes to
+
+659
+00:19:58,400 --> 00:20:02,160
+the gifts associated with the offer, I
+
+660
+00:20:00,560 --> 00:20:04,160
+see so many people make this mistake.
+
+661
+00:20:02,160 --> 00:20:06,480
+They literally just like randomly throw
+
+662
+00:20:04,160 --> 00:20:08,880
+[ __ ] into their offer and expect it that
+
+663
+00:20:06,480 --> 00:20:10,640
+it makes it sweeter. No. Every single
+
+664
+00:20:08,880 --> 00:20:11,920
+free gift associated with your offer.
+
+665
+00:20:10,640 --> 00:20:13,680
+Everything that goes into your offer in
+
+666
+00:20:11,920 --> 00:20:16,320
+general, outside of the main product, it
+
+667
+00:20:13,680 --> 00:20:19,040
+should be designed to overcome some sort
+
+668
+00:20:16,320 --> 00:20:22,320
+of objection or help them achieve the
+
+669
+00:20:19,040 --> 00:20:24,640
+outcome faster or easier. So overall,
+
+670
+00:20:22,320 --> 00:20:26,560
+like how did these guys do with that
+
+671
+00:20:24,640 --> 00:20:28,080
+taken into consideration? First free
+
+672
+00:20:26,560 --> 00:20:30,000
+gift is like free shipping, which is
+
+673
+00:20:28,080 --> 00:20:31,280
+like cool, okay, this nothing too
+
+674
+00:20:30,000 --> 00:20:33,120
+special. Does that help them achieve the
+
+675
+00:20:31,280 --> 00:20:34,960
+outcome easier or faster? No. Is that
+
+676
+00:20:33,120 --> 00:20:37,120
+overcome the objection? Maybe. And then
+
+677
+00:20:34,960 --> 00:20:39,520
+they throw in additional treatments,
+
+678
+00:20:37,120 --> 00:20:41,280
+additional supplies and a gift card. I
+
+679
+00:20:39,520 --> 00:20:43,600
+would give this overall offer structure
+
+680
+00:20:41,280 --> 00:20:45,440
+probably like a 6 out of 10. Granted, I
+
+681
+00:20:43,600 --> 00:20:46,960
+don't know this particular, you know,
+
+682
+00:20:45,440 --> 00:20:48,400
+product market and the way that these
+
+683
+00:20:46,960 --> 00:20:49,520
+guys do, but generally I would say that
+
+684
+00:20:48,400 --> 00:20:51,120
+these free gifts were just kind of
+
+685
+00:20:49,520 --> 00:20:53,360
+randomly thrown in there. Don't do that.
+
+686
+00:20:51,120 --> 00:20:55,920
+So you can absolutely have your offer on
+
+687
+00:20:53,360 --> 00:20:57,200
+the sales page on your PDP and it
+
+688
+00:20:55,920 --> 00:20:58,960
+doesn't need to be on a separate page
+
+689
+00:20:57,200 --> 00:21:00,800
+whatsoever. With that said, you know
+
+690
+00:20:58,960 --> 00:21:02,880
+what do I do? I like to control
+
+691
+00:21:00,800 --> 00:21:04,800
+attention for as much time as possible
+
+692
+00:21:02,880 --> 00:21:06,240
+for my customers that are on my lander.
+
+693
+00:21:04,800 --> 00:21:08,160
+So for example, one thing I've been
+
+694
+00:21:06,240 --> 00:21:10,080
+experimenting with recently is removing
+
+695
+00:21:08,160 --> 00:21:12,480
+all CTAs except for the one at the
+
+696
+00:21:10,080 --> 00:21:14,160
+bottom, which is basically a big no no
+
+697
+00:21:12,480 --> 00:21:16,240
+when it comes to like conversion rate
+
+698
+00:21:14,160 --> 00:21:17,360
+optimization. But I just like testing
+
+699
+00:21:16,240 --> 00:21:19,920
+stuff that most people don't think
+
+700
+00:21:17,360 --> 00:21:21,520
+about. And my whole philosophy behind it
+
+701
+00:21:19,920 --> 00:21:23,440
+is again I want to be able to control
+
+702
+00:21:21,520 --> 00:21:25,120
+the justification. I want to be able to
+
+703
+00:21:23,440 --> 00:21:26,640
+force more consumption in the same way
+
+704
+00:21:25,120 --> 00:21:29,280
+that you would do so with like a force
+
+705
+00:21:26,640 --> 00:21:31,360
+VSSL or like a super long advertorial
+
+706
+00:21:29,280 --> 00:21:33,440
+where you're forcing the customer to
+
+707
+00:21:31,360 --> 00:21:34,880
+educate themselves more on the product
+
+708
+00:21:33,440 --> 00:21:37,520
+before they see the price. You're
+
+709
+00:21:34,880 --> 00:21:38,960
+building more justification of why this
+
+710
+00:21:37,520 --> 00:21:40,960
+product is so great, why it's such a
+
+711
+00:21:38,960 --> 00:21:42,560
+no-brainer before you ever throw a price
+
+712
+00:21:40,960 --> 00:21:44,400
+in front of it. So, their perceived
+
+713
+00:21:42,560 --> 00:21:46,160
+value of how much this product going to
+
+714
+00:21:44,400 --> 00:21:47,760
+cost just gets raised and raised and
+
+715
+00:21:46,160 --> 00:21:49,360
+raised and raised the more consumption
+
+716
+00:21:47,760 --> 00:21:50,880
+that you force on them. I think most
+
+717
+00:21:49,360 --> 00:21:52,640
+people don't agree with me on that and
+
+718
+00:21:50,880 --> 00:21:54,080
+truthfully I'm still testing it, but
+
+719
+00:21:52,640 --> 00:21:55,280
+just something to keep in mind. So, next
+
+720
+00:21:54,080 --> 00:21:57,360
+section on the lander is going to be
+
+721
+00:21:55,280 --> 00:21:59,920
+your FAQs. Once again, stage four
+
+722
+00:21:57,360 --> 00:22:01,440
+sophistication. Being able to handle the
+
+723
+00:21:59,920 --> 00:22:04,320
+main objections really quickly is
+
+724
+00:22:01,440 --> 00:22:06,080
+fantastic. I recommend having a few FAQs
+
+725
+00:22:04,320 --> 00:22:08,960
+actually directly underneath your offer
+
+726
+00:22:06,080 --> 00:22:10,720
+and then also more FAQs at the bottom of
+
+727
+00:22:08,960 --> 00:22:12,160
+the page or at least in the education
+
+728
+00:22:10,720 --> 00:22:13,440
+section which as you can see that is
+
+729
+00:22:12,160 --> 00:22:14,560
+actually exactly what these guys did as
+
+730
+00:22:13,440 --> 00:22:17,840
+well. You can see at the bottom of the
+
+731
+00:22:14,560 --> 00:22:19,360
+page here they have more FAQs. So again
+
+732
+00:22:17,840 --> 00:22:20,960
+this is a very sophisticated market.
+
+733
+00:22:19,360 --> 00:22:23,360
+This is damn near like skincare
+
+734
+00:22:20,960 --> 00:22:25,760
+anti-aging stuff is damn near stage five
+
+735
+00:22:23,360 --> 00:22:27,600
+sophistication. So having FAQs
+
+736
+00:22:25,760 --> 00:22:29,600
+everywhere I think is not going to hurt
+
+737
+00:22:27,600 --> 00:22:31,280
+you. Now, regarding your FAQs, per
+
+738
+00:22:29,600 --> 00:22:33,840
+usual, it should be coming from the
+
+739
+00:22:31,280 --> 00:22:35,280
+research, but what a lot of people do, I
+
+740
+00:22:33,840 --> 00:22:37,600
+want to rant on this for just one
+
+741
+00:22:35,280 --> 00:22:40,320
+second. A lot of people are using like
+
+742
+00:22:37,600 --> 00:22:42,240
+the comments underneath their ads to
+
+743
+00:22:40,320 --> 00:22:43,600
+create FAQs out of because they're like,
+
+744
+00:22:42,240 --> 00:22:45,280
+"Oh, they're talking about this. If I
+
+745
+00:22:43,600 --> 00:22:46,880
+just overcame that, then I would get
+
+746
+00:22:45,280 --> 00:22:48,880
+more customers." And you know, maybe
+
+747
+00:22:46,880 --> 00:22:51,120
+that's true. Maybe that's true. But here
+
+748
+00:22:48,880 --> 00:22:52,800
+is an alternative perspective for you.
+
+749
+00:22:51,120 --> 00:22:54,880
+So, there's a little something called
+
+750
+00:22:52,800 --> 00:22:56,480
+survivorship bias. And the best way to
+
+751
+00:22:54,880 --> 00:22:58,560
+explain it is to explain the inception
+
+752
+00:22:56,480 --> 00:23:02,080
+of survivorship bias in World War II.
+
+753
+00:22:58,560 --> 00:23:04,800
+The US was losing these bombers in World
+
+754
+00:23:02,080 --> 00:23:06,000
+War II at an extremely alarming rate.
+
+755
+00:23:04,800 --> 00:23:06,960
+And what would happen is they would send
+
+756
+00:23:06,000 --> 00:23:08,400
+out the bombers, they would come back
+
+757
+00:23:06,960 --> 00:23:11,440
+and they would have all these bullet
+
+758
+00:23:08,400 --> 00:23:13,520
+holes all over the plane. And the
+
+759
+00:23:11,440 --> 00:23:15,520
+scientists at the time were like, "Okay,
+
+760
+00:23:13,520 --> 00:23:17,200
+in order to make these planes more
+
+761
+00:23:15,520 --> 00:23:19,600
+durable and make sure we lose fewer
+
+762
+00:23:17,200 --> 00:23:21,920
+bombers, we got to put more armor, which
+
+763
+00:23:19,600 --> 00:23:23,760
+is heavy, and that costs fuel. we got to
+
+764
+00:23:21,920 --> 00:23:25,280
+put more armor around all these bullet
+
+765
+00:23:23,760 --> 00:23:27,120
+points, not these green circles, all
+
+766
+00:23:25,280 --> 00:23:28,640
+these red dots so that we make the
+
+767
+00:23:27,120 --> 00:23:30,400
+planes more durable. And then there was
+
+768
+00:23:28,640 --> 00:23:32,400
+I think like this Hungarian
+
+769
+00:23:30,400 --> 00:23:33,600
+statistician, this like mathematician
+
+770
+00:23:32,400 --> 00:23:35,200
+essentially that was like, "No, no, no.
+
+771
+00:23:33,600 --> 00:23:37,440
+You guys got this all [ __ ] wrong."
+
+772
+00:23:35,200 --> 00:23:38,880
+Okay, you are trying to repair the
+
+773
+00:23:37,440 --> 00:23:41,280
+planes that are coming back and
+
+774
+00:23:38,880 --> 00:23:43,040
+surviving. If they got hit and they
+
+775
+00:23:41,280 --> 00:23:44,880
+survived, that means that there is
+
+776
+00:23:43,040 --> 00:23:46,880
+enough armor on those portions of the
+
+777
+00:23:44,880 --> 00:23:48,720
+plane. where we need to be adding armor
+
+778
+00:23:46,880 --> 00:23:50,800
+is the places where there are no bullet
+
+779
+00:23:48,720 --> 00:23:52,160
+holes, no damage being taken because
+
+780
+00:23:50,800 --> 00:23:54,160
+those are the planes that are not
+
+781
+00:23:52,160 --> 00:23:55,680
+returning. And so that's why these green
+
+782
+00:23:54,160 --> 00:23:57,520
+kind of circles here, that's where we
+
+783
+00:23:55,680 --> 00:23:58,960
+actually should put more reinforced
+
+784
+00:23:57,520 --> 00:24:01,760
+armor to make the planes more durable
+
+785
+00:23:58,960 --> 00:24:02,960
+and lose fewer planes in the war. Now,
+
+786
+00:24:01,760 --> 00:24:06,000
+what the [ __ ] does this have to do with
+
+787
+00:24:02,960 --> 00:24:07,760
+ecom? Well, if you are going to the
+
+788
+00:24:06,000 --> 00:24:09,840
+people that are already not buying from
+
+789
+00:24:07,760 --> 00:24:11,520
+you and asking them, why didn't you buy
+
+790
+00:24:09,840 --> 00:24:13,600
+from me? I think that's actually less
+
+791
+00:24:11,520 --> 00:24:15,200
+valuable than going to your customers
+
+792
+00:24:13,600 --> 00:24:17,280
+that already have bought from you and
+
+793
+00:24:15,200 --> 00:24:20,160
+ask them, "Hey, I know you bought. What
+
+794
+00:24:17,280 --> 00:24:21,920
+almost kept you from buying?" Because I
+
+795
+00:24:20,160 --> 00:24:23,600
+really, really believe that the Facebook
+
+796
+00:24:21,920 --> 00:24:25,360
+comments are where some of the biggest
+
+797
+00:24:23,600 --> 00:24:26,960
+losers on the [ __ ] planet hang out.
+
+798
+00:24:25,360 --> 00:24:28,400
+It's always in the comment section. And
+
+799
+00:24:26,960 --> 00:24:30,240
+a lot of times that's all the people
+
+800
+00:24:28,400 --> 00:24:32,000
+that are never going to buy from you, no
+
+801
+00:24:30,240 --> 00:24:33,920
+matter how many, you know, [ __ ]
+
+802
+00:24:32,000 --> 00:24:35,120
+questions you have in your FAQ. So yes,
+
+803
+00:24:33,920 --> 00:24:36,800
+you can go to the Facebook comment
+
+804
+00:24:35,120 --> 00:24:38,000
+section and take some. Maybe it'll work.
+
+805
+00:24:36,800 --> 00:24:39,760
+Maybe. But what I think is more
+
+806
+00:24:38,000 --> 00:24:41,840
+valuable, speaking to your own customers
+
+807
+00:24:39,760 --> 00:24:43,680
+and ask them what almost kept them from
+
+808
+00:24:41,840 --> 00:24:45,520
+buying and using those and integrating
+
+809
+00:24:43,680 --> 00:24:47,600
+those into your FAQ instead. Now, after
+
+810
+00:24:45,520 --> 00:24:49,600
+this FAQ section, as you can see here,
+
+811
+00:24:47,600 --> 00:24:51,360
+what we have is what comes right beneath
+
+812
+00:24:49,600 --> 00:24:53,680
+the fold, at least on desktop, which is
+
+813
+00:24:51,360 --> 00:24:55,760
+going to be all of the testimonials and
+
+814
+00:24:53,680 --> 00:24:57,440
+reviews. Once again, this should all be
+
+815
+00:24:55,760 --> 00:24:59,840
+purposeful. You want to take reviews
+
+816
+00:24:57,440 --> 00:25:02,960
+from your customers that are overcoming
+
+817
+00:24:59,840 --> 00:25:04,640
+an objection or seeding a belief. I
+
+818
+00:25:02,960 --> 00:25:06,560
+believe that marketing at its core is
+
+819
+00:25:04,640 --> 00:25:09,360
+just a game of belief change work. And
+
+820
+00:25:06,560 --> 00:25:11,280
+you're able to seed reviews best through
+
+821
+00:25:09,360 --> 00:25:13,440
+people that are not associated with your
+
+822
+00:25:11,280 --> 00:25:14,960
+brand. It's your customers and they
+
+823
+00:25:13,440 --> 00:25:16,000
+should all be intentional is really what
+
+824
+00:25:14,960 --> 00:25:17,360
+I'm trying to say. Don't just throw
+
+825
+00:25:16,000 --> 00:25:19,280
+social proof on there for the sake of
+
+826
+00:25:17,360 --> 00:25:20,960
+having it. Be intentional. Every element
+
+827
+00:25:19,280 --> 00:25:22,480
+on your page should be moving people
+
+828
+00:25:20,960 --> 00:25:24,080
+closer to a sale. And you can see this
+
+829
+00:25:22,480 --> 00:25:25,760
+brand does it incredibly well. They have
+
+830
+00:25:24,080 --> 00:25:26,880
+the image. They have transformations. I
+
+831
+00:25:25,760 --> 00:25:28,640
+don't even want to call it like a
+
+832
+00:25:26,880 --> 00:25:30,400
+testimonial. I know it is, but think of
+
+833
+00:25:28,640 --> 00:25:32,160
+it in terms of transformations because
+
+834
+00:25:30,400 --> 00:25:33,840
+transformational marketing is like the
+
+835
+00:25:32,160 --> 00:25:35,360
+strongest [ __ ] marketing you can ever
+
+836
+00:25:33,840 --> 00:25:37,040
+have. I know I've already said that, but
+
+837
+00:25:35,360 --> 00:25:38,640
+it's just it's just so so incredibly
+
+838
+00:25:37,040 --> 00:25:39,760
+true. Another important thing is make
+
+839
+00:25:38,640 --> 00:25:41,600
+sure that it's in alignment with your
+
+840
+00:25:39,760 --> 00:25:43,760
+research, right? As you can tell, is
+
+841
+00:25:41,600 --> 00:25:45,840
+there like a woman on this page that
+
+842
+00:25:43,760 --> 00:25:47,760
+looks under the age of like 30 or under
+
+843
+00:25:45,840 --> 00:25:49,840
+the age of 40? No, they all look like
+
+844
+00:25:47,760 --> 00:25:52,400
+they perfectly match the demographic in
+
+845
+00:25:49,840 --> 00:25:55,120
+every way in race and ethnicity, in age,
+
+846
+00:25:52,400 --> 00:25:56,880
+in gender. In every conceivable way, it
+
+847
+00:25:55,120 --> 00:25:58,560
+should match your target avatar. Now,
+
+848
+00:25:56,880 --> 00:26:00,960
+what we have next in this template is
+
+849
+00:25:58,560 --> 00:26:02,240
+just broadly labeled as the education
+
+850
+00:26:00,960 --> 00:26:03,760
+section. This is where you have your
+
+851
+00:26:02,240 --> 00:26:04,800
+authority figure. If you're selling
+
+852
+00:26:03,760 --> 00:26:06,000
+supplements, this is where you're going
+
+853
+00:26:04,800 --> 00:26:07,680
+to have a lot of your ingredient
+
+854
+00:26:06,000 --> 00:26:09,280
+explaining the research behind them. The
+
+855
+00:26:07,680 --> 00:26:11,280
+how it works section, especially with
+
+856
+00:26:09,280 --> 00:26:13,200
+gifts, can be incredibly powerful. You
+
+857
+00:26:11,280 --> 00:26:14,960
+know, specifically who it's for. Maybe
+
+858
+00:26:13,200 --> 00:26:16,960
+having a comparison, especially for
+
+859
+00:26:14,960 --> 00:26:18,560
+level four, stage four sophistication
+
+860
+00:26:16,960 --> 00:26:19,920
+markets is super super important. Even
+
+861
+00:26:18,560 --> 00:26:21,440
+stage three sophistication, I would say,
+
+862
+00:26:19,920 --> 00:26:23,120
+is very important for that technology.
+
+863
+00:26:21,440 --> 00:26:24,800
+Basically, like the how this thing
+
+864
+00:26:23,120 --> 00:26:26,240
+actually [ __ ] works. And if we scroll
+
+865
+00:26:24,800 --> 00:26:27,760
+down on this example lander, that's
+
+866
+00:26:26,240 --> 00:26:29,920
+exactly what we see. We see it here,
+
+867
+00:26:27,760 --> 00:26:32,480
+which is the exact how it works section.
+
+868
+00:26:29,920 --> 00:26:33,630
+We have more embedded social proof here.
+
+869
+00:26:32,480 --> 00:26:35,040
+And then boom, it's going
+
+870
+00:26:33,630 --> 00:26:37,360
+[clears throat] deeply into how it
+
+871
+00:26:35,040 --> 00:26:38,720
+works, the actual mechanism uh that this
+
+872
+00:26:37,360 --> 00:26:40,800
+product actually works. Boom, more
+
+873
+00:26:38,720 --> 00:26:42,800
+social proof and transformations. Boom,
+
+874
+00:26:40,800 --> 00:26:45,200
+more education. So like they're seating
+
+875
+00:26:42,800 --> 00:26:46,960
+all the social proof in between these
+
+876
+00:26:45,200 --> 00:26:48,160
+educational sections cuz this is where
+
+877
+00:26:46,960 --> 00:26:49,440
+you're going to lose a lot of people
+
+878
+00:26:48,160 --> 00:26:51,200
+because this is where you stop talking
+
+879
+00:26:49,440 --> 00:26:52,560
+about what it can do for you and
+
+880
+00:26:51,200 --> 00:26:54,640
+specifics on the product and the
+
+881
+00:26:52,560 --> 00:26:56,960
+mechanism with which it works. So
+
+882
+00:26:54,640 --> 00:26:58,400
+injecting that social proof is super
+
+883
+00:26:56,960 --> 00:27:00,320
+super powerful like these guys are doing
+
+884
+00:26:58,400 --> 00:27:02,400
+here. Here's another example of you know
+
+885
+00:27:00,320 --> 00:27:04,000
+how it works. more injected social proof
+
+886
+00:27:02,400 --> 00:27:05,600
+as well. Now, we have the ingredients
+
+887
+00:27:04,000 --> 00:27:06,960
+section going through each one and
+
+888
+00:27:05,600 --> 00:27:08,320
+explaining it. What I think they could
+
+889
+00:27:06,960 --> 00:27:09,920
+be doing better here is like showing
+
+890
+00:27:08,320 --> 00:27:11,360
+research behind it. Like, yes, they say
+
+891
+00:27:09,920 --> 00:27:12,800
+sciencebacked, but what if you're able
+
+892
+00:27:11,360 --> 00:27:14,720
+to actually see the research? Once
+
+893
+00:27:12,800 --> 00:27:16,560
+again, another how it works section.
+
+894
+00:27:14,720 --> 00:27:18,640
+Actually, how to use the product, I
+
+895
+00:27:16,560 --> 00:27:20,240
+should say. More injected social proof.
+
+896
+00:27:18,640 --> 00:27:21,840
+Next, we have a comparison. As you can
+
+897
+00:27:20,240 --> 00:27:24,160
+see, comparisons can work really, really
+
+898
+00:27:21,840 --> 00:27:26,720
+well. Us versus them. Risk reversal.
+
+899
+00:27:24,160 --> 00:27:29,120
+Once again, an additional FAQ. As you
+
+900
+00:27:26,720 --> 00:27:31,040
+can see here, we have more objections
+
+901
+00:27:29,120 --> 00:27:32,720
+being handled. And then finally, we got
+
+902
+00:27:31,040 --> 00:27:35,360
+our little offer card, which is going
+
+903
+00:27:32,720 --> 00:27:37,920
+back to those outcomes, the CTA, maybe
+
+904
+00:27:35,360 --> 00:27:39,600
+some urgency, some scarcity. And that's
+
+905
+00:27:37,920 --> 00:27:40,720
+it. That's it for this entire page here.
+
+906
+00:27:39,600 --> 00:27:42,320
+As you can see, this last piece that I
+
+907
+00:27:40,720 --> 00:27:43,680
+have blocked off is just that that offer
+
+908
+00:27:42,320 --> 00:27:44,800
+portion. By the way, guys, if you want
+
+909
+00:27:43,680 --> 00:27:46,480
+this template, just go to my Instagram
+
+910
+00:27:44,800 --> 00:27:48,400
+and I'll give it to you. It's Markbuilds
+
+911
+00:27:46,480 --> 00:27:49,920
+Brands. DM me the word template so I
+
+912
+00:27:48,400 --> 00:27:51,360
+know that's what you're looking for and
+
+913
+00:27:49,920 --> 00:27:52,880
+I'll just send it to you for free so you
+
+914
+00:27:51,360 --> 00:27:54,560
+can use it. Now, I want to go over some
+
+915
+00:27:52,880 --> 00:27:56,320
+bonus persuasive elements that you can
+
+916
+00:27:54,560 --> 00:27:58,320
+add on your page to increase the
+
+917
+00:27:56,320 --> 00:28:00,320
+conversion rate. I spoke a little bit
+
+918
+00:27:58,320 --> 00:28:02,640
+about authority. I know a lot of you
+
+919
+00:28:00,320 --> 00:28:04,400
+guys are using, you know, doctors or,
+
+920
+00:28:02,640 --> 00:28:06,160
+you know, veterinarians or whatever your
+
+921
+00:28:04,400 --> 00:28:07,760
+authority figure is, and that's great.
+
+922
+00:28:06,160 --> 00:28:09,040
+Authority is an incredibly powerful
+
+923
+00:28:07,760 --> 00:28:10,800
+thing. But here's the thing I want to
+
+924
+00:28:09,040 --> 00:28:13,040
+warn you about with authority. Don't
+
+925
+00:28:10,800 --> 00:28:14,880
+default to what you think the authority
+
+926
+00:28:13,040 --> 00:28:17,040
+figure is. In more sophisticated
+
+927
+00:28:14,880 --> 00:28:19,360
+markets, a lot of times there's actually
+
+928
+00:28:17,040 --> 00:28:21,280
+resentment towards doctors, towards
+
+929
+00:28:19,360 --> 00:28:23,360
+veterinarians, towards like insert
+
+930
+00:28:21,280 --> 00:28:25,280
+authority figure here. And like the real
+
+931
+00:28:23,360 --> 00:28:27,440
+authority figure for them is somebody
+
+932
+00:28:25,280 --> 00:28:29,440
+who is like, I've been there. I've tried
+
+933
+00:28:27,440 --> 00:28:31,200
+it all. And then I like I said, [ __ ]
+
+934
+00:28:29,440 --> 00:28:32,800
+this system, you know? [ __ ] the doctors.
+
+935
+00:28:31,200 --> 00:28:34,560
+[ __ ] this. And I became my own [ __ ]
+
+936
+00:28:32,800 --> 00:28:36,400
+thing. So this ultimately comes down to
+
+937
+00:28:34,560 --> 00:28:38,000
+research. You should know what your true
+
+938
+00:28:36,400 --> 00:28:40,000
+authority figure is through the
+
+939
+00:28:38,000 --> 00:28:42,320
+research. Maybe it actually is a doctor.
+
+940
+00:28:40,000 --> 00:28:43,920
+Maybe it's not though, and you end up
+
+941
+00:28:42,320 --> 00:28:45,840
+[ __ ] yourself from day one because
+
+942
+00:28:43,920 --> 00:28:47,440
+you just assumed that it's a doctor.
+
+943
+00:28:45,840 --> 00:28:49,200
+Especially with like where the world is
+
+944
+00:28:47,440 --> 00:28:51,280
+going now. I think if anything we have
+
+945
+00:28:49,200 --> 00:28:54,240
+less and less trust in the medical
+
+946
+00:28:51,280 --> 00:28:56,000
+system in general. So that's shared with
+
+947
+00:28:54,240 --> 00:28:57,840
+a lot of your market. So keep that in in
+
+948
+00:28:56,000 --> 00:29:00,320
+consideration. Two additional elements,
+
+949
+00:28:57,840 --> 00:29:01,680
+scarcity and urgency. Scarcity is when
+
+950
+00:29:00,320 --> 00:29:03,680
+obviously you tell people that there's
+
+951
+00:29:01,680 --> 00:29:04,960
+only x amount of units or x amount of I
+
+952
+00:29:03,680 --> 00:29:06,960
+guess that would be it. Just ask x
+
+953
+00:29:04,960 --> 00:29:08,800
+amount of units for them to be able to
+
+954
+00:29:06,960 --> 00:29:10,320
+secure a discount. Just make sure that
+
+955
+00:29:08,800 --> 00:29:12,480
+you use it ethically because you can get
+
+956
+00:29:10,320 --> 00:29:14,080
+[ __ ] Uh same thing with urgency. The
+
+957
+00:29:12,480 --> 00:29:15,280
+best ways to use urgency I think is
+
+958
+00:29:14,080 --> 00:29:17,040
+actually what these guys are doing
+
+959
+00:29:15,280 --> 00:29:19,200
+because it's very indirect. Like they
+
+960
+00:29:17,040 --> 00:29:20,560
+say, you know, only this many units. I
+
+961
+00:29:19,200 --> 00:29:21,840
+guess that's not very compliant. But
+
+962
+00:29:20,560 --> 00:29:23,200
+what I was referring to is like these
+
+963
+00:29:21,840 --> 00:29:25,360
+sales. In the United States, there's
+
+964
+00:29:23,200 --> 00:29:26,960
+holidays [ __ ] every few weeks. And
+
+965
+00:29:25,360 --> 00:29:30,720
+you can always use that as like an
+
+966
+00:29:26,960 --> 00:29:31,840
+indirect way to get urgency and to, you
+
+967
+00:29:30,720 --> 00:29:33,120
+know, increase your conversion rate
+
+968
+00:29:31,840 --> 00:29:35,520
+because people want to take advantage of
+
+969
+00:29:33,120 --> 00:29:37,920
+it. Lastly, I want to talk about CRO and
+
+970
+00:29:35,520 --> 00:29:41,360
+split testing. especially uh split
+
+971
+00:29:37,920 --> 00:29:43,200
+testing can be an absolute cesspool of
+
+972
+00:29:41,360 --> 00:29:45,600
+[ __ ] that doesn't actually move the
+
+973
+00:29:43,200 --> 00:29:47,680
+needle and gives especially Facebook and
+
+974
+00:29:45,600 --> 00:29:49,360
+the pixel conflicting data. Let me draw
+
+975
+00:29:47,680 --> 00:29:51,120
+this out so you know what I mean. So if
+
+976
+00:29:49,360 --> 00:29:52,720
+you have like an ad here and you're
+
+977
+00:29:51,120 --> 00:29:55,280
+driving traffic to this first page, I
+
+978
+00:29:52,720 --> 00:29:56,960
+don't care if it's advtorial or a PDP or
+
+979
+00:29:55,280 --> 00:29:58,480
+whatever, it doesn't really matter. What
+
+980
+00:29:56,960 --> 00:30:01,040
+does matter is that you don't run split
+
+981
+00:29:58,480 --> 00:30:03,840
+tests on this page. Yes, I said it. Sue
+
+982
+00:30:01,040 --> 00:30:05,200
+me. The ultimate truth that I've seen is
+
+983
+00:30:03,840 --> 00:30:07,200
+that as soon as you start to make
+
+984
+00:30:05,200 --> 00:30:09,280
+changes on the page that Facebook crawls
+
+985
+00:30:07,200 --> 00:30:10,800
+the most in your funnel. It [ __ ] up
+
+986
+00:30:09,280 --> 00:30:13,280
+your optimization, [ __ ] up your
+
+987
+00:30:10,800 --> 00:30:14,960
+learning, and it can actually number one
+
+988
+00:30:13,280 --> 00:30:16,960
+skew the results of your split test, but
+
+989
+00:30:14,960 --> 00:30:18,640
+number two, destroy your control. Do you
+
+990
+00:30:16,960 --> 00:30:20,400
+want to destroy your control like cause
+
+991
+00:30:18,640 --> 00:30:22,480
+more variability and your rorowass and
+
+992
+00:30:20,400 --> 00:30:23,920
+performance? I don't. So, anytime that I
+
+993
+00:30:22,480 --> 00:30:26,320
+want to test this first page, whether
+
+994
+00:30:23,920 --> 00:30:28,080
+that's quiz, avitorial, PDP, whatever, I
+
+995
+00:30:26,320 --> 00:30:30,720
+always create new post IDs and send them
+
+996
+00:30:28,080 --> 00:30:32,880
+to a new URL using the same creatives,
+
+997
+00:30:30,720 --> 00:30:34,880
+of course, but new post IDs entirely.
+
+998
+00:30:32,880 --> 00:30:36,880
+This is the true way to get good
+
+999
+00:30:34,880 --> 00:30:39,280
+performance data on split test because
+
+1000
+00:30:36,880 --> 00:30:41,360
+Facebook views these pages as data like
+
+1001
+00:30:39,280 --> 00:30:43,680
+this, right? The source code. So, it has
+
+1002
+00:30:41,360 --> 00:30:46,320
+all this data. It scans it constantly
+
+1003
+00:30:43,680 --> 00:30:48,240
+throughout the day and it can notice
+
+1004
+00:30:46,320 --> 00:30:49,360
+when you're making changes to the pages.
+
+1005
+00:30:48,240 --> 00:30:51,120
+And so if you're constantly making
+
+1006
+00:30:49,360 --> 00:30:52,320
+changes to these pages, then that's
+
+1007
+00:30:51,120 --> 00:30:53,520
+going to affect the traffic that
+
+1008
+00:30:52,320 --> 00:30:54,640
+Facebook is going to be sending you,
+
+1009
+00:30:53,520 --> 00:30:56,400
+which can affect your conversion rate
+
+1010
+00:30:54,640 --> 00:30:58,240
+and the results of the split test. So
+
+1011
+00:30:56,400 --> 00:30:59,520
+don't do it. Just launch new post IDs.
+
+1012
+00:30:58,240 --> 00:31:01,040
+And I promise you, you'll thank me
+
+1013
+00:30:59,520 --> 00:31:02,720
+later. The time that I saw that this was
+
+1014
+00:31:01,040 --> 00:31:04,480
+so [ __ ] clear is that I was running
+
+1015
+00:31:02,720 --> 00:31:06,720
+split tests on this first page. By the
+
+1016
+00:31:04,480 --> 00:31:08,880
+way, I've had this opinion for years. I
+
+1017
+00:31:06,720 --> 00:31:10,080
+think since like 2019, because I
+
+1018
+00:31:08,880 --> 00:31:11,680
+realized as soon as I started doing
+
+1019
+00:31:10,080 --> 00:31:13,520
+split testing there, like all my results
+
+1020
+00:31:11,680 --> 00:31:14,960
+would go to [ __ ] including the control,
+
+1021
+00:31:13,520 --> 00:31:17,200
+which was already working. If you want
+
+1022
+00:31:14,960 --> 00:31:18,480
+to run split tests on additional pages
+
+1023
+00:31:17,200 --> 00:31:19,680
+after this first page that you send
+
+1024
+00:31:18,480 --> 00:31:21,360
+traffic to, let's say this actually is
+
+1025
+00:31:19,680 --> 00:31:22,560
+an advtorial and then you go to a sales
+
+1026
+00:31:21,360 --> 00:31:24,400
+page. You want to run split tests here
+
+1027
+00:31:22,560 --> 00:31:25,920
+by diverting traffic 50/50. Cool. You
+
+1028
+00:31:24,400 --> 00:31:28,560
+can do it 100%. Just make sure that you
+
+1029
+00:31:25,920 --> 00:31:30,800
+track it properly. The true way that I
+
+1030
+00:31:28,560 --> 00:31:32,400
+look at conversion rate test, CRO test
+
+1031
+00:31:30,800 --> 00:31:34,720
+rather, is not through conversion rate.
+
+1032
+00:31:32,400 --> 00:31:36,080
+It's almost exclusively through EPV
+
+1033
+00:31:34,720 --> 00:31:37,520
+because a lot of times the changes that
+
+1034
+00:31:36,080 --> 00:31:38,800
+you make actually affect your average
+
+1035
+00:31:37,520 --> 00:31:40,160
+order value. and you'll see the
+
+1036
+00:31:38,800 --> 00:31:42,000
+conversion rate drop, but the average
+
+1037
+00:31:40,160 --> 00:31:44,640
+order value increases substantially,
+
+1038
+00:31:42,000 --> 00:31:46,560
+which actually on a net EPV basis would
+
+1039
+00:31:44,640 --> 00:31:48,240
+make that new variation more profitable
+
+1040
+00:31:46,560 --> 00:31:49,840
+than your control. So, always look at
+
+1041
+00:31:48,240 --> 00:31:52,240
+EPV, earnings per view. You can even
+
+1042
+00:31:49,840 --> 00:31:53,600
+look at like profit per view as a better
+
+1043
+00:31:52,240 --> 00:31:55,280
+indicator. If you're even changing like
+
+1044
+00:31:53,600 --> 00:31:56,800
+the SKUs associated with your free
+
+1045
+00:31:55,280 --> 00:31:58,560
+gifts, that can be a very great metric
+
+1046
+00:31:56,800 --> 00:32:00,400
+to look at as well. And honestly, in
+
+1047
+00:31:58,560 --> 00:32:03,200
+general, when it comes to split testing
+
+1048
+00:32:00,400 --> 00:32:05,600
+stuff, guys, think not in terms of what
+
+1049
+00:32:03,200 --> 00:32:07,360
+can I add on the page to make people buy
+
+1050
+00:32:05,600 --> 00:32:09,600
+more and instead ask yourself, what can
+
+1051
+00:32:07,360 --> 00:32:11,520
+I remove? A lot of times, removing stuff
+
+1052
+00:32:09,600 --> 00:32:13,520
+can have a better impact on your
+
+1053
+00:32:11,520 --> 00:32:14,560
+conversion rate than adding stuff.
+
+1054
+00:32:13,520 --> 00:32:16,000
+Because the more that you add, the
+
+1055
+00:32:14,560 --> 00:32:17,360
+heavier the page gets, the slower it
+
+1056
+00:32:16,000 --> 00:32:20,080
+loads, the fewer people actually even
+
+1057
+00:32:17,360 --> 00:32:21,520
+get to see that content. So, test both.
+
+1058
+00:32:20,080 --> 00:32:22,800
+But a lot of times, the best way to
+
+1059
+00:32:21,520 --> 00:32:24,720
+become more profitable is through
+
+1060
+00:32:22,800 --> 00:32:26,560
+subtraction, not addition. Typically,
+
+1061
+00:32:24,720 --> 00:32:28,640
+like the reason that I see people not be
+
+1062
+00:32:26,560 --> 00:32:29,920
+able to increase the conversion rate on
+
+1063
+00:32:28,640 --> 00:32:30,880
+their page, it's not because of the
+
+1064
+00:32:29,920 --> 00:32:32,240
+structure. It's not because of the
+
+1065
+00:32:30,880 --> 00:32:34,320
+template. I just gave you the template
+
+1066
+00:32:32,240 --> 00:32:35,920
+right here. Instead, they launch it and
+
+1067
+00:32:34,320 --> 00:32:37,200
+they don't know what to tweak. They
+
+1068
+00:32:35,920 --> 00:32:38,800
+don't know what numbers to look at. They
+
+1069
+00:32:37,200 --> 00:32:41,360
+don't know how to analyze the heat maps.
+
+1070
+00:32:38,800 --> 00:32:43,680
+They don't know drop off KPIs. And the
+
+1071
+00:32:41,360 --> 00:32:45,280
+only way to really be able to see what
+
+1072
+00:32:43,680 --> 00:32:47,280
+is actually going wrong is just to learn
+
+1073
+00:32:45,280 --> 00:32:48,800
+from somebody who knows it better than
+
+1074
+00:32:47,280 --> 00:32:50,720
+you. Truthfully, the amount of split
+
+1075
+00:32:48,800 --> 00:32:53,120
+tests that I have run since I got
+
+1076
+00:32:50,720 --> 00:32:55,920
+started running ads in 2018 is in the
+
+1077
+00:32:53,120 --> 00:32:57,280
+thousands. easily and I've just tested
+
+1078
+00:32:55,920 --> 00:32:59,200
+so many things I know exactly what
+
+1079
+00:32:57,280 --> 00:33:00,960
+works. So like that's why I built Brand
+
+1080
+00:32:59,200 --> 00:33:02,640
+Builder Academy because I see so many
+
+1081
+00:33:00,960 --> 00:33:03,680
+people watching videos like this, they
+
+1082
+00:33:02,640 --> 00:33:05,520
+make the adjustments and they still
+
+1083
+00:33:03,680 --> 00:33:07,360
+don't get results, still not profitable.
+
+1084
+00:33:05,520 --> 00:33:09,200
+And all it takes a lot of times is one
+
+1085
+00:33:07,360 --> 00:33:11,440
+simple little tweak. So every single
+
+1086
+00:33:09,200 --> 00:33:13,440
+Monday I have calls inside of BBA. I go
+
+1087
+00:33:11,440 --> 00:33:14,800
+through your landers, your ads, identify
+
+1088
+00:33:13,440 --> 00:33:16,160
+the real constraint, and give you the
+
+1089
+00:33:14,800 --> 00:33:17,440
+solution. And then people will come back
+
+1090
+00:33:16,160 --> 00:33:19,360
+to me next week and we'll be just
+
+1091
+00:33:17,440 --> 00:33:20,880
+absolutely printing. So if you want to
+
+1092
+00:33:19,360 --> 00:33:22,400
+join and work more closely with me, you
+
+1093
+00:33:20,880 --> 00:33:23,920
+can always join Brands Academy and my
+
+1094
+00:33:22,400 --> 00:33:24,960
+mentorship. just click the first link in
+
+1095
+00:33:23,920 --> 00:33:26,000
+the description of this video. Other
+
+1096
+00:33:24,960 --> 00:33:27,040
+than that guys, thank you so much for
+
+1097
+00:33:26,000 --> 00:33:29,200
+watching and I'll see you on the next
+
+1098
+00:33:27,040 --> 00:33:29,200
+one.
+

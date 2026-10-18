@@ -1,0 +1,2768 @@
+1
+00:00:00,000 --> 00:00:03,440
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,520 --> 00:00:06,120
+going to be explaining how the entire
+
+3
+00:00:03,440 --> 00:00:07,560
+Meta Ads algorithm actually works. A lot
+
+4
+00:00:06,120 --> 00:00:09,760
+of people think that running ads on
+
+5
+00:00:07,560 --> 00:00:11,160
+Facebook is just all random or that if
+
+6
+00:00:09,760 --> 00:00:12,560
+your creative is good enough, then
+
+7
+00:00:11,160 --> 00:00:14,360
+everything else will just magically fall
+
+8
+00:00:12,560 --> 00:00:16,240
+into place. Well, running profitable ads
+
+9
+00:00:14,360 --> 00:00:18,360
+on Facebook is both an art and a
+
+10
+00:00:16,240 --> 00:00:19,880
+science. The art is the creative, but
+
+11
+00:00:18,360 --> 00:00:21,760
+the science is exactly what I'm going to
+
+12
+00:00:19,880 --> 00:00:23,400
+be explaining in this video, how the
+
+13
+00:00:21,760 --> 00:00:24,800
+algorithm actually works. And more
+
+14
+00:00:23,400 --> 00:00:26,560
+specifically than a science, it's
+
+15
+00:00:24,800 --> 00:00:28,720
+actually an equation. And this is the
+
+16
+00:00:26,560 --> 00:00:30,840
+one equation that is actually going to
+
+17
+00:00:28,720 --> 00:00:32,280
+determine how profitable your ads are
+
+18
+00:00:30,840 --> 00:00:34,280
+going to be. Now, before I break down
+
+19
+00:00:32,280 --> 00:00:36,360
+this equation, I need to explain to you
+
+20
+00:00:34,280 --> 00:00:37,960
+the four-step process that Facebook uses
+
+21
+00:00:36,360 --> 00:00:39,720
+to actually show your ads, the one
+
+22
+00:00:37,960 --> 00:00:41,680
+update that broke everybody's ad
+
+23
+00:00:39,720 --> 00:00:42,600
+account, and at the end of this video,
+
+24
+00:00:41,680 --> 00:00:44,160
+I'm going to put in a little something
+
+25
+00:00:42,600 --> 00:00:46,080
+special to explain what this actually
+
+26
+00:00:44,160 --> 00:00:47,040
+all means and how the game really works.
+
+27
+00:00:46,080 --> 00:00:48,240
+All right, so before we get too
+
+28
+00:00:47,040 --> 00:00:50,160
+technical, this is what you have to
+
+29
+00:00:48,240 --> 00:00:52,280
+understand. Facebook basically goes
+
+30
+00:00:50,160 --> 00:00:54,440
+through a four-step process to determine
+
+31
+00:00:52,280 --> 00:00:56,240
+which ad is going to show for any
+
+32
+00:00:54,440 --> 00:00:58,160
+particular user. Every time somebody
+
+33
+00:00:56,240 --> 00:01:00,000
+opens up their phone on Instagram and
+
+34
+00:00:58,160 --> 00:01:01,640
+they scroll and see an ad behind the
+
+35
+00:01:00,000 --> 00:01:03,720
+means there's literally a 200
+
+36
+00:01:01,640 --> 00:01:06,800
+millisecond window where Facebook is
+
+37
+00:01:03,720 --> 00:01:08,680
+doing all these incredible calculations
+
+38
+00:01:06,800 --> 00:01:10,680
+and machine learning decisions to
+
+39
+00:01:08,680 --> 00:01:12,880
+ultimately decide to put your ad in
+
+40
+00:01:10,680 --> 00:01:15,240
+front of the user or somebody else's.
+
+41
+00:01:12,880 --> 00:01:17,400
+So, in that one 200 millisecond period,
+
+42
+00:01:15,240 --> 00:01:19,920
+there is literally tens of millions of
+
+43
+00:01:17,400 --> 00:01:21,800
+ads that are competing for that one
+
+44
+00:01:19,920 --> 00:01:23,600
+impression. And these are the four steps
+
+45
+00:01:21,800 --> 00:01:26,120
+right here. First, you have retrieval.
+
+46
+00:01:23,600 --> 00:01:28,120
+Second is light ranking. Third is heavy
+
+47
+00:01:26,120 --> 00:01:29,760
+ranking. And the final piece is the
+
+48
+00:01:28,120 --> 00:01:31,560
+auction. So, let me break this down for
+
+49
+00:01:29,760 --> 00:01:35,000
+you. So, first up is retrieval.
+
+50
+00:01:31,560 --> 00:01:36,880
+Retrieval is the most data-intensive
+
+51
+00:01:35,000 --> 00:01:38,840
+portion of this entire process because
+
+52
+00:01:36,880 --> 00:01:40,600
+as I said, there's tens of millions of
+
+53
+00:01:38,840 --> 00:01:42,880
+ads, tens of millions that are competing
+
+54
+00:01:40,600 --> 00:01:45,240
+for one individual spot. The process of
+
+55
+00:01:42,880 --> 00:01:47,200
+retrieval is essentially Facebook going
+
+56
+00:01:45,240 --> 00:01:49,440
+through and ultimately deciding, is the
+
+57
+00:01:47,200 --> 00:01:52,160
+ad right now even remotely relevant to
+
+58
+00:01:49,440 --> 00:01:54,680
+this user? Basically, like is it even in
+
+59
+00:01:52,160 --> 00:01:56,560
+the right ballpark? Now, this is also
+
+60
+00:01:54,680 --> 00:01:58,520
+the portion of the process where
+
+61
+00:01:56,560 --> 00:02:00,520
+Facebook actually analyzes all the
+
+62
+00:01:58,520 --> 00:02:02,920
+aspects of your creative to determine
+
+63
+00:02:00,520 --> 00:02:04,080
+how to narrow down the audience. So, you
+
+64
+00:02:02,920 --> 00:02:06,320
+may have heard this before, but this
+
+65
+00:02:04,080 --> 00:02:08,000
+whole concept of your creative is your
+
+66
+00:02:06,320 --> 00:02:09,680
+targeting. This is where Facebook is
+
+67
+00:02:08,000 --> 00:02:11,880
+analyzing everything about your creative
+
+68
+00:02:09,680 --> 00:02:14,720
+to determine who to show it to. This
+
+69
+00:02:11,880 --> 00:02:18,040
+includes, but is not limited to, your
+
+70
+00:02:14,720 --> 00:02:20,400
+hook, your format, the demographic of
+
+71
+00:02:18,040 --> 00:02:22,040
+the users that are actually on your ad.
+
+72
+00:02:20,400 --> 00:02:24,320
+So, for example, if you're running an ad
+
+73
+00:02:22,040 --> 00:02:26,240
+that is featuring a woman that is 55
+
+74
+00:02:24,320 --> 00:02:27,480
+years old, Facebook takes note of that
+
+75
+00:02:26,240 --> 00:02:29,280
+and it's going to use that to power the
+
+76
+00:02:27,480 --> 00:02:31,400
+targeting to skew much more towards
+
+77
+00:02:29,280 --> 00:02:32,880
+women and skew much more towards older
+
+78
+00:02:31,400 --> 00:02:34,240
+women specifically. Of course, all taken
+
+79
+00:02:32,880 --> 00:02:35,520
+into context with what the creative is
+
+80
+00:02:34,240 --> 00:02:38,080
+actually saying. It's also looking at
+
+81
+00:02:35,520 --> 00:02:40,120
+your copy, it's looking at your script.
+
+82
+00:02:38,080 --> 00:02:41,880
+If you're running video ads, it's
+
+83
+00:02:40,120 --> 00:02:43,360
+looking at your thumbnail. It's even
+
+84
+00:02:41,880 --> 00:02:45,600
+going and looking at your landing page
+
+85
+00:02:43,360 --> 00:02:46,520
+to determine generally who is this ad
+
+86
+00:02:45,600 --> 00:02:47,880
+trying to target. This is a
+
+87
+00:02:46,520 --> 00:02:49,760
+non-exhaustive list. I'm really
+
+88
+00:02:47,880 --> 00:02:52,200
+simplifying this. Behind the scenes,
+
+89
+00:02:49,760 --> 00:02:54,520
+it's a pretty substantial, literally an
+
+90
+00:02:52,200 --> 00:02:56,080
+algorithm in order to determine which
+
+91
+00:02:54,520 --> 00:02:57,920
+variable is going to correlate to which
+
+92
+00:02:56,080 --> 00:03:00,320
+piece of targeting. And this is probably
+
+93
+00:02:57,920 --> 00:03:02,200
+a good time to mention the Andromeda
+
+94
+00:03:00,320 --> 00:03:05,440
+update. Andromeda what is was an update
+
+95
+00:03:02,200 --> 00:03:07,320
+to the sorting process of the retrieval
+
+96
+00:03:05,440 --> 00:03:08,960
+steps specifically. Mostly just because
+
+97
+00:03:07,320 --> 00:03:11,000
+there was a massive influx of AI
+
+98
+00:03:08,960 --> 00:03:12,640
+creative that was absolutely flooding
+
+99
+00:03:11,000 --> 00:03:13,760
+Facebook to the point where their old
+
+100
+00:03:12,640 --> 00:03:15,200
+model of sifting through all these
+
+101
+00:03:13,760 --> 00:03:16,600
+creatives was not becoming very
+
+102
+00:03:15,200 --> 00:03:18,000
+effective. This is not the only reason
+
+103
+00:03:16,600 --> 00:03:20,040
+for the Andromeda update, but I believe
+
+104
+00:03:18,000 --> 00:03:22,120
+this is one of the biggest ones simply
+
+105
+00:03:20,040 --> 00:03:23,800
+due to the fact that AI has massively
+
+106
+00:03:22,120 --> 00:03:26,160
+increased creative production for all
+
+107
+00:03:23,800 --> 00:03:27,920
+advertisers. And now that's why Facebook
+
+108
+00:03:26,160 --> 00:03:29,640
+is mostly looking at creative to
+
+109
+00:03:27,920 --> 00:03:31,760
+determine targeting, not what you have
+
+110
+00:03:29,640 --> 00:03:33,640
+going on within your ad sets. That's why
+
+111
+00:03:31,760 --> 00:03:35,800
+you've probably seen a decline in
+
+112
+00:03:33,640 --> 00:03:38,040
+audiences that are actually able to
+
+113
+00:03:35,800 --> 00:03:40,560
+sustain high budgets profitably. Like I
+
+114
+00:03:38,040 --> 00:03:42,200
+rarely use audiences like interest, and
+
+115
+00:03:40,560 --> 00:03:44,200
+if I do, they're pretty capped in terms
+
+116
+00:03:42,200 --> 00:03:46,560
+of budget or, you know, lookalikes or
+
+117
+00:03:44,200 --> 00:03:48,880
+even custom audiences. Like I don't set
+
+118
+00:03:46,560 --> 00:03:50,520
+any real [ __ ] targeting when it comes
+
+119
+00:03:48,880 --> 00:03:52,080
+to my retargeting. I don't put any
+
+120
+00:03:50,520 --> 00:03:54,200
+custom audiences in there. I literally
+
+121
+00:03:52,080 --> 00:03:56,120
+just still run completely broad. And
+
+122
+00:03:54,200 --> 00:03:57,280
+most high-skill advertisers that I speak
+
+123
+00:03:56,120 --> 00:03:58,880
+to, they're doing something relatively
+
+124
+00:03:57,280 --> 00:04:00,600
+similar. Maybe one exclusion of
+
+125
+00:03:58,880 --> 00:04:02,320
+purchasers, but like other than that,
+
+126
+00:04:00,600 --> 00:04:04,280
+very, very broad. So, if that was kind
+
+127
+00:04:02,320 --> 00:04:06,640
+of the old way of doing targeting on
+
+128
+00:04:04,280 --> 00:04:08,440
+Facebook, the new way is to do a lot of
+
+129
+00:04:06,640 --> 00:04:10,640
+broad targeting. It's to do a lot of
+
+130
+00:04:08,440 --> 00:04:13,320
+Advantage Plus campaigns, and it's
+
+131
+00:04:10,640 --> 00:04:15,360
+usually within reason, within reason.
+
+132
+00:04:13,320 --> 00:04:17,400
+Giving Facebook control. Like the reason
+
+133
+00:04:15,360 --> 00:04:19,520
+that I say it's within reason is because
+
+134
+00:04:17,400 --> 00:04:20,840
+if you give Facebook all the control,
+
+135
+00:04:19,520 --> 00:04:22,880
+the algorithm is good, don't get me
+
+136
+00:04:20,840 --> 00:04:24,840
+wrong, but holy [ __ ] the amount of
+
+137
+00:04:22,880 --> 00:04:27,000
+suggestions that Facebook gives you that
+
+138
+00:04:24,840 --> 00:04:28,480
+are horrible pieces of advice that are
+
+139
+00:04:27,000 --> 00:04:30,960
+just going to drain your [ __ ] bank
+
+140
+00:04:28,480 --> 00:04:32,640
+account is obscene. And it's always been
+
+141
+00:04:30,960 --> 00:04:34,320
+this way, too. They're still a company
+
+142
+00:04:32,640 --> 00:04:36,960
+at the end of the day, and you are a
+
+143
+00:04:34,320 --> 00:04:37,960
+customer. You are paying Facebook, so
+
+144
+00:04:36,960 --> 00:04:39,200
+they still want to get your money. I'll
+
+145
+00:04:37,960 --> 00:04:41,320
+save that for later in the video. Now,
+
+146
+00:04:39,200 --> 00:04:43,200
+the second step is going to be light
+
+147
+00:04:41,320 --> 00:04:44,880
+ranking. This step barely deserves a
+
+148
+00:04:43,200 --> 00:04:47,080
+description. It's basically taking the
+
+149
+00:04:44,880 --> 00:04:49,720
+now millions of ads instead of tens of
+
+150
+00:04:47,080 --> 00:04:51,600
+millions, and reducing it down to
+
+151
+00:04:49,720 --> 00:04:52,880
+thousands. There's really not a a whole
+
+152
+00:04:51,600 --> 00:04:55,040
+lot more to say about the light ranking
+
+153
+00:04:52,880 --> 00:04:56,720
+process. Now, the heavy ranking is the
+
+154
+00:04:55,040 --> 00:04:58,640
+next step, which, you guessed it, if
+
+155
+00:04:56,720 --> 00:05:00,920
+it's going from thousands of ads, you're
+
+156
+00:04:58,640 --> 00:05:02,800
+now trying to get to a couple hundred.
+
+157
+00:05:00,920 --> 00:05:04,880
+Now, at this point, this is like your
+
+158
+00:05:02,800 --> 00:05:06,280
+real, legitimate competitors. Like this
+
+159
+00:05:04,880 --> 00:05:07,840
+is the stage where competitors are
+
+160
+00:05:06,280 --> 00:05:09,720
+actually something that you should take
+
+161
+00:05:07,840 --> 00:05:11,600
+into consideration, because you don't
+
+162
+00:05:09,720 --> 00:05:13,840
+have tens of millions of competitors.
+
+163
+00:05:11,600 --> 00:05:14,840
+You just don't. You probably only have a
+
+164
+00:05:13,840 --> 00:05:15,920
+handful, at least in the eyes of
+
+165
+00:05:14,840 --> 00:05:18,120
+Facebook, you only have a handful.
+
+166
+00:05:15,920 --> 00:05:19,960
+There's only 10 million advertisers
+
+167
+00:05:18,120 --> 00:05:21,960
+total on Facebook, which may seem like a
+
+168
+00:05:19,960 --> 00:05:23,920
+massive number, but also think about we
+
+169
+00:05:21,960 --> 00:05:25,560
+are in e-commerce specifically, at least
+
+170
+00:05:23,920 --> 00:05:26,680
+I'm in e-commerce specifically, which
+
+171
+00:05:25,560 --> 00:05:28,360
+immediately narrows it pretty
+
+172
+00:05:26,680 --> 00:05:30,280
+substantially. Now, the really important
+
+173
+00:05:28,360 --> 00:05:32,200
+piece about the heavy ranking step is
+
+174
+00:05:30,280 --> 00:05:33,680
+that this is where that equation
+
+175
+00:05:32,200 --> 00:05:35,160
+actually comes into play. So, I want to
+
+176
+00:05:33,680 --> 00:05:37,160
+take a second to talk about that,
+
+177
+00:05:35,160 --> 00:05:38,960
+because I remember Facebook released
+
+178
+00:05:37,160 --> 00:05:41,080
+this. They have since withdrawn it, but
+
+179
+00:05:38,960 --> 00:05:43,720
+they released this documentation to
+
+180
+00:05:41,080 --> 00:05:46,680
+explain how they actually assign a
+
+181
+00:05:43,720 --> 00:05:48,440
+specific value for every single ad when
+
+182
+00:05:46,680 --> 00:05:49,560
+they are fighting for an impression. And
+
+183
+00:05:48,440 --> 00:05:50,480
+the one that has a higher value,
+
+184
+00:05:49,560 --> 00:05:51,600
+obviously, is going to win the
+
+185
+00:05:50,480 --> 00:05:53,120
+impression and the one with the lower
+
+186
+00:05:51,600 --> 00:05:54,760
+value is going to lose the impression
+
+187
+00:05:53,120 --> 00:05:55,920
+and get served a lower quality
+
+188
+00:05:54,760 --> 00:05:57,200
+impression. All right, so this is the
+
+189
+00:05:55,920 --> 00:05:58,880
+equation I was talking about. This is
+
+190
+00:05:57,200 --> 00:06:01,880
+actually directly from Facebook.
+
+191
+00:05:58,880 --> 00:06:03,320
+Somebody swiped it and it is still on
+
+192
+00:06:01,880 --> 00:06:04,720
+their website, but it's not on Facebook.
+
+193
+00:06:03,320 --> 00:06:05,800
+But this is how it's actually working
+
+194
+00:06:04,720 --> 00:06:07,360
+underneath the hood, all right? So the
+
+195
+00:06:05,800 --> 00:06:10,000
+total value, this is what you want to
+
+196
+00:06:07,360 --> 00:06:12,520
+aim on maximizing, is equal to this
+
+197
+00:06:10,000 --> 00:06:15,840
+piece first of maximizing advertiser
+
+198
+00:06:12,520 --> 00:06:17,960
+value plus maximizing consumer value and
+
+199
+00:06:15,840 --> 00:06:19,840
+consumer experience. So the piece to
+
+200
+00:06:17,960 --> 00:06:21,600
+maximize your advertise value, number
+
+201
+00:06:19,840 --> 00:06:23,880
+one is going to be your bid, which we'll
+
+202
+00:06:21,600 --> 00:06:26,880
+get to in a second, times your estimated
+
+203
+00:06:23,880 --> 00:06:28,160
+action rate. Since 99% of us and 99% of
+
+204
+00:06:26,880 --> 00:06:29,960
+people watching this video are running
+
+205
+00:06:28,160 --> 00:06:32,200
+conversion campaigns, that essentially
+
+206
+00:06:29,960 --> 00:06:33,880
+means what is the estimated action rate
+
+207
+00:06:32,200 --> 00:06:35,600
+to get a conversion. And if you look
+
+208
+00:06:33,880 --> 00:06:37,160
+down here, you can see they actually
+
+209
+00:06:35,600 --> 00:06:40,280
+break it down specifically for a
+
+210
+00:06:37,160 --> 00:06:42,200
+conversion optimized ad, which is the
+
+211
+00:06:40,280 --> 00:06:44,440
+estimated click-through rate times the
+
+212
+00:06:42,200 --> 00:06:46,040
+estimated click-to-conversion rate. So
+
+213
+00:06:44,440 --> 00:06:48,520
+the way to get gamify this, of course,
+
+214
+00:06:46,040 --> 00:06:50,360
+is you want to have really high CTR.
+
+215
+00:06:48,520 --> 00:06:51,720
+Historically, Facebook just loves ads
+
+216
+00:06:50,360 --> 00:06:53,880
+that have really high CTR, and the
+
+217
+00:06:51,720 --> 00:06:57,040
+reason why is because that is the the
+
+218
+00:06:53,880 --> 00:06:59,800
+most pure indication of how relevant
+
+219
+00:06:57,040 --> 00:07:01,680
+that one particular ad is to the user.
+
+220
+00:06:59,800 --> 00:07:03,480
+So Facebook is going to reward you
+
+221
+00:07:01,680 --> 00:07:05,840
+typically over time and as you spend
+
+222
+00:07:03,480 --> 00:07:08,040
+more with lower cost to advertise, lower
+
+223
+00:07:05,840 --> 00:07:09,440
+CPMs, and ideally higher quality
+
+224
+00:07:08,040 --> 00:07:10,920
+traffic, too. So this is kind of like
+
+225
+00:07:09,440 --> 00:07:12,720
+the first piece of that. The second
+
+226
+00:07:10,920 --> 00:07:14,080
+piece is going to be you want to have a
+
+227
+00:07:12,720 --> 00:07:16,160
+high, they call it like
+
+228
+00:07:14,080 --> 00:07:17,640
+click-to-conversion. It's basically just
+
+229
+00:07:16,160 --> 00:07:18,960
+your conversion rate, which is out of
+
+230
+00:07:17,640 --> 00:07:20,920
+all the clicks that you had, how many
+
+231
+00:07:18,960 --> 00:07:23,000
+actually purchased. And again, if you're
+
+232
+00:07:20,920 --> 00:07:24,760
+running a e-commerce business, this is
+
+233
+00:07:23,000 --> 00:07:25,840
+going to be like a legitimate purchase
+
+234
+00:07:24,760 --> 00:07:27,840
+because that's typically what you're
+
+235
+00:07:25,840 --> 00:07:29,320
+optimizing for. But if you're in, you
+
+236
+00:07:27,840 --> 00:07:31,520
+know, the info industry, for example,
+
+237
+00:07:29,320 --> 00:07:33,400
+you're optimizing for calls, what is the
+
+238
+00:07:31,520 --> 00:07:35,040
+ratio between clicks to calls that
+
+239
+00:07:33,400 --> 00:07:36,760
+you're getting or clicks to applications
+
+240
+00:07:35,040 --> 00:07:38,680
+or insert your conversion here, it
+
+241
+00:07:36,760 --> 00:07:40,800
+doesn't really matter. Facebook views a
+
+242
+00:07:38,680 --> 00:07:42,240
+lot of this largely the same, at least
+
+243
+00:07:40,800 --> 00:07:43,560
+in the context of this equation. So the
+
+244
+00:07:42,240 --> 00:07:45,200
+way I like to think about this is the
+
+245
+00:07:43,560 --> 00:07:46,080
+estimated click-through rate, I think
+
+246
+00:07:45,200 --> 00:07:47,480
+it's actually more than the
+
+247
+00:07:46,080 --> 00:07:50,040
+click-through rate. I think it's a
+
+248
+00:07:47,480 --> 00:07:51,880
+culmination of all your soft metrics.
+
+249
+00:07:50,040 --> 00:07:53,800
+So, that is your CTR, but that's also
+
+250
+00:07:51,880 --> 00:07:55,560
+your CPC, your CPMs, your hook rate,
+
+251
+00:07:53,800 --> 00:07:57,120
+your hold rate, cost per 3-second video
+
+252
+00:07:55,560 --> 00:07:59,920
+view, like all these metrics that are
+
+253
+00:07:57,120 --> 00:08:01,320
+associated with getting somebody engaged
+
+254
+00:07:59,920 --> 00:08:04,200
+and getting them to click. And then the
+
+255
+00:08:01,320 --> 00:08:06,440
+second half of this is how good are you
+
+256
+00:08:04,200 --> 00:08:08,240
+at monetizing that click, taking that
+
+257
+00:08:06,440 --> 00:08:10,720
+click through your funnel, and turning
+
+258
+00:08:08,240 --> 00:08:11,880
+somebody who's a prospect into a buyer.
+
+259
+00:08:10,720 --> 00:08:13,840
+Pretty straightforward. And this last
+
+260
+00:08:11,880 --> 00:08:15,800
+piece is basically Facebook trying to
+
+261
+00:08:13,840 --> 00:08:17,520
+save their own ass from advertisers that
+
+262
+00:08:15,800 --> 00:08:19,520
+are incredibly aggressive and cause a
+
+263
+00:08:17,520 --> 00:08:21,760
+terrible user experience for the users.
+
+264
+00:08:19,520 --> 00:08:22,880
+Because if this piece just did not exist
+
+265
+00:08:21,760 --> 00:08:24,440
+and we didn't care about the user
+
+266
+00:08:22,880 --> 00:08:26,480
+experience whatsoever, advertisers would
+
+267
+00:08:24,440 --> 00:08:28,760
+just flood the platform and completely
+
+268
+00:08:26,480 --> 00:08:30,320
+just destroy Facebook as a platform
+
+269
+00:08:28,760 --> 00:08:31,840
+because you just have [ __ ] loads of
+
+270
+00:08:30,320 --> 00:08:33,280
+scammers, not like there isn't scammers
+
+271
+00:08:31,840 --> 00:08:35,200
+on Facebook anyways, but there would be
+
+272
+00:08:33,280 --> 00:08:37,040
+way more. Like it would be like 50/50
+
+273
+00:08:35,200 --> 00:08:38,640
+instead of 80/20, which is roughly what
+
+274
+00:08:37,040 --> 00:08:41,080
+it is right now. So, this is Facebook
+
+275
+00:08:38,640 --> 00:08:43,840
+saying, "Hey, I want you to have the
+
+276
+00:08:41,080 --> 00:08:46,680
+most relevant ads to the user, which is
+
+277
+00:08:43,840 --> 00:08:48,800
+CTR, all the soft metrics, and I want
+
+278
+00:08:46,680 --> 00:08:50,120
+you to actually get conversions for all
+
+279
+00:08:48,800 --> 00:08:51,760
+the clicks that you're getting, which is
+
+280
+00:08:50,120 --> 00:08:53,440
+the conversion rate, and I don't want
+
+281
+00:08:51,760 --> 00:08:54,640
+you to piss off all of our [ __ ] users
+
+282
+00:08:53,440 --> 00:08:56,360
+in the process." And that's the last
+
+283
+00:08:54,640 --> 00:08:58,480
+piece. All right, so we took it from
+
+284
+00:08:56,360 --> 00:09:00,360
+thousands of ads and now we're down to a
+
+285
+00:08:58,480 --> 00:09:02,160
+few hundred. In fact, sometimes it could
+
+286
+00:09:00,360 --> 00:09:03,800
+be even less than a few hundred. But now
+
+287
+00:09:02,160 --> 00:09:06,200
+we have the final step in the process,
+
+288
+00:09:03,800 --> 00:09:08,560
+which is going to be the auction. And
+
+289
+00:09:06,200 --> 00:09:11,040
+the auction is exactly what it sounds
+
+290
+00:09:08,560 --> 00:09:12,840
+like. It's all the advertisers that are
+
+291
+00:09:11,040 --> 00:09:15,160
+left competing for that one impression
+
+292
+00:09:12,840 --> 00:09:17,000
+and basically who can have the highest
+
+293
+00:09:15,160 --> 00:09:18,440
+bid, of course with all the context of
+
+294
+00:09:17,000 --> 00:09:19,480
+that equation that I said previously,
+
+295
+00:09:18,440 --> 00:09:20,760
+that's going to be the one that wins the
+
+296
+00:09:19,480 --> 00:09:21,680
+impression. So, majority of people
+
+297
+00:09:20,760 --> 00:09:23,200
+watching this video right now are
+
+298
+00:09:21,680 --> 00:09:25,440
+probably running what's called, you
+
+299
+00:09:23,200 --> 00:09:27,480
+know, lowest cost bidding or also known
+
+300
+00:09:25,440 --> 00:09:29,320
+as like auto bidding, which Facebook is
+
+301
+00:09:27,480 --> 00:09:30,440
+just doing all the bidding for you,
+
+302
+00:09:29,320 --> 00:09:32,680
+trying to get you conversions for the
+
+303
+00:09:30,440 --> 00:09:35,040
+lowest cost possible. This is, like I
+
+304
+00:09:32,680 --> 00:09:37,520
+said, auto bidding. You can also do
+
+305
+00:09:35,040 --> 00:09:39,000
+manual bidding, which can come in a few
+
+306
+00:09:37,520 --> 00:09:40,480
+different ways. Manual bidding, you can
+
+307
+00:09:39,000 --> 00:09:42,640
+do something called cost caps, which is
+
+308
+00:09:40,480 --> 00:09:44,680
+where you set a cap on the maximum
+
+309
+00:09:42,640 --> 00:09:46,480
+amount that you're willing to pay to
+
+310
+00:09:44,680 --> 00:09:48,040
+acquire a customer. You can also do bid
+
+311
+00:09:46,480 --> 00:09:50,120
+caps, which is similar, except it's the
+
+312
+00:09:48,040 --> 00:09:51,640
+maximum amount that you want to bid to
+
+313
+00:09:50,120 --> 00:09:53,720
+acquire a customer. And there's some
+
+314
+00:09:51,640 --> 00:09:55,640
+other stuff that Facebook is always
+
+315
+00:09:53,720 --> 00:09:57,360
+releasing as well to help you optimize,
+
+316
+00:09:55,640 --> 00:09:58,880
+you know, maximum value, target ROAS,
+
+317
+00:09:57,360 --> 00:10:00,600
+stuff like that. But I'll tell you this,
+
+318
+00:09:58,880 --> 00:10:03,880
+there's a lot of people that are really
+
+319
+00:10:00,600 --> 00:10:05,360
+obsessing about cost caps or bid caps or
+
+320
+00:10:03,880 --> 00:10:07,160
+whatever the hot, you know, manual
+
+321
+00:10:05,360 --> 00:10:09,000
+bidding method is at the time. I can
+
+322
+00:10:07,160 --> 00:10:10,480
+tell you for a fact, I have seen ad
+
+323
+00:10:09,000 --> 00:10:12,680
+accounts, I have ran ad accounts that
+
+324
+00:10:10,480 --> 00:10:14,400
+are spending multiple five figures per
+
+325
+00:10:12,680 --> 00:10:16,560
+day. I have seen one spending six
+
+326
+00:10:14,400 --> 00:10:17,720
+figures per day, all on lowest cost, and
+
+327
+00:10:16,560 --> 00:10:20,200
+they're good ad accounts. They are
+
+328
+00:10:17,720 --> 00:10:21,960
+profitable. Other people literally only
+
+329
+00:10:20,200 --> 00:10:24,320
+run bid caps. You can see both sides of
+
+330
+00:10:21,960 --> 00:10:26,000
+the spectrum, but the point is you
+
+331
+00:10:24,320 --> 00:10:27,720
+should choose what is actually going to
+
+332
+00:10:26,000 --> 00:10:29,160
+solve the constraint in your business
+
+333
+00:10:27,720 --> 00:10:30,200
+for you. Because I talk to people all
+
+334
+00:10:29,160 --> 00:10:32,120
+the time, they're like, "All right, in
+
+335
+00:10:30,200 --> 00:10:33,600
+order to get from like 1K a day to 10K
+
+336
+00:10:32,120 --> 00:10:35,160
+per day, I just got like media buy my
+
+337
+00:10:33,600 --> 00:10:36,400
+way there." And like there's a little
+
+338
+00:10:35,160 --> 00:10:37,960
+bit you can do, don't get me wrong. I'm
+
+339
+00:10:36,400 --> 00:10:39,760
+not the guy that's saying like media
+
+340
+00:10:37,960 --> 00:10:41,760
+buying is dead. I'm defending media
+
+341
+00:10:39,760 --> 00:10:43,560
+buying. At the same time, you have to
+
+342
+00:10:41,760 --> 00:10:45,080
+think like an entrepreneur, not like a
+
+343
+00:10:43,560 --> 00:10:46,880
+media buyer. And just to show this
+
+344
+00:10:45,080 --> 00:10:49,840
+entire process visually, all right, this
+
+345
+00:10:46,880 --> 00:10:51,440
+is how Facebook actually picks ads in
+
+346
+00:10:49,840 --> 00:10:53,280
+under 200 milliseconds. So this is the
+
+347
+00:10:51,440 --> 00:10:54,720
+first step, tens of millions of ads
+
+348
+00:10:53,280 --> 00:10:57,120
+competing for one impression. After
+
+349
+00:10:54,720 --> 00:10:58,120
+that, we go through the light ranking,
+
+350
+00:10:57,120 --> 00:10:59,600
+right? Now you can see there's
+
+351
+00:10:58,120 --> 00:11:01,760
+substantially less, say like roughly
+
+352
+00:10:59,600 --> 00:11:03,360
+5,000. Next step, there's just a few
+
+353
+00:11:01,760 --> 00:11:05,760
+hundred. Now we're going to go into
+
+354
+00:11:03,360 --> 00:11:08,040
+heavy ranking, which is boom, now we're
+
+355
+00:11:05,760 --> 00:11:09,040
+on the final step, which is actually
+
+356
+00:11:08,040 --> 00:11:10,360
+competing who's going to have the
+
+357
+00:11:09,040 --> 00:11:12,160
+highest bid. There's very few
+
+358
+00:11:10,360 --> 00:11:14,280
+advertisers left at this step, until
+
+359
+00:11:12,160 --> 00:11:15,400
+finally your ad is actually served. You
+
+360
+00:11:14,280 --> 00:11:17,760
+have the highest bid, you win the
+
+361
+00:11:15,400 --> 00:11:20,200
+impression. So again, retrieval, light
+
+362
+00:11:17,760 --> 00:11:22,000
+ranking, heavy ranking, and the auction
+
+363
+00:11:20,200 --> 00:11:23,360
+as the final step there. Okay, so now
+
+364
+00:11:22,000 --> 00:11:25,480
+you know how this filtering process
+
+365
+00:11:23,360 --> 00:11:28,080
+works, how does that actually affect
+
+366
+00:11:25,480 --> 00:11:30,120
+your ability to create winning ads
+
+367
+00:11:28,080 --> 00:11:31,880
+consistently and more importantly
+
+368
+00:11:30,120 --> 00:11:33,160
+predictably churn out winners into your
+
+369
+00:11:31,880 --> 00:11:34,720
+ad account. So there's a few other
+
+370
+00:11:33,160 --> 00:11:36,520
+things that aren't part of that
+
+371
+00:11:34,720 --> 00:11:37,920
+four-step ranking process that are still
+
+372
+00:11:36,520 --> 00:11:39,720
+really important to understand so that
+
+373
+00:11:37,920 --> 00:11:40,960
+you can have the most profitable ads as
+
+374
+00:11:39,720 --> 00:11:42,680
+possible. All right, first I want to
+
+375
+00:11:40,960 --> 00:11:44,920
+talk for a second about the learning
+
+376
+00:11:42,680 --> 00:11:46,680
+phase, okay? So, the learning phase,
+
+377
+00:11:44,920 --> 00:11:48,920
+according to Facebook themselves, is
+
+378
+00:11:46,680 --> 00:11:50,280
+basically a phase that your ads go
+
+379
+00:11:48,920 --> 00:11:51,680
+through, your ad sets go through, your
+
+380
+00:11:50,280 --> 00:11:54,960
+campaigns go through, but especially at
+
+381
+00:11:51,680 --> 00:11:56,960
+the ad level to acquire conversions so
+
+382
+00:11:54,960 --> 00:11:58,560
+that it can learn about your customer
+
+383
+00:11:56,960 --> 00:12:01,200
+and then you kind of exit the learning
+
+384
+00:11:58,560 --> 00:12:02,600
+phase and go into like mature phase
+
+385
+00:12:01,200 --> 00:12:04,480
+where you're getting more predictable
+
+386
+00:12:02,600 --> 00:12:05,680
+consistent results. Here's my beef with
+
+387
+00:12:04,480 --> 00:12:06,840
+this whole [ __ ] term. Like that's the
+
+388
+00:12:05,680 --> 00:12:08,680
+theory. Let me tell you the [ __ ]
+
+389
+00:12:06,840 --> 00:12:10,160
+reality. Your ads are always learning.
+
+390
+00:12:08,680 --> 00:12:11,640
+They never stop learning. There's not a
+
+391
+00:12:10,160 --> 00:12:12,600
+learning phase and then they get out of
+
+392
+00:12:11,640 --> 00:12:14,920
+learning phase and they're just going to
+
+393
+00:12:12,600 --> 00:12:17,200
+be good forever. Everything dies at some
+
+394
+00:12:14,920 --> 00:12:18,560
+point. It's just the circle of ads. So,
+
+395
+00:12:17,200 --> 00:12:21,160
+if you are obsessing over the learning
+
+396
+00:12:18,560 --> 00:12:23,080
+phase, just stop. Of course, the ads
+
+397
+00:12:21,160 --> 00:12:25,120
+initially are going to be a little bit
+
+398
+00:12:23,080 --> 00:12:26,760
+more volatile, a little bit more bumpy,
+
+399
+00:12:25,120 --> 00:12:28,160
+and sometimes you see improvements over
+
+400
+00:12:26,760 --> 00:12:29,880
+time with more consistency, but
+
+401
+00:12:28,160 --> 00:12:31,720
+sometimes you don't. Sometimes the
+
+402
+00:12:29,880 --> 00:12:34,560
+solution is literally just to make
+
+403
+00:12:31,720 --> 00:12:36,320
+better ads. So, spending too much time
+
+404
+00:12:34,560 --> 00:12:37,760
+on the learning phase is not super
+
+405
+00:12:36,320 --> 00:12:39,040
+smart. The main thing I want to say here
+
+406
+00:12:37,760 --> 00:12:40,520
+is like if you're not spending a lot of
+
+407
+00:12:39,040 --> 00:12:42,080
+money on ads, maybe you're spending, you
+
+408
+00:12:40,520 --> 00:12:43,440
+know, 50 bucks a day, a few hundred
+
+409
+00:12:42,080 --> 00:12:44,760
+bucks per day, even up to like a
+
+410
+00:12:43,440 --> 00:12:46,560
+thousand dollars per day, I think that's
+
+411
+00:12:44,760 --> 00:12:48,320
+kind of like the barrier. If you see
+
+412
+00:12:46,560 --> 00:12:49,680
+your results being like up and down,
+
+413
+00:12:48,320 --> 00:12:53,160
+like it literally looks like a freaking
+
+414
+00:12:49,680 --> 00:12:55,360
+sine wave, that is normal, okay? That's
+
+415
+00:12:53,160 --> 00:12:57,000
+100% normal. That's how the game works.
+
+416
+00:12:55,360 --> 00:13:00,400
+[ __ ] I experience inconsistencies. I
+
+417
+00:12:57,000 --> 00:13:02,720
+spend way beyond 1K per day. And most
+
+418
+00:13:00,400 --> 00:13:04,680
+advertisers do. Facebook is an emotional
+
+419
+00:13:02,720 --> 00:13:06,560
+ass platform, man. It's a bunch of
+
+420
+00:13:04,680 --> 00:13:08,200
+emotional human beings like you and me.
+
+421
+00:13:06,560 --> 00:13:09,520
+Do you really expect it to be the most
+
+422
+00:13:08,200 --> 00:13:11,160
+consistent thing on the world? If you
+
+423
+00:13:09,520 --> 00:13:13,210
+want super duper consistent results,
+
+424
+00:13:11,160 --> 00:13:13,400
+like go advertise on Google
+
+425
+00:13:13,210 --> 00:13:15,080
+>> [laughter]
+
+426
+00:13:13,400 --> 00:13:16,600
+>> and uh you know, enjoy your time, all
+
+427
+00:13:15,080 --> 00:13:18,000
+right? Google's cool. It's got its own
+
+428
+00:13:16,600 --> 00:13:19,560
+issues, but with Facebook
+
+429
+00:13:18,000 --> 00:13:21,360
+inconsistencies is part of the game, but
+
+430
+00:13:19,560 --> 00:13:23,200
+especially at lower levels of spend,
+
+431
+00:13:21,360 --> 00:13:25,120
+you'll see people just bitching about,
+
+432
+00:13:23,200 --> 00:13:26,720
+"Oh, I was at 3X ROAS and now I'm not
+
+433
+00:13:25,120 --> 00:13:27,720
+profitable." I'm was "Well, how much do
+
+434
+00:13:26,720 --> 00:13:28,880
+you spend?" He's like, "A hundred
+
+435
+00:13:27,720 --> 00:13:29,920
+bucks." I'm like, "Come on. What what
+
+436
+00:13:28,880 --> 00:13:31,720
+are we doing here? Like, what do you
+
+437
+00:13:29,920 --> 00:13:33,960
+What do you expect?" So, the solution
+
+438
+00:13:31,720 --> 00:13:35,840
+there is to, when in doubt, zoom out.
+
+439
+00:13:33,960 --> 00:13:37,360
+Look at larger time frames with larger
+
+440
+00:13:35,840 --> 00:13:38,640
+amounts of data, and you'll see what's
+
+441
+00:13:37,360 --> 00:13:40,200
+really happening. Instead of being like,
+
+442
+00:13:38,640 --> 00:13:41,440
+"Oh, today was good really good. Next
+
+443
+00:13:40,200 --> 00:13:43,240
+day was really bad." I don't care. Look
+
+444
+00:13:41,440 --> 00:13:44,480
+at 7 days. Look at the most amount of ad
+
+445
+00:13:43,240 --> 00:13:46,000
+spend that you can, and that's when
+
+446
+00:13:44,480 --> 00:13:47,480
+you'll make the best decisions, and not
+
+447
+00:13:46,000 --> 00:13:48,880
+these emotional decisions where you're
+
+448
+00:13:47,480 --> 00:13:50,640
+just going with the [ __ ] flow of
+
+449
+00:13:48,880 --> 00:13:51,760
+Facebook taking you for a ride. Nobody
+
+450
+00:13:50,640 --> 00:13:54,760
+wants that. All right, next I want to
+
+451
+00:13:51,760 --> 00:13:57,240
+talk about signal quality and your EMQ
+
+452
+00:13:54,760 --> 00:13:59,960
+and Conversions API. So, Facebook
+
+453
+00:13:57,240 --> 00:14:01,800
+performance is often times dependent on
+
+454
+00:13:59,960 --> 00:14:02,960
+the data that you're sending back to the
+
+455
+00:14:01,800 --> 00:14:04,400
+ad account and back to the Facebook
+
+456
+00:14:02,960 --> 00:14:06,480
+servers so that it can learn about your
+
+457
+00:14:04,400 --> 00:14:08,880
+customers and reduce your cost to
+
+458
+00:14:06,480 --> 00:14:10,840
+advertise long-term, hopefully. And with
+
+459
+00:14:08,880 --> 00:14:12,480
+that, that means that you have to be
+
+460
+00:14:10,840 --> 00:14:14,680
+sure that you're sending the best
+
+461
+00:14:12,480 --> 00:14:16,640
+quality data you possibly can to
+
+462
+00:14:14,680 --> 00:14:18,760
+Facebook because the better quality data
+
+463
+00:14:16,640 --> 00:14:19,720
+that you send them, often times, they're
+
+464
+00:14:18,760 --> 00:14:21,440
+going to be able to learn more about
+
+465
+00:14:19,720 --> 00:14:23,480
+your customers and send you better
+
+466
+00:14:21,440 --> 00:14:25,640
+customers in the future, make your ads
+
+467
+00:14:23,480 --> 00:14:27,280
+more efficient long-term. So, you can go
+
+468
+00:14:25,640 --> 00:14:28,720
+into your Events Manager and go to the
+
+469
+00:14:27,280 --> 00:14:30,520
+purchase event specifically, and you'll
+
+470
+00:14:28,720 --> 00:14:32,360
+see something called the EMQ, which is
+
+471
+00:14:30,520 --> 00:14:34,720
+your event match quality, and it'll be
+
+472
+00:14:32,360 --> 00:14:36,520
+on a scale of 1 to 10. I'm not saying
+
+473
+00:14:34,720 --> 00:14:38,280
+it's a direct correlation like 10 out of
+
+474
+00:14:36,520 --> 00:14:39,760
+10 is super profitable ads, like five
+
+475
+00:14:38,280 --> 00:14:41,360
+out of 10 you're going to be dog [ __ ] I
+
+476
+00:14:39,760 --> 00:14:43,360
+actually think this whole concept is
+
+477
+00:14:41,360 --> 00:14:45,120
+overrated, but I think generally
+
+478
+00:14:43,360 --> 00:14:47,360
+speaking, it's a good thing to try to
+
+479
+00:14:45,120 --> 00:14:49,320
+send good data to Facebook. And you can
+
+480
+00:14:47,360 --> 00:14:51,120
+do that through Conversions API, which
+
+481
+00:14:49,320 --> 00:14:53,640
+is simply sending your data back
+
+482
+00:14:51,120 --> 00:14:55,160
+server-side and not only on the browser.
+
+483
+00:14:53,640 --> 00:14:56,520
+For those that have been advertising for
+
+484
+00:14:55,160 --> 00:14:59,640
+long enough, you know this became a big
+
+485
+00:14:56,520 --> 00:15:01,720
+deal around iOS 14, which was launched
+
+486
+00:14:59,640 --> 00:15:03,760
+in 2020, but it actually went into
+
+487
+00:15:01,720 --> 00:15:04,920
+effect, I think, early 2021, and
+
+488
+00:15:03,760 --> 00:15:06,720
+everybody's ads just kind of went to
+
+489
+00:15:04,920 --> 00:15:09,200
+[ __ ] because I don't look at any
+
+490
+00:15:06,720 --> 00:15:11,400
+conversions after the click. Like, I
+
+491
+00:15:09,200 --> 00:15:13,400
+don't look at my CPA on Facebook at all.
+
+492
+00:15:11,400 --> 00:15:14,840
+I always use third-party attribution
+
+493
+00:15:13,400 --> 00:15:16,240
+tools, you know, whether that's Triple
+
+494
+00:15:14,840 --> 00:15:17,320
+Whale, whether that's Hyros. There's so
+
+495
+00:15:16,240 --> 00:15:18,720
+many of these out there. Like, you can
+
+496
+00:15:17,320 --> 00:15:20,600
+build one custom now. [ __ ] you could
+
+497
+00:15:18,720 --> 00:15:21,600
+vibe code one probably in a few hours
+
+498
+00:15:20,600 --> 00:15:23,200
+and have your own solution that you
+
+499
+00:15:21,600 --> 00:15:25,400
+don't have to pay for at all. The issue
+
+500
+00:15:23,200 --> 00:15:27,240
+is, because of what the update that iOS
+
+501
+00:15:25,400 --> 00:15:28,960
+launched, all the users can now opt out
+
+502
+00:15:27,240 --> 00:15:30,400
+of tracking from Facebook. So,
+
+503
+00:15:28,960 --> 00:15:31,680
+everything becomes really inaccurate.
+
+504
+00:15:30,400 --> 00:15:33,760
+Now, if you're able to use like
+
+505
+00:15:31,680 --> 00:15:36,160
+conversions API, any server-side
+
+506
+00:15:33,760 --> 00:15:37,680
+tracking, you can improve your EMQ and
+
+507
+00:15:36,160 --> 00:15:39,520
+get better data into the Facebook
+
+508
+00:15:37,680 --> 00:15:40,800
+servers to help you optimize with your
+
+509
+00:15:39,520 --> 00:15:42,840
+ad account your ads a lot better than
+
+510
+00:15:40,800 --> 00:15:45,200
+you are right now. So, to summarize this
+
+511
+00:15:42,840 --> 00:15:46,760
+point, try to send Facebook good data.
+
+512
+00:15:45,200 --> 00:15:48,080
+And also, take all the conversion data
+
+513
+00:15:46,760 --> 00:15:49,160
+with a grain of salt. Okay, let's go.
+
+514
+00:15:48,080 --> 00:15:51,280
+Now, the third thing here is going to be
+
+515
+00:15:49,160 --> 00:15:53,360
+the whole concept of creative diversity.
+
+516
+00:15:51,280 --> 00:15:55,160
+So, because of Andromeda, there was this
+
+517
+00:15:53,360 --> 00:15:56,360
+really weird narrative where people are
+
+518
+00:15:55,160 --> 00:15:57,560
+basically saying, "Oh, there's kind of
+
+519
+00:15:56,360 --> 00:15:58,680
+like two types of ads that you can
+
+520
+00:15:57,560 --> 00:15:59,840
+test." You know, you can test something
+
+521
+00:15:58,680 --> 00:16:01,560
+completely new, we'll just call that
+
+522
+00:15:59,840 --> 00:16:03,400
+like a new concept and that new concept,
+
+523
+00:16:01,560 --> 00:16:04,640
+or you can test, you know, a variation.
+
+524
+00:16:03,400 --> 00:16:06,200
+You can only do one of the two, which
+
+525
+00:16:04,640 --> 00:16:07,960
+it's really not that simple, but let's
+
+526
+00:16:06,200 --> 00:16:09,800
+just say for these purposes, this is
+
+527
+00:16:07,960 --> 00:16:11,720
+what it is. And people like, "All right,
+
+528
+00:16:09,800 --> 00:16:13,280
+all you need to do to survive Andromeda
+
+529
+00:16:11,720 --> 00:16:15,920
+is just like pump out more new concepts
+
+530
+00:16:13,280 --> 00:16:18,200
+and do less variations." No, variations
+
+531
+00:16:15,920 --> 00:16:20,720
+are still highly highly effective. What
+
+532
+00:16:18,200 --> 00:16:22,040
+Andromeda did is let's say like this is
+
+533
+00:16:20,720 --> 00:16:23,840
+within an ad set and we're looking at
+
+534
+00:16:22,040 --> 00:16:25,720
+the ad level, and each one of these is a
+
+535
+00:16:23,840 --> 00:16:28,240
+new ad, right? You have ad one, two,
+
+536
+00:16:25,720 --> 00:16:29,680
+three, and four. So, every time I launch
+
+537
+00:16:28,240 --> 00:16:32,160
+creatives, I'm actually launching
+
+538
+00:16:29,680 --> 00:16:35,480
+variations. So, this entire ad set, per
+
+539
+00:16:32,160 --> 00:16:37,440
+se, will be one net new concept, but ad
+
+540
+00:16:35,480 --> 00:16:40,240
+number two, ad number three, and ad
+
+541
+00:16:37,440 --> 00:16:42,160
+number four will all be variations of
+
+542
+00:16:40,240 --> 00:16:43,640
+that original net new concept. So, it's
+
+543
+00:16:42,160 --> 00:16:44,920
+not necessarily variations of the
+
+544
+00:16:43,640 --> 00:16:47,560
+winner. Like it's difficult to get a
+
+545
+00:16:44,920 --> 00:16:50,120
+variation of like your top ad in an ad
+
+546
+00:16:47,560 --> 00:16:51,680
+account to outperform the top ad. It'll
+
+547
+00:16:50,120 --> 00:16:53,120
+do decent. It's typically not going to
+
+548
+00:16:51,680 --> 00:16:54,880
+outperform, at least in my experience.
+
+549
+00:16:53,120 --> 00:16:56,320
+But, variations are still highly
+
+550
+00:16:54,880 --> 00:16:58,560
+effective because you're basically
+
+551
+00:16:56,320 --> 00:16:59,880
+getting more at-bats at the concept
+
+552
+00:16:58,560 --> 00:17:02,440
+level. Technically, you're testing a new
+
+553
+00:16:59,880 --> 00:17:04,360
+concept, but you can test one concept
+
+554
+00:17:02,440 --> 00:17:06,320
+with three different hooks, and it turns
+
+555
+00:17:04,360 --> 00:17:08,040
+out that this variation actually ends up
+
+556
+00:17:06,320 --> 00:17:10,040
+being the winner, and this original like
+
+557
+00:17:08,040 --> 00:17:12,120
+net new concept is actually the loser.
+
+558
+00:17:10,040 --> 00:17:13,320
+But, if you said variations are stupid
+
+559
+00:17:12,120 --> 00:17:14,480
+and they don't make any sense, then you
+
+560
+00:17:13,320 --> 00:17:16,280
+never would have figured that out, and
+
+561
+00:17:14,480 --> 00:17:18,040
+you would have just concluded that this
+
+562
+00:17:16,280 --> 00:17:20,150
+net new concept was a loser. When in
+
+563
+00:17:18,040 --> 00:17:20,440
+reality, you're a loser
+
+564
+00:17:20,150 --> 00:17:22,000
+>> [laughter]
+
+565
+00:17:20,440 --> 00:17:23,840
+>> for believing that.
+
+566
+00:17:22,000 --> 00:17:25,080
+I swear I could rant on all this stuff
+
+567
+00:17:23,840 --> 00:17:26,960
+for so much longer. I'm trying to stay
+
+568
+00:17:25,080 --> 00:17:29,720
+focused here. Let me distill all this
+
+569
+00:17:26,960 --> 00:17:31,360
+technical crap into something that you
+
+570
+00:17:29,720 --> 00:17:33,640
+can actually take away. Because
+
+571
+00:17:31,360 --> 00:17:36,200
+basically what we just did is we went
+
+572
+00:17:33,640 --> 00:17:39,320
+through all the super autistic
+
+573
+00:17:36,200 --> 00:17:41,080
+scientific mathematical explanations of
+
+574
+00:17:39,320 --> 00:17:43,720
+how the Facebook ads algorithm actually
+
+575
+00:17:41,080 --> 00:17:45,960
+works, but let's take our [ __ ] hat off
+
+576
+00:17:43,720 --> 00:17:48,000
+for a second and think like a Chad,
+
+577
+00:17:45,960 --> 00:17:50,240
+okay? Three things you should take away.
+
+578
+00:17:48,000 --> 00:17:51,720
+All right, number one, your creative is
+
+579
+00:17:50,240 --> 00:17:53,280
+the targeting. Stop trying to [ __ ]
+
+580
+00:17:51,720 --> 00:17:55,320
+around so much with the ad sets
+
+581
+00:17:53,280 --> 00:17:57,200
+targeting, custom audiences, lookalikes.
+
+582
+00:17:55,320 --> 00:17:59,000
+That can be a little experimentation
+
+583
+00:17:57,200 --> 00:18:00,520
+sandbox, but for the most part, run
+
+584
+00:17:59,000 --> 00:18:02,160
+broad. The creative is the targeting.
+
+585
+00:18:00,520 --> 00:18:03,680
+Number two, make good creatives that
+
+586
+00:18:02,160 --> 00:18:04,920
+thought people from their doom scroll.
+
+587
+00:18:03,680 --> 00:18:06,000
+Of course, easier said than done, and
+
+588
+00:18:04,920 --> 00:18:08,160
+that's not even what this video is
+
+589
+00:18:06,000 --> 00:18:09,800
+about, but if you just have damn good
+
+590
+00:18:08,160 --> 00:18:11,760
+creatives, like that's literally half of
+
+591
+00:18:09,800 --> 00:18:14,000
+the [ __ ] formula. It's just having
+
+592
+00:18:11,760 --> 00:18:15,480
+that high CTR, high soft metrics, of
+
+593
+00:18:14,000 --> 00:18:16,640
+course, excluding the conversions. Like
+
+594
+00:18:15,480 --> 00:18:18,400
+that's half the [ __ ] battle right
+
+595
+00:18:16,640 --> 00:18:20,360
+there. And then third is going to be
+
+596
+00:18:18,400 --> 00:18:22,320
+don't [ __ ] up the user experience. Now,
+
+597
+00:18:20,360 --> 00:18:23,960
+I have a portion of this video that I
+
+598
+00:18:22,320 --> 00:18:25,280
+intentionally left for the end of this
+
+599
+00:18:23,960 --> 00:18:27,040
+video for people that are genuinely
+
+600
+00:18:25,280 --> 00:18:28,800
+serious about figuring out how Facebook
+
+601
+00:18:27,040 --> 00:18:30,880
+works. And all this stuff that I've said
+
+602
+00:18:28,800 --> 00:18:32,480
+so far is what we'll call, you know, by
+
+603
+00:18:30,880 --> 00:18:34,120
+the books. A lot of it is in, you know,
+
+604
+00:18:32,480 --> 00:18:35,600
+Facebook's own documentation or
+
+605
+00:18:34,120 --> 00:18:37,360
+documentation that they had years ago
+
+606
+00:18:35,600 --> 00:18:39,720
+and they have since removed, but let me
+
+607
+00:18:37,360 --> 00:18:41,840
+tell you how the game really works.
+
+608
+00:18:39,720 --> 00:18:44,000
+Facebook is a for-profit [snorts]
+
+609
+00:18:41,840 --> 00:18:46,240
+company based in America. Facebook is a
+
+610
+00:18:44,000 --> 00:18:47,920
+massive, massive company. We can assume
+
+611
+00:18:46,240 --> 00:18:49,400
+they probably don't do everything by the
+
+612
+00:18:47,920 --> 00:18:51,120
+books. So, what I'm really leading to
+
+613
+00:18:49,400 --> 00:18:54,040
+here is Facebook doesn't play by the
+
+614
+00:18:51,120 --> 00:18:56,040
+rules. I could go down the list of what
+
+615
+00:18:54,040 --> 00:18:57,240
+this actually means, but at the end of
+
+616
+00:18:56,040 --> 00:18:59,560
+the day, as I said, Facebook is a
+
+617
+00:18:57,240 --> 00:19:01,360
+for-profit company. And like most
+
+618
+00:18:59,560 --> 00:19:03,320
+companies, they are trying to get the
+
+619
+00:19:01,360 --> 00:19:05,520
+most amount of money from the largest
+
+620
+00:19:03,320 --> 00:19:07,520
+advertisers, and then all the smaller
+
+621
+00:19:05,520 --> 00:19:08,680
+ones that cause like 99% of their
+
+622
+00:19:07,520 --> 00:19:10,840
+headaches, they're not going to treat
+
+623
+00:19:08,680 --> 00:19:12,360
+them super duper well. So, a lot of you
+
+624
+00:19:10,840 --> 00:19:14,400
+have probably launched ad accounts and
+
+625
+00:19:12,360 --> 00:19:16,000
+got them disabled, have ads rejected,
+
+626
+00:19:14,400 --> 00:19:17,160
+have ad accounts banned, have business
+
+627
+00:19:16,000 --> 00:19:18,560
+managers banned. Maybe you've had
+
+628
+00:19:17,160 --> 00:19:20,880
+profiles banned, but you have to
+
+629
+00:19:18,560 --> 00:19:23,040
+understand that Facebook is a company,
+
+630
+00:19:20,880 --> 00:19:24,720
+and they're a company that is public.
+
+631
+00:19:23,040 --> 00:19:27,880
+And what happens when you run a public
+
+632
+00:19:24,720 --> 00:19:30,720
+company is you have to answer to your
+
+633
+00:19:27,880 --> 00:19:32,640
+shareholders, which means depending on
+
+634
+00:19:30,720 --> 00:19:34,360
+how the earnings reports come out
+
+635
+00:19:32,640 --> 00:19:37,120
+regarding Facebook, Facebook is either
+
+636
+00:19:34,360 --> 00:19:38,520
+going to constrict their guidelines,
+
+637
+00:19:37,120 --> 00:19:40,440
+their restrictions, and this is where
+
+638
+00:19:38,520 --> 00:19:42,000
+you see ban waves come through, which is
+
+639
+00:19:40,440 --> 00:19:43,880
+where everybody's just getting their ad
+
+640
+00:19:42,000 --> 00:19:45,680
+account banned, everybody's dealing with
+
+641
+00:19:43,880 --> 00:19:47,520
+business manager bans, page bans, and
+
+642
+00:19:45,680 --> 00:19:51,000
+then a month later it's like totally
+
+643
+00:19:47,520 --> 00:19:52,320
+fine. That's all due mostly to earnings
+
+644
+00:19:51,000 --> 00:19:54,800
+reports that are coming out directly
+
+645
+00:19:52,320 --> 00:19:57,040
+from Facebook. So, depending on how
+
+646
+00:19:54,800 --> 00:19:59,200
+those look, they will either be way more
+
+647
+00:19:57,040 --> 00:20:01,560
+laid back, way more chill, or super
+
+648
+00:19:59,200 --> 00:20:03,240
+duper strict. That's why saying, "Oh,
+
+649
+00:20:01,560 --> 00:20:05,200
+you can't run like this type of format
+
+650
+00:20:03,240 --> 00:20:06,480
+of ad on Facebook." One person runs it,
+
+651
+00:20:05,200 --> 00:20:08,040
+gets approved. Another person runs an
+
+652
+00:20:06,480 --> 00:20:09,600
+identical creative and gets it rejected.
+
+653
+00:20:08,040 --> 00:20:11,200
+Why is that? Well, Facebook don't play
+
+654
+00:20:09,600 --> 00:20:12,760
+about their rules, all right? So, what
+
+655
+00:20:11,200 --> 00:20:13,960
+do you do about this? I mean, I'm not
+
+656
+00:20:12,760 --> 00:20:15,360
+going to get too much into specifics
+
+657
+00:20:13,960 --> 00:20:16,840
+because I don't know if I can. I think
+
+658
+00:20:15,360 --> 00:20:19,000
+the main thing anyone can take away from
+
+659
+00:20:16,840 --> 00:20:21,120
+this is just question everything. Like,
+
+660
+00:20:19,000 --> 00:20:23,200
+when I was talking about the CAPI and
+
+661
+00:20:21,120 --> 00:20:24,640
+the signal quality and the EMQ score,
+
+662
+00:20:23,200 --> 00:20:26,680
+technically speaking, like it makes
+
+663
+00:20:24,640 --> 00:20:28,200
+sense logically, theoretically, if
+
+664
+00:20:26,680 --> 00:20:29,800
+you're able to get higher quality data
+
+665
+00:20:28,200 --> 00:20:32,200
+back to Facebook, they should be able to
+
+666
+00:20:29,800 --> 00:20:34,440
+optimize better. However, I haven't seen
+
+667
+00:20:32,200 --> 00:20:36,520
+a direct correlation between that. I
+
+668
+00:20:34,440 --> 00:20:39,400
+have had really, really good server-side
+
+669
+00:20:36,520 --> 00:20:41,920
+setups to where my EMQ was like 9.8,
+
+670
+00:20:39,400 --> 00:20:43,000
+9.9. The little thing on my freaking ad
+
+671
+00:20:41,920 --> 00:20:45,820
+account was like, matter of fact, I'll
+
+672
+00:20:43,000 --> 00:20:46,200
+show you. I'm literally at a zero
+
+673
+00:20:45,820 --> 00:20:48,480
+>> [laughter]
+
+674
+00:20:46,200 --> 00:20:50,720
+>> at a zero opportunity score, and this ad
+
+675
+00:20:48,480 --> 00:20:52,080
+account is incredibly profitable. So,
+
+676
+00:20:50,720 --> 00:20:54,280
+all the [ __ ] from Facebook, they're
+
+677
+00:20:52,080 --> 00:20:55,840
+still wanting to get money from you. So,
+
+678
+00:20:54,280 --> 00:20:57,320
+just because they say something or it's
+
+679
+00:20:55,840 --> 00:20:59,400
+in their documentation or like their
+
+680
+00:20:57,320 --> 00:21:00,680
+CEO, CMO, head of advertising is like,
+
+681
+00:20:59,400 --> 00:21:02,760
+"This is what advertisers should do."
+
+682
+00:21:00,680 --> 00:21:04,280
+[ __ ] it. Think for yourself, question
+
+683
+00:21:02,760 --> 00:21:06,320
+everything. And I want to take a moment
+
+684
+00:21:04,280 --> 00:21:08,360
+of silence for everyone that listened to
+
+685
+00:21:06,320 --> 00:21:10,080
+all the Facebook suggestions at the ad
+
+686
+00:21:08,360 --> 00:21:12,800
+level that said they would lower your
+
+687
+00:21:10,080 --> 00:21:14,720
+cost per result by 11% and then their
+
+688
+00:21:12,800 --> 00:21:16,120
+ads went to [ __ ] RIP. Don't listen to
+
+689
+00:21:14,720 --> 00:21:17,080
+Facebook. Other than that, guys, I hope
+
+690
+00:21:16,120 --> 00:21:18,280
+you enjoyed. Thank you so much for
+
+691
+00:21:17,080 --> 00:21:20,960
+watching this video. See you on the next
+
+692
+00:21:18,280 --> 00:21:20,960
+one. Peace.
+

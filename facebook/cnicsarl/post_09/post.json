@@ -1,0 +1,32 @@
+{
+  "post_id": "1428668946110728",
+  "url": "https://www.facebook.com/cnicsarl/posts/1428668946110728?locale=fr_FR",
+  "creation_time": 1792229402,
+  "date_iso": "2026-10-17T09:30:02+00:00",
+  "date_str": "2026-10-17 09:30:02 UTC",
+  "post_text": "💻 « VOUS M’ENTENDEZ ? »\n\nTrois minutes de réunion pour vérifier le son. Puis quelqu’un parle cinq minutes avec le micro coupé.\n\nLa technologie rapproche. Elle aime aussi tester notre patience 😄\n\nLe...",
+  "reactions_count": 32,
+  "shares_count": 0,
+  "comments_count": 1,
+  "top_reactions": [],
+  "comments": [
+    {
+      "comment_id": "1124193510203694",
+      "author": "Claudel Ngankam",
+      "text": "D'accord homonyme. J'ai pris note"
+    }
+  ],
+  "image_urls": [
+    "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854274910_1572526411569416_7263848613754157580_n.png?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=np6v74ALHRUQ7kNvwEeSeb7&_nc_oc=Ado1-taD00RjSYphepwm6S9hb7cYqNIznzkmp-nZ62Will3d55PlaLko_tqKQzU23VrizhI5URqPLuOwksDJnQOS&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=tY1nBbj_CiobTC3d96gnOg&_nc_ss=7f289&oh=00_AQODNUZW4nO7ID4E1-seArfGFeXah93S_aa2hxM_GrwaLw&oe=6AD9CEF1",
+    "https://external-fra3-2.xx.fbcdn.net/emg1/v/t13/2714578131709877226?url=https\\u00253A\\u00252F\\u00252Fanniversaire.propulsion.cm\\u00252Fbrand\\u00252Fpartage-anniversaire.jpg&fb_obo=1&utld=propulsion.cm&_nc_sid=c97757&_nc_ht=external-fra3-2.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p98x98_q75_tt6&ccb=18-1&_nc_gid=tY1nBbj_CiobTC3d96gnOg&_nc_zt=3&oh=06_Q3_EASKrctCW495NpcWLEgM2cFxtX3c-elhUy5DBPKz_Nd8w&oe=6AD5D545"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "image_01.png",
+      "rel_path": "images/image_01.png",
+      "abs_path": "/root/Apify/facebook/cnicsarl/post_09/images/image_01.png",
+      "size_bytes": 48404,
+      "cdn_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/854274910_1572526411569416_7263848613754157580_n.png?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=np6v74ALHRUQ7kNvwEeSeb7&_nc_oc=Ado1-taD00RjSYphepwm6S9hb7cYqNIznzkmp-nZ62Will3d55PlaLko_tqKQzU23VrizhI5URqPLuOwksDJnQOS&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=tY1nBbj_CiobTC3d96gnOg&_nc_ss=7f289&oh=00_AQODNUZW4nO7ID4E1-seArfGFeXah93S_aa2hxM_GrwaLw&oe=6AD9CEF1"
+    }
+  ]
+}

@@ -1,0 +1,1812 @@
+1
+00:00:00,000 --> 00:00:02,840
+Hey guys, Mark here. In this video I'm
+
+2
+00:00:01,280 --> 00:00:05,040
+going to show you how to make Sora 2
+
+3
+00:00:02,840 --> 00:00:06,720
+video ads that absolutely print. Here's
+
+4
+00:00:05,040 --> 00:00:07,880
+a quick sneak peek of one of the video
+
+5
+00:00:06,720 --> 00:00:09,820
+ads we're going to be creating today.
+
+6
+00:00:07,880 --> 00:00:10,160
+>> steroid creams and my eczema
+
+7
+00:00:09,820 --> 00:00:11,720
+>> [music]
+
+8
+00:00:10,160 --> 00:00:15,400
+>> It works on your face and body. Yes,
+
+9
+00:00:11,720 --> 00:00:17,040
+that is 100% AI, 100% Sora 2. Now, let's
+
+10
+00:00:15,400 --> 00:00:18,480
+get into actually how to do it and we'll
+
+11
+00:00:17,040 --> 00:00:20,040
+watch the full ad at the end of the
+
+12
+00:00:18,480 --> 00:00:22,520
+video. So, the process for creating Sora
+
+13
+00:00:20,040 --> 00:00:24,040
+2 videos is very simple. It's actually
+
+14
+00:00:22,520 --> 00:00:25,720
+five steps. The first step is you want
+
+15
+00:00:24,040 --> 00:00:27,080
+to identify swipe. Next, you want to
+
+16
+00:00:25,720 --> 00:00:28,520
+write the script. Next is you want to
+
+17
+00:00:27,080 --> 00:00:29,960
+storyboard the ad and I'll explain
+
+18
+00:00:28,520 --> 00:00:31,200
+exactly what that is in a second. Number
+
+19
+00:00:29,960 --> 00:00:32,560
+four is you want to actually generate
+
+20
+00:00:31,200 --> 00:00:34,520
+the prompts for Sora 2 and then the
+
+21
+00:00:32,560 --> 00:00:35,880
+final piece is you actually generate and
+
+22
+00:00:34,520 --> 00:00:37,800
+create the clips on Sora 2 and piece
+
+23
+00:00:35,880 --> 00:00:39,280
+them together into a fully cohesive ad.
+
+24
+00:00:37,800 --> 00:00:40,760
+That is it. And you can do all of this
+
+25
+00:00:39,280 --> 00:00:42,040
+and make the ad that I just showed you
+
+26
+00:00:40,760 --> 00:00:43,800
+at the beginning of this video in like
+
+27
+00:00:42,040 --> 00:00:44,800
+under an hour, no problem. so let's
+
+28
+00:00:43,800 --> 00:00:46,480
+begin with the first step, which is
+
+29
+00:00:44,800 --> 00:00:48,520
+going to be identifying a swipe. A swipe
+
+30
+00:00:46,480 --> 00:00:49,720
+is literally just a ad that is running
+
+31
+00:00:48,520 --> 00:00:51,040
+for a competitor that is performing
+
+32
+00:00:49,720 --> 00:00:52,960
+very, very well that you want to
+
+33
+00:00:51,040 --> 00:00:54,840
+emulate. Don't rip it one-to-one. It's a
+
+34
+00:00:52,960 --> 00:00:56,320
+great way to get
+
+35
+00:00:54,840 --> 00:00:57,680
+DMCA'd and a bunch of terrible things
+
+36
+00:00:56,320 --> 00:00:59,680
+happen to your ad account. Don't do it.
+
+37
+00:00:57,680 --> 00:01:01,400
+Just identify the top-performing ads,
+
+38
+00:00:59,680 --> 00:01:02,960
+take inspiration, and use that to create
+
+39
+00:01:01,400 --> 00:01:04,480
+your new creative. So, my favorite place
+
+40
+00:01:02,960 --> 00:01:05,960
+to do that is my software Get Hooked. If
+
+41
+00:01:04,480 --> 00:01:07,520
+you want to get a trial for this, you
+
+42
+00:01:05,960 --> 00:01:08,720
+can click the link in the description,
+
+43
+00:01:07,520 --> 00:01:10,080
+but the cool part is like this is
+
+44
+00:01:08,720 --> 00:01:11,720
+basically the Facebook Ads Library on
+
+45
+00:01:10,080 --> 00:01:13,680
+steroids. And if you look over to the
+
+46
+00:01:11,720 --> 00:01:15,440
+left here, you can select filters to
+
+47
+00:01:13,680 --> 00:01:16,960
+identify specifically ads that are
+
+48
+00:01:15,440 --> 00:01:18,480
+winning and a bunch of other criteria.
+
+49
+00:01:16,960 --> 00:01:20,960
+So, for this example, I'm going to
+
+50
+00:01:18,480 --> 00:01:22,680
+select four and five-star ads, videos,
+
+51
+00:01:20,960 --> 00:01:24,360
+status is still running, language I'm
+
+52
+00:01:22,680 --> 00:01:26,080
+going to put English. And last thing,
+
+53
+00:01:24,360 --> 00:01:27,160
+you can't see it cuz my fat-ass face is
+
+54
+00:01:26,080 --> 00:01:28,520
+in the way, but it's going to be the
+
+55
+00:01:27,160 --> 00:01:30,240
+video length. I want to choose videos
+
+56
+00:01:28,520 --> 00:01:31,400
+that are under 1 minute long. All right,
+
+57
+00:01:30,240 --> 00:01:33,160
+so I select all of these pieces of
+
+58
+00:01:31,400 --> 00:01:34,240
+criteria. Now, let's go ahead and move
+
+59
+00:01:33,160 --> 00:01:35,600
+forward. All right, so I spent a little
+
+60
+00:01:34,240 --> 00:01:37,400
+bit of time scrolling and I found this
+
+61
+00:01:35,600 --> 00:01:39,120
+ad here that is a bunch of different
+
+62
+00:01:37,400 --> 00:01:40,840
+highly unique clips and I think it'll be
+
+63
+00:01:39,120 --> 00:01:41,920
+a great challenge to make this Sora 2
+
+64
+00:01:40,840 --> 00:01:44,160
+video about. Check it out.
+
+65
+00:01:41,920 --> 00:01:46,480
+>> I was so skeptical, but yes, Arctic
+
+66
+00:01:44,160 --> 00:01:49,520
+Planks got rid of my acne in a week. I'm
+
+67
+00:01:46,480 --> 00:01:51,000
+28 and I struggled with acne for 8 years
+
+68
+00:01:49,520 --> 00:01:51,920
+until I found this. Now, you're not
+
+69
+00:01:51,000 --> 00:01:53,520
+going to find this product in a
+
+70
+00:01:51,920 --> 00:01:55,000
+drugstore. It's not a prescription that
+
+71
+00:01:53,520 --> 00:01:56,360
+comes with crazy side effects. Been
+
+72
+00:01:55,000 --> 00:01:58,040
+there, will never do it again.
+
+73
+00:01:56,360 --> 00:02:00,080
+>> It's totally natural, no harsh
+
+74
+00:01:58,040 --> 00:02:01,960
+chemicals, and it's stopping me from
+
+75
+00:02:00,080 --> 00:02:03,520
+ever taking Accutane again. You want to
+
+76
+00:02:01,960 --> 00:02:04,960
+get this balm? It's made from Arctic
+
+77
+00:02:03,520 --> 00:02:06,760
+Herbs and it's from Norse Organic. It's
+
+78
+00:02:04,960 --> 00:02:08,600
+extremely potent because there's no
+
+79
+00:02:06,760 --> 00:02:09,840
+water or fillers in it, so you just need
+
+80
+00:02:08,600 --> 00:02:11,920
+a small amount. And it's got sea
+
+81
+00:02:09,840 --> 00:02:13,520
+buckthorn extract and marigold oil in
+
+82
+00:02:11,920 --> 00:02:15,160
+it, which actually kills the bacteria
+
+83
+00:02:13,520 --> 00:02:17,160
+that causes the acne. It targets the
+
+84
+00:02:15,160 --> 00:02:18,960
+root cause and prevents acne from coming
+
+85
+00:02:17,160 --> 00:02:20,200
+back. I like the Kill Acne and Redness
+
+86
+00:02:18,960 --> 00:02:22,080
+Ritual because it includes this
+
+87
+00:02:20,200 --> 00:02:24,000
+moisturizer that literally makes my skin
+
+88
+00:02:22,080 --> 00:02:25,440
+glow all day long. And this scrub that's
+
+89
+00:02:24,000 --> 00:02:27,200
+made with rose flower that's super
+
+90
+00:02:25,440 --> 00:02:28,360
+gentle and clears out all my All right,
+
+91
+00:02:27,200 --> 00:02:30,440
+so now that we have the swipe
+
+92
+00:02:28,360 --> 00:02:31,640
+identified, um we can actually move on
+
+93
+00:02:30,440 --> 00:02:33,360
+to the next step. See how easy that was?
+
+94
+00:02:31,640 --> 00:02:34,800
+Boom, done. Now, the second step in the
+
+95
+00:02:33,360 --> 00:02:36,360
+process is going to be to actually
+
+96
+00:02:34,800 --> 00:02:37,880
+script the ad, which is where you take
+
+97
+00:02:36,360 --> 00:02:39,960
+the swipe and you take the transcript
+
+98
+00:02:37,880 --> 00:02:41,960
+from that and you just use AI to rewrite
+
+99
+00:02:39,960 --> 00:02:43,360
+it according to your specific brand
+
+100
+00:02:41,960 --> 00:02:44,840
+identity guidelines and what you
+
+101
+00:02:43,360 --> 00:02:47,240
+actually believe and stand for. Now, my
+
+102
+00:02:44,840 --> 00:02:48,800
+favorite process for writing AI copy is
+
+103
+00:02:47,240 --> 00:02:50,080
+going to be stupid easy. The first thing
+
+104
+00:02:48,800 --> 00:02:51,840
+you're going to want to do is go through
+
+105
+00:02:50,080 --> 00:02:53,000
+this foundational docs SOP, all right?
+
+106
+00:02:51,840 --> 00:02:54,280
+I've done this countless times on my
+
+107
+00:02:53,000 --> 00:02:56,040
+channel, so if you don't know how to do
+
+108
+00:02:54,280 --> 00:02:57,960
+it, I can't help you, but it's literally
+
+109
+00:02:56,040 --> 00:02:59,680
+spoon-feeding exactly what to do using
+
+110
+00:02:57,960 --> 00:03:01,040
+AI. And what it's doing is deep research
+
+111
+00:02:59,680 --> 00:03:02,560
+to understand what are the real
+
+112
+00:03:01,040 --> 00:03:04,240
+emotional triggers that gets your
+
+113
+00:03:02,560 --> 00:03:05,600
+audience to actually convert because
+
+114
+00:03:04,240 --> 00:03:07,120
+most people write copy at a surface
+
+115
+00:03:05,600 --> 00:03:08,280
+level and the reason that your ads
+
+116
+00:03:07,120 --> 00:03:09,320
+aren't converting is simply because the
+
+117
+00:03:08,280 --> 00:03:10,720
+way that you're writing is not actually
+
+118
+00:03:09,320 --> 00:03:13,000
+speaking to people. So, the foundational
+
+119
+00:03:10,720 --> 00:03:14,120
+docs process completely removes that as
+
+120
+00:03:13,000 --> 00:03:15,000
+an excuse for why your ads aren't
+
+121
+00:03:14,120 --> 00:03:16,640
+working. So, I'm going to go through
+
+122
+00:03:15,000 --> 00:03:19,280
+this and what'll happen is you'll get an
+
+123
+00:03:16,640 --> 00:03:21,240
+output of four documents, your research
+
+124
+00:03:19,280 --> 00:03:22,880
+doc, your avatar doc, your offer brief,
+
+125
+00:03:21,240 --> 00:03:24,080
+and your necessary beliefs document.
+
+126
+00:03:22,880 --> 00:03:25,920
+You're going to take all four of those
+
+127
+00:03:24,080 --> 00:03:27,840
+documents, then we're going to go to
+
+128
+00:03:25,920 --> 00:03:30,040
+Claude.ai. We are going to go to
+
+129
+00:03:27,840 --> 00:03:31,400
+projects and we are going to select new
+
+130
+00:03:30,040 --> 00:03:32,560
+project. You can call this project
+
+131
+00:03:31,400 --> 00:03:34,400
+whatever you want, just know that it's
+
+132
+00:03:32,560 --> 00:03:35,560
+going to be around creating the script
+
+133
+00:03:34,400 --> 00:03:36,920
+for your ads. Now that we're in the
+
+134
+00:03:35,560 --> 00:03:38,840
+project, first thing we're going to do
+
+135
+00:03:36,920 --> 00:03:40,360
+is go to the instructions. Now, for the
+
+136
+00:03:38,840 --> 00:03:42,920
+instructions, what you want to do is
+
+137
+00:03:40,360 --> 00:03:44,640
+take this SOP that I have here for
+
+138
+00:03:42,920 --> 00:03:46,680
+creating the instructions specifically
+
+139
+00:03:44,640 --> 00:03:48,160
+surrounding your brand and then paste it
+
+140
+00:03:46,680 --> 00:03:49,840
+directly into the instructions, okay?
+
+141
+00:03:48,160 --> 00:03:51,400
+So, if you want access to this document
+
+142
+00:03:49,840 --> 00:03:53,120
+that is the SOP for creating the
+
+143
+00:03:51,400 --> 00:03:55,600
+instructions for this Claude project, go
+
+144
+00:03:53,120 --> 00:03:58,200
+to my IG, it's @markbuildsbrands and DM
+
+145
+00:03:55,600 --> 00:03:59,280
+me the word Sora, s o r a, and I'll send
+
+146
+00:03:58,200 --> 00:04:00,640
+it to you along with every other
+
+147
+00:03:59,280 --> 00:04:01,760
+resource with this video. So, I went
+
+148
+00:04:00,640 --> 00:04:03,240
+through and filled this out. This is all
+
+149
+00:04:01,760 --> 00:04:04,800
+the details here. I'm just going to copy
+
+150
+00:04:03,240 --> 00:04:06,160
+this, paste it directly into the Claude
+
+151
+00:04:04,800 --> 00:04:07,520
+project. And then the only other thing
+
+152
+00:04:06,160 --> 00:04:09,160
+we have to do for this Claude project to
+
+153
+00:04:07,520 --> 00:04:10,760
+work is we're going to go to the files
+
+154
+00:04:09,160 --> 00:04:13,200
+and we're going to upload all of our
+
+155
+00:04:10,760 --> 00:04:15,360
+foundational documents. That is it. It's
+
+156
+00:04:13,200 --> 00:04:16,720
+so incredibly simple, super duper easy,
+
+157
+00:04:15,360 --> 00:04:17,720
+and let me show you how it works. So,
+
+158
+00:04:16,720 --> 00:04:19,360
+now we're going to go back to Get
+
+159
+00:04:17,720 --> 00:04:20,400
+Hooked, to that ad, that swipe that we
+
+160
+00:04:19,360 --> 00:04:22,000
+saved. We're going to go to the
+
+161
+00:04:20,400 --> 00:04:23,720
+transcription, which is auto-generated
+
+162
+00:04:22,000 --> 00:04:25,080
+by AI. We're just going to hit copy, go
+
+163
+00:04:23,720 --> 00:04:27,920
+over into our Claude project, going to
+
+164
+00:04:25,080 --> 00:04:29,600
+paste that, and then one stupidly simple
+
+165
+00:04:27,920 --> 00:04:31,320
+line right above it. And by the way,
+
+166
+00:04:29,600 --> 00:04:32,880
+this is so idiot-proof, like it's
+
+167
+00:04:31,320 --> 00:04:34,400
+insane. You don't need prompt
+
+168
+00:04:32,880 --> 00:04:36,160
+engineering skills when you have a
+
+169
+00:04:34,400 --> 00:04:37,600
+really solid foundation built with the
+
+170
+00:04:36,160 --> 00:04:39,160
+Claude project. You just don't because
+
+171
+00:04:37,600 --> 00:04:40,600
+you already did all of the hard work.
+
+172
+00:04:39,160 --> 00:04:41,680
+The foundational doc instructions, it's
+
+173
+00:04:40,600 --> 00:04:43,040
+already done. So, you can just talk to
+
+174
+00:04:41,680 --> 00:04:44,520
+it as if it's a human being that's
+
+175
+00:04:43,040 --> 00:04:45,880
+writing copy for you. So, for example
+
+176
+00:04:44,520 --> 00:04:47,280
+purposes, I literally just said, "Can
+
+177
+00:04:45,880 --> 00:04:48,360
+you rewrite this ad before my brand?"
+
+178
+00:04:47,280 --> 00:04:49,400
+Stupid simple, all right? And then
+
+179
+00:04:48,360 --> 00:04:50,560
+you're just going to hit enter. What
+
+180
+00:04:49,400 --> 00:04:51,960
+it's going to do is reference all the
+
+181
+00:04:50,560 --> 00:04:54,040
+knowledge in that Claude project to
+
+182
+00:04:51,960 --> 00:04:55,920
+rewrite your ad script from scratch
+
+183
+00:04:54,040 --> 00:04:58,000
+based off of a already pre-existing
+
+184
+00:04:55,920 --> 00:04:59,600
+proven winner. And boom, just like that,
+
+185
+00:04:58,000 --> 00:05:01,080
+we have the entire script. If you want,
+
+186
+00:04:59,600 --> 00:05:02,400
+you can go and chief it. I would highly
+
+187
+00:05:01,080 --> 00:05:03,480
+recommend that, but for example
+
+188
+00:05:02,400 --> 00:05:04,640
+purposes, I'm just going to move pretty
+
+189
+00:05:03,480 --> 00:05:06,000
+quickly and move to the next step. But
+
+190
+00:05:04,640 --> 00:05:07,440
+look at that, we literally just already
+
+191
+00:05:06,000 --> 00:05:08,880
+have two steps done. Now, we have to
+
+192
+00:05:07,440 --> 00:05:11,000
+move on to step number three, which is
+
+193
+00:05:08,880 --> 00:05:12,840
+storyboarding the ad. Now, the main
+
+194
+00:05:11,000 --> 00:05:14,880
+constraint with Sora 2, if you use it in
+
+195
+00:05:12,840 --> 00:05:17,360
+the platform itself, is there's a
+
+196
+00:05:14,880 --> 00:05:18,720
+limitation of the max length of clip
+
+197
+00:05:17,360 --> 00:05:20,160
+that you can use is 15 seconds, which
+
+198
+00:05:18,720 --> 00:05:21,680
+means if we're creating an ad in this
+
+199
+00:05:20,160 --> 00:05:23,200
+case that's around 60 seconds long, we
+
+200
+00:05:21,680 --> 00:05:25,320
+have to individually generate around
+
+201
+00:05:23,200 --> 00:05:26,800
+four separate Sora clips. And so, what
+
+202
+00:05:25,320 --> 00:05:28,800
+that means is you have to take your
+
+203
+00:05:26,800 --> 00:05:30,960
+script and segment it into specific
+
+204
+00:05:28,800 --> 00:05:33,080
+sections because each output is going to
+
+205
+00:05:30,960 --> 00:05:35,680
+return a specific clip that you piece
+
+206
+00:05:33,080 --> 00:05:37,280
+together to fully form the ad. If you
+
+207
+00:05:35,680 --> 00:05:38,960
+skip this step, what's going to happen
+
+208
+00:05:37,280 --> 00:05:40,080
+is you're going to have terrible clips,
+
+209
+00:05:38,960 --> 00:05:42,520
+you're going to have clips that are
+
+210
+00:05:40,080 --> 00:05:43,920
+trying to match like a UGC versus like a
+
+211
+00:05:42,520 --> 00:05:46,080
+B-roll clip and it's just not going to
+
+212
+00:05:43,920 --> 00:05:47,600
+look good. So, this step is incredibly
+
+213
+00:05:46,080 --> 00:05:48,680
+crucial, but once again, I have it
+
+214
+00:05:47,600 --> 00:05:50,400
+stupid simple for you guys to
+
+215
+00:05:48,680 --> 00:05:52,600
+understand. So, for storyboarding, all I
+
+216
+00:05:50,400 --> 00:05:54,760
+like to do is take my script, paste it
+
+217
+00:05:52,600 --> 00:05:56,480
+into a Google Doc, and segment it into
+
+218
+00:05:54,760 --> 00:05:58,320
+individual clips. So, for example, the
+
+219
+00:05:56,480 --> 00:06:00,360
+first clip is a creator walking through
+
+220
+00:05:58,320 --> 00:06:02,240
+a drugstore. I only have those specific
+
+221
+00:06:00,360 --> 00:06:04,080
+lines associated with that clip. The
+
+222
+00:06:02,240 --> 00:06:06,000
+second is going to be B-roll of like the
+
+223
+00:06:04,080 --> 00:06:07,280
+inside of a pharmacy, like a CVS. The
+
+224
+00:06:06,000 --> 00:06:09,400
+next is going to be a straight-up
+
+225
+00:06:07,280 --> 00:06:11,520
+typical UGC clip. And then the final is
+
+226
+00:06:09,400 --> 00:06:13,480
+going to be another UGC clip from our
+
+227
+00:06:11,520 --> 00:06:14,840
+main UGC creator, okay? That's it. It
+
+228
+00:06:13,480 --> 00:06:16,480
+doesn't need to be super complicated,
+
+229
+00:06:14,840 --> 00:06:17,960
+but you need to give details around
+
+230
+00:06:16,480 --> 00:06:19,840
+every individual clip that you're using.
+
+231
+00:06:17,960 --> 00:06:21,520
+And this is like storyboarding 101. You
+
+232
+00:06:19,840 --> 00:06:22,640
+could take it so much farther, but this
+
+233
+00:06:21,520 --> 00:06:24,800
+is just a good foundation for you to
+
+234
+00:06:22,640 --> 00:06:25,840
+understand how to actually use this
+
+235
+00:06:24,800 --> 00:06:27,120
+technology because if you don't
+
+236
+00:06:25,840 --> 00:06:28,600
+storyboard, it's not going to work very
+
+237
+00:06:27,120 --> 00:06:30,360
+well. And boom, just like that, we got
+
+238
+00:06:28,600 --> 00:06:33,160
+step number three complete. Now, we move
+
+239
+00:06:30,360 --> 00:06:35,080
+on to generating the prompts for Sora 2
+
+240
+00:06:33,160 --> 00:06:36,800
+to actually function and generate good
+
+241
+00:06:35,080 --> 00:06:38,440
+outputs. This is probably the most
+
+242
+00:06:36,800 --> 00:06:39,480
+difficult piece, but once again, I got
+
+243
+00:06:38,440 --> 00:06:41,120
+y'all covered. All right, let's do it.
+
+244
+00:06:39,480 --> 00:06:42,320
+You are going to go back to Claude. You
+
+245
+00:06:41,120 --> 00:06:43,840
+are going to go to projects and you are
+
+246
+00:06:42,320 --> 00:06:45,200
+going to create a new project once
+
+247
+00:06:43,840 --> 00:06:47,560
+again. This one is going to be
+
+248
+00:06:45,200 --> 00:06:49,000
+specifically for Sora 2 prompting, all
+
+249
+00:06:47,560 --> 00:06:50,400
+right? That is it. That is the sole
+
+250
+00:06:49,000 --> 00:06:51,600
+goal. You can call it whatever you want,
+
+251
+00:06:50,400 --> 00:06:53,360
+all right? Let's move on. Now, for this
+
+252
+00:06:51,600 --> 00:06:54,720
+project, you do not need to upload any
+
+253
+00:06:53,360 --> 00:06:56,720
+knowledge, but what you do need to
+
+254
+00:06:54,720 --> 00:06:58,640
+upload is instructions. Once again, I
+
+255
+00:06:56,720 --> 00:06:59,800
+have it all already laid out for you.
+
+256
+00:06:58,640 --> 00:07:01,240
+There is literally nothing that you need
+
+257
+00:06:59,800 --> 00:07:02,560
+to change about this prompt. Like you
+
+258
+00:07:01,240 --> 00:07:03,840
+don't need to go in and edit anything.
+
+259
+00:07:02,560 --> 00:07:05,520
+We're just going to copy all of it, go
+
+260
+00:07:03,840 --> 00:07:06,360
+into the project, and paste it. Now,
+
+261
+00:07:05,520 --> 00:07:07,840
+we're going to go back to our
+
+262
+00:07:06,360 --> 00:07:09,800
+storyboarding document and we're going
+
+263
+00:07:07,840 --> 00:07:11,120
+to take this first initial portion of
+
+264
+00:07:09,800 --> 00:07:12,680
+the script, we're going to copy it,
+
+265
+00:07:11,120 --> 00:07:14,560
+paste it directly into Claude right
+
+266
+00:07:12,680 --> 00:07:15,960
+here, and then do a few spaces. And what
+
+267
+00:07:14,560 --> 00:07:17,600
+you want to do is before you send this
+
+268
+00:07:15,960 --> 00:07:19,640
+prompt, you want to give it a little bit
+
+269
+00:07:17,600 --> 00:07:21,360
+of guidance and detail about the kind of
+
+270
+00:07:19,640 --> 00:07:23,320
+clip that you were trying to create.
+
+271
+00:07:21,360 --> 00:07:25,040
+Now, if I was super duper extra, I could
+
+272
+00:07:23,320 --> 00:07:26,440
+go into like Gemini, which is a
+
+273
+00:07:25,040 --> 00:07:28,000
+multimodal model, which means that it
+
+274
+00:07:26,440 --> 00:07:29,840
+can analyze videos, and you can have it
+
+275
+00:07:28,000 --> 00:07:31,320
+extract like metadata and everything
+
+276
+00:07:29,840 --> 00:07:32,840
+around a specific video. If you want to
+
+277
+00:07:31,320 --> 00:07:34,920
+do that, you totally can. What I have
+
+278
+00:07:32,840 --> 00:07:36,600
+found is that simplicity often works
+
+279
+00:07:34,920 --> 00:07:39,120
+very, very well, especially when it
+
+280
+00:07:36,600 --> 00:07:40,840
+comes to Sora 2. So, in this case, the
+
+281
+00:07:39,120 --> 00:07:42,440
+first clip is this woman walking through
+
+282
+00:07:40,840 --> 00:07:43,760
+a CVS. So, I would put a very basic
+
+283
+00:07:42,440 --> 00:07:45,240
+prompt like this. I want a young,
+
+284
+00:07:43,760 --> 00:07:47,200
+attractive blonde 25-year-old woman at
+
+285
+00:07:45,240 --> 00:07:49,400
+CVS looking at her phone camera and says
+
+286
+00:07:47,200 --> 00:07:50,960
+the following energetically at a fast
+
+287
+00:07:49,400 --> 00:07:53,080
+pace. Again, I could go deeper into
+
+288
+00:07:50,960 --> 00:07:55,120
+this, but simplicity is king and
+
+289
+00:07:53,080 --> 00:07:56,240
+creating that feedback loop where you
+
+290
+00:07:55,120 --> 00:07:57,480
+get a clip, you see if it's what you
+
+291
+00:07:56,240 --> 00:07:58,920
+want, you make adjustments, and you just
+
+292
+00:07:57,480 --> 00:08:00,360
+continue that process. So, we're going
+
+293
+00:07:58,920 --> 00:08:02,320
+to go ahead and hit enter here. We have
+
+294
+00:08:00,360 --> 00:08:04,280
+Opus 4.1 selected. You don't need to use
+
+295
+00:08:02,320 --> 00:08:05,800
+4.1, you could totally use Claude Sonnet
+
+296
+00:08:04,280 --> 00:08:08,000
+and it'll do the job just fine. And as
+
+297
+00:08:05,800 --> 00:08:09,680
+you can see, it creates this entire kind
+
+298
+00:08:08,000 --> 00:08:12,480
+of prompt here that we can literally
+
+299
+00:08:09,680 --> 00:08:13,960
+copy and paste directly into Sora 2. So,
+
+300
+00:08:12,480 --> 00:08:15,760
+that's what we're going to do, all
+
+301
+00:08:13,960 --> 00:08:17,160
+right? But now, once again, we have this
+
+302
+00:08:15,760 --> 00:08:18,800
+four-step created. Now, we can move on
+
+303
+00:08:17,160 --> 00:08:21,320
+to the final piece, which is actually
+
+304
+00:08:18,800 --> 00:08:22,760
+creating the clip on Sora 2. All right,
+
+305
+00:08:21,320 --> 00:08:25,920
+so we're here in Sora 2. I'm going to
+
+306
+00:08:22,760 --> 00:08:28,760
+paste that entire long prompt directly
+
+307
+00:08:25,920 --> 00:08:30,560
+into Sora 2. I'm using Sora 2 Pro. It's
+
+308
+00:08:28,760 --> 00:08:31,880
+not necessary, but it's very easy to
+
+309
+00:08:30,560 --> 00:08:32,920
+remove watermarks if that's what you're
+
+310
+00:08:31,880 --> 00:08:34,400
+worried about. There's like a million
+
+311
+00:08:32,920 --> 00:08:36,040
+websites that do that. Landscape, we're
+
+312
+00:08:34,400 --> 00:08:37,160
+going to do portrait, resolution, we're
+
+313
+00:08:36,040 --> 00:08:39,000
+going to keep it at standard, and
+
+314
+00:08:37,160 --> 00:08:40,240
+duration at 15 seconds. So, I'm going to
+
+315
+00:08:39,000 --> 00:08:41,360
+hit enter and let this cook. All right,
+
+316
+00:08:40,240 --> 00:08:43,120
+so we got the first clip already
+
+317
+00:08:41,360 --> 00:08:43,760
+created. Let's take a little peek, see
+
+318
+00:08:43,120 --> 00:08:45,240
+how it looks.
+
+319
+00:08:43,760 --> 00:08:47,320
+>> Okay, so
+
+320
+00:08:45,240 --> 00:08:49,320
+I quit steroid creams and my eczema like
+
+321
+00:08:47,320 --> 00:08:50,960
+literally exploded until I found this
+
+322
+00:08:49,320 --> 00:08:53,120
+Nordic balm with Manuka honey that
+
+323
+00:08:50,960 --> 00:08:55,000
+actually heals your barrier. I'm 27 and
+
+324
+00:08:53,120 --> 00:08:56,880
+I've battled eczema since I was a kid.
+
+325
+00:08:55,000 --> 00:08:57,360
+Steroids thinned my skin and made flares
+
+326
+00:08:56,880 --> 00:08:58,800
+worse.
+
+327
+00:08:57,360 --> 00:09:00,440
+>> I have no adjustments to make to this.
+
+328
+00:08:58,800 --> 00:09:02,200
+This is like the very first try and this
+
+329
+00:09:00,440 --> 00:09:03,640
+is exactly what we got. This is perfect.
+
+330
+00:09:02,200 --> 00:09:04,720
+Now, let's move on to the next clip. So,
+
+331
+00:09:03,640 --> 00:09:06,240
+we're going to copy this portion of the
+
+332
+00:09:04,720 --> 00:09:08,000
+script, paste it directly into Claude
+
+333
+00:09:06,240 --> 00:09:09,360
+project, get a few enters, and then
+
+334
+00:09:08,000 --> 00:09:10,720
+write a little blurb of the exact
+
+335
+00:09:09,360 --> 00:09:13,600
+content that we want. Now, this clip is
+
+336
+00:09:10,720 --> 00:09:15,440
+not UGC. This is actually B-roll of the
+
+337
+00:09:13,600 --> 00:09:17,600
+inside of a pharmacy and showing like a
+
+338
+00:09:15,440 --> 00:09:19,080
+steroid medication on a counter, all
+
+339
+00:09:17,600 --> 00:09:20,200
+right? So, once again, simple prompt,
+
+340
+00:09:19,080 --> 00:09:22,440
+hit enter. So, we're going to take this
+
+341
+00:09:20,200 --> 00:09:23,640
+prompt, pop it into Sora 2, and while
+
+342
+00:09:22,440 --> 00:09:24,760
+that's going, let's actually move on to
+
+343
+00:09:23,640 --> 00:09:26,440
+the next one and do just all these
+
+344
+00:09:24,760 --> 00:09:28,920
+prompts at once. I believe you can run a
+
+345
+00:09:26,440 --> 00:09:30,600
+total of three Sora 2 generations at one
+
+346
+00:09:28,920 --> 00:09:31,560
+time, at least if I do more than that,
+
+347
+00:09:30,600 --> 00:09:33,840
+it doesn't work for me. But now, we're
+
+348
+00:09:31,560 --> 00:09:35,120
+getting into the actual UGC. So, same
+
+349
+00:09:33,840 --> 00:09:36,640
+process as always, I'm not going to show
+
+350
+00:09:35,120 --> 00:09:38,280
+it start to finish, but copy it, add
+
+351
+00:09:36,640 --> 00:09:39,680
+into Claude project, give details of
+
+352
+00:09:38,280 --> 00:09:41,000
+exactly what you want, then send it
+
+353
+00:09:39,680 --> 00:09:42,280
+directly to Sora 2. All right, so we got
+
+354
+00:09:41,000 --> 00:09:43,960
+our first UGC clip. Let's take a look
+
+355
+00:09:42,280 --> 00:09:45,520
+and see how it came out. Okay, Freya
+
+356
+00:09:43,960 --> 00:09:46,840
+Organics is different. It's from Norway,
+
+357
+00:09:45,520 --> 00:09:48,560
+made with Manuka honey that's been used
+
+358
+00:09:46,840 --> 00:09:50,720
+for like centuries to heal skin. It's
+
+359
+00:09:48,560 --> 00:09:52,200
+not watered down, it's pure concentrated
+
+360
+00:09:50,720 --> 00:09:53,840
+healing. The Manuka honey fights
+
+361
+00:09:52,200 --> 00:09:55,360
+inflammation and bacteria naturally
+
+362
+00:09:53,840 --> 00:09:57,600
+while Nordic Botanicals Okay, you get
+
+363
+00:09:55,360 --> 00:09:58,840
+the idea. This is [ __ ] insane. Let me
+
+364
+00:09:57,600 --> 00:10:00,360
+show you one of the other clips I made.
+
+365
+00:09:58,840 --> 00:10:02,080
+Now, this clip is actually some b-roll
+
+366
+00:10:00,360 --> 00:10:03,200
+of the product actually in use and just
+
+367
+00:10:02,080 --> 00:10:04,840
+take a look at the prompt here. You can
+
+368
+00:10:03,200 --> 00:10:06,840
+see I switched it up a little bit. With
+
+369
+00:10:04,840 --> 00:10:09,120
+the b-roll, it's incredibly important to
+
+370
+00:10:06,840 --> 00:10:11,120
+keep it stupid, stupid simple. Check
+
+371
+00:10:09,120 --> 00:10:13,140
+this out.
+
+372
+00:10:11,120 --> 00:10:13,140
+>> [snorts]
+
+373
+00:10:16,280 --> 00:10:20,040
+>> So, it's not perfect, but it is a
+
+374
+00:10:17,880 --> 00:10:22,000
+amazing clip to use in b-roll
+
+375
+00:10:20,040 --> 00:10:23,840
+back-to-back. You can do it in the fully
+
+376
+00:10:22,000 --> 00:10:24,960
+packaged product. You can do it actually
+
+377
+00:10:23,840 --> 00:10:26,320
+using the product. You can do it
+
+378
+00:10:24,960 --> 00:10:27,560
+applying the product to your face, but
+
+379
+00:10:26,320 --> 00:10:28,960
+then it doesn't really become b-roll.
+
+380
+00:10:27,560 --> 00:10:30,880
+That's actually like UGC. But at this
+
+381
+00:10:28,960 --> 00:10:33,040
+stage, I have completed every single
+
+382
+00:10:30,880 --> 00:10:34,680
+individual clip here. Let's finally put
+
+383
+00:10:33,040 --> 00:10:36,320
+it all together, cross this, you know,
+
+384
+00:10:34,680 --> 00:10:38,240
+[ __ ] off. We did all five steps and look
+
+385
+00:10:36,320 --> 00:10:40,360
+at the fully finished ad we created.
+
+386
+00:10:38,240 --> 00:10:42,800
+>> Okay, so I quit steroid creams and my
+
+387
+00:10:40,360 --> 00:10:44,520
+eczema like literally exploded until I
+
+388
+00:10:42,800 --> 00:10:46,800
+found this Nordic balm with manuka honey
+
+389
+00:10:44,520 --> 00:10:48,800
+that actually heals your barrier. I'm 27
+
+390
+00:10:46,800 --> 00:10:50,680
+and I battled eczema since I was a kid.
+
+391
+00:10:48,800 --> 00:10:52,000
+Steroids thin my skin and made flares
+
+392
+00:10:50,680 --> 00:10:54,080
+worse. Now, you're not going to find
+
+393
+00:10:52,000 --> 00:10:55,680
+this product in a drugstore. It's not a
+
+394
+00:10:54,080 --> 00:10:57,920
+prescription that comes with crazy side
+
+395
+00:10:55,680 --> 00:10:59,480
+effects. Been there, will never do it
+
+396
+00:10:57,920 --> 00:11:00,880
+again. Okay, Fraya Organics is
+
+397
+00:10:59,480 --> 00:11:02,200
+different. It's from Norway made with
+
+398
+00:11:00,880 --> 00:11:04,040
+manuka honey that's been used for like
+
+399
+00:11:02,200 --> 00:11:06,080
+centuries to heal skin. It's not watered
+
+400
+00:11:04,040 --> 00:11:07,760
+down. It's pure concentrated healing.
+
+401
+00:11:06,080 --> 00:11:09,240
+The manuka honey fights inflammation and
+
+402
+00:11:07,760 --> 00:11:10,760
+bacteria naturally while Nordic
+
+403
+00:11:09,240 --> 00:11:12,280
+botanicals rebuild your barrier. It
+
+404
+00:11:10,760 --> 00:11:13,880
+works on your face and body, absorbs
+
+405
+00:11:12,280 --> 00:11:15,360
+fast, and doesn't leave you feeling like
+
+406
+00:11:13,880 --> 00:11:17,360
+a grease turkey. After years of
+
+407
+00:11:15,360 --> 00:11:19,000
+disappointment, Fraya actually worked.
+
+408
+00:11:17,360 --> 00:11:21,240
+My flares are rare now and when they
+
+409
+00:11:19,000 --> 00:11:22,800
+happen, this stops them fast. 60-day
+
+410
+00:11:21,240 --> 00:11:23,320
+guarantee, so you literally have nothing
+
+411
+00:11:22,800 --> 00:11:25,080
+to lose.
+
+412
+00:11:23,320 --> 00:11:26,840
+>> So, that's pretty damn good. If I had to
+
+413
+00:11:25,080 --> 00:11:28,600
+give a complaint about this particular
+
+414
+00:11:26,840 --> 00:11:30,680
+creative that I made, it would be
+
+415
+00:11:28,600 --> 00:11:32,280
+there's very, very, very slight
+
+416
+00:11:30,680 --> 00:11:33,680
+variations in the character, but that
+
+417
+00:11:32,280 --> 00:11:35,000
+has actually been solved by Sora 2
+
+418
+00:11:33,680 --> 00:11:37,120
+recently. You can create custom
+
+419
+00:11:35,000 --> 00:11:38,640
+characters and I was just too lazy to do
+
+420
+00:11:37,120 --> 00:11:41,400
+it for this video, but if you download
+
+421
+00:11:38,640 --> 00:11:43,320
+the actual Sora 2 mobile app, you can
+
+422
+00:11:41,400 --> 00:11:44,880
+create unique characters and character
+
+423
+00:11:43,320 --> 00:11:45,960
+identities that you can continue to
+
+424
+00:11:44,880 --> 00:11:47,920
+reuse over and over again with
+
+425
+00:11:45,960 --> 00:11:49,800
+consistent characters and consistent
+
+426
+00:11:47,920 --> 00:11:52,080
+voices. To me, this technology is
+
+427
+00:11:49,800 --> 00:11:54,480
+absolutely [ __ ] insane and I think
+
+428
+00:11:52,080 --> 00:11:56,800
+that if you're able to use these ads and
+
+429
+00:11:54,480 --> 00:11:58,880
+create an ad like I just there, you are
+
+430
+00:11:56,800 --> 00:12:00,440
+on a great path to actually like finally
+
+431
+00:11:58,880 --> 00:12:02,040
+making e-com work and scaling your
+
+432
+00:12:00,440 --> 00:12:03,800
+brand. Now, the one caveat here is just
+
+433
+00:12:02,040 --> 00:12:05,760
+because you have good ads, if you're
+
+434
+00:12:03,800 --> 00:12:06,920
+sending all your ads to a shitty funnel,
+
+435
+00:12:05,760 --> 00:12:08,240
+you're not going to scale, all right?
+
+436
+00:12:06,920 --> 00:12:09,720
+So, that's why I built Brand Builders
+
+437
+00:12:08,240 --> 00:12:11,680
+Academy cuz we don't actually just show
+
+438
+00:12:09,720 --> 00:12:12,920
+you all this cool AI stuff with the Sora
+
+439
+00:12:11,680 --> 00:12:14,640
+2 and everything, but actually the full
+
+440
+00:12:12,920 --> 00:12:15,880
+process A to Z, product, funnel,
+
+441
+00:12:14,640 --> 00:12:16,880
+creative, everything. So, if you want to
+
+442
+00:12:15,880 --> 00:12:18,160
+join that, you can fill out an
+
+443
+00:12:16,880 --> 00:12:19,400
+application below, click the first link
+
+444
+00:12:18,160 --> 00:12:20,240
+in the description, and we'll see if
+
+445
+00:12:19,400 --> 00:12:21,400
+you're a good fit. Other than that,
+
+446
+00:12:20,240 --> 00:12:22,480
+guys, thank you so much for watching.
+
+447
+00:12:21,400 --> 00:12:24,200
+Hope you enjoyed this one. This was a
+
+448
+00:12:22,480 --> 00:12:25,960
+long time in the making and I actually
+
+449
+00:12:24,200 --> 00:12:28,480
+filmed this video, I think, seven total
+
+450
+00:12:25,960 --> 00:12:29,600
+times, but my OBS kept crashing, so we
+
+451
+00:12:28,480 --> 00:12:30,680
+finally made it. Thank you so much for
+
+452
+00:12:29,600 --> 00:12:33,760
+watching. I'll see you on the next one.
+
+453
+00:12:30,680 --> 00:12:33,760
+Run more ads. Peace.
+

@@ -1,0 +1,5568 @@
+1
+00:00:00,000 --> 00:00:05,650
+[Music]
+
+2
+00:00:07,670 --> 00:00:10,730
+[Music]
+
+3
+00:00:14,140 --> 00:00:17,760
+[Music]
+
+4
+00:00:15,440 --> 00:00:19,680
+I'm a real chokey [ __ ] coming straight
+
+5
+00:00:17,760 --> 00:00:21,520
+up out the sea. You can't imagine what
+
+6
+00:00:19,680 --> 00:00:23,760
+you seeing in your deepest darkest
+
+7
+00:00:21,520 --> 00:00:25,840
+dreams. I put a beam into your eye. Now
+
+8
+00:00:23,760 --> 00:00:27,600
+your body reach the sky and there ain't
+
+9
+00:00:25,840 --> 00:00:30,400
+no telling why I killed a bunch of
+
+10
+00:00:27,600 --> 00:00:32,480
+[ __ ] Huh? Going up a beat now. This
+
+11
+00:00:30,400 --> 00:00:34,880
+[ __ ] tell me this. Think I'm going
+
+12
+00:00:32,480 --> 00:00:36,960
+crazy. Going crazy. Never ever think I'm
+
+13
+00:00:34,880 --> 00:00:39,040
+lazy. Trying to test me, [ __ ] Thinking
+
+14
+00:00:36,960 --> 00:00:42,400
+all this stupid [ __ ] I'm never home.
+
+15
+00:00:39,040 --> 00:00:45,440
+Always stepping on some very own deep in
+
+16
+00:00:42,400 --> 00:00:47,680
+the jungle trying to make a [ __ ] dead
+
+17
+00:00:45,440 --> 00:00:50,920
+body chilling in the sec. What you think
+
+18
+00:00:47,680 --> 00:00:50,920
+of that?
+
+19
+00:00:52,720 --> 00:00:56,120
+I am feeling.
+
+20
+00:01:00,680 --> 00:01:05,840
+What is up,
+
+21
+00:01:03,080 --> 00:01:08,400
+legends? How we doing? What's good?
+
+22
+00:01:05,840 --> 00:01:11,000
+What's good? We're live and we're going
+
+23
+00:01:08,400 --> 00:01:13,360
+to be talking about how to make winning
+
+24
+00:01:11,000 --> 00:01:15,080
+ads with AI today. Okay, I'm actually so
+
+25
+00:01:13,360 --> 00:01:18,800
+excited for this one because I have been
+
+26
+00:01:15,080 --> 00:01:21,440
+going super [ __ ] deep into applying
+
+27
+00:01:18,800 --> 00:01:22,560
+AI to my entire ad workflow and I'm
+
+28
+00:01:21,440 --> 00:01:24,080
+going to share some really cool [ __ ]
+
+29
+00:01:22,560 --> 00:01:26,600
+with you guys today. This definitely not
+
+30
+00:01:24,080 --> 00:01:28,800
+not one that you want to [ __ ]
+
+31
+00:01:26,600 --> 00:01:29,760
+miss. So, y'all know the drill, man. Let
+
+32
+00:01:28,800 --> 00:01:31,640
+me know where you're listening in from
+
+33
+00:01:29,760 --> 00:01:33,240
+in the chat. I got it pulled
+
+34
+00:01:31,640 --> 00:01:35,520
+up.
+
+35
+00:01:33,240 --> 00:01:37,840
+Let's make it a [ __ ] good one, man.
+
+36
+00:01:35,520 --> 00:01:40,400
+All right, Caleb, what's up, dude?
+
+37
+00:01:37,840 --> 00:01:42,480
+Battle Ready UK, what's good? We got
+
+38
+00:01:40,400 --> 00:01:45,080
+another Mark in the chat. What's up,
+
+39
+00:01:42,480 --> 00:01:48,880
+bro? Dvari,
+
+40
+00:01:45,080 --> 00:01:48,880
+yo, Solivan, what
+
+41
+00:01:49,000 --> 00:01:53,600
+up? Evil Goods, how do you warm up ad
+
+42
+00:01:51,600 --> 00:01:55,000
+account? How about a hello? How about a
+
+43
+00:01:53,600 --> 00:01:58,320
+hey Mark? How you
+
+44
+00:01:55,000 --> 00:02:00,360
+doing? Did that ever hurt anybody? Geez,
+
+45
+00:01:58,320 --> 00:02:02,880
+it's always it's always
+
+46
+00:02:00,360 --> 00:02:05,680
+Mark. How do I warm up my ad account?
+
+47
+00:02:02,880 --> 00:02:05,680
+Not Mark, how are
+
+48
+00:02:06,520 --> 00:02:11,080
+you? It's not that hard.
+
+49
+00:02:16,320 --> 00:02:21,280
+Isaiah, yo, G Money, what's good? Isaiah
+
+50
+00:02:19,000 --> 00:02:23,120
+Thomas, never have I ever sat on a
+
+51
+00:02:21,280 --> 00:02:25,760
+YouTube page refreshing every 30 seconds
+
+52
+00:02:23,120 --> 00:02:26,800
+for a live until today. That's what I'm
+
+53
+00:02:25,760 --> 00:02:27,880
+talking about, bro. This is not one you
+
+54
+00:02:26,800 --> 00:02:30,880
+want to
+
+55
+00:02:27,880 --> 00:02:33,240
+miss. Dom, hey man, from Argentina,
+
+56
+00:02:30,880 --> 00:02:38,440
+what's up,
+
+57
+00:02:33,240 --> 00:02:38,440
+bro? Chase, what's up, Chase?
+
+58
+00:02:39,440 --> 00:02:45,640
+We got Germany in the building. What's
+
+59
+00:02:41,640 --> 00:02:48,520
+good? Sweden. Israel. We
+
+60
+00:02:45,640 --> 00:02:51,080
+got Shy
+
+61
+00:02:48,520 --> 00:02:54,320
+Town. Is this going to be
+
+62
+00:02:51,080 --> 00:02:56,320
+posted? Uh, yeah. Yeah, it'll be posted,
+
+63
+00:02:54,320 --> 00:02:58,320
+man. It'll be posted. I made sure to
+
+64
+00:02:56,320 --> 00:03:00,640
+triple check my [ __ ] audio this time
+
+65
+00:02:58,320 --> 00:03:02,720
+because last time it was Oh my god,
+
+66
+00:03:00,640 --> 00:03:04,960
+dude. I I don't even know why you guys
+
+67
+00:03:02,720 --> 00:03:07,200
+watch me for real with this [ __ ] like
+
+68
+00:03:04,960 --> 00:03:10,000
+that. I would have just clicked off. No,
+
+69
+00:03:07,200 --> 00:03:10,000
+I know why. I know
+
+70
+00:03:10,200 --> 00:03:13,200
+why. All
+
+71
+00:03:17,560 --> 00:03:24,800
+right, ladies and
+
+72
+00:03:20,520 --> 00:03:27,040
+gentlemen, let us get it going. Okay, so
+
+73
+00:03:24,800 --> 00:03:28,160
+uh like I said, this particular live is
+
+74
+00:03:27,040 --> 00:03:30,720
+going to be, you know, I got about an
+
+75
+00:03:28,160 --> 00:03:31,800
+hour set aside, so I got to get get back
+
+76
+00:03:30,720 --> 00:03:34,560
+to [ __ ]
+
+77
+00:03:31,800 --> 00:03:38,200
+work. Um today's live is going to be how
+
+78
+00:03:34,560 --> 00:03:40,360
+to make ads. a scale to 10k a
+
+79
+00:03:38,200 --> 00:03:43,200
+day with
+
+80
+00:03:40,360 --> 00:03:44,880
+AI. Now, if you're like most people, you
+
+81
+00:03:43,200 --> 00:03:47,280
+probably know that, you know, AK's good
+
+82
+00:03:44,880 --> 00:03:49,440
+AI is a good thing. You know, helps with
+
+83
+00:03:47,280 --> 00:03:52,560
+all your workflows, blah, blah, blah.
+
+84
+00:03:49,440 --> 00:03:52,560
+Oh, Mark, I use
+
+85
+00:03:53,000 --> 00:03:56,840
+chatbt. I use AI. I'm telling you right
+
+86
+00:03:56,000 --> 00:04:00,320
+now,
+
+87
+00:03:56,840 --> 00:04:02,640
+chatbt is [ __ ] level one in terms of
+
+88
+00:04:00,320 --> 00:04:04,960
+what is possible with AI. like you need
+
+89
+00:04:02,640 --> 00:04:07,120
+to go so much deeper than just chatbt or
+
+90
+00:04:04,960 --> 00:04:11,120
+just claude or whatever because the way
+
+91
+00:04:07,120 --> 00:04:12,560
+that I view it right now is those LLMs,
+
+92
+00:04:11,120 --> 00:04:14,480
+right? Large language models, things
+
+93
+00:04:12,560 --> 00:04:16,080
+like chatbt, all their various models,
+
+94
+00:04:14,480 --> 00:04:19,760
+things like Claude, all their various
+
+95
+00:04:16,080 --> 00:04:24,160
+models, that is [ __ ] level one.
+
+96
+00:04:19,760 --> 00:04:27,200
+Level two is the more advanced tools,
+
+97
+00:04:24,160 --> 00:04:28,480
+stuff like Perplexity, like Gemini, that
+
+98
+00:04:27,200 --> 00:04:32,560
+are more intelligent, that are
+
+99
+00:04:28,480 --> 00:04:35,520
+oftentimes faster and that can help you
+
+100
+00:04:32,560 --> 00:04:37,120
+complete tasks using like access to the
+
+101
+00:04:35,520 --> 00:04:39,280
+internet. So, you have tools, right? Let
+
+102
+00:04:37,120 --> 00:04:42,000
+me [ __ ] draw this [ __ ] out. So, with
+
+103
+00:04:39,280 --> 00:04:43,520
+AI right now, and this is just the way
+
+104
+00:04:42,000 --> 00:04:44,480
+that that I see it, by the way. This is,
+
+105
+00:04:43,520 --> 00:04:47,040
+you know, you can say it's right or
+
+106
+00:04:44,480 --> 00:04:48,920
+wrong. I really don't give a [ __ ] So
+
+107
+00:04:47,040 --> 00:04:55,160
+with AI
+
+108
+00:04:48,920 --> 00:05:00,240
+um level one is just like using regular
+
+109
+00:04:55,160 --> 00:05:00,240
+LLMs. Level two is using
+
+110
+00:05:00,280 --> 00:05:06,720
+LLM plus tools. So think of like
+
+111
+00:05:04,800 --> 00:05:08,720
+perplexity for example a fantastic
+
+112
+00:05:06,720 --> 00:05:11,360
+research for deep research. The deep
+
+113
+00:05:08,720 --> 00:05:14,000
+research feature within chatbt those are
+
+114
+00:05:11,360 --> 00:05:18,000
+like the actual tools. Number three is
+
+115
+00:05:14,000 --> 00:05:18,000
+the kind of done for
+
+116
+00:05:18,440 --> 00:05:24,240
+you AI
+
+117
+00:05:21,560 --> 00:05:27,520
+agents. And so this would be softwares
+
+118
+00:05:24,240 --> 00:05:30,040
+like chatbt's operator. This would be
+
+119
+00:05:27,520 --> 00:05:32,960
+softwares like Manis
+
+120
+00:05:30,040 --> 00:05:35,600
+AI. This would also be softwares like uh
+
+121
+00:05:32,960 --> 00:05:37,200
+super agent by genpark. And if you don't
+
+122
+00:05:35,600 --> 00:05:39,040
+know any of these tools as I speak them
+
+123
+00:05:37,200 --> 00:05:39,920
+out loud, I'll take some time to go
+
+124
+00:05:39,040 --> 00:05:41,200
+through them. I'm not going to go
+
+125
+00:05:39,920 --> 00:05:42,720
+through them one by one because this is
+
+126
+00:05:41,200 --> 00:05:44,480
+going to be specific to the ad creation
+
+127
+00:05:42,720 --> 00:05:45,680
+process. But if you don't know, man,
+
+128
+00:05:44,480 --> 00:05:48,080
+just [ __ ] look it up. Do your own
+
+129
+00:05:45,680 --> 00:05:49,400
+research. We got operator, manice, and
+
+130
+00:05:48,080 --> 00:05:52,120
+then
+
+131
+00:05:49,400 --> 00:05:54,480
+super Oh
+
+132
+00:05:52,120 --> 00:05:56,800
+Jesus, super agent, right? So you can
+
+133
+00:05:54,480 --> 00:05:58,760
+check out all those. That's like level
+
+134
+00:05:56,800 --> 00:06:02,600
+three, right? Level
+
+135
+00:05:58,760 --> 00:06:05,920
+four is getting into I'll just call it
+
+136
+00:06:02,600 --> 00:06:05,920
+workflows and
+
+137
+00:06:06,040 --> 00:06:10,240
+automation. All right. And let me
+
+138
+00:06:07,920 --> 00:06:13,000
+explain the difference between these
+
+139
+00:06:10,240 --> 00:06:16,760
+various my
+
+140
+00:06:13,000 --> 00:06:19,680
+[ __ ] [ __ ] mouse is tripping
+
+141
+00:06:16,760 --> 00:06:22,400
+out. All right. Anyways, workflows and
+
+142
+00:06:19,680 --> 00:06:25,440
+automation, right? So, LLMs, they only
+
+143
+00:06:22,400 --> 00:06:26,560
+work if you work. You say, "Hey, chat,
+
+144
+00:06:25,440 --> 00:06:28,160
+do this for me. Hey, here prompt,
+
+145
+00:06:26,560 --> 00:06:30,920
+prompt, prompt, prompt, prompt. Give me
+
+146
+00:06:28,160 --> 00:06:34,080
+this output." Cool. The minute you stop
+
+147
+00:06:30,920 --> 00:06:37,280
+working, chat GBT also stops working.
+
+148
+00:06:34,080 --> 00:06:39,520
+Then you have level two LLMs plus tools.
+
+149
+00:06:37,280 --> 00:06:41,600
+So this is like using for example the
+
+150
+00:06:39,520 --> 00:06:44,720
+image generation feature within chatbt
+
+151
+00:06:41,600 --> 00:06:48,640
+deep research perplexity Gemini uh
+
+152
+00:06:44,720 --> 00:06:50,720
+blackbox tools like that. Level three is
+
+153
+00:06:48,640 --> 00:06:53,840
+using done for you just like out of the
+
+154
+00:06:50,720 --> 00:06:55,280
+box AI agents. So think of chatbt
+
+155
+00:06:53,840 --> 00:06:56,720
+operator where there's literally a
+
+156
+00:06:55,280 --> 00:06:58,000
+separate browser and you can be like hey
+
+157
+00:06:56,720 --> 00:06:59,280
+I want you to go to this website follow
+
+158
+00:06:58,000 --> 00:07:02,080
+these instructions and get me this
+
+159
+00:06:59,280 --> 00:07:04,080
+outcome. Right. Manis AI. If I were to
+
+160
+00:07:02,080 --> 00:07:05,600
+rank these um in terms of like the
+
+161
+00:07:04,080 --> 00:07:07,200
+external browser, only these two
+
+162
+00:07:05,600 --> 00:07:08,160
+actually have it. Manis AI and operator.
+
+163
+00:07:07,200 --> 00:07:09,760
+Super agent doesn't have this
+
+164
+00:07:08,160 --> 00:07:14,680
+functionality. Manis is definitely
+
+165
+00:07:09,760 --> 00:07:18,080
+better than operator in my opinion.
+
+166
+00:07:14,680 --> 00:07:21,360
+Um so the difference between these two
+
+167
+00:07:18,080 --> 00:07:23,920
+levels, right, is that the AI agent has
+
+168
+00:07:21,360 --> 00:07:25,680
+agency. It has autonomy. If you give it
+
+169
+00:07:23,920 --> 00:07:27,200
+a set of rules and instructions, it is
+
+170
+00:07:25,680 --> 00:07:29,840
+going to work even when you step away
+
+171
+00:07:27,200 --> 00:07:33,920
+from the computer. That's level [ __ ]
+
+172
+00:07:29,840 --> 00:07:36,000
+three. I I've set a new rule in my life
+
+173
+00:07:33,920 --> 00:07:38,320
+where I can't leave my laptop for more
+
+174
+00:07:36,000 --> 00:07:41,440
+than like an hour unless I have primed
+
+175
+00:07:38,320 --> 00:07:43,840
+an AI agent before I leave because I'm
+
+176
+00:07:41,440 --> 00:07:45,520
+always testing [ __ ] This is the [ __ ]
+
+177
+00:07:43,840 --> 00:07:48,160
+time to always be testing [ __ ] like
+
+178
+00:07:45,520 --> 00:07:51,280
+right [ __ ] now. And then finally, you
+
+179
+00:07:48,160 --> 00:07:54,120
+have number four, which is combining a
+
+180
+00:07:51,280 --> 00:07:56,880
+bunch of these LLMs, these AI agents
+
+181
+00:07:54,120 --> 00:07:59,840
+together to run for you around the clock
+
+182
+00:07:56,880 --> 00:08:03,120
+247. So this is where you can use tools
+
+183
+00:07:59,840 --> 00:08:03,120
+such as
+
+184
+00:08:03,320 --> 00:08:07,720
+N8N
+
+185
+00:08:04,920 --> 00:08:11,600
+N8N. You can use
+
+186
+00:08:07,720 --> 00:08:13,840
+Gumloop. Uh I think even uh I'm actually
+
+187
+00:08:11,600 --> 00:08:16,320
+I'm pretty sure make.com actually
+
+188
+00:08:13,840 --> 00:08:18,400
+created their own AI automation tool as
+
+189
+00:08:16,320 --> 00:08:20,800
+well. Could be wrong on that, but for me
+
+190
+00:08:18,400 --> 00:08:21,840
+I stick to N8N most functionality. Gum
+
+191
+00:08:20,800 --> 00:08:23,360
+loop is really good. A little bit more
+
+192
+00:08:21,840 --> 00:08:25,920
+user friendly. All right. So, this is
+
+193
+00:08:23,360 --> 00:08:27,440
+like the four steps in terms of like the
+
+194
+00:08:25,920 --> 00:08:28,800
+development of artificial intelligence
+
+195
+00:08:27,440 --> 00:08:31,120
+and the ways that you can specifically
+
+196
+00:08:28,800 --> 00:08:32,800
+apply it to your business. And this
+
+197
+00:08:31,120 --> 00:08:34,240
+isn't it. This there's probably [ __ ]
+
+198
+00:08:32,800 --> 00:08:36,400
+40 levels. This is just the levels that
+
+199
+00:08:34,240 --> 00:08:37,760
+I'm using right now. Uh because the
+
+200
+00:08:36,400 --> 00:08:38,800
+farther up you go, the more of a
+
+201
+00:08:37,760 --> 00:08:40,160
+technical understanding that you have.
+
+202
+00:08:38,800 --> 00:08:42,480
+And I'm not technical, you know? I don't
+
+203
+00:08:40,160 --> 00:08:43,840
+know how to code. Um but I do know how
+
+204
+00:08:42,480 --> 00:08:46,320
+to learn stuff really quickly. That's
+
+205
+00:08:43,840 --> 00:08:47,600
+that's like the benefit that I have. All
+
+206
+00:08:46,320 --> 00:08:49,840
+right. So, what we're going to do today
+
+207
+00:08:47,600 --> 00:08:53,920
+is apply all this [ __ ] to the ad
+
+208
+00:08:49,840 --> 00:08:55,280
+creation process. And when it Before I
+
+209
+00:08:53,920 --> 00:08:56,640
+actually before I go on, does this make
+
+210
+00:08:55,280 --> 00:09:00,000
+sense? Does this make sense? Just type
+
+211
+00:08:56,640 --> 00:09:01,760
+yes in the chat. All right. And uh I'll
+
+212
+00:09:00,000 --> 00:09:04,120
+take some time to to go through the chat
+
+213
+00:09:01,760 --> 00:09:06,800
+while you guys are
+
+214
+00:09:04,120 --> 00:09:09,920
+uh while you guys are here and we'll do
+
+215
+00:09:06,800 --> 00:09:09,920
+a Q&A at the end as
+
+216
+00:09:11,800 --> 00:09:17,320
+well. Romania in the building. What's
+
+217
+00:09:14,160 --> 00:09:17,320
+up, bro?
+
+218
+00:09:30,000 --> 00:09:34,880
+Yeah, I'll do a I'll do a Q&A at the
+
+219
+00:09:32,000 --> 00:09:37,040
+end. Yeah. So, cling AI really really
+
+220
+00:09:34,880 --> 00:09:38,320
+good for animating images, right? That
+
+221
+00:09:37,040 --> 00:09:41,120
+would be something that I'll put under
+
+222
+00:09:38,320 --> 00:09:43,280
+the the tool category. That's like level
+
+223
+00:09:41,120 --> 00:09:45,360
+two, bro. Really, really good. But it
+
+224
+00:09:43,280 --> 00:09:48,080
+gets even better when you take for
+
+225
+00:09:45,360 --> 00:09:50,320
+example uh a particular image that is
+
+226
+00:09:48,080 --> 00:09:52,320
+generated and you automate that workflow
+
+227
+00:09:50,320 --> 00:09:54,880
+through something like N8 because you
+
+228
+00:09:52,320 --> 00:09:54,880
+can't connect
+
+229
+00:10:07,480 --> 00:10:12,160
+it. Young JB, would you ever do another
+
+230
+00:10:10,520 --> 00:10:13,920
+spiritual/consciousness type live? I
+
+231
+00:10:12,160 --> 00:10:15,200
+listen to them religiously at work.
+
+232
+00:10:13,920 --> 00:10:17,680
+Yeah, man. If it's if it's something
+
+233
+00:10:15,200 --> 00:10:21,000
+that people want, you know, I can I can
+
+234
+00:10:17,680 --> 00:10:23,360
+make it again. Not make it again, but I
+
+235
+00:10:21,000 --> 00:10:24,720
+can do another one along the
+
+236
+00:10:23,360 --> 00:10:26,480
+spirituality lines because it's it's
+
+237
+00:10:24,720 --> 00:10:28,160
+definitely fun to talk about. Can you
+
+238
+00:10:26,480 --> 00:10:29,600
+give an example of what task those level
+
+239
+00:10:28,160 --> 00:10:31,080
+three AI do on your own when you leave
+
+240
+00:10:29,600 --> 00:10:33,520
+them?
+
+241
+00:10:31,080 --> 00:10:37,160
+Um, yeah, dude. I I'll actually get into
+
+242
+00:10:33,520 --> 00:10:37,160
+that in a little bit.
+
+243
+00:10:40,800 --> 00:10:46,080
+All right, let's keep
+
+244
+00:10:42,600 --> 00:10:47,920
+cooking. So, four levels, right? Next,
+
+245
+00:10:46,080 --> 00:10:49,360
+let's apply this to the ad creation
+
+246
+00:10:47,920 --> 00:10:51,280
+process. Now, I'm specifically going to
+
+247
+00:10:49,360 --> 00:10:53,600
+be going over video ad creation. I can
+
+248
+00:10:51,280 --> 00:10:57,360
+do an entirely separate live on image ad
+
+249
+00:10:53,600 --> 00:11:00,000
+creation. I like video ads uh a lot. I
+
+250
+00:10:57,360 --> 00:11:01,280
+like them more than image ads, but
+
+251
+00:11:00,000 --> 00:11:02,240
+there's really not one that's better
+
+252
+00:11:01,280 --> 00:11:04,000
+than the other. At the end of the day,
+
+253
+00:11:02,240 --> 00:11:05,520
+image ads can be significantly faster
+
+254
+00:11:04,000 --> 00:11:07,600
+for you to to launch, just like static
+
+255
+00:11:05,520 --> 00:11:09,200
+images. Um, especially with Chat GBT's
+
+256
+00:11:07,600 --> 00:11:11,600
+new tools. Like, holy [ __ ] you can just
+
+257
+00:11:09,200 --> 00:11:13,760
+launch stuff so freaking fast. Um,
+
+258
+00:11:11,600 --> 00:11:16,800
+however, they don't live as long. Those
+
+259
+00:11:13,760 --> 00:11:19,520
+ads will die faster than a [ __ ] 25
+
+260
+00:11:16,800 --> 00:11:21,120
+minute long VSSL. It's just the way that
+
+261
+00:11:19,520 --> 00:11:22,600
+it works. If it's harder to do, it's
+
+262
+00:11:21,120 --> 00:11:24,120
+probably going to last
+
+263
+00:11:22,600 --> 00:11:26,800
+longer
+
+264
+00:11:24,120 --> 00:11:28,880
+and shorter images not going to last as
+
+265
+00:11:26,800 --> 00:11:30,720
+long, right? So, the whole ad creation
+
+266
+00:11:28,880 --> 00:11:33,200
+process, I kind of see it this way. So
+
+267
+00:11:30,720 --> 00:11:34,720
+the first step is ideiation. So what is
+
+268
+00:11:33,200 --> 00:11:36,640
+the general idea of the ad that you're
+
+269
+00:11:34,720 --> 00:11:37,960
+going to be creating? Next is going to
+
+270
+00:11:36,640 --> 00:11:40,080
+be the
+
+271
+00:11:37,960 --> 00:11:42,480
+scripting. Next is going to be the
+
+272
+00:11:40,080 --> 00:11:44,280
+sourcing of the content. Then you have
+
+273
+00:11:42,480 --> 00:11:47,840
+the editing. Then you have the
+
+274
+00:11:44,280 --> 00:11:49,040
+[ __ ] scaling. Right? So just so
+
+275
+00:11:47,840 --> 00:11:50,120
+that we're all on the same page with
+
+276
+00:11:49,040 --> 00:11:53,200
+these
+
+277
+00:11:50,120 --> 00:11:55,120
+steps. Ideation for those of you that
+
+278
+00:11:53,200 --> 00:11:58,080
+don't have an existing brand, you don't
+
+279
+00:11:55,120 --> 00:11:59,920
+have any winning ads right now. Ideation
+
+280
+00:11:58,080 --> 00:12:02,160
+is basically going to be the equivalent
+
+281
+00:11:59,920 --> 00:12:06,000
+of like swiping, right? So, what I mean
+
+282
+00:12:02,160 --> 00:12:07,840
+by swipe is you find a competitor that
+
+283
+00:12:06,000 --> 00:12:09,280
+is scaling that meets all the validation
+
+284
+00:12:07,840 --> 00:12:12,160
+criteria that I've talked about a
+
+285
+00:12:09,280 --> 00:12:13,760
+million [ __ ] times and you find
+
+286
+00:12:12,160 --> 00:12:15,840
+one of their top performing ads and you
+
+287
+00:12:13,760 --> 00:12:17,320
+take inspiration from it. You don't
+
+288
+00:12:15,840 --> 00:12:19,600
+[ __ ] rip
+
+289
+00:12:17,320 --> 00:12:20,920
+it. You don't need to [ __ ] rip it.
+
+290
+00:12:19,600 --> 00:12:23,120
+You can probably do
+
+291
+00:12:20,920 --> 00:12:25,440
+better if you watch my channel. Just
+
+292
+00:12:23,120 --> 00:12:26,960
+saying. You could probably do better. Um
+
+293
+00:12:25,440 --> 00:12:28,080
+because I a lot of guys, especially if
+
+294
+00:12:26,960 --> 00:12:29,280
+they're not operating at scale, they
+
+295
+00:12:28,080 --> 00:12:31,200
+don't even know why their winner is a
+
+296
+00:12:29,280 --> 00:12:32,960
+winner. So you could take the concepts,
+
+297
+00:12:31,200 --> 00:12:34,880
+understand the philosophy, recreate a
+
+298
+00:12:32,960 --> 00:12:36,720
+new ad based off the winning philosophy.
+
+299
+00:12:34,880 --> 00:12:38,800
+Don't swipe word for word. Don't swipe
+
+300
+00:12:36,720 --> 00:12:40,480
+clip for clip. Swipe philosophy. That's
+
+301
+00:12:38,800 --> 00:12:41,920
+what I believe. All right. So if you
+
+302
+00:12:40,480 --> 00:12:44,160
+don't have a brand, this is basically
+
+303
+00:12:41,920 --> 00:12:45,920
+going to be swiping. All right? You can
+
+304
+00:12:44,160 --> 00:12:47,280
+use Get Hooked for this. Go and search
+
+305
+00:12:45,920 --> 00:12:48,640
+your competition. You can go into the
+
+306
+00:12:47,280 --> 00:12:49,680
+brand spy. You can see all the creatives
+
+307
+00:12:48,640 --> 00:12:51,600
+that they've launched. How many
+
+308
+00:12:49,680 --> 00:12:52,880
+creatives are they launching per month?
+
+309
+00:12:51,600 --> 00:12:54,560
+Are they scaling up their production?
+
+310
+00:12:52,880 --> 00:12:56,720
+Are they scaling down their production?
+
+311
+00:12:54,560 --> 00:12:58,960
+what is their uh how many winning ads
+
+312
+00:12:56,720 --> 00:13:01,280
+they have, etc. Right? Now, if you
+
+313
+00:12:58,960 --> 00:13:04,400
+already have a brand, everything that
+
+314
+00:13:01,280 --> 00:13:05,680
+you do should be based off data. If you
+
+315
+00:13:04,400 --> 00:13:07,040
+don't have a brand, obviously, you don't
+
+316
+00:13:05,680 --> 00:13:09,200
+have any data. But if you do have a
+
+317
+00:13:07,040 --> 00:13:10,400
+brand, you have a lot of data. And the
+
+318
+00:13:09,200 --> 00:13:12,160
+more data you have, the more powerful
+
+319
+00:13:10,400 --> 00:13:14,880
+that it is. Especially in the age of AI,
+
+320
+00:13:12,160 --> 00:13:16,480
+man, you can leverage all that data to
+
+321
+00:13:14,880 --> 00:13:20,640
+inform what the script is going to look
+
+322
+00:13:16,480 --> 00:13:23,120
+like next. Okay? And so for the if you
+
+323
+00:13:20,640 --> 00:13:24,640
+do have an existing brand, what you're
+
+324
+00:13:23,120 --> 00:13:27,440
+going to do is you're going to analyze
+
+325
+00:13:24,640 --> 00:13:29,000
+your top performing ads and look at the
+
+326
+00:13:27,440 --> 00:13:31,440
+data behind
+
+327
+00:13:29,000 --> 00:13:32,880
+them. So what this would look like if I
+
+328
+00:13:31,440 --> 00:13:34,640
+were doing this on my own, okay? I would
+
+329
+00:13:32,880 --> 00:13:36,080
+go into my ad account. I would look at
+
+330
+00:13:34,640 --> 00:13:38,560
+the top, let's just say like the top
+
+331
+00:13:36,080 --> 00:13:40,000
+five ads in the last 30 days by spend.
+
+332
+00:13:38,560 --> 00:13:42,000
+Which ones are spending the most as
+
+333
+00:13:40,000 --> 00:13:44,000
+profitably as humanly possible? And then
+
+334
+00:13:42,000 --> 00:13:45,920
+I want to break those down and I'm
+
+335
+00:13:44,000 --> 00:13:48,560
+actually going to feed those into AI so
+
+336
+00:13:45,920 --> 00:13:51,760
+that I can then create new scripts based
+
+337
+00:13:48,560 --> 00:13:53,120
+off of the existing winners. All right.
+
+338
+00:13:51,760 --> 00:13:54,960
+Now, I'm going to go into a little bit
+
+339
+00:13:53,120 --> 00:13:57,200
+more detail on that in just one second.
+
+340
+00:13:54,960 --> 00:13:58,640
+The scripting is pretty basic. All of
+
+341
+00:13:57,200 --> 00:14:00,240
+this, literally all of this should be
+
+342
+00:13:58,640 --> 00:14:01,440
+done with AI. Even the chiefing should
+
+343
+00:14:00,240 --> 00:14:03,600
+be done with AI. And then you should
+
+344
+00:14:01,440 --> 00:14:05,440
+have an additional chiefing process
+
+345
+00:14:03,600 --> 00:14:06,720
+where it's you actually reading it out
+
+346
+00:14:05,440 --> 00:14:08,080
+loud and making sure that it sounds
+
+347
+00:14:06,720 --> 00:14:09,920
+good. It flows off the tongue. There's
+
+348
+00:14:08,080 --> 00:14:10,960
+no there's no weird like bumps
+
+349
+00:14:09,920 --> 00:14:12,720
+throughout the script. Everything just
+
+350
+00:14:10,960 --> 00:14:15,040
+like flows perfectly. It's beautiful.
+
+351
+00:14:12,720 --> 00:14:17,120
+It's like you're reading [ __ ] poetry.
+
+352
+00:14:15,040 --> 00:14:20,840
+That's how good copy should [ __ ]
+
+353
+00:14:17,120 --> 00:14:22,720
+sound like. Poetry. Like it's just
+
+354
+00:14:20,840 --> 00:14:24,680
+beautiful. All right. So, we're going to
+
+355
+00:14:22,720 --> 00:14:28,320
+come back to this. Now, the sourcing of
+
+356
+00:14:24,680 --> 00:14:30,920
+content is actually creating or finding
+
+357
+00:14:28,320 --> 00:14:34,640
+the clips that align with the script.
+
+358
+00:14:30,920 --> 00:14:37,120
+Right? I'll come back to that. Editing.
+
+359
+00:14:34,640 --> 00:14:38,120
+Uh, pretty simple. I'm currently working
+
+360
+00:14:37,120 --> 00:14:41,040
+on the
+
+361
+00:14:38,120 --> 00:14:42,800
+process of having this all automated
+
+362
+00:14:41,040 --> 00:14:44,240
+with our editing team. I don't think
+
+363
+00:14:42,800 --> 00:14:46,240
+that we're there yet to be totally
+
+364
+00:14:44,240 --> 00:14:49,600
+transparent with you. Even with stuff
+
+365
+00:14:46,240 --> 00:14:51,360
+like Cling AI, all the new um text to
+
+366
+00:14:49,600 --> 00:14:52,880
+video models that are being launched
+
+367
+00:14:51,360 --> 00:14:56,240
+like every single [ __ ] day. Like I
+
+368
+00:14:52,880 --> 00:14:58,320
+try them all and they're still just not
+
+369
+00:14:56,240 --> 00:15:00,160
+really quite there. They're close.
+
+370
+00:14:58,320 --> 00:15:02,240
+They're so close. I feel like in in
+
+371
+00:15:00,160 --> 00:15:04,800
+three months we could be there. But for
+
+372
+00:15:02,240 --> 00:15:06,320
+now, what I do is I take the script, I
+
+373
+00:15:04,800 --> 00:15:08,720
+take the hooks, and I send those to my
+
+374
+00:15:06,320 --> 00:15:10,320
+editing team who is empowered by AI. You
+
+375
+00:15:08,720 --> 00:15:12,240
+know, I have them trained on using all
+
+376
+00:15:10,320 --> 00:15:14,160
+these AI tools, and then they put all of
+
+377
+00:15:12,240 --> 00:15:15,440
+that [ __ ] together, and then obviously
+
+378
+00:15:14,160 --> 00:15:18,960
+you launch it and scale it from there.
+
+379
+00:15:15,440 --> 00:15:20,640
+Okay, so let's go back to ideiation
+
+380
+00:15:18,960 --> 00:15:21,920
+because this is really the first step.
+
+381
+00:15:20,640 --> 00:15:22,960
+And I'm going to talk specifically to
+
+382
+00:15:21,920 --> 00:15:24,400
+people that already kind of have a
+
+383
+00:15:22,960 --> 00:15:25,920
+brand, you have some data, right? If
+
+384
+00:15:24,400 --> 00:15:27,920
+not, just repeat this process, but with
+
+385
+00:15:25,920 --> 00:15:30,520
+a com a competitor that has a successful
+
+386
+00:15:27,920 --> 00:15:32,960
+ad.
+
+387
+00:15:30,520 --> 00:15:35,400
+So, what this process really looks like,
+
+388
+00:15:32,960 --> 00:15:38,880
+if anybody doesn't have my, you know,
+
+389
+00:15:35,400 --> 00:15:40,400
+advertorial document here, um, I went
+
+390
+00:15:38,880 --> 00:15:41,600
+over this previously. Jesus Christ,
+
+391
+00:15:40,400 --> 00:15:43,880
+there's always so many people on this
+
+392
+00:15:41,600 --> 00:15:46,160
+document.
+
+393
+00:15:43,880 --> 00:15:47,200
+Um, really why I'm pulling this up is
+
+394
+00:15:46,160 --> 00:15:50,000
+not because we're writing a [ __ ]
+
+395
+00:15:47,200 --> 00:15:52,400
+advtorial, but the foundational document
+
+396
+00:15:50,000 --> 00:15:58,160
+process is the same. So what you're
+
+397
+00:15:52,400 --> 00:15:59,600
+going to do in terms of uh ideiation is
+
+398
+00:15:58,160 --> 00:16:01,760
+you're going to take your top performing
+
+399
+00:15:59,600 --> 00:16:04,960
+ads as well as your bottom performing
+
+400
+00:16:01,760 --> 00:16:07,120
+ads because it's really like with AI you
+
+401
+00:16:04,960 --> 00:16:10,240
+can give it all these like structures
+
+402
+00:16:07,120 --> 00:16:11,840
+and all these uh copy concepts but in my
+
+403
+00:16:10,240 --> 00:16:14,000
+in my opinion the best way that it can
+
+404
+00:16:11,840 --> 00:16:16,240
+learn is learning from what's already
+
+405
+00:16:14,000 --> 00:16:17,920
+working right now [ __ ] word for word.
+
+406
+00:16:16,240 --> 00:16:20,000
+What does your winning ad script look
+
+407
+00:16:17,920 --> 00:16:22,200
+like right now? And you want to emulate
+
+408
+00:16:20,000 --> 00:16:24,880
+those. And then you also want to have
+
+409
+00:16:22,200 --> 00:16:26,480
+anti-examples with the ads that are that
+
+410
+00:16:24,880 --> 00:16:29,200
+are [ __ ] dog [ __ ] Like they got
+
+411
+00:16:26,480 --> 00:16:31,760
+super high CPCs, really high CPMs, low
+
+412
+00:16:29,200 --> 00:16:34,000
+CTRs, unprofitable. You want to use
+
+413
+00:16:31,760 --> 00:16:35,600
+those as anti-examples when you're
+
+414
+00:16:34,000 --> 00:16:36,560
+feeding this to AI, right? And I'll I'll
+
+415
+00:16:35,600 --> 00:16:39,680
+show you how to do that in just one
+
+416
+00:16:36,560 --> 00:16:41,600
+second. So what I would do is, you know,
+
+417
+00:16:39,680 --> 00:16:44,080
+the first step in that ideation process
+
+418
+00:16:41,600 --> 00:16:47,840
+here is you have to you absolutely have
+
+419
+00:16:44,080 --> 00:16:49,520
+to create your foundational documents.
+
+420
+00:16:47,840 --> 00:16:50,880
+All right. Now, foundational documents.
+
+421
+00:16:49,520 --> 00:16:53,280
+There's a few of them that go into it.
+
+422
+00:16:50,880 --> 00:16:57,400
+You have your research doc. You have
+
+423
+00:16:53,280 --> 00:17:00,960
+your avatar doc. You have your necessary
+
+424
+00:16:57,400 --> 00:17:02,760
+beliefs doc. And then you have your
+
+425
+00:17:00,960 --> 00:17:05,600
+offer brief. All
+
+426
+00:17:02,760 --> 00:17:08,320
+right. Now, if this doesn't make sense
+
+427
+00:17:05,600 --> 00:17:10,560
+to you, go watch every video on my
+
+428
+00:17:08,320 --> 00:17:13,920
+[ __ ] channel and get back to me. The
+
+429
+00:17:10,560 --> 00:17:16,640
+brief summary is research. The research
+
+430
+00:17:13,920 --> 00:17:18,320
+process I used to actually do through uh
+
+431
+00:17:16,640 --> 00:17:21,120
+I used to do through chatgbt deep
+
+432
+00:17:18,320 --> 00:17:21,120
+research. I now use
+
+433
+00:17:22,600 --> 00:17:25,600
+perplexity
+
+434
+00:17:26,920 --> 00:17:32,320
+[ __ ] So perplexity is an AI tool that's
+
+435
+00:17:30,240 --> 00:17:33,760
+almost like more specialized at deep
+
+436
+00:17:32,320 --> 00:17:34,640
+research than chatbt. That's why I like
+
+437
+00:17:33,760 --> 00:17:38,160
+to use it better. It's also
+
+438
+00:17:34,640 --> 00:17:41,680
+significantly faster and it uses more um
+
+439
+00:17:38,160 --> 00:17:44,400
+it it uses more sources on average than
+
+440
+00:17:41,680 --> 00:17:46,400
+chatbt. So, I use Perplexity
+
+441
+00:17:44,400 --> 00:17:47,520
+specifically for that. All right. So,
+
+442
+00:17:46,400 --> 00:17:49,760
+you're going to go through, you can go
+
+443
+00:17:47,520 --> 00:17:51,200
+through this document right here and go
+
+444
+00:17:49,760 --> 00:17:53,120
+all the way up until like this entire
+
+445
+00:17:51,200 --> 00:17:54,560
+foundational documents process before
+
+446
+00:17:53,120 --> 00:17:55,840
+you ever write anything because you need
+
+447
+00:17:54,560 --> 00:17:58,080
+to get those. It's like very very
+
+448
+00:17:55,840 --> 00:18:01,360
+important that you get those for the
+
+449
+00:17:58,080 --> 00:18:02,640
+avatar doc. Um, actually for the rest of
+
+450
+00:18:01,360 --> 00:18:06,080
+these documents, this can all just be
+
+451
+00:18:02,640 --> 00:18:07,840
+done through chatbt. Chatbt 40 or 4.5. I
+
+452
+00:18:06,080 --> 00:18:09,120
+like 4.5 better than 40 because it's a
+
+453
+00:18:07,840 --> 00:18:11,440
+it's definitely better at the writing
+
+454
+00:18:09,120 --> 00:18:14,240
+side and I have a pro account that you
+
+455
+00:18:11,440 --> 00:18:16,080
+know I use frequently. So all these
+
+456
+00:18:14,240 --> 00:18:19,680
+other tools can be uh these other
+
+457
+00:18:16,080 --> 00:18:22,480
+documents can be created through uh
+
+458
+00:18:19,680 --> 00:18:22,480
+chatbt
+
+459
+00:18:25,080 --> 00:18:29,920
+404.5. All right. So go through that
+
+460
+00:18:27,600 --> 00:18:31,680
+process. Um Chase, if you can drop this
+
+461
+00:18:29,920 --> 00:18:33,280
+document for the guys in the chat, bro,
+
+462
+00:18:31,680 --> 00:18:35,680
+please for the people that don't have
+
+463
+00:18:33,280 --> 00:18:37,760
+it. Go to this document. get the
+
+464
+00:18:35,680 --> 00:18:39,520
+foundational documents like number one
+
+465
+00:18:37,760 --> 00:18:41,280
+100,000% you have to have these if you
+
+466
+00:18:39,520 --> 00:18:42,320
+want to guide your copy because what
+
+467
+00:18:41,280 --> 00:18:44,560
+we're going to do is take all those
+
+468
+00:18:42,320 --> 00:18:46,560
+resources and feed them to AI. The
+
+469
+00:18:44,560 --> 00:18:48,960
+quality of the copy and the script that
+
+470
+00:18:46,560 --> 00:18:50,800
+you create is 100% dependent on the
+
+471
+00:18:48,960 --> 00:18:53,680
+quality of inputs that you give it. So
+
+472
+00:18:50,800 --> 00:18:55,840
+if you [ __ ] I if you halfass this
+
+473
+00:18:53,680 --> 00:18:58,320
+[ __ ] and you don't have good research,
+
+474
+00:18:55,840 --> 00:18:59,840
+you don't have a good avatar document,
+
+475
+00:18:58,320 --> 00:19:01,920
+you don't have a good understanding of
+
+476
+00:18:59,840 --> 00:19:03,680
+the necessary beliefs that your prospect
+
+477
+00:19:01,920 --> 00:19:05,360
+has to have in order to buy, you're
+
+478
+00:19:03,680 --> 00:19:06,440
+cooked. you're just not going to make
+
+479
+00:19:05,360 --> 00:19:09,040
+good
+
+480
+00:19:06,440 --> 00:19:10,320
+ads. So like building the foundation is
+
+481
+00:19:09,040 --> 00:19:12,680
+one of the most important things that
+
+482
+00:19:10,320 --> 00:19:15,280
+you have to
+
+483
+00:19:12,680 --> 00:19:16,800
+do. All right, everybody follow me so
+
+484
+00:19:15,280 --> 00:19:19,120
+far? If you follow me, just drop a yes
+
+485
+00:19:16,800 --> 00:19:19,120
+in the
+
+486
+00:19:29,080 --> 00:19:34,320
+chat. Everybody follow me. So making
+
+487
+00:19:32,320 --> 00:19:37,560
+sure the audio works.
+
+488
+00:19:34,320 --> 00:19:37,560
+We get
+
+489
+00:19:44,080 --> 00:19:47,600
+uh Lucas, you asked, "Have you tried
+
+490
+00:19:45,440 --> 00:19:49,840
+Gemini 2.5 deep research?" Dude, I tried
+
+491
+00:19:47,600 --> 00:19:51,200
+everything for deep research and I split
+
+492
+00:19:49,840 --> 00:19:52,560
+tested them all right next to each
+
+493
+00:19:51,200 --> 00:19:56,240
+other. I think I tried like seven
+
+494
+00:19:52,560 --> 00:19:59,880
+different softwares. Um Gemini is very,
+
+495
+00:19:56,240 --> 00:20:02,160
+very good. It's easily a close
+
+496
+00:19:59,880 --> 00:20:03,680
+second. It may even be tied for first.
+
+497
+00:20:02,160 --> 00:20:05,040
+It's very close. It just takes longer.
+
+498
+00:20:03,680 --> 00:20:08,240
+And you know me, money [ __ ] loves
+
+499
+00:20:05,040 --> 00:20:10,000
+speed. So that's why I like that. And
+
+500
+00:20:08,240 --> 00:20:12,520
+also like we one thing I noticed with
+
+501
+00:20:10,000 --> 00:20:16,160
+Gemini, man, is especially with
+
+502
+00:20:12,520 --> 00:20:18,960
+2.5, it's it's like copy at its heart is
+
+503
+00:20:16,160 --> 00:20:20,440
+very very emotional and Gemini is such a
+
+504
+00:20:18,960 --> 00:20:22,560
+high
+
+505
+00:20:20,440 --> 00:20:24,000
+intelligence such a high intelligence
+
+506
+00:20:22,560 --> 00:20:25,440
+model that I don't think it really
+
+507
+00:20:24,000 --> 00:20:27,360
+resonates with a lot of like the
+
+508
+00:20:25,440 --> 00:20:30,240
+emotional side. That's why I think Chad
+
+509
+00:20:27,360 --> 00:20:31,840
+T4.55 was actually pretty good. Um but
+
+510
+00:20:30,240 --> 00:20:33,680
+Perplexity is just so much faster. I
+
+511
+00:20:31,840 --> 00:20:35,280
+really like it a lot better. You know
+
+512
+00:20:33,680 --> 00:20:37,200
+what I need to try is Claude because
+
+513
+00:20:35,280 --> 00:20:39,680
+they just came out with a deep research
+
+514
+00:20:37,200 --> 00:20:41,120
+function as well. I'll try them out.
+
+515
+00:20:39,680 --> 00:20:42,400
+Anyways, so you have your four
+
+516
+00:20:41,120 --> 00:20:45,200
+foundational documents. Okay, Mark.
+
+517
+00:20:42,400 --> 00:20:48,280
+Cool. I got it. What's next? Great. Now
+
+518
+00:20:45,200 --> 00:20:50,880
+you're going through the process
+
+519
+00:20:48,280 --> 00:20:51,920
+of knowing the type of ad that you need
+
+520
+00:20:50,880 --> 00:20:52,800
+to create. All right. So, what you're
+
+521
+00:20:51,920 --> 00:20:54,640
+going to do is you're going to go in
+
+522
+00:20:52,800 --> 00:20:56,800
+your ad account. You're going to get the
+
+523
+00:20:54,640 --> 00:20:58,720
+transcripts of your top performing ads.
+
+524
+00:20:56,800 --> 00:21:00,080
+Ideally, like the more the better,
+
+525
+00:20:58,720 --> 00:21:01,600
+truthfully, but it it's obviously going
+
+526
+00:21:00,080 --> 00:21:03,360
+to depend on how much you spend and how
+
+527
+00:21:01,600 --> 00:21:05,840
+much winners, how many winners you
+
+528
+00:21:03,360 --> 00:21:08,400
+actually have. If you have 20, use 20.
+
+529
+00:21:05,840 --> 00:21:10,320
+Um, if you have five, use five. So,
+
+530
+00:21:08,400 --> 00:21:11,920
+whatever you have, you want to get you
+
+531
+00:21:10,320 --> 00:21:13,160
+want to get those exact transcripts word
+
+532
+00:21:11,920 --> 00:21:15,600
+for word.
+
+533
+00:21:13,160 --> 00:21:17,800
+Okay? Now, after you have those
+
+534
+00:21:15,600 --> 00:21:21,520
+transcripts, you are then going to
+
+535
+00:21:17,800 --> 00:21:23,600
+feed all of these documents, these four,
+
+536
+00:21:21,520 --> 00:21:25,840
+as well as the transcripts of your
+
+537
+00:21:23,600 --> 00:21:25,840
+winning
+
+538
+00:21:27,800 --> 00:21:33,520
+ads. And guess what? You're going to
+
+539
+00:21:29,760 --> 00:21:33,520
+feed all this [ __ ] to
+
+540
+00:21:34,520 --> 00:21:39,280
+Claude. Now, for the exact prompts, it's
+
+541
+00:21:37,040 --> 00:21:44,520
+not super duper important. The way that
+
+542
+00:21:39,280 --> 00:21:44,520
+I like to do this is I essentially have
+
+543
+00:21:49,640 --> 00:21:53,280
+um yeah, I I essentially say, "Hey,
+
+544
+00:21:52,080 --> 00:21:54,400
+here's these four documents I'm selling
+
+545
+00:21:53,280 --> 00:21:55,200
+for this offer, blah blah blah. Please
+
+546
+00:21:54,400 --> 00:21:56,640
+analyze them. Let me know your
+
+547
+00:21:55,200 --> 00:21:59,120
+thoughts." Cool. I just wanted to have
+
+548
+00:21:56,640 --> 00:22:00,480
+that context, right? I'm like, "Cool,
+
+549
+00:21:59,120 --> 00:22:01,280
+great job. These are the winning ads
+
+550
+00:22:00,480 --> 00:22:03,040
+that are currently running in my
+
+551
+00:22:01,280 --> 00:22:06,000
+account. Here's the metrics behind them.
+
+552
+00:22:03,040 --> 00:22:07,680
+Spend, return on ad spend, P&L, CPA,
+
+553
+00:22:06,000 --> 00:22:10,040
+etc. Please analyze these and let me
+
+554
+00:22:07,680 --> 00:22:13,120
+know your thoughts." Cool. Here are the
+
+555
+00:22:10,040 --> 00:22:14,400
+worst ads, right? So, in addition to the
+
+556
+00:22:13,120 --> 00:22:16,080
+transcript of the winning ads, you also
+
+557
+00:22:14,400 --> 00:22:18,880
+want to have the transcripts of the
+
+558
+00:22:16,080 --> 00:22:20,800
+losing ads and and show as they are
+
+559
+00:22:18,880 --> 00:22:22,800
+anti-examples. I tested these and they
+
+560
+00:22:20,800 --> 00:22:24,960
+did so freaking terrible. So, it's going
+
+561
+00:22:22,800 --> 00:22:27,760
+to be it's going to be able to identify
+
+562
+00:22:24,960 --> 00:22:29,280
+what are the uh criteria that is
+
+563
+00:22:27,760 --> 00:22:31,360
+allowing this ad to be a winner. What is
+
+564
+00:22:29,280 --> 00:22:33,520
+the criteria that is allowing this ad to
+
+565
+00:22:31,360 --> 00:22:35,040
+be a loser? Right? Feed all this into
+
+566
+00:22:33,520 --> 00:22:36,600
+Claude. And when I say Claude, I mean
+
+567
+00:22:35,040 --> 00:22:39,600
+Claude 3.7
+
+568
+00:22:36,600 --> 00:22:39,600
+sonnet.
+
+569
+00:22:41,000 --> 00:22:47,680
+3.7 sonnet, right? Cool. Now Claude has
+
+570
+00:22:45,120 --> 00:22:49,920
+all this context. Now you get to
+
+571
+00:22:47,680 --> 00:22:52,560
+actually begin the process of writing.
+
+572
+00:22:49,920 --> 00:22:54,000
+So again, if you have a brand already,
+
+573
+00:22:52,560 --> 00:22:56,640
+um you're going to want to go straight
+
+574
+00:22:54,000 --> 00:23:00,400
+into hooks and you want to create hooks
+
+575
+00:22:56,640 --> 00:23:01,600
+based off the uh existing winning hooks
+
+576
+00:23:00,400 --> 00:23:03,520
+that you have. All right. So, let's
+
+577
+00:23:01,600 --> 00:23:04,960
+break down let's break down the ad and
+
+578
+00:23:03,520 --> 00:23:07,680
+the hook in general. So, anytime that
+
+579
+00:23:04,960 --> 00:23:09,960
+you test a new ad, guys, you have this
+
+580
+00:23:07,680 --> 00:23:13,840
+is this is like your percentage of
+
+581
+00:23:09,960 --> 00:23:16,640
+success. This 90% right here is going to
+
+582
+00:23:13,840 --> 00:23:18,560
+be your hook. If you have like I have
+
+583
+00:23:16,640 --> 00:23:19,640
+seen ads that have just killer freaking
+
+584
+00:23:18,560 --> 00:23:21,840
+hooks,
+
+585
+00:23:19,640 --> 00:23:24,280
+killer. Everything else is pretty mid,
+
+586
+00:23:21,840 --> 00:23:26,800
+but killer hooks, winning
+
+587
+00:23:24,280 --> 00:23:31,680
+ads. This is like everything else. And
+
+588
+00:23:26,800 --> 00:23:34,360
+this is like the other 10%. All
+
+589
+00:23:31,680 --> 00:23:37,920
+right, you guys following
+
+590
+00:23:34,360 --> 00:23:39,520
+me? And so what I want to focus like if
+
+591
+00:23:37,920 --> 00:23:41,360
+you focus all your energy on the entire
+
+592
+00:23:39,520 --> 00:23:42,480
+ad, you pri prioritize everything.
+
+593
+00:23:41,360 --> 00:23:44,160
+You're not actually prioritizing
+
+594
+00:23:42,480 --> 00:23:47,200
+anything. So I want to prioritize the
+
+595
+00:23:44,160 --> 00:23:48,720
+hook. So what I'm going to do is I'm
+
+596
+00:23:47,200 --> 00:23:50,320
+going to feed it specifically the hooks
+
+597
+00:23:48,720 --> 00:23:52,840
+of the winning ads that I've had so far.
+
+598
+00:23:50,320 --> 00:23:54,800
+Again, if you don't have this, use
+
+599
+00:23:52,840 --> 00:23:57,440
+competitors. All right. So, you're going
+
+600
+00:23:54,800 --> 00:23:57,440
+to feed to
+
+601
+00:23:58,040 --> 00:24:04,320
+Claude winning
+
+602
+00:24:00,520 --> 00:24:06,640
+hooks and then just basically say along
+
+603
+00:24:04,320 --> 00:24:08,560
+the lines of I want you to create a list
+
+604
+00:24:06,640 --> 00:24:10,640
+of 20 additional hooks based off of the
+
+605
+00:24:08,560 --> 00:24:12,160
+principles that have allowed this
+
+606
+00:24:10,640 --> 00:24:14,240
+particular hook to be or these
+
+607
+00:24:12,160 --> 00:24:16,080
+particular hooks to be successful. I
+
+608
+00:24:14,240 --> 00:24:17,280
+want you to create a list of 20
+
+609
+00:24:16,080 --> 00:24:18,960
+different hooks and I'll let you know
+
+610
+00:24:17,280 --> 00:24:20,640
+how good they are. Basically, a process
+
+611
+00:24:18,960 --> 00:24:23,760
+like that. Okay. Now, we're gonna
+
+612
+00:24:20,640 --> 00:24:25,360
+[ __ ] pause right here because, you
+
+613
+00:24:23,760 --> 00:24:26,880
+know, I put this on my Twitter. If you
+
+614
+00:24:25,360 --> 00:24:28,560
+guys aren't follow me on Twitter, on X,
+
+615
+00:24:26,880 --> 00:24:30,080
+whatever, you should be because I put
+
+616
+00:24:28,560 --> 00:24:32,160
+out a lot of really, really good [ __ ]
+
+617
+00:24:30,080 --> 00:24:33,680
+Um, everything around like ads, funnels,
+
+618
+00:24:32,160 --> 00:24:35,120
+a lot of like B2B stuff. So, if you have
+
+619
+00:24:33,680 --> 00:24:36,480
+a brand, you're scaling, if you're a
+
+620
+00:24:35,120 --> 00:24:38,080
+beginner, probably not for you. But if
+
+621
+00:24:36,480 --> 00:24:39,280
+you have a business, this is for you.
+
+622
+00:24:38,080 --> 00:24:41,440
+And one of the things I was saying on
+
+623
+00:24:39,280 --> 00:24:44,880
+there is I think that the days of being
+
+624
+00:24:41,440 --> 00:24:46,080
+able to just test ads, like test, just
+
+625
+00:24:44,880 --> 00:24:47,920
+like throw [ __ ] against the wall and
+
+626
+00:24:46,080 --> 00:24:49,600
+hope it converts, I think those days are
+
+627
+00:24:47,920 --> 00:24:52,880
+going to come to an end. I really do.
+
+628
+00:24:49,600 --> 00:24:55,080
+With the development of AI, um there's
+
+629
+00:24:52,880 --> 00:24:57,760
+going to be a point where you can simply
+
+630
+00:24:55,080 --> 00:24:59,840
+analyze all the existing data in your ad
+
+631
+00:24:57,760 --> 00:25:01,760
+account, the ads, their metrics, the
+
+632
+00:24:59,840 --> 00:25:03,760
+scripts, the hooks, the scroll stoppers,
+
+633
+00:25:01,760 --> 00:25:05,200
+everything. And then you can know within
+
+634
+00:25:03,760 --> 00:25:07,040
+a certain degree of confidence how
+
+635
+00:25:05,200 --> 00:25:10,880
+likely it is that this next ad is going
+
+636
+00:25:07,040 --> 00:25:12,800
+to perform. Are we there yet? I am, but
+
+637
+00:25:10,880 --> 00:25:15,200
+not everybody. All right? So, that's
+
+638
+00:25:12,800 --> 00:25:16,800
+that's where we're going. And so after
+
+639
+00:25:15,200 --> 00:25:21,640
+you have this list, right, let's say you
+
+640
+00:25:16,800 --> 00:25:23,800
+have a list of 20 hooks right here. 20
+
+641
+00:25:21,640 --> 00:25:26,880
+[ __ ]
+
+642
+00:25:23,800 --> 00:25:26,880
+hooks. All
+
+643
+00:25:27,240 --> 00:25:31,280
+right. Now, you want to validate those
+
+644
+00:25:29,840 --> 00:25:33,600
+hooks. All right. So, it's technically
+
+645
+00:25:31,280 --> 00:25:35,280
+like a little mini step in the scripting
+
+646
+00:25:33,600 --> 00:25:37,080
+process is like the, you know, we'll
+
+647
+00:25:35,280 --> 00:25:40,080
+just call it like
+
+648
+00:25:37,080 --> 00:25:40,080
+validation
+
+649
+00:25:40,360 --> 00:25:43,760
+valid because how cool would it be if
+
+650
+00:25:42,640 --> 00:25:45,680
+you know if an ad is going to be
+
+651
+00:25:43,760 --> 00:25:48,480
+successful before you even put any spend
+
+652
+00:25:45,680 --> 00:25:50,880
+behind it? Pretty [ __ ] cool, right?
+
+653
+00:25:48,480 --> 00:25:53,760
+Well, we're not that far away from that.
+
+654
+00:25:50,880 --> 00:25:53,760
+Like I said, I'm already
+
+655
+00:25:55,240 --> 00:26:00,640
+there. Anyways,
+
+656
+00:25:59,200 --> 00:26:03,360
+uh this is going to get a little bit
+
+657
+00:26:00,640 --> 00:26:05,040
+technical here, but essentially I'm
+
+658
+00:26:03,360 --> 00:26:07,280
+going to breeze over this very quickly
+
+659
+00:26:05,040 --> 00:26:09,280
+and I'm going to implore you to do your
+
+660
+00:26:07,280 --> 00:26:12,240
+[ __ ] research on how to actually
+
+661
+00:26:09,280 --> 00:26:14,120
+execute this. But what you want to do is
+
+662
+00:26:12,240 --> 00:26:17,840
+you're going to go to
+
+663
+00:26:14,120 --> 00:26:19,520
+platform.openai.com. You are going to uh
+
+664
+00:26:17,840 --> 00:26:22,200
+go to fine-tuning and you're going to
+
+665
+00:26:19,520 --> 00:26:24,320
+create a new fine-tuning model off of
+
+666
+00:26:22,200 --> 00:26:27,520
+chatgbt40. And what you're going to feed
+
+667
+00:26:24,320 --> 00:26:31,360
+it is a JSON file of all of the top
+
+668
+00:26:27,520 --> 00:26:33,760
+performing um ads full uh hooks
+
+669
+00:26:31,360 --> 00:26:36,160
+specifically of those ads that you have
+
+670
+00:26:33,760 --> 00:26:37,680
+ever written uh for your business
+
+671
+00:26:36,160 --> 00:26:39,040
+specifically what is proven what is
+
+672
+00:26:37,680 --> 00:26:40,240
+backed by data and what is the data
+
+673
+00:26:39,040 --> 00:26:42,240
+behind those hooks. So you're like all
+
+674
+00:26:40,240 --> 00:26:44,800
+right this hook had an average hook rate
+
+675
+00:26:42,240 --> 00:26:46,960
+of this this hook uh was able to spend
+
+676
+00:26:44,800 --> 00:26:48,160
+this P&L was this rorowass was this CPA
+
+677
+00:26:46,960 --> 00:26:50,160
+was this. You're going to put all of
+
+678
+00:26:48,160 --> 00:26:52,560
+this data into a JSON file. You're going
+
+679
+00:26:50,160 --> 00:26:54,080
+to upload that file to the fine-tuning
+
+680
+00:26:52,560 --> 00:26:55,520
+model that you're creating. And what
+
+681
+00:26:54,080 --> 00:26:58,000
+it's going to do is create basically,
+
+682
+00:26:55,520 --> 00:26:58,880
+it's almost like a custom GPT, but it's
+
+683
+00:26:58,000 --> 00:27:00,480
+going to create what's called a
+
+684
+00:26:58,880 --> 00:27:01,600
+fine-tuned model that you can then have
+
+685
+00:27:00,480 --> 00:27:04,480
+a conversation with. You're basically
+
+686
+00:27:01,600 --> 00:27:05,440
+loading all this context into it. And
+
+687
+00:27:04,480 --> 00:27:06,480
+then you're going to give it a simple
+
+688
+00:27:05,440 --> 00:27:07,680
+prompt that's going to say, "Hey, I want
+
+689
+00:27:06,480 --> 00:27:08,720
+you to score these based off like the
+
+690
+00:27:07,680 --> 00:27:10,640
+winning ads. I want you to score this on
+
+691
+00:27:08,720 --> 00:27:11,760
+a scale from zero to 100." 100 being the
+
+692
+00:27:10,640 --> 00:27:13,040
+most likely that they perform based off
+
+693
+00:27:11,760 --> 00:27:13,760
+the data that I sent you. And zero being
+
+694
+00:27:13,040 --> 00:27:15,040
+the least likely they're going to
+
+695
+00:27:13,760 --> 00:27:17,040
+perform out based off the data that I
+
+696
+00:27:15,040 --> 00:27:18,480
+sent you. All right, so let's move on.
+
+697
+00:27:17,040 --> 00:27:20,000
+Basically, after you go through that
+
+698
+00:27:18,480 --> 00:27:22,000
+whole process, you should be at the
+
+699
+00:27:20,000 --> 00:27:23,440
+point where you know within a certain
+
+700
+00:27:22,000 --> 00:27:26,400
+degree of confidence if this ad is going
+
+701
+00:27:23,440 --> 00:27:27,840
+to be likely to win or likely to lose.
+
+702
+00:27:26,400 --> 00:27:30,000
+And when I say ad, I mean like hook.
+
+703
+00:27:27,840 --> 00:27:31,360
+Okay? So, what's going to happen is
+
+704
+00:27:30,000 --> 00:27:33,120
+you're going to create create a list of
+
+705
+00:27:31,360 --> 00:27:34,640
+a lot of hooks and most of them are not
+
+706
+00:27:33,120 --> 00:27:36,240
+going to pass the test of being over a
+
+707
+00:27:34,640 --> 00:27:37,440
+specific score. You want to select the
+
+708
+00:27:36,240 --> 00:27:38,920
+ones that have the highest score, the
+
+709
+00:27:37,440 --> 00:27:42,600
+highest likelihood of actually
+
+710
+00:27:38,920 --> 00:27:45,680
+succeeding. Right? Right. Right.
+
+711
+00:27:42,600 --> 00:27:48,560
+Right. All right. So, let's say that you
+
+712
+00:27:45,680 --> 00:27:50,560
+actually end up loading in a 100 hooks
+
+713
+00:27:48,560 --> 00:27:52,400
+and the ones that actually end up, you
+
+714
+00:27:50,560 --> 00:27:54,800
+know, looking somewhat promising is like
+
+715
+00:27:52,400 --> 00:27:54,800
+five of
+
+716
+00:27:56,840 --> 00:28:01,200
+them. So, now you have five hooks. These
+
+717
+00:27:59,120 --> 00:28:02,400
+are going to be the bases of the new ads
+
+718
+00:28:01,200 --> 00:28:03,920
+that you're going to be launching. Okay?
+
+719
+00:28:02,400 --> 00:28:06,960
+So, we have the first and the most
+
+720
+00:28:03,920 --> 00:28:08,640
+important part of the script, which is
+
+721
+00:28:06,960 --> 00:28:10,320
+the hook. And you have five variations.
+
+722
+00:28:08,640 --> 00:28:11,600
+All right. Good job. Put [ __ ] pat
+
+723
+00:28:10,320 --> 00:28:14,600
+yourself on the back. Any questions so
+
+724
+00:28:11,600 --> 00:28:14,600
+far?
+
+725
+00:28:27,360 --> 00:28:31,880
+If there's any questions, pop them in
+
+726
+00:28:28,560 --> 00:28:31,880
+the chat, please.
+
+727
+00:28:42,800 --> 00:28:46,160
+Yes, I will do a Q&A at the
+
+728
+00:29:01,160 --> 00:29:05,360
+end. You guys [ __ ] locked in or
+
+729
+00:29:06,840 --> 00:29:10,960
+what? Do I have to use this on separate
+
+730
+00:29:09,040 --> 00:29:13,200
+tools? I can do it all on chatb. You can
+
+731
+00:29:10,960 --> 00:29:15,200
+do it all on chatbt, but it's like
+
+732
+00:29:13,200 --> 00:29:18,400
+you're not going to be using it to the
+
+733
+00:29:15,200 --> 00:29:18,400
+extent that you probably could,
+
+734
+00:29:18,600 --> 00:29:23,920
+bro. Uh my Twitter is Markruns
+
+735
+00:29:27,480 --> 00:29:32,320
+ads is the research section for market
+
+736
+00:29:30,400 --> 00:29:34,560
+research/c customer research. Yeah,
+
+737
+00:29:32,320 --> 00:29:36,080
+exactly, bro. And by the way, again, a
+
+738
+00:29:34,560 --> 00:29:37,440
+little nuance here. If you have a brand
+
+739
+00:29:36,080 --> 00:29:39,520
+already, when you're doing the research
+
+740
+00:29:37,440 --> 00:29:41,800
+document, don't just say, "Hey, go look
+
+741
+00:29:39,520 --> 00:29:45,560
+on the internet." Feed it your
+
+742
+00:29:41,800 --> 00:29:48,720
+data. Feed it your
+
+743
+00:29:45,560 --> 00:29:50,800
+data. What I mean by that is feed it
+
+744
+00:29:48,720 --> 00:29:53,520
+your existing winning ads, your existing
+
+745
+00:29:50,800 --> 00:29:55,360
+landing pages, your existing uh
+
+746
+00:29:53,520 --> 00:29:57,280
+advtorials or VSSLs if you're running
+
+747
+00:29:55,360 --> 00:29:58,640
+them. feed it all your data and then say
+
+748
+00:29:57,280 --> 00:30:00,200
+use this in addition to the research
+
+749
+00:29:58,640 --> 00:30:02,400
+that you're going to do out on the
+
+750
+00:30:00,200 --> 00:30:03,840
+internet because there's no better data
+
+751
+00:30:02,400 --> 00:30:06,560
+than the [ __ ] customers that are
+
+752
+00:30:03,840 --> 00:30:06,560
+already buying from
+
+753
+00:30:07,160 --> 00:30:13,680
+you. All right, let's keep cooking. So,
+
+754
+00:30:09,600 --> 00:30:13,680
+you got the hooks. Great job.
+
+755
+00:30:15,000 --> 00:30:21,200
+Amazing. Now, we move on to the body.
+
+756
+00:30:19,440 --> 00:30:23,520
+Now, the body, you know, the scripting
+
+757
+00:30:21,200 --> 00:30:24,960
+from this point on is actually going to
+
+758
+00:30:23,520 --> 00:30:26,720
+be very similar. If I was testing a new
+
+759
+00:30:24,960 --> 00:30:28,240
+ads, I would probably do one body with
+
+760
+00:30:26,720 --> 00:30:30,800
+multiple hooks. Or if you're testing a
+
+761
+00:30:28,240 --> 00:30:32,400
+scale, let's say five bodies and 20
+
+762
+00:30:30,800 --> 00:30:34,560
+hooks. That's typically about the ratio
+
+763
+00:30:32,400 --> 00:30:36,880
+that I do. But that creates a very, very
+
+764
+00:30:34,560 --> 00:30:39,120
+large combination of different ads you
+
+765
+00:30:36,880 --> 00:30:41,440
+can test just right there, right? Um,
+
+766
+00:30:39,120 --> 00:30:44,160
+and if you're running VSSLs, I would do
+
+767
+00:30:41,440 --> 00:30:45,760
+hook as well as lead because a lead
+
+768
+00:30:44,160 --> 00:30:48,920
+plays definitely a very, very big role
+
+769
+00:30:45,760 --> 00:30:51,120
+in extending the life of a particular
+
+770
+00:30:48,920 --> 00:30:52,880
+VSSL. Now, for the body, you're
+
+771
+00:30:51,120 --> 00:30:54,320
+literally going to follow this exact
+
+772
+00:30:52,880 --> 00:30:55,600
+same process. You're going to go back to
+
+773
+00:30:54,320 --> 00:30:56,560
+Claude. You're going to take a
+
+774
+00:30:55,600 --> 00:30:58,240
+particular hook. You're going to say,
+
+775
+00:30:56,560 --> 00:30:59,840
+"Hey, I want you to rewrite this based
+
+776
+00:30:58,240 --> 00:31:01,440
+off of the winning ass scripts that I
+
+777
+00:30:59,840 --> 00:31:03,120
+sent you before. Uh, this is like the
+
+778
+00:31:01,440 --> 00:31:04,240
+target length that I'm looking for.
+
+779
+00:31:03,120 --> 00:31:05,760
+Please make sure you reference the
+
+780
+00:31:04,240 --> 00:31:07,200
+necessary belief stock, the research,
+
+781
+00:31:05,760 --> 00:31:08,800
+etc. Upload all the foundational
+
+782
+00:31:07,200 --> 00:31:10,320
+documents in there so that it's all
+
+783
+00:31:08,800 --> 00:31:11,680
+writing in alignment with those doc
+
+784
+00:31:10,320 --> 00:31:14,240
+because again, that is like your that's
+
+785
+00:31:11,680 --> 00:31:15,600
+your north [ __ ] star for everything.
+
+786
+00:31:14,240 --> 00:31:16,880
+It shouldn't just be writing copy to
+
+787
+00:31:15,600 --> 00:31:18,240
+write copy, right? It should be writing
+
+788
+00:31:16,880 --> 00:31:20,560
+based off the research that you've
+
+789
+00:31:18,240 --> 00:31:22,720
+already done.
+
+790
+00:31:20,560 --> 00:31:25,840
+some of the best copywriters uh in
+
+791
+00:31:22,720 --> 00:31:27,840
+history, they say that like the research
+
+792
+00:31:25,840 --> 00:31:29,440
+process is actually what takes 80% of
+
+793
+00:31:27,840 --> 00:31:31,320
+your time and the actual writing is like
+
+794
+00:31:29,440 --> 00:31:33,440
+the easy part. That's like the
+
+795
+00:31:31,320 --> 00:31:36,240
+20%. And then they say the same thing
+
+796
+00:31:33,440 --> 00:31:36,240
+about chiefing
+
+797
+00:31:37,000 --> 00:31:42,000
+ironically. Okay, so that's the process
+
+798
+00:31:40,400 --> 00:31:43,120
+for bodies. Very similar, exact same
+
+799
+00:31:42,000 --> 00:31:45,920
+thing. You're going to follow the same
+
+800
+00:31:43,120 --> 00:31:48,560
+validation process, uh fine-tuning, open
+
+801
+00:31:45,920 --> 00:31:50,800
+AAI, blah blah blah. But now you should
+
+802
+00:31:48,560 --> 00:31:53,360
+have at least five hooks in let's say
+
+803
+00:31:50,800 --> 00:31:54,600
+one body for new ads that you can text
+
+804
+00:31:53,360 --> 00:31:56,640
+you can test.
+
+805
+00:31:54,600 --> 00:31:58,320
+Congratulations, you now have completed
+
+806
+00:31:56,640 --> 00:32:00,320
+the step of scripting and those scripts
+
+807
+00:31:58,320 --> 00:32:02,560
+are now validated and you chose the ones
+
+808
+00:32:00,320 --> 00:32:05,760
+that are most likely to convert and make
+
+809
+00:32:02,560 --> 00:32:06,880
+you money. Next step is sourcing. If you
+
+810
+00:32:05,760 --> 00:32:08,400
+don't know what sourcing means, all it
+
+811
+00:32:06,880 --> 00:32:11,360
+means is finding the content, the visual
+
+812
+00:32:08,400 --> 00:32:14,600
+content that's going to be uh overlaid
+
+813
+00:32:11,360 --> 00:32:16,880
+on the script or underllay on the
+
+814
+00:32:14,600 --> 00:32:18,840
+script. Yeah, [ __ ] one or the other.
+
+815
+00:32:16,880 --> 00:32:21,600
+you get it.
+
+816
+00:32:18,840 --> 00:32:22,720
+Um, for me, I don't participate a whole
+
+817
+00:32:21,600 --> 00:32:23,920
+lot in this process because I have a
+
+818
+00:32:22,720 --> 00:32:25,840
+team. So, I'll literally just be like,
+
+819
+00:32:23,920 --> 00:32:27,680
+"Hey, this is a script." I send it over.
+
+820
+00:32:25,840 --> 00:32:28,960
+I send kind of the general ad ideas
+
+821
+00:32:27,680 --> 00:32:30,960
+like, "What type of ad is this? Is this
+
+822
+00:32:28,960 --> 00:32:32,320
+UGC? Is this going to be VSSL,
+
+823
+00:32:30,960 --> 00:32:35,520
+traditional? Is this going to be a
+
+824
+00:32:32,320 --> 00:32:37,840
+typical ecom ad, uh, static, etc. Right?
+
+825
+00:32:35,520 --> 00:32:38,960
+I'm going to use all that [ __ ] and send
+
+826
+00:32:37,840 --> 00:32:40,400
+that straight to the editors. However,
+
+827
+00:32:38,960 --> 00:32:42,640
+if I didn't have editors, what I would
+
+828
+00:32:40,400 --> 00:32:44,680
+do is I would use a combination of a few
+
+829
+00:32:42,640 --> 00:32:47,600
+different resources.
+
+830
+00:32:44,680 --> 00:32:49,760
+Um, a damn. All right, let's go back
+
+831
+00:32:47,600 --> 00:32:49,760
+down
+
+832
+00:32:49,960 --> 00:32:56,160
+here. So, with sourcing
+
+833
+00:32:54,120 --> 00:32:58,120
+content, I would be using a few
+
+834
+00:32:56,160 --> 00:33:00,560
+different types of content, right?
+
+835
+00:32:58,120 --> 00:33:01,840
+Because if you just use B-roll
+
+836
+00:33:00,560 --> 00:33:04,160
+throughout your entire [ __ ] ad,
+
+837
+00:33:01,840 --> 00:33:06,320
+nobody's going to watch it. It's boring.
+
+838
+00:33:04,160 --> 00:33:08,640
+Um, so what you should use is a
+
+839
+00:33:06,320 --> 00:33:12,000
+combination of few different types of
+
+840
+00:33:08,640 --> 00:33:14,240
+footage. For example, AI UGC is like the
+
+841
+00:33:12,000 --> 00:33:16,880
+perfect example. I personally believe
+
+842
+00:33:14,240 --> 00:33:20,120
+that for AIUGC, the best model out there
+
+843
+00:33:16,880 --> 00:33:23,360
+right now is uh
+
+844
+00:33:20,120 --> 00:33:25,680
+captions.ai. It's really cheap. Uh
+
+845
+00:33:23,360 --> 00:33:27,280
+probably the most indistinguishable
+
+846
+00:33:25,680 --> 00:33:28,880
+currently out on the market. You know,
+
+847
+00:33:27,280 --> 00:33:31,040
+that's up for debate, of course. That's
+
+848
+00:33:28,880 --> 00:33:32,320
+just my personal opinion. Um but that's
+
+849
+00:33:31,040 --> 00:33:35,280
+like the first type of content that you
+
+850
+00:33:32,320 --> 00:33:39,400
+could use. The second is going to be
+
+851
+00:33:35,280 --> 00:33:39,400
+basically like product shots.
+
+852
+00:33:39,680 --> 00:33:46,480
+Now, for product shots, you can either
+
+853
+00:33:42,320 --> 00:33:48,640
+go to Fiverr and have somebody um you
+
+854
+00:33:46,480 --> 00:33:53,280
+know, have somebody create videos of
+
+855
+00:33:48,640 --> 00:33:55,600
+your product there, or you can use AI
+
+856
+00:33:53,280 --> 00:33:57,280
+and basically do uh this is actually so
+
+857
+00:33:55,600 --> 00:34:01,480
+[ __ ] cool that you can do this. I'll
+
+858
+00:33:57,280 --> 00:34:05,320
+do chat GPT image generation,
+
+859
+00:34:01,480 --> 00:34:08,240
+chatg image generation, and then use
+
+860
+00:34:05,320 --> 00:34:11,360
+cling.ai for
+
+861
+00:34:08,240 --> 00:34:12,960
+image to video. There's a bunch of
+
+862
+00:34:11,360 --> 00:34:14,640
+softwares that do image to video. I use
+
+863
+00:34:12,960 --> 00:34:17,360
+Clean AI. I think they're they're really
+
+864
+00:34:14,640 --> 00:34:19,600
+really good. Um, but basically, you can
+
+865
+00:34:17,360 --> 00:34:21,440
+take an image where a customer has their
+
+866
+00:34:19,600 --> 00:34:23,920
+pro has your product in their [ __ ]
+
+867
+00:34:21,440 --> 00:34:26,240
+hand. Take that image and turn it into a
+
+868
+00:34:23,920 --> 00:34:27,280
+video that you can use in the video ad
+
+869
+00:34:26,240 --> 00:34:29,920
+that you're actually running. Like,
+
+870
+00:34:27,280 --> 00:34:31,760
+that's [ __ ] crazy. The barrier to
+
+871
+00:34:29,920 --> 00:34:34,320
+entry is getting [ __ ] lower and lower
+
+872
+00:34:31,760 --> 00:34:36,720
+and lower. It's crazy. Um, so yeah,
+
+873
+00:34:34,320 --> 00:34:39,760
+that's what I would use there. Now, for
+
+874
+00:34:36,720 --> 00:34:41,920
+other types of content, you have AIUGC,
+
+875
+00:34:39,760 --> 00:34:44,320
+you have product shots, you just have
+
+876
+00:34:41,920 --> 00:34:44,320
+standard
+
+877
+00:34:45,720 --> 00:34:50,000
+B-roll. And for standard B-roll, you
+
+878
+00:34:48,800 --> 00:34:51,760
+know, you can use something like story
+
+879
+00:34:50,000 --> 00:34:53,680
+blocks. It's kind of like the the gold
+
+880
+00:34:51,760 --> 00:34:55,600
+standard typically for B-roll. Or you
+
+881
+00:34:53,680 --> 00:34:59,840
+can just copy this exact process here
+
+882
+00:34:55,600 --> 00:34:59,840
+and create custom B-roll using
+
+883
+00:35:03,800 --> 00:35:07,920
+AI.
+
+884
+00:35:05,800 --> 00:35:10,560
+here. All right. So, let's say like
+
+885
+00:35:07,920 --> 00:35:10,560
+story blocks right
+
+886
+00:35:12,120 --> 00:35:15,120
+there.
+
+887
+00:35:17,000 --> 00:35:20,960
+Um, I think that's about it in terms of
+
+888
+00:35:19,440 --> 00:35:22,880
+sourcing content. This is exactly what I
+
+889
+00:35:20,960 --> 00:35:24,640
+would do. It the level to which one you
+
+890
+00:35:22,880 --> 00:35:27,920
+use AI is up to you. Obviously, we use
+
+891
+00:35:24,640 --> 00:35:29,280
+it a lot and uh, you know, if there's
+
+892
+00:35:27,920 --> 00:35:31,200
+not a lot of footage out there on the
+
+893
+00:35:29,280 --> 00:35:32,640
+internet that you can actually use, then
+
+894
+00:35:31,200 --> 00:35:35,200
+you should be using AI and you should be
+
+895
+00:35:32,640 --> 00:35:38,640
+using it very extensively.
+
+896
+00:35:35,200 --> 00:35:40,600
+So at this point, right, right, right,
+
+897
+00:35:38,640 --> 00:35:44,640
+you should
+
+898
+00:35:40,600 --> 00:35:46,800
+have the [ __ ] sourcing done,
+
+899
+00:35:44,640 --> 00:35:49,200
+scripting done, ideation done. Now
+
+900
+00:35:46,800 --> 00:35:51,360
+you're up to editing. Again, I have an
+
+901
+00:35:49,200 --> 00:35:52,480
+editing team, so I will send this
+
+902
+00:35:51,360 --> 00:35:56,720
+straight to the editors and they will
+
+903
+00:35:52,480 --> 00:35:58,320
+cook it up. Uh, if you don't have an
+
+904
+00:35:56,720 --> 00:36:00,880
+editing team, a few things I can
+
+905
+00:35:58,320 --> 00:36:02,560
+recommend you. All right, a few really,
+
+906
+00:36:00,880 --> 00:36:04,560
+really good softwares out there. For
+
+907
+00:36:02,560 --> 00:36:06,720
+editing specifically, let me just go
+
+908
+00:36:04,560 --> 00:36:06,720
+right
+
+909
+00:36:07,640 --> 00:36:11,440
+here. For the editing process
+
+910
+00:36:09,840 --> 00:36:13,280
+specifically, you can use a few
+
+911
+00:36:11,440 --> 00:36:16,000
+different tools. Number one is just
+
+912
+00:36:13,280 --> 00:36:18,800
+called AI video. It's either video or
+
+913
+00:36:16,000 --> 00:36:20,720
+videos, I can't remember. AI videos.com.
+
+914
+00:36:18,800 --> 00:36:23,560
+Really, really good AI empowered video
+
+915
+00:36:20,720 --> 00:36:26,960
+editing software. There's another one
+
+916
+00:36:23,560 --> 00:36:28,240
+called Fil Mora that is very, very good.
+
+917
+00:36:26,960 --> 00:36:29,440
+These two I would basically be using
+
+918
+00:36:28,240 --> 00:36:31,920
+them side by side. They both have
+
+919
+00:36:29,440 --> 00:36:32,960
+specific benefits that I could touch on,
+
+920
+00:36:31,920 --> 00:36:34,160
+but I don't think it's really important
+
+921
+00:36:32,960 --> 00:36:36,320
+for the circumstance. Just use them
+
+922
+00:36:34,160 --> 00:36:37,920
+yourself. Fila has a really cool feature
+
+923
+00:36:36,320 --> 00:36:39,360
+where you can taste you can take like a
+
+924
+00:36:37,920 --> 00:36:41,280
+really shitty clip that looks like it
+
+925
+00:36:39,360 --> 00:36:43,240
+was shot on a [ __ ] potato and turn it
+
+926
+00:36:41,280 --> 00:36:45,840
+into like 4K ultra
+
+927
+00:36:43,240 --> 00:36:47,840
+HD and uh you can't even tell the
+
+928
+00:36:45,840 --> 00:36:49,520
+difference. So, those are two tools that
+
+929
+00:36:47,840 --> 00:36:51,360
+you could use it to put it all together.
+
+930
+00:36:49,520 --> 00:36:53,280
+This is still the step in the process
+
+931
+00:36:51,360 --> 00:36:54,400
+where I don't think AI has fully
+
+932
+00:36:53,280 --> 00:36:57,840
+developed to the point where it can be
+
+933
+00:36:54,400 --> 00:36:57,840
+100% automated.
+
+934
+00:36:58,640 --> 00:37:01,920
+All right. So,
+
+935
+00:36:59,720 --> 00:37:03,440
+that's that was a lot faster than I was
+
+936
+00:37:01,920 --> 00:37:06,160
+expecting actually. That's basically the
+
+937
+00:37:03,440 --> 00:37:06,160
+whole process.
+
+938
+00:37:06,920 --> 00:37:11,880
+Um, now I'm going to touch on this very
+
+939
+00:37:10,200 --> 00:37:14,800
+briefly,
+
+940
+00:37:11,880 --> 00:37:16,320
+but those were the steps. Right now, do
+
+941
+00:37:14,800 --> 00:37:18,880
+I actually go through and do every
+
+942
+00:37:16,320 --> 00:37:23,200
+single one of those steps myself? No.
+
+943
+00:37:18,880 --> 00:37:26,160
+That's why I use things like uh Manis AI
+
+944
+00:37:23,200 --> 00:37:28,480
+for example to be the one that actually
+
+945
+00:37:26,160 --> 00:37:30,320
+is validating the scripts like one by
+
+946
+00:37:28,480 --> 00:37:32,160
+one so I don't have to do that. If I
+
+947
+00:37:30,320 --> 00:37:34,720
+want to validate like a hundred hooks in
+
+948
+00:37:32,160 --> 00:37:36,560
+a row, that's going to take me a lot of
+
+949
+00:37:34,720 --> 00:37:38,240
+[ __ ] time to take one, you know, copy
+
+950
+00:37:36,560 --> 00:37:39,760
+it over here, paste it into here, get
+
+951
+00:37:38,240 --> 00:37:41,600
+the score, paste it back, and just do
+
+952
+00:37:39,760 --> 00:37:43,840
+that over and over and over again. No,
+
+953
+00:37:41,600 --> 00:37:47,280
+I'm going to have, you know, an AI agent
+
+954
+00:37:43,840 --> 00:37:49,440
+do that for me, such as Misai. Um, Super
+
+955
+00:37:47,280 --> 00:37:50,960
+Agent is also a phenomenal AI agent
+
+956
+00:37:49,440 --> 00:37:53,360
+tool. The only thing is it can't go and
+
+957
+00:37:50,960 --> 00:37:54,960
+like control a separate browser for you.
+
+958
+00:37:53,360 --> 00:37:57,760
+So, it can do just about anything. It's
+
+959
+00:37:54,960 --> 00:37:59,520
+like chatbt on steroids. Um, it can
+
+960
+00:37:57,760 --> 00:38:01,200
+build web pages for you, like custom web
+
+961
+00:37:59,520 --> 00:38:02,680
+pages. It can help you visualize the
+
+962
+00:38:01,200 --> 00:38:04,920
+data within your ad account. It's very
+
+963
+00:38:02,680 --> 00:38:08,640
+helpful. But,
+
+964
+00:38:04,920 --> 00:38:08,640
+um, in terms
+
+965
+00:38:09,400 --> 00:38:12,960
+of having that separate browser, it just
+
+966
+00:38:11,760 --> 00:38:15,120
+doesn't have that functionality as of
+
+967
+00:38:12,960 --> 00:38:16,800
+right now.
+
+968
+00:38:15,120 --> 00:38:19,040
+But it is wicked fast for what it can
+
+969
+00:38:16,800 --> 00:38:21,360
+do. All right, so that's like the first
+
+970
+00:38:19,040 --> 00:38:24,320
+half of how you can speed this [ __ ] up
+
+971
+00:38:21,360 --> 00:38:26,000
+like crazy. The second half is the
+
+972
+00:38:24,320 --> 00:38:28,240
+workflows and automations. All right, so
+
+973
+00:38:26,000 --> 00:38:30,000
+I just gave you this whole process. I'm
+
+974
+00:38:28,240 --> 00:38:32,320
+not going to go through my NAD workflows
+
+975
+00:38:30,000 --> 00:38:34,880
+right now, but I just want to once again
+
+976
+00:38:32,320 --> 00:38:37,440
+implore you to explore this yourself.
+
+977
+00:38:34,880 --> 00:38:38,880
+What if you could create an NAND
+
+978
+00:38:37,440 --> 00:38:41,280
+workflow that connects all these tools
+
+979
+00:38:38,880 --> 00:38:42,880
+together? It looks at your wedding ads.
+
+980
+00:38:41,280 --> 00:38:44,320
+It takes that winning ad data, feeds it
+
+981
+00:38:42,880 --> 00:38:46,480
+into Claude along with your foundational
+
+982
+00:38:44,320 --> 00:38:47,840
+documents. It prompts Claude without you
+
+983
+00:38:46,480 --> 00:38:49,120
+having to do anything on how to write
+
+984
+00:38:47,840 --> 00:38:50,560
+the hooks and the bodies and the blah
+
+985
+00:38:49,120 --> 00:38:53,440
+blah blah and the VSSLs all the way
+
+986
+00:38:50,560 --> 00:38:54,960
+start to finish. It then brings that to
+
+987
+00:38:53,440 --> 00:38:56,640
+that custom fine to model that you have
+
+988
+00:38:54,960 --> 00:38:57,600
+on OpenAI that validates the hooks and
+
+989
+00:38:56,640 --> 00:39:00,640
+the scripts and make sure that they
+
+990
+00:38:57,600 --> 00:39:02,480
+actually work. Then you have the full
+
+991
+00:39:00,640 --> 00:39:04,320
+script 100% together. You feed that into
+
+992
+00:39:02,480 --> 00:39:05,760
+Catherine's AI. You have the custom UGC.
+
+993
+00:39:04,320 --> 00:39:07,440
+It's just completely outputed for you
+
+994
+00:39:05,760 --> 00:39:08,840
+100% perfect, exactly how you like it.
+
+995
+00:39:07,440 --> 00:39:11,120
+And
+
+996
+00:39:08,840 --> 00:39:13,040
+then from there it gets a little messy,
+
+997
+00:39:11,120 --> 00:39:14,560
+but that's like ultimately what the
+
+998
+00:39:13,040 --> 00:39:16,560
+process is going to look like. It's so
+
+999
+00:39:14,560 --> 00:39:19,120
+clear in my mind because we have this
+
+1000
+00:39:16,560 --> 00:39:20,960
+built out. And you know, of course, it's
+
+1001
+00:39:19,120 --> 00:39:22,800
+not perfect. It takes a lot of tweaking
+
+1002
+00:39:20,960 --> 00:39:24,480
+anytime you get like deep into the AI
+
+1003
+00:39:22,800 --> 00:39:25,920
+automation stuff because you have to
+
+1004
+00:39:24,480 --> 00:39:27,760
+think of AI agents literally as
+
+1005
+00:39:25,920 --> 00:39:29,600
+employees, right? If you don't give them
+
+1006
+00:39:27,760 --> 00:39:30,640
+the right instructions, they're not
+
+1007
+00:39:29,600 --> 00:39:32,760
+going to do anything right. And you
+
+1008
+00:39:30,640 --> 00:39:36,720
+could be like, "Oh, this employee is so
+
+1009
+00:39:32,760 --> 00:39:38,320
+stupid. Boo, stupid AI." No, really,
+
+1010
+00:39:36,720 --> 00:39:39,440
+you're the stupid one because you just
+
+1011
+00:39:38,320 --> 00:39:40,560
+didn't prompt it right. You didn't give
+
+1012
+00:39:39,440 --> 00:39:42,000
+it the right resources, the right
+
+1013
+00:39:40,560 --> 00:39:44,160
+information, and the right training to
+
+1014
+00:39:42,000 --> 00:39:45,200
+actually be an effective employee.
+
+1015
+00:39:44,160 --> 00:39:48,080
+That's the way you should be thinking
+
+1016
+00:39:45,200 --> 00:39:48,080
+about it. All right, I'm gonna
+
+1017
+00:39:55,400 --> 00:39:59,040
+pause. Uh, all
+
+1018
+00:39:59,960 --> 00:40:04,560
+right. Let's do a Q&A. By the way, that
+
+1019
+00:40:02,640 --> 00:40:07,120
+was that was all I had to share at the
+
+1020
+00:40:04,560 --> 00:40:07,120
+moment.
+
+1021
+00:40:10,480 --> 00:40:15,680
+You tried captions is so
+
+1022
+00:40:12,520 --> 00:40:18,720
+bad. Yeah, bro. It's It's trash.
+
+1023
+00:40:15,680 --> 00:40:21,120
+Definitely not getting us 3x rows on
+
+1024
+00:40:18,720 --> 00:40:23,440
+cold traffic at scale. Yeah, don't use
+
+1025
+00:40:21,120 --> 00:40:23,440
+it.
+
+1026
+00:40:24,200 --> 00:40:28,400
+Boo. Once again, dude, like if you if
+
+1027
+00:40:26,800 --> 00:40:30,400
+you're like, "Oh man, that AI is trash.
+
+1028
+00:40:28,400 --> 00:40:33,800
+It sucks." And you probably just suck at
+
+1029
+00:40:30,400 --> 00:40:33,800
+prompting it.
+
+1030
+00:40:37,520 --> 00:40:42,240
+It is slow. It is definitely slow. But
+
+1031
+00:40:39,920 --> 00:40:43,880
+in this particular case, I'm willing to
+
+1032
+00:40:42,240 --> 00:40:45,840
+to wait for
+
+1033
+00:40:43,880 --> 00:40:47,280
+it. But if you think there's something
+
+1034
+00:40:45,840 --> 00:40:50,720
+else out there, bro, that's better, then
+
+1035
+00:40:47,280 --> 00:40:50,720
+just use that, man. To each their
+
+1036
+00:40:55,880 --> 00:40:59,920
+own. Uh, dude, Mark used Sora for
+
+1037
+00:40:58,560 --> 00:41:01,200
+B-roll. I think it's pretty good. It is
+
+1038
+00:40:59,920 --> 00:41:02,880
+pretty good, man. It's pretty good.
+
+1039
+00:41:01,200 --> 00:41:04,080
+There's so many of the text to video
+
+1040
+00:41:02,880 --> 00:41:07,280
+options out there that are really good.
+
+1041
+00:41:04,080 --> 00:41:11,280
+Sor is a great one. Um, [ __ ] I had some
+
+1042
+00:41:07,280 --> 00:41:14,560
+other uh Lun Luna Luna. Luma, Luma,
+
+1043
+00:41:11,280 --> 00:41:14,560
+that's what it is. Luma, very
+
+1044
+00:41:24,360 --> 00:41:32,920
+good. Uh, Elias, what is the ideal ad
+
+1045
+00:41:27,840 --> 00:41:35,840
+spend to have per ad per day? I mean a
+
+1046
+00:41:32,920 --> 00:41:37,760
+minimum in my opinion a minimum of like
+
+1047
+00:41:35,840 --> 00:41:39,760
+10 to 20 bucks per day per ad because if
+
+1048
+00:41:37,760 --> 00:41:41,600
+you have like three adsets in there I'm
+
+1049
+00:41:39,760 --> 00:41:44,480
+sorry three ads within one single adset.
+
+1050
+00:41:41,600 --> 00:41:47,280
+I don't really ever put adsets at less
+
+1051
+00:41:44,480 --> 00:41:47,280
+than $50 a
+
+1052
+00:41:51,000 --> 00:41:55,120
+day. Okay. What's up? If I want to make
+
+1053
+00:41:53,520 --> 00:41:56,560
+an AI image on chatb with my clothing
+
+1054
+00:41:55,120 --> 00:41:58,160
+brand as a vintage reseller can't copy
+
+1055
+00:41:56,560 --> 00:42:01,120
+the exact logo. Is there a way to do
+
+1056
+00:41:58,160 --> 00:42:01,120
+this?
+
+1057
+00:42:09,000 --> 00:42:15,920
+What if I want to make an AI image on
+
+1058
+00:42:12,720 --> 00:42:15,920
+chat with my clothing
+
+1059
+00:42:16,680 --> 00:42:22,080
+brand? Oh, chat can't copy the exact
+
+1060
+00:42:19,760 --> 00:42:23,680
+logo. Bro, just try other image
+
+1061
+00:42:22,080 --> 00:42:24,800
+generation softwares or just try to give
+
+1062
+00:42:23,680 --> 00:42:26,640
+it a better prompt. You know, a little
+
+1063
+00:42:24,800 --> 00:42:28,320
+hack for all you guys here. If you're
+
+1064
+00:42:26,640 --> 00:42:30,800
+not prompting AI the right way, just
+
+1065
+00:42:28,320 --> 00:42:32,560
+make AI write the prompt for you. It's
+
+1066
+00:42:30,800 --> 00:42:34,160
+[ __ ] AI inception. AI writes the
+
+1067
+00:42:32,560 --> 00:42:37,280
+prompt to feed to the other AI that
+
+1068
+00:42:34,160 --> 00:42:37,280
+executes the prompt,
+
+1069
+00:42:41,720 --> 00:42:46,480
+right? Uh Elias, is CBO
+
+1070
+00:42:46,840 --> 00:42:51,280
+better? Man, I see people run with CBO
+
+1071
+00:42:49,440 --> 00:42:52,960
+and [ __ ] both at scale. Ultimately, it's
+
+1072
+00:42:51,280 --> 00:42:55,040
+it's up to test. We don't run a lot of
+
+1073
+00:42:52,960 --> 00:42:57,120
+CBOS. If anything, we run advantage plus
+
+1074
+00:42:55,040 --> 00:43:00,000
+shopping campaigns. Um, that's the only
+
+1075
+00:42:57,120 --> 00:43:02,480
+form of CBO that we really run, but most
+
+1076
+00:43:00,000 --> 00:43:03,760
+of our [ __ ] right now is at [ __ ] Uh,
+
+1077
+00:43:02,480 --> 00:43:06,640
+like for for one of our brands right
+
+1078
+00:43:03,760 --> 00:43:08,400
+now, spending 15 to 20k a day, almost
+
+1079
+00:43:06,640 --> 00:43:11,160
+everything is [ __ ] but everything is
+
+1080
+00:43:08,400 --> 00:43:14,640
+broad in those ABOs. Broad [ __ ]
+
+1081
+00:43:11,160 --> 00:43:18,000
+ABO's, hey, shirtless buff Magnus, do
+
+1082
+00:43:14,640 --> 00:43:20,320
+you mentor at all? Um, dude, I do have a
+
+1083
+00:43:18,000 --> 00:43:22,320
+a mentorship program if you guys want to
+
+1084
+00:43:20,320 --> 00:43:25,200
+check it out.
+
+1085
+00:43:22,320 --> 00:43:26,720
+Um, you can click the first link in the
+
+1086
+00:43:25,200 --> 00:43:28,320
+description. It's called Brand Builders
+
+1087
+00:43:26,720 --> 00:43:30,160
+Academy. It's a program that I've been
+
+1088
+00:43:28,320 --> 00:43:32,480
+building over the past like four or five
+
+1089
+00:43:30,160 --> 00:43:33,920
+years. And I didn't really promote it
+
+1090
+00:43:32,480 --> 00:43:35,840
+publicly until a few months ago because
+
+1091
+00:43:33,920 --> 00:43:39,120
+I didn't really need to. And I I still
+
+1092
+00:43:35,840 --> 00:43:40,320
+don't need to. But um, yeah, if you want
+
+1093
+00:43:39,120 --> 00:43:42,400
+to check it out, you like the content,
+
+1094
+00:43:40,320 --> 00:43:43,680
+you have some capital set aside, the
+
+1095
+00:43:42,400 --> 00:43:44,960
+biggest thing we can offer you in there,
+
+1096
+00:43:43,680 --> 00:43:46,800
+obviously we have amazing training, but
+
+1097
+00:43:44,960 --> 00:43:49,360
+we have amazing coaches. Like we
+
+1098
+00:43:46,800 --> 00:43:52,080
+literally assign you somebody who owns
+
+1099
+00:43:49,360 --> 00:43:53,200
+an ecom brand that is successful who can
+
+1100
+00:43:52,080 --> 00:43:54,720
+like hold your hand through the whole
+
+1101
+00:43:53,200 --> 00:43:56,800
+process a toz help you find products
+
+1102
+00:43:54,720 --> 00:43:58,560
+analyze your Facebook ad data with you.
+
+1103
+00:43:56,800 --> 00:44:00,640
+It's very very helpful because what
+
+1104
+00:43:58,560 --> 00:44:01,760
+really you need is like not another
+
+1105
+00:44:00,640 --> 00:44:03,360
+course. What you really need is that
+
+1106
+00:44:01,760 --> 00:44:05,040
+personalized one-on-one coaching. In my
+
+1107
+00:44:03,360 --> 00:44:06,320
+opinion, that's what I always needed. I
+
+1108
+00:44:05,040 --> 00:44:09,120
+was like, I get the course content,
+
+1109
+00:44:06,320 --> 00:44:10,960
+cool, but like why is this particular ad
+
+1110
+00:44:09,120 --> 00:44:13,960
+not working? That's really what you
+
+1111
+00:44:10,960 --> 00:44:13,960
+need.
+
+1112
+00:44:23,440 --> 00:44:27,920
+Oh, I missed so many questions. All
+
+1113
+00:44:25,800 --> 00:44:29,200
+right, Ethan, do you ever plan on
+
+1114
+00:44:27,920 --> 00:44:31,680
+pivoting and building your own startup?
+
+1115
+00:44:29,200 --> 00:44:32,880
+I feel like that content of scaling
+
+1116
+00:44:31,680 --> 00:44:34,680
+something from the ground up would be
+
+1117
+00:44:32,880 --> 00:44:36,560
+sick and a great case study for ecom
+
+1118
+00:44:34,680 --> 00:44:38,000
+knowledge. I mean, I'm building a
+
+1119
+00:44:36,560 --> 00:44:41,040
+startup right now, bro. I have a SAS
+
+1120
+00:44:38,000 --> 00:44:42,400
+company that's that's get hooked. Um, we
+
+1121
+00:44:41,040 --> 00:44:43,760
+we are quite literally building that
+
+1122
+00:44:42,400 --> 00:44:45,920
+from the ground up. So, I'm already in
+
+1123
+00:44:43,760 --> 00:44:45,920
+that
+
+1124
+00:44:47,080 --> 00:44:50,560
+process. Do you plan on keeping this on
+
+1125
+00:44:49,360 --> 00:44:53,280
+YouTube? Yeah, I'll keep it up, man.
+
+1126
+00:44:50,560 --> 00:44:56,640
+I'll keep it up. I'll keep it up until
+
+1127
+00:44:53,280 --> 00:44:56,640
+one of you piss me off when I take it
+
+1128
+00:44:57,320 --> 00:45:02,480
+down. That was a joke. Haha. Laugh.
+
+1129
+00:45:03,160 --> 00:45:07,120
+[ __ ] What is the most valuable lives
+
+1130
+00:45:05,600 --> 00:45:08,560
+that you did? I mean, I think the
+
+1131
+00:45:07,120 --> 00:45:09,920
+conscious consciousness one, man.
+
+1132
+00:45:08,560 --> 00:45:12,080
+Applied consciousness is probably one of
+
+1133
+00:45:09,920 --> 00:45:14,400
+the most valuable lives I've ever did.
+
+1134
+00:45:12,080 --> 00:45:17,680
+Um, it actually ended up getting more
+
+1135
+00:45:14,400 --> 00:45:20,560
+views than I expected and I I really
+
+1136
+00:45:17,680 --> 00:45:22,240
+could have gone so much deeper. I
+
+1137
+00:45:20,560 --> 00:45:24,560
+actually I gave a presentation in Dubai
+
+1138
+00:45:22,240 --> 00:45:26,080
+about applying consciousness to to
+
+1139
+00:45:24,560 --> 00:45:28,560
+funnels and to copy. I think I'm going
+
+1140
+00:45:26,080 --> 00:45:30,560
+to release it uh but only as an unlisted
+
+1141
+00:45:28,560 --> 00:45:32,240
+video. So, just keep an eye out for
+
+1142
+00:45:30,560 --> 00:45:34,240
+that. I'll I'll let you know on IG. So,
+
+1143
+00:45:32,240 --> 00:45:36,080
+if you're not following me on IG, make
+
+1144
+00:45:34,240 --> 00:45:39,080
+sure you are. Uh, Mark Builds Brands on
+
+1145
+00:45:36,080 --> 00:45:39,080
+IG.
+
+1146
+00:45:41,120 --> 00:45:46,800
+Uh, will you do a quick easy to follow
+
+1147
+00:45:43,440 --> 00:45:46,800
+video on this?
+
+1148
+00:45:48,280 --> 00:45:52,720
+No. How much is all of it costing you
+
+1149
+00:45:51,040 --> 00:45:54,160
+for a full workflow? It depends what
+
+1150
+00:45:52,720 --> 00:45:57,040
+workflow, bro. But it definitely does
+
+1151
+00:45:54,160 --> 00:46:00,480
+rack up the it racks up the credits on
+
+1152
+00:45:57,040 --> 00:46:01,600
+on OpenAI and all these models, but uh
+
+1153
+00:46:00,480 --> 00:46:03,040
+you know, there are models out there
+
+1154
+00:46:01,600 --> 00:46:05,920
+that are significantly cheaper. If you
+
+1155
+00:46:03,040 --> 00:46:05,920
+just look
+
+1156
+00:46:08,120 --> 00:46:13,680
+um look at
+
+1157
+00:46:11,160 --> 00:46:15,040
+this. So this is a comparison of all the
+
+1158
+00:46:13,680 --> 00:46:16,640
+AI models that we have out right now
+
+1159
+00:46:15,040 --> 00:46:18,720
+between intelligence performance and
+
+1160
+00:46:16,640 --> 00:46:20,400
+price analysis. Look at the price. All
+
+1161
+00:46:18,720 --> 00:46:22,400
+right. Just just look right here. You
+
+1162
+00:46:20,400 --> 00:46:24,160
+see this most expensive [ __ ] one?
+
+1163
+00:46:22,400 --> 00:46:26,720
+Yeah. That's chatbt40. That's like the
+
+1164
+00:46:24,160 --> 00:46:28,320
+most common one that people use. So
+
+1165
+00:46:26,720 --> 00:46:30,560
+expensive. But you could literally just
+
+1166
+00:46:28,320 --> 00:46:33,520
+get like a duplicate of Chachi PT, which
+
+1167
+00:46:30,560 --> 00:46:35,840
+is like DeepS if you wanted to use that
+
+1168
+00:46:33,520 --> 00:46:39,360
+or any of these other models and be able
+
+1169
+00:46:35,840 --> 00:46:39,360
+to operate at like a fraction of the
+
+1170
+00:46:41,400 --> 00:46:47,920
+price. Oh wow. I think this is new
+
+1171
+00:46:43,840 --> 00:46:50,240
+actually. I think Gemini 2.5 was or
+
+1172
+00:46:47,920 --> 00:46:51,840
+maybe it's old. Gemini 2.5 I think
+
+1173
+00:46:50,240 --> 00:46:54,920
+scored higher on intelligence than 40
+
+1174
+00:46:51,840 --> 00:46:58,720
+Mini. That's interesting.
+
+1175
+00:46:54,920 --> 00:46:58,720
+Anyways, next question.
+
+1176
+00:47:09,120 --> 00:47:15,440
+Uh, Berisha, have you tried
+
+1177
+00:47:11,640 --> 00:47:15,440
+incense for UGC
+
+1178
+00:47:19,000 --> 00:47:23,880
+creation? Oh, yeah. Yeah, I know this
+
+1179
+00:47:21,120 --> 00:47:27,840
+platform. I mean, dude, I
+
+1180
+00:47:23,880 --> 00:47:30,000
+think so. I I think the organic side of
+
+1181
+00:47:27,840 --> 00:47:32,160
+these platforms, for example, you know,
+
+1182
+00:47:30,000 --> 00:47:33,760
+Instagram, Tik Tok, YouTube, I think
+
+1183
+00:47:32,160 --> 00:47:36,240
+that they're probably going to penalize
+
+1184
+00:47:33,760 --> 00:47:38,000
+AI UGC. However, I don't see that
+
+1185
+00:47:36,240 --> 00:47:40,400
+happening with the paid side. I could be
+
+1186
+00:47:38,000 --> 00:47:44,640
+totally wrong. They could figure out a
+
+1187
+00:47:40,400 --> 00:47:46,720
+way to identify, you know, paid ads UG
+
+1188
+00:47:44,640 --> 00:47:48,640
+AI UGC and then penalize you with like
+
+1189
+00:47:46,720 --> 00:47:50,000
+higher CPMs for lower quality traffic or
+
+1190
+00:47:48,640 --> 00:47:51,440
+something like that. But that's
+
+1191
+00:47:50,000 --> 00:47:52,800
+obviously not the case right now. I
+
+1192
+00:47:51,440 --> 00:47:55,520
+mean, most of our creatives are made
+
+1193
+00:47:52,800 --> 00:47:57,600
+with AI UGC at the moment. So, I don't
+
+1194
+00:47:55,520 --> 00:47:59,320
+think that that's there, but I see that
+
+1195
+00:47:57,600 --> 00:48:01,680
+as a real possibility for
+
+1196
+00:47:59,320 --> 00:48:03,920
+organic. So, uh, for that reason, I
+
+1197
+00:48:01,680 --> 00:48:05,160
+haven't used an incense. No. And I don't
+
+1198
+00:48:03,920 --> 00:48:07,640
+plan on
+
+1199
+00:48:05,160 --> 00:48:10,880
+it.
+
+1200
+00:48:07,640 --> 00:48:14,160
+Tony Maranovich, which country do you
+
+1201
+00:48:10,880 --> 00:48:16,080
+live in? I live in America. Do you think
+
+1202
+00:48:14,160 --> 00:48:18,160
+about moving to Dubai or any tax-free
+
+1203
+00:48:16,080 --> 00:48:19,600
+mostly countries? The thing is, dude,
+
+1204
+00:48:18,160 --> 00:48:21,040
+like the more that I travel around the
+
+1205
+00:48:19,600 --> 00:48:22,960
+world, the more that I realize how
+
+1206
+00:48:21,040 --> 00:48:24,960
+blessed I am to live in America. Like we
+
+1207
+00:48:22,960 --> 00:48:26,880
+have our we have issues like we got
+
+1208
+00:48:24,960 --> 00:48:29,440
+serious [ __ ] issues like bureaucracy,
+
+1209
+00:48:26,880 --> 00:48:33,600
+government, deep state, it's all real
+
+1210
+00:48:29,440 --> 00:48:37,360
+and uh I get it. But we also have so
+
+1211
+00:48:33,600 --> 00:48:40,320
+many advantageous assets specifically
+
+1212
+00:48:37,360 --> 00:48:42,480
+for entrepreneurs in the United States.
+
+1213
+00:48:40,320 --> 00:48:44,000
+And if I were to move to Dubai, I would
+
+1214
+00:48:42,480 --> 00:48:46,000
+still have to pay US tax. And the only
+
+1215
+00:48:44,000 --> 00:48:48,680
+case that I wouldn't is I was have to
+
+1216
+00:48:46,000 --> 00:48:51,200
+revoke my US citizenship.
+
+1217
+00:48:48,680 --> 00:48:53,680
+And I for me that trade-off is not worth
+
+1218
+00:48:51,200 --> 00:48:53,680
+it at the
+
+1219
+00:49:02,520 --> 00:49:09,040
+moment. Oh my
+
+1220
+00:49:05,560 --> 00:49:13,480
+god. A marketer recommended to start on
+
+1221
+00:49:09,040 --> 00:49:13,480
+brand awareness instead of sales.
+
+1222
+00:49:18,400 --> 00:49:24,880
+may have to [ __ ] leave my room to go
+
+1223
+00:49:20,560 --> 00:49:24,880
+throw up. Bro, that's that's terrible
+
+1224
+00:49:24,920 --> 00:49:28,640
+advice. Even if you're just warming up
+
+1225
+00:49:27,120 --> 00:49:31,320
+an ad account, bro, I would not run a
+
+1226
+00:49:28,640 --> 00:49:34,280
+brand awareness campaign. I would
+
+1227
+00:49:31,320 --> 00:49:37,600
+still strip that man of his marketer
+
+1228
+00:49:34,280 --> 00:49:37,600
+title. That's
+
+1229
+00:49:39,160 --> 00:49:44,240
+embarrassing. Wasif, should you start
+
+1230
+00:49:41,520 --> 00:49:45,600
+testing a product with a chatfunnel? So,
+
+1231
+00:49:44,240 --> 00:49:46,960
+my philosophy, bro, is like the whole
+
+1232
+00:49:45,600 --> 00:49:49,200
+funnel architecture thing that I go over
+
+1233
+00:49:46,960 --> 00:49:51,280
+the Chadfunnel. It's best after you
+
+1234
+00:49:49,200 --> 00:49:53,200
+validate a product yourself. And what I
+
+1235
+00:49:51,280 --> 00:49:54,720
+mean by that is at least $1,000 a day
+
+1236
+00:49:53,200 --> 00:49:56,960
+and spend, make sure that people
+
+1237
+00:49:54,720 --> 00:49:59,520
+actually want it from you and then
+
+1238
+00:49:56,960 --> 00:49:59,520
+convert to a
+
+1239
+00:50:03,240 --> 00:50:09,840
+funnel. Uh, LLO, what's up, bro? Dutch
+
+1240
+00:50:07,800 --> 00:50:12,960
+homie, are you building the agents
+
+1241
+00:50:09,840 --> 00:50:14,800
+yourself or using agency? Um, so we
+
+1242
+00:50:12,960 --> 00:50:16,160
+actually we have people in house and I'm
+
+1243
+00:50:14,800 --> 00:50:18,960
+also building them myself because I
+
+1244
+00:50:16,160 --> 00:50:18,960
+think it's super
+
+1245
+00:50:39,720 --> 00:50:43,840
+fascinating in mass workflows. I'm using
+
+1246
+00:50:42,000 --> 00:50:45,520
+Gemini. It's faster and way cheaper.
+
+1247
+00:50:43,840 --> 00:50:47,280
+Dude, Gemini is great, man. Again, the
+
+1248
+00:50:45,520 --> 00:50:50,160
+the only reason I wouldn't use that
+
+1249
+00:50:47,280 --> 00:50:51,080
+because specific models have specific
+
+1250
+00:50:50,160 --> 00:50:53,760
+use
+
+1251
+00:50:51,080 --> 00:50:55,840
+cases. And for example, if I were to go
+
+1252
+00:50:53,760 --> 00:50:58,160
+and write copy, like Gemini would be the
+
+1253
+00:50:55,840 --> 00:51:01,040
+last place that I would go because it's
+
+1254
+00:50:58,160 --> 00:51:04,360
+not very good at um that creativity and
+
+1255
+00:51:01,040 --> 00:51:04,360
+writing aspect.
+
+1256
+00:51:21,840 --> 00:51:27,120
+Uh, Dvari Goney, use move the needle.
+
+1257
+00:51:25,280 --> 00:51:28,240
+[ __ ] the spirituality stuff. Just move
+
+1258
+00:51:27,120 --> 00:51:31,200
+the needle forward. You know, the
+
+1259
+00:51:28,240 --> 00:51:31,200
+mindset and who you have to
+
+1260
+00:51:31,880 --> 00:51:38,600
+become. I'd be very wary saying [ __ ] the
+
+1261
+00:51:34,720 --> 00:51:38,600
+spirituality stuff, bro.
+
+1262
+00:51:40,000 --> 00:51:44,800
+I the what I say about this is that you
+
+1263
+00:51:43,200 --> 00:51:48,160
+know most things in life are some type
+
+1264
+00:51:44,800 --> 00:51:49,760
+of 8020 and in the same way that you
+
+1265
+00:51:48,160 --> 00:51:51,600
+shouldn't spend more than 20% of your
+
+1266
+00:51:49,760 --> 00:51:53,600
+time in the dark side and your shadow
+
+1267
+00:51:51,600 --> 00:51:55,040
+you also should not spend more than 20
+
+1268
+00:51:53,600 --> 00:51:56,160
+20% of your time going deep into
+
+1269
+00:51:55,040 --> 00:51:58,800
+spirituality stuff because you're going
+
+1270
+00:51:56,160 --> 00:52:01,280
+to lose all your bearings and
+
+1271
+00:51:58,800 --> 00:52:04,000
+groundedness in reality and you're just
+
+1272
+00:52:01,280 --> 00:52:06,400
+going to be this wavy flaky individual
+
+1273
+00:52:04,000 --> 00:52:07,920
+that just comes and goes and you don't
+
+1274
+00:52:06,400 --> 00:52:11,360
+actually have the discipline to sit down
+
+1275
+00:52:07,920 --> 00:52:11,360
+and stay grounded and get your deep work
+
+1276
+00:52:13,880 --> 00:52:18,080
+done. Switching switching to a different
+
+1277
+00:52:16,400 --> 00:52:21,320
+AI from chat would feel like going
+
+1278
+00:52:18,080 --> 00:52:21,320
+through a breakup.
+
+1279
+00:52:48,480 --> 00:52:51,440
+Yeah, Lawlo, I I totally understand what
+
+1280
+00:52:50,320 --> 00:52:53,120
+you mean. He said, "Do you have people
+
+1281
+00:52:51,440 --> 00:52:54,800
+in your team doing everything from a toz
+
+1282
+00:52:53,120 --> 00:52:56,000
+from content creation with AI sourcing
+
+1283
+00:52:54,800 --> 00:52:57,760
+to editing?" As I see a lot of video
+
+1284
+00:52:56,000 --> 00:53:00,960
+editors don't have real knowledge. Dude,
+
+1285
+00:52:57,760 --> 00:53:03,280
+you have to, my opinion on this is you
+
+1286
+00:53:00,960 --> 00:53:04,880
+have to find an editor that is really
+
+1287
+00:53:03,280 --> 00:53:06,720
+hardworking, has good values, and
+
+1288
+00:53:04,880 --> 00:53:08,960
+matches your culture. And then you have
+
+1289
+00:53:06,720 --> 00:53:11,360
+to invest in them to become trained with
+
+1290
+00:53:08,960 --> 00:53:13,280
+AI. I think AI video editors just take
+
+1291
+00:53:11,360 --> 00:53:15,840
+like think of the average video editor
+
+1292
+00:53:13,280 --> 00:53:17,760
+and then think of how many of them are
+
+1293
+00:53:15,840 --> 00:53:20,960
+really empowered with AI. I think you
+
+1294
+00:53:17,760 --> 00:53:22,960
+got to invest in your team and you know,
+
+1295
+00:53:20,960 --> 00:53:25,440
+invest in AI training, send them YouTube
+
+1296
+00:53:22,960 --> 00:53:28,520
+videos, uh, and really just push them,
+
+1297
+00:53:25,440 --> 00:53:32,240
+right? push them to develop their skill
+
+1298
+00:53:28,520 --> 00:53:33,600
+set even more so that they can be the
+
+1299
+00:53:32,240 --> 00:53:34,880
+type of person that you just send them a
+
+1300
+00:53:33,600 --> 00:53:36,560
+script and then they pop out like this
+
+1301
+00:53:34,880 --> 00:53:38,880
+beautiful ad really really quickly all
+
+1302
+00:53:36,560 --> 00:53:38,880
+done with
+
+1303
+00:53:48,600 --> 00:53:55,240
+AI. All right, guys. Any last questions?
+
+1304
+00:53:50,960 --> 00:53:55,240
+I got to hop off pretty soon here.
+
+1305
+00:54:07,160 --> 00:54:11,840
+um DI still shipping to US or go
+
+1306
+00:54:10,560 --> 00:54:13,600
+straight to US at this point. It's
+
+1307
+00:54:11,840 --> 00:54:16,160
+confusing for noobs. No, we're still
+
+1308
+00:54:13,600 --> 00:54:17,920
+shipping to US, man. Honestly, like if
+
+1309
+00:54:16,160 --> 00:54:20,160
+if the tariffs go through, like we're
+
+1310
+00:54:17,920 --> 00:54:21,840
+not going to stop shipping from China.
+
+1311
+00:54:20,160 --> 00:54:24,160
+Unfortunately, like our COGS are so low
+
+1312
+00:54:21,840 --> 00:54:26,320
+in the first place that even like a 2 to
+
+1313
+00:54:24,160 --> 00:54:27,840
+3x increase is, you know, it's not going
+
+1314
+00:54:26,320 --> 00:54:31,120
+to kill us. We just got to lower CPA
+
+1315
+00:54:27,840 --> 00:54:32,640
+tiny tiny bit. Um, and we already have a
+
+1316
+00:54:31,120 --> 00:54:35,200
+portion of our manufacturing done in the
+
+1317
+00:54:32,640 --> 00:54:36,040
+US. So, fortunately, we're we're not
+
+1318
+00:54:35,200 --> 00:54:40,000
+going to
+
+1319
+00:54:36,040 --> 00:54:40,000
+be we're not going to be super
+
+1320
+00:54:40,600 --> 00:54:45,760
+[ __ ] What's a good daily budget when
+
+1321
+00:54:42,800 --> 00:54:47,520
+testing a new product? Um, let's say $50
+
+1322
+00:54:45,760 --> 00:54:49,520
+to $100 a day, depending on how quickly
+
+1323
+00:54:47,520 --> 00:54:53,520
+you want to get data, bro. I think
+
+1324
+00:54:49,520 --> 00:54:53,520
+that's the best uh the best way to
+
+1325
+00:54:54,280 --> 00:54:58,400
+start.
+
+1326
+00:54:56,280 --> 00:54:59,760
+Jason Mark, when you're testing a new
+
+1327
+00:54:58,400 --> 00:55:01,680
+product, at what point do you decide to
+
+1328
+00:54:59,760 --> 00:55:03,680
+move on? I've spent over $500 on my
+
+1329
+00:55:01,680 --> 00:55:05,720
+initial launch with zero added car. Oh,
+
+1330
+00:55:03,680 --> 00:55:07,920
+Jesus
+
+1331
+00:55:05,720 --> 00:55:09,680
+Christ. Yeah, dude. If I mean, I don't
+
+1332
+00:55:07,920 --> 00:55:11,760
+know what the price of your product is.
+
+1333
+00:55:09,680 --> 00:55:14,880
+Even if it's like $1,000, that's that's
+
+1334
+00:55:11,760 --> 00:55:16,840
+that's not good data. So, that's that's
+
+1335
+00:55:14,880 --> 00:55:18,960
+a real problem.
+
+1336
+00:55:16,840 --> 00:55:20,080
+Um, again, this really depends on like
+
+1337
+00:55:18,960 --> 00:55:21,680
+the price of your product, but if you
+
+1338
+00:55:20,080 --> 00:55:23,440
+don't see at least an add card after
+
+1339
+00:55:21,680 --> 00:55:24,800
+like a $100 in spend, bro, that'd
+
+1340
+00:55:23,440 --> 00:55:25,880
+probably be something that I that I
+
+1341
+00:55:24,800 --> 00:55:28,400
+would
+
+1342
+00:55:25,880 --> 00:55:30,720
+cut. Something is very, very wrong. If
+
+1343
+00:55:28,400 --> 00:55:30,720
+you spend
+
+1344
+00:55:31,560 --> 00:55:37,640
+$500, either your CPC is astronomical or
+
+1345
+00:55:34,720 --> 00:55:39,840
+you have the worst sales page on planet
+
+1346
+00:55:37,640 --> 00:55:41,200
+Earth. So, you got to go you got to go
+
+1347
+00:55:39,840 --> 00:55:42,800
+through and diagnose where the breakdown
+
+1348
+00:55:41,200 --> 00:55:45,600
+is occurring. Exactly. had watched my
+
+1349
+00:55:42,800 --> 00:55:47,760
+video on oh [ __ ] I don't even remember
+
+1350
+00:55:45,600 --> 00:55:49,280
+what it was called I don't know
+
+1351
+00:55:47,760 --> 00:55:50,960
+basically I say that anytime that you
+
+1352
+00:55:49,280 --> 00:55:53,200
+test a product and it doesn't
+
+1353
+00:55:50,960 --> 00:55:54,480
+immediately become profitable the most
+
+1354
+00:55:53,200 --> 00:55:56,160
+important thing that you can do is ask
+
+1355
+00:55:54,480 --> 00:55:57,840
+yourself why and identify where the
+
+1356
+00:55:56,160 --> 00:56:00,000
+breakdown was occurring was it a funnel
+
+1357
+00:55:57,840 --> 00:56:01,680
+breakdown or was it an ad breakdown if
+
+1358
+00:56:00,000 --> 00:56:06,160
+it was ad breakdown you'll have high
+
+1359
+00:56:01,680 --> 00:56:07,760
+CPMs low CTR high CPC and also you have
+
+1360
+00:56:06,160 --> 00:56:11,040
+very low hook rate and very low hold
+
+1361
+00:56:07,760 --> 00:56:13,040
+rate and very low average video duration
+
+1362
+00:56:11,040 --> 00:56:14,400
+and very low cost per 3 second view if
+
+1363
+00:56:13,040 --> 00:56:16,720
+you want to get, you know, really,
+
+1364
+00:56:14,400 --> 00:56:19,400
+really down in there. If it's a funnel
+
+1365
+00:56:16,720 --> 00:56:23,120
+problem, you'll have no add to
+
+1366
+00:56:19,400 --> 00:56:25,680
+carts. Um, no, all seriousness, you
+
+1367
+00:56:23,120 --> 00:56:27,360
+should have a 10% view content to add to
+
+1368
+00:56:25,680 --> 00:56:29,760
+cart ratio or like view landing page add
+
+1369
+00:56:27,360 --> 00:56:31,680
+to cart ratio. So, if you send a 100
+
+1370
+00:56:29,760 --> 00:56:33,200
+people, 100 people land on that landing
+
+1371
+00:56:31,680 --> 00:56:37,720
+page, you should have at least 10
+
+1372
+00:56:33,200 --> 00:56:37,720
+actually adding to cart. That's the KPI.
+
+1373
+00:56:46,720 --> 00:56:49,880
+All right, guys. That's going to be it
+
+1374
+00:56:47,920 --> 00:56:52,240
+for today's live.
+
+1375
+00:56:49,880 --> 00:56:54,480
+Um, thank you so much for watching. This
+
+1376
+00:56:52,240 --> 00:56:55,680
+was I think there's going to be very few
+
+1377
+00:56:54,480 --> 00:56:57,840
+people that actually watch this and
+
+1378
+00:56:55,680 --> 00:57:00,080
+apply it. For those that do, I'll see
+
+1379
+00:56:57,840 --> 00:57:01,680
+you at the [ __ ] top. Other than that,
+
+1380
+00:57:00,080 --> 00:57:04,480
+y'all have a great one. I'll talk to
+
+1381
+00:57:01,680 --> 00:57:09,120
+y'all later. Peace. Let's cue. Let's cue
+
+1382
+00:57:04,480 --> 00:57:09,120
+an outro here. What do we want today?
+
+1383
+00:57:23,840 --> 00:57:27,880
+It's just going to be awkward silence.
+
+1384
+00:57:42,640 --> 00:57:46,120
+Run more ads.
+
+1385
+00:58:02,480 --> 00:58:07,000
+at the
+
+1386
+00:58:04,520 --> 00:58:10,960
+window. Okay. Know what? I don't talk to
+
+1387
+00:58:07,000 --> 00:58:14,880
+them your [ __ ] I pick up all your
+
+1388
+00:58:10,960 --> 00:58:14,880
+[ __ ] up [ __ ]
+
+1389
+00:58:16,040 --> 00:58:19,720
+up.
+
+1390
+00:58:17,800 --> 00:58:24,160
+I'm
+
+1391
+00:58:19,720 --> 00:58:24,160
+a feel like I'm talking to
+
+1392
+00:58:33,560 --> 00:58:37,600
+people. [ __ ] I have a cause.
+

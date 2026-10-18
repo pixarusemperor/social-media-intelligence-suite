@@ -1,0 +1,5492 @@
+[
+  {
+    "start": 0.0,
+    "duration": 2.64,
+    "text": "Hey guys, Mark here. In this video, I'm"
+  },
+  {
+    "start": 1.36,
+    "duration": 3.2,
+    "text": "going to be showing you how you can copy"
+  },
+  {
+    "start": 2.64,
+    "duration": 4.32,
+    "text": "my landing page template that made me"
+  },
+  {
+    "start": 4.56,
+    "duration": 3.76,
+    "text": "$1.4 million in the last 30 days. And"
+  },
+  {
+    "start": 6.96,
+    "duration": 3.2,
+    "text": "the number one biggest mistake that I"
+  },
+  {
+    "start": 8.32,
+    "duration": 3.36,
+    "text": "see people make with their landers is"
+  },
+  {
+    "start": 10.16,
+    "duration": 3.28,
+    "text": "not that they don't have a good offer."
+  },
+  {
+    "start": 11.68,
+    "duration": 3.28,
+    "text": "It's not that their price point is not"
+  },
+  {
+    "start": 13.44,
+    "duration": 3.36,
+    "text": "correct. All it is is that they're"
+  },
+  {
+    "start": 14.96,
+    "duration": 3.6,
+    "text": "optimizing for the wrong thing. They"
+  },
+  {
+    "start": 16.8,
+    "duration": 4.24,
+    "text": "think that if they optimize specifically"
+  },
+  {
+    "start": 18.56,
+    "duration": 3.84,
+    "text": "for aesthetics and they build the most"
+  },
+  {
+    "start": 21.04,
+    "duration": 2.56,
+    "text": "beautiful looking lander of all time"
+  },
+  {
+    "start": 22.4,
+    "duration": 3.28,
+    "text": "that it's going to convert. When in"
+  },
+  {
+    "start": 23.6,
+    "duration": 3.84,
+    "text": "reality, they're neglecting the single"
+  },
+  {
+    "start": 25.68,
+    "duration": 3.44,
+    "text": "most important things that actually move"
+  },
+  {
+    "start": 27.44,
+    "duration": 2.88,
+    "text": "the needle to help increase your"
+  },
+  {
+    "start": 29.12,
+    "duration": 2.8,
+    "text": "conversion rate. So, that's what I'm"
+  },
+  {
+    "start": 30.32,
+    "duration": 3.04,
+    "text": "going to be covering in this video in"
+  },
+  {
+    "start": 31.92,
+    "duration": 2.56,
+    "text": "detail. Now, before I get into the"
+  },
+  {
+    "start": 33.36,
+    "duration": 2.4,
+    "text": "actual template, there's a really"
+  },
+  {
+    "start": 34.48,
+    "duration": 3.84,
+    "text": "important distinction that I need to"
+  },
+  {
+    "start": 35.76,
+    "duration": 5.44,
+    "text": "make between what people call a PDP,"
+  },
+  {
+    "start": 38.32,
+    "duration": 4.4,
+    "text": "which is a product page, and a sales"
+  },
+  {
+    "start": 41.2,
+    "duration": 2.72,
+    "text": "page, because I actually view these"
+  },
+  {
+    "start": 42.72,
+    "duration": 2.4,
+    "text": "differently, and I want to be really"
+  },
+  {
+    "start": 43.92,
+    "duration": 5.28,
+    "text": "clear about the difference between the"
+  },
+  {
+    "start": 45.12,
+    "duration": 6.56,
+    "text": "two. A PDP is a templated Shopify page"
+  },
+  {
+    "start": 49.2,
+    "duration": 4.32,
+    "text": "that is applied across all products that"
+  },
+  {
+    "start": 51.68,
+    "duration": 4.16,
+    "text": "you are running on your Shopify store. I"
+  },
+  {
+    "start": 53.52,
+    "duration": 4.24,
+    "text": "think Shopify is great for most things,"
+  },
+  {
+    "start": 55.84,
+    "duration": 4.0,
+    "text": "but the one area that they really suck"
+  },
+  {
+    "start": 57.76,
+    "duration": 4.72,
+    "text": "is being able to have full control and"
+  },
+  {
+    "start": 59.84,
+    "duration": 4.16,
+    "text": "customizability over your PDPs and have"
+  },
+  {
+    "start": 62.48,
+    "duration": 3.04,
+    "text": "every individual page for different"
+  },
+  {
+    "start": 64.0,
+    "duration": 3.12,
+    "text": "products look a little bit differently."
+  },
+  {
+    "start": 65.52,
+    "duration": 3.44,
+    "text": "Sales pages, on the other hand, are"
+  },
+  {
+    "start": 67.12,
+    "duration": 3.6,
+    "text": "usually built custom. This means they"
+  },
+  {
+    "start": 68.96,
+    "duration": 2.96,
+    "text": "could be built with Clawude. This could"
+  },
+  {
+    "start": 70.72,
+    "duration": 3.84,
+    "text": "mean that they're built through a page"
+  },
+  {
+    "start": 71.92,
+    "duration": 4.4,
+    "text": "builder such as Replo or Gem Pages, but"
+  },
+  {
+    "start": 74.56,
+    "duration": 3.84,
+    "text": "ultimately they give you a very, very"
+  },
+  {
+    "start": 76.32,
+    "duration": 3.92,
+    "text": "high degree of customizability. I"
+  },
+  {
+    "start": 78.4,
+    "duration": 4.4,
+    "text": "personally am more of a fan of sales"
+  },
+  {
+    "start": 80.24,
+    "duration": 4.0,
+    "text": "pages because you're able to control the"
+  },
+  {
+    "start": 82.8,
+    "duration": 3.28,
+    "text": "justification of your product"
+  },
+  {
+    "start": 84.24,
+    "duration": 4.48,
+    "text": "substantially more compared to a PDP"
+  },
+  {
+    "start": 86.08,
+    "duration": 4.24,
+    "text": "where typically is like a photo of your"
+  },
+  {
+    "start": 88.72,
+    "duration": 3.04,
+    "text": "product, little description, some"
+  },
+  {
+    "start": 90.32,
+    "duration": 3.28,
+    "text": "benefit statements, and then immediately"
+  },
+  {
+    "start": 91.76,
+    "duration": 3.68,
+    "text": "shows the price. I personally like to"
+  },
+  {
+    "start": 93.6,
+    "duration": 4.08,
+    "text": "control the perception of my product for"
+  },
+  {
+    "start": 95.44,
+    "duration": 3.84,
+    "text": "as long as I possibly can before I put"
+  },
+  {
+    "start": 97.68,
+    "duration": 3.04,
+    "text": "the price in front of them. And a lot of"
+  },
+  {
+    "start": 99.28,
+    "duration": 2.96,
+    "text": "times that leads to a higher conversion"
+  },
+  {
+    "start": 100.72,
+    "duration": 3.36,
+    "text": "rate. But in this video, even if you're"
+  },
+  {
+    "start": 102.24,
+    "duration": 3.04,
+    "text": "running PDPs, you can take away almost"
+  },
+  {
+    "start": 104.08,
+    "duration": 3.28,
+    "text": "everything that I'm talking about. I'm"
+  },
+  {
+    "start": 105.28,
+    "duration": 3.44,
+    "text": "just saying for technicality purposes. I"
+  },
+  {
+    "start": 107.36,
+    "duration": 3.12,
+    "text": "personally prefer sales pages. Whether"
+  },
+  {
+    "start": 108.72,
+    "duration": 4.08,
+    "text": "you're running a PDP or a sales page"
+  },
+  {
+    "start": 110.48,
+    "duration": 4.0,
+    "text": "matters less. What really matters is the"
+  },
+  {
+    "start": 112.8,
+    "duration": 3.36,
+    "text": "purpose of the pages and understanding"
+  },
+  {
+    "start": 114.48,
+    "duration": 3.2,
+    "text": "why you run them. The purpose is not to"
+  },
+  {
+    "start": 116.16,
+    "duration": 3.36,
+    "text": "sell the product. Don't get it twisted."
+  },
+  {
+    "start": 117.68,
+    "duration": 3.44,
+    "text": "The purpose of these pages, yes, I said"
+  },
+  {
+    "start": 119.52,
+    "duration": 3.92,
+    "text": "this, is not to sell the product. It is"
+  },
+  {
+    "start": 121.12,
+    "duration": 3.76,
+    "text": "to sell the outcome. Nobody buys a"
+  },
+  {
+    "start": 123.44,
+    "duration": 3.68,
+    "text": "product for the product's sake. They buy"
+  },
+  {
+    "start": 124.88,
+    "duration": 3.44,
+    "text": "a product for what it can do for them."
+  },
+  {
+    "start": 127.12,
+    "duration": 3.36,
+    "text": "So, you've probably heard people talk"
+  },
+  {
+    "start": 128.32,
+    "duration": 3.68,
+    "text": "about features, which is like specific"
+  },
+  {
+    "start": 130.48,
+    "duration": 3.12,
+    "text": "things about the product itself. And"
+  },
+  {
+    "start": 132.0,
+    "duration": 3.76,
+    "text": "then there's benefits, but you can go"
+  },
+  {
+    "start": 133.6,
+    "duration": 4.08,
+    "text": "even deeper into the ultimate outcome,"
+  },
+  {
+    "start": 135.76,
+    "duration": 3.84,
+    "text": "which is essentially like the emotional"
+  },
+  {
+    "start": 137.68,
+    "duration": 3.44,
+    "text": "state that people get in after they get"
+  },
+  {
+    "start": 139.6,
+    "duration": 3.2,
+    "text": "the benefits of the product. So, it's"
+  },
+  {
+    "start": 141.12,
+    "duration": 3.2,
+    "text": "even deeper than benefits because these"
+  },
+  {
+    "start": 142.8,
+    "duration": 3.2,
+    "text": "two are good and you should have them on"
+  },
+  {
+    "start": 144.32,
+    "duration": 3.12,
+    "text": "your page, but ultimately everybody buys"
+  },
+  {
+    "start": 146.0,
+    "duration": 3.28,
+    "text": "for an outcome. Now, another really"
+  },
+  {
+    "start": 147.44,
+    "duration": 3.28,
+    "text": "important thing before the actual"
+  },
+  {
+    "start": 149.28,
+    "duration": 3.28,
+    "text": "template, and I know you're thinking,"
+  },
+  {
+    "start": 150.72,
+    "duration": 3.52,
+    "text": "Mark, why are you talking about traffic"
+  },
+  {
+    "start": 152.56,
+    "duration": 3.04,
+    "text": "on a video that's about landing pages?"
+  },
+  {
+    "start": 154.24,
+    "duration": 3.28,
+    "text": "Give me the goddamn template. The truth"
+  },
+  {
+    "start": 155.6,
+    "duration": 4.24,
+    "text": "is, if you don't understand the full"
+  },
+  {
+    "start": 157.52,
+    "duration": 3.52,
+    "text": "comprehensive view from the ads, the"
+  },
+  {
+    "start": 159.84,
+    "duration": 2.88,
+    "text": "quality of the traffic that you're"
+  },
+  {
+    "start": 161.04,
+    "duration": 3.68,
+    "text": "driving from which platforms onto your"
+  },
+  {
+    "start": 162.72,
+    "duration": 3.28,
+    "text": "funnel architecture, then you're always"
+  },
+  {
+    "start": 164.72,
+    "duration": 2.56,
+    "text": "going to be capped in your conversion"
+  },
+  {
+    "start": 166.0,
+    "duration": 2.8,
+    "text": "rate. You're going to try to solve the"
+  },
+  {
+    "start": 167.28,
+    "duration": 2.88,
+    "text": "wrong problem. Maybe the problem isn't"
+  },
+  {
+    "start": 168.8,
+    "duration": 2.72,
+    "text": "actually your land yourself. It actually"
+  },
+  {
+    "start": 170.16,
+    "duration": 2.88,
+    "text": "is something with your traffic. But the"
+  },
+  {
+    "start": 171.52,
+    "duration": 4.08,
+    "text": "reason that I say this is so important"
+  },
+  {
+    "start": 173.04,
+    "duration": 4.0,
+    "text": "to know is because obviously the"
+  },
+  {
+    "start": 175.6,
+    "duration": 3.44,
+    "text": "temperature of your traffic, which is"
+  },
+  {
+    "start": 177.04,
+    "duration": 3.52,
+    "text": "basically how many touch points have you"
+  },
+  {
+    "start": 179.04,
+    "duration": 3.04,
+    "text": "already had with your potential"
+  },
+  {
+    "start": 180.56,
+    "duration": 2.72,
+    "text": "customers before they buy, is going to"
+  },
+  {
+    "start": 182.08,
+    "duration": 3.12,
+    "text": "affect where you should send them. And"
+  },
+  {
+    "start": 183.28,
+    "duration": 3.92,
+    "text": "what I mean by that is typically you can"
+  },
+  {
+    "start": 185.2,
+    "duration": 3.36,
+    "text": "think of three main types of traffic,"
+  },
+  {
+    "start": 187.2,
+    "duration": 2.96,
+    "text": "right? You have top of funnel, you have"
+  },
+  {
+    "start": 188.56,
+    "duration": 2.96,
+    "text": "middle of funnel, and you have bottom of"
+  },
+  {
+    "start": 190.16,
+    "duration": 3.28,
+    "text": "funnel. If you are running an"
+  },
+  {
+    "start": 191.52,
+    "duration": 3.6,
+    "text": "advertorial funnel, let's say, and you"
+  },
+  {
+    "start": 193.44,
+    "duration": 3.36,
+    "text": "have some bottom off ofunnel creatives,"
+  },
+  {
+    "start": 195.12,
+    "duration": 4.56,
+    "text": "are you going to send them through this"
+  },
+  {
+    "start": 196.8,
+    "duration": 4.24,
+    "text": "long multi-step [ __ ] funnel where"
+  },
+  {
+    "start": 199.68,
+    "duration": 2.88,
+    "text": "they have to click through four separate"
+  },
+  {
+    "start": 201.04,
+    "duration": 3.04,
+    "text": "pages before they can even buy your"
+  },
+  {
+    "start": 202.56,
+    "duration": 2.88,
+    "text": "product. They've already had so many"
+  },
+  {
+    "start": 204.08,
+    "duration": 2.72,
+    "text": "impressions with your brand. They've"
+  },
+  {
+    "start": 205.44,
+    "duration": 2.8,
+    "text": "clicked through your advtorial before"
+  },
+  {
+    "start": 206.8,
+    "duration": 3.28,
+    "text": "and you're going to lose out on a lot of"
+  },
+  {
+    "start": 208.24,
+    "duration": 3.76,
+    "text": "sales from people that are already ready"
+  },
+  {
+    "start": 210.08,
+    "duration": 3.92,
+    "text": "to buy. So if you're not properly"
+  },
+  {
+    "start": 212.0,
+    "duration": 3.44,
+    "text": "matching the temperature with the type"
+  },
+  {
+    "start": 214.0,
+    "duration": 3.68,
+    "text": "of landing page that you're running to,"
+  },
+  {
+    "start": 215.44,
+    "duration": 4.0,
+    "text": "then you're just wasting ad spend. The"
+  },
+  {
+    "start": 217.68,
+    "duration": 3.92,
+    "text": "other thing to keep in mind is traffic"
+  },
+  {
+    "start": 219.44,
+    "duration": 4.4,
+    "text": "quality driven by the types of ads that"
+  },
+  {
+    "start": 221.6,
+    "duration": 6.56,
+    "text": "you run. So I remember this was mostly"
+  },
+  {
+    "start": 223.84,
+    "duration": 5.84,
+    "text": "in 2024 2025 there was a format of ad"
+  },
+  {
+    "start": 228.16,
+    "duration": 3.04,
+    "text": "that was doing really really well and"
+  },
+  {
+    "start": 229.68,
+    "duration": 4.08,
+    "text": "honestly it still can do really well"
+  },
+  {
+    "start": 231.2,
+    "duration": 5.2,
+    "text": "which is a you know a long form VSSL."
+  },
+  {
+    "start": 233.76,
+    "duration": 4.64,
+    "text": "Think of an infeed ad that is roughly 8"
+  },
+  {
+    "start": 236.4,
+    "duration": 3.76,
+    "text": "to 12 minutes long. I know it's long,"
+  },
+  {
+    "start": 238.4,
+    "duration": 3.04,
+    "text": "but it was working at the time and I was"
+  },
+  {
+    "start": 240.16,
+    "duration": 3.44,
+    "text": "running a lot of them. And so with long"
+  },
+  {
+    "start": 241.44,
+    "duration": 3.68,
+    "text": "form VSSLs, once again, this is all a"
+  },
+  {
+    "start": 243.6,
+    "duration": 3.44,
+    "text": "question of consumption. How much"
+  },
+  {
+    "start": 245.12,
+    "duration": 3.52,
+    "text": "consumption have people already had with"
+  },
+  {
+    "start": 247.04,
+    "duration": 3.12,
+    "text": "your content, your ads, your brand, your"
+  },
+  {
+    "start": 248.64,
+    "duration": 2.72,
+    "text": "landers? That's going to determine where"
+  },
+  {
+    "start": 250.16,
+    "duration": 2.8,
+    "text": "you should be sending the traffic to."
+  },
+  {
+    "start": 251.36,
+    "duration": 3.68,
+    "text": "Now, the reason I made this video about"
+  },
+  {
+    "start": 252.96,
+    "duration": 3.84,
+    "text": "sales pages specifically is because"
+  },
+  {
+    "start": 255.04,
+    "duration": 3.44,
+    "text": "every single funnel, for the most part,"
+  },
+  {
+    "start": 256.8,
+    "duration": 3.04,
+    "text": "with very few exceptions, has a sales"
+  },
+  {
+    "start": 258.48,
+    "duration": 2.8,
+    "text": "page. If you're running an aviatorial"
+  },
+  {
+    "start": 259.84,
+    "duration": 3.12,
+    "text": "funnel, it's typically the advvertorial"
+  },
+  {
+    "start": 261.28,
+    "duration": 3.36,
+    "text": "to the sales page or the advvertorial to"
+  },
+  {
+    "start": 262.96,
+    "duration": 3.28,
+    "text": "the PDP. or if you're running a"
+  },
+  {
+    "start": 264.64,
+    "duration": 3.52,
+    "text": "quizunnel, it's typically, you know, the"
+  },
+  {
+    "start": 266.24,
+    "duration": 3.52,
+    "text": "quiz to a sales page, maybe with the"
+  },
+  {
+    "start": 268.16,
+    "duration": 3.6,
+    "text": "offer or checkout at the bottom. So,"
+  },
+  {
+    "start": 269.76,
+    "duration": 3.84,
+    "text": "this applies universally. That's why I'm"
+  },
+  {
+    "start": 271.76,
+    "duration": 4.0,
+    "text": "not making a video specifically about"
+  },
+  {
+    "start": 273.6,
+    "duration": 4.32,
+    "text": "advertorials, for example. This is one"
+  },
+  {
+    "start": 275.76,
+    "duration": 4.08,
+    "text": "of the most important pages in your"
+  },
+  {
+    "start": 277.92,
+    "duration": 4.48,
+    "text": "entire funnel. So, back to this law of"
+  },
+  {
+    "start": 279.84,
+    "duration": 4.32,
+    "text": "consumption. You need to be aware of the"
+  },
+  {
+    "start": 282.4,
+    "duration": 3.44,
+    "text": "types of ads and how much consumption"
+  },
+  {
+    "start": 284.16,
+    "duration": 3.04,
+    "text": "they're getting and where you should be"
+  },
+  {
+    "start": 285.84,
+    "duration": 2.72,
+    "text": "sending them. Once again, if you're"
+  },
+  {
+    "start": 287.2,
+    "duration": 2.88,
+    "text": "running, for example, a format that's"
+  },
+  {
+    "start": 288.56,
+    "duration": 2.88,
+    "text": "really popular right now, say you're"
+  },
+  {
+    "start": 290.08,
+    "duration": 3.92,
+    "text": "running something like, you know, native"
+  },
+  {
+    "start": 291.44,
+    "duration": 5.2,
+    "text": "statics, which is image ads with long"
+  },
+  {
+    "start": 294.0,
+    "duration": 4.24,
+    "text": "form ad copy, this is a very indirect"
+  },
+  {
+    "start": 296.64,
+    "duration": 4.72,
+    "text": "type of ad. So, if you're running like"
+  },
+  {
+    "start": 298.24,
+    "duration": 5.76,
+    "text": "UGC or some offerheavy statics, those"
+  },
+  {
+    "start": 301.36,
+    "duration": 4.24,
+    "text": "are going to be pretty far on the direct"
+  },
+  {
+    "start": 304.0,
+    "duration": 3.44,
+    "text": "side of the spectrum. And on this other"
+  },
+  {
+    "start": 305.6,
+    "duration": 3.84,
+    "text": "side, you have indirect. Native statics"
+  },
+  {
+    "start": 307.44,
+    "duration": 3.84,
+    "text": "are basically as indirect as you could"
+  },
+  {
+    "start": 309.44,
+    "duration": 3.36,
+    "text": "possibly get. Therefore, that's why it's"
+  },
+  {
+    "start": 311.28,
+    "duration": 2.96,
+    "text": "so difficult for you to convert them"
+  },
+  {
+    "start": 312.8,
+    "duration": 2.88,
+    "text": "when you only send them directly to a"
+  },
+  {
+    "start": 314.24,
+    "duration": 3.84,
+    "text": "sales page instead of having like an"
+  },
+  {
+    "start": 315.68,
+    "duration": 4.8,
+    "text": "advvertorial before or a listical before"
+  },
+  {
+    "start": 318.08,
+    "duration": 4.16,
+    "text": "or a quiz before. All these things"
+  },
+  {
+    "start": 320.48,
+    "duration": 3.12,
+    "text": "matter in context with one another. And"
+  },
+  {
+    "start": 322.24,
+    "duration": 2.4,
+    "text": "if you don't understand them, then"
+  },
+  {
+    "start": 323.6,
+    "duration": 2.4,
+    "text": "you're going to end up thinking that you"
+  },
+  {
+    "start": 324.64,
+    "duration": 3.2,
+    "text": "have a landing page problem when in"
+  },
+  {
+    "start": 326.0,
+    "duration": 3.92,
+    "text": "reality, you're actually getting a"
+  },
+  {
+    "start": 327.84,
+    "duration": 3.28,
+    "text": "discount the more indirect that you are."
+  },
+  {
+    "start": 329.92,
+    "duration": 2.96,
+    "text": "Typically, if you're running something"
+  },
+  {
+    "start": 331.12,
+    "duration": 3.36,
+    "text": "like native statics, you should have"
+  },
+  {
+    "start": 332.88,
+    "duration": 3.6,
+    "text": "lower CPCs. you should have"
+  },
+  {
+    "start": 334.48,
+    "duration": 3.84,
+    "text": "substantially lower CPCs and very"
+  },
+  {
+    "start": 336.48,
+    "duration": 2.8,
+    "text": "elevated CTRs, which means naturally"
+  },
+  {
+    "start": 338.32,
+    "duration": 2.32,
+    "text": "you're probably going to have a little"
+  },
+  {
+    "start": 339.28,
+    "duration": 3.2,
+    "text": "bit lower of a conversion rate, but"
+  },
+  {
+    "start": 340.64,
+    "duration": 3.44,
+    "text": "that's okay because you're getting a"
+  },
+  {
+    "start": 342.48,
+    "duration": 3.92,
+    "text": "discount on that traffic. And as long as"
+  },
+  {
+    "start": 344.08,
+    "duration": 3.92,
+    "text": "your funnel matches how indirect your"
+  },
+  {
+    "start": 346.4,
+    "duration": 3.04,
+    "text": "ads are, that's how you make really"
+  },
+  {
+    "start": 348.0,
+    "duration": 2.8,
+    "text": "profitable funnels. So, now that we got"
+  },
+  {
+    "start": 349.44,
+    "duration": 2.96,
+    "text": "that out of the way, let's actually move"
+  },
+  {
+    "start": 350.8,
+    "duration": 3.04,
+    "text": "on to the template. And when you're"
+  },
+  {
+    "start": 352.4,
+    "duration": 3.44,
+    "text": "running traffic to a lander, doesn't"
+  },
+  {
+    "start": 353.84,
+    "duration": 4.16,
+    "text": "matter what lander it is, it's a very"
+  },
+  {
+    "start": 355.84,
+    "duration": 4.88,
+    "text": "simple combination of a few things. You"
+  },
+  {
+    "start": 358.0,
+    "duration": 4.56,
+    "text": "have text on the page. You have your"
+  },
+  {
+    "start": 360.72,
+    "duration": 3.92,
+    "text": "media on the page, which would be your"
+  },
+  {
+    "start": 362.56,
+    "duration": 3.6,
+    "text": "images, your videos, your gifts. And"
+  },
+  {
+    "start": 364.64,
+    "duration": 3.76,
+    "text": "when you break it down to its component"
+  },
+  {
+    "start": 366.16,
+    "duration": 4.48,
+    "text": "pieces, that's actually it. That's all a"
+  },
+  {
+    "start": 368.4,
+    "duration": 4.64,
+    "text": "landing page is. It's just a individual"
+  },
+  {
+    "start": 370.64,
+    "duration": 4.56,
+    "text": "web page with text and media arranged in"
+  },
+  {
+    "start": 373.04,
+    "duration": 4.08,
+    "text": "a very specific way. The most important"
+  },
+  {
+    "start": 375.2,
+    "duration": 3.28,
+    "text": "thing, whether it's the copy that is on"
+  },
+  {
+    "start": 377.12,
+    "duration": 2.88,
+    "text": "your page, which is the text, or the"
+  },
+  {
+    "start": 378.48,
+    "duration": 4.8,
+    "text": "images and the video, is that they're"
+  },
+  {
+    "start": 380.0,
+    "duration": 5.2,
+    "text": "all in perfect alignment with your"
+  },
+  {
+    "start": 383.28,
+    "duration": 3.44,
+    "text": "research. If you study some of the"
+  },
+  {
+    "start": 385.2,
+    "duration": 3.68,
+    "text": "greatest direct response marketers of"
+  },
+  {
+    "start": 386.72,
+    "duration": 4.64,
+    "text": "all time, especially the copywriters,"
+  },
+  {
+    "start": 388.88,
+    "duration": 4.16,
+    "text": "you will see that they spent the far far"
+  },
+  {
+    "start": 391.36,
+    "duration": 3.6,
+    "text": "majority of their time building a new"
+  },
+  {
+    "start": 393.04,
+    "duration": 3.68,
+    "text": "promotion on the research phase. And now"
+  },
+  {
+    "start": 394.96,
+    "duration": 4.4,
+    "text": "this is actually pretty freaking easy"
+  },
+  {
+    "start": 396.72,
+    "duration": 4.56,
+    "text": "with AI, especially every LLM has a"
+  },
+  {
+    "start": 399.36,
+    "duration": 3.52,
+    "text": "built-in deep research tool. And as long"
+  },
+  {
+    "start": 401.28,
+    "duration": 3.92,
+    "text": "as you have really good prompting, then"
+  },
+  {
+    "start": 402.88,
+    "duration": 4.72,
+    "text": "you can get incredibly good marketing"
+  },
+  {
+    "start": 405.2,
+    "duration": 4.0,
+    "text": "driven research for your image creation,"
+  },
+  {
+    "start": 407.6,
+    "duration": 3.68,
+    "text": "your video creation, and your actual"
+  },
+  {
+    "start": 409.2,
+    "duration": 3.76,
+    "text": "copy. And for those that know, I have a"
+  },
+  {
+    "start": 411.28,
+    "duration": 3.52,
+    "text": "document that has helped God knows how"
+  },
+  {
+    "start": 412.96,
+    "duration": 3.36,
+    "text": "many people, you know, be able to write"
+  },
+  {
+    "start": 414.8,
+    "duration": 2.88,
+    "text": "good copy and create good images because"
+  },
+  {
+    "start": 416.32,
+    "duration": 3.68,
+    "text": "they just have good research. And that"
+  },
+  {
+    "start": 417.68,
+    "duration": 3.76,
+    "text": "is the foundational docs SOP. If you go"
+  },
+  {
+    "start": 420.0,
+    "duration": 3.44,
+    "text": "through this process, you'll come out"
+  },
+  {
+    "start": 421.44,
+    "duration": 4.32,
+    "text": "with four documents that is everything"
+  },
+  {
+    "start": 423.44,
+    "duration": 4.56,
+    "text": "that you need to know. Every individual,"
+  },
+  {
+    "start": 425.76,
+    "duration": 4.88,
+    "text": "I like to call copy ingredient that you"
+  },
+  {
+    "start": 428.0,
+    "duration": 4.48,
+    "text": "need to create an incredible promotion,"
+  },
+  {
+    "start": 430.64,
+    "duration": 2.96,
+    "text": "an incredible landing page, ad,"
+  },
+  {
+    "start": 432.48,
+    "duration": 2.64,
+    "text": "whatever. You can use this with"
+  },
+  {
+    "start": 433.6,
+    "duration": 3.28,
+    "text": "everything. I always leave this for free"
+  },
+  {
+    "start": 435.12,
+    "duration": 3.44,
+    "text": "linked in the description of this video"
+  },
+  {
+    "start": 436.88,
+    "duration": 3.28,
+    "text": "if you want to use it. Plus, as a little"
+  },
+  {
+    "start": 438.56,
+    "duration": 4.16,
+    "text": "bonus, I've actually noticed recently"
+  },
+  {
+    "start": 440.16,
+    "duration": 3.92,
+    "text": "Perplexity is incredible with their deep"
+  },
+  {
+    "start": 442.72,
+    "duration": 3.04,
+    "text": "research functionality, and that's"
+  },
+  {
+    "start": 444.08,
+    "duration": 4.0,
+    "text": "almost exclusively what I use right now."
+  },
+  {
+    "start": 445.76,
+    "duration": 4.4,
+    "text": "The most impactful section of your"
+  },
+  {
+    "start": 448.08,
+    "duration": 3.68,
+    "text": "landing page and of this template is"
+  },
+  {
+    "start": 450.16,
+    "duration": 3.36,
+    "text": "what we call the above the fold section,"
+  },
+  {
+    "start": 451.76,
+    "duration": 3.92,
+    "text": "and that is everything on desktop"
+  },
+  {
+    "start": 453.52,
+    "duration": 4.32,
+    "text": "specifically, that is not needing to"
+  },
+  {
+    "start": 455.68,
+    "duration": 4.48,
+    "text": "scroll to see more content. So, whatever"
+  },
+  {
+    "start": 457.84,
+    "duration": 3.92,
+    "text": "you load on on your page load, that is"
+  },
+  {
+    "start": 460.16,
+    "duration": 2.88,
+    "text": "the above the fold section. And it's the"
+  },
+  {
+    "start": 461.76,
+    "duration": 2.72,
+    "text": "exact same thing on mobile, except"
+  },
+  {
+    "start": 463.04,
+    "duration": 3.36,
+    "text": "there's going to be substantially less"
+  },
+  {
+    "start": 464.48,
+    "duration": 3.36,
+    "text": "content because you're on a smaller"
+  },
+  {
+    "start": 466.4,
+    "duration": 2.8,
+    "text": "screen naturally. So, what I'm going to"
+  },
+  {
+    "start": 467.84,
+    "duration": 3.84,
+    "text": "do is I'm going to pull up an example"
+  },
+  {
+    "start": 469.2,
+    "duration": 5.12,
+    "text": "here of a lander that has a really,"
+  },
+  {
+    "start": 471.68,
+    "duration": 4.16,
+    "text": "really good structure and pretty decent"
+  },
+  {
+    "start": 474.32,
+    "duration": 2.88,
+    "text": "copy from what I've seen. And it's a"
+  },
+  {
+    "start": 475.84,
+    "duration": 3.2,
+    "text": "really, really good one to break down"
+  },
+  {
+    "start": 477.2,
+    "duration": 4.4,
+    "text": "because they do a lot of things right"
+  },
+  {
+    "start": 479.04,
+    "duration": 4.8,
+    "text": "now. Final caveat here. The best way to"
+  },
+  {
+    "start": 481.6,
+    "duration": 3.76,
+    "text": "view CRO and building landing pages, it"
+  },
+  {
+    "start": 483.84,
+    "duration": 3.84,
+    "text": "should almost always be done in mobile."
+  },
+  {
+    "start": 485.36,
+    "duration": 3.68,
+    "text": "Like 95% of everything that you do"
+  },
+  {
+    "start": 487.68,
+    "duration": 2.96,
+    "text": "regarding conversion rate stuff should"
+  },
+  {
+    "start": 489.04,
+    "duration": 3.44,
+    "text": "be done in mobile because that's where"
+  },
+  {
+    "start": 490.64,
+    "duration": 3.92,
+    "text": "95% of your traffic is going to be"
+  },
+  {
+    "start": 492.48,
+    "duration": 4.56,
+    "text": "coming from. But truthfully, this looks"
+  },
+  {
+    "start": 494.56,
+    "duration": 4.96,
+    "text": "kind of like [ __ ] on my computer sharing"
+  },
+  {
+    "start": 497.04,
+    "duration": 4.48,
+    "text": "screen. So, just for simplicity and"
+  },
+  {
+    "start": 499.52,
+    "duration": 3.84,
+    "text": "clarity purposes for you guys, I'm going"
+  },
+  {
+    "start": 501.52,
+    "duration": 3.52,
+    "text": "to be reviewing in desktop mode. But"
+  },
+  {
+    "start": 503.36,
+    "duration": 3.28,
+    "text": "just for this example, all of the above"
+  },
+  {
+    "start": 505.04,
+    "duration": 3.28,
+    "text": "the fold section would be here. We have"
+  },
+  {
+    "start": 506.64,
+    "duration": 3.2,
+    "text": "the brand name, we have a banner, we"
+  },
+  {
+    "start": 508.32,
+    "duration": 2.64,
+    "text": "have an image carousel, we have a little"
+  },
+  {
+    "start": 509.84,
+    "duration": 2.56,
+    "text": "bit of social proof, and we have a"
+  },
+  {
+    "start": 510.96,
+    "duration": 2.88,
+    "text": "benefit statement. That is all that is"
+  },
+  {
+    "start": 512.4,
+    "duration": 3.12,
+    "text": "above the fold for these guys. So, let's"
+  },
+  {
+    "start": 513.84,
+    "duration": 3.52,
+    "text": "break down what a good above the fold"
+  },
+  {
+    "start": 515.52,
+    "duration": 3.84,
+    "text": "section looks. The first is going to be"
+  },
+  {
+    "start": 517.36,
+    "duration": 4.48,
+    "text": "the photo carousel. And I see a lot of"
+  },
+  {
+    "start": 519.36,
+    "duration": 4.32,
+    "text": "guys that are super duper random and"
+  },
+  {
+    "start": 521.84,
+    "duration": 3.76,
+    "text": "arbitrary with the photos that they're"
+  },
+  {
+    "start": 523.68,
+    "duration": 4.0,
+    "text": "using in their carousel. Understand"
+  },
+  {
+    "start": 525.6,
+    "duration": 4.08,
+    "text": "this. Every single element on your"
+  },
+  {
+    "start": 527.68,
+    "duration": 3.44,
+    "text": "landing page should have a purpose. If I"
+  },
+  {
+    "start": 529.68,
+    "duration": 2.8,
+    "text": "ask you and I point at something on your"
+  },
+  {
+    "start": 531.12,
+    "duration": 3.44,
+    "text": "lander and I say, \"What's the purpose of"
+  },
+  {
+    "start": 532.48,
+    "duration": 3.6,
+    "text": "this?\" and you can't tell me, then you"
+  },
+  {
+    "start": 534.56,
+    "duration": 3.2,
+    "text": "need to improve your landing page"
+  },
+  {
+    "start": 536.08,
+    "duration": 2.8,
+    "text": "skills. Everything should be purposeful."
+  },
+  {
+    "start": 537.76,
+    "duration": 2.48,
+    "text": "I see a lot of guys that are using"
+  },
+  {
+    "start": 538.88,
+    "duration": 3.2,
+    "text": "images on their photo carousel"
+  },
+  {
+    "start": 540.24,
+    "duration": 3.44,
+    "text": "especially that just they think it looks"
+  },
+  {
+    "start": 542.08,
+    "duration": 3.52,
+    "text": "good. That's not the purpose. The first"
+  },
+  {
+    "start": 543.68,
+    "duration": 3.84,
+    "text": "thing people do when they land on a page"
+  },
+  {
+    "start": 545.6,
+    "duration": 3.44,
+    "text": "like this, especially on mobile, is they"
+  },
+  {
+    "start": 547.52,
+    "duration": 3.12,
+    "text": "scroll through the images. So, if you're"
+  },
+  {
+    "start": 549.04,
+    "duration": 2.8,
+    "text": "not being intentional with your images,"
+  },
+  {
+    "start": 550.64,
+    "duration": 2.88,
+    "text": "especially with the above the fold"
+  },
+  {
+    "start": 551.84,
+    "duration": 3.2,
+    "text": "section, you're losing out on a lot of"
+  },
+  {
+    "start": 553.52,
+    "duration": 3.68,
+    "text": "money. And so, what I've done is come up"
+  },
+  {
+    "start": 555.04,
+    "duration": 4.0,
+    "text": "with a a simple cadence that you can use"
+  },
+  {
+    "start": 557.2,
+    "duration": 3.76,
+    "text": "and feel free to steal. This is not a"
+  },
+  {
+    "start": 559.04,
+    "duration": 4.24,
+    "text": "hard rule by any means, but the first"
+  },
+  {
+    "start": 560.96,
+    "duration": 4.4,
+    "text": "image typically should just be a very"
+  },
+  {
+    "start": 563.28,
+    "duration": 3.6,
+    "text": "standard hero image of the product."
+  },
+  {
+    "start": 565.36,
+    "duration": 3.28,
+    "text": "Doesn't need to be in use. Just needs to"
+  },
+  {
+    "start": 566.88,
+    "duration": 3.52,
+    "text": "be clear what the product is, what it"
+  },
+  {
+    "start": 568.64,
+    "duration": 3.52,
+    "text": "looks like, and generally what it does."
+  },
+  {
+    "start": 570.4,
+    "duration": 3.36,
+    "text": "Now, as soon as they swipe, and what"
+  },
+  {
+    "start": 572.16,
+    "duration": 3.44,
+    "text": "this brand does really well, you want to"
+  },
+  {
+    "start": 573.76,
+    "duration": 3.84,
+    "text": "show a transformation. If it's something"
+  },
+  {
+    "start": 575.6,
+    "duration": 4.0,
+    "text": "cosmetic, like in this case, you can do"
+  },
+  {
+    "start": 577.6,
+    "duration": 3.52,
+    "text": "literally just a before and after. And"
+  },
+  {
+    "start": 579.6,
+    "duration": 2.8,
+    "text": "before and afters, while they can"
+  },
+  {
+    "start": 581.12,
+    "duration": 3.36,
+    "text": "sometimes be like a little bit"
+  },
+  {
+    "start": 582.4,
+    "duration": 3.68,
+    "text": "aggressive, nothing [ __ ] sells like a"
+  },
+  {
+    "start": 584.48,
+    "duration": 4.48,
+    "text": "before and after. Like, it is one of the"
+  },
+  {
+    "start": 586.08,
+    "duration": 4.88,
+    "text": "most proven image formats of all time."
+  },
+  {
+    "start": 588.96,
+    "duration": 3.52,
+    "text": "And this brand even did two before and"
+  },
+  {
+    "start": 590.96,
+    "duration": 3.2,
+    "text": "afters in a row kind of different"
+  },
+  {
+    "start": 592.48,
+    "duration": 3.52,
+    "text": "formats. This is like a top bottom"
+  },
+  {
+    "start": 594.16,
+    "duration": 3.12,
+    "text": "before and after. And then we have a"
+  },
+  {
+    "start": 596.0,
+    "duration": 2.96,
+    "text": "left right. And you can see it's"
+  },
+  {
+    "start": 597.28,
+    "duration": 3.52,
+    "text": "attacking different pain points. This is"
+  },
+  {
+    "start": 598.96,
+    "duration": 3.36,
+    "text": "smoker's lines. And this one is, you"
+  },
+  {
+    "start": 600.8,
+    "duration": 3.44,
+    "text": "know, thinning lips. So, it's able to"
+  },
+  {
+    "start": 602.32,
+    "duration": 3.44,
+    "text": "hit multiple things but still show the"
+  },
+  {
+    "start": 604.24,
+    "duration": 2.88,
+    "text": "insane transformation associated with"
+  },
+  {
+    "start": 605.76,
+    "duration": 2.96,
+    "text": "that product. The next image I like to"
+  },
+  {
+    "start": 607.12,
+    "duration": 3.12,
+    "text": "use in a carousel is going to be"
+  },
+  {
+    "start": 608.72,
+    "duration": 3.28,
+    "text": "something that handles your number one"
+  },
+  {
+    "start": 610.24,
+    "duration": 3.84,
+    "text": "most frequent objection. If you're"
+  },
+  {
+    "start": 612.0,
+    "duration": 4.16,
+    "text": "marketing in any market that is above,"
+  },
+  {
+    "start": 614.08,
+    "duration": 3.68,
+    "text": "let's say stage four sophistication,"
+  },
+  {
+    "start": 616.16,
+    "duration": 3.28,
+    "text": "which if you don't know your levels of"
+  },
+  {
+    "start": 617.76,
+    "duration": 3.28,
+    "text": "sophistication, you definitely should."
+  },
+  {
+    "start": 619.44,
+    "duration": 3.84,
+    "text": "But just to give you a reminder, level"
+  },
+  {
+    "start": 621.04,
+    "duration": 4.4,
+    "text": "four sophistication is where there are"
+  },
+  {
+    "start": 623.28,
+    "duration": 4.4,
+    "text": "already so many competitors and so many"
+  },
+  {
+    "start": 625.44,
+    "duration": 3.76,
+    "text": "competitors have mechanisms already that"
+  },
+  {
+    "start": 627.68,
+    "duration": 3.52,
+    "text": "what you're really competing on is the"
+  },
+  {
+    "start": 629.2,
+    "duration": 3.92,
+    "text": "mechanism itself. So if you don't have"
+  },
+  {
+    "start": 631.2,
+    "duration": 4.08,
+    "text": "clear differentiation through your"
+  },
+  {
+    "start": 633.12,
+    "duration": 3.52,
+    "text": "mechanism of why your product is so much"
+  },
+  {
+    "start": 635.28,
+    "duration": 2.88,
+    "text": "better and you're not overcoming"
+  },
+  {
+    "start": 636.64,
+    "duration": 3.04,
+    "text": "objections actively, then your"
+  },
+  {
+    "start": 638.16,
+    "duration": 3.36,
+    "text": "competitors are just going to destroy"
+  },
+  {
+    "start": 639.68,
+    "duration": 4.72,
+    "text": "you. So that's where the far far"
+  },
+  {
+    "start": 641.52,
+    "duration": 5.12,
+    "text": "majority of markets are these days. Um"
+  },
+  {
+    "start": 644.4,
+    "duration": 3.84,
+    "text": "so having an objection handler really"
+  },
+  {
+    "start": 646.64,
+    "duration": 3.04,
+    "text": "really quickly front and center you're"
+  },
+  {
+    "start": 648.24,
+    "duration": 2.88,
+    "text": "able to pre-handle objections. You"
+  },
+  {
+    "start": 649.68,
+    "duration": 3.44,
+    "text": "handle the objection before it even"
+  },
+  {
+    "start": 651.12,
+    "duration": 3.6,
+    "text": "becomes conscious in their brain. So in"
+  },
+  {
+    "start": 653.12,
+    "duration": 3.84,
+    "text": "this case you know an objection"
+  },
+  {
+    "start": 654.72,
+    "duration": 3.28,
+    "text": "constantly with lip and cosmetic related"
+  },
+  {
+    "start": 656.96,
+    "duration": 2.48,
+    "text": "things is you have to be really"
+  },
+  {
+    "start": 658.0,
+    "duration": 2.88,
+    "text": "consistent with it for a really long"
+  },
+  {
+    "start": 659.44,
+    "duration": 3.44,
+    "text": "time before you actually see results. So"
+  },
+  {
+    "start": 660.88,
+    "duration": 3.92,
+    "text": "they overcome that objection by saying"
+  },
+  {
+    "start": 662.88,
+    "duration": 3.92,
+    "text": "you know real results you can see after"
+  },
+  {
+    "start": 664.8,
+    "duration": 3.84,
+    "text": "just one use. And then some simple,"
+  },
+  {
+    "start": 666.8,
+    "duration": 3.52,
+    "text": "very, very simple benefit little bullet"
+  },
+  {
+    "start": 668.64,
+    "duration": 3.12,
+    "text": "points here as well for all the various"
+  },
+  {
+    "start": 670.32,
+    "duration": 3.04,
+    "text": "things that it actually works for. If"
+  },
+  {
+    "start": 671.76,
+    "duration": 3.12,
+    "text": "you're selling anything cosmetic or"
+  },
+  {
+    "start": 673.36,
+    "duration": 2.88,
+    "text": "medical, this is really, really good."
+  },
+  {
+    "start": 674.88,
+    "duration": 2.48,
+    "text": "Everybody thinks their situation is"
+  },
+  {
+    "start": 676.24,
+    "duration": 2.72,
+    "text": "different. Everybody thinks they're"
+  },
+  {
+    "start": 677.36,
+    "duration": 3.44,
+    "text": "unique. They're [ __ ] not. You know,"
+  },
+  {
+    "start": 678.96,
+    "duration": 3.44,
+    "text": "does it work for me? My situation is"
+  },
+  {
+    "start": 680.8,
+    "duration": 4.72,
+    "text": "different. You want to list every"
+  },
+  {
+    "start": 682.4,
+    "duration": 5.12,
+    "text": "individual specific problem of every"
+  },
+  {
+    "start": 685.52,
+    "duration": 3.44,
+    "text": "avatar to overcome all of those"
+  },
+  {
+    "start": 687.52,
+    "duration": 2.96,
+    "text": "objections. Like, okay, this is good,"
+  },
+  {
+    "start": 688.96,
+    "duration": 2.8,
+    "text": "but does it work for smoker's lines?"
+  },
+  {
+    "start": 690.48,
+    "duration": 2.72,
+    "text": "Like, okay, it works for the lips, but"
+  },
+  {
+    "start": 691.76,
+    "duration": 3.52,
+    "text": "does it work for my wrinkles? Okay, it"
+  },
+  {
+    "start": 693.2,
+    "duration": 3.84,
+    "text": "works for lips. that work for dark spots"
+  },
+  {
+    "start": 695.28,
+    "duration": 3.52,
+    "text": "on my face. They're hitting every single"
+  },
+  {
+    "start": 697.04,
+    "duration": 4.48,
+    "text": "one and doing a great job with it. Now,"
+  },
+  {
+    "start": 698.8,
+    "duration": 4.4,
+    "text": "these next three are relatively"
+  },
+  {
+    "start": 701.52,
+    "duration": 3.76,
+    "text": "interchangeable. If you want to have a"
+  },
+  {
+    "start": 703.2,
+    "duration": 4.08,
+    "text": "competitor comparison instead, you can."
+  },
+  {
+    "start": 705.28,
+    "duration": 3.92,
+    "text": "Ultimately, I don't look too much into"
+  },
+  {
+    "start": 707.28,
+    "duration": 3.76,
+    "text": "these, but they should all still serve a"
+  },
+  {
+    "start": 709.2,
+    "duration": 3.36,
+    "text": "purpose. It's very market specific. For"
+  },
+  {
+    "start": 711.04,
+    "duration": 2.88,
+    "text": "this particular brand, for example, you"
+  },
+  {
+    "start": 712.56,
+    "duration": 3.2,
+    "text": "can see that, you know, with anything"
+  },
+  {
+    "start": 713.92,
+    "duration": 3.28,
+    "text": "cosmetic or medical, having research"
+  },
+  {
+    "start": 715.76,
+    "duration": 2.8,
+    "text": "behind it is really, really important."
+  },
+  {
+    "start": 717.2,
+    "duration": 3.28,
+    "text": "Like if you're selling supplements for"
+  },
+  {
+    "start": 718.56,
+    "duration": 3.91,
+    "text": "example, showing the research behind"
+  },
+  {
+    "start": 720.48,
+    "duration": 3.2,
+    "text": "each individual ingredient and why this"
+  },
+  {
+    "start": 722.47,
+    "duration": 2.65,
+    "text": "[clears throat] specific formula is"
+  },
+  {
+    "start": 723.68,
+    "duration": 3.92,
+    "text": "better than any other formula on the"
+  },
+  {
+    "start": 725.12,
+    "duration": 4.56,
+    "text": "market is a great great way to push the"
+  },
+  {
+    "start": 727.6,
+    "duration": 3.76,
+    "text": "sale further. And here they have a nice"
+  },
+  {
+    "start": 729.68,
+    "duration": 3.28,
+    "text": "risk reversal. So you can see on mine"
+  },
+  {
+    "start": 731.36,
+    "duration": 3.36,
+    "text": "the risk reversal is another great thing"
+  },
+  {
+    "start": 732.96,
+    "duration": 3.44,
+    "text": "to have as an image. And then lastly is"
+  },
+  {
+    "start": 734.72,
+    "duration": 3.52,
+    "text": "just the social proof, the testimonial."
+  },
+  {
+    "start": 736.4,
+    "duration": 3.28,
+    "text": "It can be a collage like this one. It"
+  },
+  {
+    "start": 738.24,
+    "duration": 3.04,
+    "text": "can be very specific. You can go back to"
+  },
+  {
+    "start": 739.68,
+    "duration": 3.04,
+    "text": "the before and afters, but just showing"
+  },
+  {
+    "start": 741.28,
+    "duration": 2.96,
+    "text": "the proof. There's no such thing as too"
+  },
+  {
+    "start": 742.72,
+    "duration": 2.88,
+    "text": "much proof ever. Now let's move on to"
+  },
+  {
+    "start": 744.24,
+    "duration": 2.88,
+    "text": "the right hand side of the screen here,"
+  },
+  {
+    "start": 745.6,
+    "duration": 3.84,
+    "text": "which is going to be the headline. the"
+  },
+  {
+    "start": 747.12,
+    "duration": 4.24,
+    "text": "sub headline and all of these benefit"
+  },
+  {
+    "start": 749.44,
+    "duration": 4.0,
+    "text": "driven bullet points here. Now, since"
+  },
+  {
+    "start": 751.36,
+    "duration": 3.44,
+    "text": "this is above the fold, especially on"
+  },
+  {
+    "start": 753.44,
+    "duration": 2.96,
+    "text": "mobile, the only things that are above"
+  },
+  {
+    "start": 754.8,
+    "duration": 3.44,
+    "text": "the fold is typically the headline, sub"
+  },
+  {
+    "start": 756.4,
+    "duration": 3.6,
+    "text": "headline, the image, and maybe a few"
+  },
+  {
+    "start": 758.24,
+    "duration": 4.64,
+    "text": "bullet points. That's it. That's where"
+  },
+  {
+    "start": 760.0,
+    "duration": 4.88,
+    "text": "you should be focusing 90% of your"
+  },
+  {
+    "start": 762.88,
+    "duration": 3.76,
+    "text": "energy because that's really where the"
+  },
+  {
+    "start": 764.88,
+    "duration": 4.24,
+    "text": "sale is made or broken because the"
+  },
+  {
+    "start": 766.64,
+    "duration": 4.4,
+    "text": "number one goal of CRO on the above the"
+  },
+  {
+    "start": 769.12,
+    "duration": 4.0,
+    "text": "fold section is what? It's to get people"
+  },
+  {
+    "start": 771.04,
+    "duration": 3.68,
+    "text": "to scroll. It's to get people to keep"
+  },
+  {
+    "start": 773.12,
+    "duration": 3.2,
+    "text": "consuming. The more consumption that you"
+  },
+  {
+    "start": 774.72,
+    "duration": 3.36,
+    "text": "get, the closer you're getting people to"
+  },
+  {
+    "start": 776.32,
+    "duration": 3.12,
+    "text": "buying. That's also why I'm spending the"
+  },
+  {
+    "start": 778.08,
+    "duration": 2.88,
+    "text": "most amount of time on this section of"
+  },
+  {
+    "start": 779.44,
+    "duration": 3.12,
+    "text": "the page so that I can get it through"
+  },
+  {
+    "start": 780.96,
+    "duration": 3.04,
+    "text": "your thick [ __ ] skull. So, I'm not"
+  },
+  {
+    "start": 782.56,
+    "duration": 3.36,
+    "text": "going to do a whole, you know,"
+  },
+  {
+    "start": 784.0,
+    "duration": 4.08,
+    "text": "copywriting lesson here, but I do want"
+  },
+  {
+    "start": 785.92,
+    "duration": 3.44,
+    "text": "to break down what this brand did"
+  },
+  {
+    "start": 788.08,
+    "duration": 3.44,
+    "text": "really, really well. Because looking at"
+  },
+  {
+    "start": 789.36,
+    "duration": 4.24,
+    "text": "this copy, is it absolutely mindfucking"
+  },
+  {
+    "start": 791.52,
+    "duration": 4.16,
+    "text": "insanely good copy? No. But I'll tell"
+  },
+  {
+    "start": 793.6,
+    "duration": 3.84,
+    "text": "you what it is. It's clear. It's"
+  },
+  {
+    "start": 795.68,
+    "duration": 4.0,
+    "text": "incredibly [ __ ] clear. One of my"
+  },
+  {
+    "start": 797.44,
+    "duration": 3.76,
+    "text": "copywriting mentors that taught me a lot"
+  },
+  {
+    "start": 799.68,
+    "duration": 3.92,
+    "text": "about writing highly converting copy"
+  },
+  {
+    "start": 801.2,
+    "duration": 4.48,
+    "text": "before AI was ever even a thing told me"
+  },
+  {
+    "start": 803.6,
+    "duration": 3.68,
+    "text": "that you should always try to be clear"
+  },
+  {
+    "start": 805.68,
+    "duration": 3.28,
+    "text": "and not clever. Your goal is not to"
+  },
+  {
+    "start": 807.28,
+    "duration": 3.36,
+    "text": "impress people with how clever your"
+  },
+  {
+    "start": 808.96,
+    "duration": 4.16,
+    "text": "[ __ ] copy is. The goal is to convert"
+  },
+  {
+    "start": 810.64,
+    "duration": 4.4,
+    "text": "and clarity converts. A confused mind"
+  },
+  {
+    "start": 813.12,
+    "duration": 4.48,
+    "text": "never buys. So, is this an aggressive"
+  },
+  {
+    "start": 815.04,
+    "duration": 4.48,
+    "text": "claim? [ __ ] yeah. But [laughter]"
+  },
+  {
+    "start": 817.6,
+    "duration": 3.36,
+    "text": "it is also incredibly clear. Let me show"
+  },
+  {
+    "start": 819.52,
+    "duration": 2.8,
+    "text": "you. What did I start this entire video"
+  },
+  {
+    "start": 820.96,
+    "duration": 3.52,
+    "text": "with? You want to sell based off"
+  },
+  {
+    "start": 822.32,
+    "duration": 3.68,
+    "text": "outcomes, not benefits, not features,"
+  },
+  {
+    "start": 824.48,
+    "duration": 3.44,
+    "text": "outcomes. What is the outcome that they"
+  },
+  {
+    "start": 826.0,
+    "duration": 4.48,
+    "text": "want? Well, let's see. They want fuller,"
+  },
+  {
+    "start": 827.92,
+    "duration": 4.0,
+    "text": "smoother lips. Boom. Outcome achieved."
+  },
+  {
+    "start": 830.48,
+    "duration": 3.36,
+    "text": "Biggest thing achieved right off the"
+  },
+  {
+    "start": 831.92,
+    "duration": 4.48,
+    "text": "bat. The next is a time frame. 5"
+  },
+  {
+    "start": 833.84,
+    "duration": 4.72,
+    "text": "minutes. Yes. Insane claim. I know. But"
+  },
+  {
+    "start": 836.4,
+    "duration": 4.48,
+    "text": "[ __ ] it still [ __ ] works a lot of"
+  },
+  {
+    "start": 838.56,
+    "duration": 3.84,
+    "text": "the times. And lastly, they have their"
+  },
+  {
+    "start": 840.88,
+    "duration": 2.8,
+    "text": "mechanism, right? The microl lift"
+  },
+  {
+    "start": 842.4,
+    "duration": 2.8,
+    "text": "system. I know that's technically I"
+  },
+  {
+    "start": 843.68,
+    "duration": 3.6,
+    "text": "think the name of the product and like"
+  },
+  {
+    "start": 845.2,
+    "duration": 3.84,
+    "text": "micro infusion is probably the real"
+  },
+  {
+    "start": 847.28,
+    "duration": 3.36,
+    "text": "mechanism here, but ultimately it"
+  },
+  {
+    "start": 849.04,
+    "duration": 4.8,
+    "text": "doesn't matter. The whole concept of"
+  },
+  {
+    "start": 850.64,
+    "duration": 5.28,
+    "text": "having a unique mechanism is why is it"
+  },
+  {
+    "start": 853.84,
+    "duration": 3.6,
+    "text": "that this product works and every other"
+  },
+  {
+    "start": 855.92,
+    "duration": 3.12,
+    "text": "thing that they've already tried totally"
+  },
+  {
+    "start": 857.44,
+    "duration": 3.6,
+    "text": "failed? Why does this product actually"
+  },
+  {
+    "start": 859.04,
+    "duration": 3.84,
+    "text": "address the root cause? That is the"
+  },
+  {
+    "start": 861.04,
+    "duration": 3.36,
+    "text": "epitome of unique mechanisms. So"
+  },
+  {
+    "start": 862.88,
+    "duration": 3.2,
+    "text": "technically that was achieved. If you"
+  },
+  {
+    "start": 864.4,
+    "duration": 3.76,
+    "text": "look at the formula of this particular"
+  },
+  {
+    "start": 866.08,
+    "duration": 4.72,
+    "text": "headline, it's literally outcome, time"
+  },
+  {
+    "start": 868.16,
+    "duration": 4.88,
+    "text": "frame, mechanism. That's it. And it's so"
+  },
+  {
+    "start": 870.8,
+    "duration": 4.16,
+    "text": "clear. It's using their exact language"
+  },
+  {
+    "start": 873.04,
+    "duration": 3.28,
+    "text": "and it has the differentiation to make"
+  },
+  {
+    "start": 874.96,
+    "duration": 2.64,
+    "text": "it different from anything else on the"
+  },
+  {
+    "start": 876.32,
+    "duration": 3.28,
+    "text": "market. And then they took it a step"
+  },
+  {
+    "start": 877.6,
+    "duration": 3.36,
+    "text": "further with this sub headline. Again,"
+  },
+  {
+    "start": 879.6,
+    "duration": 2.72,
+    "text": "whoever wrote this lander, they knew"
+  },
+  {
+    "start": 880.96,
+    "duration": 2.8,
+    "text": "their market. They knew they're in stage"
+  },
+  {
+    "start": 882.32,
+    "duration": 2.72,
+    "text": "four sophistication. They've already"
+  },
+  {
+    "start": 883.76,
+    "duration": 2.96,
+    "text": "seen all these claims. They've already"
+  },
+  {
+    "start": 885.04,
+    "duration": 3.12,
+    "text": "tried all these other alternative"
+  },
+  {
+    "start": 886.72,
+    "duration": 2.56,
+    "text": "solutions, and they acknowledge it."
+  },
+  {
+    "start": 888.16,
+    "duration": 3.52,
+    "text": "Like, you can get this incredible"
+  },
+  {
+    "start": 889.28,
+    "duration": 4.64,
+    "text": "outcome without. Without is one of the"
+  },
+  {
+    "start": 891.68,
+    "duration": 4.72,
+    "text": "most powerful words in stage 4"
+  },
+  {
+    "start": 893.92,
+    "duration": 4.8,
+    "text": "sophistication copy. Use it. Okay."
+  },
+  {
+    "start": 896.4,
+    "duration": 4.24,
+    "text": "Without Botox, costly clinic visits,"
+  },
+  {
+    "start": 898.72,
+    "duration": 3.44,
+    "text": "vasive procedures. Like, they knew their"
+  },
+  {
+    "start": 900.64,
+    "duration": 3.12,
+    "text": "market very, very well. They knew the"
+  },
+  {
+    "start": 902.16,
+    "duration": 3.52,
+    "text": "exact things that they've tried in order"
+  },
+  {
+    "start": 903.76,
+    "duration": 4.48,
+    "text": "of frequency. It shouldn't just be like,"
+  },
+  {
+    "start": 905.68,
+    "duration": 5.12,
+    "text": "\"Oh, I saw one customer on Reddit has"
+  },
+  {
+    "start": 908.24,
+    "duration": 4.48,
+    "text": "one time used Botox.\" No, Botox is the"
+  },
+  {
+    "start": 910.8,
+    "duration": 3.68,
+    "text": "number one most frequently used thing."
+  },
+  {
+    "start": 912.72,
+    "duration": 3.52,
+    "text": "That's why they hit it first in this"
+  },
+  {
+    "start": 914.48,
+    "duration": 3.36,
+    "text": "without statement in the sub headline."
+  },
+  {
+    "start": 916.24,
+    "duration": 3.12,
+    "text": "Like I said, is this copy that's like,"
+  },
+  {
+    "start": 917.84,
+    "duration": 3.12,
+    "text": "\"Holy [ __ ] this is blowing my [ __ ]"
+  },
+  {
+    "start": 919.36,
+    "duration": 2.8,
+    "text": "mind how good it is.\" No. But that"
+  },
+  {
+    "start": 920.96,
+    "duration": 2.64,
+    "text": "doesn't matter. Again, it doesn't need"
+  },
+  {
+    "start": 922.16,
+    "duration": 3.04,
+    "text": "to be incredibly clever. It just needs"
+  },
+  {
+    "start": 923.6,
+    "duration": 3.28,
+    "text": "to be clear. And they achieved that"
+  },
+  {
+    "start": 925.2,
+    "duration": 4.16,
+    "text": "incredibly well with this lander. Now,"
+  },
+  {
+    "start": 926.88,
+    "duration": 4.8,
+    "text": "one thing that I talk about a lot in BBA"
+  },
+  {
+    "start": 929.36,
+    "duration": 4.24,
+    "text": "is the headline and the copy of the"
+  },
+  {
+    "start": 931.68,
+    "duration": 3.68,
+    "text": "headline. And it's difficult to"
+  },
+  {
+    "start": 933.6,
+    "duration": 3.04,
+    "text": "communicate copy unless you've written a"
+  },
+  {
+    "start": 935.36,
+    "duration": 3.04,
+    "text": "lot of it. And so I create these"
+  },
+  {
+    "start": 936.64,
+    "duration": 3.2,
+    "text": "checklists of things that you can use"
+  },
+  {
+    "start": 938.4,
+    "duration": 2.96,
+    "text": "inside of your headline to make it"
+  },
+  {
+    "start": 939.84,
+    "duration": 3.44,
+    "text": "better. And I have this checklist here"
+  },
+  {
+    "start": 941.36,
+    "duration": 4.48,
+    "text": "of seven individual things. Now, it"
+  },
+  {
+    "start": 943.28,
+    "duration": 4.08,
+    "text": "doesn't need to have every single one,"
+  },
+  {
+    "start": 945.84,
+    "duration": 3.36,
+    "text": "especially in a relatively like this is"
+  },
+  {
+    "start": 947.36,
+    "duration": 3.2,
+    "text": "a pretty short headline in my opinion."
+  },
+  {
+    "start": 949.2,
+    "duration": 3.84,
+    "text": "But if we look at the headline and the"
+  },
+  {
+    "start": 950.56,
+    "duration": 4.64,
+    "text": "sub headline combo, how many of these"
+  },
+  {
+    "start": 953.04,
+    "duration": 4.24,
+    "text": "seven, you know, qualities are actually"
+  },
+  {
+    "start": 955.2,
+    "duration": 3.92,
+    "text": "hit? Well, is there curiosity? I would"
+  },
+  {
+    "start": 957.28,
+    "duration": 3.44,
+    "text": "say maybe a little bit of curiosity with"
+  },
+  {
+    "start": 959.12,
+    "duration": 3.52,
+    "text": "like the microlift system piece, but"
+  },
+  {
+    "start": 960.72,
+    "duration": 3.2,
+    "text": "overall I would actually say no. I don't"
+  },
+  {
+    "start": 962.64,
+    "duration": 3.12,
+    "text": "think there's a ton of curiosity here."
+  },
+  {
+    "start": 963.92,
+    "duration": 3.44,
+    "text": "Is it calling out the pain points? Yes,"
+  },
+  {
+    "start": 965.76,
+    "duration": 3.68,
+    "text": "it is calling out the pain point of the"
+  },
+  {
+    "start": 967.36,
+    "duration": 3.76,
+    "text": "alternative solutions that they have"
+  },
+  {
+    "start": 969.44,
+    "duration": 3.52,
+    "text": "already tried, which would be Botox,"
+  },
+  {
+    "start": 971.12,
+    "duration": 3.84,
+    "text": "clinic visits, and invasive procedures."
+  },
+  {
+    "start": 972.96,
+    "duration": 3.76,
+    "text": "Is it promising a solution? [ __ ] yes."
+  },
+  {
+    "start": 974.96,
+    "duration": 3.84,
+    "text": "That's the entire first part of this"
+  },
+  {
+    "start": 976.72,
+    "duration": 3.6,
+    "text": "headline. It is absolutely promising the"
+  },
+  {
+    "start": 978.8,
+    "duration": 3.36,
+    "text": "solution of fuller, smoother lips in 5"
+  },
+  {
+    "start": 980.32,
+    "duration": 3.92,
+    "text": "minutes. Is there, you know, the time"
+  },
+  {
+    "start": 982.16,
+    "duration": 3.92,
+    "text": "frame? Absolutely. That's the 5 minutes"
+  },
+  {
+    "start": 984.24,
+    "duration": 3.84,
+    "text": "piece. So, we already have time frame"
+  },
+  {
+    "start": 986.08,
+    "duration": 3.76,
+    "text": "checked. We have painpoint checked. We"
+  },
+  {
+    "start": 988.08,
+    "duration": 3.6,
+    "text": "have promise solution checked. We have"
+  },
+  {
+    "start": 989.84,
+    "duration": 4.24,
+    "text": "specificity as well because it's talking"
+  },
+  {
+    "start": 991.68,
+    "duration": 4.24,
+    "text": "about specific time. There's specificity"
+  },
+  {
+    "start": 994.08,
+    "duration": 3.52,
+    "text": "in the mechanism itself and their"
+  },
+  {
+    "start": 995.92,
+    "duration": 3.04,
+    "text": "specificity and the other alternative"
+  },
+  {
+    "start": 997.6,
+    "duration": 3.44,
+    "text": "solutions that they've already tried."
+  },
+  {
+    "start": 998.96,
+    "duration": 3.76,
+    "text": "Plus, I think it's simple. Absolutely."
+  },
+  {
+    "start": 1001.04,
+    "duration": 3.44,
+    "text": "Is there credibility? I would say no."
+  },
+  {
+    "start": 1002.72,
+    "duration": 3.92,
+    "text": "And curiosity overall say no. So"
+  },
+  {
+    "start": 1004.48,
+    "duration": 4.16,
+    "text": "overall, this gets like five out of"
+  },
+  {
+    "start": 1006.64,
+    "duration": 3.52,
+    "text": "seven. You don't need to have all seven."
+  },
+  {
+    "start": 1008.64,
+    "duration": 3.6,
+    "text": "It's not like the more of these that you"
+  },
+  {
+    "start": 1010.16,
+    "duration": 4.08,
+    "text": "add the better the headline is. But I do"
+  },
+  {
+    "start": 1012.24,
+    "duration": 4.24,
+    "text": "believe you should have at least four."
+  },
+  {
+    "start": 1014.24,
+    "duration": 4.08,
+    "text": "But you can have multiple instances of"
+  },
+  {
+    "start": 1016.48,
+    "duration": 3.04,
+    "text": "one of these things on the checklist to"
+  },
+  {
+    "start": 1018.32,
+    "duration": 2.96,
+    "text": "make it stronger. For example, the"
+  },
+  {
+    "start": 1019.52,
+    "duration": 3.36,
+    "text": "curiosity piece is a big miss in this"
+  },
+  {
+    "start": 1021.28,
+    "duration": 3.2,
+    "text": "particular headline. But at the same"
+  },
+  {
+    "start": 1022.88,
+    "duration": 3.12,
+    "text": "time, this is the headline on a sales"
+  },
+  {
+    "start": 1024.48,
+    "duration": 3.28,
+    "text": "page. It's not like an advertorial"
+  },
+  {
+    "start": 1026.0,
+    "duration": 4.4,
+    "text": "headline where you really really have to"
+  },
+  {
+    "start": 1027.76,
+    "duration": 4.32,
+    "text": "push with curiosity. So really, I I"
+  },
+  {
+    "start": 1030.4,
+    "duration": 4.48,
+    "text": "would probably give this entire headline"
+  },
+  {
+    "start": 1032.08,
+    "duration": 4.96,
+    "text": "sub headline combo probably like a 8.7"
+  },
+  {
+    "start": 1034.88,
+    "duration": 3.76,
+    "text": "out of 10, maybe even like a nine simply"
+  },
+  {
+    "start": 1037.04,
+    "duration": 2.8,
+    "text": "due to how clear it is and how well they"
+  },
+  {
+    "start": 1038.64,
+    "duration": 2.8,
+    "text": "understand the market. Now, after the"
+  },
+  {
+    "start": 1039.84,
+    "duration": 3.76,
+    "text": "headline and sub headline, what we have"
+  },
+  {
+    "start": 1041.44,
+    "duration": 3.6,
+    "text": "next is these benefit driven bullet"
+  },
+  {
+    "start": 1043.6,
+    "duration": 3.6,
+    "text": "statements. And some of them, if you"
+  },
+  {
+    "start": 1045.04,
+    "duration": 3.76,
+    "text": "notice, are actually featured driven on"
+  },
+  {
+    "start": 1047.2,
+    "duration": 3.12,
+    "text": "this particular page. For the most part,"
+  },
+  {
+    "start": 1048.8,
+    "duration": 3.2,
+    "text": "I would keep them benefit driven. I"
+  },
+  {
+    "start": 1050.32,
+    "duration": 2.96,
+    "text": "would keep the feature stuff for a"
+  },
+  {
+    "start": 1052.0,
+    "duration": 3.2,
+    "text": "little bit later in the page in the"
+  },
+  {
+    "start": 1053.28,
+    "duration": 4.08,
+    "text": "education section, which we'll get to in"
+  },
+  {
+    "start": 1055.2,
+    "duration": 4.24,
+    "text": "just a second. But don't overthink this"
+  },
+  {
+    "start": 1057.36,
+    "duration": 4.16,
+    "text": "piece, okay? What are the specific"
+  },
+  {
+    "start": 1059.44,
+    "duration": 3.68,
+    "text": "mechanisms from which this works? What"
+  },
+  {
+    "start": 1061.52,
+    "duration": 3.36,
+    "text": "are the pain points of other products"
+  },
+  {
+    "start": 1063.12,
+    "duration": 4.16,
+    "text": "that they have tried that this product"
+  },
+  {
+    "start": 1064.88,
+    "duration": 3.84,
+    "text": "avoids? And ultimately, why does it"
+  },
+  {
+    "start": 1067.28,
+    "duration": 3.12,
+    "text": "work? what is the mechanism through"
+  },
+  {
+    "start": 1068.72,
+    "duration": 3.52,
+    "text": "which it works and I don't mean your"
+  },
+  {
+    "start": 1070.4,
+    "duration": 4.32,
+    "text": "unique mechanism I mean the mechanism"
+  },
+  {
+    "start": 1072.24,
+    "duration": 5.12,
+    "text": "for example of collagen production or of"
+  },
+  {
+    "start": 1074.72,
+    "duration": 4.0,
+    "text": "serum absorption right or micro infusion"
+  },
+  {
+    "start": 1077.36,
+    "duration": 2.88,
+    "text": "that's what I mean now the next pieces"
+  },
+  {
+    "start": 1078.72,
+    "duration": 4.32,
+    "text": "of this page is going to be your offer"
+  },
+  {
+    "start": 1080.24,
+    "duration": 4.88,
+    "text": "and CTA and the risk reversal now if we"
+  },
+  {
+    "start": 1083.04,
+    "duration": 3.76,
+    "text": "look at this uh landing page I've been"
+  },
+  {
+    "start": 1085.12,
+    "duration": 2.96,
+    "text": "breaking down here so far these guys"
+  },
+  {
+    "start": 1086.8,
+    "duration": 3.2,
+    "text": "actually did it a little bit differently"
+  },
+  {
+    "start": 1088.08,
+    "duration": 4.16,
+    "text": "their entire offer is actually on an"
+  },
+  {
+    "start": 1090.0,
+    "duration": 3.92,
+    "text": "offer page or their order page or"
+  },
+  {
+    "start": 1092.24,
+    "duration": 4.24,
+    "text": "checkout page it's not on this page"
+  },
+  {
+    "start": 1093.92,
+    "duration": 3.92,
+    "text": "anywhere all the CTAs lead to an"
+  },
+  {
+    "start": 1096.48,
+    "duration": 3.2,
+    "text": "additional page where you actually see"
+  },
+  {
+    "start": 1097.84,
+    "duration": 4.0,
+    "text": "the offer and compare and contrast"
+  },
+  {
+    "start": 1099.68,
+    "duration": 3.92,
+    "text": "there. So, if you guys want, I can do a"
+  },
+  {
+    "start": 1101.84,
+    "duration": 4.16,
+    "text": "video, maybe an unlisted video or"
+  },
+  {
+    "start": 1103.6,
+    "duration": 4.32,
+    "text": "something specifically on offers because"
+  },
+  {
+    "start": 1106.0,
+    "duration": 3.6,
+    "text": "there's so much to break down there. If"
+  },
+  {
+    "start": 1107.92,
+    "duration": 3.28,
+    "text": "you look at these guys, this is now kind"
+  },
+  {
+    "start": 1109.6,
+    "duration": 3.36,
+    "text": "of their quote unquote offer page. I'll"
+  },
+  {
+    "start": 1111.2,
+    "duration": 3.68,
+    "text": "just call like a checkout page. And what"
+  },
+  {
+    "start": 1112.96,
+    "duration": 3.6,
+    "text": "we see is there's buy one, there's buy"
+  },
+  {
+    "start": 1114.88,
+    "duration": 3.6,
+    "text": "two, get one free, and there's buy"
+  },
+  {
+    "start": 1116.56,
+    "duration": 4.88,
+    "text": "three, get three free. And every time"
+  },
+  {
+    "start": 1118.48,
+    "duration": 4.64,
+    "text": "that you click, you also get and unlock"
+  },
+  {
+    "start": 1121.44,
+    "duration": 3.68,
+    "text": "specific free gifts underneath. The"
+  },
+  {
+    "start": 1123.12,
+    "duration": 3.76,
+    "text": "first free gift is free shipping and"
+  },
+  {
+    "start": 1125.12,
+    "duration": 4.48,
+    "text": "then you get additional treatments and"
+  },
+  {
+    "start": 1126.88,
+    "duration": 4.8,
+    "text": "then you get a $15 gift card. Now, let"
+  },
+  {
+    "start": 1129.6,
+    "duration": 3.6,
+    "text": "me rant real quick on offers and offer"
+  },
+  {
+    "start": 1131.68,
+    "duration": 3.12,
+    "text": "structure just so that you generally"
+  },
+  {
+    "start": 1133.2,
+    "duration": 3.6,
+    "text": "understand how to make offers that"
+  },
+  {
+    "start": 1134.8,
+    "duration": 4.16,
+    "text": "actually convert. Number one, you only"
+  },
+  {
+    "start": 1136.8,
+    "duration": 4.08,
+    "text": "want to use a quantity breaks offer"
+  },
+  {
+    "start": 1138.96,
+    "duration": 3.28,
+    "text": "which is like a you know the more that"
+  },
+  {
+    "start": 1140.88,
+    "duration": 2.8,
+    "text": "you give them the bigger discount that"
+  },
+  {
+    "start": 1142.24,
+    "duration": 4.4,
+    "text": "they get. In this case, it's like only"
+  },
+  {
+    "start": 1143.68,
+    "duration": 4.64,
+    "text": "25% off or buy one but 63% off or buy"
+  },
+  {
+    "start": 1146.64,
+    "duration": 3.44,
+    "text": "three. If it doesn't make sense just"
+  },
+  {
+    "start": 1148.32,
+    "duration": 3.92,
+    "text": "logically for them to buy, you know,"
+  },
+  {
+    "start": 1150.08,
+    "duration": 3.92,
+    "text": "multiple of one individual product, you"
+  },
+  {
+    "start": 1152.24,
+    "duration": 4.32,
+    "text": "need to be bundling additional cross"
+  },
+  {
+    "start": 1154.0,
+    "duration": 4.64,
+    "text": "cells into the bundle to make the offer"
+  },
+  {
+    "start": 1156.56,
+    "duration": 3.84,
+    "text": "still irresistible. Now, let's say for"
+  },
+  {
+    "start": 1158.64,
+    "duration": 3.04,
+    "text": "the large majority of you, selling more"
+  },
+  {
+    "start": 1160.4,
+    "duration": 3.12,
+    "text": "of the same product actually does make"
+  },
+  {
+    "start": 1161.68,
+    "duration": 3.12,
+    "text": "the offer sweeter. So, you want to make"
+  },
+  {
+    "start": 1163.52,
+    "duration": 3.12,
+    "text": "sure that you have the discount on each"
+  },
+  {
+    "start": 1164.8,
+    "duration": 4.32,
+    "text": "level. You want to have one option that"
+  },
+  {
+    "start": 1166.64,
+    "duration": 4.08,
+    "text": "is highlighted as most popular. And you"
+  },
+  {
+    "start": 1169.12,
+    "duration": 3.2,
+    "text": "also want to have one that is"
+  },
+  {
+    "start": 1170.72,
+    "duration": 3.44,
+    "text": "essentially a decoy. So, if you're not"
+  },
+  {
+    "start": 1172.32,
+    "duration": 4.0,
+    "text": "familiar with the decoy effect is"
+  },
+  {
+    "start": 1174.16,
+    "duration": 4.64,
+    "text": "essentially having typically a middle"
+  },
+  {
+    "start": 1176.32,
+    "duration": 4.88,
+    "text": "option that is priced very very closely"
+  },
+  {
+    "start": 1178.8,
+    "duration": 4.32,
+    "text": "to the most expensive option knowing"
+  },
+  {
+    "start": 1181.2,
+    "duration": 3.6,
+    "text": "that people are going to make a logical"
+  },
+  {
+    "start": 1183.12,
+    "duration": 3.2,
+    "text": "justification of the jump between in"
+  },
+  {
+    "start": 1184.8,
+    "duration": 2.96,
+    "text": "this case a medium and a large popcorn"
+  },
+  {
+    "start": 1186.32,
+    "duration": 3.2,
+    "text": "cuz you know it's only 50 cents more"
+  },
+  {
+    "start": 1187.76,
+    "duration": 3.92,
+    "text": "when in reality this was intentionally"
+  },
+  {
+    "start": 1189.52,
+    "duration": 3.92,
+    "text": "priced to make the highest bundled offer"
+  },
+  {
+    "start": 1191.68,
+    "duration": 3.12,
+    "text": "the most expensive offer seem like a"
+  },
+  {
+    "start": 1193.44,
+    "duration": 3.2,
+    "text": "no-brainer. So you can use the same"
+  },
+  {
+    "start": 1194.8,
+    "duration": 3.6,
+    "text": "thing in your offer structure. But the"
+  },
+  {
+    "start": 1196.64,
+    "duration": 3.92,
+    "text": "most important thing when it comes to"
+  },
+  {
+    "start": 1198.4,
+    "duration": 3.76,
+    "text": "the gifts associated with the offer, I"
+  },
+  {
+    "start": 1200.56,
+    "duration": 3.6,
+    "text": "see so many people make this mistake."
+  },
+  {
+    "start": 1202.16,
+    "duration": 4.32,
+    "text": "They literally just like randomly throw"
+  },
+  {
+    "start": 1204.16,
+    "duration": 4.72,
+    "text": "[ __ ] into their offer and expect it that"
+  },
+  {
+    "start": 1206.48,
+    "duration": 4.16,
+    "text": "it makes it sweeter. No. Every single"
+  },
+  {
+    "start": 1208.88,
+    "duration": 3.04,
+    "text": "free gift associated with your offer."
+  },
+  {
+    "start": 1210.64,
+    "duration": 3.04,
+    "text": "Everything that goes into your offer in"
+  },
+  {
+    "start": 1211.92,
+    "duration": 4.4,
+    "text": "general, outside of the main product, it"
+  },
+  {
+    "start": 1213.68,
+    "duration": 5.36,
+    "text": "should be designed to overcome some sort"
+  },
+  {
+    "start": 1216.32,
+    "duration": 6.0,
+    "text": "of objection or help them achieve the"
+  },
+  {
+    "start": 1219.04,
+    "duration": 5.6,
+    "text": "outcome faster or easier. So overall,"
+  },
+  {
+    "start": 1222.32,
+    "duration": 4.24,
+    "text": "like how did these guys do with that"
+  },
+  {
+    "start": 1224.64,
+    "duration": 3.44,
+    "text": "taken into consideration? First free"
+  },
+  {
+    "start": 1226.56,
+    "duration": 3.44,
+    "text": "gift is like free shipping, which is"
+  },
+  {
+    "start": 1228.08,
+    "duration": 3.2,
+    "text": "like cool, okay, this nothing too"
+  },
+  {
+    "start": 1230.0,
+    "duration": 3.12,
+    "text": "special. Does that help them achieve the"
+  },
+  {
+    "start": 1231.28,
+    "duration": 3.68,
+    "text": "outcome easier or faster? No. Is that"
+  },
+  {
+    "start": 1233.12,
+    "duration": 4.0,
+    "text": "overcome the objection? Maybe. And then"
+  },
+  {
+    "start": 1234.96,
+    "duration": 4.56,
+    "text": "they throw in additional treatments,"
+  },
+  {
+    "start": 1237.12,
+    "duration": 4.16,
+    "text": "additional supplies and a gift card. I"
+  },
+  {
+    "start": 1239.52,
+    "duration": 4.08,
+    "text": "would give this overall offer structure"
+  },
+  {
+    "start": 1241.28,
+    "duration": 4.16,
+    "text": "probably like a 6 out of 10. Granted, I"
+  },
+  {
+    "start": 1243.6,
+    "duration": 3.36,
+    "text": "don't know this particular, you know,"
+  },
+  {
+    "start": 1245.44,
+    "duration": 2.96,
+    "text": "product market and the way that these"
+  },
+  {
+    "start": 1246.96,
+    "duration": 2.56,
+    "text": "guys do, but generally I would say that"
+  },
+  {
+    "start": 1248.4,
+    "duration": 2.72,
+    "text": "these free gifts were just kind of"
+  },
+  {
+    "start": 1249.52,
+    "duration": 3.84,
+    "text": "randomly thrown in there. Don't do that."
+  },
+  {
+    "start": 1251.12,
+    "duration": 4.8,
+    "text": "So you can absolutely have your offer on"
+  },
+  {
+    "start": 1253.36,
+    "duration": 3.84,
+    "text": "the sales page on your PDP and it"
+  },
+  {
+    "start": 1255.92,
+    "duration": 3.04,
+    "text": "doesn't need to be on a separate page"
+  },
+  {
+    "start": 1257.2,
+    "duration": 3.6,
+    "text": "whatsoever. With that said, you know"
+  },
+  {
+    "start": 1258.96,
+    "duration": 3.92,
+    "text": "what do I do? I like to control"
+  },
+  {
+    "start": 1260.8,
+    "duration": 4.0,
+    "text": "attention for as much time as possible"
+  },
+  {
+    "start": 1262.88,
+    "duration": 3.36,
+    "text": "for my customers that are on my lander."
+  },
+  {
+    "start": 1264.8,
+    "duration": 3.36,
+    "text": "So for example, one thing I've been"
+  },
+  {
+    "start": 1266.24,
+    "duration": 3.84,
+    "text": "experimenting with recently is removing"
+  },
+  {
+    "start": 1268.16,
+    "duration": 4.32,
+    "text": "all CTAs except for the one at the"
+  },
+  {
+    "start": 1270.08,
+    "duration": 4.08,
+    "text": "bottom, which is basically a big no no"
+  },
+  {
+    "start": 1272.48,
+    "duration": 3.76,
+    "text": "when it comes to like conversion rate"
+  },
+  {
+    "start": 1274.16,
+    "duration": 3.2,
+    "text": "optimization. But I just like testing"
+  },
+  {
+    "start": 1276.24,
+    "duration": 3.68,
+    "text": "stuff that most people don't think"
+  },
+  {
+    "start": 1277.36,
+    "duration": 4.16,
+    "text": "about. And my whole philosophy behind it"
+  },
+  {
+    "start": 1279.92,
+    "duration": 3.52,
+    "text": "is again I want to be able to control"
+  },
+  {
+    "start": 1281.52,
+    "duration": 3.6,
+    "text": "the justification. I want to be able to"
+  },
+  {
+    "start": 1283.44,
+    "duration": 3.2,
+    "text": "force more consumption in the same way"
+  },
+  {
+    "start": 1285.12,
+    "duration": 4.16,
+    "text": "that you would do so with like a force"
+  },
+  {
+    "start": 1286.64,
+    "duration": 4.72,
+    "text": "VSSL or like a super long advertorial"
+  },
+  {
+    "start": 1289.28,
+    "duration": 4.16,
+    "text": "where you're forcing the customer to"
+  },
+  {
+    "start": 1291.36,
+    "duration": 3.52,
+    "text": "educate themselves more on the product"
+  },
+  {
+    "start": 1293.44,
+    "duration": 4.08,
+    "text": "before they see the price. You're"
+  },
+  {
+    "start": 1294.88,
+    "duration": 4.08,
+    "text": "building more justification of why this"
+  },
+  {
+    "start": 1297.52,
+    "duration": 3.44,
+    "text": "product is so great, why it's such a"
+  },
+  {
+    "start": 1298.96,
+    "duration": 3.6,
+    "text": "no-brainer before you ever throw a price"
+  },
+  {
+    "start": 1300.96,
+    "duration": 3.44,
+    "text": "in front of it. So, their perceived"
+  },
+  {
+    "start": 1302.56,
+    "duration": 3.6,
+    "text": "value of how much this product going to"
+  },
+  {
+    "start": 1304.4,
+    "duration": 3.36,
+    "text": "cost just gets raised and raised and"
+  },
+  {
+    "start": 1306.16,
+    "duration": 3.2,
+    "text": "raised and raised the more consumption"
+  },
+  {
+    "start": 1307.76,
+    "duration": 3.12,
+    "text": "that you force on them. I think most"
+  },
+  {
+    "start": 1309.36,
+    "duration": 3.28,
+    "text": "people don't agree with me on that and"
+  },
+  {
+    "start": 1310.88,
+    "duration": 3.2,
+    "text": "truthfully I'm still testing it, but"
+  },
+  {
+    "start": 1312.64,
+    "duration": 2.64,
+    "text": "just something to keep in mind. So, next"
+  },
+  {
+    "start": 1314.08,
+    "duration": 3.28,
+    "text": "section on the lander is going to be"
+  },
+  {
+    "start": 1315.28,
+    "duration": 4.64,
+    "text": "your FAQs. Once again, stage four"
+  },
+  {
+    "start": 1317.36,
+    "duration": 4.08,
+    "text": "sophistication. Being able to handle the"
+  },
+  {
+    "start": 1319.92,
+    "duration": 4.4,
+    "text": "main objections really quickly is"
+  },
+  {
+    "start": 1321.44,
+    "duration": 4.64,
+    "text": "fantastic. I recommend having a few FAQs"
+  },
+  {
+    "start": 1324.32,
+    "duration": 4.64,
+    "text": "actually directly underneath your offer"
+  },
+  {
+    "start": 1326.08,
+    "duration": 4.64,
+    "text": "and then also more FAQs at the bottom of"
+  },
+  {
+    "start": 1328.96,
+    "duration": 3.2,
+    "text": "the page or at least in the education"
+  },
+  {
+    "start": 1330.72,
+    "duration": 2.72,
+    "text": "section which as you can see that is"
+  },
+  {
+    "start": 1332.16,
+    "duration": 2.4,
+    "text": "actually exactly what these guys did as"
+  },
+  {
+    "start": 1333.44,
+    "duration": 4.4,
+    "text": "well. You can see at the bottom of the"
+  },
+  {
+    "start": 1334.56,
+    "duration": 4.8,
+    "text": "page here they have more FAQs. So again"
+  },
+  {
+    "start": 1337.84,
+    "duration": 3.12,
+    "text": "this is a very sophisticated market."
+  },
+  {
+    "start": 1339.36,
+    "duration": 4.0,
+    "text": "This is damn near like skincare"
+  },
+  {
+    "start": 1340.96,
+    "duration": 4.8,
+    "text": "anti-aging stuff is damn near stage five"
+  },
+  {
+    "start": 1343.36,
+    "duration": 4.24,
+    "text": "sophistication. So having FAQs"
+  },
+  {
+    "start": 1345.76,
+    "duration": 3.84,
+    "text": "everywhere I think is not going to hurt"
+  },
+  {
+    "start": 1347.6,
+    "duration": 3.68,
+    "text": "you. Now, regarding your FAQs, per"
+  },
+  {
+    "start": 1349.6,
+    "duration": 4.24,
+    "text": "usual, it should be coming from the"
+  },
+  {
+    "start": 1351.28,
+    "duration": 4.0,
+    "text": "research, but what a lot of people do, I"
+  },
+  {
+    "start": 1353.84,
+    "duration": 3.76,
+    "text": "want to rant on this for just one"
+  },
+  {
+    "start": 1355.28,
+    "duration": 5.04,
+    "text": "second. A lot of people are using like"
+  },
+  {
+    "start": 1357.6,
+    "duration": 4.64,
+    "text": "the comments underneath their ads to"
+  },
+  {
+    "start": 1360.32,
+    "duration": 3.28,
+    "text": "create FAQs out of because they're like,"
+  },
+  {
+    "start": 1362.24,
+    "duration": 3.04,
+    "text": "\"Oh, they're talking about this. If I"
+  },
+  {
+    "start": 1363.6,
+    "duration": 3.28,
+    "text": "just overcame that, then I would get"
+  },
+  {
+    "start": 1365.28,
+    "duration": 3.6,
+    "text": "more customers.\" And you know, maybe"
+  },
+  {
+    "start": 1366.88,
+    "duration": 4.24,
+    "text": "that's true. Maybe that's true. But here"
+  },
+  {
+    "start": 1368.88,
+    "duration": 3.92,
+    "text": "is an alternative perspective for you."
+  },
+  {
+    "start": 1371.12,
+    "duration": 3.76,
+    "text": "So, there's a little something called"
+  },
+  {
+    "start": 1372.8,
+    "duration": 3.68,
+    "text": "survivorship bias. And the best way to"
+  },
+  {
+    "start": 1374.88,
+    "duration": 3.68,
+    "text": "explain it is to explain the inception"
+  },
+  {
+    "start": 1376.48,
+    "duration": 5.6,
+    "text": "of survivorship bias in World War II."
+  },
+  {
+    "start": 1378.56,
+    "duration": 6.24,
+    "text": "The US was losing these bombers in World"
+  },
+  {
+    "start": 1382.08,
+    "duration": 3.92,
+    "text": "War II at an extremely alarming rate."
+  },
+  {
+    "start": 1384.8,
+    "duration": 2.16,
+    "text": "And what would happen is they would send"
+  },
+  {
+    "start": 1386.0,
+    "duration": 2.4,
+    "text": "out the bombers, they would come back"
+  },
+  {
+    "start": 1386.96,
+    "duration": 4.48,
+    "text": "and they would have all these bullet"
+  },
+  {
+    "start": 1388.4,
+    "duration": 5.12,
+    "text": "holes all over the plane. And the"
+  },
+  {
+    "start": 1391.44,
+    "duration": 4.08,
+    "text": "scientists at the time were like, \"Okay,"
+  },
+  {
+    "start": 1393.52,
+    "duration": 3.68,
+    "text": "in order to make these planes more"
+  },
+  {
+    "start": 1395.52,
+    "duration": 4.08,
+    "text": "durable and make sure we lose fewer"
+  },
+  {
+    "start": 1397.2,
+    "duration": 4.72,
+    "text": "bombers, we got to put more armor, which"
+  },
+  {
+    "start": 1399.6,
+    "duration": 4.16,
+    "text": "is heavy, and that costs fuel. we got to"
+  },
+  {
+    "start": 1401.92,
+    "duration": 3.36,
+    "text": "put more armor around all these bullet"
+  },
+  {
+    "start": 1403.76,
+    "duration": 3.36,
+    "text": "points, not these green circles, all"
+  },
+  {
+    "start": 1405.28,
+    "duration": 3.36,
+    "text": "these red dots so that we make the"
+  },
+  {
+    "start": 1407.12,
+    "duration": 3.28,
+    "text": "planes more durable. And then there was"
+  },
+  {
+    "start": 1408.64,
+    "duration": 3.76,
+    "text": "I think like this Hungarian"
+  },
+  {
+    "start": 1410.4,
+    "duration": 3.2,
+    "text": "statistician, this like mathematician"
+  },
+  {
+    "start": 1412.4,
+    "duration": 2.8,
+    "text": "essentially that was like, \"No, no, no."
+  },
+  {
+    "start": 1413.6,
+    "duration": 3.84,
+    "text": "You guys got this all [ __ ] wrong.\""
+  },
+  {
+    "start": 1415.2,
+    "duration": 3.68,
+    "text": "Okay, you are trying to repair the"
+  },
+  {
+    "start": 1417.44,
+    "duration": 3.84,
+    "text": "planes that are coming back and"
+  },
+  {
+    "start": 1418.88,
+    "duration": 4.16,
+    "text": "surviving. If they got hit and they"
+  },
+  {
+    "start": 1421.28,
+    "duration": 3.6,
+    "text": "survived, that means that there is"
+  },
+  {
+    "start": 1423.04,
+    "duration": 3.84,
+    "text": "enough armor on those portions of the"
+  },
+  {
+    "start": 1424.88,
+    "duration": 3.84,
+    "text": "plane. where we need to be adding armor"
+  },
+  {
+    "start": 1426.88,
+    "duration": 3.92,
+    "text": "is the places where there are no bullet"
+  },
+  {
+    "start": 1428.72,
+    "duration": 3.44,
+    "text": "holes, no damage being taken because"
+  },
+  {
+    "start": 1430.8,
+    "duration": 3.36,
+    "text": "those are the planes that are not"
+  },
+  {
+    "start": 1432.16,
+    "duration": 3.52,
+    "text": "returning. And so that's why these green"
+  },
+  {
+    "start": 1434.16,
+    "duration": 3.36,
+    "text": "kind of circles here, that's where we"
+  },
+  {
+    "start": 1435.68,
+    "duration": 3.28,
+    "text": "actually should put more reinforced"
+  },
+  {
+    "start": 1437.52,
+    "duration": 4.24,
+    "text": "armor to make the planes more durable"
+  },
+  {
+    "start": 1438.96,
+    "duration": 4.0,
+    "text": "and lose fewer planes in the war. Now,"
+  },
+  {
+    "start": 1441.76,
+    "duration": 4.24,
+    "text": "what the [ __ ] does this have to do with"
+  },
+  {
+    "start": 1442.96,
+    "duration": 4.8,
+    "text": "ecom? Well, if you are going to the"
+  },
+  {
+    "start": 1446.0,
+    "duration": 3.84,
+    "text": "people that are already not buying from"
+  },
+  {
+    "start": 1447.76,
+    "duration": 3.76,
+    "text": "you and asking them, why didn't you buy"
+  },
+  {
+    "start": 1449.84,
+    "duration": 3.76,
+    "text": "from me? I think that's actually less"
+  },
+  {
+    "start": 1451.52,
+    "duration": 3.68,
+    "text": "valuable than going to your customers"
+  },
+  {
+    "start": 1453.6,
+    "duration": 3.68,
+    "text": "that already have bought from you and"
+  },
+  {
+    "start": 1455.2,
+    "duration": 4.96,
+    "text": "ask them, \"Hey, I know you bought. What"
+  },
+  {
+    "start": 1457.28,
+    "duration": 4.64,
+    "text": "almost kept you from buying?\" Because I"
+  },
+  {
+    "start": 1460.16,
+    "duration": 3.44,
+    "text": "really, really believe that the Facebook"
+  },
+  {
+    "start": 1461.92,
+    "duration": 3.44,
+    "text": "comments are where some of the biggest"
+  },
+  {
+    "start": 1463.6,
+    "duration": 3.36,
+    "text": "losers on the [ __ ] planet hang out."
+  },
+  {
+    "start": 1465.36,
+    "duration": 3.04,
+    "text": "It's always in the comment section. And"
+  },
+  {
+    "start": 1466.96,
+    "duration": 3.28,
+    "text": "a lot of times that's all the people"
+  },
+  {
+    "start": 1468.4,
+    "duration": 3.6,
+    "text": "that are never going to buy from you, no"
+  },
+  {
+    "start": 1470.24,
+    "duration": 3.68,
+    "text": "matter how many, you know, [ __ ]"
+  },
+  {
+    "start": 1472.0,
+    "duration": 3.12,
+    "text": "questions you have in your FAQ. So yes,"
+  },
+  {
+    "start": 1473.92,
+    "duration": 2.88,
+    "text": "you can go to the Facebook comment"
+  },
+  {
+    "start": 1475.12,
+    "duration": 2.88,
+    "text": "section and take some. Maybe it'll work."
+  },
+  {
+    "start": 1476.8,
+    "duration": 2.96,
+    "text": "Maybe. But what I think is more"
+  },
+  {
+    "start": 1478.0,
+    "duration": 3.84,
+    "text": "valuable, speaking to your own customers"
+  },
+  {
+    "start": 1479.76,
+    "duration": 3.92,
+    "text": "and ask them what almost kept them from"
+  },
+  {
+    "start": 1481.84,
+    "duration": 3.68,
+    "text": "buying and using those and integrating"
+  },
+  {
+    "start": 1483.68,
+    "duration": 3.92,
+    "text": "those into your FAQ instead. Now, after"
+  },
+  {
+    "start": 1485.52,
+    "duration": 4.08,
+    "text": "this FAQ section, as you can see here,"
+  },
+  {
+    "start": 1487.6,
+    "duration": 3.76,
+    "text": "what we have is what comes right beneath"
+  },
+  {
+    "start": 1489.6,
+    "duration": 4.08,
+    "text": "the fold, at least on desktop, which is"
+  },
+  {
+    "start": 1491.36,
+    "duration": 4.4,
+    "text": "going to be all of the testimonials and"
+  },
+  {
+    "start": 1493.68,
+    "duration": 3.76,
+    "text": "reviews. Once again, this should all be"
+  },
+  {
+    "start": 1495.76,
+    "duration": 4.08,
+    "text": "purposeful. You want to take reviews"
+  },
+  {
+    "start": 1497.44,
+    "duration": 5.52,
+    "text": "from your customers that are overcoming"
+  },
+  {
+    "start": 1499.84,
+    "duration": 4.8,
+    "text": "an objection or seeding a belief. I"
+  },
+  {
+    "start": 1502.96,
+    "duration": 3.6,
+    "text": "believe that marketing at its core is"
+  },
+  {
+    "start": 1504.64,
+    "duration": 4.72,
+    "text": "just a game of belief change work. And"
+  },
+  {
+    "start": 1506.56,
+    "duration": 4.72,
+    "text": "you're able to seed reviews best through"
+  },
+  {
+    "start": 1509.36,
+    "duration": 4.08,
+    "text": "people that are not associated with your"
+  },
+  {
+    "start": 1511.28,
+    "duration": 3.68,
+    "text": "brand. It's your customers and they"
+  },
+  {
+    "start": 1513.44,
+    "duration": 2.56,
+    "text": "should all be intentional is really what"
+  },
+  {
+    "start": 1514.96,
+    "duration": 2.4,
+    "text": "I'm trying to say. Don't just throw"
+  },
+  {
+    "start": 1516.0,
+    "duration": 3.28,
+    "text": "social proof on there for the sake of"
+  },
+  {
+    "start": 1517.36,
+    "duration": 3.6,
+    "text": "having it. Be intentional. Every element"
+  },
+  {
+    "start": 1519.28,
+    "duration": 3.2,
+    "text": "on your page should be moving people"
+  },
+  {
+    "start": 1520.96,
+    "duration": 3.12,
+    "text": "closer to a sale. And you can see this"
+  },
+  {
+    "start": 1522.48,
+    "duration": 3.28,
+    "text": "brand does it incredibly well. They have"
+  },
+  {
+    "start": 1524.08,
+    "duration": 2.8,
+    "text": "the image. They have transformations. I"
+  },
+  {
+    "start": 1525.76,
+    "duration": 2.88,
+    "text": "don't even want to call it like a"
+  },
+  {
+    "start": 1526.88,
+    "duration": 3.52,
+    "text": "testimonial. I know it is, but think of"
+  },
+  {
+    "start": 1528.64,
+    "duration": 3.52,
+    "text": "it in terms of transformations because"
+  },
+  {
+    "start": 1530.4,
+    "duration": 3.44,
+    "text": "transformational marketing is like the"
+  },
+  {
+    "start": 1532.16,
+    "duration": 3.2,
+    "text": "strongest [ __ ] marketing you can ever"
+  },
+  {
+    "start": 1533.84,
+    "duration": 3.2,
+    "text": "have. I know I've already said that, but"
+  },
+  {
+    "start": 1535.36,
+    "duration": 3.28,
+    "text": "it's just it's just so so incredibly"
+  },
+  {
+    "start": 1537.04,
+    "duration": 2.72,
+    "text": "true. Another important thing is make"
+  },
+  {
+    "start": 1538.64,
+    "duration": 2.96,
+    "text": "sure that it's in alignment with your"
+  },
+  {
+    "start": 1539.76,
+    "duration": 4.0,
+    "text": "research, right? As you can tell, is"
+  },
+  {
+    "start": 1541.6,
+    "duration": 4.24,
+    "text": "there like a woman on this page that"
+  },
+  {
+    "start": 1543.76,
+    "duration": 4.0,
+    "text": "looks under the age of like 30 or under"
+  },
+  {
+    "start": 1545.84,
+    "duration": 4.0,
+    "text": "the age of 40? No, they all look like"
+  },
+  {
+    "start": 1547.76,
+    "duration": 4.64,
+    "text": "they perfectly match the demographic in"
+  },
+  {
+    "start": 1549.84,
+    "duration": 5.28,
+    "text": "every way in race and ethnicity, in age,"
+  },
+  {
+    "start": 1552.4,
+    "duration": 4.48,
+    "text": "in gender. In every conceivable way, it"
+  },
+  {
+    "start": 1555.12,
+    "duration": 3.44,
+    "text": "should match your target avatar. Now,"
+  },
+  {
+    "start": 1556.88,
+    "duration": 4.08,
+    "text": "what we have next in this template is"
+  },
+  {
+    "start": 1558.56,
+    "duration": 3.68,
+    "text": "just broadly labeled as the education"
+  },
+  {
+    "start": 1560.96,
+    "duration": 2.8,
+    "text": "section. This is where you have your"
+  },
+  {
+    "start": 1562.24,
+    "duration": 2.56,
+    "text": "authority figure. If you're selling"
+  },
+  {
+    "start": 1563.76,
+    "duration": 2.24,
+    "text": "supplements, this is where you're going"
+  },
+  {
+    "start": 1564.8,
+    "duration": 2.88,
+    "text": "to have a lot of your ingredient"
+  },
+  {
+    "start": 1566.0,
+    "duration": 3.28,
+    "text": "explaining the research behind them. The"
+  },
+  {
+    "start": 1567.68,
+    "duration": 3.6,
+    "text": "how it works section, especially with"
+  },
+  {
+    "start": 1569.28,
+    "duration": 3.92,
+    "text": "gifts, can be incredibly powerful. You"
+  },
+  {
+    "start": 1571.28,
+    "duration": 3.68,
+    "text": "know, specifically who it's for. Maybe"
+  },
+  {
+    "start": 1573.2,
+    "duration": 3.76,
+    "text": "having a comparison, especially for"
+  },
+  {
+    "start": 1574.96,
+    "duration": 3.6,
+    "text": "level four, stage four sophistication"
+  },
+  {
+    "start": 1576.96,
+    "duration": 2.96,
+    "text": "markets is super super important. Even"
+  },
+  {
+    "start": 1578.56,
+    "duration": 2.88,
+    "text": "stage three sophistication, I would say,"
+  },
+  {
+    "start": 1579.92,
+    "duration": 3.2,
+    "text": "is very important for that technology."
+  },
+  {
+    "start": 1581.44,
+    "duration": 3.36,
+    "text": "Basically, like the how this thing"
+  },
+  {
+    "start": 1583.12,
+    "duration": 3.12,
+    "text": "actually [ __ ] works. And if we scroll"
+  },
+  {
+    "start": 1584.8,
+    "duration": 2.96,
+    "text": "down on this example lander, that's"
+  },
+  {
+    "start": 1586.24,
+    "duration": 3.68,
+    "text": "exactly what we see. We see it here,"
+  },
+  {
+    "start": 1587.76,
+    "duration": 4.72,
+    "text": "which is the exact how it works section."
+  },
+  {
+    "start": 1589.92,
+    "duration": 3.71,
+    "text": "We have more embedded social proof here."
+  },
+  {
+    "start": 1592.48,
+    "duration": 2.56,
+    "text": "And then boom, it's going"
+  },
+  {
+    "start": 1593.63,
+    "duration": 3.73,
+    "text": "[clears throat] deeply into how it"
+  },
+  {
+    "start": 1595.04,
+    "duration": 3.68,
+    "text": "works, the actual mechanism uh that this"
+  },
+  {
+    "start": 1597.36,
+    "duration": 3.44,
+    "text": "product actually works. Boom, more"
+  },
+  {
+    "start": 1598.72,
+    "duration": 4.08,
+    "text": "social proof and transformations. Boom,"
+  },
+  {
+    "start": 1600.8,
+    "duration": 4.4,
+    "text": "more education. So like they're seating"
+  },
+  {
+    "start": 1602.8,
+    "duration": 4.16,
+    "text": "all the social proof in between these"
+  },
+  {
+    "start": 1605.2,
+    "duration": 2.96,
+    "text": "educational sections cuz this is where"
+  },
+  {
+    "start": 1606.96,
+    "duration": 2.48,
+    "text": "you're going to lose a lot of people"
+  },
+  {
+    "start": 1608.16,
+    "duration": 3.04,
+    "text": "because this is where you stop talking"
+  },
+  {
+    "start": 1609.44,
+    "duration": 3.12,
+    "text": "about what it can do for you and"
+  },
+  {
+    "start": 1611.2,
+    "duration": 3.44,
+    "text": "specifics on the product and the"
+  },
+  {
+    "start": 1612.56,
+    "duration": 4.4,
+    "text": "mechanism with which it works. So"
+  },
+  {
+    "start": 1614.64,
+    "duration": 3.76,
+    "text": "injecting that social proof is super"
+  },
+  {
+    "start": 1616.96,
+    "duration": 3.36,
+    "text": "super powerful like these guys are doing"
+  },
+  {
+    "start": 1618.4,
+    "duration": 4.0,
+    "text": "here. Here's another example of you know"
+  },
+  {
+    "start": 1620.32,
+    "duration": 3.68,
+    "text": "how it works. more injected social proof"
+  },
+  {
+    "start": 1622.4,
+    "duration": 3.2,
+    "text": "as well. Now, we have the ingredients"
+  },
+  {
+    "start": 1624.0,
+    "duration": 2.96,
+    "text": "section going through each one and"
+  },
+  {
+    "start": 1625.6,
+    "duration": 2.72,
+    "text": "explaining it. What I think they could"
+  },
+  {
+    "start": 1626.96,
+    "duration": 2.96,
+    "text": "be doing better here is like showing"
+  },
+  {
+    "start": 1628.32,
+    "duration": 3.04,
+    "text": "research behind it. Like, yes, they say"
+  },
+  {
+    "start": 1629.92,
+    "duration": 2.88,
+    "text": "sciencebacked, but what if you're able"
+  },
+  {
+    "start": 1631.36,
+    "duration": 3.36,
+    "text": "to actually see the research? Once"
+  },
+  {
+    "start": 1632.8,
+    "duration": 3.76,
+    "text": "again, another how it works section."
+  },
+  {
+    "start": 1634.72,
+    "duration": 3.92,
+    "text": "Actually, how to use the product, I"
+  },
+  {
+    "start": 1636.56,
+    "duration": 3.68,
+    "text": "should say. More injected social proof."
+  },
+  {
+    "start": 1638.64,
+    "duration": 3.2,
+    "text": "Next, we have a comparison. As you can"
+  },
+  {
+    "start": 1640.24,
+    "duration": 3.92,
+    "text": "see, comparisons can work really, really"
+  },
+  {
+    "start": 1641.84,
+    "duration": 4.88,
+    "text": "well. Us versus them. Risk reversal."
+  },
+  {
+    "start": 1644.16,
+    "duration": 4.96,
+    "text": "Once again, an additional FAQ. As you"
+  },
+  {
+    "start": 1646.72,
+    "duration": 4.32,
+    "text": "can see here, we have more objections"
+  },
+  {
+    "start": 1649.12,
+    "duration": 3.6,
+    "text": "being handled. And then finally, we got"
+  },
+  {
+    "start": 1651.04,
+    "duration": 4.32,
+    "text": "our little offer card, which is going"
+  },
+  {
+    "start": 1652.72,
+    "duration": 5.2,
+    "text": "back to those outcomes, the CTA, maybe"
+  },
+  {
+    "start": 1655.36,
+    "duration": 4.24,
+    "text": "some urgency, some scarcity. And that's"
+  },
+  {
+    "start": 1657.92,
+    "duration": 2.8,
+    "text": "it. That's it for this entire page here."
+  },
+  {
+    "start": 1659.6,
+    "duration": 2.72,
+    "text": "As you can see, this last piece that I"
+  },
+  {
+    "start": 1660.72,
+    "duration": 2.96,
+    "text": "have blocked off is just that that offer"
+  },
+  {
+    "start": 1662.32,
+    "duration": 2.48,
+    "text": "portion. By the way, guys, if you want"
+  },
+  {
+    "start": 1663.68,
+    "duration": 2.8,
+    "text": "this template, just go to my Instagram"
+  },
+  {
+    "start": 1664.8,
+    "duration": 3.6,
+    "text": "and I'll give it to you. It's Markbuilds"
+  },
+  {
+    "start": 1666.48,
+    "duration": 3.44,
+    "text": "Brands. DM me the word template so I"
+  },
+  {
+    "start": 1668.4,
+    "duration": 2.96,
+    "text": "know that's what you're looking for and"
+  },
+  {
+    "start": 1669.92,
+    "duration": 2.96,
+    "text": "I'll just send it to you for free so you"
+  },
+  {
+    "start": 1671.36,
+    "duration": 3.2,
+    "text": "can use it. Now, I want to go over some"
+  },
+  {
+    "start": 1672.88,
+    "duration": 3.44,
+    "text": "bonus persuasive elements that you can"
+  },
+  {
+    "start": 1674.56,
+    "duration": 3.76,
+    "text": "add on your page to increase the"
+  },
+  {
+    "start": 1676.32,
+    "duration": 4.0,
+    "text": "conversion rate. I spoke a little bit"
+  },
+  {
+    "start": 1678.32,
+    "duration": 4.32,
+    "text": "about authority. I know a lot of you"
+  },
+  {
+    "start": 1680.32,
+    "duration": 4.08,
+    "text": "guys are using, you know, doctors or,"
+  },
+  {
+    "start": 1682.64,
+    "duration": 3.52,
+    "text": "you know, veterinarians or whatever your"
+  },
+  {
+    "start": 1684.4,
+    "duration": 3.36,
+    "text": "authority figure is, and that's great."
+  },
+  {
+    "start": 1686.16,
+    "duration": 2.88,
+    "text": "Authority is an incredibly powerful"
+  },
+  {
+    "start": 1687.76,
+    "duration": 3.04,
+    "text": "thing. But here's the thing I want to"
+  },
+  {
+    "start": 1689.04,
+    "duration": 4.0,
+    "text": "warn you about with authority. Don't"
+  },
+  {
+    "start": 1690.8,
+    "duration": 4.08,
+    "text": "default to what you think the authority"
+  },
+  {
+    "start": 1693.04,
+    "duration": 4.0,
+    "text": "figure is. In more sophisticated"
+  },
+  {
+    "start": 1694.88,
+    "duration": 4.48,
+    "text": "markets, a lot of times there's actually"
+  },
+  {
+    "start": 1697.04,
+    "duration": 4.24,
+    "text": "resentment towards doctors, towards"
+  },
+  {
+    "start": 1699.36,
+    "duration": 4.0,
+    "text": "veterinarians, towards like insert"
+  },
+  {
+    "start": 1701.28,
+    "duration": 4.0,
+    "text": "authority figure here. And like the real"
+  },
+  {
+    "start": 1703.36,
+    "duration": 4.08,
+    "text": "authority figure for them is somebody"
+  },
+  {
+    "start": 1705.28,
+    "duration": 4.16,
+    "text": "who is like, I've been there. I've tried"
+  },
+  {
+    "start": 1707.44,
+    "duration": 3.76,
+    "text": "it all. And then I like I said, [ __ ]"
+  },
+  {
+    "start": 1709.44,
+    "duration": 3.36,
+    "text": "this system, you know? [ __ ] the doctors."
+  },
+  {
+    "start": 1711.2,
+    "duration": 3.36,
+    "text": "[ __ ] this. And I became my own [ __ ]"
+  },
+  {
+    "start": 1712.8,
+    "duration": 3.6,
+    "text": "thing. So this ultimately comes down to"
+  },
+  {
+    "start": 1714.56,
+    "duration": 3.44,
+    "text": "research. You should know what your true"
+  },
+  {
+    "start": 1716.4,
+    "duration": 3.6,
+    "text": "authority figure is through the"
+  },
+  {
+    "start": 1718.0,
+    "duration": 4.32,
+    "text": "research. Maybe it actually is a doctor."
+  },
+  {
+    "start": 1720.0,
+    "duration": 3.92,
+    "text": "Maybe it's not though, and you end up"
+  },
+  {
+    "start": 1722.32,
+    "duration": 3.52,
+    "text": "[ __ ] yourself from day one because"
+  },
+  {
+    "start": 1723.92,
+    "duration": 3.52,
+    "text": "you just assumed that it's a doctor."
+  },
+  {
+    "start": 1725.84,
+    "duration": 3.36,
+    "text": "Especially with like where the world is"
+  },
+  {
+    "start": 1727.44,
+    "duration": 3.84,
+    "text": "going now. I think if anything we have"
+  },
+  {
+    "start": 1729.2,
+    "duration": 5.04,
+    "text": "less and less trust in the medical"
+  },
+  {
+    "start": 1731.28,
+    "duration": 4.72,
+    "text": "system in general. So that's shared with"
+  },
+  {
+    "start": 1734.24,
+    "duration": 3.6,
+    "text": "a lot of your market. So keep that in in"
+  },
+  {
+    "start": 1736.0,
+    "duration": 4.32,
+    "text": "consideration. Two additional elements,"
+  },
+  {
+    "start": 1737.84,
+    "duration": 3.84,
+    "text": "scarcity and urgency. Scarcity is when"
+  },
+  {
+    "start": 1740.32,
+    "duration": 3.36,
+    "text": "obviously you tell people that there's"
+  },
+  {
+    "start": 1741.68,
+    "duration": 3.28,
+    "text": "only x amount of units or x amount of I"
+  },
+  {
+    "start": 1743.68,
+    "duration": 3.28,
+    "text": "guess that would be it. Just ask x"
+  },
+  {
+    "start": 1744.96,
+    "duration": 3.84,
+    "text": "amount of units for them to be able to"
+  },
+  {
+    "start": 1746.96,
+    "duration": 3.36,
+    "text": "secure a discount. Just make sure that"
+  },
+  {
+    "start": 1748.8,
+    "duration": 3.68,
+    "text": "you use it ethically because you can get"
+  },
+  {
+    "start": 1750.32,
+    "duration": 3.76,
+    "text": "[ __ ] Uh same thing with urgency. The"
+  },
+  {
+    "start": 1752.48,
+    "duration": 2.8,
+    "text": "best ways to use urgency I think is"
+  },
+  {
+    "start": 1754.08,
+    "duration": 2.96,
+    "text": "actually what these guys are doing"
+  },
+  {
+    "start": 1755.28,
+    "duration": 3.92,
+    "text": "because it's very indirect. Like they"
+  },
+  {
+    "start": 1757.04,
+    "duration": 3.52,
+    "text": "say, you know, only this many units. I"
+  },
+  {
+    "start": 1759.2,
+    "duration": 2.64,
+    "text": "guess that's not very compliant. But"
+  },
+  {
+    "start": 1760.56,
+    "duration": 2.64,
+    "text": "what I was referring to is like these"
+  },
+  {
+    "start": 1761.84,
+    "duration": 3.52,
+    "text": "sales. In the United States, there's"
+  },
+  {
+    "start": 1763.2,
+    "duration": 3.76,
+    "text": "holidays [ __ ] every few weeks. And"
+  },
+  {
+    "start": 1765.36,
+    "duration": 5.36,
+    "text": "you can always use that as like an"
+  },
+  {
+    "start": 1766.96,
+    "duration": 4.88,
+    "text": "indirect way to get urgency and to, you"
+  },
+  {
+    "start": 1770.72,
+    "duration": 2.4,
+    "text": "know, increase your conversion rate"
+  },
+  {
+    "start": 1771.84,
+    "duration": 3.68,
+    "text": "because people want to take advantage of"
+  },
+  {
+    "start": 1773.12,
+    "duration": 4.8,
+    "text": "it. Lastly, I want to talk about CRO and"
+  },
+  {
+    "start": 1775.52,
+    "duration": 5.84,
+    "text": "split testing. especially uh split"
+  },
+  {
+    "start": 1777.92,
+    "duration": 5.28,
+    "text": "testing can be an absolute cesspool of"
+  },
+  {
+    "start": 1781.36,
+    "duration": 4.24,
+    "text": "[ __ ] that doesn't actually move the"
+  },
+  {
+    "start": 1783.2,
+    "duration": 4.48,
+    "text": "needle and gives especially Facebook and"
+  },
+  {
+    "start": 1785.6,
+    "duration": 3.76,
+    "text": "the pixel conflicting data. Let me draw"
+  },
+  {
+    "start": 1787.68,
+    "duration": 3.44,
+    "text": "this out so you know what I mean. So if"
+  },
+  {
+    "start": 1789.36,
+    "duration": 3.36,
+    "text": "you have like an ad here and you're"
+  },
+  {
+    "start": 1791.12,
+    "duration": 4.16,
+    "text": "driving traffic to this first page, I"
+  },
+  {
+    "start": 1792.72,
+    "duration": 4.24,
+    "text": "don't care if it's advtorial or a PDP or"
+  },
+  {
+    "start": 1795.28,
+    "duration": 3.2,
+    "text": "whatever, it doesn't really matter. What"
+  },
+  {
+    "start": 1796.96,
+    "duration": 4.08,
+    "text": "does matter is that you don't run split"
+  },
+  {
+    "start": 1798.48,
+    "duration": 5.36,
+    "text": "tests on this page. Yes, I said it. Sue"
+  },
+  {
+    "start": 1801.04,
+    "duration": 4.16,
+    "text": "me. The ultimate truth that I've seen is"
+  },
+  {
+    "start": 1803.84,
+    "duration": 3.36,
+    "text": "that as soon as you start to make"
+  },
+  {
+    "start": 1805.2,
+    "duration": 4.08,
+    "text": "changes on the page that Facebook crawls"
+  },
+  {
+    "start": 1807.2,
+    "duration": 3.6,
+    "text": "the most in your funnel. It [ __ ] up"
+  },
+  {
+    "start": 1809.28,
+    "duration": 4.0,
+    "text": "your optimization, [ __ ] up your"
+  },
+  {
+    "start": 1810.8,
+    "duration": 4.16,
+    "text": "learning, and it can actually number one"
+  },
+  {
+    "start": 1813.28,
+    "duration": 3.68,
+    "text": "skew the results of your split test, but"
+  },
+  {
+    "start": 1814.96,
+    "duration": 3.68,
+    "text": "number two, destroy your control. Do you"
+  },
+  {
+    "start": 1816.96,
+    "duration": 3.44,
+    "text": "want to destroy your control like cause"
+  },
+  {
+    "start": 1818.64,
+    "duration": 3.84,
+    "text": "more variability and your rorowass and"
+  },
+  {
+    "start": 1820.4,
+    "duration": 3.52,
+    "text": "performance? I don't. So, anytime that I"
+  },
+  {
+    "start": 1822.48,
+    "duration": 3.84,
+    "text": "want to test this first page, whether"
+  },
+  {
+    "start": 1823.92,
+    "duration": 4.16,
+    "text": "that's quiz, avitorial, PDP, whatever, I"
+  },
+  {
+    "start": 1826.32,
+    "duration": 4.4,
+    "text": "always create new post IDs and send them"
+  },
+  {
+    "start": 1828.08,
+    "duration": 4.8,
+    "text": "to a new URL using the same creatives,"
+  },
+  {
+    "start": 1830.72,
+    "duration": 4.16,
+    "text": "of course, but new post IDs entirely."
+  },
+  {
+    "start": 1832.88,
+    "duration": 4.0,
+    "text": "This is the true way to get good"
+  },
+  {
+    "start": 1834.88,
+    "duration": 4.4,
+    "text": "performance data on split test because"
+  },
+  {
+    "start": 1836.88,
+    "duration": 4.48,
+    "text": "Facebook views these pages as data like"
+  },
+  {
+    "start": 1839.28,
+    "duration": 4.4,
+    "text": "this, right? The source code. So, it has"
+  },
+  {
+    "start": 1841.36,
+    "duration": 4.96,
+    "text": "all this data. It scans it constantly"
+  },
+  {
+    "start": 1843.68,
+    "duration": 4.56,
+    "text": "throughout the day and it can notice"
+  },
+  {
+    "start": 1846.32,
+    "duration": 3.04,
+    "text": "when you're making changes to the pages."
+  },
+  {
+    "start": 1848.24,
+    "duration": 2.88,
+    "text": "And so if you're constantly making"
+  },
+  {
+    "start": 1849.36,
+    "duration": 2.96,
+    "text": "changes to these pages, then that's"
+  },
+  {
+    "start": 1851.12,
+    "duration": 2.4,
+    "text": "going to affect the traffic that"
+  },
+  {
+    "start": 1852.32,
+    "duration": 2.32,
+    "text": "Facebook is going to be sending you,"
+  },
+  {
+    "start": 1853.52,
+    "duration": 2.88,
+    "text": "which can affect your conversion rate"
+  },
+  {
+    "start": 1854.64,
+    "duration": 3.6,
+    "text": "and the results of the split test. So"
+  },
+  {
+    "start": 1856.4,
+    "duration": 3.12,
+    "text": "don't do it. Just launch new post IDs."
+  },
+  {
+    "start": 1858.24,
+    "duration": 2.8,
+    "text": "And I promise you, you'll thank me"
+  },
+  {
+    "start": 1859.52,
+    "duration": 3.2,
+    "text": "later. The time that I saw that this was"
+  },
+  {
+    "start": 1861.04,
+    "duration": 3.44,
+    "text": "so [ __ ] clear is that I was running"
+  },
+  {
+    "start": 1862.72,
+    "duration": 4.0,
+    "text": "split tests on this first page. By the"
+  },
+  {
+    "start": 1864.48,
+    "duration": 4.4,
+    "text": "way, I've had this opinion for years. I"
+  },
+  {
+    "start": 1866.72,
+    "duration": 3.36,
+    "text": "think since like 2019, because I"
+  },
+  {
+    "start": 1868.88,
+    "duration": 2.8,
+    "text": "realized as soon as I started doing"
+  },
+  {
+    "start": 1870.08,
+    "duration": 3.44,
+    "text": "split testing there, like all my results"
+  },
+  {
+    "start": 1871.68,
+    "duration": 3.28,
+    "text": "would go to [ __ ] including the control,"
+  },
+  {
+    "start": 1873.52,
+    "duration": 3.68,
+    "text": "which was already working. If you want"
+  },
+  {
+    "start": 1874.96,
+    "duration": 3.52,
+    "text": "to run split tests on additional pages"
+  },
+  {
+    "start": 1877.2,
+    "duration": 2.48,
+    "text": "after this first page that you send"
+  },
+  {
+    "start": 1878.48,
+    "duration": 2.88,
+    "text": "traffic to, let's say this actually is"
+  },
+  {
+    "start": 1879.68,
+    "duration": 2.88,
+    "text": "an advtorial and then you go to a sales"
+  },
+  {
+    "start": 1881.36,
+    "duration": 3.04,
+    "text": "page. You want to run split tests here"
+  },
+  {
+    "start": 1882.56,
+    "duration": 3.36,
+    "text": "by diverting traffic 50/50. Cool. You"
+  },
+  {
+    "start": 1884.4,
+    "duration": 4.16,
+    "text": "can do it 100%. Just make sure that you"
+  },
+  {
+    "start": 1885.92,
+    "duration": 4.88,
+    "text": "track it properly. The true way that I"
+  },
+  {
+    "start": 1888.56,
+    "duration": 3.84,
+    "text": "look at conversion rate test, CRO test"
+  },
+  {
+    "start": 1890.8,
+    "duration": 3.92,
+    "text": "rather, is not through conversion rate."
+  },
+  {
+    "start": 1892.4,
+    "duration": 3.68,
+    "text": "It's almost exclusively through EPV"
+  },
+  {
+    "start": 1894.72,
+    "duration": 2.8,
+    "text": "because a lot of times the changes that"
+  },
+  {
+    "start": 1896.08,
+    "duration": 2.72,
+    "text": "you make actually affect your average"
+  },
+  {
+    "start": 1897.52,
+    "duration": 2.64,
+    "text": "order value. and you'll see the"
+  },
+  {
+    "start": 1898.8,
+    "duration": 3.2,
+    "text": "conversion rate drop, but the average"
+  },
+  {
+    "start": 1900.16,
+    "duration": 4.48,
+    "text": "order value increases substantially,"
+  },
+  {
+    "start": 1902.0,
+    "duration": 4.56,
+    "text": "which actually on a net EPV basis would"
+  },
+  {
+    "start": 1904.64,
+    "duration": 3.6,
+    "text": "make that new variation more profitable"
+  },
+  {
+    "start": 1906.56,
+    "duration": 3.28,
+    "text": "than your control. So, always look at"
+  },
+  {
+    "start": 1908.24,
+    "duration": 4.0,
+    "text": "EPV, earnings per view. You can even"
+  },
+  {
+    "start": 1909.84,
+    "duration": 3.76,
+    "text": "look at like profit per view as a better"
+  },
+  {
+    "start": 1912.24,
+    "duration": 3.04,
+    "text": "indicator. If you're even changing like"
+  },
+  {
+    "start": 1913.6,
+    "duration": 3.2,
+    "text": "the SKUs associated with your free"
+  },
+  {
+    "start": 1915.28,
+    "duration": 3.28,
+    "text": "gifts, that can be a very great metric"
+  },
+  {
+    "start": 1916.8,
+    "duration": 3.6,
+    "text": "to look at as well. And honestly, in"
+  },
+  {
+    "start": 1918.56,
+    "duration": 4.64,
+    "text": "general, when it comes to split testing"
+  },
+  {
+    "start": 1920.4,
+    "duration": 5.2,
+    "text": "stuff, guys, think not in terms of what"
+  },
+  {
+    "start": 1923.2,
+    "duration": 4.16,
+    "text": "can I add on the page to make people buy"
+  },
+  {
+    "start": 1925.6,
+    "duration": 4.0,
+    "text": "more and instead ask yourself, what can"
+  },
+  {
+    "start": 1927.36,
+    "duration": 4.16,
+    "text": "I remove? A lot of times, removing stuff"
+  },
+  {
+    "start": 1929.6,
+    "duration": 3.92,
+    "text": "can have a better impact on your"
+  },
+  {
+    "start": 1931.52,
+    "duration": 3.04,
+    "text": "conversion rate than adding stuff."
+  },
+  {
+    "start": 1933.52,
+    "duration": 2.48,
+    "text": "Because the more that you add, the"
+  },
+  {
+    "start": 1934.56,
+    "duration": 2.8,
+    "text": "heavier the page gets, the slower it"
+  },
+  {
+    "start": 1936.0,
+    "duration": 4.08,
+    "text": "loads, the fewer people actually even"
+  },
+  {
+    "start": 1937.36,
+    "duration": 4.16,
+    "text": "get to see that content. So, test both."
+  },
+  {
+    "start": 1940.08,
+    "duration": 2.72,
+    "text": "But a lot of times, the best way to"
+  },
+  {
+    "start": 1941.52,
+    "duration": 3.2,
+    "text": "become more profitable is through"
+  },
+  {
+    "start": 1942.8,
+    "duration": 3.76,
+    "text": "subtraction, not addition. Typically,"
+  },
+  {
+    "start": 1944.72,
+    "duration": 3.92,
+    "text": "like the reason that I see people not be"
+  },
+  {
+    "start": 1946.56,
+    "duration": 3.36,
+    "text": "able to increase the conversion rate on"
+  },
+  {
+    "start": 1948.64,
+    "duration": 2.24,
+    "text": "their page, it's not because of the"
+  },
+  {
+    "start": 1949.92,
+    "duration": 2.32,
+    "text": "structure. It's not because of the"
+  },
+  {
+    "start": 1950.88,
+    "duration": 3.44,
+    "text": "template. I just gave you the template"
+  },
+  {
+    "start": 1952.24,
+    "duration": 3.68,
+    "text": "right here. Instead, they launch it and"
+  },
+  {
+    "start": 1954.32,
+    "duration": 2.88,
+    "text": "they don't know what to tweak. They"
+  },
+  {
+    "start": 1955.92,
+    "duration": 2.88,
+    "text": "don't know what numbers to look at. They"
+  },
+  {
+    "start": 1957.2,
+    "duration": 4.16,
+    "text": "don't know how to analyze the heat maps."
+  },
+  {
+    "start": 1958.8,
+    "duration": 4.88,
+    "text": "They don't know drop off KPIs. And the"
+  },
+  {
+    "start": 1961.36,
+    "duration": 3.92,
+    "text": "only way to really be able to see what"
+  },
+  {
+    "start": 1963.68,
+    "duration": 3.6,
+    "text": "is actually going wrong is just to learn"
+  },
+  {
+    "start": 1965.28,
+    "duration": 3.52,
+    "text": "from somebody who knows it better than"
+  },
+  {
+    "start": 1967.28,
+    "duration": 3.44,
+    "text": "you. Truthfully, the amount of split"
+  },
+  {
+    "start": 1968.8,
+    "duration": 4.32,
+    "text": "tests that I have run since I got"
+  },
+  {
+    "start": 1970.72,
+    "duration": 5.2,
+    "text": "started running ads in 2018 is in the"
+  },
+  {
+    "start": 1973.12,
+    "duration": 4.16,
+    "text": "thousands. easily and I've just tested"
+  },
+  {
+    "start": 1975.92,
+    "duration": 3.28,
+    "text": "so many things I know exactly what"
+  },
+  {
+    "start": 1977.28,
+    "duration": 3.68,
+    "text": "works. So like that's why I built Brand"
+  },
+  {
+    "start": 1979.2,
+    "duration": 3.44,
+    "text": "Builder Academy because I see so many"
+  },
+  {
+    "start": 1980.96,
+    "duration": 2.72,
+    "text": "people watching videos like this, they"
+  },
+  {
+    "start": 1982.64,
+    "duration": 2.88,
+    "text": "make the adjustments and they still"
+  },
+  {
+    "start": 1983.68,
+    "duration": 3.68,
+    "text": "don't get results, still not profitable."
+  },
+  {
+    "start": 1985.52,
+    "duration": 3.68,
+    "text": "And all it takes a lot of times is one"
+  },
+  {
+    "start": 1987.36,
+    "duration": 4.08,
+    "text": "simple little tweak. So every single"
+  },
+  {
+    "start": 1989.2,
+    "duration": 4.24,
+    "text": "Monday I have calls inside of BBA. I go"
+  },
+  {
+    "start": 1991.44,
+    "duration": 3.36,
+    "text": "through your landers, your ads, identify"
+  },
+  {
+    "start": 1993.44,
+    "duration": 2.72,
+    "text": "the real constraint, and give you the"
+  },
+  {
+    "start": 1994.8,
+    "duration": 2.64,
+    "text": "solution. And then people will come back"
+  },
+  {
+    "start": 1996.16,
+    "duration": 3.2,
+    "text": "to me next week and we'll be just"
+  },
+  {
+    "start": 1997.44,
+    "duration": 3.44,
+    "text": "absolutely printing. So if you want to"
+  },
+  {
+    "start": 1999.36,
+    "duration": 3.04,
+    "text": "join and work more closely with me, you"
+  },
+  {
+    "start": 2000.88,
+    "duration": 3.04,
+    "text": "can always join Brands Academy and my"
+  },
+  {
+    "start": 2002.4,
+    "duration": 2.56,
+    "text": "mentorship. just click the first link in"
+  },
+  {
+    "start": 2003.92,
+    "duration": 2.08,
+    "text": "the description of this video. Other"
+  },
+  {
+    "start": 2004.96,
+    "duration": 2.08,
+    "text": "than that guys, thank you so much for"
+  },
+  {
+    "start": 2006.0,
+    "duration": 3.2,
+    "text": "watching and I'll see you on the next"
+  },
+  {
+    "start": 2007.04,
+    "duration": 2.16,
+    "text": "one."
+  }
+]

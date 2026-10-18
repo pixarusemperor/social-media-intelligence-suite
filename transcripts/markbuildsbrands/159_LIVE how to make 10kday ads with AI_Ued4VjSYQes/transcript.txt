@@ -1,0 +1,1401 @@
+# LIVE: how to make 10k/day ads with AI
+URL: https://www.youtube.com/watch?v=Ued4VjSYQes
+Category: stream
+Duration: 3516s
+Published: 20250417
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] [Music]
+[00:00:07] [Music]
+[00:00:14] [Music]
+[00:00:15] I'm a real chokey [ __ ] coming straight
+[00:00:17] up out the sea. You can't imagine what
+[00:00:19] you seeing in your deepest darkest
+[00:00:21] dreams. I put a beam into your eye. Now
+[00:00:23] your body reach the sky and there ain't
+[00:00:25] no telling why I killed a bunch of
+[00:00:27] [ __ ] Huh? Going up a beat now. This
+[00:00:30] [ __ ] tell me this. Think I'm going
+[00:00:32] crazy. Going crazy. Never ever think I'm
+[00:00:34] lazy. Trying to test me, [ __ ] Thinking
+[00:00:36] all this stupid [ __ ] I'm never home.
+[00:00:39] Always stepping on some very own deep in
+[00:00:42] the jungle trying to make a [ __ ] dead
+[00:00:45] body chilling in the sec. What you think
+[00:00:47] of that?
+[00:00:52] I am feeling.
+[00:01:00] What is up,
+[00:01:03] legends? How we doing? What's good?
+[00:01:05] What's good? We're live and we're going
+[00:01:08] to be talking about how to make winning
+[00:01:11] ads with AI today. Okay, I'm actually so
+[00:01:13] excited for this one because I have been
+[00:01:15] going super [ __ ] deep into applying
+[00:01:18] AI to my entire ad workflow and I'm
+[00:01:21] going to share some really cool [ __ ]
+[00:01:22] with you guys today. This definitely not
+[00:01:24] not one that you want to [ __ ]
+[00:01:26] miss. So, y'all know the drill, man. Let
+[00:01:28] me know where you're listening in from
+[00:01:29] in the chat. I got it pulled
+[00:01:31] up.
+[00:01:33] Let's make it a [ __ ] good one, man.
+[00:01:35] All right, Caleb, what's up, dude?
+[00:01:37] Battle Ready UK, what's good? We got
+[00:01:40] another Mark in the chat. What's up,
+[00:01:42] bro? Dvari,
+[00:01:45] yo, Solivan, what
+[00:01:49] up? Evil Goods, how do you warm up ad
+[00:01:51] account? How about a hello? How about a
+[00:01:53] hey Mark? How you
+[00:01:55] doing? Did that ever hurt anybody? Geez,
+[00:01:58] it's always it's always
+[00:02:00] Mark. How do I warm up my ad account?
+[00:02:02] Not Mark, how are
+[00:02:06] you? It's not that hard.
+[00:02:16] Isaiah, yo, G Money, what's good? Isaiah
+[00:02:19] Thomas, never have I ever sat on a
+[00:02:21] YouTube page refreshing every 30 seconds
+[00:02:23] for a live until today. That's what I'm
+[00:02:25] talking about, bro. This is not one you
+[00:02:26] want to
+[00:02:27] miss. Dom, hey man, from Argentina,
+[00:02:30] what's up,
+[00:02:33] bro? Chase, what's up, Chase?
+[00:02:39] We got Germany in the building. What's
+[00:02:41] good? Sweden. Israel. We
+[00:02:45] got Shy
+[00:02:48] Town. Is this going to be
+[00:02:51] posted? Uh, yeah. Yeah, it'll be posted,
+[00:02:54] man. It'll be posted. I made sure to
+[00:02:56] triple check my [ __ ] audio this time
+[00:02:58] because last time it was Oh my god,
+[00:03:00] dude. I I don't even know why you guys
+[00:03:02] watch me for real with this [ __ ] like
+[00:03:04] that. I would have just clicked off. No,
+[00:03:07] I know why. I know
+[00:03:10] why. All
+[00:03:17] right, ladies and
+[00:03:20] gentlemen, let us get it going. Okay, so
+[00:03:24] uh like I said, this particular live is
+[00:03:27] going to be, you know, I got about an
+[00:03:28] hour set aside, so I got to get get back
+[00:03:30] to [ __ ]
+[00:03:31] work. Um today's live is going to be how
+[00:03:34] to make ads. a scale to 10k a
+[00:03:38] day with
+[00:03:40] AI. Now, if you're like most people, you
+[00:03:43] probably know that, you know, AK's good
+[00:03:44] AI is a good thing. You know, helps with
+[00:03:47] all your workflows, blah, blah, blah.
+[00:03:49] Oh, Mark, I use
+[00:03:53] chatbt. I use AI. I'm telling you right
+[00:03:56] now,
+[00:03:56] chatbt is [ __ ] level one in terms of
+[00:04:00] what is possible with AI. like you need
+[00:04:02] to go so much deeper than just chatbt or
+[00:04:04] just claude or whatever because the way
+[00:04:07] that I view it right now is those LLMs,
+[00:04:11] right? Large language models, things
+[00:04:12] like chatbt, all their various models,
+[00:04:14] things like Claude, all their various
+[00:04:16] models, that is [ __ ] level one.
+[00:04:19] Level two is the more advanced tools,
+[00:04:24] stuff like Perplexity, like Gemini, that
+[00:04:27] are more intelligent, that are
+[00:04:28] oftentimes faster and that can help you
+[00:04:32] complete tasks using like access to the
+[00:04:35] internet. So, you have tools, right? Let
+[00:04:37] me [ __ ] draw this [ __ ] out. So, with
+[00:04:39] AI right now, and this is just the way
+[00:04:42] that that I see it, by the way. This is,
+[00:04:43] you know, you can say it's right or
+[00:04:44] wrong. I really don't give a [ __ ] So
+[00:04:47] with AI
+[00:04:48] um level one is just like using regular
+[00:04:55] LLMs. Level two is using
+[00:05:00] LLM plus tools. So think of like
+[00:05:04] perplexity for example a fantastic
+[00:05:06] research for deep research. The deep
+[00:05:08] research feature within chatbt those are
+[00:05:11] like the actual tools. Number three is
+[00:05:14] the kind of done for
+[00:05:18] you AI
+[00:05:21] agents. And so this would be softwares
+[00:05:24] like chatbt's operator. This would be
+[00:05:27] softwares like Manis
+[00:05:30] AI. This would also be softwares like uh
+[00:05:32] super agent by genpark. And if you don't
+[00:05:35] know any of these tools as I speak them
+[00:05:37] out loud, I'll take some time to go
+[00:05:39] through them. I'm not going to go
+[00:05:39] through them one by one because this is
+[00:05:41] going to be specific to the ad creation
+[00:05:42] process. But if you don't know, man,
+[00:05:44] just [ __ ] look it up. Do your own
+[00:05:45] research. We got operator, manice, and
+[00:05:48] then
+[00:05:49] super Oh
+[00:05:52] Jesus, super agent, right? So you can
+[00:05:54] check out all those. That's like level
+[00:05:56] three, right? Level
+[00:05:58] four is getting into I'll just call it
+[00:06:02] workflows and
+[00:06:06] automation. All right. And let me
+[00:06:07] explain the difference between these
+[00:06:10] various my
+[00:06:13] [ __ ] [ __ ] mouse is tripping
+[00:06:16] out. All right. Anyways, workflows and
+[00:06:19] automation, right? So, LLMs, they only
+[00:06:22] work if you work. You say, "Hey, chat,
+[00:06:25] do this for me. Hey, here prompt,
+[00:06:26] prompt, prompt, prompt, prompt. Give me
+[00:06:28] this output." Cool. The minute you stop
+[00:06:30] working, chat GBT also stops working.
+[00:06:34] Then you have level two LLMs plus tools.
+[00:06:37] So this is like using for example the
+[00:06:39] image generation feature within chatbt
+[00:06:41] deep research perplexity Gemini uh
+[00:06:44] blackbox tools like that. Level three is
+[00:06:48] using done for you just like out of the
+[00:06:50] box AI agents. So think of chatbt
+[00:06:53] operator where there's literally a
+[00:06:55] separate browser and you can be like hey
+[00:06:56] I want you to go to this website follow
+[00:06:58] these instructions and get me this
+[00:06:59] outcome. Right. Manis AI. If I were to
+[00:07:02] rank these um in terms of like the
+[00:07:04] external browser, only these two
+[00:07:05] actually have it. Manis AI and operator.
+[00:07:07] Super agent doesn't have this
+[00:07:08] functionality. Manis is definitely
+[00:07:09] better than operator in my opinion.
+[00:07:14] Um so the difference between these two
+[00:07:18] levels, right, is that the AI agent has
+[00:07:21] agency. It has autonomy. If you give it
+[00:07:23] a set of rules and instructions, it is
+[00:07:25] going to work even when you step away
+[00:07:27] from the computer. That's level [ __ ]
+[00:07:29] three. I I've set a new rule in my life
+[00:07:33] where I can't leave my laptop for more
+[00:07:36] than like an hour unless I have primed
+[00:07:38] an AI agent before I leave because I'm
+[00:07:41] always testing [ __ ] This is the [ __ ]
+[00:07:43] time to always be testing [ __ ] like
+[00:07:45] right [ __ ] now. And then finally, you
+[00:07:48] have number four, which is combining a
+[00:07:51] bunch of these LLMs, these AI agents
+[00:07:54] together to run for you around the clock
+[00:07:56] 247. So this is where you can use tools
+[00:07:59] such as
+[00:08:03] N8N
+[00:08:04] N8N. You can use
+[00:08:07] Gumloop. Uh I think even uh I'm actually
+[00:08:11] I'm pretty sure make.com actually
+[00:08:13] created their own AI automation tool as
+[00:08:16] well. Could be wrong on that, but for me
+[00:08:18] I stick to N8N most functionality. Gum
+[00:08:20] loop is really good. A little bit more
+[00:08:21] user friendly. All right. So, this is
+[00:08:23] like the four steps in terms of like the
+[00:08:25] development of artificial intelligence
+[00:08:27] and the ways that you can specifically
+[00:08:28] apply it to your business. And this
+[00:08:31] isn't it. This there's probably [ __ ]
+[00:08:32] 40 levels. This is just the levels that
+[00:08:34] I'm using right now. Uh because the
+[00:08:36] farther up you go, the more of a
+[00:08:37] technical understanding that you have.
+[00:08:38] And I'm not technical, you know? I don't
+[00:08:40] know how to code. Um but I do know how
+[00:08:42] to learn stuff really quickly. That's
+[00:08:43] that's like the benefit that I have. All
+[00:08:46] right. So, what we're going to do today
+[00:08:47] is apply all this [ __ ] to the ad
+[00:08:49] creation process. And when it Before I
+[00:08:53] actually before I go on, does this make
+[00:08:55] sense? Does this make sense? Just type
+[00:08:56] yes in the chat. All right. And uh I'll
+[00:09:00] take some time to to go through the chat
+[00:09:01] while you guys are
+[00:09:04] uh while you guys are here and we'll do
+[00:09:06] a Q&A at the end as
+[00:09:11] well. Romania in the building. What's
+[00:09:14] up, bro?
+[00:09:30] Yeah, I'll do a I'll do a Q&A at the
+[00:09:32] end. Yeah. So, cling AI really really
+[00:09:34] good for animating images, right? That
+[00:09:37] would be something that I'll put under
+[00:09:38] the the tool category. That's like level
+[00:09:41] two, bro. Really, really good. But it
+[00:09:43] gets even better when you take for
+[00:09:45] example uh a particular image that is
+[00:09:48] generated and you automate that workflow
+[00:09:50] through something like N8 because you
+[00:09:52] can't connect
+[00:10:07] it. Young JB, would you ever do another
+[00:10:10] spiritual/consciousness type live? I
+[00:10:12] listen to them religiously at work.
+[00:10:13] Yeah, man. If it's if it's something
+[00:10:15] that people want, you know, I can I can
+[00:10:17] make it again. Not make it again, but I
+[00:10:21] can do another one along the
+[00:10:23] spirituality lines because it's it's
+[00:10:24] definitely fun to talk about. Can you
+[00:10:26] give an example of what task those level
+[00:10:28] three AI do on your own when you leave
+[00:10:29] them?
+[00:10:31] Um, yeah, dude. I I'll actually get into
+[00:10:33] that in a little bit.
+[00:10:40] All right, let's keep
+[00:10:42] cooking. So, four levels, right? Next,
+[00:10:46] let's apply this to the ad creation
+[00:10:47] process. Now, I'm specifically going to
+[00:10:49] be going over video ad creation. I can
+[00:10:51] do an entirely separate live on image ad
+[00:10:53] creation. I like video ads uh a lot. I
+[00:10:57] like them more than image ads, but
+[00:11:00] there's really not one that's better
+[00:11:01] than the other. At the end of the day,
+[00:11:02] image ads can be significantly faster
+[00:11:04] for you to to launch, just like static
+[00:11:05] images. Um, especially with Chat GBT's
+[00:11:07] new tools. Like, holy [ __ ] you can just
+[00:11:09] launch stuff so freaking fast. Um,
+[00:11:11] however, they don't live as long. Those
+[00:11:13] ads will die faster than a [ __ ] 25
+[00:11:16] minute long VSSL. It's just the way that
+[00:11:19] it works. If it's harder to do, it's
+[00:11:21] probably going to last
+[00:11:22] longer
+[00:11:24] and shorter images not going to last as
+[00:11:26] long, right? So, the whole ad creation
+[00:11:28] process, I kind of see it this way. So
+[00:11:30] the first step is ideiation. So what is
+[00:11:33] the general idea of the ad that you're
+[00:11:34] going to be creating? Next is going to
+[00:11:36] be the
+[00:11:37] scripting. Next is going to be the
+[00:11:40] sourcing of the content. Then you have
+[00:11:42] the editing. Then you have the
+[00:11:44] [ __ ] scaling. Right? So just so
+[00:11:47] that we're all on the same page with
+[00:11:49] these
+[00:11:50] steps. Ideation for those of you that
+[00:11:53] don't have an existing brand, you don't
+[00:11:55] have any winning ads right now. Ideation
+[00:11:58] is basically going to be the equivalent
+[00:11:59] of like swiping, right? So, what I mean
+[00:12:02] by swipe is you find a competitor that
+[00:12:06] is scaling that meets all the validation
+[00:12:07] criteria that I've talked about a
+[00:12:09] million [ __ ] times and you find
+[00:12:12] one of their top performing ads and you
+[00:12:13] take inspiration from it. You don't
+[00:12:15] [ __ ] rip
+[00:12:17] it. You don't need to [ __ ] rip it.
+[00:12:19] You can probably do
+[00:12:20] better if you watch my channel. Just
+[00:12:23] saying. You could probably do better. Um
+[00:12:25] because I a lot of guys, especially if
+[00:12:26] they're not operating at scale, they
+[00:12:28] don't even know why their winner is a
+[00:12:29] winner. So you could take the concepts,
+[00:12:31] understand the philosophy, recreate a
+[00:12:32] new ad based off the winning philosophy.
+[00:12:34] Don't swipe word for word. Don't swipe
+[00:12:36] clip for clip. Swipe philosophy. That's
+[00:12:38] what I believe. All right. So if you
+[00:12:40] don't have a brand, this is basically
+[00:12:41] going to be swiping. All right? You can
+[00:12:44] use Get Hooked for this. Go and search
+[00:12:45] your competition. You can go into the
+[00:12:47] brand spy. You can see all the creatives
+[00:12:48] that they've launched. How many
+[00:12:49] creatives are they launching per month?
+[00:12:51] Are they scaling up their production?
+[00:12:52] Are they scaling down their production?
+[00:12:54] what is their uh how many winning ads
+[00:12:56] they have, etc. Right? Now, if you
+[00:12:58] already have a brand, everything that
+[00:13:01] you do should be based off data. If you
+[00:13:04] don't have a brand, obviously, you don't
+[00:13:05] have any data. But if you do have a
+[00:13:07] brand, you have a lot of data. And the
+[00:13:09] more data you have, the more powerful
+[00:13:10] that it is. Especially in the age of AI,
+[00:13:12] man, you can leverage all that data to
+[00:13:14] inform what the script is going to look
+[00:13:16] like next. Okay? And so for the if you
+[00:13:20] do have an existing brand, what you're
+[00:13:23] going to do is you're going to analyze
+[00:13:24] your top performing ads and look at the
+[00:13:27] data behind
+[00:13:29] them. So what this would look like if I
+[00:13:31] were doing this on my own, okay? I would
+[00:13:32] go into my ad account. I would look at
+[00:13:34] the top, let's just say like the top
+[00:13:36] five ads in the last 30 days by spend.
+[00:13:38] Which ones are spending the most as
+[00:13:40] profitably as humanly possible? And then
+[00:13:42] I want to break those down and I'm
+[00:13:44] actually going to feed those into AI so
+[00:13:45] that I can then create new scripts based
+[00:13:48] off of the existing winners. All right.
+[00:13:51] Now, I'm going to go into a little bit
+[00:13:53] more detail on that in just one second.
+[00:13:54] The scripting is pretty basic. All of
+[00:13:57] this, literally all of this should be
+[00:13:58] done with AI. Even the chiefing should
+[00:14:00] be done with AI. And then you should
+[00:14:01] have an additional chiefing process
+[00:14:03] where it's you actually reading it out
+[00:14:05] loud and making sure that it sounds
+[00:14:06] good. It flows off the tongue. There's
+[00:14:08] no there's no weird like bumps
+[00:14:09] throughout the script. Everything just
+[00:14:10] like flows perfectly. It's beautiful.
+[00:14:12] It's like you're reading [ __ ] poetry.
+[00:14:15] That's how good copy should [ __ ]
+[00:14:17] sound like. Poetry. Like it's just
+[00:14:20] beautiful. All right. So, we're going to
+[00:14:22] come back to this. Now, the sourcing of
+[00:14:24] content is actually creating or finding
+[00:14:28] the clips that align with the script.
+[00:14:30] Right? I'll come back to that. Editing.
+[00:14:34] Uh, pretty simple. I'm currently working
+[00:14:37] on the
+[00:14:38] process of having this all automated
+[00:14:41] with our editing team. I don't think
+[00:14:42] that we're there yet to be totally
+[00:14:44] transparent with you. Even with stuff
+[00:14:46] like Cling AI, all the new um text to
+[00:14:49] video models that are being launched
+[00:14:51] like every single [ __ ] day. Like I
+[00:14:52] try them all and they're still just not
+[00:14:56] really quite there. They're close.
+[00:14:58] They're so close. I feel like in in
+[00:15:00] three months we could be there. But for
+[00:15:02] now, what I do is I take the script, I
+[00:15:04] take the hooks, and I send those to my
+[00:15:06] editing team who is empowered by AI. You
+[00:15:08] know, I have them trained on using all
+[00:15:10] these AI tools, and then they put all of
+[00:15:12] that [ __ ] together, and then obviously
+[00:15:14] you launch it and scale it from there.
+[00:15:15] Okay, so let's go back to ideiation
+[00:15:18] because this is really the first step.
+[00:15:20] And I'm going to talk specifically to
+[00:15:21] people that already kind of have a
+[00:15:22] brand, you have some data, right? If
+[00:15:24] not, just repeat this process, but with
+[00:15:25] a com a competitor that has a successful
+[00:15:27] ad.
+[00:15:30] So, what this process really looks like,
+[00:15:32] if anybody doesn't have my, you know,
+[00:15:35] advertorial document here, um, I went
+[00:15:38] over this previously. Jesus Christ,
+[00:15:40] there's always so many people on this
+[00:15:41] document.
+[00:15:43] Um, really why I'm pulling this up is
+[00:15:46] not because we're writing a [ __ ]
+[00:15:47] advtorial, but the foundational document
+[00:15:50] process is the same. So what you're
+[00:15:52] going to do in terms of uh ideiation is
+[00:15:58] you're going to take your top performing
+[00:15:59] ads as well as your bottom performing
+[00:16:01] ads because it's really like with AI you
+[00:16:04] can give it all these like structures
+[00:16:07] and all these uh copy concepts but in my
+[00:16:10] in my opinion the best way that it can
+[00:16:11] learn is learning from what's already
+[00:16:14] working right now [ __ ] word for word.
+[00:16:16] What does your winning ad script look
+[00:16:17] like right now? And you want to emulate
+[00:16:20] those. And then you also want to have
+[00:16:22] anti-examples with the ads that are that
+[00:16:24] are [ __ ] dog [ __ ] Like they got
+[00:16:26] super high CPCs, really high CPMs, low
+[00:16:29] CTRs, unprofitable. You want to use
+[00:16:31] those as anti-examples when you're
+[00:16:34] feeding this to AI, right? And I'll I'll
+[00:16:35] show you how to do that in just one
+[00:16:36] second. So what I would do is, you know,
+[00:16:39] the first step in that ideation process
+[00:16:41] here is you have to you absolutely have
+[00:16:44] to create your foundational documents.
+[00:16:47] All right. Now, foundational documents.
+[00:16:49] There's a few of them that go into it.
+[00:16:50] You have your research doc. You have
+[00:16:53] your avatar doc. You have your necessary
+[00:16:57] beliefs doc. And then you have your
+[00:17:00] offer brief. All
+[00:17:02] right. Now, if this doesn't make sense
+[00:17:05] to you, go watch every video on my
+[00:17:08] [ __ ] channel and get back to me. The
+[00:17:10] brief summary is research. The research
+[00:17:13] process I used to actually do through uh
+[00:17:16] I used to do through chatgbt deep
+[00:17:18] research. I now use
+[00:17:22] perplexity
+[00:17:26] [ __ ] So perplexity is an AI tool that's
+[00:17:30] almost like more specialized at deep
+[00:17:32] research than chatbt. That's why I like
+[00:17:33] to use it better. It's also
+[00:17:34] significantly faster and it uses more um
+[00:17:38] it it uses more sources on average than
+[00:17:41] chatbt. So, I use Perplexity
+[00:17:44] specifically for that. All right. So,
+[00:17:46] you're going to go through, you can go
+[00:17:47] through this document right here and go
+[00:17:49] all the way up until like this entire
+[00:17:51] foundational documents process before
+[00:17:53] you ever write anything because you need
+[00:17:54] to get those. It's like very very
+[00:17:55] important that you get those for the
+[00:17:58] avatar doc. Um, actually for the rest of
+[00:18:01] these documents, this can all just be
+[00:18:02] done through chatbt. Chatbt 40 or 4.5. I
+[00:18:06] like 4.5 better than 40 because it's a
+[00:18:07] it's definitely better at the writing
+[00:18:09] side and I have a pro account that you
+[00:18:11] know I use frequently. So all these
+[00:18:14] other tools can be uh these other
+[00:18:16] documents can be created through uh
+[00:18:19] chatbt
+[00:18:25] 404.5. All right. So go through that
+[00:18:27] process. Um Chase, if you can drop this
+[00:18:29] document for the guys in the chat, bro,
+[00:18:31] please for the people that don't have
+[00:18:33] it. Go to this document. get the
+[00:18:35] foundational documents like number one
+[00:18:37] 100,000% you have to have these if you
+[00:18:39] want to guide your copy because what
+[00:18:41] we're going to do is take all those
+[00:18:42] resources and feed them to AI. The
+[00:18:44] quality of the copy and the script that
+[00:18:46] you create is 100% dependent on the
+[00:18:48] quality of inputs that you give it. So
+[00:18:50] if you [ __ ] I if you halfass this
+[00:18:53] [ __ ] and you don't have good research,
+[00:18:55] you don't have a good avatar document,
+[00:18:58] you don't have a good understanding of
+[00:18:59] the necessary beliefs that your prospect
+[00:19:01] has to have in order to buy, you're
+[00:19:03] cooked. you're just not going to make
+[00:19:05] good
+[00:19:06] ads. So like building the foundation is
+[00:19:09] one of the most important things that
+[00:19:10] you have to
+[00:19:12] do. All right, everybody follow me so
+[00:19:15] far? If you follow me, just drop a yes
+[00:19:16] in the
+[00:19:29] chat. Everybody follow me. So making
+[00:19:32] sure the audio works.
+[00:19:34] We get
+[00:19:44] uh Lucas, you asked, "Have you tried
+[00:19:45] Gemini 2.5 deep research?" Dude, I tried
+[00:19:47] everything for deep research and I split
+[00:19:49] tested them all right next to each
+[00:19:51] other. I think I tried like seven
+[00:19:52] different softwares. Um Gemini is very,
+[00:19:56] very good. It's easily a close
+[00:19:59] second. It may even be tied for first.
+[00:20:02] It's very close. It just takes longer.
+[00:20:03] And you know me, money [ __ ] loves
+[00:20:05] speed. So that's why I like that. And
+[00:20:08] also like we one thing I noticed with
+[00:20:10] Gemini, man, is especially with
+[00:20:12] 2.5, it's it's like copy at its heart is
+[00:20:16] very very emotional and Gemini is such a
+[00:20:18] high
+[00:20:20] intelligence such a high intelligence
+[00:20:22] model that I don't think it really
+[00:20:24] resonates with a lot of like the
+[00:20:25] emotional side. That's why I think Chad
+[00:20:27] T4.55 was actually pretty good. Um but
+[00:20:30] Perplexity is just so much faster. I
+[00:20:31] really like it a lot better. You know
+[00:20:33] what I need to try is Claude because
+[00:20:35] they just came out with a deep research
+[00:20:37] function as well. I'll try them out.
+[00:20:39] Anyways, so you have your four
+[00:20:41] foundational documents. Okay, Mark.
+[00:20:42] Cool. I got it. What's next? Great. Now
+[00:20:45] you're going through the process
+[00:20:48] of knowing the type of ad that you need
+[00:20:50] to create. All right. So, what you're
+[00:20:51] going to do is you're going to go in
+[00:20:52] your ad account. You're going to get the
+[00:20:54] transcripts of your top performing ads.
+[00:20:56] Ideally, like the more the better,
+[00:20:58] truthfully, but it it's obviously going
+[00:21:00] to depend on how much you spend and how
+[00:21:01] much winners, how many winners you
+[00:21:03] actually have. If you have 20, use 20.
+[00:21:05] Um, if you have five, use five. So,
+[00:21:08] whatever you have, you want to get you
+[00:21:10] want to get those exact transcripts word
+[00:21:11] for word.
+[00:21:13] Okay? Now, after you have those
+[00:21:15] transcripts, you are then going to
+[00:21:17] feed all of these documents, these four,
+[00:21:21] as well as the transcripts of your
+[00:21:23] winning
+[00:21:27] ads. And guess what? You're going to
+[00:21:29] feed all this [ __ ] to
+[00:21:34] Claude. Now, for the exact prompts, it's
+[00:21:37] not super duper important. The way that
+[00:21:39] I like to do this is I essentially have
+[00:21:49] um yeah, I I essentially say, "Hey,
+[00:21:52] here's these four documents I'm selling
+[00:21:53] for this offer, blah blah blah. Please
+[00:21:54] analyze them. Let me know your
+[00:21:55] thoughts." Cool. I just wanted to have
+[00:21:56] that context, right? I'm like, "Cool,
+[00:21:59] great job. These are the winning ads
+[00:22:00] that are currently running in my
+[00:22:01] account. Here's the metrics behind them.
+[00:22:03] Spend, return on ad spend, P&L, CPA,
+[00:22:06] etc. Please analyze these and let me
+[00:22:07] know your thoughts." Cool. Here are the
+[00:22:10] worst ads, right? So, in addition to the
+[00:22:13] transcript of the winning ads, you also
+[00:22:14] want to have the transcripts of the
+[00:22:16] losing ads and and show as they are
+[00:22:18] anti-examples. I tested these and they
+[00:22:20] did so freaking terrible. So, it's going
+[00:22:22] to be it's going to be able to identify
+[00:22:24] what are the uh criteria that is
+[00:22:27] allowing this ad to be a winner. What is
+[00:22:29] the criteria that is allowing this ad to
+[00:22:31] be a loser? Right? Feed all this into
+[00:22:33] Claude. And when I say Claude, I mean
+[00:22:35] Claude 3.7
+[00:22:36] sonnet.
+[00:22:41] 3.7 sonnet, right? Cool. Now Claude has
+[00:22:45] all this context. Now you get to
+[00:22:47] actually begin the process of writing.
+[00:22:49] So again, if you have a brand already,
+[00:22:52] um you're going to want to go straight
+[00:22:54] into hooks and you want to create hooks
+[00:22:56] based off the uh existing winning hooks
+[00:23:00] that you have. All right. So, let's
+[00:23:01] break down let's break down the ad and
+[00:23:03] the hook in general. So, anytime that
+[00:23:04] you test a new ad, guys, you have this
+[00:23:07] is this is like your percentage of
+[00:23:09] success. This 90% right here is going to
+[00:23:13] be your hook. If you have like I have
+[00:23:16] seen ads that have just killer freaking
+[00:23:18] hooks,
+[00:23:19] killer. Everything else is pretty mid,
+[00:23:21] but killer hooks, winning
+[00:23:24] ads. This is like everything else. And
+[00:23:26] this is like the other 10%. All
+[00:23:31] right, you guys following
+[00:23:34] me? And so what I want to focus like if
+[00:23:37] you focus all your energy on the entire
+[00:23:39] ad, you pri prioritize everything.
+[00:23:41] You're not actually prioritizing
+[00:23:42] anything. So I want to prioritize the
+[00:23:44] hook. So what I'm going to do is I'm
+[00:23:47] going to feed it specifically the hooks
+[00:23:48] of the winning ads that I've had so far.
+[00:23:50] Again, if you don't have this, use
+[00:23:52] competitors. All right. So, you're going
+[00:23:54] to feed to
+[00:23:58] Claude winning
+[00:24:00] hooks and then just basically say along
+[00:24:04] the lines of I want you to create a list
+[00:24:06] of 20 additional hooks based off of the
+[00:24:08] principles that have allowed this
+[00:24:10] particular hook to be or these
+[00:24:12] particular hooks to be successful. I
+[00:24:14] want you to create a list of 20
+[00:24:16] different hooks and I'll let you know
+[00:24:17] how good they are. Basically, a process
+[00:24:18] like that. Okay. Now, we're gonna
+[00:24:20] [ __ ] pause right here because, you
+[00:24:23] know, I put this on my Twitter. If you
+[00:24:25] guys aren't follow me on Twitter, on X,
+[00:24:26] whatever, you should be because I put
+[00:24:28] out a lot of really, really good [ __ ]
+[00:24:30] Um, everything around like ads, funnels,
+[00:24:32] a lot of like B2B stuff. So, if you have
+[00:24:33] a brand, you're scaling, if you're a
+[00:24:35] beginner, probably not for you. But if
+[00:24:36] you have a business, this is for you.
+[00:24:38] And one of the things I was saying on
+[00:24:39] there is I think that the days of being
+[00:24:41] able to just test ads, like test, just
+[00:24:44] like throw [ __ ] against the wall and
+[00:24:46] hope it converts, I think those days are
+[00:24:47] going to come to an end. I really do.
+[00:24:49] With the development of AI, um there's
+[00:24:52] going to be a point where you can simply
+[00:24:55] analyze all the existing data in your ad
+[00:24:57] account, the ads, their metrics, the
+[00:24:59] scripts, the hooks, the scroll stoppers,
+[00:25:01] everything. And then you can know within
+[00:25:03] a certain degree of confidence how
+[00:25:05] likely it is that this next ad is going
+[00:25:07] to perform. Are we there yet? I am, but
+[00:25:10] not everybody. All right? So, that's
+[00:25:12] that's where we're going. And so after
+[00:25:15] you have this list, right, let's say you
+[00:25:16] have a list of 20 hooks right here. 20
+[00:25:21] [ __ ]
+[00:25:23] hooks. All
+[00:25:27] right. Now, you want to validate those
+[00:25:29] hooks. All right. So, it's technically
+[00:25:31] like a little mini step in the scripting
+[00:25:33] process is like the, you know, we'll
+[00:25:35] just call it like
+[00:25:37] validation
+[00:25:40] valid because how cool would it be if
+[00:25:42] you know if an ad is going to be
+[00:25:43] successful before you even put any spend
+[00:25:45] behind it? Pretty [ __ ] cool, right?
+[00:25:48] Well, we're not that far away from that.
+[00:25:50] Like I said, I'm already
+[00:25:55] there. Anyways,
+[00:25:59] uh this is going to get a little bit
+[00:26:00] technical here, but essentially I'm
+[00:26:03] going to breeze over this very quickly
+[00:26:05] and I'm going to implore you to do your
+[00:26:07] [ __ ] research on how to actually
+[00:26:09] execute this. But what you want to do is
+[00:26:12] you're going to go to
+[00:26:14] platform.openai.com. You are going to uh
+[00:26:17] go to fine-tuning and you're going to
+[00:26:19] create a new fine-tuning model off of
+[00:26:22] chatgbt40. And what you're going to feed
+[00:26:24] it is a JSON file of all of the top
+[00:26:27] performing um ads full uh hooks
+[00:26:31] specifically of those ads that you have
+[00:26:33] ever written uh for your business
+[00:26:36] specifically what is proven what is
+[00:26:37] backed by data and what is the data
+[00:26:39] behind those hooks. So you're like all
+[00:26:40] right this hook had an average hook rate
+[00:26:42] of this this hook uh was able to spend
+[00:26:44] this P&L was this rorowass was this CPA
+[00:26:46] was this. You're going to put all of
+[00:26:48] this data into a JSON file. You're going
+[00:26:50] to upload that file to the fine-tuning
+[00:26:52] model that you're creating. And what
+[00:26:54] it's going to do is create basically,
+[00:26:55] it's almost like a custom GPT, but it's
+[00:26:58] going to create what's called a
+[00:26:58] fine-tuned model that you can then have
+[00:27:00] a conversation with. You're basically
+[00:27:01] loading all this context into it. And
+[00:27:04] then you're going to give it a simple
+[00:27:05] prompt that's going to say, "Hey, I want
+[00:27:06] you to score these based off like the
+[00:27:07] winning ads. I want you to score this on
+[00:27:08] a scale from zero to 100." 100 being the
+[00:27:10] most likely that they perform based off
+[00:27:11] the data that I sent you. And zero being
+[00:27:13] the least likely they're going to
+[00:27:13] perform out based off the data that I
+[00:27:15] sent you. All right, so let's move on.
+[00:27:17] Basically, after you go through that
+[00:27:18] whole process, you should be at the
+[00:27:20] point where you know within a certain
+[00:27:22] degree of confidence if this ad is going
+[00:27:23] to be likely to win or likely to lose.
+[00:27:26] And when I say ad, I mean like hook.
+[00:27:27] Okay? So, what's going to happen is
+[00:27:30] you're going to create create a list of
+[00:27:31] a lot of hooks and most of them are not
+[00:27:33] going to pass the test of being over a
+[00:27:34] specific score. You want to select the
+[00:27:36] ones that have the highest score, the
+[00:27:37] highest likelihood of actually
+[00:27:38] succeeding. Right? Right. Right.
+[00:27:42] Right. All right. So, let's say that you
+[00:27:45] actually end up loading in a 100 hooks
+[00:27:48] and the ones that actually end up, you
+[00:27:50] know, looking somewhat promising is like
+[00:27:52] five of
+[00:27:56] them. So, now you have five hooks. These
+[00:27:59] are going to be the bases of the new ads
+[00:28:01] that you're going to be launching. Okay?
+[00:28:02] So, we have the first and the most
+[00:28:03] important part of the script, which is
+[00:28:06] the hook. And you have five variations.
+[00:28:08] All right. Good job. Put [ __ ] pat
+[00:28:10] yourself on the back. Any questions so
+[00:28:11] far?
+[00:28:27] If there's any questions, pop them in
+[00:28:28] the chat, please.
+[00:28:42] Yes, I will do a Q&A at the
+[00:29:01] end. You guys [ __ ] locked in or
+[00:29:06] what? Do I have to use this on separate
+[00:29:09] tools? I can do it all on chatb. You can
+[00:29:10] do it all on chatbt, but it's like
+[00:29:13] you're not going to be using it to the
+[00:29:15] extent that you probably could,
+[00:29:18] bro. Uh my Twitter is Markruns
+[00:29:27] ads is the research section for market
+[00:29:30] research/c customer research. Yeah,
+[00:29:32] exactly, bro. And by the way, again, a
+[00:29:34] little nuance here. If you have a brand
+[00:29:36] already, when you're doing the research
+[00:29:37] document, don't just say, "Hey, go look
+[00:29:39] on the internet." Feed it your
+[00:29:41] data. Feed it your
+[00:29:45] data. What I mean by that is feed it
+[00:29:48] your existing winning ads, your existing
+[00:29:50] landing pages, your existing uh
+[00:29:53] advtorials or VSSLs if you're running
+[00:29:55] them. feed it all your data and then say
+[00:29:57] use this in addition to the research
+[00:29:58] that you're going to do out on the
+[00:30:00] internet because there's no better data
+[00:30:02] than the [ __ ] customers that are
+[00:30:03] already buying from
+[00:30:07] you. All right, let's keep cooking. So,
+[00:30:09] you got the hooks. Great job.
+[00:30:15] Amazing. Now, we move on to the body.
+[00:30:19] Now, the body, you know, the scripting
+[00:30:21] from this point on is actually going to
+[00:30:23] be very similar. If I was testing a new
+[00:30:24] ads, I would probably do one body with
+[00:30:26] multiple hooks. Or if you're testing a
+[00:30:28] scale, let's say five bodies and 20
+[00:30:30] hooks. That's typically about the ratio
+[00:30:32] that I do. But that creates a very, very
+[00:30:34] large combination of different ads you
+[00:30:36] can test just right there, right? Um,
+[00:30:39] and if you're running VSSLs, I would do
+[00:30:41] hook as well as lead because a lead
+[00:30:44] plays definitely a very, very big role
+[00:30:45] in extending the life of a particular
+[00:30:48] VSSL. Now, for the body, you're
+[00:30:51] literally going to follow this exact
+[00:30:52] same process. You're going to go back to
+[00:30:54] Claude. You're going to take a
+[00:30:55] particular hook. You're going to say,
+[00:30:56] "Hey, I want you to rewrite this based
+[00:30:58] off of the winning ass scripts that I
+[00:30:59] sent you before. Uh, this is like the
+[00:31:01] target length that I'm looking for.
+[00:31:03] Please make sure you reference the
+[00:31:04] necessary belief stock, the research,
+[00:31:05] etc. Upload all the foundational
+[00:31:07] documents in there so that it's all
+[00:31:08] writing in alignment with those doc
+[00:31:10] because again, that is like your that's
+[00:31:11] your north [ __ ] star for everything.
+[00:31:14] It shouldn't just be writing copy to
+[00:31:15] write copy, right? It should be writing
+[00:31:16] based off the research that you've
+[00:31:18] already done.
+[00:31:20] some of the best copywriters uh in
+[00:31:22] history, they say that like the research
+[00:31:25] process is actually what takes 80% of
+[00:31:27] your time and the actual writing is like
+[00:31:29] the easy part. That's like the
+[00:31:31] 20%. And then they say the same thing
+[00:31:33] about chiefing
+[00:31:37] ironically. Okay, so that's the process
+[00:31:40] for bodies. Very similar, exact same
+[00:31:42] thing. You're going to follow the same
+[00:31:43] validation process, uh fine-tuning, open
+[00:31:45] AAI, blah blah blah. But now you should
+[00:31:48] have at least five hooks in let's say
+[00:31:50] one body for new ads that you can text
+[00:31:53] you can test.
+[00:31:54] Congratulations, you now have completed
+[00:31:56] the step of scripting and those scripts
+[00:31:58] are now validated and you chose the ones
+[00:32:00] that are most likely to convert and make
+[00:32:02] you money. Next step is sourcing. If you
+[00:32:05] don't know what sourcing means, all it
+[00:32:06] means is finding the content, the visual
+[00:32:08] content that's going to be uh overlaid
+[00:32:11] on the script or underllay on the
+[00:32:14] script. Yeah, [ __ ] one or the other.
+[00:32:16] you get it.
+[00:32:18] Um, for me, I don't participate a whole
+[00:32:21] lot in this process because I have a
+[00:32:22] team. So, I'll literally just be like,
+[00:32:23] "Hey, this is a script." I send it over.
+[00:32:25] I send kind of the general ad ideas
+[00:32:27] like, "What type of ad is this? Is this
+[00:32:28] UGC? Is this going to be VSSL,
+[00:32:30] traditional? Is this going to be a
+[00:32:32] typical ecom ad, uh, static, etc. Right?
+[00:32:35] I'm going to use all that [ __ ] and send
+[00:32:37] that straight to the editors. However,
+[00:32:38] if I didn't have editors, what I would
+[00:32:40] do is I would use a combination of a few
+[00:32:42] different resources.
+[00:32:44] Um, a damn. All right, let's go back
+[00:32:47] down
+[00:32:49] here. So, with sourcing
+[00:32:54] content, I would be using a few
+[00:32:56] different types of content, right?
+[00:32:58] Because if you just use B-roll
+[00:33:00] throughout your entire [ __ ] ad,
+[00:33:01] nobody's going to watch it. It's boring.
+[00:33:04] Um, so what you should use is a
+[00:33:06] combination of few different types of
+[00:33:08] footage. For example, AI UGC is like the
+[00:33:12] perfect example. I personally believe
+[00:33:14] that for AIUGC, the best model out there
+[00:33:16] right now is uh
+[00:33:20] captions.ai. It's really cheap. Uh
+[00:33:23] probably the most indistinguishable
+[00:33:25] currently out on the market. You know,
+[00:33:27] that's up for debate, of course. That's
+[00:33:28] just my personal opinion. Um but that's
+[00:33:31] like the first type of content that you
+[00:33:32] could use. The second is going to be
+[00:33:35] basically like product shots.
+[00:33:39] Now, for product shots, you can either
+[00:33:42] go to Fiverr and have somebody um you
+[00:33:46] know, have somebody create videos of
+[00:33:48] your product there, or you can use AI
+[00:33:53] and basically do uh this is actually so
+[00:33:55] [ __ ] cool that you can do this. I'll
+[00:33:57] do chat GPT image generation,
+[00:34:01] chatg image generation, and then use
+[00:34:05] cling.ai for
+[00:34:08] image to video. There's a bunch of
+[00:34:11] softwares that do image to video. I use
+[00:34:12] Clean AI. I think they're they're really
+[00:34:14] really good. Um, but basically, you can
+[00:34:17] take an image where a customer has their
+[00:34:19] pro has your product in their [ __ ]
+[00:34:21] hand. Take that image and turn it into a
+[00:34:23] video that you can use in the video ad
+[00:34:26] that you're actually running. Like,
+[00:34:27] that's [ __ ] crazy. The barrier to
+[00:34:29] entry is getting [ __ ] lower and lower
+[00:34:31] and lower. It's crazy. Um, so yeah,
+[00:34:34] that's what I would use there. Now, for
+[00:34:36] other types of content, you have AIUGC,
+[00:34:39] you have product shots, you just have
+[00:34:41] standard
+[00:34:45] B-roll. And for standard B-roll, you
+[00:34:48] know, you can use something like story
+[00:34:50] blocks. It's kind of like the the gold
+[00:34:51] standard typically for B-roll. Or you
+[00:34:53] can just copy this exact process here
+[00:34:55] and create custom B-roll using
+[00:35:03] AI.
+[00:35:05] here. All right. So, let's say like
+[00:35:07] story blocks right
+[00:35:12] there.
+[00:35:17] Um, I think that's about it in terms of
+[00:35:19] sourcing content. This is exactly what I
+[00:35:20] would do. It the level to which one you
+[00:35:22] use AI is up to you. Obviously, we use
+[00:35:24] it a lot and uh, you know, if there's
+[00:35:27] not a lot of footage out there on the
+[00:35:29] internet that you can actually use, then
+[00:35:31] you should be using AI and you should be
+[00:35:32] using it very extensively.
+[00:35:35] So at this point, right, right, right,
+[00:35:38] you should
+[00:35:40] have the [ __ ] sourcing done,
+[00:35:44] scripting done, ideation done. Now
+[00:35:46] you're up to editing. Again, I have an
+[00:35:49] editing team, so I will send this
+[00:35:51] straight to the editors and they will
+[00:35:52] cook it up. Uh, if you don't have an
+[00:35:56] editing team, a few things I can
+[00:35:58] recommend you. All right, a few really,
+[00:36:00] really good softwares out there. For
+[00:36:02] editing specifically, let me just go
+[00:36:04] right
+[00:36:07] here. For the editing process
+[00:36:09] specifically, you can use a few
+[00:36:11] different tools. Number one is just
+[00:36:13] called AI video. It's either video or
+[00:36:16] videos, I can't remember. AI videos.com.
+[00:36:18] Really, really good AI empowered video
+[00:36:20] editing software. There's another one
+[00:36:23] called Fil Mora that is very, very good.
+[00:36:26] These two I would basically be using
+[00:36:28] them side by side. They both have
+[00:36:29] specific benefits that I could touch on,
+[00:36:31] but I don't think it's really important
+[00:36:32] for the circumstance. Just use them
+[00:36:34] yourself. Fila has a really cool feature
+[00:36:36] where you can taste you can take like a
+[00:36:37] really shitty clip that looks like it
+[00:36:39] was shot on a [ __ ] potato and turn it
+[00:36:41] into like 4K ultra
+[00:36:43] HD and uh you can't even tell the
+[00:36:45] difference. So, those are two tools that
+[00:36:47] you could use it to put it all together.
+[00:36:49] This is still the step in the process
+[00:36:51] where I don't think AI has fully
+[00:36:53] developed to the point where it can be
+[00:36:54] 100% automated.
+[00:36:58] All right. So,
+[00:36:59] that's that was a lot faster than I was
+[00:37:01] expecting actually. That's basically the
+[00:37:03] whole process.
+[00:37:06] Um, now I'm going to touch on this very
+[00:37:10] briefly,
+[00:37:11] but those were the steps. Right now, do
+[00:37:14] I actually go through and do every
+[00:37:16] single one of those steps myself? No.
+[00:37:18] That's why I use things like uh Manis AI
+[00:37:23] for example to be the one that actually
+[00:37:26] is validating the scripts like one by
+[00:37:28] one so I don't have to do that. If I
+[00:37:30] want to validate like a hundred hooks in
+[00:37:32] a row, that's going to take me a lot of
+[00:37:34] [ __ ] time to take one, you know, copy
+[00:37:36] it over here, paste it into here, get
+[00:37:38] the score, paste it back, and just do
+[00:37:39] that over and over and over again. No,
+[00:37:41] I'm going to have, you know, an AI agent
+[00:37:43] do that for me, such as Misai. Um, Super
+[00:37:47] Agent is also a phenomenal AI agent
+[00:37:49] tool. The only thing is it can't go and
+[00:37:50] like control a separate browser for you.
+[00:37:53] So, it can do just about anything. It's
+[00:37:54] like chatbt on steroids. Um, it can
+[00:37:57] build web pages for you, like custom web
+[00:37:59] pages. It can help you visualize the
+[00:38:01] data within your ad account. It's very
+[00:38:02] helpful. But,
+[00:38:04] um, in terms
+[00:38:09] of having that separate browser, it just
+[00:38:11] doesn't have that functionality as of
+[00:38:12] right now.
+[00:38:15] But it is wicked fast for what it can
+[00:38:16] do. All right, so that's like the first
+[00:38:19] half of how you can speed this [ __ ] up
+[00:38:21] like crazy. The second half is the
+[00:38:24] workflows and automations. All right, so
+[00:38:26] I just gave you this whole process. I'm
+[00:38:28] not going to go through my NAD workflows
+[00:38:30] right now, but I just want to once again
+[00:38:32] implore you to explore this yourself.
+[00:38:34] What if you could create an NAND
+[00:38:37] workflow that connects all these tools
+[00:38:38] together? It looks at your wedding ads.
+[00:38:41] It takes that winning ad data, feeds it
+[00:38:42] into Claude along with your foundational
+[00:38:44] documents. It prompts Claude without you
+[00:38:46] having to do anything on how to write
+[00:38:47] the hooks and the bodies and the blah
+[00:38:49] blah blah and the VSSLs all the way
+[00:38:50] start to finish. It then brings that to
+[00:38:53] that custom fine to model that you have
+[00:38:54] on OpenAI that validates the hooks and
+[00:38:56] the scripts and make sure that they
+[00:38:57] actually work. Then you have the full
+[00:39:00] script 100% together. You feed that into
+[00:39:02] Catherine's AI. You have the custom UGC.
+[00:39:04] It's just completely outputed for you
+[00:39:05] 100% perfect, exactly how you like it.
+[00:39:07] And
+[00:39:08] then from there it gets a little messy,
+[00:39:11] but that's like ultimately what the
+[00:39:13] process is going to look like. It's so
+[00:39:14] clear in my mind because we have this
+[00:39:16] built out. And you know, of course, it's
+[00:39:19] not perfect. It takes a lot of tweaking
+[00:39:20] anytime you get like deep into the AI
+[00:39:22] automation stuff because you have to
+[00:39:24] think of AI agents literally as
+[00:39:25] employees, right? If you don't give them
+[00:39:27] the right instructions, they're not
+[00:39:29] going to do anything right. And you
+[00:39:30] could be like, "Oh, this employee is so
+[00:39:32] stupid. Boo, stupid AI." No, really,
+[00:39:36] you're the stupid one because you just
+[00:39:38] didn't prompt it right. You didn't give
+[00:39:39] it the right resources, the right
+[00:39:40] information, and the right training to
+[00:39:42] actually be an effective employee.
+[00:39:44] That's the way you should be thinking
+[00:39:45] about it. All right, I'm gonna
+[00:39:55] pause. Uh, all
+[00:39:59] right. Let's do a Q&A. By the way, that
+[00:40:02] was that was all I had to share at the
+[00:40:04] moment.
+[00:40:10] You tried captions is so
+[00:40:12] bad. Yeah, bro. It's It's trash.
+[00:40:15] Definitely not getting us 3x rows on
+[00:40:18] cold traffic at scale. Yeah, don't use
+[00:40:21] it.
+[00:40:24] Boo. Once again, dude, like if you if
+[00:40:26] you're like, "Oh man, that AI is trash.
+[00:40:28] It sucks." And you probably just suck at
+[00:40:30] prompting it.
+[00:40:37] It is slow. It is definitely slow. But
+[00:40:39] in this particular case, I'm willing to
+[00:40:42] to wait for
+[00:40:43] it. But if you think there's something
+[00:40:45] else out there, bro, that's better, then
+[00:40:47] just use that, man. To each their
+[00:40:55] own. Uh, dude, Mark used Sora for
+[00:40:58] B-roll. I think it's pretty good. It is
+[00:40:59] pretty good, man. It's pretty good.
+[00:41:01] There's so many of the text to video
+[00:41:02] options out there that are really good.
+[00:41:04] Sor is a great one. Um, [ __ ] I had some
+[00:41:07] other uh Lun Luna Luna. Luma, Luma,
+[00:41:11] that's what it is. Luma, very
+[00:41:24] good. Uh, Elias, what is the ideal ad
+[00:41:27] spend to have per ad per day? I mean a
+[00:41:32] minimum in my opinion a minimum of like
+[00:41:35] 10 to 20 bucks per day per ad because if
+[00:41:37] you have like three adsets in there I'm
+[00:41:39] sorry three ads within one single adset.
+[00:41:41] I don't really ever put adsets at less
+[00:41:44] than $50 a
+[00:41:51] day. Okay. What's up? If I want to make
+[00:41:53] an AI image on chatb with my clothing
+[00:41:55] brand as a vintage reseller can't copy
+[00:41:56] the exact logo. Is there a way to do
+[00:41:58] this?
+[00:42:09] What if I want to make an AI image on
+[00:42:12] chat with my clothing
+[00:42:16] brand? Oh, chat can't copy the exact
+[00:42:19] logo. Bro, just try other image
+[00:42:22] generation softwares or just try to give
+[00:42:23] it a better prompt. You know, a little
+[00:42:24] hack for all you guys here. If you're
+[00:42:26] not prompting AI the right way, just
+[00:42:28] make AI write the prompt for you. It's
+[00:42:30] [ __ ] AI inception. AI writes the
+[00:42:32] prompt to feed to the other AI that
+[00:42:34] executes the prompt,
+[00:42:41] right? Uh Elias, is CBO
+[00:42:46] better? Man, I see people run with CBO
+[00:42:49] and [ __ ] both at scale. Ultimately, it's
+[00:42:51] it's up to test. We don't run a lot of
+[00:42:52] CBOS. If anything, we run advantage plus
+[00:42:55] shopping campaigns. Um, that's the only
+[00:42:57] form of CBO that we really run, but most
+[00:43:00] of our [ __ ] right now is at [ __ ] Uh,
+[00:43:02] like for for one of our brands right
+[00:43:03] now, spending 15 to 20k a day, almost
+[00:43:06] everything is [ __ ] but everything is
+[00:43:08] broad in those ABOs. Broad [ __ ]
+[00:43:11] ABO's, hey, shirtless buff Magnus, do
+[00:43:14] you mentor at all? Um, dude, I do have a
+[00:43:18] a mentorship program if you guys want to
+[00:43:20] check it out.
+[00:43:22] Um, you can click the first link in the
+[00:43:25] description. It's called Brand Builders
+[00:43:26] Academy. It's a program that I've been
+[00:43:28] building over the past like four or five
+[00:43:30] years. And I didn't really promote it
+[00:43:32] publicly until a few months ago because
+[00:43:33] I didn't really need to. And I I still
+[00:43:35] don't need to. But um, yeah, if you want
+[00:43:39] to check it out, you like the content,
+[00:43:40] you have some capital set aside, the
+[00:43:42] biggest thing we can offer you in there,
+[00:43:43] obviously we have amazing training, but
+[00:43:44] we have amazing coaches. Like we
+[00:43:46] literally assign you somebody who owns
+[00:43:49] an ecom brand that is successful who can
+[00:43:52] like hold your hand through the whole
+[00:43:53] process a toz help you find products
+[00:43:54] analyze your Facebook ad data with you.
+[00:43:56] It's very very helpful because what
+[00:43:58] really you need is like not another
+[00:44:00] course. What you really need is that
+[00:44:01] personalized one-on-one coaching. In my
+[00:44:03] opinion, that's what I always needed. I
+[00:44:05] was like, I get the course content,
+[00:44:06] cool, but like why is this particular ad
+[00:44:09] not working? That's really what you
+[00:44:10] need.
+[00:44:23] Oh, I missed so many questions. All
+[00:44:25] right, Ethan, do you ever plan on
+[00:44:27] pivoting and building your own startup?
+[00:44:29] I feel like that content of scaling
+[00:44:31] something from the ground up would be
+[00:44:32] sick and a great case study for ecom
+[00:44:34] knowledge. I mean, I'm building a
+[00:44:36] startup right now, bro. I have a SAS
+[00:44:38] company that's that's get hooked. Um, we
+[00:44:41] we are quite literally building that
+[00:44:42] from the ground up. So, I'm already in
+[00:44:43] that
+[00:44:47] process. Do you plan on keeping this on
+[00:44:49] YouTube? Yeah, I'll keep it up, man.
+[00:44:50] I'll keep it up. I'll keep it up until
+[00:44:53] one of you piss me off when I take it
+[00:44:57] down. That was a joke. Haha. Laugh.
+[00:45:03] [ __ ] What is the most valuable lives
+[00:45:05] that you did? I mean, I think the
+[00:45:07] conscious consciousness one, man.
+[00:45:08] Applied consciousness is probably one of
+[00:45:09] the most valuable lives I've ever did.
+[00:45:12] Um, it actually ended up getting more
+[00:45:14] views than I expected and I I really
+[00:45:17] could have gone so much deeper. I
+[00:45:20] actually I gave a presentation in Dubai
+[00:45:22] about applying consciousness to to
+[00:45:24] funnels and to copy. I think I'm going
+[00:45:26] to release it uh but only as an unlisted
+[00:45:28] video. So, just keep an eye out for
+[00:45:30] that. I'll I'll let you know on IG. So,
+[00:45:32] if you're not following me on IG, make
+[00:45:34] sure you are. Uh, Mark Builds Brands on
+[00:45:36] IG.
+[00:45:41] Uh, will you do a quick easy to follow
+[00:45:43] video on this?
+[00:45:48] No. How much is all of it costing you
+[00:45:51] for a full workflow? It depends what
+[00:45:52] workflow, bro. But it definitely does
+[00:45:54] rack up the it racks up the credits on
+[00:45:57] on OpenAI and all these models, but uh
+[00:46:00] you know, there are models out there
+[00:46:01] that are significantly cheaper. If you
+[00:46:03] just look
+[00:46:08] um look at
+[00:46:11] this. So this is a comparison of all the
+[00:46:13] AI models that we have out right now
+[00:46:15] between intelligence performance and
+[00:46:16] price analysis. Look at the price. All
+[00:46:18] right. Just just look right here. You
+[00:46:20] see this most expensive [ __ ] one?
+[00:46:22] Yeah. That's chatbt40. That's like the
+[00:46:24] most common one that people use. So
+[00:46:26] expensive. But you could literally just
+[00:46:28] get like a duplicate of Chachi PT, which
+[00:46:30] is like DeepS if you wanted to use that
+[00:46:33] or any of these other models and be able
+[00:46:35] to operate at like a fraction of the
+[00:46:41] price. Oh wow. I think this is new
+[00:46:43] actually. I think Gemini 2.5 was or
+[00:46:47] maybe it's old. Gemini 2.5 I think
+[00:46:50] scored higher on intelligence than 40
+[00:46:51] Mini. That's interesting.
+[00:46:54] Anyways, next question.
+[00:47:09] Uh, Berisha, have you tried
+[00:47:11] incense for UGC
+[00:47:19] creation? Oh, yeah. Yeah, I know this
+[00:47:21] platform. I mean, dude, I
+[00:47:23] think so. I I think the organic side of
+[00:47:27] these platforms, for example, you know,
+[00:47:30] Instagram, Tik Tok, YouTube, I think
+[00:47:32] that they're probably going to penalize
+[00:47:33] AI UGC. However, I don't see that
+[00:47:36] happening with the paid side. I could be
+[00:47:38] totally wrong. They could figure out a
+[00:47:40] way to identify, you know, paid ads UG
+[00:47:44] AI UGC and then penalize you with like
+[00:47:46] higher CPMs for lower quality traffic or
+[00:47:48] something like that. But that's
+[00:47:50] obviously not the case right now. I
+[00:47:51] mean, most of our creatives are made
+[00:47:52] with AI UGC at the moment. So, I don't
+[00:47:55] think that that's there, but I see that
+[00:47:57] as a real possibility for
+[00:47:59] organic. So, uh, for that reason, I
+[00:48:01] haven't used an incense. No. And I don't
+[00:48:03] plan on
+[00:48:05] it.
+[00:48:07] Tony Maranovich, which country do you
+[00:48:10] live in? I live in America. Do you think
+[00:48:14] about moving to Dubai or any tax-free
+[00:48:16] mostly countries? The thing is, dude,
+[00:48:18] like the more that I travel around the
+[00:48:19] world, the more that I realize how
+[00:48:21] blessed I am to live in America. Like we
+[00:48:22] have our we have issues like we got
+[00:48:24] serious [ __ ] issues like bureaucracy,
+[00:48:26] government, deep state, it's all real
+[00:48:29] and uh I get it. But we also have so
+[00:48:33] many advantageous assets specifically
+[00:48:37] for entrepreneurs in the United States.
+[00:48:40] And if I were to move to Dubai, I would
+[00:48:42] still have to pay US tax. And the only
+[00:48:44] case that I wouldn't is I was have to
+[00:48:46] revoke my US citizenship.
+[00:48:48] And I for me that trade-off is not worth
+[00:48:51] it at the
+[00:49:02] moment. Oh my
+[00:49:05] god. A marketer recommended to start on
+[00:49:09] brand awareness instead of sales.
+[00:49:18] may have to [ __ ] leave my room to go
+[00:49:20] throw up. Bro, that's that's terrible
+[00:49:24] advice. Even if you're just warming up
+[00:49:27] an ad account, bro, I would not run a
+[00:49:28] brand awareness campaign. I would
+[00:49:31] still strip that man of his marketer
+[00:49:34] title. That's
+[00:49:39] embarrassing. Wasif, should you start
+[00:49:41] testing a product with a chatfunnel? So,
+[00:49:44] my philosophy, bro, is like the whole
+[00:49:45] funnel architecture thing that I go over
+[00:49:46] the Chadfunnel. It's best after you
+[00:49:49] validate a product yourself. And what I
+[00:49:51] mean by that is at least $1,000 a day
+[00:49:53] and spend, make sure that people
+[00:49:54] actually want it from you and then
+[00:49:56] convert to a
+[00:50:03] funnel. Uh, LLO, what's up, bro? Dutch
+[00:50:07] homie, are you building the agents
+[00:50:09] yourself or using agency? Um, so we
+[00:50:12] actually we have people in house and I'm
+[00:50:14] also building them myself because I
+[00:50:16] think it's super
+[00:50:39] fascinating in mass workflows. I'm using
+[00:50:42] Gemini. It's faster and way cheaper.
+[00:50:43] Dude, Gemini is great, man. Again, the
+[00:50:45] the only reason I wouldn't use that
+[00:50:47] because specific models have specific
+[00:50:50] use
+[00:50:51] cases. And for example, if I were to go
+[00:50:53] and write copy, like Gemini would be the
+[00:50:55] last place that I would go because it's
+[00:50:58] not very good at um that creativity and
+[00:51:01] writing aspect.
+[00:51:21] Uh, Dvari Goney, use move the needle.
+[00:51:25] [ __ ] the spirituality stuff. Just move
+[00:51:27] the needle forward. You know, the
+[00:51:28] mindset and who you have to
+[00:51:31] become. I'd be very wary saying [ __ ] the
+[00:51:34] spirituality stuff, bro.
+[00:51:40] I the what I say about this is that you
+[00:51:43] know most things in life are some type
+[00:51:44] of 8020 and in the same way that you
+[00:51:48] shouldn't spend more than 20% of your
+[00:51:49] time in the dark side and your shadow
+[00:51:51] you also should not spend more than 20
+[00:51:53] 20% of your time going deep into
+[00:51:55] spirituality stuff because you're going
+[00:51:56] to lose all your bearings and
+[00:51:58] groundedness in reality and you're just
+[00:52:01] going to be this wavy flaky individual
+[00:52:04] that just comes and goes and you don't
+[00:52:06] actually have the discipline to sit down
+[00:52:07] and stay grounded and get your deep work
+[00:52:13] done. Switching switching to a different
+[00:52:16] AI from chat would feel like going
+[00:52:18] through a breakup.
+[00:52:48] Yeah, Lawlo, I I totally understand what
+[00:52:50] you mean. He said, "Do you have people
+[00:52:51] in your team doing everything from a toz
+[00:52:53] from content creation with AI sourcing
+[00:52:54] to editing?" As I see a lot of video
+[00:52:56] editors don't have real knowledge. Dude,
+[00:52:57] you have to, my opinion on this is you
+[00:53:00] have to find an editor that is really
+[00:53:03] hardworking, has good values, and
+[00:53:04] matches your culture. And then you have
+[00:53:06] to invest in them to become trained with
+[00:53:08] AI. I think AI video editors just take
+[00:53:11] like think of the average video editor
+[00:53:13] and then think of how many of them are
+[00:53:15] really empowered with AI. I think you
+[00:53:17] got to invest in your team and you know,
+[00:53:20] invest in AI training, send them YouTube
+[00:53:22] videos, uh, and really just push them,
+[00:53:25] right? push them to develop their skill
+[00:53:28] set even more so that they can be the
+[00:53:32] type of person that you just send them a
+[00:53:33] script and then they pop out like this
+[00:53:34] beautiful ad really really quickly all
+[00:53:36] done with
+[00:53:48] AI. All right, guys. Any last questions?
+[00:53:50] I got to hop off pretty soon here.
+[00:54:07] um DI still shipping to US or go
+[00:54:10] straight to US at this point. It's
+[00:54:11] confusing for noobs. No, we're still
+[00:54:13] shipping to US, man. Honestly, like if
+[00:54:16] if the tariffs go through, like we're
+[00:54:17] not going to stop shipping from China.
+[00:54:20] Unfortunately, like our COGS are so low
+[00:54:21] in the first place that even like a 2 to
+[00:54:24] 3x increase is, you know, it's not going
+[00:54:26] to kill us. We just got to lower CPA
+[00:54:27] tiny tiny bit. Um, and we already have a
+[00:54:31] portion of our manufacturing done in the
+[00:54:32] US. So, fortunately, we're we're not
+[00:54:35] going to
+[00:54:36] be we're not going to be super
+[00:54:40] [ __ ] What's a good daily budget when
+[00:54:42] testing a new product? Um, let's say $50
+[00:54:45] to $100 a day, depending on how quickly
+[00:54:47] you want to get data, bro. I think
+[00:54:49] that's the best uh the best way to
+[00:54:54] start.
+[00:54:56] Jason Mark, when you're testing a new
+[00:54:58] product, at what point do you decide to
+[00:54:59] move on? I've spent over $500 on my
+[00:55:01] initial launch with zero added car. Oh,
+[00:55:03] Jesus
+[00:55:05] Christ. Yeah, dude. If I mean, I don't
+[00:55:07] know what the price of your product is.
+[00:55:09] Even if it's like $1,000, that's that's
+[00:55:11] that's not good data. So, that's that's
+[00:55:14] a real problem.
+[00:55:16] Um, again, this really depends on like
+[00:55:18] the price of your product, but if you
+[00:55:20] don't see at least an add card after
+[00:55:21] like a $100 in spend, bro, that'd
+[00:55:23] probably be something that I that I
+[00:55:24] would
+[00:55:25] cut. Something is very, very wrong. If
+[00:55:28] you spend
+[00:55:31] $500, either your CPC is astronomical or
+[00:55:34] you have the worst sales page on planet
+[00:55:37] Earth. So, you got to go you got to go
+[00:55:39] through and diagnose where the breakdown
+[00:55:41] is occurring. Exactly. had watched my
+[00:55:42] video on oh [ __ ] I don't even remember
+[00:55:45] what it was called I don't know
+[00:55:47] basically I say that anytime that you
+[00:55:49] test a product and it doesn't
+[00:55:50] immediately become profitable the most
+[00:55:53] important thing that you can do is ask
+[00:55:54] yourself why and identify where the
+[00:55:56] breakdown was occurring was it a funnel
+[00:55:57] breakdown or was it an ad breakdown if
+[00:56:00] it was ad breakdown you'll have high
+[00:56:01] CPMs low CTR high CPC and also you have
+[00:56:06] very low hook rate and very low hold
+[00:56:07] rate and very low average video duration
+[00:56:11] and very low cost per 3 second view if
+[00:56:13] you want to get, you know, really,
+[00:56:14] really down in there. If it's a funnel
+[00:56:16] problem, you'll have no add to
+[00:56:19] carts. Um, no, all seriousness, you
+[00:56:23] should have a 10% view content to add to
+[00:56:25] cart ratio or like view landing page add
+[00:56:27] to cart ratio. So, if you send a 100
+[00:56:29] people, 100 people land on that landing
+[00:56:31] page, you should have at least 10
+[00:56:33] actually adding to cart. That's the KPI.
+[00:56:46] All right, guys. That's going to be it
+[00:56:47] for today's live.
+[00:56:49] Um, thank you so much for watching. This
+[00:56:52] was I think there's going to be very few
+[00:56:54] people that actually watch this and
+[00:56:55] apply it. For those that do, I'll see
+[00:56:57] you at the [ __ ] top. Other than that,
+[00:57:00] y'all have a great one. I'll talk to
+[00:57:01] y'all later. Peace. Let's cue. Let's cue
+[00:57:04] an outro here. What do we want today?
+[00:57:23] It's just going to be awkward silence.
+[00:57:42] Run more ads.
+[00:58:02] at the
+[00:58:04] window. Okay. Know what? I don't talk to
+[00:58:07] them your [ __ ] I pick up all your
+[00:58:10] [ __ ] up [ __ ]
+[00:58:16] up.
+[00:58:17] I'm
+[00:58:19] a feel like I'm talking to
+[00:58:33] people. [ __ ] I have a cause.

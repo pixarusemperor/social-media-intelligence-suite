@@ -1,0 +1,520 @@
+# why your ads are performing like sh*t (urgent andromeda update)
+URL: https://www.youtube.com/watch?v=rlsHAWkeS3M
+Category: video
+Duration: 984s
+Published: 20251009
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to show you why your ads have been
+[00:00:03] recently performing like absolute
+[00:00:04] garbage and the Andromeda update from
+[00:00:07] Facebook. That is probably the reason
+[00:00:09] behind it. The Andromeda update is a new
+[00:00:12] algorithm update from Facebook
+[00:00:13] specifically surrounding how Facebook is
+[00:00:16] sorting through these tens of millions
+[00:00:18] of ads and deciding which creatives to
+[00:00:20] show to which individuals. And while
+[00:00:22] this article was written on December
+[00:00:24] 2nd, 2024, this actually wasn't fully
+[00:00:27] rolled out until July. If you had a
+[00:00:29] terrible, terrible July, this is
+[00:00:31] probably part of the reason why. And
+[00:00:33] many people up until right now, it's now
+[00:00:35] October, are still incredibly struggling
+[00:00:37] with this update. And so, Facebook
+[00:00:39] released this article. It's relatively
+[00:00:41] technical. And so, most people say that
+[00:00:42] you read through this article and you
+[00:00:44] basically are more confused than you
+[00:00:45] were in the first place. But I'm going
+[00:00:46] to break it down for you and explain it
+[00:00:48] at a surface level. Because the reason
+[00:00:50] why so many advertisers are struggling
+[00:00:52] right now is because they don't actually
+[00:00:54] know how generally the Facebook machine
+[00:00:57] works in the first place. even before
+[00:00:58] the Andromeda update. If you don't
+[00:01:00] understand that, you're definitely not
+[00:01:01] going to understand Andromeda. So, I'm
+[00:01:02] going to explain that right now.
+[00:01:03] Facebook has a catalog of tens of
+[00:01:05] millions of ads and it has to sift
+[00:01:08] through all of them every single day,
+[00:01:09] millions of times per day. And Facebook
+[00:01:11] is doing all of this, sorting through
+[00:01:13] all these tens of millions of ads and
+[00:01:14] deciding exactly what ads to show you as
+[00:01:17] soon as you open Instagram or Facebook
+[00:01:19] within 200 milliseconds of you opening.
+[00:01:22] Just think about the math for a second.
+[00:01:23] Sifting through tens of millions of ads
+[00:01:25] and identifying three to five that
+[00:01:27] you're going to see within your next few
+[00:01:28] scrolls. That's an insane amount of
+[00:01:30] data. That's why I always say Facebook
+[00:01:31] is a data platform, not an ad platform.
+[00:01:33] So, you have this massive catalog of ads
+[00:01:35] that has to be sorted through to
+[00:01:37] eventually be shown on your customer's
+[00:01:39] phone. And the Andromeda update is
+[00:01:41] specifically a new AI powered brain that
+[00:01:44] is deciding which ads you show to which
+[00:01:46] customer. But this is pretty basic and
+[00:01:47] you probably already knew this, right?
+[00:01:49] So, let's get a little bit deeper. The
+[00:01:50] question is, of course, how how is
+[00:01:51] Facebook sifting through tens of
+[00:01:53] millions of ads, this massive ecosystem
+[00:01:55] of advertising assets, and deciding
+[00:01:57] within 200 milliseconds the exact
+[00:01:59] creative to show to your customer? Well,
+[00:02:01] it's actually a four-step process. Step
+[00:02:04] number one in this process is called
+[00:02:05] retrieval. And this is where Facebook is
+[00:02:07] taking those tens of millions of ads,
+[00:02:09] filtering it down by well over 90% into
+[00:02:12] thousands. Literally just taking
+[00:02:13] millions of ads, finding the ones that
+[00:02:15] are generally relevant to your audience,
+[00:02:17] and turning them into thousands. The
+[00:02:18] next step is called light ranking, which
+[00:02:20] is where you take the thousands and turn
+[00:02:22] them into hundreds. After light ranking,
+[00:02:24] you go into final scoring, which is you
+[00:02:26] take those hundreds of ads and you
+[00:02:27] actually begin to rank them based off
+[00:02:30] what's called total predicted advertiser
+[00:02:32] value. And of course, the fourth step is
+[00:02:34] going to be where the actual auction
+[00:02:35] happens, where you're competing directly
+[00:02:37] against your competitors for the
+[00:02:39] creative that's going to, according to
+[00:02:40] Facebook, resonate most with your
+[00:02:42] audience and eventually be served that
+[00:02:43] impression. Okay? Now, this step alone,
+[00:02:46] I'll let you guys in on a little
+[00:02:47] something. Facebook released this kind
+[00:02:48] of diagram many years ago. The OGs in
+[00:02:51] the advertising space will know what I'm
+[00:02:52] talking about, but they released this
+[00:02:54] diagram that explains actually how they
+[00:02:56] calculate the total advertiser value of
+[00:02:59] one singular creative. So, when you're
+[00:03:01] going directly head-to-head against your
+[00:03:03] competitors, here's what's actually
+[00:03:04] going on behind the scenes. Okay, let's
+[00:03:06] break this down cuz this is the total
+[00:03:08] value formula for who's going to win
+[00:03:10] this last step of the filtration
+[00:03:12] process. Okay, you can see the total
+[00:03:14] value equals the advertiser bid, which
+[00:03:16] if you're using auto bidding, this is
+[00:03:18] going to be done for you. If you're
+[00:03:19] using manual bidding, this is where you
+[00:03:20] can kind of out compete people using
+[00:03:22] your bid, times your estimated action
+[00:03:24] rates. Estimated action rates is going
+[00:03:25] to be a combination of your soft
+[00:03:27] metrics, which will be your CTR, for
+[00:03:29] example, your cost per click, your CPMs,
+[00:03:31] and a combination of that mixed with
+[00:03:33] your hard metric. So, what is your click
+[00:03:35] to conversion rate? As you can see down
+[00:03:37] here, what is the overall quality
+[00:03:38] ranking of your ad? Back in the day,
+[00:03:40] they used to have these old rankings as
+[00:03:41] well that were super helpful. I think
+[00:03:43] they're actually bringing them back, but
+[00:03:44] that's for another video. And then the
+[00:03:46] final piece that they added in here is
+[00:03:47] going to be the overall user experience.
+[00:03:49] This is a piece that they added because
+[00:03:50] if it was only these first two on
+[00:03:52] maximizing advertiser value, you just
+[00:03:54] have all these [ __ ] savage marketers
+[00:03:57] come in that have zero ethical
+[00:03:59] boundaries whatsoever, serve the most
+[00:04:00] [ __ ] black hat ads on planet Earth to
+[00:04:03] these people, and just drive Facebook
+[00:04:05] stock into the ground because the ads
+[00:04:07] are just too out of control. So, they
+[00:04:08] had to add this final piece that's
+[00:04:10] actually optimizing for the user
+[00:04:11] experience. And this is actually going
+[00:04:12] to be reflected in CPMs in the future
+[00:04:14] because if you have poor reviews, for
+[00:04:16] example, on your on your Facebook page
+[00:04:18] and on your ads, you're going to be
+[00:04:20] penalized with high CPMs. Honestly,
+[00:04:21] they've probably been doing that
+[00:04:22] anyways. They're just now being public
+[00:04:24] about it. But that's another story. That
+[00:04:25] is the final step of the filtration
+[00:04:27] process. Back to Andromeda. Andromeda
+[00:04:29] specifically is focusing on one of these
+[00:04:32] four phases of ranking and categorizing
+[00:04:34] ads. And that one phase is also the most
+[00:04:37] intensive phase which is ad retrieval.
+[00:04:40] Can you imagine manually going one by
+[00:04:42] one through tens of millions of ads even
+[00:04:44] if it's done by a computer within 200
+[00:04:46] milliseconds. I mean it's just insane.
+[00:04:48] And so the reason that Facebook launched
+[00:04:50] Andromeda and specifically focus on the
+[00:04:53] retrieval process of ad filtration is
+[00:04:56] because of AI. Facebook has recognized
+[00:04:59] that there has been a massive surge of
+[00:05:01] AI creative driven material. like people
+[00:05:04] are now just producing so significantly
+[00:05:07] more ads using AI that Facebook had to
+[00:05:10] develop an entirely new system of
+[00:05:12] sorting through them simply because the
+[00:05:14] volume was becoming too much to handle
+[00:05:16] and the algorithm was becoming wildly
+[00:05:17] inefficient. Facebook even admits to
+[00:05:19] this in this article they say one of the
+[00:05:21] reasons they created this because of the
+[00:05:23] increase of advertiser automation with
+[00:05:25] generative AI. They say the sheer volume
+[00:05:27] of ad candidates is three orders of
+[00:05:30] magnitude more than previous stages.
+[00:05:32] Like it's just insane that people are
+[00:05:34] running so many ads written by AI. I'm
+[00:05:36] laughing because I'm one of those
+[00:05:38] people. I contributed to this problem
+[00:05:39] and probably so did you. So, thanks a
+[00:05:41] lot. Anyways, the retrieval process is
+[00:05:43] taking this massive mumbo jumbo of
+[00:05:46] creatives right here and turning it from
+[00:05:48] tens of millions of ads into thousands
+[00:05:50] in an incredibly short period of time.
+[00:05:52] And the adjustments to the ad retrieval
+[00:05:54] process with the Andromeda update has
+[00:05:56] resulted in a significantly faster,
+[00:05:59] significantly more efficient, and
+[00:06:01] accurate and scalable way that Facebook
+[00:06:03] can sift through these ads so quickly.
+[00:06:05] And they're actually using a new
+[00:06:07] algorithm, which is the Andromeda
+[00:06:09] algorithm to sift through these ads
+[00:06:11] depending significantly more on AI. So,
+[00:06:14] a lot of people, if you click on any
+[00:06:15] other Andromeda video on YouTube, I know
+[00:06:17] cuz I watched a few of them, they don't
+[00:06:19] really understand what's happening.
+[00:06:20] number one. And number two, they just
+[00:06:22] throw around the word creative diversity
+[00:06:24] without really understanding why you
+[00:06:26] need to have creative diversity in the
+[00:06:27] first place. And it's because of this ad
+[00:06:29] retrieval process. And this is only one
+[00:06:31] of the four steps. Granted, it is the
+[00:06:32] most data inensive, but it's one of the
+[00:06:34] four steps. So, let's break down the old
+[00:06:37] model of ad retrieval and the Andromeda
+[00:06:40] method of ad retrieval. Number one, the
+[00:06:41] old model was significantly more manual.
+[00:06:44] It was using these smaller rules for
+[00:06:45] sifting through ads and looking through
+[00:06:47] individual variations in significantly
+[00:06:49] more depth, which obviously as you scale
+[00:06:51] up your ad ecosystem, it's incredibly
+[00:06:53] inefficient. Andromeda basically uses
+[00:06:55] one big smart AI brain. You can see in
+[00:06:58] the article they're actually working
+[00:06:59] with Nvidia to use this new Gracehopper
+[00:07:02] super chip that is just allowing you to
+[00:07:04] compute at significantly higher levels
+[00:07:06] to keep up with the sheer ad volume that
+[00:07:09] has been flooding the ecosystem. The old
+[00:07:10] model once again run on old regular
+[00:07:13] computers and like I said the new
+[00:07:15] Andromeda update is on the super
+[00:07:17] powerful Nvidia supercomputer chips. And
+[00:07:19] then finally this is probably the most
+[00:07:21] important piece. The old model was
+[00:07:23] looking through ads one by one. Imagine
+[00:07:25] if you have like a library with tens of
+[00:07:27] thousands of books and you have to go
+[00:07:29] read every single title individually.
+[00:07:31] There's no organization. There's no like
+[00:07:33] this section, that section. This is like
+[00:07:35] history. This is non-fiction. Nothing.
+[00:07:36] It's just you have to go one by one.
+[00:07:38] This new model of Andromeda is
+[00:07:40] organizing ads into these groups and
+[00:07:43] it's grouping a lot of ads together that
+[00:07:46] generally kind of look the same and that
+[00:07:48] is the reason why creative diversity is
+[00:07:51] so incredibly important. So what does
+[00:07:52] this all actually mean for you and how
+[00:07:54] can you actually start printing with the
+[00:07:55] Andromeda update? Because if you're a
+[00:07:57] good advertiser and you're a good
+[00:07:58] marketer more importantly, you know that
+[00:08:00] the Andromeda update is actually a
+[00:08:02] massive opportunity for you cuz most
+[00:08:04] people are not going to adapt but you
+[00:08:06] will. So again, what does this mean for
+[00:08:07] you? Number one, prioritize creative
+[00:08:09] diversity. If you have been running ads
+[00:08:11] for a while, you probably were doing
+[00:08:13] something along the lines of you're
+[00:08:14] testing a video ad, you run like five
+[00:08:16] variations, one body, five different
+[00:08:18] hooks, right? That's not the way that I
+[00:08:20] recommend testing anymore because like
+[00:08:22] we just said, Facebook is grouping all
+[00:08:24] those creatives in one and it's not
+[00:08:26] going to be individually looking and
+[00:08:28] testing to see if one is going to
+[00:08:30] provide substantially better results
+[00:08:31] than the other. Number two, I think you
+[00:08:33] probably already knew this, but
+[00:08:35] targeting has been dying a slow [ __ ]
+[00:08:38] death for so many years. The creative is
+[00:08:40] the targeting. And now that we have this
+[00:08:42] AI powered algorithm, we already had AI
+[00:08:44] powered algorithm. This one's just
+[00:08:45] smarter, faster, better, um, like me.
+[00:08:47] Um, the creative is the targeting. So,
+[00:08:49] if you're trying to do like this old
+[00:08:51] 2016, 2018 media buying, hacking your
+[00:08:55] way to having proper results, day by
+[00:08:57] day, that is going away, man. It it's
+[00:08:59] just less and less control for the
+[00:09:00] advertiser. less and less control for
+[00:09:02] being able to push buttons and make
+[00:09:04] yourself profitable and more and more
+[00:09:06] control and power goes to the creative.
+[00:09:08] So for example, if we look at a creative
+[00:09:10] like this for example, right? Facebook
+[00:09:12] is using AI to analyze every individual
+[00:09:15] aspect about this particular image. It's
+[00:09:18] looking at the flowers, the mountains,
+[00:09:19] it's looking at the ad copy, feeding it
+[00:09:21] through a sentiment analysis. It's
+[00:09:22] looking at the skin tone of the people
+[00:09:24] that are in the image, the gender, the
+[00:09:26] age, it's looking at the background.
+[00:09:28] It's taking every piece of information
+[00:09:30] and using that to power the targeting.
+[00:09:33] This is why I don't post a ton of videos
+[00:09:35] of like breaking down my ad accounts
+[00:09:37] because they're so [ __ ] basic. Yes,
+[00:09:39] we test a lot of stuff. We launch a lot
+[00:09:41] of funnels. We launch a lot of
+[00:09:42] creatives. However, most of it on the
+[00:09:44] media buying side is pretty [ __ ]
+[00:09:46] boring. We do maybe 10 to 20% cool ninja
+[00:09:48] [ __ ] surfing budgets, cost caps,
+[00:09:50] bidcap, CBO, [ __ ] like that. For the
+[00:09:52] rest part, it's just advantage plus
+[00:09:53] audiences, CBOS's, ASC, and just [ __ ]
+[00:09:56] let it rip. Like, we're Chad media
+[00:09:58] buyers at the end of the day. And we
+[00:09:59] know that if we have a really good
+[00:10:00] funnel, really good creatives, the media
+[00:10:02] buying is like maybe 10 to 20% of your
+[00:10:04] entire success. And I'm being generous
+[00:10:06] with that. It's probably even less than
+[00:10:08] that after the Andromeda update. Another
+[00:10:10] thing that we're seeing is you can have
+[00:10:12] more ads per adset. You know, if you're
+[00:10:13] launching ads, typical practice would
+[00:10:15] be, you know, three to five creatives
+[00:10:17] per adset as an example. now especially
+[00:10:19] because once again all the platforms are
+[00:10:21] moving towards like super duper
+[00:10:22] consolidation which means like just one
+[00:10:24] campaign minimal adsets but you can load
+[00:10:27] in like 25 sometimes even 50 creatives
+[00:10:30] at once and algorithmically you're not
+[00:10:32] going to break anything because of the
+[00:10:35] Andromeda update and how creative
+[00:10:36] diversity is so [ __ ] important. The
+[00:10:38] only important thing about that is you
+[00:10:40] don't want to throw in like 50
+[00:10:41] variations of the same video and I'm
+[00:10:43] going to get into that like just a
+[00:10:44] second. Variations and new concepts. The
+[00:10:46] final thing is obviously now quality is
+[00:10:48] much more important than quantity. If
+[00:10:49] you were to go and talk to any good
+[00:10:50] advertiser that is knowledgeable about
+[00:10:53] the Andromeda update and you were to say
+[00:10:54] would you rather test 300 creatives in a
+[00:10:56] month or 20 but all the 20 are like
+[00:10:59] total home runs knock out of the park
+[00:11:01] completely unique completely diverse.
+[00:11:02] Every guy who knows what he's talking
+[00:11:03] about is going to say the 20. Now you
+[00:11:05] can scale up the quantity if you have
+[00:11:07] your creative diversity in check. It's
+[00:11:09] not like you know if you go past 20
+[00:11:11] creatives a month like everything's just
+[00:11:12] going to break. Obviously not. It's very
+[00:11:14] clear like what the algorithm is
+[00:11:16] preferring right now. Now really what
+[00:11:17] this all means for you is you got to
+[00:11:19] make your creatives more unique which
+[00:11:22] means less testing on the variation side
+[00:11:25] and more new concept. So here's the
+[00:11:27] difference right between a new concept
+[00:11:29] and a variation. A new concept could be
+[00:11:32] for example a new format. So if you're
+[00:11:34] running mostly VSSLs in your ad account
+[00:11:36] and you go from VSSL to static image
+[00:11:38] with long form ad copy that is a new
+[00:11:40] concept. If you go from VSSL to short
+[00:11:43] form podcast ad, that is a new concept.
+[00:11:45] So just playing around with the formats
+[00:11:47] is a new concept. Another one is playing
+[00:11:49] around with the angle because like I say
+[00:11:51] all the time, not everybody buys the
+[00:11:53] same product for the same reason. So you
+[00:11:55] can use different marketing angles to
+[00:11:56] target different people. That's another
+[00:11:58] thing about the Andromeda update I
+[00:12:00] didn't personally mention, but they are
+[00:12:02] very much so favoring personalized ads
+[00:12:05] compared to mass market creator. The
+[00:12:07] more that you can specifically target
+[00:12:09] one avatar, one archetype within your
+[00:12:12] customer demographic, typically that's
+[00:12:14] going to have better results than just
+[00:12:15] trying to have an ad that just like goes
+[00:12:16] after everybody and just achieves like
+[00:12:18] massive scale and never ever dies,
+[00:12:20] right? The angle right there would be a
+[00:12:22] new concept. Now, how about the
+[00:12:23] variation? Variation, for example, would
+[00:12:25] be like a new hook on a video ad. It
+[00:12:27] would be like a new lead in your VSSL.
+[00:12:29] It would be a new thumbnail for your
+[00:12:31] video ad, let's say. Very small
+[00:12:33] adjustments. And anytime I would be
+[00:12:35] launching something new, new offer, new
+[00:12:37] creatives, new skew, I'm going to waver
+[00:12:39] much more heavily on the new concept
+[00:12:42] side than I am to the variations.
+[00:12:43] Previously, I had like a very simple
+[00:12:46] 8020 rule where 80% was actually the
+[00:12:49] variations and 20% was the new concept.
+[00:12:52] But I basically completely flipped that
+[00:12:54] on its head now. In fact, sometimes I
+[00:12:56] even go 100% new concept. So instead of
+[00:12:58] it being you know 80% for the variations
+[00:13:01] 80% is now new concept and the 20% is
+[00:13:04] the variation because again creative
+[00:13:06] diversity because of how the AI update
+[00:13:09] from Andromeda is sifting through these
+[00:13:11] tens of millions of ads. Now going back
+[00:13:12] to our example I was showing earlier
+[00:13:14] this is the perfect example of doing a
+[00:13:16] variation testing and this is what I
+[00:13:18] would start to move away from. So
+[00:13:20] generally you look across these three
+[00:13:22] creatives what changes are you seeing?
+[00:13:24] You're seeing it's still a static image
+[00:13:26] across all three. You're seeing it's
+[00:13:27] still the same format as static images.
+[00:13:29] Yes, different, you know, sub images, I
+[00:13:31] guess, are being used, but generally
+[00:13:32] it's the same format and the copy is
+[00:13:34] slightly different, right? If you look
+[00:13:36] at these, looks like the first and third
+[00:13:37] have the same copy, but the second one
+[00:13:39] is slightly different. All of these are
+[00:13:40] going to be variation. Okay? And again,
+[00:13:42] I'm not like saying that you shouldn't
+[00:13:44] test variations. I think you should
+[00:13:46] after you go through the stage of
+[00:13:47] heavily going towards new concept.
+[00:13:49] Another example, right, looking at image
+[00:13:51] ads, once again, we have a clear before
+[00:13:53] and after static image structure. We
+[00:13:56] have the same copy on both both with the
+[00:13:58] headline and the primary text. The image
+[00:14:00] is different and the headline up here is
+[00:14:03] the same which means once again this is
+[00:14:05] going to be variation testing. This is
+[00:14:08] what we want to have less and less of in
+[00:14:10] our ad account moving forward. Now on
+[00:14:11] the other hand let's look at some new
+[00:14:13] concepts. So you can see sometimes a new
+[00:14:15] concept can be driven by the central
+[00:14:17] philosophy. So in this particular case
+[00:14:19] it's reversing hair loss. And what we
+[00:14:21] can see here is that on the actual image
+[00:14:23] yes these are three different images. So
+[00:14:25] there's that. But they are still all
+[00:14:27] static. We clearly see that the copy and
+[00:14:29] the actual image is different in every
+[00:14:31] single one. We see the image itself is
+[00:14:33] different. We see the structure of the
+[00:14:35] image is also different. And on top of
+[00:14:36] that, the copy is different as well.
+[00:14:39] This is a perfect example of new concept
+[00:14:41] testing. Yes, it's still driven by the
+[00:14:43] same central philosophy of you want to
+[00:14:46] reverse your hair loss. You want to
+[00:14:47] start losing less hair. However, new
+[00:14:50] concept, this is what we want more of.
+[00:14:52] Now, if you want to get really into the
+[00:14:53] nitty-gritty, which is actually what I
+[00:14:55] do in my ad account, we delineate three
+[00:14:57] different types ads that we can test. We
+[00:14:59] have new concepts and then we have small
+[00:15:01] variations and large variations. Large
+[00:15:03] variations would be, for example,
+[00:15:05] something like this, right? The text
+[00:15:07] section here is completely different in
+[00:15:09] both the creatives. The image is
+[00:15:10] different and the copy down here is
+[00:15:12] different. However, it's still clearly
+[00:15:14] following the same structure of all this
+[00:15:16] text and then a small horizontal image.
+[00:15:18] All this text and a small horizontal
+[00:15:20] image. So this would be a large
+[00:15:22] variation because just about everything
+[00:15:23] is changing that can change aside from
+[00:15:25] the structure of the creative itself.
+[00:15:27] But the copy changed, the image changed,
+[00:15:29] everything else changed. So this would
+[00:15:30] be a large variation compared to
+[00:15:32] something like this, which would be a
+[00:15:34] small variation because all that changed
+[00:15:36] was the image itself, right? Copyy's the
+[00:15:38] same, copyy's the same, copyy's the
+[00:15:40] same. The only thing that changed is the
+[00:15:41] image. Long story short, to me, this is
+[00:15:43] nothing new. I mean, everybody's
+[00:15:44] freaking out about the Andromeda update,
+[00:15:46] but we all know these ad platforms have
+[00:15:48] been moving in the same direction for
+[00:15:49] years. more consolidation, less control,
+[00:15:51] and more emphasis on the creative. The
+[00:15:53] only difference now is instead of just
+[00:15:55] like spamming 500 variations of the same
+[00:15:58] [ __ ] creative, you make more new
+[00:16:00] concepts and make them unique from each
+[00:16:02] other compared to just like split
+[00:16:04] testing every tiny little thing in one
+[00:16:05] individual creative. That's it. And if
+[00:16:07] you're able to do that and focus on the
+[00:16:08] things that actually matter, which is
+[00:16:10] your creative and your funnel, and you
+[00:16:11] got nothing to worry about. All right,
+[00:16:12] that's it for this video, guys. Thank
+[00:16:14] you so much for watching. If you want to
+[00:16:16] get more content like this or work with
+[00:16:17] me a little bit more closely, you can
+[00:16:19] click the first link in the description,
+[00:16:20] fill out an application, see if you're a
+[00:16:21] good fit. Other than that, see you on
+[00:16:23] the next video.

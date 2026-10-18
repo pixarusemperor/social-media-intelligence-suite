@@ -40,3 +40,4 @@ mcp.json
 *.ytdl
 tmp_frame_*.jpg
 .pytest_cache/
+scratch/

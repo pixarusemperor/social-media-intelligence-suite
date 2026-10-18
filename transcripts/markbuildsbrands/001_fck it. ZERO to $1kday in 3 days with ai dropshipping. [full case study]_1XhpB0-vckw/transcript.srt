@@ -1,0 +1,2976 @@
+1
+00:00:00,000 --> 00:00:02,720
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,440 --> 00:00:04,960
+going to be showing you how I went from
+
+3
+00:00:02,720 --> 00:00:06,880
+zero to making $1,000 per day in sales
+
+4
+00:00:04,960 --> 00:00:08,560
+with AI drop shipping. And my goal
+
+5
+00:00:06,880 --> 00:00:10,400
+ultimately in this video is basically to
+
+6
+00:00:08,560 --> 00:00:12,240
+explain to you how you've probably been
+
+7
+00:00:10,400 --> 00:00:13,600
+testing products in the completely wrong
+
+8
+00:00:12,240 --> 00:00:15,600
+way and you're just thinking about
+
+9
+00:00:13,600 --> 00:00:17,120
+things incorrectly. And so what I'm
+
+10
+00:00:15,600 --> 00:00:19,120
+going to do is go through each element
+
+11
+00:00:17,120 --> 00:00:20,720
+of how I built the store, how I found
+
+12
+00:00:19,120 --> 00:00:22,480
+the product from top to bottom, and how
+
+13
+00:00:20,720 --> 00:00:24,160
+I used AI in the process that you can
+
+14
+00:00:22,480 --> 00:00:25,520
+just literally copy me and do this
+
+15
+00:00:24,160 --> 00:00:27,280
+yourself. But just showing you the
+
+16
+00:00:25,520 --> 00:00:29,120
+numbers here. The day that I started
+
+17
+00:00:27,280 --> 00:00:31,360
+running ads was actually on the 17th. If
+
+18
+00:00:29,120 --> 00:00:34,320
+you look here on the 16th, you see we
+
+19
+00:00:31,360 --> 00:00:36,320
+had $239 in sales, but those were all
+
+20
+00:00:34,320 --> 00:00:38,160
+test purchases, which if you're not
+
+21
+00:00:36,320 --> 00:00:39,920
+testing your store before you start
+
+22
+00:00:38,160 --> 00:00:41,280
+running ads, you're making a massive
+
+23
+00:00:39,920 --> 00:00:43,280
+mistake because a lot of times your
+
+24
+00:00:41,280 --> 00:00:44,960
+payment processor isn't set up correctly
+
+25
+00:00:43,280 --> 00:00:46,240
+or you just notice things that you
+
+26
+00:00:44,960 --> 00:00:48,400
+wouldn't otherwise see because you're
+
+27
+00:00:46,240 --> 00:00:49,600
+just stuck behind the business instead
+
+28
+00:00:48,400 --> 00:00:51,520
+of seeing what your customers actually
+
+29
+00:00:49,600 --> 00:00:54,160
+see. But anyways, the first day was the
+
+30
+00:00:51,520 --> 00:00:55,920
+17th. We did $850 in sales. The next
+
+31
+00:00:54,160 --> 00:00:57,680
+day, you can see there's a drop. Ad
+
+32
+00:00:55,920 --> 00:01:00,000
+account got shut down. We got it back
+
+33
+00:00:57,680 --> 00:01:01,840
+early the next day on the 19th. And that
+
+34
+00:01:00,000 --> 00:01:03,360
+was the day that we hit over $1,000 a
+
+35
+00:01:01,840 --> 00:01:05,760
+day. And as you can see, we did it again
+
+36
+00:01:03,360 --> 00:01:07,200
+the next day. 1.2K in sales. And the
+
+37
+00:01:05,760 --> 00:01:08,800
+first thing I want to talk about is the
+
+38
+00:01:07,200 --> 00:01:10,560
+product. The product. The reason why I
+
+39
+00:01:08,800 --> 00:01:12,880
+want to talk about it first is because
+
+40
+00:01:10,560 --> 00:01:15,520
+it's probably the single most
+
+41
+00:01:12,880 --> 00:01:17,360
+misunderstood thing in all of drop
+
+42
+00:01:15,520 --> 00:01:19,280
+shipping, in all of e-commerce, because
+
+43
+00:01:17,360 --> 00:01:21,120
+for whatever reason, there was this
+
+44
+00:01:19,280 --> 00:01:23,600
+belief created many, many years ago,
+
+45
+00:01:21,120 --> 00:01:26,240
+even before I started, that you have to
+
+46
+00:01:23,600 --> 00:01:29,360
+focus on finding this winning product.
+
+47
+00:01:26,240 --> 00:01:31,520
+And I think now this rhetoric is kind of
+
+48
+00:01:29,360 --> 00:01:33,040
+going away. But let me tell you why
+
+49
+00:01:31,520 --> 00:01:35,440
+there's no such thing as a winning
+
+50
+00:01:33,040 --> 00:01:37,680
+product. Okay? There are brands out
+
+51
+00:01:35,440 --> 00:01:39,600
+there right now making more [ __ ]
+
+52
+00:01:37,680 --> 00:01:42,480
+money, so much money that it would make
+
+53
+00:01:39,600 --> 00:01:45,280
+you sick to your [ __ ] stomach selling
+
+54
+00:01:42,480 --> 00:01:47,360
+the most simple basic products known to
+
+55
+00:01:45,280 --> 00:01:49,200
+man. They're not special really in any
+
+56
+00:01:47,360 --> 00:01:51,120
+way. They're literally like supplements
+
+57
+00:01:49,200 --> 00:01:54,880
+being the best example. There are brands
+
+58
+00:01:51,120 --> 00:01:57,840
+scaling with one ingredient supplements
+
+59
+00:01:54,880 --> 00:01:59,440
+doing eight figures per month. So I
+
+60
+00:01:57,840 --> 00:02:02,400
+believe that winning products don't
+
+61
+00:01:59,440 --> 00:02:04,400
+exist. They are not found. They are
+
+62
+00:02:02,400 --> 00:02:06,560
+something that are created. Okay? It's
+
+63
+00:02:04,400 --> 00:02:08,560
+not just something like, oh boom, I just
+
+64
+00:02:06,560 --> 00:02:09,920
+struck the lottery. I have this miracle
+
+65
+00:02:08,560 --> 00:02:11,680
+winning product. That's not how it works
+
+66
+00:02:09,920 --> 00:02:13,280
+at all. The way that it really works is
+
+67
+00:02:11,680 --> 00:02:15,920
+that a winning product is something that
+
+68
+00:02:13,280 --> 00:02:18,560
+is created. It's built. It's developed.
+
+69
+00:02:15,920 --> 00:02:20,560
+It is a process. And sometimes you just
+
+70
+00:02:18,560 --> 00:02:22,000
+happen to get lucky and you tested a
+
+71
+00:02:20,560 --> 00:02:23,840
+product that was easier for you to
+
+72
+00:02:22,000 --> 00:02:25,120
+market and then you classify as a
+
+73
+00:02:23,840 --> 00:02:26,320
+winning product. But really it's not a
+
+74
+00:02:25,120 --> 00:02:28,400
+winning product. Really it's something
+
+75
+00:02:26,320 --> 00:02:30,240
+that you have created through good
+
+76
+00:02:28,400 --> 00:02:32,080
+marketing which is good creatives and a
+
+77
+00:02:30,240 --> 00:02:33,600
+good funnel. So the whole concept of
+
+78
+00:02:32,080 --> 00:02:35,520
+winning product doesn't matter. What I
+
+79
+00:02:33,600 --> 00:02:38,640
+did for finding the product for the
+
+80
+00:02:35,520 --> 00:02:40,560
+store is not search for you know this
+
+81
+00:02:38,640 --> 00:02:42,080
+winning product because my my product
+
+82
+00:02:40,560 --> 00:02:44,400
+research criteria guys you got to
+
+83
+00:02:42,080 --> 00:02:46,720
+understand is incredibly simple. And I
+
+84
+00:02:44,400 --> 00:02:48,560
+think that's actually the best way to
+
+85
+00:02:46,720 --> 00:02:50,800
+think about product research because if
+
+86
+00:02:48,560 --> 00:02:53,120
+you try to over complicate it, then you
+
+87
+00:02:50,800 --> 00:02:54,560
+spend hours, hours and hours and hours
+
+88
+00:02:53,120 --> 00:02:56,800
+on product research. You shouldn't be
+
+89
+00:02:54,560 --> 00:02:58,800
+spending more than like 2 hours on
+
+90
+00:02:56,800 --> 00:03:01,280
+product research as long as you're using
+
+91
+00:02:58,800 --> 00:03:03,600
+the right tools. So my criteria number
+
+92
+00:03:01,280 --> 00:03:06,080
+one is always going to be I want to make
+
+93
+00:03:03,600 --> 00:03:08,320
+sure that I am selling a product that is
+
+94
+00:03:06,080 --> 00:03:10,160
+solving a painful problem in a
+
+95
+00:03:08,320 --> 00:03:11,840
+passionate market. Now I'm very
+
+96
+00:03:10,160 --> 00:03:13,680
+intentional about my language here.
+
+97
+00:03:11,840 --> 00:03:16,000
+Let's break this down. a painful
+
+98
+00:03:13,680 --> 00:03:18,960
+problem. I believe at its core, every
+
+99
+00:03:16,000 --> 00:03:20,800
+product to some degree is solving a
+
+100
+00:03:18,960 --> 00:03:22,560
+problem. Even if you are looking at like
+
+101
+00:03:20,800 --> 00:03:24,880
+these super trendy products that like
+
+102
+00:03:22,560 --> 00:03:26,960
+organic drop shippers will sell, it's
+
+103
+00:03:24,880 --> 00:03:29,280
+still solving a problem in some way. It
+
+104
+00:03:26,960 --> 00:03:31,680
+just is a pretty low-level problem. I
+
+105
+00:03:29,280 --> 00:03:34,320
+want to sell a problem that cuts deep,
+
+106
+00:03:31,680 --> 00:03:36,000
+that goes very very deep into their
+
+107
+00:03:34,320 --> 00:03:38,160
+psychology. And a way you can think
+
+108
+00:03:36,000 --> 00:03:40,000
+about this is referencing Maslo's
+
+109
+00:03:38,160 --> 00:03:41,600
+hierarchy of needs. Because if you're
+
+110
+00:03:40,000 --> 00:03:44,240
+trying to sell products specifically
+
+111
+00:03:41,600 --> 00:03:46,480
+around like self-actualization,
+
+112
+00:03:44,240 --> 00:03:49,120
+self-esteem, love, and belonging, these
+
+113
+00:03:46,480 --> 00:03:51,200
+are difficult. The more deep you can go
+
+114
+00:03:49,120 --> 00:03:53,360
+into the pain, the easier it's going to
+
+115
+00:03:51,200 --> 00:03:54,800
+be to sell your product, period. So
+
+116
+00:03:53,360 --> 00:03:56,960
+that's why you see a lot of products
+
+117
+00:03:54,800 --> 00:03:59,200
+related to health doing really really
+
+118
+00:03:56,960 --> 00:04:01,440
+well because that's quite literally like
+
+119
+00:03:59,200 --> 00:04:03,040
+safety. Like you you can only go one
+
+120
+00:04:01,440 --> 00:04:04,320
+level deeper if you're selling products
+
+121
+00:04:03,040 --> 00:04:06,800
+in the health niche. If it's like a
+
+122
+00:04:04,320 --> 00:04:08,720
+literal pain that you have in your body
+
+123
+00:04:06,800 --> 00:04:10,880
+where you cannot operate normally as a
+
+124
+00:04:08,720 --> 00:04:12,880
+human being, that is a painful problem.
+
+125
+00:04:10,880 --> 00:04:14,160
+And the second piece here is a
+
+126
+00:04:12,880 --> 00:04:16,640
+passionate market. And what I mean by
+
+127
+00:04:14,160 --> 00:04:18,240
+passionate market is there needs to be a
+
+128
+00:04:16,640 --> 00:04:20,000
+group of people. They're either just
+
+129
+00:04:18,240 --> 00:04:21,840
+constantly buying [ __ ] So think of like
+
+130
+00:04:20,000 --> 00:04:24,400
+the weight loss market, just constantly
+
+131
+00:04:21,840 --> 00:04:26,640
+[ __ ] buying [ __ ] Or it's a really
+
+132
+00:04:24,400 --> 00:04:28,960
+niche passion. Think of like, you know,
+
+133
+00:04:26,640 --> 00:04:30,000
+somebody who collects records. terrible
+
+134
+00:04:28,960 --> 00:04:32,480
+example because you're not going to go
+
+135
+00:04:30,000 --> 00:04:34,240
+and drop ship records. But like actual
+
+136
+00:04:32,480 --> 00:04:35,360
+record discs, that's an incredibly
+
+137
+00:04:34,240 --> 00:04:37,440
+passionate market. Like if you know
+
+138
+00:04:35,360 --> 00:04:39,520
+somebody that collects these, it's very
+
+139
+00:04:37,440 --> 00:04:41,040
+small. It's very niche, but it is very,
+
+140
+00:04:39,520 --> 00:04:42,560
+very passionate. So that is the first
+
+141
+00:04:41,040 --> 00:04:44,640
+thing. That's the first piece of
+
+142
+00:04:42,560 --> 00:04:46,560
+criteria. The second is simply the
+
+143
+00:04:44,640 --> 00:04:48,720
+margins. Now, in regards to margins, I
+
+144
+00:04:46,560 --> 00:04:50,800
+have two rules. And honestly, I get more
+
+145
+00:04:48,720 --> 00:04:52,720
+aggressive with these rules with every
+
+146
+00:04:50,800 --> 00:04:54,080
+additional video that I make. The first
+
+147
+00:04:52,720 --> 00:04:55,840
+piece, I'm going to be a little bit more
+
+148
+00:04:54,080 --> 00:04:59,840
+conservative. You want to have at least
+
+149
+00:04:55,840 --> 00:05:01,600
+$25 of gross margin. What I mean by $25
+
+150
+00:04:59,840 --> 00:05:03,920
+of margin is if you can get a product
+
+151
+00:05:01,600 --> 00:05:05,920
+sourced, which means from your supplier
+
+152
+00:05:03,920 --> 00:05:08,640
+shipped directly to your customer, that
+
+153
+00:05:05,920 --> 00:05:10,080
+cost less how much you are actually
+
+154
+00:05:08,640 --> 00:05:11,280
+having your customers pay for the
+
+155
+00:05:10,080 --> 00:05:14,080
+product. So, for example, if you're
+
+156
+00:05:11,280 --> 00:05:16,800
+selling a product for, you know, $50,
+
+157
+00:05:14,080 --> 00:05:18,080
+then your margins at minimum, you can't
+
+158
+00:05:16,800 --> 00:05:20,320
+be getting that product for anything
+
+159
+00:05:18,080 --> 00:05:23,120
+less than $25 because that would give
+
+160
+00:05:20,320 --> 00:05:25,280
+you that $25 margin because 50 - 25 is
+
+161
+00:05:23,120 --> 00:05:28,080
+25, right? Simple. Great. Now, that's
+
+162
+00:05:25,280 --> 00:05:30,320
+only half the rule because that covers
+
+163
+00:05:28,080 --> 00:05:32,240
+the total amount of margin, but it
+
+164
+00:05:30,320 --> 00:05:35,200
+doesn't cover the margin as a
+
+165
+00:05:32,240 --> 00:05:37,280
+percentage, as a multiple. And so, my
+
+166
+00:05:35,200 --> 00:05:40,160
+other rule here is you want to sell a
+
+167
+00:05:37,280 --> 00:05:42,080
+product for 3x your cost of goods sold,
+
+168
+00:05:40,160 --> 00:05:43,840
+right? 3x your cost. Let's say you're
+
+169
+00:05:42,080 --> 00:05:45,840
+getting a product from, you know,
+
+170
+00:05:43,840 --> 00:05:47,520
+AliExpress. You're shipping via some
+
+171
+00:05:45,840 --> 00:05:49,520
+super cheap [ __ ] shipping line. You
+
+172
+00:05:47,520 --> 00:05:52,720
+get it for $10 ship and you're selling
+
+173
+00:05:49,520 --> 00:05:54,640
+for 40. So, that means your COGS is $10.
+
+174
+00:05:52,720 --> 00:05:56,320
+You multiply 10 * 3 that's 30 and you're
+
+175
+00:05:54,640 --> 00:05:58,800
+selling for 50. So that rule is
+
+176
+00:05:56,320 --> 00:06:01,200
+satisfied. How about the first rule? $25
+
+177
+00:05:58,800 --> 00:06:03,200
+in margin. Well, selling it for 50,
+
+178
+00:06:01,200 --> 00:06:05,120
+getting it for 10, that's $40 of margin.
+
+179
+00:06:03,200 --> 00:06:06,880
+That is above 25. Therefore, you meet
+
+180
+00:06:05,120 --> 00:06:08,800
+the second rule as well. Very, very
+
+181
+00:06:06,880 --> 00:06:10,880
+simple. If you set up these rules
+
+182
+00:06:08,800 --> 00:06:12,160
+initially, you will make your life a
+
+183
+00:06:10,880 --> 00:06:14,320
+million times easier as you scale.
+
+184
+00:06:12,160 --> 00:06:17,280
+Because what I see all the time is
+
+185
+00:06:14,320 --> 00:06:20,240
+people try to sell products with a
+
+186
+00:06:17,280 --> 00:06:24,160
+really high break even CPA, a really
+
+187
+00:06:20,240 --> 00:06:25,840
+high break even rorowass, like 1.7, 1.8,
+
+188
+00:06:24,160 --> 00:06:28,160
+maybe even a 2.0. And they're like, "Oh,
+
+189
+00:06:25,840 --> 00:06:29,520
+it's okay. I'll just get a 3x rorowass,
+
+190
+00:06:28,160 --> 00:06:30,720
+and then I'll have everything under
+
+191
+00:06:29,520 --> 00:06:32,320
+that, you know, is going to be just
+
+192
+00:06:30,720 --> 00:06:35,200
+straight profit, which is true." Do you
+
+193
+00:06:32,320 --> 00:06:39,200
+have any [ __ ] idea how hard it is to
+
+194
+00:06:35,200 --> 00:06:41,440
+maintain a 3x return on ad spend on
+
+195
+00:06:39,200 --> 00:06:43,360
+Facebook at high levels of spend? It
+
+196
+00:06:41,440 --> 00:06:45,040
+doesn't [ __ ] happen. It just doesn't
+
+197
+00:06:43,360 --> 00:06:47,040
+[ __ ] happen. So, you need to set up
+
+198
+00:06:45,040 --> 00:06:48,400
+your margins in the right way from day
+
+199
+00:06:47,040 --> 00:06:50,240
+one because that's one of the few things
+
+200
+00:06:48,400 --> 00:06:52,400
+you can control. Like, that's why I'm so
+
+201
+00:06:50,240 --> 00:06:54,480
+adamant about margins. You can't control
+
+202
+00:06:52,400 --> 00:06:57,360
+the the CPA Facebook is going to give
+
+203
+00:06:54,480 --> 00:06:58,800
+you. You can't control most things, you
+
+204
+00:06:57,360 --> 00:07:00,240
+know, when it comes to Facebook, but you
+
+205
+00:06:58,800 --> 00:07:01,840
+can control your margins. So, that's
+
+206
+00:07:00,240 --> 00:07:04,080
+piece number two. And then piece number
+
+207
+00:07:01,840 --> 00:07:06,320
+three, very simple. I want it to be able
+
+208
+00:07:04,080 --> 00:07:07,440
+to fit in a shoe box. If I can do that,
+
+209
+00:07:06,320 --> 00:07:09,200
+I know that I'm not going to have any
+
+210
+00:07:07,440 --> 00:07:10,800
+logistical issues, you know, down the
+
+211
+00:07:09,200 --> 00:07:12,080
+road. If it can fit in a shoe box, you
+
+212
+00:07:10,800 --> 00:07:13,680
+can ship it anywhere in the world for
+
+213
+00:07:12,080 --> 00:07:15,040
+like under $5 in shipping. Of course,
+
+214
+00:07:13,680 --> 00:07:17,680
+depending on the line that you're using,
+
+215
+00:07:15,040 --> 00:07:19,440
+but that's just a general good rule. And
+
+216
+00:07:17,680 --> 00:07:22,240
+then as a bonus, what I'll add in here
+
+217
+00:07:19,440 --> 00:07:25,120
+for those that want to do this is there
+
+218
+00:07:22,240 --> 00:07:27,360
+needs to be some sort of potential for
+
+219
+00:07:25,120 --> 00:07:30,160
+high LTV. And I'm just going to keep it
+
+220
+00:07:27,360 --> 00:07:32,400
+that way because this could be potential
+
+221
+00:07:30,160 --> 00:07:34,000
+for having really good upsells, cross
+
+222
+00:07:32,400 --> 00:07:36,000
+cells, and down cells, right? That's
+
+223
+00:07:34,000 --> 00:07:38,400
+going to add to your AOV, which is also
+
+224
+00:07:36,000 --> 00:07:40,640
+going to add to your LTV. Another way
+
+225
+00:07:38,400 --> 00:07:42,640
+that you can accomplish this, because we
+
+226
+00:07:40,640 --> 00:07:44,640
+still want high LTV, is going to be
+
+227
+00:07:42,640 --> 00:07:46,400
+through subscriptions. So, if you're
+
+228
+00:07:44,640 --> 00:07:48,800
+selling a product like supplements, for
+
+229
+00:07:46,400 --> 00:07:51,040
+example, where you can easily get people
+
+230
+00:07:48,800 --> 00:07:52,160
+on a subscription, yes, your CAC is
+
+231
+00:07:51,040 --> 00:07:53,920
+going to be higher, your CPA is going to
+
+232
+00:07:52,160 --> 00:07:56,160
+be higher. That's normal, but you can
+
+233
+00:07:53,920 --> 00:07:57,840
+build recurring revenue and overall have
+
+234
+00:07:56,160 --> 00:07:59,760
+a better business for when you try to
+
+235
+00:07:57,840 --> 00:08:02,080
+scale because that means that you can
+
+236
+00:07:59,760 --> 00:08:03,600
+have more money to spend to acquire
+
+237
+00:08:02,080 --> 00:08:05,280
+every new customer, which is what
+
+238
+00:08:03,600 --> 00:08:06,960
+advertising is all about. Whoever can
+
+239
+00:08:05,280 --> 00:08:09,440
+spend the most amount of money to
+
+240
+00:08:06,960 --> 00:08:11,040
+acquire new customer wins. So that's the
+
+241
+00:08:09,440 --> 00:08:12,400
+criteria. So now the next question is
+
+242
+00:08:11,040 --> 00:08:13,920
+all right Mark I got the criteria like
+
+243
+00:08:12,400 --> 00:08:16,800
+how did you actually find the product?
+
+244
+00:08:13,920 --> 00:08:19,440
+Well this product took me under an hour
+
+245
+00:08:16,800 --> 00:08:21,520
+to find and what I did I have this set
+
+246
+00:08:19,440 --> 00:08:25,280
+of criteria and this is the video about
+
+247
+00:08:21,520 --> 00:08:26,880
+AI drop shipping, right? So I used AI to
+
+248
+00:08:25,280 --> 00:08:29,200
+find a product for me and so what I did
+
+249
+00:08:26,880 --> 00:08:33,840
+is I basically went to Claude and I
+
+250
+00:08:29,200 --> 00:08:35,440
+added the MCP for Get Hooked. Now, full
+
+251
+00:08:33,840 --> 00:08:38,770
+transparency, Git hook is my software,
+
+252
+00:08:35,440 --> 00:08:40,560
+but we specifically built this feature
+
+253
+00:08:38,760 --> 00:08:42,550
+[laughter] so that you can use it. And
+
+254
+00:08:40,560 --> 00:08:44,880
+basically when you add it as a connector
+
+255
+00:08:42,560 --> 00:08:47,040
+inside of Claude, you can assign it some
+
+256
+00:08:44,880 --> 00:08:50,000
+prompts to do product research for you
+
+257
+00:08:47,040 --> 00:08:52,480
+to basically scan the ad libraries of
+
+258
+00:08:50,000 --> 00:08:54,320
+thousands, tens of thousands of
+
+259
+00:08:52,480 --> 00:08:57,200
+advertisers that are currently running
+
+260
+00:08:54,320 --> 00:08:58,800
+ads on Facebook, finds the ones that are
+
+261
+00:08:57,200 --> 00:09:00,960
+producing the most amount of winning ads
+
+262
+00:08:58,800 --> 00:09:03,200
+and actually driving legitimate amounts
+
+263
+00:09:00,960 --> 00:09:05,440
+of traffic to their website. And then
+
+264
+00:09:03,200 --> 00:09:07,120
+from there, all you have to do is
+
+265
+00:09:05,440 --> 00:09:08,320
+validate that the margins are good, you
+
+266
+00:09:07,120 --> 00:09:10,320
+can fit the shoe box, and there's
+
+267
+00:09:08,320 --> 00:09:12,880
+potential for high LTV. Everything else
+
+268
+00:09:10,320 --> 00:09:15,200
+is mostly done for you. And I don't use
+
+269
+00:09:12,880 --> 00:09:17,120
+that term a lot, but with AI, there's
+
+270
+00:09:15,200 --> 00:09:18,960
+more and more cases of this happening.
+
+271
+00:09:17,120 --> 00:09:21,280
+So, if you want to see like the exact
+
+272
+00:09:18,960 --> 00:09:22,480
+process of, you know, how to do it, get
+
+273
+00:09:21,280 --> 00:09:24,640
+all the prompts and everything, just go
+
+274
+00:09:22,480 --> 00:09:27,840
+to my Instagram. It's Markbuilds Brands
+
+275
+00:09:24,640 --> 00:09:30,240
+and DM me the letters MCP and I'll send
+
+276
+00:09:27,840 --> 00:09:31,840
+it to you for free. Okay? Super super
+
+277
+00:09:30,240 --> 00:09:33,920
+underrated method. Like, I know I'm
+
+278
+00:09:31,840 --> 00:09:35,600
+obviously biased, but I've had many
+
+279
+00:09:33,920 --> 00:09:37,520
+friends reach out to me and be like,
+
+280
+00:09:35,600 --> 00:09:39,360
+"Bro, this is actually like this is
+
+281
+00:09:37,520 --> 00:09:41,840
+[ __ ] crazy." So that is the product
+
+282
+00:09:39,360 --> 00:09:43,280
+TLDDR. Stop [ __ ] overthinking [ __ ]
+
+283
+00:09:41,840 --> 00:09:44,560
+If you're spending so much time on
+
+284
+00:09:43,280 --> 00:09:45,920
+product research, you're spending time
+
+285
+00:09:44,560 --> 00:09:47,600
+on the wrong things. Let me ask you
+
+286
+00:09:45,920 --> 00:09:49,040
+something. The products that make the
+
+287
+00:09:47,600 --> 00:09:50,880
+most amount of money right now, are they
+
+288
+00:09:49,040 --> 00:09:54,080
+the best products in the market or are
+
+289
+00:09:50,880 --> 00:09:55,760
+they just the best marketed products?
+
+290
+00:09:54,080 --> 00:09:58,000
+It's the latter. It's clearly just the
+
+291
+00:09:55,760 --> 00:10:00,240
+best marketed products. It's not the
+
+292
+00:09:58,000 --> 00:10:01,840
+best that wins. You know, I wish it was
+
+293
+00:10:00,240 --> 00:10:03,840
+the other way around, but unfortunately
+
+294
+00:10:01,840 --> 00:10:06,000
+in capitalist economies, the ones that
+
+295
+00:10:03,840 --> 00:10:08,800
+are able to sell the best are the most
+
+296
+00:10:06,000 --> 00:10:11,280
+successful. Not necessarily the products
+
+297
+00:10:08,800 --> 00:10:13,280
+that are just the best across the board
+
+298
+00:10:11,280 --> 00:10:14,560
+in every single category. Now, I still
+
+299
+00:10:13,280 --> 00:10:17,440
+think you should sell good products
+
+300
+00:10:14,560 --> 00:10:18,960
+obviously, but the marketing is going to
+
+301
+00:10:17,440 --> 00:10:20,400
+make or break your success period. The
+
+302
+00:10:18,960 --> 00:10:22,560
+creatives in the store, that's it.
+
+303
+00:10:20,400 --> 00:10:23,920
+Because you and I could sell the exact
+
+304
+00:10:22,560 --> 00:10:25,920
+same product. You would not be
+
+305
+00:10:23,920 --> 00:10:27,600
+profitable and I would be printing. How
+
+306
+00:10:25,920 --> 00:10:29,680
+could that be possible? And then you
+
+307
+00:10:27,600 --> 00:10:31,360
+could take me versus, you know,
+
+308
+00:10:29,680 --> 00:10:32,960
+resurrect Gary Halbert from the dead.
+
+309
+00:10:31,360 --> 00:10:34,560
+I'm competing against him. He would whip
+
+310
+00:10:32,960 --> 00:10:36,560
+my ass because he's a better marketer
+
+311
+00:10:34,560 --> 00:10:38,080
+than me. And so it just all comes down
+
+312
+00:10:36,560 --> 00:10:40,000
+to skill. It's literally just a skill
+
+313
+00:10:38,080 --> 00:10:41,600
+issue. Stop obsessing over the product.
+
+314
+00:10:40,000 --> 00:10:43,680
+So that is how I found the product. Now
+
+315
+00:10:41,600 --> 00:10:45,600
+I want to talk about the store because I
+
+316
+00:10:43,680 --> 00:10:48,000
+did something that I don't normally do
+
+317
+00:10:45,600 --> 00:10:51,920
+when I launch new stores. And what I did
+
+318
+00:10:48,000 --> 00:10:53,680
+is I kept everything 100% on Shopify.
+
+319
+00:10:51,920 --> 00:10:56,880
+And the reason that I did that is
+
+320
+00:10:53,680 --> 00:10:59,040
+because I was not using the Chadfunnel
+
+321
+00:10:56,880 --> 00:11:00,960
+structure that I love talking about so
+
+322
+00:10:59,040 --> 00:11:03,360
+much on this channel on this particular
+
+323
+00:11:00,960 --> 00:11:05,360
+store. The Chadfunnel structure is going
+
+324
+00:11:03,360 --> 00:11:08,560
+from your ad, typically an indirect ad,
+
+325
+00:11:05,360 --> 00:11:10,720
+native static for example, going to some
+
+326
+00:11:08,560 --> 00:11:13,280
+sort of pre-landing page, like an
+
+327
+00:11:10,720 --> 00:11:15,280
+advertorial, a listical, etc. And then
+
+328
+00:11:13,280 --> 00:11:17,360
+from the pre-lander to the sales page,
+
+329
+00:11:15,280 --> 00:11:18,880
+from the sales page to the order page,
+
+330
+00:11:17,360 --> 00:11:21,840
+and then from the order page to the
+
+331
+00:11:18,880 --> 00:11:23,440
+entire upsell path post purchase. This
+
+332
+00:11:21,840 --> 00:11:25,840
+is all after payment is collected. So
+
+333
+00:11:23,440 --> 00:11:27,600
+this is kind of the Chad method. I know
+
+334
+00:11:25,840 --> 00:11:28,960
+a lot of people still using very well on
+
+335
+00:11:27,600 --> 00:11:31,690
+this particular store. I didn't want to
+
+336
+00:11:28,960 --> 00:11:33,520
+use it. What I did, still Chad, but
+
+337
+00:11:31,690 --> 00:11:36,480
+[laughter] what I did is I just wanted
+
+338
+00:11:33,520 --> 00:11:38,640
+to see what it would be like to just do
+
+339
+00:11:36,480 --> 00:11:41,360
+everything direct to PDP. So, it's
+
+340
+00:11:38,640 --> 00:11:42,640
+literally ad to PDP. No pre-landers,
+
+341
+00:11:41,360 --> 00:11:45,360
+nothing on funnelish, nothing on
+
+342
+00:11:42,640 --> 00:11:47,840
+Checkout Champ, literally just going
+
+343
+00:11:45,360 --> 00:11:50,160
+from ad directly to a product page and
+
+344
+00:11:47,840 --> 00:11:52,240
+keeping everything fully on Shopify. And
+
+345
+00:11:50,160 --> 00:11:54,480
+it worked. You know, I ultimately did
+
+346
+00:11:52,240 --> 00:11:56,240
+this partly just to prove that a lot of
+
+347
+00:11:54,480 --> 00:11:57,360
+these things that you think matter that
+
+348
+00:11:56,240 --> 00:11:59,360
+are going to totally make the
+
+349
+00:11:57,360 --> 00:12:00,640
+difference, they [ __ ] don't. They
+
+350
+00:11:59,360 --> 00:12:02,640
+[ __ ] don't. What really matters is
+
+351
+00:12:00,640 --> 00:12:04,160
+creatives and having a solid lander.
+
+352
+00:12:02,640 --> 00:12:05,680
+Everything outside of that is mostly
+
+353
+00:12:04,160 --> 00:12:06,720
+noise because literally had a
+
+354
+00:12:05,680 --> 00:12:09,360
+conversation with people and they're
+
+355
+00:12:06,720 --> 00:12:10,720
+like obsessing. Oh, what theme should I
+
+356
+00:12:09,360 --> 00:12:12,400
+be using? Is this theme better than this
+
+357
+00:12:10,720 --> 00:12:14,320
+theme? Her shrine is good. What about
+
+358
+00:12:12,400 --> 00:12:16,960
+this one? Literally, for this store, I
+
+359
+00:12:14,320 --> 00:12:18,720
+use Debut. Debut is a free theme that's
+
+360
+00:12:16,960 --> 00:12:20,720
+pre-loaded onto Shopify, and it's been
+
+361
+00:12:18,720 --> 00:12:22,880
+there since like 2018. You don't need
+
+362
+00:12:20,720 --> 00:12:25,120
+anything that freaking fancy. All right.
+
+363
+00:12:22,880 --> 00:12:26,800
+All you need is great copy, great
+
+364
+00:12:25,120 --> 00:12:28,560
+images, and gifts, a theme that loads
+
+365
+00:12:26,800 --> 00:12:30,160
+decently quick. That's pretty much all
+
+366
+00:12:28,560 --> 00:12:32,080
+you got to look for there. Now, one
+
+367
+00:12:30,160 --> 00:12:33,840
+thing that I did do here that was a
+
+368
+00:12:32,080 --> 00:12:36,160
+little bit unconventional is on day one,
+
+369
+00:12:33,840 --> 00:12:39,280
+I started sending traffic to two
+
+370
+00:12:36,160 --> 00:12:42,640
+different landers. I basically made a
+
+371
+00:12:39,280 --> 00:12:44,240
+duplicate of my main PDP and then I
+
+372
+00:12:42,640 --> 00:12:47,280
+adjusted the design. I adjusted the
+
+373
+00:12:44,240 --> 00:12:49,200
+authority figure and I tried selling the
+
+374
+00:12:47,280 --> 00:12:51,040
+same product simply with a duplicated
+
+375
+00:12:49,200 --> 00:12:54,320
+lander to see which one would convert
+
+376
+00:12:51,040 --> 00:12:57,680
+better. And so on day one, I split the
+
+377
+00:12:54,320 --> 00:13:01,360
+ad spend 50/50. So 50% went to lander
+
+378
+00:12:57,680 --> 00:13:04,080
+one, 50% lander 2. And on day one, I
+
+379
+00:13:01,360 --> 00:13:06,560
+actually cut lander 2 out of the
+
+380
+00:13:04,080 --> 00:13:10,160
+equation because within the first like
+
+381
+00:13:06,560 --> 00:13:11,840
+$300, $400 in spend, I saw Lander 1 was
+
+382
+00:13:10,160 --> 00:13:14,320
+pretty significantly outperforming
+
+383
+00:13:11,840 --> 00:13:15,600
+lander 2. And so that one was out and
+
+384
+00:13:14,320 --> 00:13:17,440
+then I just moved all the spend to
+
+385
+00:13:15,600 --> 00:13:20,400
+lander one from there on out. The reason
+
+386
+00:13:17,440 --> 00:13:22,000
+I did this is because there are so many
+
+387
+00:13:20,400 --> 00:13:23,920
+variables when you launch something. I
+
+388
+00:13:22,000 --> 00:13:25,280
+like to get data fast. So, I was willing
+
+389
+00:13:23,920 --> 00:13:28,880
+to spend a little bit more and do more
+
+390
+00:13:25,280 --> 00:13:31,600
+testing. And I also, especially,
+
+391
+00:13:28,880 --> 00:13:34,560
+especially in the testing phase, I am
+
+392
+00:13:31,600 --> 00:13:36,240
+ruthless with my cutting. If I'm cutting
+
+393
+00:13:34,560 --> 00:13:38,880
+funnels, landers, if I'm cutting
+
+394
+00:13:36,240 --> 00:13:41,520
+creatives, I'm ruthless. I think that
+
+395
+00:13:38,880 --> 00:13:44,640
+creatives, funnels, they have to prove
+
+396
+00:13:41,520 --> 00:13:46,560
+themselves in order to get more spend,
+
+397
+00:13:44,640 --> 00:13:48,400
+in order to be able to scale. I'm not
+
+398
+00:13:46,560 --> 00:13:49,840
+going to be super lenient before it's
+
+399
+00:13:48,400 --> 00:13:51,600
+proved itself. Now, after it's proved
+
+400
+00:13:49,840 --> 00:13:53,280
+itself, maybe we have a creative that
+
+401
+00:13:51,600 --> 00:13:55,440
+spent like 500 bucks or a lander that
+
+402
+00:13:53,280 --> 00:13:57,040
+spent a,000 and is profitable. Okay,
+
+403
+00:13:55,440 --> 00:13:59,440
+then I'll be a little bit more lenient.
+
+404
+00:13:57,040 --> 00:14:01,040
+It's shown that it can have a good CPA
+
+405
+00:13:59,440 --> 00:14:03,760
+on that particular lander or funnel. But
+
+406
+00:14:01,040 --> 00:14:05,520
+beyond that, if it's testing phase, very
+
+407
+00:14:03,760 --> 00:14:07,440
+very ruthless. And this store, by the
+
+408
+00:14:05,520 --> 00:14:09,440
+way, was literally brand new, which
+
+409
+00:14:07,440 --> 00:14:11,360
+meant new pixel, it meant new ad
+
+410
+00:14:09,440 --> 00:14:13,200
+account, it meant entirely new store
+
+411
+00:14:11,360 --> 00:14:15,680
+altogether, like a literally a new
+
+412
+00:14:13,200 --> 00:14:17,120
+Shopify account. Everything was 100%
+
+413
+00:14:15,680 --> 00:14:19,360
+new. And I'm not going to go through
+
+414
+00:14:17,120 --> 00:14:21,600
+like how I built the PDP and wrote the
+
+415
+00:14:19,360 --> 00:14:23,280
+copy. I have dozens of videos on that.
+
+416
+00:14:21,600 --> 00:14:24,720
+So, please go check out my channel or
+
+417
+00:14:23,280 --> 00:14:26,080
+just do the foundational docs and
+
+418
+00:14:24,720 --> 00:14:27,280
+that'll give you 80% of the way. I'll
+
+419
+00:14:26,080 --> 00:14:29,360
+leave it in the description. All right.
+
+420
+00:14:27,280 --> 00:14:31,200
+So, the next piece is going to be the ad
+
+421
+00:14:29,360 --> 00:14:33,040
+strategy. And what I mean by ad strategy
+
+422
+00:14:31,200 --> 00:14:35,120
+is not the creatives themselves, but how
+
+423
+00:14:33,040 --> 00:14:36,480
+did we actually structure the account?
+
+424
+00:14:35,120 --> 00:14:39,760
+So, this is what I did. For each
+
+425
+00:14:36,480 --> 00:14:42,480
+individual landing page, I had one
+
+426
+00:14:39,760 --> 00:14:44,240
+campaign and I did all [ __ ] testing. So,
+
+427
+00:14:42,480 --> 00:14:46,880
+this is one campaign here. And inside
+
+428
+00:14:44,240 --> 00:14:49,120
+that one [ __ ] campaign, I had four ad
+
+429
+00:14:46,880 --> 00:14:51,520
+sets. Now, each one of these ad sets was
+
+430
+00:14:49,120 --> 00:14:53,280
+also associated with one individual ad
+
+431
+00:14:51,520 --> 00:14:55,520
+concept. Since we're testing a bunch of
+
+432
+00:14:53,280 --> 00:14:57,200
+creatives, I basically did four
+
+433
+00:14:55,520 --> 00:15:00,000
+different formats. So, one of these, for
+
+434
+00:14:57,200 --> 00:15:01,200
+example, was AI animation ads, which I
+
+435
+00:15:00,000 --> 00:15:02,320
+just made a video on that. You should
+
+436
+00:15:01,200 --> 00:15:03,680
+definitely watch it. One of them was
+
+437
+00:15:02,320 --> 00:15:05,360
+native statics, one of them was, you
+
+438
+00:15:03,680 --> 00:15:08,960
+know, founder ads, and one of them was
+
+439
+00:15:05,360 --> 00:15:12,000
+like a mini podcast VSSL. So, each one
+
+440
+00:15:08,960 --> 00:15:14,560
+was a concept, but it was also a format.
+
+441
+00:15:12,000 --> 00:15:17,040
+A format is how an ad looks visually. A
+
+442
+00:15:14,560 --> 00:15:19,360
+concept is how that specific idea fits
+
+443
+00:15:17,040 --> 00:15:21,680
+into that format. And within each of
+
+444
+00:15:19,360 --> 00:15:24,400
+these four adsets, I had anywhere from
+
+445
+00:15:21,680 --> 00:15:26,720
+three to five ads in here per ads set.
+
+446
+00:15:24,400 --> 00:15:28,720
+And it was essentially variations of
+
+447
+00:15:26,720 --> 00:15:30,800
+this main concept. Now, I'm a big
+
+448
+00:15:28,720 --> 00:15:32,480
+believer in even if you're doing
+
+449
+00:15:30,800 --> 00:15:34,240
+variation testing, which we kind of are
+
+450
+00:15:32,480 --> 00:15:37,040
+here, we're doing variations of the
+
+451
+00:15:34,240 --> 00:15:39,120
+concept, but still those variations
+
+452
+00:15:37,040 --> 00:15:40,640
+should be large variations. They
+
+453
+00:15:39,120 --> 00:15:43,760
+shouldn't be something as small as like
+
+454
+00:15:40,640 --> 00:15:45,200
+a a new hook. Like typically you'll just
+
+455
+00:15:43,760 --> 00:15:46,400
+have one of those get all the spend and
+
+456
+00:15:45,200 --> 00:15:47,600
+then no spend will actually go to the
+
+457
+00:15:46,400 --> 00:15:49,840
+one with a new hook. But if you take
+
+458
+00:15:47,600 --> 00:15:52,080
+larger swings and stay within that
+
+459
+00:15:49,840 --> 00:15:53,920
+format and that concept but make the ad
+
+460
+00:15:52,080 --> 00:15:55,360
+look differently in general, you're
+
+461
+00:15:53,920 --> 00:15:57,040
+still going to have most of the spend go
+
+462
+00:15:55,360 --> 00:15:58,480
+to one of those creatives. But you're
+
+463
+00:15:57,040 --> 00:16:00,560
+kind of taking a shotgun approach
+
+464
+00:15:58,480 --> 00:16:02,720
+because if you don't test all those
+
+465
+00:16:00,560 --> 00:16:04,640
+variations, maybe you had one of those
+
+466
+00:16:02,720 --> 00:16:06,160
+variations that was a winner and that
+
+467
+00:16:04,640 --> 00:16:08,480
+concept overall was a winner, but you
+
+468
+00:16:06,160 --> 00:16:10,160
+just didn't have the variations for
+
+469
+00:16:08,480 --> 00:16:12,800
+Facebook to test around to see which one
+
+470
+00:16:10,160 --> 00:16:14,160
+would resonate most with the audience.
+
+471
+00:16:12,800 --> 00:16:15,760
+So that's why I'm still a fan of
+
+472
+00:16:14,160 --> 00:16:18,240
+variation testing in general. Now, for
+
+473
+00:16:15,760 --> 00:16:20,240
+the adsets, everything was 100% broad. I
+
+474
+00:16:18,240 --> 00:16:22,400
+wasn't doing any exclusions. It was
+
+475
+00:16:20,240 --> 00:16:25,600
+basically an ASC if I hadn't set it at
+
+476
+00:16:22,400 --> 00:16:27,520
+[ __ ] So fully broad with no exclusions
+
+477
+00:16:25,600 --> 00:16:30,720
+whatsoever except at the ad account
+
+478
+00:16:27,520 --> 00:16:32,480
+level I excluded the audience network
+
+479
+00:16:30,720 --> 00:16:34,240
+placements and any associated placements
+
+480
+00:16:32,480 --> 00:16:36,240
+like that. Other than that, completely
+
+481
+00:16:34,240 --> 00:16:39,040
+broad. And for anybody that hasn't run
+
+482
+00:16:36,240 --> 00:16:41,920
+ads on Facebook before, important detail
+
+483
+00:16:39,040 --> 00:16:44,880
+at the ad level, turn off [ __ ]
+
+484
+00:16:41,920 --> 00:16:46,400
+everything. Turn off all the creative
+
+485
+00:16:44,880 --> 00:16:47,680
+enhancements, all the essential
+
+486
+00:16:46,400 --> 00:16:49,760
+enhancements, all the suggested
+
+487
+00:16:47,680 --> 00:16:52,320
+enhancements. turn off every setting
+
+488
+00:16:49,760 --> 00:16:53,760
+where Facebook says they can potentially
+
+489
+00:16:52,320 --> 00:16:55,280
+make you more money, which what that
+
+490
+00:16:53,760 --> 00:16:56,720
+really means is they're going to take
+
+491
+00:16:55,280 --> 00:16:58,400
+all of your money and give you nothing
+
+492
+00:16:56,720 --> 00:16:59,680
+in return for it. And this is the entire
+
+493
+00:16:58,400 --> 00:17:01,120
+structure. And then for [snorts] the
+
+494
+00:16:59,680 --> 00:17:03,120
+additional lander, I basically
+
+495
+00:17:01,120 --> 00:17:05,120
+duplicated this entire structure right
+
+496
+00:17:03,120 --> 00:17:07,440
+here. I had the exact same creatives. I
+
+497
+00:17:05,120 --> 00:17:09,680
+was just running to, you know, lander 2
+
+498
+00:17:07,440 --> 00:17:12,000
+instead of lander one. It was still [ __ ]
+
+499
+00:17:09,680 --> 00:17:13,680
+still concept grouping, and still having
+
+500
+00:17:12,000 --> 00:17:15,200
+the variations at the ad level. But like
+
+501
+00:17:13,680 --> 00:17:16,560
+I said, this one was literally killed on
+
+502
+00:17:15,200 --> 00:17:18,480
+the first day. I didn't want to give it
+
+503
+00:17:16,560 --> 00:17:20,720
+any time. It spent a few hundred bucks.
+
+504
+00:17:18,480 --> 00:17:22,160
+It hadn't proved itself and I wanted to
+
+505
+00:17:20,720 --> 00:17:23,520
+funnel more spend into what was actually
+
+506
+00:17:22,160 --> 00:17:25,360
+looking really good. By the way, I
+
+507
+00:17:23,520 --> 00:17:26,720
+tested US only. I didn't mention that,
+
+508
+00:17:25,360 --> 00:17:28,720
+but this is what I did. All right. Next
+
+509
+00:17:26,720 --> 00:17:29,920
+is going to be creatives. Now, once
+
+510
+00:17:28,720 --> 00:17:31,040
+again, I made a lot of videos on
+
+511
+00:17:29,920 --> 00:17:33,200
+creatives, so I'm not actually going to
+
+512
+00:17:31,040 --> 00:17:35,600
+make creatives in front of you, but I
+
+513
+00:17:33,200 --> 00:17:38,240
+think I explained a lot of this already,
+
+514
+00:17:35,600 --> 00:17:41,920
+which is how I did my testing here by
+
+515
+00:17:38,240 --> 00:17:45,200
+concept and by format. So, 100% of the
+
+516
+00:17:41,920 --> 00:17:46,960
+ads that I tested were AI, and they kind
+
+517
+00:17:45,200 --> 00:17:48,560
+of fell into different formats. So, I
+
+518
+00:17:46,960 --> 00:17:51,040
+had the AI animations, the native
+
+519
+00:17:48,560 --> 00:17:52,880
+statics, I had the podcast VSSL and
+
+520
+00:17:51,040 --> 00:17:54,880
+founder ads, and I just did variations
+
+521
+00:17:52,880 --> 00:17:56,400
+of each. The process for AI creatives,
+
+522
+00:17:54,880 --> 00:17:58,240
+guys, like it's becoming really so easy
+
+523
+00:17:56,400 --> 00:17:59,600
+and so commoditized. If you're doing
+
+524
+00:17:58,240 --> 00:18:01,920
+native statics, you're just going to be
+
+525
+00:17:59,600 --> 00:18:03,360
+using, you know, Nano Banana Pro. That's
+
+526
+00:18:01,920 --> 00:18:05,040
+it. You're going to use it on Higsfield.
+
+527
+00:18:03,360 --> 00:18:06,560
+You can get tons of generations really
+
+528
+00:18:05,040 --> 00:18:08,400
+quickly or use something open source
+
+529
+00:18:06,560 --> 00:18:10,160
+that's very similar. If you're doing
+
+530
+00:18:08,400 --> 00:18:12,480
+videos, it's simply going to be
+
+531
+00:18:10,160 --> 00:18:15,360
+generating good images on NanoBanana Pro
+
+532
+00:18:12,480 --> 00:18:17,120
+and then doing image to video using a
+
+533
+00:18:15,360 --> 00:18:19,120
+solid video model. And again, you can do
+
+534
+00:18:17,120 --> 00:18:20,880
+all this on Higsfield. Use whatever
+
+535
+00:18:19,120 --> 00:18:22,880
+[ __ ] website you want, but it's a
+
+536
+00:18:20,880 --> 00:18:25,440
+nice one-stop shop for everything. For
+
+537
+00:18:22,880 --> 00:18:26,800
+image to video, what you want to use is
+
+538
+00:18:25,440 --> 00:18:30,400
+going to be dependent on the type of
+
+539
+00:18:26,800 --> 00:18:32,800
+clip because Seance 2 is the best video
+
+540
+00:18:30,400 --> 00:18:36,320
+generation tool that is out right now.
+
+541
+00:18:32,800 --> 00:18:38,400
+CDS 2 is also [ __ ] expensive and no
+
+542
+00:18:36,320 --> 00:18:40,080
+matter what API you're using, it's going
+
+543
+00:18:38,400 --> 00:18:42,680
+to be the most expensive one. For that
+
+544
+00:18:40,080 --> 00:18:44,800
+reason, if I'm doing a hook clip
+
+545
+00:18:42,680 --> 00:18:46,480
+[clears throat] generation, then I'll be
+
+546
+00:18:44,800 --> 00:18:48,320
+using the more expensive models. And
+
+547
+00:18:46,480 --> 00:18:49,760
+then for everything else post hook,
+
+548
+00:18:48,320 --> 00:18:50,960
+which we know the hook, first 3 to 5
+
+549
+00:18:49,760 --> 00:18:52,880
+seconds of your ad is the most important
+
+550
+00:18:50,960 --> 00:18:54,000
+by far. If Cance doesn't make sense, I'm
+
+551
+00:18:52,880 --> 00:18:56,240
+going to move to other models.
+
+552
+00:18:54,000 --> 00:18:58,160
+Specifically, I'll move to, you know,
+
+553
+00:18:56,240 --> 00:18:59,600
+Omni from Cling. And honestly, that's
+
+554
+00:18:58,160 --> 00:19:01,680
+all I'm using. I was going to go on the
+
+555
+00:18:59,600 --> 00:19:03,360
+list, but like these are actually the
+
+556
+00:19:01,680 --> 00:19:05,280
+only two that I'm really using right now
+
+557
+00:19:03,360 --> 00:19:08,720
+because I do a lot of video generations
+
+558
+00:19:05,280 --> 00:19:10,160
+previously on V3.1 and Cling Omni is
+
+559
+00:19:08,720 --> 00:19:11,760
+just a little bit more expensive and it
+
+560
+00:19:10,160 --> 00:19:14,240
+needs fewer generations. So ultimately
+
+561
+00:19:11,760 --> 00:19:16,400
+it was actually net cheaper for me to go
+
+562
+00:19:14,240 --> 00:19:18,160
+with Omni for all my video generations.
+
+563
+00:19:16,400 --> 00:19:20,560
+But point being, what do you do with
+
+564
+00:19:18,160 --> 00:19:22,320
+ads? You find stuff that's working. You
+
+565
+00:19:20,560 --> 00:19:24,400
+rebuild it for yourself and you make
+
+566
+00:19:22,320 --> 00:19:26,080
+good [ __ ] content with AI. You watch
+
+567
+00:19:24,400 --> 00:19:28,800
+the metadata before you upload into your
+
+568
+00:19:26,080 --> 00:19:30,720
+ad account and you're [ __ ] good to
+
+569
+00:19:28,800 --> 00:19:32,960
+go. Like it's not something that is
+
+570
+00:19:30,720 --> 00:19:35,440
+super complicated anymore. I don't think
+
+571
+00:19:32,960 --> 00:19:36,960
+it was ever that complicated, but you
+
+572
+00:19:35,440 --> 00:19:38,880
+can see the style of ads that are doing
+
+573
+00:19:36,960 --> 00:19:41,120
+well. That's why I love using Get Hooked
+
+574
+00:19:38,880 --> 00:19:43,680
+as well, cuz you can just see these
+
+575
+00:19:41,120 --> 00:19:45,360
+competitors, see their top ads, get the
+
+576
+00:19:43,680 --> 00:19:47,440
+script, rewrite it for yourself in like
+
+577
+00:19:45,360 --> 00:19:49,440
+60 seconds, and then it just becomes a
+
+578
+00:19:47,440 --> 00:19:51,200
+game of creating the clips and piecing
+
+579
+00:19:49,440 --> 00:19:52,960
+them together. That's it. If you really
+
+580
+00:19:51,200 --> 00:19:54,400
+want to be a lazy son of a [ __ ] What
+
+581
+00:19:52,960 --> 00:19:56,720
+you can also do is after you have all
+
+582
+00:19:54,400 --> 00:19:58,400
+these clips generated, you can go to
+
+583
+00:19:56,720 --> 00:20:00,000
+chat GBT. I know, who would have
+
+584
+00:19:58,400 --> 00:20:01,680
+thought? No, I actually use chat GBT a
+
+585
+00:20:00,000 --> 00:20:04,720
+lot more now. You can use chat GBT and
+
+586
+00:20:01,680 --> 00:20:07,280
+install an extension called Chatcut and
+
+587
+00:20:04,720 --> 00:20:08,320
+Chatcut can edit your videos for you.
+
+588
+00:20:07,280 --> 00:20:09,920
+You can go down that rabbit hole
+
+589
+00:20:08,320 --> 00:20:11,680
+yourself, but it's pretty [ __ ] cool.
+
+590
+00:20:09,920 --> 00:20:14,000
+Now, lastly, I want to talk about what
+
+591
+00:20:11,680 --> 00:20:15,680
+went wrong because, you know, this was a
+
+592
+00:20:14,000 --> 00:20:17,520
+new launch. And even though I've been
+
+593
+00:20:15,680 --> 00:20:20,240
+doing this for years, I still like to
+
+594
+00:20:17,520 --> 00:20:22,240
+learn from every new test that I run.
+
+595
+00:20:20,240 --> 00:20:24,080
+And so, one of the main things that I
+
+596
+00:20:22,240 --> 00:20:25,280
+did wrong, and that doesn't look good,
+
+597
+00:20:24,080 --> 00:20:27,360
+first and foremost, it's just going to
+
+598
+00:20:25,280 --> 00:20:31,760
+be the conversion rate. Now, since I was
+
+599
+00:20:27,360 --> 00:20:34,000
+using many indirect ads, my ad cost was
+
+600
+00:20:31,760 --> 00:20:36,960
+relatively low. So, having a lower
+
+601
+00:20:34,000 --> 00:20:38,880
+conversion rate is totally fine in that
+
+602
+00:20:36,960 --> 00:20:40,800
+case. I still don't like it, but
+
+603
+00:20:38,880 --> 00:20:42,640
+economically it was still within our
+
+604
+00:20:40,800 --> 00:20:43,760
+target KPIs. And if you look at the
+
+605
+00:20:42,640 --> 00:20:45,120
+actual conversion rate, and this is
+
+606
+00:20:43,760 --> 00:20:46,880
+important for anybody that doesn't know
+
+607
+00:20:45,120 --> 00:20:50,000
+this, if you look at the conversion rate
+
+608
+00:20:46,880 --> 00:20:52,880
+of the store, it's at 1.54%. However,
+
+609
+00:20:50,000 --> 00:20:54,800
+every single day, I was launching a lot
+
+610
+00:20:52,880 --> 00:20:57,280
+of ads and a good amount of adsets.
+
+611
+00:20:54,800 --> 00:21:01,760
+Anytime you do that, especially on
+
+612
+00:20:57,280 --> 00:21:05,360
+Shopify and especially if you use UTMs,
+
+613
+00:21:01,760 --> 00:21:07,920
+what happens is Facebook sends tons and
+
+614
+00:21:05,360 --> 00:21:09,360
+tons of bot traffic to your site on the
+
+615
+00:21:07,920 --> 00:21:10,960
+day that you launch. And if you're
+
+616
+00:21:09,360 --> 00:21:12,960
+launching stuff every day, that means
+
+617
+00:21:10,960 --> 00:21:15,600
+they're sending bots every single day.
+
+618
+00:21:12,960 --> 00:21:18,160
+And so you can probably see in your
+
+619
+00:21:15,600 --> 00:21:19,680
+sessions when you launch something new,
+
+620
+00:21:18,160 --> 00:21:22,160
+you probably see this massive spike.
+
+621
+00:21:19,680 --> 00:21:24,160
+That's not actual Facebook users. Those
+
+622
+00:21:22,160 --> 00:21:26,160
+are bots that are crawling your page,
+
+623
+00:21:24,160 --> 00:21:27,280
+scanning it for compliance, and going
+
+624
+00:21:26,160 --> 00:21:28,720
+through and clicking all over your
+
+625
+00:21:27,280 --> 00:21:30,720
+[ __ ] website. Actually, they go as
+
+626
+00:21:28,720 --> 00:21:32,160
+deep as your checkout. And they would
+
+627
+00:21:30,720 --> 00:21:34,160
+probably buy if they had their own
+
+628
+00:21:32,160 --> 00:21:35,840
+credit card IDs, but they don't. So, the
+
+629
+00:21:34,160 --> 00:21:38,480
+real conversion rate based off my
+
+630
+00:21:35,840 --> 00:21:41,440
+calculations is closer to like 2 to
+
+631
+00:21:38,480 --> 00:21:43,040
+2.5%. But in any case, I still don't
+
+632
+00:21:41,440 --> 00:21:44,480
+think that's that great. And that's one
+
+633
+00:21:43,040 --> 00:21:46,320
+thing that I think can be done better is
+
+634
+00:21:44,480 --> 00:21:48,880
+while I wanted to go the route of going
+
+635
+00:21:46,320 --> 00:21:50,880
+direct to PDP, I do think that adding in
+
+636
+00:21:48,880 --> 00:21:52,800
+pre-landers potentially with the right
+
+637
+00:21:50,880 --> 00:21:54,240
+framing could potentially increase the
+
+638
+00:21:52,800 --> 00:21:55,920
+conversion rate and also just more split
+
+639
+00:21:54,240 --> 00:21:57,760
+testing. So my next steps here is going
+
+640
+00:21:55,920 --> 00:21:59,680
+to be to install some split testing
+
+641
+00:21:57,760 --> 00:22:01,200
+tools and run some split tests in
+
+642
+00:21:59,680 --> 00:22:03,440
+general on the PDP to see if I can
+
+643
+00:22:01,200 --> 00:22:04,560
+increase the conversion rate. And that's
+
+644
+00:22:03,440 --> 00:22:06,400
+kind of the first thing that I think
+
+645
+00:22:04,560 --> 00:22:08,560
+didn't go very well. Fortunately, as I
+
+646
+00:22:06,400 --> 00:22:10,560
+said, we still met our target KPIs, but
+
+647
+00:22:08,560 --> 00:22:12,960
+I wanted to do better than that. Now,
+
+648
+00:22:10,560 --> 00:22:14,960
+the second thing that sucks on the store
+
+649
+00:22:12,960 --> 00:22:16,800
+so far is going to be the AOV. This is
+
+650
+00:22:14,960 --> 00:22:18,320
+mostly because I launched this very
+
+651
+00:22:16,800 --> 00:22:20,720
+quickly. I launched this entire store in
+
+652
+00:22:18,320 --> 00:22:22,240
+a matter of a few days. And to me,
+
+653
+00:22:20,720 --> 00:22:24,080
+that's even pretty slow. Like, you can
+
+654
+00:22:22,240 --> 00:22:28,480
+easily, especially with AI, guys, in
+
+655
+00:22:24,080 --> 00:22:30,640
+2018, 2019, I would find a product,
+
+656
+00:22:28,480 --> 00:22:32,400
+build a store, create the ads,
+
+657
+00:22:30,640 --> 00:22:34,080
+everything completely from scratch, like
+
+658
+00:22:32,400 --> 00:22:36,720
+literally a new Shopify store from
+
+659
+00:22:34,080 --> 00:22:39,360
+scratch. everything from scratch with
+
+660
+00:22:36,720 --> 00:22:42,080
+ads published and scheduled to run the
+
+661
+00:22:39,360 --> 00:22:43,920
+next day in under four hours. All of
+
+662
+00:22:42,080 --> 00:22:45,680
+that in under four hours. I had done it
+
+663
+00:22:43,920 --> 00:22:47,280
+so many times. I was so good. So now
+
+664
+00:22:45,680 --> 00:22:49,120
+with AI, the stuff is going to be
+
+665
+00:22:47,280 --> 00:22:52,640
+better, but you can easily launch stuff
+
+666
+00:22:49,120 --> 00:22:54,080
+within a day. Easily. Easily. And I
+
+667
+00:22:52,640 --> 00:22:55,360
+noticed that when I was building, I just
+
+668
+00:22:54,080 --> 00:22:56,960
+spent a lot of time on [ __ ] that like
+
+669
+00:22:55,360 --> 00:22:59,120
+doesn't matter. Like designing the [ __ ]
+
+670
+00:22:56,960 --> 00:23:00,160
+out of your homepage doesn't matter.
+
+671
+00:22:59,120 --> 00:23:02,320
+Like most people are going to stay on
+
+672
+00:23:00,160 --> 00:23:04,240
+the product page. You need to [ __ ]
+
+673
+00:23:02,320 --> 00:23:05,600
+focus where it actually matters. But the
+
+674
+00:23:04,240 --> 00:23:07,040
+second thing is the AOV. Because I
+
+675
+00:23:05,600 --> 00:23:08,880
+launched so quickly, I didn't set up any
+
+676
+00:23:07,040 --> 00:23:10,880
+post-purchase upselles, any pre-
+
+677
+00:23:08,880 --> 00:23:12,160
+purchase upselles. There's basically
+
+678
+00:23:10,880 --> 00:23:14,640
+nothing that has been done here except
+
+679
+00:23:12,160 --> 00:23:18,640
+for having a decent offer. And so the
+
+680
+00:23:14,640 --> 00:23:21,280
+AOV is only like I think it was like $14
+
+681
+00:23:18,640 --> 00:23:24,480
+above the front end price point, which
+
+682
+00:23:21,280 --> 00:23:26,720
+is $14 AOV contribution. My target is
+
+683
+00:23:24,480 --> 00:23:29,040
+double. So I would have to add an
+
+684
+00:23:26,720 --> 00:23:30,560
+additional like $30 of AOV with
+
+685
+00:23:29,040 --> 00:23:32,080
+additional tests for this particular
+
+686
+00:23:30,560 --> 00:23:33,440
+store. But that's doable. That's kind of
+
+687
+00:23:32,080 --> 00:23:35,360
+the easy part, at least for me, because
+
+688
+00:23:33,440 --> 00:23:37,680
+I've done it so frequently. And then, of
+
+689
+00:23:35,360 --> 00:23:39,200
+course, the last thing that, you know,
+
+690
+00:23:37,680 --> 00:23:40,960
+really kind of threw a wrench in things
+
+691
+00:23:39,200 --> 00:23:42,960
+is the ad account got shut down. We
+
+692
+00:23:40,960 --> 00:23:44,240
+ended up scheduling ads on another ad
+
+693
+00:23:42,960 --> 00:23:45,680
+account. They never ran. And the reason
+
+694
+00:23:44,240 --> 00:23:48,320
+they never ran is because we ended up
+
+695
+00:23:45,680 --> 00:23:49,920
+getting the original ad account back
+
+696
+00:23:48,320 --> 00:23:52,480
+this morning, the same day that we hit
+
+697
+00:23:49,920 --> 00:23:53,920
+the 1K day. That is basically it. But
+
+698
+00:23:52,480 --> 00:23:55,200
+getting ad account shut down, again,
+
+699
+00:23:53,920 --> 00:23:57,040
+it's [ __ ] part of the game. We warmed
+
+700
+00:23:55,200 --> 00:23:58,480
+up the ad account properly. We had zero
+
+701
+00:23:57,040 --> 00:23:59,760
+rejected ads. Facebook is going through
+
+702
+00:23:58,480 --> 00:24:01,280
+a bandwave right now. And if you're
+
+703
+00:23:59,760 --> 00:24:03,840
+running ads on Facebook, you've probably
+
+704
+00:24:01,280 --> 00:24:06,560
+got something banned. So just having
+
+705
+00:24:03,840 --> 00:24:08,240
+backup accounts, having agency accounts,
+
+706
+00:24:06,560 --> 00:24:10,000
+or you know, having insiders to help you
+
+707
+00:24:08,240 --> 00:24:11,360
+get back the original accounts, you
+
+708
+00:24:10,000 --> 00:24:13,040
+know, you never [ __ ] know if that's
+
+709
+00:24:11,360 --> 00:24:14,880
+going to work or not, but sometimes it
+
+710
+00:24:13,040 --> 00:24:16,880
+does, sometimes it doesn't. And so in
+
+711
+00:24:14,880 --> 00:24:18,480
+this case, we had all of those set up
+
+712
+00:24:16,880 --> 00:24:19,760
+and so we had multiple options in the
+
+713
+00:24:18,480 --> 00:24:21,360
+case that something went down. That's
+
+714
+00:24:19,760 --> 00:24:22,880
+about it for this video. Ultimately, I
+
+715
+00:24:21,360 --> 00:24:24,080
+just kind of wanted to go through
+
+716
+00:24:22,880 --> 00:24:26,240
+everything that I learned and how I
+
+717
+00:24:24,080 --> 00:24:29,040
+structured everything. A long story
+
+718
+00:24:26,240 --> 00:24:30,560
+short, if you have not yet hit 1K,
+
+719
+00:24:29,040 --> 00:24:32,160
+you're probably spending way too much
+
+720
+00:24:30,560 --> 00:24:34,560
+time on the wrong things. Like, just
+
+721
+00:24:32,160 --> 00:24:36,720
+zoom out 30,000 ft, probably spending
+
+722
+00:24:34,560 --> 00:24:38,720
+way too much on the wrong things and not
+
+723
+00:24:36,720 --> 00:24:40,400
+enough time on the right things, which
+
+724
+00:24:38,720 --> 00:24:42,160
+is going to be the store and the
+
+725
+00:24:40,400 --> 00:24:44,320
+creatives. Even the ad strategy, I would
+
+726
+00:24:42,160 --> 00:24:46,080
+say, is a fraction of importance
+
+727
+00:24:44,320 --> 00:24:47,280
+compared to the store and the creatives.
+
+728
+00:24:46,080 --> 00:24:48,640
+And by store, I literally mean the
+
+729
+00:24:47,280 --> 00:24:50,240
+funnel, which is like your PDP all the
+
+730
+00:24:48,640 --> 00:24:51,200
+way to checkout. So, yeah, guys, other
+
+731
+00:24:50,240 --> 00:24:52,880
+than that, thank you so much for
+
+732
+00:24:51,200 --> 00:24:55,040
+watching. If you want to work with me
+
+733
+00:24:52,880 --> 00:24:57,360
+more closely and get like very specific
+
+734
+00:24:55,040 --> 00:24:58,720
+tailored advice for getting your
+
+735
+00:24:57,360 --> 00:25:00,240
+product, your new store, whatever,
+
+736
+00:24:58,720 --> 00:25:01,600
+getting you to 1K per day, you can
+
+737
+00:25:00,240 --> 00:25:03,760
+always click the first link in the
+
+738
+00:25:01,600 --> 00:25:05,040
+description. I have some exciting things
+
+739
+00:25:03,760 --> 00:25:06,400
+I'm planning that you'll hear about
+
+740
+00:25:05,040 --> 00:25:07,520
+soon, and I'm just going to leave it as
+
+741
+00:25:06,400 --> 00:25:08,800
+vague as that. Other than that, guys,
+
+742
+00:25:07,520 --> 00:25:10,400
+thank you so much for watching. Talk to
+
+743
+00:25:08,800 --> 00:25:13,760
+you'all later. Have a great one. Run
+
+744
+00:25:10,400 --> 00:25:13,760
+more ads. Peace.
+

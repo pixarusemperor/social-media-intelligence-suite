@@ -1,0 +1,2272 @@
+[
+  {
+    "start": 0.0,
+    "duration": 2.12,
+    "text": "Hey guys, it's Mark here. In this video,"
+  },
+  {
+    "start": 1.24,
+    "duration": 2.96,
+    "text": "I'm going to show you how to test"
+  },
+  {
+    "start": 2.12,
+    "duration": 3.6,
+    "text": "Facebook Ads post Andromeda update."
+  },
+  {
+    "start": 4.2,
+    "duration": 3.44,
+    "text": "First, I'll be walking you through my"
+  },
+  {
+    "start": 5.72,
+    "duration": 3.24,
+    "text": "personal Facebook Ads testing structure."
+  },
+  {
+    "start": 7.64,
+    "duration": 3.4,
+    "text": "Second, I'm going to show you how to"
+  },
+  {
+    "start": 8.96,
+    "duration": 4.04,
+    "text": "actually set up this exact structure"
+  },
+  {
+    "start": 11.04,
+    "duration": 3.44,
+    "text": "within your ad account. And third, I'm"
+  },
+  {
+    "start": 13.0,
+    "duration": 3.28,
+    "text": "going to tell you why this structure"
+  },
+  {
+    "start": 14.48,
+    "duration": 3.96,
+    "text": "works so freaking well. So, the"
+  },
+  {
+    "start": 16.28,
+    "duration": 4.56,
+    "text": "Andromeda update basically flipped my"
+  },
+  {
+    "start": 18.44,
+    "duration": 4.84,
+    "text": "entire creative strategy on its head"
+  },
+  {
+    "start": 20.84,
+    "duration": 5.64,
+    "text": "because pre-Andromeda, I was very heavy"
+  },
+  {
+    "start": 23.28,
+    "duration": 4.4,
+    "text": "on testing a [ __ ] load of variations."
+  },
+  {
+    "start": 26.48,
+    "duration": 2.56,
+    "text": "So, when you're testing ads, you can"
+  },
+  {
+    "start": 27.68,
+    "duration": 2.72,
+    "text": "kind of put them into two categories."
+  },
+  {
+    "start": 29.04,
+    "duration": 2.68,
+    "text": "You can put them into a lot more, but"
+  },
+  {
+    "start": 30.4,
+    "duration": 3.4,
+    "text": "generally the way that I think about it"
+  },
+  {
+    "start": 31.72,
+    "duration": 4.44,
+    "text": "is you have your variations and you have"
+  },
+  {
+    "start": 33.8,
+    "duration": 4.96,
+    "text": "your new concept. So, if you can't tell"
+  },
+  {
+    "start": 36.16,
+    "duration": 5.36,
+    "text": "by the name, variations are very small"
+  },
+  {
+    "start": 38.76,
+    "duration": 5.12,
+    "text": "changes to existing winning ads. New"
+  },
+  {
+    "start": 41.52,
+    "duration": 3.64,
+    "text": "concepts are basically completely unique"
+  },
+  {
+    "start": 43.88,
+    "duration": 2.68,
+    "text": "creative material that you're bringing"
+  },
+  {
+    "start": 45.16,
+    "duration": 3.04,
+    "text": "into your ad account. So, like I said,"
+  },
+  {
+    "start": 46.56,
+    "duration": 3.16,
+    "text": "it flipped it on its head. What I used"
+  },
+  {
+    "start": 48.2,
+    "duration": 3.64,
+    "text": "to do was the majority of the ads that I"
+  },
+  {
+    "start": 49.72,
+    "duration": 4.0,
+    "text": "was launching, roughly about like 80% I"
+  },
+  {
+    "start": 51.84,
+    "duration": 3.4,
+    "text": "would say, was actually variations"
+  },
+  {
+    "start": 53.72,
+    "duration": 3.04,
+    "text": "because once you find a winner, you can"
+  },
+  {
+    "start": 55.24,
+    "duration": 3.08,
+    "text": "just create winner after winner after"
+  },
+  {
+    "start": 56.76,
+    "duration": 3.16,
+    "text": "winner after winner and skyrocket your"
+  },
+  {
+    "start": 58.32,
+    "duration": 3.8,
+    "text": "win rate because you're just making"
+  },
+  {
+    "start": 59.92,
+    "duration": 3.48,
+    "text": "these tiny changes to your ads. And of"
+  },
+  {
+    "start": 62.12,
+    "duration": 3.6,
+    "text": "course, new concepts would have been the"
+  },
+  {
+    "start": 63.4,
+    "duration": 4.0,
+    "text": "other 20%. But now, this has basically"
+  },
+  {
+    "start": 65.72,
+    "duration": 5.08,
+    "text": "been completely flipped to the point"
+  },
+  {
+    "start": 67.4,
+    "duration": 6.44,
+    "text": "where my creatives are 80% new concepts"
+  },
+  {
+    "start": 70.8,
+    "duration": 4.92,
+    "text": "and 20% variations. And when I'm testing"
+  },
+  {
+    "start": 73.84,
+    "duration": 4.24,
+    "text": "new ads from like a brand new product,"
+  },
+  {
+    "start": 75.72,
+    "duration": 4.2,
+    "text": "let's say, I am pushing much harder on"
+  },
+  {
+    "start": 78.08,
+    "duration": 3.48,
+    "text": "testing new concepts instead of one"
+  },
+  {
+    "start": 79.92,
+    "duration": 2.96,
+    "text": "concept with a bunch of variations. So"
+  },
+  {
+    "start": 81.56,
+    "duration": 4.0,
+    "text": "first, let's talk about the structure."
+  },
+  {
+    "start": 82.88,
+    "duration": 5.56,
+    "text": "To launch new ads, I recommend typically"
+  },
+  {
+    "start": 85.56,
+    "duration": 5.16,
+    "text": "using a CBO. CBO stands for campaign"
+  },
+  {
+    "start": 88.44,
+    "duration": 4.12,
+    "text": "budget optimization and sounds like a"
+  },
+  {
+    "start": 90.72,
+    "duration": 3.36,
+    "text": "big fancy word. All it means is that you"
+  },
+  {
+    "start": 92.56,
+    "duration": 3.24,
+    "text": "set the budget at the campaign level"
+  },
+  {
+    "start": 94.08,
+    "duration": 3.6,
+    "text": "instead of ad set level and Facebook"
+  },
+  {
+    "start": 95.8,
+    "duration": 4.08,
+    "text": "will determine how to spend your"
+  },
+  {
+    "start": 97.68,
+    "duration": 3.84,
+    "text": "campaign budget across the various ad"
+  },
+  {
+    "start": 99.88,
+    "duration": 3.04,
+    "text": "set. Now, I'm going to come back to the"
+  },
+  {
+    "start": 101.52,
+    "duration": 3.56,
+    "text": "actual budget and how you want to"
+  },
+  {
+    "start": 102.92,
+    "duration": 4.32,
+    "text": "calculate how much you should spend. But"
+  },
+  {
+    "start": 105.08,
+    "duration": 4.28,
+    "text": "inside of your CBO, you're going to have"
+  },
+  {
+    "start": 107.24,
+    "duration": 3.64,
+    "text": "multiple ad sets. The number ultimately"
+  },
+  {
+    "start": 109.36,
+    "duration": 3.64,
+    "text": "is up to you, but if you're launching"
+  },
+  {
+    "start": 110.88,
+    "duration": 3.88,
+    "text": "something new, I recommend at least two"
+  },
+  {
+    "start": 113.0,
+    "duration": 4.56,
+    "text": "or three ad sets in here. So again, back"
+  },
+  {
+    "start": 114.76,
+    "duration": 3.8,
+    "text": "to a CBO, if I set the budget at a $100,"
+  },
+  {
+    "start": 117.56,
+    "duration": 4.56,
+    "text": "it doesn't mean that it's going to"
+  },
+  {
+    "start": 118.56,
+    "duration": 5.32,
+    "text": "perfectly spend $33 here, $33 here, and"
+  },
+  {
+    "start": 122.12,
+    "duration": 4.64,
+    "text": "$33 here. No, of course not. It could"
+  },
+  {
+    "start": 123.88,
+    "duration": 4.72,
+    "text": "quite literally spend $99"
+  },
+  {
+    "start": 126.76,
+    "duration": 3.36,
+    "text": "in this one ad set and 50 cents here and"
+  },
+  {
+    "start": 128.6,
+    "duration": 3.24,
+    "text": "50 cents here. Unlikely to happen, but a"
+  },
+  {
+    "start": 130.12,
+    "duration": 3.48,
+    "text": "lot of times one ad set does cannibalize"
+  },
+  {
+    "start": 131.84,
+    "duration": 4.16,
+    "text": "things, but that's actually okay. This"
+  },
+  {
+    "start": 133.6,
+    "duration": 4.56,
+    "text": "entire philosophy of how I structure my"
+  },
+  {
+    "start": 136.0,
+    "duration": 3.64,
+    "text": "ad testing centers around letting"
+  },
+  {
+    "start": 138.16,
+    "duration": 3.2,
+    "text": "Facebook do the majority of the heavy"
+  },
+  {
+    "start": 139.64,
+    "duration": 3.16,
+    "text": "lifting for you. So, inside each of"
+  },
+  {
+    "start": 141.36,
+    "duration": 3.12,
+    "text": "these ad sets, the ad set level is"
+  },
+  {
+    "start": 142.8,
+    "duration": 3.96,
+    "text": "typically where you set your targeting."
+  },
+  {
+    "start": 144.48,
+    "duration": 3.88,
+    "text": "So, who are you really going after? And"
+  },
+  {
+    "start": 146.76,
+    "duration": 4.16,
+    "text": "what I do inside of these ad sets is I"
+  },
+  {
+    "start": 148.36,
+    "duration": 4.32,
+    "text": "keep them completely broad, which means"
+  },
+  {
+    "start": 150.92,
+    "duration": 4.64,
+    "text": "Advantage Plus placements. Typically,"
+  },
+  {
+    "start": 152.68,
+    "duration": 5.2,
+    "text": "I'm running in terms of ages 18 to 65"
+  },
+  {
+    "start": 155.56,
+    "duration": 3.88,
+    "text": "plus and I'm running male and female. Of"
+  },
+  {
+    "start": 157.88,
+    "duration": 2.88,
+    "text": "course, if you're only selling to one"
+  },
+  {
+    "start": 159.44,
+    "duration": 2.28,
+    "text": "demographic, then select the one that's"
+  },
+  {
+    "start": 160.76,
+    "duration": 2.24,
+    "text": "most relevant to you. But if you're"
+  },
+  {
+    "start": 161.72,
+    "duration": 2.44,
+    "text": "selling to both, keep it broad. Now, at"
+  },
+  {
+    "start": 163.0,
+    "duration": 3.36,
+    "text": "this point, you may be wondering, \"Mark,"
+  },
+  {
+    "start": 164.16,
+    "duration": 3.76,
+    "text": "why do you have three ad sets if they're"
+  },
+  {
+    "start": 166.36,
+    "duration": 3.24,
+    "text": "all going to be identical? They're all"
+  },
+  {
+    "start": 167.92,
+    "duration": 3.8,
+    "text": "broad, they're all Advantage Plus, and"
+  },
+  {
+    "start": 169.6,
+    "duration": 3.56,
+    "text": "they're all 18-65 plus. Everything is"
+  },
+  {
+    "start": 171.72,
+    "duration": 3.0,
+    "text": "broad. Why do you have three of them?\""
+  },
+  {
+    "start": 173.16,
+    "duration": 3.12,
+    "text": "Well, the reason I have three is because"
+  },
+  {
+    "start": 174.72,
+    "duration": 3.88,
+    "text": "they're not actually identical. You see,"
+  },
+  {
+    "start": 176.28,
+    "duration": 4.08,
+    "text": "inside each of these ad sets, if this is"
+  },
+  {
+    "start": 178.6,
+    "duration": 2.84,
+    "text": "ad set one, this is ad set two and this"
+  },
+  {
+    "start": 180.36,
+    "duration": 3.16,
+    "text": "is ad set three, I'm actually going to"
+  },
+  {
+    "start": 181.44,
+    "duration": 4.28,
+    "text": "have three different creatives in each"
+  },
+  {
+    "start": 183.52,
+    "duration": 3.6,
+    "text": "of these three ad sets. Again, I'm just"
+  },
+  {
+    "start": 185.72,
+    "duration": 3.64,
+    "text": "using three. If you want to have more"
+  },
+  {
+    "start": 187.12,
+    "duration": 3.92,
+    "text": "ads per ad set, you can. But here's the"
+  },
+  {
+    "start": 189.36,
+    "duration": 4.84,
+    "text": "point that I'm trying to make. You want"
+  },
+  {
+    "start": 191.04,
+    "duration": 5.8,
+    "text": "to segment these ad sets by ad concept."
+  },
+  {
+    "start": 194.2,
+    "duration": 5.4,
+    "text": "So, let's say ad set one is ad concept"
+  },
+  {
+    "start": 196.84,
+    "duration": 4.24,
+    "text": "one, ad set two is ad concept two, and"
+  },
+  {
+    "start": 199.6,
+    "duration": 3.76,
+    "text": "ad set three is ad concept three. And"
+  },
+  {
+    "start": 201.08,
+    "duration": 4.84,
+    "text": "then inside, let's say you have three"
+  },
+  {
+    "start": 203.36,
+    "duration": 4.6,
+    "text": "creatives each, which these three would"
+  },
+  {
+    "start": 205.92,
+    "duration": 3.8,
+    "text": "actually be variations of that one"
+  },
+  {
+    "start": 207.96,
+    "duration": 3.84,
+    "text": "concept, okay? I'll explain kind of what"
+  },
+  {
+    "start": 209.72,
+    "duration": 5.32,
+    "text": "I mean, but this would be a total of, if"
+  },
+  {
+    "start": 211.8,
+    "duration": 6.24,
+    "text": "we count the actual ads, 1 2 3 4 5 6 7 8"
+  },
+  {
+    "start": 215.04,
+    "duration": 4.68,
+    "text": "9 total ads for this ad launch. But"
+  },
+  {
+    "start": 218.04,
+    "duration": 5.32,
+    "text": "these three ads are going to be"
+  },
+  {
+    "start": 219.72,
+    "duration": 4.92,
+    "text": "variations of this one new concept. So,"
+  },
+  {
+    "start": 223.36,
+    "duration": 2.88,
+    "text": "the reason why I said you can have as"
+  },
+  {
+    "start": 224.64,
+    "duration": 3.92,
+    "text": "many ad sets as you want in here is cuz"
+  },
+  {
+    "start": 226.24,
+    "duration": 4.48,
+    "text": "you could have five ad sets in here, but"
+  },
+  {
+    "start": 228.56,
+    "duration": 4.36,
+    "text": "only one ad per ad set and each one is a"
+  },
+  {
+    "start": 230.72,
+    "duration": 4.12,
+    "text": "new concept. I think the sweet spot is"
+  },
+  {
+    "start": 232.92,
+    "duration": 4.24,
+    "text": "not one. I think it's like anywhere from"
+  },
+  {
+    "start": 234.84,
+    "duration": 4.84,
+    "text": "three to 10, but [ __ ] I have ad sets"
+  },
+  {
+    "start": 237.16,
+    "duration": 4.44,
+    "text": "running that have 20 plus ads in there."
+  },
+  {
+    "start": 239.68,
+    "duration": 4.12,
+    "text": "So, you know, 30 plus ads, 50 plus ads,"
+  },
+  {
+    "start": 241.6,
+    "duration": 4.24,
+    "text": "some of them. There isn't a rule here,"
+  },
+  {
+    "start": 243.8,
+    "duration": 4.08,
+    "text": "okay? I'll tell you what I recommend is"
+  },
+  {
+    "start": 245.84,
+    "duration": 4.08,
+    "text": "anywhere from three to five ad sets,"
+  },
+  {
+    "start": 247.88,
+    "duration": 4.08,
+    "text": "which means three to five concepts,"
+  },
+  {
+    "start": 249.92,
+    "duration": 4.8,
+    "text": "completely unique concepts, and anywhere"
+  },
+  {
+    "start": 251.96,
+    "duration": 4.12,
+    "text": "from two to five variations in each of"
+  },
+  {
+    "start": 254.72,
+    "duration": 4.24,
+    "text": "those ad set. And by the way, this is"
+  },
+  {
+    "start": 256.08,
+    "duration": 5.36,
+    "text": "mostly relevant to images and videos. I"
+  },
+  {
+    "start": 258.96,
+    "duration": 4.32,
+    "text": "typically do my testing with images cuz"
+  },
+  {
+    "start": 261.44,
+    "duration": 2.84,
+    "text": "you can typically just do it faster. But"
+  },
+  {
+    "start": 263.28,
+    "duration": 3.2,
+    "text": "if you want to test with images and"
+  },
+  {
+    "start": 264.28,
+    "duration": 4.84,
+    "text": "videos, you can. I would recommend"
+  },
+  {
+    "start": 266.48,
+    "duration": 4.84,
+    "text": "segmenting them in the ad set or even in"
+  },
+  {
+    "start": 269.12,
+    "duration": 4.04,
+    "text": "a completely different CBO because"
+  },
+  {
+    "start": 271.32,
+    "duration": 4.28,
+    "text": "typically what I see is if you throw a"
+  },
+  {
+    "start": 273.16,
+    "duration": 4.44,
+    "text": "bunch of images and videos in the same"
+  },
+  {
+    "start": 275.6,
+    "duration": 3.32,
+    "text": "ad set, one of them will cannibalize"
+  },
+  {
+    "start": 277.6,
+    "duration": 2.64,
+    "text": "everything else. Like all the videos"
+  },
+  {
+    "start": 278.92,
+    "duration": 3.2,
+    "text": "will get spent and the images will get"
+  },
+  {
+    "start": 280.24,
+    "duration": 3.28,
+    "text": "no spend, which of course you don't want"
+  },
+  {
+    "start": 282.12,
+    "duration": 3.0,
+    "text": "cuz you still want to make sure you test"
+  },
+  {
+    "start": 283.52,
+    "duration": 3.6,
+    "text": "those images, right? So, I'll do a"
+  },
+  {
+    "start": 285.12,
+    "duration": 4.24,
+    "text": "separate CBO if you're going to combine"
+  },
+  {
+    "start": 287.12,
+    "duration": 4.52,
+    "text": "images and videos. For me, I just keep"
+  },
+  {
+    "start": 289.36,
+    "duration": 4.2,
+    "text": "it simple. Just pick one, only videos or"
+  },
+  {
+    "start": 291.64,
+    "duration": 3.36,
+    "text": "only images, and run with that. Now,"
+  },
+  {
+    "start": 293.56,
+    "duration": 3.68,
+    "text": "let's talk about the budget. How do you"
+  },
+  {
+    "start": 295.0,
+    "duration": 3.96,
+    "text": "calculate the budget for a CBO? Well, I"
+  },
+  {
+    "start": 297.24,
+    "duration": 4.28,
+    "text": "have a golden rule that I would have at"
+  },
+  {
+    "start": 298.96,
+    "duration": 5.24,
+    "text": "least $10 allocated out of my total"
+  },
+  {
+    "start": 301.52,
+    "duration": 4.36,
+    "text": "budget per ad in the CBO. So like I"
+  },
+  {
+    "start": 304.2,
+    "duration": 4.48,
+    "text": "said, how many ads do we have in the CBO"
+  },
+  {
+    "start": 305.88,
+    "duration": 6.08,
+    "text": "right now? Well, 1 2 3 4 5 6 7 8 9. If"
+  },
+  {
+    "start": 308.68,
+    "duration": 7.16,
+    "text": "we take nine and multiply it by $10,"
+  },
+  {
+    "start": 311.96,
+    "duration": 6.08,
+    "text": "that is a total of $90 a day, a day,"
+  },
+  {
+    "start": 315.84,
+    "duration": 3.84,
+    "text": "yes, that you want to run this CBO ad."
+  },
+  {
+    "start": 318.04,
+    "duration": 3.96,
+    "text": "So, you take the number of ads across"
+  },
+  {
+    "start": 319.68,
+    "duration": 4.52,
+    "text": "all of the ad sets total, multiply that"
+  },
+  {
+    "start": 322.0,
+    "duration": 4.08,
+    "text": "by 10, and that is going to be the"
+  },
+  {
+    "start": 324.2,
+    "duration": 3.8,
+    "text": "minimum daily budget that you run with."
+  },
+  {
+    "start": 326.08,
+    "duration": 4.88,
+    "text": "The one exception to this rule is I"
+  },
+  {
+    "start": 328.0,
+    "duration": 4.76,
+    "text": "would never recommend that you run a CBO"
+  },
+  {
+    "start": 330.96,
+    "duration": 3.64,
+    "text": "at less than $50 a day. I don't care"
+  },
+  {
+    "start": 332.76,
+    "duration": 4.56,
+    "text": "what your budget is. If you don't have"
+  },
+  {
+    "start": 334.6,
+    "duration": 4.56,
+    "text": "enough cash set aside to run a $50 a day"
+  },
+  {
+    "start": 337.32,
+    "duration": 3.32,
+    "text": "CBO, you should not be running paid ads."
+  },
+  {
+    "start": 339.16,
+    "duration": 2.96,
+    "text": "It's my personal opinion. If you don't"
+  },
+  {
+    "start": 340.64,
+    "duration": 2.88,
+    "text": "like it, I do not care. So now that"
+  },
+  {
+    "start": 342.12,
+    "duration": 3.08,
+    "text": "we've gone over the structure, let's"
+  },
+  {
+    "start": 343.52,
+    "duration": 3.52,
+    "text": "actually build this inside of the ad"
+  },
+  {
+    "start": 345.2,
+    "duration": 3.08,
+    "text": "account. So, I've got almost a brand new"
+  },
+  {
+    "start": 347.04,
+    "duration": 3.48,
+    "text": "ad account here. What we're going to do"
+  },
+  {
+    "start": 348.28,
+    "duration": 4.4,
+    "text": "is go select create new campaign. We're"
+  },
+  {
+    "start": 350.52,
+    "duration": 3.76,
+    "text": "going to hit sales and hit continue. I'm"
+  },
+  {
+    "start": 352.68,
+    "duration": 3.44,
+    "text": "not going to go over naming conventions"
+  },
+  {
+    "start": 354.28,
+    "duration": 3.04,
+    "text": "in this particular video, but name it"
+  },
+  {
+    "start": 356.12,
+    "duration": 2.76,
+    "text": "something that makes sense for you at"
+  },
+  {
+    "start": 357.32,
+    "duration": 2.88,
+    "text": "the campaign, ad set, and ad level."
+  },
+  {
+    "start": 358.88,
+    "duration": 3.64,
+    "text": "Here, we're going to set the campaign"
+  },
+  {
+    "start": 360.2,
+    "duration": 4.04,
+    "text": "budget. Let's use our example to $90 a"
+  },
+  {
+    "start": 362.52,
+    "duration": 3.92,
+    "text": "day and make sure that you have campaign"
+  },
+  {
+    "start": 364.24,
+    "duration": 3.28,
+    "text": "budget selected. Everything else here,"
+  },
+  {
+    "start": 366.44,
+    "duration": 3.12,
+    "text": "we're not going to touch. We're going to"
+  },
+  {
+    "start": 367.52,
+    "duration": 3.6,
+    "text": "keep it exactly as is and move on to the"
+  },
+  {
+    "start": 369.56,
+    "duration": 3.28,
+    "text": "ad set level. Here we are at the ad set"
+  },
+  {
+    "start": 371.12,
+    "duration": 3.84,
+    "text": "level. We're going to have website"
+  },
+  {
+    "start": 372.84,
+    "duration": 4.08,
+    "text": "conversion location. Performance goal is"
+  },
+  {
+    "start": 374.96,
+    "duration": 3.08,
+    "text": "going to be max conversions. Data set is"
+  },
+  {
+    "start": 376.92,
+    "duration": 2.36,
+    "text": "going to be the pixel that you're"
+  },
+  {
+    "start": 378.04,
+    "duration": 2.6,
+    "text": "currently running your traffic to."
+  },
+  {
+    "start": 379.28,
+    "duration": 3.6,
+    "text": "Conversion event, we are going to be"
+  },
+  {
+    "start": 380.64,
+    "duration": 4.44,
+    "text": "optimizing for purchases. I almost"
+  },
+  {
+    "start": 382.88,
+    "duration": 4.12,
+    "text": "exclusively optimize for purchases and"
+  },
+  {
+    "start": 385.08,
+    "duration": 5.8,
+    "text": "almost exclusively run sales campaigns"
+  },
+  {
+    "start": 387.0,
+    "duration": 5.56,
+    "text": "because anything else is mostly mostly,"
+  },
+  {
+    "start": 390.88,
+    "duration": 2.88,
+    "text": "with very rare exceptions, a complete"
+  },
+  {
+    "start": 392.56,
+    "duration": 3.52,
+    "text": "waste of your time and money. Now, we're"
+  },
+  {
+    "start": 393.76,
+    "duration": 4.6,
+    "text": "going to keep scrolling down. Under the"
+  },
+  {
+    "start": 396.08,
+    "duration": 4.24,
+    "text": "attribution window, I typically do 7-day"
+  },
+  {
+    "start": 398.36,
+    "duration": 3.36,
+    "text": "click and 1-day view and I keep the view"
+  },
+  {
+    "start": 400.32,
+    "duration": 4.2,
+    "text": "through completely turned off. You can"
+  },
+  {
+    "start": 401.72,
+    "duration": 4.48,
+    "text": "do testing on this once you get a little"
+  },
+  {
+    "start": 404.52,
+    "duration": 3.92,
+    "text": "bit more advanced, but initially this is"
+  },
+  {
+    "start": 406.2,
+    "duration": 3.64,
+    "text": "a super standard setup, 7-day click"
+  },
+  {
+    "start": 408.44,
+    "duration": 2.84,
+    "text": "1-day view. Now, onto the budget and"
+  },
+  {
+    "start": 409.84,
+    "duration": 5.52,
+    "text": "schedule. I always schedule my ads for"
+  },
+  {
+    "start": 411.28,
+    "duration": 5.72,
+    "text": "the next day at 6:00 a.m. EST. This"
+  },
+  {
+    "start": 415.36,
+    "duration": 3.72,
+    "text": "account is actually in PSD, but imagine"
+  },
+  {
+    "start": 417.0,
+    "duration": 3.76,
+    "text": "it was in EST. I typically run my ads"
+  },
+  {
+    "start": 419.08,
+    "duration": 3.4,
+    "text": "right around that time to start getting"
+  },
+  {
+    "start": 420.76,
+    "duration": 3.48,
+    "text": "active. Next, what we're going to do is"
+  },
+  {
+    "start": 422.48,
+    "duration": 3.76,
+    "text": "edit the location. So, I do the majority"
+  },
+  {
+    "start": 424.24,
+    "duration": 3.16,
+    "text": "of my testing in the United States."
+  },
+  {
+    "start": 426.24,
+    "duration": 3.24,
+    "text": "We're just going to search United States"
+  },
+  {
+    "start": 427.4,
+    "duration": 4.0,
+    "text": "here, select it, and remove Singapore,"
+  },
+  {
+    "start": 429.48,
+    "duration": 3.96,
+    "text": "which is there for some reason, and"
+  },
+  {
+    "start": 431.4,
+    "duration": 3.6,
+    "text": "continue to scroll down. Minimum age,"
+  },
+  {
+    "start": 433.44,
+    "duration": 3.72,
+    "text": "you can keep. Languages, I typically"
+  },
+  {
+    "start": 435.0,
+    "duration": 3.8,
+    "text": "keep broad as well in the US because"
+  },
+  {
+    "start": 437.16,
+    "duration": 2.96,
+    "text": "it's an English majority speaking"
+  },
+  {
+    "start": 438.8,
+    "duration": 2.76,
+    "text": "country, at least that's what my"
+  },
+  {
+    "start": 440.12,
+    "duration": 3.4,
+    "text": "customers are going to be buying in. And"
+  },
+  {
+    "start": 441.56,
+    "duration": 3.8,
+    "text": "then finally down here, as I said, we"
+  },
+  {
+    "start": 443.52,
+    "duration": 4.28,
+    "text": "keep it broad. We're going to have the"
+  },
+  {
+    "start": 445.36,
+    "duration": 4.68,
+    "text": "Advantage Plus placements on. So, there"
+  },
+  {
+    "start": 447.8,
+    "duration": 3.48,
+    "text": "is nothing for you to edit within here."
+  },
+  {
+    "start": 450.04,
+    "duration": 2.52,
+    "text": "You can keep it completely broad, don't"
+  },
+  {
+    "start": 451.28,
+    "duration": 2.8,
+    "text": "touch anything. All right, now we are at"
+  },
+  {
+    "start": 452.56,
+    "duration": 3.08,
+    "text": "the ad level. Once again, apply your"
+  },
+  {
+    "start": 454.08,
+    "duration": 2.92,
+    "text": "naming conventions here. Keep it nice"
+  },
+  {
+    "start": 455.64,
+    "duration": 3.8,
+    "text": "and neat and organized. You're going to"
+  },
+  {
+    "start": 457.0,
+    "duration": 4.92,
+    "text": "have create ad selected, single image or"
+  },
+  {
+    "start": 459.44,
+    "duration": 3.92,
+    "text": "video. You can keep multi-advertiser ad"
+  },
+  {
+    "start": 461.92,
+    "duration": 3.2,
+    "text": "selected. Now, let me tell you this one"
+  },
+  {
+    "start": 463.36,
+    "duration": 4.0,
+    "text": "time. I'm going to upload an ad here"
+  },
+  {
+    "start": 465.12,
+    "duration": 4.72,
+    "text": "just as an example and I'm going to show"
+  },
+  {
+    "start": 467.36,
+    "duration": 5.08,
+    "text": "you how much nonsense Facebook tries to"
+  },
+  {
+    "start": 469.84,
+    "duration": 4.28,
+    "text": "push on you with their updates. I am"
+  },
+  {
+    "start": 472.44,
+    "duration": 2.96,
+    "text": "utterly amazed because I still spend"
+  },
+  {
+    "start": 474.12,
+    "duration": 3.36,
+    "text": "time in my ad accounts every single day,"
+  },
+  {
+    "start": 475.4,
+    "duration": 6.28,
+    "text": "but I'm amazed at how many [ __ ]"
+  },
+  {
+    "start": 477.48,
+    "duration": 4.2,
+    "text": "settings, and that's me putting it"
+  },
+  {
+    "start": 491.6,
+    "duration": 3.8,
+    "text": "very lightly, there are for Facebook to"
+  },
+  {
+    "start": 493.68,
+    "duration": 3.56,
+    "text": "try to take your money. Majority of them"
+  },
+  {
+    "start": 495.4,
+    "duration": 3.72,
+    "text": "are a complete waste of time and money."
+  },
+  {
+    "start": 497.24,
+    "duration": 3.64,
+    "text": "So, just follow what I do here. This is"
+  },
+  {
+    "start": 499.12,
+    "duration": 3.68,
+    "text": "basically the only setting that it's"
+  },
+  {
+    "start": 500.88,
+    "duration": 3.04,
+    "text": "actually okay to keep it on. And even"
+  },
+  {
+    "start": 502.8,
+    "duration": 2.28,
+    "text": "then, I haven't split tested"
+  },
+  {
+    "start": 503.92,
+    "duration": 2.36,
+    "text": "extensively, but keeping it on"
+  },
+  {
+    "start": 505.08,
+    "duration": 2.56,
+    "text": "personally doesn't hurt. Under"
+  },
+  {
+    "start": 506.28,
+    "duration": 3.0,
+    "text": "destination, you're going to put the"
+  },
+  {
+    "start": 507.64,
+    "duration": 3.68,
+    "text": "website URL that you're driving traffic"
+  },
+  {
+    "start": 509.28,
+    "duration": 4.04,
+    "text": "to. Make sure that this matches the ad"
+  },
+  {
+    "start": 511.32,
+    "duration": 3.56,
+    "text": "the uh if you put your URL in the ad"
+  },
+  {
+    "start": 513.32,
+    "duration": 2.96,
+    "text": "copy as well, make sure that it matches"
+  },
+  {
+    "start": 514.88,
+    "duration": 3.64,
+    "text": "one to one. And also make sure you"
+  },
+  {
+    "start": 516.28,
+    "duration": 4.12,
+    "text": "deselect optimize website destination"
+  },
+  {
+    "start": 518.52,
+    "duration": 4.0,
+    "text": "because if that's on, it will send to"
+  },
+  {
+    "start": 520.4,
+    "duration": 3.64,
+    "text": "traffic outside of that direct domain,"
+  },
+  {
+    "start": 522.52,
+    "duration": 3.72,
+    "text": "which we don't want. Display link, you"
+  },
+  {
+    "start": 524.04,
+    "duration": 4.04,
+    "text": "can keep empty. Browser add-ons, you can"
+  },
+  {
+    "start": 526.24,
+    "duration": 3.8,
+    "text": "keep at none. You don't want to have any"
+  },
+  {
+    "start": 528.08,
+    "duration": 3.28,
+    "text": "add-ons. Now, let's actually upload the"
+  },
+  {
+    "start": 530.04,
+    "duration": 3.12,
+    "text": "creative. Let's say we're running image"
+  },
+  {
+    "start": 531.36,
+    "duration": 3.8,
+    "text": "ads in this case, we go ahead and select"
+  },
+  {
+    "start": 533.16,
+    "duration": 3.88,
+    "text": "image ad. So, as we're going through the"
+  },
+  {
+    "start": 535.16,
+    "duration": 3.24,
+    "text": "creative setup, again, make sure that"
+  },
+  {
+    "start": 537.04,
+    "duration": 2.72,
+    "text": "just about every setting here is turned"
+  },
+  {
+    "start": 538.4,
+    "duration": 2.96,
+    "text": "off. If you want to split test it later"
+  },
+  {
+    "start": 539.76,
+    "duration": 3.44,
+    "text": "down the line, you can. But for me"
+  },
+  {
+    "start": 541.36,
+    "duration": 4.08,
+    "text": "personally, I keep everything off here."
+  },
+  {
+    "start": 543.2,
+    "duration": 5.04,
+    "text": "So, promo codes is unchecked, branding"
+  },
+  {
+    "start": 545.44,
+    "duration": 4.32,
+    "text": "off, site links off, products off. We're"
+  },
+  {
+    "start": 548.24,
+    "duration": 3.24,
+    "text": "going to hit next and actually upload"
+  },
+  {
+    "start": 549.76,
+    "duration": 3.08,
+    "text": "the creative. And just like that, we got"
+  },
+  {
+    "start": 551.48,
+    "duration": 3.84,
+    "text": "our phenomenal creative there. If you"
+  },
+  {
+    "start": 552.84,
+    "duration": 5.28,
+    "text": "want to take a look, boom, beautiful 10x"
+  },
+  {
+    "start": 555.32,
+    "duration": 4.28,
+    "text": "row ads coming very soon. Now, I don't"
+  },
+  {
+    "start": 558.12,
+    "duration": 2.48,
+    "text": "adjust any of the aspect ratios here."
+  },
+  {
+    "start": 559.6,
+    "duration": 2.76,
+    "text": "We're going to hit next. Now, you're"
+  },
+  {
+    "start": 560.6,
+    "duration": 3.68,
+    "text": "going to fill in your copy, primary"
+  },
+  {
+    "start": 562.36,
+    "duration": 3.84,
+    "text": "text, the headline, and the description"
+  },
+  {
+    "start": 564.28,
+    "duration": 3.24,
+    "text": "is all there and it's a fantastic"
+  },
+  {
+    "start": 566.2,
+    "duration": 4.56,
+    "text": "message, run more ads. Going to hit"
+  },
+  {
+    "start": 567.52,
+    "duration": 5.0,
+    "text": "next. Image generation, deselect all. It"
+  },
+  {
+    "start": 570.76,
+    "duration": 2.92,
+    "text": "won't even let me deselect it. Now,"
+  },
+  {
+    "start": 572.52,
+    "duration": 2.68,
+    "text": "under enhancements, you want to make"
+  },
+  {
+    "start": 573.68,
+    "duration": 2.64,
+    "text": "sure all of these are turned off. And be"
+  },
+  {
+    "start": 575.2,
+    "duration": 2.88,
+    "text": "careful cuz there's a lot of them. So,"
+  },
+  {
+    "start": 576.32,
+    "duration": 3.68,
+    "text": "you got to scroll down. For example,"
+  },
+  {
+    "start": 578.08,
+    "duration": 3.68,
+    "text": "overlays, turn off, visual touch-ups,"
+  },
+  {
+    "start": 580.0,
+    "duration": 3.64,
+    "text": "music, text improvements, all turned"
+  },
+  {
+    "start": 581.76,
+    "duration": 3.12,
+    "text": "off, animation off as well. All right,"
+  },
+  {
+    "start": 583.64,
+    "duration": 3.32,
+    "text": "there we go. There's our lovely"
+  },
+  {
+    "start": 584.88,
+    "duration": 3.96,
+    "text": "beautiful ad. Let's keep cooking. Keep"
+  },
+  {
+    "start": 586.96,
+    "duration": 3.64,
+    "text": "scrolling down. Call to action, I"
+  },
+  {
+    "start": 588.84,
+    "duration": 4.68,
+    "text": "usually have learn more. I actually have"
+  },
+  {
+    "start": 590.6,
+    "duration": 4.4,
+    "text": "seen a slight lift in learn more versus"
+  },
+  {
+    "start": 593.52,
+    "duration": 3.36,
+    "text": "shop now, but I think most of the time"
+  },
+  {
+    "start": 595.0,
+    "duration": 3.0,
+    "text": "it's pretty trivial. So, depends also"
+  },
+  {
+    "start": 596.88,
+    "duration": 3.36,
+    "text": "what kind of ad you're running. So, I"
+  },
+  {
+    "start": 598.0,
+    "duration": 4.04,
+    "text": "keep it a learn more. If you are going I"
+  },
+  {
+    "start": 600.24,
+    "duration": 3.72,
+    "text": "set this up for one ad, I'll just"
+  },
+  {
+    "start": 602.04,
+    "duration": 3.48,
+    "text": "duplicate it, you know, two times, and"
+  },
+  {
+    "start": 603.96,
+    "duration": 3.24,
+    "text": "I'll go in and edit the creative to"
+  },
+  {
+    "start": 605.52,
+    "duration": 3.32,
+    "text": "change it to a different variation. And"
+  },
+  {
+    "start": 607.2,
+    "duration": 4.12,
+    "text": "after that is created, I'll duplicate"
+  },
+  {
+    "start": 608.84,
+    "duration": 4.8,
+    "text": "this ad set two times, so I have three"
+  },
+  {
+    "start": 611.32,
+    "duration": 4.32,
+    "text": "ad sets in here. The CBO budget is"
+  },
+  {
+    "start": 613.64,
+    "duration": 3.88,
+    "text": "currently set to $90 a day, three ad"
+  },
+  {
+    "start": 615.64,
+    "duration": 4.64,
+    "text": "sets, three concepts, three ads per"
+  },
+  {
+    "start": 617.52,
+    "duration": 4.12,
+    "text": "concept, for a total of nine total ads,"
+  },
+  {
+    "start": 620.28,
+    "duration": 3.12,
+    "text": "as you can see here. And they're all"
+  },
+  {
+    "start": 621.64,
+    "duration": 3.48,
+    "text": "going to be beginning to run tomorrow"
+  },
+  {
+    "start": 623.4,
+    "duration": 3.4,
+    "text": "directly at 6:00 a.m. Eastern. I"
+  },
+  {
+    "start": 625.12,
+    "duration": 3.32,
+    "text": "actually made a separate video to this"
+  },
+  {
+    "start": 626.8,
+    "duration": 3.36,
+    "text": "that is unlisted on my YouTube channel"
+  },
+  {
+    "start": 628.44,
+    "duration": 3.6,
+    "text": "right now, where there's so many"
+  },
+  {
+    "start": 630.16,
+    "duration": 3.36,
+    "text": "questions that come up after you launch"
+  },
+  {
+    "start": 632.04,
+    "duration": 2.88,
+    "text": "the ads. It's like, how do I know when"
+  },
+  {
+    "start": 633.52,
+    "duration": 2.8,
+    "text": "to kill an ad? How do I know when to"
+  },
+  {
+    "start": 634.92,
+    "duration": 2.92,
+    "text": "scale an ad? What if an ad doesn't get"
+  },
+  {
+    "start": 636.32,
+    "duration": 2.88,
+    "text": "spend? I briefly covered that, but it's"
+  },
+  {
+    "start": 637.84,
+    "duration": 3.36,
+    "text": "a little bit more nuanced. What about"
+  },
+  {
+    "start": 639.2,
+    "duration": 3.72,
+    "text": "testing landers? Do you ever use ABOs?"
+  },
+  {
+    "start": 641.2,
+    "duration": 4.2,
+    "text": "There's like a million questions that"
+  },
+  {
+    "start": 642.92,
+    "duration": 4.24,
+    "text": "occur once you click publish ads, and"
+  },
+  {
+    "start": 645.4,
+    "duration": 2.96,
+    "text": "you actually start getting data. So, I"
+  },
+  {
+    "start": 647.16,
+    "duration": 2.32,
+    "text": "put together a separate video. If you"
+  },
+  {
+    "start": 648.36,
+    "duration": 3.16,
+    "text": "want to get access to that, just go to"
+  },
+  {
+    "start": 649.48,
+    "duration": 5.56,
+    "text": "my Instagram, it's at markbuildsbrands,"
+  },
+  {
+    "start": 651.52,
+    "duration": 4.84,
+    "text": "and DM me the word law, like l a w,"
+  },
+  {
+    "start": 655.04,
+    "duration": 2.64,
+    "text": "because these are laws of scaling. Now,"
+  },
+  {
+    "start": 656.36,
+    "duration": 4.0,
+    "text": "the last thing I want to touch on here"
+  },
+  {
+    "start": 657.68,
+    "duration": 4.52,
+    "text": "is why does this strategy actually work?"
+  },
+  {
+    "start": 660.36,
+    "duration": 3.76,
+    "text": "Well, we have seen, or at least I have"
+  },
+  {
+    "start": 662.2,
+    "duration": 3.76,
+    "text": "seen over the years, Facebook push many,"
+  },
+  {
+    "start": 664.12,
+    "duration": 3.88,
+    "text": "many updates to the point where I"
+  },
+  {
+    "start": 665.96,
+    "duration": 3.08,
+    "text": "remember in 2019, they said that CBOs"
+  },
+  {
+    "start": 668.0,
+    "duration": 3.08,
+    "text": "were going to be mandatory, and they"
+  },
+  {
+    "start": 669.04,
+    "duration": 3.92,
+    "text": "were going to just delete ABOs off the"
+  },
+  {
+    "start": 671.08,
+    "duration": 3.44,
+    "text": "face of the earth. So, every time that"
+  },
+  {
+    "start": 672.96,
+    "duration": 3.2,
+    "text": "Facebook will launch an update, you have"
+  },
+  {
+    "start": 674.52,
+    "duration": 2.96,
+    "text": "to kind of take with a grain of salt,"
+  },
+  {
+    "start": 676.16,
+    "duration": 3.2,
+    "text": "and most importantly, trust the data."
+  },
+  {
+    "start": 677.48,
+    "duration": 3.28,
+    "text": "So, for me, I have a lot of freaking"
+  },
+  {
+    "start": 679.36,
+    "duration": 2.84,
+    "text": "data. Not only do I have my own ad"
+  },
+  {
+    "start": 680.76,
+    "duration": 2.8,
+    "text": "accounts that I run, I have friends' ad"
+  },
+  {
+    "start": 682.2,
+    "duration": 3.72,
+    "text": "accounts that I'm looking at, but I also"
+  },
+  {
+    "start": 683.56,
+    "duration": 4.24,
+    "text": "have all of our students inside of BBA,"
+  },
+  {
+    "start": 685.92,
+    "duration": 3.16,
+    "text": "where we are instructing them the best"
+  },
+  {
+    "start": 687.8,
+    "duration": 2.92,
+    "text": "testing structure. Which So, we've been"
+  },
+  {
+    "start": 689.08,
+    "duration": 3.32,
+    "text": "doing a lot of testing internally to"
+  },
+  {
+    "start": 690.72,
+    "duration": 3.28,
+    "text": "find out what that best structure is,"
+  },
+  {
+    "start": 692.4,
+    "duration": 3.28,
+    "text": "and this is what we found works really,"
+  },
+  {
+    "start": 694.0,
+    "duration": 3.4,
+    "text": "really well. So, the number one reason"
+  },
+  {
+    "start": 695.68,
+    "duration": 2.96,
+    "text": "why it works is just straight data. You"
+  },
+  {
+    "start": 697.4,
+    "duration": 3.0,
+    "text": "know, there's a lot of people that will"
+  },
+  {
+    "start": 698.64,
+    "duration": 3.44,
+    "text": "say, \"Oh, this is like not optimal, or"
+  },
+  {
+    "start": 700.4,
+    "duration": 3.88,
+    "text": "you should do, you know, straight up ASC"
+  },
+  {
+    "start": 702.08,
+    "duration": 4.08,
+    "text": "campaign.\" Look, to be honest, I really"
+  },
+  {
+    "start": 704.28,
+    "duration": 4.04,
+    "text": "don't give a [ __ ] I care about data"
+  },
+  {
+    "start": 706.16,
+    "duration": 3.56,
+    "text": "over anything. A lot of times, Facebook"
+  },
+  {
+    "start": 708.32,
+    "duration": 2.76,
+    "text": "says, \"This is how the Facebook machine"
+  },
+  {
+    "start": 709.72,
+    "duration": 2.96,
+    "text": "operates.\" And all the [ __ ] I don't"
+  },
+  {
+    "start": 711.08,
+    "duration": 3.0,
+    "text": "care. I listen to what the data says,"
+  },
+  {
+    "start": 712.68,
+    "duration": 3.16,
+    "text": "and I am willing to test just about"
+  },
+  {
+    "start": 714.08,
+    "duration": 3.32,
+    "text": "anything in pursuing the right kind of"
+  },
+  {
+    "start": 715.84,
+    "duration": 3.68,
+    "text": "data. But more importantly than that,"
+  },
+  {
+    "start": 717.4,
+    "duration": 3.96,
+    "text": "the real reason why it works is because"
+  },
+  {
+    "start": 719.52,
+    "duration": 3.44,
+    "text": "of what I was mentioning earlier, where,"
+  },
+  {
+    "start": 721.36,
+    "duration": 4.04,
+    "text": "you know, I have shifted much more of my"
+  },
+  {
+    "start": 722.96,
+    "duration": 4.96,
+    "text": "ads to being more unique, more creative"
+  },
+  {
+    "start": 725.4,
+    "duration": 4.52,
+    "text": "diversity, and increasing my ratio of"
+  },
+  {
+    "start": 727.92,
+    "duration": 3.56,
+    "text": "variations to new concepts. But I don't"
+  },
+  {
+    "start": 729.92,
+    "duration": 3.84,
+    "text": "necessarily want you to think about it"
+  },
+  {
+    "start": 731.48,
+    "duration": 3.6,
+    "text": "in terms of like ratios, like 80/20. I"
+  },
+  {
+    "start": 733.76,
+    "duration": 3.4,
+    "text": "think the right way to actually think"
+  },
+  {
+    "start": 735.08,
+    "duration": 3.92,
+    "text": "about how you approach your testing is"
+  },
+  {
+    "start": 737.16,
+    "duration": 3.52,
+    "text": "you basically just change the order in"
+  },
+  {
+    "start": 739.0,
+    "duration": 2.96,
+    "text": "which you're testing variations and new"
+  },
+  {
+    "start": 740.68,
+    "duration": 3.04,
+    "text": "concepts. So, again, like I said"
+  },
+  {
+    "start": 741.96,
+    "duration": 4.68,
+    "text": "earlier, the way that I used to do"
+  },
+  {
+    "start": 743.72,
+    "duration": 5.24,
+    "text": "testing is let's say one concept, like"
+  },
+  {
+    "start": 746.64,
+    "duration": 4.88,
+    "text": "one new concept, and then variation,"
+  },
+  {
+    "start": 748.96,
+    "duration": 4.64,
+    "text": "variation, variation, variation. Just"
+  },
+  {
+    "start": 751.52,
+    "duration": 4.48,
+    "text": "like this, right? And the only"
+  },
+  {
+    "start": 753.6,
+    "duration": 4.32,
+    "text": "difference now is that instead of just"
+  },
+  {
+    "start": 756.0,
+    "duration": 4.04,
+    "text": "testing with one new concept, I'm"
+  },
+  {
+    "start": 757.92,
+    "duration": 3.96,
+    "text": "testing with many. I showed you in this"
+  },
+  {
+    "start": 760.04,
+    "duration": 3.76,
+    "text": "video an example of three, but typically"
+  },
+  {
+    "start": 761.88,
+    "duration": 4.84,
+    "text": "I'm testing with even more than that."
+  },
+  {
+    "start": 763.8,
+    "duration": 4.56,
+    "text": "Sometimes as many as 10 new concepts for"
+  },
+  {
+    "start": 766.72,
+    "duration": 3.44,
+    "text": "a single product test. So, if I were to"
+  },
+  {
+    "start": 768.36,
+    "duration": 3.36,
+    "text": "visualize it, it's more like this. Like"
+  },
+  {
+    "start": 770.16,
+    "duration": 2.4,
+    "text": "if this were kind of the the five ad"
+  },
+  {
+    "start": 771.72,
+    "duration": 3.32,
+    "text": "sets that I'm running, it's new"
+  },
+  {
+    "start": 772.56,
+    "duration": 4.56,
+    "text": "concepts, and then all the variations in"
+  },
+  {
+    "start": 775.04,
+    "duration": 3.72,
+    "text": "here, right? So, yes, I'm actually"
+  },
+  {
+    "start": 777.12,
+    "duration": 4.12,
+    "text": "testing more ads typically when I'm"
+  },
+  {
+    "start": 778.76,
+    "duration": 4.24,
+    "text": "launching, and that's not a hard rule."
+  },
+  {
+    "start": 781.24,
+    "duration": 3.36,
+    "text": "The point is,"
+  },
+  {
+    "start": 783.0,
+    "duration": 3.56,
+    "text": "if it hasn't been made abundantly clear"
+  },
+  {
+    "start": 784.6,
+    "duration": 4.08,
+    "text": "by this point, is that you need to"
+  },
+  {
+    "start": 786.56,
+    "duration": 3.8,
+    "text": "prioritize more creative diversity and"
+  },
+  {
+    "start": 788.68,
+    "duration": 3.36,
+    "text": "new concepts in your testing, and less"
+  },
+  {
+    "start": 790.36,
+    "duration": 3.56,
+    "text": "variation testing. Because one is"
+  },
+  {
+    "start": 792.04,
+    "duration": 3.16,
+    "text": "clearly going to move the needle way"
+  },
+  {
+    "start": 793.92,
+    "duration": 2.36,
+    "text": "more than the other. And I know, like"
+  },
+  {
+    "start": 795.2,
+    "duration": 3.6,
+    "text": "the number one objection here,"
+  },
+  {
+    "start": 796.28,
+    "duration": 5.4,
+    "text": "especially when you run CBOs, is, \"Well,"
+  },
+  {
+    "start": 798.8,
+    "duration": 4.64,
+    "text": "what if like this ad set gets no spend?\""
+  },
+  {
+    "start": 801.68,
+    "duration": 3.48,
+    "text": "Or like, \"What if this ad or these few"
+  },
+  {
+    "start": 803.44,
+    "duration": 3.4,
+    "text": "ads get no spend or being cannibalized"
+  },
+  {
+    "start": 805.16,
+    "duration": 3.76,
+    "text": "by the other?\" Well, good. You don't"
+  },
+  {
+    "start": 806.84,
+    "duration": 4.44,
+    "text": "necessarily need to test every single"
+  },
+  {
+    "start": 808.92,
+    "duration": 4.52,
+    "text": "individual ad at the same level of ad"
+  },
+  {
+    "start": 811.28,
+    "duration": 3.84,
+    "text": "spend across, you know, every single ad"
+  },
+  {
+    "start": 813.44,
+    "duration": 4.16,
+    "text": "concept that you're running. Sometimes,"
+  },
+  {
+    "start": 815.12,
+    "duration": 4.36,
+    "text": "sometimes, if Facebook doesn't spend on"
+  },
+  {
+    "start": 817.6,
+    "duration": 3.32,
+    "text": "that particular creative at all, or"
+  },
+  {
+    "start": 819.48,
+    "duration": 2.68,
+    "text": "very, very little, then it means that"
+  },
+  {
+    "start": 820.92,
+    "duration": 2.72,
+    "text": "that creative wasn't that that good to"
+  },
+  {
+    "start": 822.16,
+    "duration": 3.04,
+    "text": "begin with in the first place. So,"
+  },
+  {
+    "start": 823.64,
+    "duration": 3.32,
+    "text": "that's not a hard rule. Sometimes,"
+  },
+  {
+    "start": 825.2,
+    "duration": 4.16,
+    "text": "Facebook is [ __ ] I'll be the first"
+  },
+  {
+    "start": 826.96,
+    "duration": 4.24,
+    "text": "[ __ ] one to admit sometimes Facebook"
+  },
+  {
+    "start": 829.36,
+    "duration": 3.72,
+    "text": "will not spend on a creative, even"
+  },
+  {
+    "start": 831.2,
+    "duration": 3.92,
+    "text": "though it has a like the lowest cost per"
+  },
+  {
+    "start": 833.08,
+    "duration": 3.4,
+    "text": "conversion. So, it's a tough balance."
+  },
+  {
+    "start": 835.12,
+    "duration": 3.68,
+    "text": "You know, all I can say is that this is"
+  },
+  {
+    "start": 836.48,
+    "duration": 5.28,
+    "text": "supported by data, and I can say one"
+  },
+  {
+    "start": 838.8,
+    "duration": 4.08,
+    "text": "thing for 100% sure in my heart of"
+  },
+  {
+    "start": 841.76,
+    "duration": 2.88,
+    "text": "hearts, which is that you need to be"
+  },
+  {
+    "start": 842.88,
+    "duration": 3.92,
+    "text": "prioritizing creative diversity"
+  },
+  {
+    "start": 844.64,
+    "duration": 3.84,
+    "text": "post-Andromeda. This variation spamming"
+  },
+  {
+    "start": 846.8,
+    "duration": 3.6,
+    "text": "game is just not nearly as effective as"
+  },
+  {
+    "start": 848.48,
+    "duration": 3.92,
+    "text": "it was previously. I kind of alluded to"
+  },
+  {
+    "start": 850.4,
+    "duration": 3.48,
+    "text": "it earlier, but this strategy is exactly"
+  },
+  {
+    "start": 852.4,
+    "duration": 3.0,
+    "text": "what we teach inside of Brand Builds"
+  },
+  {
+    "start": 853.88,
+    "duration": 3.24,
+    "text": "Academy. So, if you're interested in"
+  },
+  {
+    "start": 855.4,
+    "duration": 3.68,
+    "text": "like having somebody actually like help"
+  },
+  {
+    "start": 857.12,
+    "duration": 3.24,
+    "text": "you out, you know, set this up, and more"
+  },
+  {
+    "start": 859.08,
+    "duration": 2.6,
+    "text": "importantly, like the feedback loop that"
+  },
+  {
+    "start": 860.36,
+    "duration": 2.48,
+    "text": "comes after it, you can always click the"
+  },
+  {
+    "start": 861.68,
+    "duration": 2.44,
+    "text": "first link in the description and fill"
+  },
+  {
+    "start": 862.84,
+    "duration": 2.84,
+    "text": "out an application. We'll see if you're"
+  },
+  {
+    "start": 864.12,
+    "duration": 2.64,
+    "text": "a good fit. Other than that, guys, thank"
+  },
+  {
+    "start": 865.68,
+    "duration": 4.84,
+    "text": "you so much for watching. I'll see you"
+  },
+  {
+    "start": 866.76,
+    "duration": 3.76,
+    "text": "legends in the next one. Peace."
+  }
+]

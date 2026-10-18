@@ -1,0 +1,73 @@
+{
+  "target_page": "https://www.facebook.com/cnicsarl/reels/?locale=fr_FR",
+  "extracted_at": "2026-10-18T05:57:32.018600+00:00",
+  "total_reels_evaluated": 10,
+  "top_reels_downloaded": 5,
+  "reels": [
+    {
+      "rank": 1,
+      "fbid": "1441919611460353",
+      "folder": "reel_01",
+      "title": "🫵🏽 Un entrepreneur doit être cultivé !",
+      "plays_str": "3,9 K",
+      "plays_numeric": 3900,
+      "reactions": 234,
+      "comments_count": 1,
+      "duration_sec": 611.9,
+      "resolution": "720x1280",
+      "size_mb": 64.16
+    },
+    {
+      "rank": 2,
+      "fbid": "1756308792318401",
+      "folder": "reel_02",
+      "title": "🚫 Je ne t’AIDE PAS !",
+      "plays_str": "2,9 K",
+      "plays_numeric": 2900,
+      "reactions": 120,
+      "comments_count": 2,
+      "duration_sec": 354.4,
+      "resolution": "720x1280",
+      "size_mb": 63.33
+    },
+    {
+      "rank": 3,
+      "fbid": "1749300292847779",
+      "folder": "reel_03",
+      "title": "🫵🏽 Entreprendre, c’est DUR !",
+      "plays_str": "2,8 K",
+      "plays_numeric": 2800,
+      "reactions": 179,
+      "comments_count": 2,
+      "duration_sec": 445.2,
+      "resolution": "576x1024",
+      "size_mb": 33.18
+    },
+    {
+      "rank": 4,
+      "fbid": "1795163435136329",
+      "folder": "reel_04",
+      "title": "🦠 L’industrie de la maladie !",
+      "plays_str": "2,4 K",
+      "plays_numeric": 2400,
+      "reactions": 78,
+      "comments_count": 2,
+      "duration_sec": 564.2,
+      "resolution": "1264x720",
+      "size_mb": 55.08
+    },
+    {
+      "rank": 5,
+      "fbid": "1641765340829741",
+      "folder": "reel_05",
+      "title": "🫵🏽 Qui fabrique l’argent ?",
+      "plays_str": "2,3 K",
+      "plays_numeric": 2300,
+      "reactions": 114,
+      "comments_count": 2,
+      "duration_sec": 510.6,
+      "resolution": "576x1024",
+      "size_mb": 49.05
+    }
+  ]
+}

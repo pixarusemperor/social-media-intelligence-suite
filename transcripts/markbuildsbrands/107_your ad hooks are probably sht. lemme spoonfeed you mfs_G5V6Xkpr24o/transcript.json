@@ -1,0 +1,6812 @@
+[
+  {
+    "start": 0.0,
+    "duration": 2.56,
+    "text": "In this video, I'm going to be going"
+  },
+  {
+    "start": 1.04,
+    "duration": 4.48,
+    "text": "over"
+  },
+  {
+    "start": 2.56,
+    "duration": 4.48,
+    "text": "ad hooks specifically. So, I I think the"
+  },
+  {
+    "start": 5.52,
+    "duration": 2.8,
+    "text": "best way to understand anything and to"
+  },
+  {
+    "start": 7.04,
+    "duration": 3.28,
+    "text": "get really really good at anything is"
+  },
+  {
+    "start": 8.32,
+    "duration": 3.52,
+    "text": "you can break down this big thing. In"
+  },
+  {
+    "start": 10.32,
+    "duration": 3.68,
+    "text": "this case, it's just going to be hooks"
+  },
+  {
+    "start": 11.84,
+    "duration": 4.0,
+    "text": "into its various component parts. In"
+  },
+  {
+    "start": 14.0,
+    "duration": 2.96,
+    "text": "fact, when I was younger and when I was"
+  },
+  {
+    "start": 15.84,
+    "duration": 3.04,
+    "text": "a kid, that was one of my favorite"
+  },
+  {
+    "start": 16.96,
+    "duration": 3.76,
+    "text": "things to do. It wasn't to like always"
+  },
+  {
+    "start": 18.88,
+    "duration": 4.08,
+    "text": "play with the toys. It was to completely"
+  },
+  {
+    "start": 20.72,
+    "duration": 3.44,
+    "text": "disassemble them and understand how all"
+  },
+  {
+    "start": 22.96,
+    "duration": 2.96,
+    "text": "the pieces work together, then figure"
+  },
+  {
+    "start": 24.16,
+    "duration": 4.08,
+    "text": "out how to put it all back together."
+  },
+  {
+    "start": 25.92,
+    "duration": 3.76,
+    "text": "That was one of my uh one of the"
+  },
+  {
+    "start": 28.24,
+    "duration": 3.12,
+    "text": "activities I really enjoyed when I was"
+  },
+  {
+    "start": 29.68,
+    "duration": 3.2,
+    "text": "younger. And I think that's part of the"
+  },
+  {
+    "start": 31.36,
+    "duration": 3.28,
+    "text": "reason why I'm good at what I do now."
+  },
+  {
+    "start": 32.88,
+    "duration": 2.72,
+    "text": "It's because in order to truly"
+  },
+  {
+    "start": 34.64,
+    "duration": 2.24,
+    "text": "understand something, you should"
+  },
+  {
+    "start": 35.6,
+    "duration": 3.44,
+    "text": "understand how all the parts work"
+  },
+  {
+    "start": 36.88,
+    "duration": 4.24,
+    "text": "together. And you should strip it down"
+  },
+  {
+    "start": 39.04,
+    "duration": 5.12,
+    "text": "as much as you possibly can to its bare"
+  },
+  {
+    "start": 41.12,
+    "duration": 4.88,
+    "text": "bone uh elements, the foundations. And"
+  },
+  {
+    "start": 44.16,
+    "duration": 3.44,
+    "text": "if you understand those, then only then"
+  },
+  {
+    "start": 46.0,
+    "duration": 4.64,
+    "text": "can you build on top of that. The issue"
+  },
+  {
+    "start": 47.6,
+    "duration": 4.56,
+    "text": "is a lot of you guys go to uh you know"
+  },
+  {
+    "start": 50.64,
+    "duration": 3.2,
+    "text": "you go to get hooked or whatever, you"
+  },
+  {
+    "start": 52.16,
+    "duration": 3.12,
+    "text": "swipe some ads, you swipe some copy, you"
+  },
+  {
+    "start": 53.84,
+    "duration": 4.16,
+    "text": "throw it into Claude, you say rewrite"
+  },
+  {
+    "start": 55.28,
+    "duration": 5.04,
+    "text": "this. And Claude is not good at writing"
+  },
+  {
+    "start": 58.0,
+    "duration": 5.28,
+    "text": "hooks in general. [clears throat] Um I"
+  },
+  {
+    "start": 60.32,
+    "duration": 8.48,
+    "text": "don't actually use Claude a lot for"
+  },
+  {
+    "start": 63.28,
+    "duration": 7.2,
+    "text": "uh for copy overall. Um if I do, the"
+  },
+  {
+    "start": 68.8,
+    "duration": 3.2,
+    "text": "most"
+  },
+  {
+    "start": 70.48,
+    "duration": 4.08,
+    "text": "recent model I would ever use for"
+  },
+  {
+    "start": 72.0,
+    "duration": 4.4,
+    "text": "writing copy is Opus or Sonnet 4.6. I"
+  },
+  {
+    "start": 74.56,
+    "duration": 3.36,
+    "text": "would not go beyond that. and eventually"
+  },
+  {
+    "start": 76.4,
+    "duration": 4.08,
+    "text": "those are going to be deprecated as"
+  },
+  {
+    "start": 77.92,
+    "duration": 4.8,
+    "text": "well. So at at that point you got to"
+  },
+  {
+    "start": 80.48,
+    "duration": 4.72,
+    "text": "find other alternatives for writing"
+  },
+  {
+    "start": 82.72,
+    "duration": 4.56,
+    "text": "copy. So uh I've been writing a lot of"
+  },
+  {
+    "start": 85.2,
+    "duration": 3.2,
+    "text": "copy with chatbt over the last few"
+  },
+  {
+    "start": 87.28,
+    "duration": 4.08,
+    "text": "months. I've been writing copy with"
+  },
+  {
+    "start": 88.4,
+    "duration": 4.56,
+    "text": "Grock over the last few months. Um but"
+  },
+  {
+    "start": 91.36,
+    "duration": 4.08,
+    "text": "just so that you know typically most"
+  },
+  {
+    "start": 92.96,
+    "duration": 6.08,
+    "text": "these LLMs they work pretty similarly"
+  },
+  {
+    "start": 95.44,
+    "duration": 5.6,
+    "text": "unless you are feeding in a ton of"
+  },
+  {
+    "start": 99.04,
+    "duration": 3.92,
+    "text": "really really good context around how to"
+  },
+  {
+    "start": 101.04,
+    "duration": 4.16,
+    "text": "actually write good hooks. as soon as"
+  },
+  {
+    "start": 102.96,
+    "duration": 4.08,
+    "text": "you go to rewrite it with AI and just"
+  },
+  {
+    "start": 105.2,
+    "duration": 3.28,
+    "text": "expect the swipe to work, it's probably"
+  },
+  {
+    "start": 107.04,
+    "duration": 4.0,
+    "text": "going to [ __ ] up the swipe in the first"
+  },
+  {
+    "start": 108.48,
+    "duration": 6.08,
+    "text": "place. And that's why swiping is, you"
+  },
+  {
+    "start": 111.04,
+    "duration": 5.2,
+    "text": "know, difficult thing to uh to to really"
+  },
+  {
+    "start": 114.56,
+    "duration": 3.12,
+    "text": "make work sometimes, especially if it"
+  },
+  {
+    "start": 116.24,
+    "duration": 2.4,
+    "text": "works. Then you're really [ __ ] Like"
+  },
+  {
+    "start": 117.68,
+    "duration": 1.92,
+    "text": "it's good, but then you're [ __ ]"
+  },
+  {
+    "start": 118.64,
+    "duration": 3.12,
+    "text": "because you have no idea why it's"
+  },
+  {
+    "start": 119.6,
+    "duration": 3.76,
+    "text": "actually working. Um anyway, to strip it"
+  },
+  {
+    "start": 121.76,
+    "duration": 3.28,
+    "text": "down to its its component pieces. What"
+  },
+  {
+    "start": 123.36,
+    "duration": 4.16,
+    "text": "do we have the hook, right? Let's talk"
+  },
+  {
+    "start": 125.04,
+    "duration": 4.64,
+    "text": "about video ads specifically. That's"
+  },
+  {
+    "start": 127.52,
+    "duration": 3.44,
+    "text": "going to be the majority of what this"
+  },
+  {
+    "start": 129.68,
+    "duration": 3.44,
+    "text": "video will be about. I'll I'll maybe"
+  },
+  {
+    "start": 130.96,
+    "duration": 4.0,
+    "text": "have a little bit about some uh primary"
+  },
+  {
+    "start": 133.12,
+    "duration": 3.84,
+    "text": "text on native static so we can talk"
+  },
+  {
+    "start": 134.96,
+    "duration": 3.92,
+    "text": "about the hook there because that's also"
+  },
+  {
+    "start": 136.96,
+    "duration": 3.84,
+    "text": "incredibly incredibly important. But"
+  },
+  {
+    "start": 138.88,
+    "duration": 5.04,
+    "text": "let's talk about videos first. So in"
+  },
+  {
+    "start": 140.8,
+    "duration": 6.0,
+    "text": "regards to videos,"
+  },
+  {
+    "start": 143.92,
+    "duration": 5.84,
+    "text": "right?"
+  },
+  {
+    "start": 146.8,
+    "duration": 4.64,
+    "text": "Videos, if you take the first roughly 3"
+  },
+  {
+    "start": 149.76,
+    "duration": 4.56,
+    "text": "to 5 seconds of a video ad, that is what"
+  },
+  {
+    "start": 151.44,
+    "duration": 4.32,
+    "text": "we define as the hook. And with video,"
+  },
+  {
+    "start": 154.32,
+    "duration": 3.44,
+    "text": "it's not just something that you're"
+  },
+  {
+    "start": 155.76,
+    "duration": 4.16,
+    "text": "reading. Like it's it's an experience."
+  },
+  {
+    "start": 157.76,
+    "duration": 3.84,
+    "text": "Like watching a video is an experience."
+  },
+  {
+    "start": 159.92,
+    "duration": 4.8,
+    "text": "And there's three things that kind of"
+  },
+  {
+    "start": 161.6,
+    "duration": 5.04,
+    "text": "make up said experience. Um, which is"
+  },
+  {
+    "start": 164.72,
+    "duration": 5.28,
+    "text": "your hook. So like this entire piece al"
+  },
+  {
+    "start": 166.64,
+    "duration": 5.68,
+    "text": "together is your let's just call like"
+  },
+  {
+    "start": 170.0,
+    "duration": 5.2,
+    "text": "the hook, right? So first thing that we"
+  },
+  {
+    "start": 172.32,
+    "duration": 6.08,
+    "text": "have is going to be"
+  },
+  {
+    "start": 175.2,
+    "duration": 6.0,
+    "text": "the actual the actual copy. Right? This"
+  },
+  {
+    "start": 178.4,
+    "duration": 4.48,
+    "text": "is one of the most important pieces. I"
+  },
+  {
+    "start": 181.2,
+    "duration": 4.16,
+    "text": "think this actually used to be even more"
+  },
+  {
+    "start": 182.88,
+    "duration": 4.16,
+    "text": "important and now it's starting to shift"
+  },
+  {
+    "start": 185.36,
+    "duration": 3.44,
+    "text": "in another direction which I'll get to."
+  },
+  {
+    "start": 187.04,
+    "duration": 3.92,
+    "text": "But one of the three pieces is your"
+  },
+  {
+    "start": 188.8,
+    "duration": 4.8,
+    "text": "copy. The other is going to be your"
+  },
+  {
+    "start": 190.96,
+    "duration": 5.76,
+    "text": "scroll stopper, which is essentially the"
+  },
+  {
+    "start": 193.6,
+    "duration": 5.28,
+    "text": "video portion. So you have text that is"
+  },
+  {
+    "start": 196.72,
+    "duration": 4.96,
+    "text": "being stated. That's the copy. And then"
+  },
+  {
+    "start": 198.88,
+    "duration": 4.96,
+    "text": "you have the actual video being played"
+  },
+  {
+    "start": 201.68,
+    "duration": 4.4,
+    "text": "behind said text. And that is of course"
+  },
+  {
+    "start": 203.84,
+    "duration": 4.0,
+    "text": "your scroll stopper. And then the third"
+  },
+  {
+    "start": 206.08,
+    "duration": 3.04,
+    "text": "and final thing, if you think there"
+  },
+  {
+    "start": 207.84,
+    "duration": 3.92,
+    "text": "can't be possibly anything else, there"
+  },
+  {
+    "start": 209.12,
+    "duration": 5.2,
+    "text": "is because here we have the visual, we"
+  },
+  {
+    "start": 211.76,
+    "duration": 4.32,
+    "text": "have the"
+  },
+  {
+    "start": 214.32,
+    "duration": 3.2,
+    "text": "text on screen. And then we have to have"
+  },
+  {
+    "start": 216.08,
+    "duration": 2.56,
+    "text": "the audio as well, which is going to be"
+  },
+  {
+    "start": 217.52,
+    "duration": 3.44,
+    "text": "the third and final thing, which is"
+  },
+  {
+    "start": 218.64,
+    "duration": 5.12,
+    "text": "going to be what actually happens in the"
+  },
+  {
+    "start": 220.96,
+    "duration": 5.44,
+    "text": "background audio-wise to bring together"
+  },
+  {
+    "start": 223.76,
+    "duration": 4.4,
+    "text": "this hook. [clears throat] So these"
+  },
+  {
+    "start": 226.4,
+    "duration": 3.6,
+    "text": "three things make up your hook. If I had"
+  },
+  {
+    "start": 228.16,
+    "duration": 4.32,
+    "text": "to put it into percentages of which is"
+  },
+  {
+    "start": 230.0,
+    "duration": 6.16,
+    "text": "most important, I would say audio is"
+  },
+  {
+    "start": 232.48,
+    "duration": 5.76,
+    "text": "probably like 5% maybe 10% max. You"
+  },
+  {
+    "start": 236.16,
+    "duration": 4.24,
+    "text": "know, a lot of people watch ads even"
+  },
+  {
+    "start": 238.24,
+    "duration": 3.68,
+    "text": "with their sound turned off. So that"
+  },
+  {
+    "start": 240.4,
+    "duration": 2.96,
+    "text": "alone should tell you that it's not"
+  },
+  {
+    "start": 241.92,
+    "duration": 3.76,
+    "text": "anywhere near the most important thing."
+  },
+  {
+    "start": 243.36,
+    "duration": 3.76,
+    "text": "I would say 5 to 10%. And then we're"
+  },
+  {
+    "start": 245.68,
+    "duration": 2.72,
+    "text": "going to have these two things which"
+  },
+  {
+    "start": 247.12,
+    "duration": 4.48,
+    "text": "carry the most amount of weight. If you"
+  },
+  {
+    "start": 248.4,
+    "duration": 5.52,
+    "text": "ask me a few years ago before this this"
+  },
+  {
+    "start": 251.6,
+    "duration": 3.84,
+    "text": "algorithm update from Facebook and the"
+  },
+  {
+    "start": 253.92,
+    "duration": 5.28,
+    "text": "few algo updates that have been from"
+  },
+  {
+    "start": 255.44,
+    "duration": 7.12,
+    "text": "Facebook over the last uh year, yeah,"
+  },
+  {
+    "start": 259.2,
+    "duration": 6.64,
+    "text": "roughly year, um"
+  },
+  {
+    "start": 262.56,
+    "duration": 4.64,
+    "text": "you'll notice that having more diversity"
+  },
+  {
+    "start": 265.84,
+    "duration": 3.2,
+    "text": "when it comes to your scroll stoppers"
+  },
+  {
+    "start": 267.2,
+    "duration": 4.32,
+    "text": "specifically"
+  },
+  {
+    "start": 269.04,
+    "duration": 3.44,
+    "text": "is a really good thing"
+  },
+  {
+    "start": 271.52,
+    "duration": 2.48,
+    "text": "because that means that you're"
+  },
+  {
+    "start": 272.48,
+    "duration": 3.2,
+    "text": "increasing the level of diversity across"
+  },
+  {
+    "start": 274.0,
+    "duration": 3.52,
+    "text": "them compared to keeping everything in"
+  },
+  {
+    "start": 275.68,
+    "duration": 4.32,
+    "text": "the ad the same and only changing like"
+  },
+  {
+    "start": 277.52,
+    "duration": 4.4,
+    "text": "the copy. of the hook."
+  },
+  {
+    "start": 280.0,
+    "duration": 5.12,
+    "text": "So,"
+  },
+  {
+    "start": 281.92,
+    "duration": 5.52,
+    "text": "for that reason, um, before that, I"
+  },
+  {
+    "start": 285.12,
+    "duration": 3.68,
+    "text": "think copy was literally the most"
+  },
+  {
+    "start": 287.44,
+    "duration": 3.84,
+    "text": "important thing. And the reason I can"
+  },
+  {
+    "start": 288.8,
+    "duration": 4.64,
+    "text": "tell you why is because there are comp I"
+  },
+  {
+    "start": 291.28,
+    "duration": 3.76,
+    "text": "mean, [ __ ] there's still companies now,"
+  },
+  {
+    "start": 293.44,
+    "duration": 3.92,
+    "text": "but [clears throat] like the old school"
+  },
+  {
+    "start": 295.04,
+    "duration": 4.4,
+    "text": "VSSL, like VSSL is a video sales letter,"
+  },
+  {
+    "start": 297.36,
+    "duration": 4.16,
+    "text": "the old school VSSLs, which we could we"
+  },
+  {
+    "start": 299.44,
+    "duration": 4.72,
+    "text": "could say VSSLs are being run as ads all"
+  },
+  {
+    "start": 301.52,
+    "duration": 4.16,
+    "text": "the time. Old school VSSLs, the way that"
+  },
+  {
+    "start": 304.16,
+    "duration": 4.8,
+    "text": "they would work is you would literally"
+  },
+  {
+    "start": 305.68,
+    "duration": 6.16,
+    "text": "take a text sales letter. You take a TSL"
+  },
+  {
+    "start": 308.96,
+    "duration": 4.72,
+    "text": "and you would convert it into a video."
+  },
+  {
+    "start": 311.84,
+    "duration": 4.48,
+    "text": "And the way you do that is you would"
+  },
+  {
+    "start": 313.68,
+    "duration": 5.6,
+    "text": "just have this dude, you know, voicing"
+  },
+  {
+    "start": 316.32,
+    "duration": 4.56,
+    "text": "over uh the particular script because,"
+  },
+  {
+    "start": 319.28,
+    "duration": 4.08,
+    "text": "you know, here's here's something you"
+  },
+  {
+    "start": 320.88,
+    "duration": 5.44,
+    "text": "may not know. Uh most copywriters,"
+  },
+  {
+    "start": 323.36,
+    "duration": 5.52,
+    "text": "myself included, you know, a lot of them"
+  },
+  {
+    "start": 326.32,
+    "duration": 4.88,
+    "text": "relatively antisocial. [laughter]"
+  },
+  {
+    "start": 328.88,
+    "duration": 3.92,
+    "text": "And if if at least not antisocial, don't"
+  },
+  {
+    "start": 331.2,
+    "duration": 2.72,
+    "text": "like showing their face on camera"
+  },
+  {
+    "start": 332.8,
+    "duration": 2.96,
+    "text": "actively all the time. That's probably"
+  },
+  {
+    "start": 333.92,
+    "duration": 3.76,
+    "text": "the reason they became, you know, a"
+  },
+  {
+    "start": 335.76,
+    "duration": 3.52,
+    "text": "copywriter."
+  },
+  {
+    "start": 337.68,
+    "duration": 3.52,
+    "text": "so that they didn't have to do that. And"
+  },
+  {
+    "start": 339.28,
+    "duration": 5.2,
+    "text": "so this guy is basically like speaking"
+  },
+  {
+    "start": 341.2,
+    "duration": 5.36,
+    "text": "and narrating a PowerPoint presentation"
+  },
+  {
+    "start": 344.48,
+    "duration": 7.12,
+    "text": "that's like a 100 plus slides. And"
+  },
+  {
+    "start": 346.56,
+    "duration": 10.08,
+    "text": "that's that was like the uh the"
+  },
+  {
+    "start": 351.6,
+    "duration": 7.92,
+    "text": "genesis I guess of the VSSL. Um Keith"
+  },
+  {
+    "start": 356.64,
+    "duration": 4.08,
+    "text": "Bowman, you know, you know. So that was"
+  },
+  {
+    "start": 359.52,
+    "duration": 3.6,
+    "text": "that was essentially the invention of"
+  },
+  {
+    "start": 360.72,
+    "duration": 5.68,
+    "text": "the VSSL. And the reason I say that is"
+  },
+  {
+    "start": 363.12,
+    "duration": 5.68,
+    "text": "because in the same way that you have a"
+  },
+  {
+    "start": 366.4,
+    "duration": 3.6,
+    "text": "VSSL, it was literally just text on a"
+  },
+  {
+    "start": 368.8,
+    "duration": 2.56,
+    "text": "white background. It's like black text"
+  },
+  {
+    "start": 370.0,
+    "duration": 2.48,
+    "text": "on a white background. The most basic"
+  },
+  {
+    "start": 371.36,
+    "duration": 3.36,
+    "text": "[ __ ] of all time. Yet, these would"
+  },
+  {
+    "start": 372.48,
+    "duration": 4.72,
+    "text": "print, you know, eight plus figures if"
+  },
+  {
+    "start": 374.72,
+    "duration": 4.0,
+    "text": "you had a phenomenal phenomenal VSSL and"
+  },
+  {
+    "start": 377.2,
+    "duration": 2.88,
+    "text": "you had really good traffic being sent"
+  },
+  {
+    "start": 378.72,
+    "duration": 4.08,
+    "text": "to it. That could that can be an eight"
+  },
+  {
+    "start": 380.08,
+    "duration": 4.72,
+    "text": "plus figure VSSL right there. And I have"
+  },
+  {
+    "start": 382.8,
+    "duration": 4.24,
+    "text": "specific ones like in mind that I can"
+  },
+  {
+    "start": 384.8,
+    "duration": 5.2,
+    "text": "think of that I have watched that are"
+  },
+  {
+    "start": 387.04,
+    "duration": 7.12,
+    "text": "literally just black words on a white"
+  },
+  {
+    "start": 390.0,
+    "duration": 6.08,
+    "text": "[ __ ] PowerPoint. That's it."
+  },
+  {
+    "start": 394.16,
+    "duration": 4.4,
+    "text": "Now, the reason I bring this up is"
+  },
+  {
+    "start": 396.08,
+    "duration": 4.24,
+    "text": "because there's no there's no video"
+  },
+  {
+    "start": 398.56,
+    "duration": 4.16,
+    "text": "element to this whatsoever. Like, yes,"
+  },
+  {
+    "start": 400.32,
+    "duration": 4.0,
+    "text": "it's a video because it's recorded and"
+  },
+  {
+    "start": 402.72,
+    "duration": 3.6,
+    "text": "there's this visual element to it, but"
+  },
+  {
+    "start": 404.32,
+    "duration": 4.16,
+    "text": "it's not like the way that we know VSSLs"
+  },
+  {
+    "start": 406.32,
+    "duration": 4.0,
+    "text": "today. But this is how VSSLs were"
+  },
+  {
+    "start": 408.48,
+    "duration": 5.12,
+    "text": "legitimately created. Like this is this"
+  },
+  {
+    "start": 410.32,
+    "duration": 5.52,
+    "text": "is truly the foundation here. And again,"
+  },
+  {
+    "start": 413.6,
+    "duration": 5.12,
+    "text": "the reason I go down this whole [ __ ]"
+  },
+  {
+    "start": 415.84,
+    "duration": 4.96,
+    "text": "rabbit hole about VSSLs is because this"
+  },
+  {
+    "start": 418.72,
+    "duration": 3.68,
+    "text": "skews very very heavily in the text"
+  },
+  {
+    "start": 420.8,
+    "duration": 4.24,
+    "text": "direction, specifically the copy. The"
+  },
+  {
+    "start": 422.4,
+    "duration": 4.08,
+    "text": "copy will make or break a VSSL. But with"
+  },
+  {
+    "start": 425.04,
+    "duration": 2.88,
+    "text": "ads, because they're so short and"
+  },
+  {
+    "start": 426.48,
+    "duration": 3.2,
+    "text": "because of these new algorithm"
+  },
+  {
+    "start": 427.92,
+    "duration": 3.76,
+    "text": "algorithmic updates that we had from"
+  },
+  {
+    "start": 429.68,
+    "duration": 4.88,
+    "text": "Facebook, we know that the scroll"
+  },
+  {
+    "start": 431.68,
+    "duration": 4.96,
+    "text": "stopper is slowly increasing and its"
+  },
+  {
+    "start": 434.56,
+    "duration": 4.16,
+    "text": "overall weight in the formula of how to"
+  },
+  {
+    "start": 436.64,
+    "duration": 6.92,
+    "text": "make a successful hook. becoming more"
+  },
+  {
+    "start": 438.72,
+    "duration": 4.84,
+    "text": "and more important, you know, over time"
+  },
+  {
+    "start": 444.8,
+    "duration": 4.8,
+    "text": "because this element of not having"
+  },
+  {
+    "start": 447.28,
+    "duration": 3.92,
+    "text": "similar ads, this element of creative"
+  },
+  {
+    "start": 449.6,
+    "duration": 3.28,
+    "text": "diversity,"
+  },
+  {
+    "start": 451.2,
+    "duration": 3.92,
+    "text": "it's becoming more and more important as"
+  },
+  {
+    "start": 452.88,
+    "duration": 5.6,
+    "text": "we see. So, in any case, I would still"
+  },
+  {
+    "start": 455.12,
+    "duration": 4.72,
+    "text": "probably give more weight to the uh the"
+  },
+  {
+    "start": 458.48,
+    "duration": 3.36,
+    "text": "copy. Like, I would say this is probably"
+  },
+  {
+    "start": 459.84,
+    "duration": 3.6,
+    "text": "going to be 60%."
+  },
+  {
+    "start": 461.84,
+    "duration": 4.72,
+    "text": "And then I would give I guess that' be"
+  },
+  {
+    "start": 463.44,
+    "duration": 5.28,
+    "text": "35% here to the scroll stopper. So, when"
+  },
+  {
+    "start": 466.56,
+    "duration": 5.04,
+    "text": "you're creating your hook, right, the"
+  },
+  {
+    "start": 468.72,
+    "duration": 4.56,
+    "text": "most important part of the ad, keep this"
+  },
+  {
+    "start": 471.6,
+    "duration": 3.52,
+    "text": "in mind. If you're not spending"
+  },
+  {
+    "start": 473.28,
+    "duration": 3.76,
+    "text": "proportionate amounts of time on each of"
+  },
+  {
+    "start": 475.12,
+    "duration": 3.68,
+    "text": "these, like the far majority of your"
+  },
+  {
+    "start": 477.04,
+    "duration": 3.44,
+    "text": "time on copy, and then second that only"
+  },
+  {
+    "start": 478.8,
+    "duration": 3.92,
+    "text": "the visuals that's going to be happening"
+  },
+  {
+    "start": 480.48,
+    "duration": 4.48,
+    "text": "behind the copy, then you're probably"
+  },
+  {
+    "start": 482.72,
+    "duration": 3.52,
+    "text": "wasting your time and not spending it in"
+  },
+  {
+    "start": 484.96,
+    "duration": 4.48,
+    "text": "uh in areas that that are going to be"
+  },
+  {
+    "start": 486.24,
+    "duration": 4.8,
+    "text": "highly effective. Okay, so that's the"
+  },
+  {
+    "start": 489.44,
+    "duration": 3.6,
+    "text": "the first thing. Now, just like"
+  },
+  {
+    "start": 491.04,
+    "duration": 3.36,
+    "text": "anything, let's talk about let's talk"
+  },
+  {
+    "start": 493.04,
+    "duration": 4.16,
+    "text": "about the copy and the scroll stopper"
+  },
+  {
+    "start": 494.4,
+    "duration": 4.4,
+    "text": "specifically, right? That's like 95% of"
+  },
+  {
+    "start": 497.2,
+    "duration": 4.56,
+    "text": "of your success of a good hook. It's"
+  },
+  {
+    "start": 498.8,
+    "duration": 8.16,
+    "text": "funny because if you look at like"
+  },
+  {
+    "start": 501.76,
+    "duration": 8.52,
+    "text": "ads overall, it's like 90%"
+  },
+  {
+    "start": 506.96,
+    "duration": 3.32,
+    "text": "your creative."
+  },
+  {
+    "start": 510.56,
+    "duration": 3.96,
+    "text": "If you look at creatives,"
+  },
+  {
+    "start": 515.84,
+    "duration": 5.24,
+    "text": "your success is like 90% the hook."
+  },
+  {
+    "start": 522.24,
+    "duration": 4.8,
+    "text": "Dude, what is what the [ __ ] is wrong"
+  },
+  {
+    "start": 523.84,
+    "duration": 6.72,
+    "text": "with this [ __ ] thing?"
+  },
+  {
+    "start": 527.04,
+    "duration": 5.12,
+    "text": "And then if you look at the hook,"
+  },
+  {
+    "start": 530.56,
+    "duration": 5.0,
+    "text": "[laughter]"
+  },
+  {
+    "start": 532.16,
+    "duration": 3.4,
+    "text": "it's 90%"
+  },
+  {
+    "start": 536.24,
+    "duration": 9.04,
+    "text": "the copy"
+  },
+  {
+    "start": 539.6,
+    "duration": 6.72,
+    "text": "and uh scroll stopper, right? So, if"
+  },
+  {
+    "start": 545.28,
+    "duration": 2.56,
+    "text": "you're looking where you should spend"
+  },
+  {
+    "start": 546.32,
+    "duration": 4.24,
+    "text": "your time in ecom in general and you're"
+  },
+  {
+    "start": 547.84,
+    "duration": 6.4,
+    "text": "running paid ads, everything points"
+  },
+  {
+    "start": 550.56,
+    "duration": 5.36,
+    "text": "here. And now let's take it deeper like"
+  },
+  {
+    "start": 554.24,
+    "duration": 4.56,
+    "text": "copy"
+  },
+  {
+    "start": 555.92,
+    "duration": 5.6,
+    "text": "and uh scroll stopper"
+  },
+  {
+    "start": 558.8,
+    "duration": 5.2,
+    "text": "90% of your success of those things is"
+  },
+  {
+    "start": 561.52,
+    "duration": 5.04,
+    "text": "what? Who can tell me? Type it in the"
+  },
+  {
+    "start": 564.0,
+    "duration": 6.32,
+    "text": "chat right now. What is 90%"
+  },
+  {
+    "start": 566.56,
+    "duration": 6.8,
+    "text": "of your success in copywriting and 90%"
+  },
+  {
+    "start": 570.32,
+    "duration": 5.43,
+    "text": "of your success in creatives in general?"
+  },
+  {
+    "start": 573.36,
+    "duration": 4.41,
+    "text": "What does it come down to? Tell me."
+  },
+  {
+    "start": 575.75,
+    "duration": 2.02,
+    "text": "[snorts]"
+  },
+  {
+    "start": 586.89,
+    "duration": 2.02,
+    "text": ">> [snorts]"
+  },
+  {
+    "start": 590.72,
+    "duration": 7.84,
+    "text": ">> Someone said"
+  },
+  {
+    "start": 592.8,
+    "duration": 7.36,
+    "text": "voice of customer visual. No hook. No,"
+  },
+  {
+    "start": 598.56,
+    "duration": 4.56,
+    "text": "we just said the hook. You We can't go"
+  },
+  {
+    "start": 600.16,
+    "duration": 6.52,
+    "text": "backwards. We have Okay. Who's the first"
+  },
+  {
+    "start": 603.12,
+    "duration": 3.56,
+    "text": "person to get it?"
+  },
+  {
+    "start": 607.2,
+    "duration": 7.04,
+    "text": "meter metarin co whatever your name is"
+  },
+  {
+    "start": 610.8,
+    "duration": 5.68,
+    "text": "bro you got it bro it's research 90% is"
+  },
+  {
+    "start": 614.24,
+    "duration": 4.88,
+    "text": "research and just like anything that is"
+  },
+  {
+    "start": 616.48,
+    "duration": 6.4,
+    "text": "where we're gonna start okay so I put"
+  },
+  {
+    "start": 619.12,
+    "duration": 5.84,
+    "text": "out a video on on uh a secondary YouTube"
+  },
+  {
+    "start": 622.88,
+    "duration": 4.08,
+    "text": "channel that I have with one of our BBA"
+  },
+  {
+    "start": 624.96,
+    "duration": 3.52,
+    "text": "students William highly recommend you go"
+  },
+  {
+    "start": 626.96,
+    "duration": 3.84,
+    "text": "watch it just search up Mark Builds"
+  },
+  {
+    "start": 628.48,
+    "duration": 4.4,
+    "text": "Brands reviews but William was William"
+  },
+  {
+    "start": 630.8,
+    "duration": 5.2,
+    "text": "has done well over seven figures over"
+  },
+  {
+    "start": 632.88,
+    "duration": 4.64,
+    "text": "the last year and I was asking him like"
+  },
+  {
+    "start": 636.0,
+    "duration": 3.68,
+    "text": "what are the main inflection points"
+  },
+  {
+    "start": 637.52,
+    "duration": 4.48,
+    "text": "where you were like unsuccessful and"
+  },
+  {
+    "start": 639.68,
+    "duration": 5.6,
+    "text": "then became successful and he hopped on"
+  },
+  {
+    "start": 642.0,
+    "duration": 4.96,
+    "text": "a call with one of our coaches. Um, and"
+  },
+  {
+    "start": 645.28,
+    "duration": 2.96,
+    "text": "shout out to this this coach, you know,"
+  },
+  {
+    "start": 646.96,
+    "duration": 3.36,
+    "text": "you know who you are. Shout out to you,"
+  },
+  {
+    "start": 648.24,
+    "duration": 3.76,
+    "text": "bro, for giving him this advice. But I"
+  },
+  {
+    "start": 650.32,
+    "duration": 4.72,
+    "text": "have this whole foundational docs"
+  },
+  {
+    "start": 652.0,
+    "duration": 7.28,
+    "text": "process, right? I make it so easy for"
+  },
+  {
+    "start": 655.04,
+    "duration": 5.36,
+    "text": "you to have incredibly good research. In"
+  },
+  {
+    "start": 659.28,
+    "duration": 2.72,
+    "text": "fact, I'm going to take it a step"
+  },
+  {
+    "start": 660.4,
+    "duration": 2.8,
+    "text": "further,"
+  },
+  {
+    "start": 662.0,
+    "duration": 2.96,
+    "text": "right? You want to have the best"
+  },
+  {
+    "start": 663.2,
+    "duration": 4.56,
+    "text": "foundational [ __ ] docs on the planet,"
+  },
+  {
+    "start": 664.96,
+    "duration": 2.8,
+    "text": "do this."
+  },
+  {
+    "start": 669.12,
+    "duration": 3.64,
+    "text": "run it on perplexity"
+  },
+  {
+    "start": 674.08,
+    "duration": 5.04,
+    "text": "and specifically you're going to run it"
+  },
+  {
+    "start": 676.0,
+    "duration": 5.92,
+    "text": "on perplexity computer."
+  },
+  {
+    "start": 679.12,
+    "duration": 5.36,
+    "text": "This is an additional feature of uh just"
+  },
+  {
+    "start": 681.92,
+    "duration": 5.36,
+    "text": "an agentic computer that is run by"
+  },
+  {
+    "start": 684.48,
+    "duration": 4.72,
+    "text": "perplexity itself to do research. Let me"
+  },
+  {
+    "start": 687.28,
+    "duration": 5.92,
+    "text": "tell you what happened when I did my"
+  },
+  {
+    "start": 689.2,
+    "duration": 6.56,
+    "text": "research on Perplexity computer. when I"
+  },
+  {
+    "start": 693.2,
+    "duration": 5.44,
+    "text": "ran it against regular perplexity."
+  },
+  {
+    "start": 695.76,
+    "duration": 4.88,
+    "text": "All right, we're going to do like per"
+  },
+  {
+    "start": 698.64,
+    "duration": 5.2,
+    "text": "and then we're [ __ ] And then we're"
+  },
+  {
+    "start": 700.64,
+    "duration": 7.84,
+    "text": "going to do"
+  },
+  {
+    "start": 703.84,
+    "duration": 7.36,
+    "text": "per comp perplexity computer. All right,"
+  },
+  {
+    "start": 708.48,
+    "duration": 4.8,
+    "text": "so I was ranking it on a few different a"
+  },
+  {
+    "start": 711.2,
+    "duration": 3.68,
+    "text": "few different things. Number one is I"
+  },
+  {
+    "start": 713.28,
+    "duration": 3.76,
+    "text": "was looking at how many sources is it"
+  },
+  {
+    "start": 714.88,
+    "duration": 4.56,
+    "text": "using"
+  },
+  {
+    "start": 717.04,
+    "duration": 5.36,
+    "text": "and when it came to sources"
+  },
+  {
+    "start": 719.44,
+    "duration": 5.36,
+    "text": "just regular perplexity I think gave a"
+  },
+  {
+    "start": 722.4,
+    "duration": 5.31,
+    "text": "total of uh by the way I told this to"
+  },
+  {
+    "start": 724.8,
+    "duration": 5.84,
+    "text": "our BBA guys like weeks and weeks ago."
+  },
+  {
+    "start": 727.71,
+    "duration": 7.49,
+    "text": "[clears throat] Um the sources I believe"
+  },
+  {
+    "start": 730.64,
+    "duration": 8.84,
+    "text": "it got like 130 on perplexity roughly."
+  },
+  {
+    "start": 735.2,
+    "duration": 4.28,
+    "text": "Perplexity computer 580."
+  },
+  {
+    "start": 740.4,
+    "duration": 4.32,
+    "text": "Next thing I'm looking at is the length."
+  },
+  {
+    "start": 742.8,
+    "duration": 5.04,
+    "text": "So, how many pages of research can I"
+  },
+  {
+    "start": 744.72,
+    "duration": 6.96,
+    "text": "actually get right on Perplexity"
+  },
+  {
+    "start": 747.84,
+    "duration": 7.28,
+    "text": "Standard? Um,"
+  },
+  {
+    "start": 751.68,
+    "duration": 7.48,
+    "text": "I think I got about 22 pages. Perplexity"
+  },
+  {
+    "start": 755.12,
+    "duration": 4.04,
+    "text": "computer I got 73."
+  },
+  {
+    "start": 761.68,
+    "duration": 5.2,
+    "text": "Next thing I'm looking at is domains."
+  },
+  {
+    "start": 764.4,
+    "duration": 4.96,
+    "text": "So like, okay, maybe you scoured 130"
+  },
+  {
+    "start": 766.88,
+    "duration": 5.92,
+    "text": "sources, but every single one of them"
+  },
+  {
+    "start": 769.36,
+    "duration": 6.08,
+    "text": "was like Kora or Reddit and you didn't"
+  },
+  {
+    "start": 772.8,
+    "duration": 6.96,
+    "text": "have any diversity in your sources"
+  },
+  {
+    "start": 775.44,
+    "duration": 7.04,
+    "text": "domains. I believe Perplexity got like I"
+  },
+  {
+    "start": 779.76,
+    "duration": 6.32,
+    "text": "don't know, I think like seven or so."
+  },
+  {
+    "start": 782.48,
+    "duration": 6.16,
+    "text": "Um, Perplexity Computer"
+  },
+  {
+    "start": 786.08,
+    "duration": 6.16,
+    "text": "last time I ran this"
+  },
+  {
+    "start": 788.64,
+    "duration": 6.08,
+    "text": "got over 30 domains."
+  },
+  {
+    "start": 792.24,
+    "duration": 3.84,
+    "text": "So, when it comes to comparing tools,"
+  },
+  {
+    "start": 794.72,
+    "duration": 3.2,
+    "text": "you know, to me there's a pretty clear"
+  },
+  {
+    "start": 796.08,
+    "duration": 3.28,
+    "text": "winner. And by the way, I'm always split"
+  },
+  {
+    "start": 797.92,
+    "duration": 4.16,
+    "text": "testing like these research tools. In"
+  },
+  {
+    "start": 799.36,
+    "duration": 5.2,
+    "text": "fact, I split tested Perplexity Computer"
+  },
+  {
+    "start": 802.08,
+    "duration": 4.16,
+    "text": "against another thing that actually did"
+  },
+  {
+    "start": 804.56,
+    "duration": 4.16,
+    "text": "better than Perplexity, but not as good"
+  },
+  {
+    "start": 806.24,
+    "duration": 5.44,
+    "text": "as Perplexity Computer, and that was my"
+  },
+  {
+    "start": 808.72,
+    "duration": 5.76,
+    "text": "own Hermes Agent."
+  },
+  {
+    "start": 811.68,
+    "duration": 5.68,
+    "text": "I literally had a Hermes agent follow"
+  },
+  {
+    "start": 814.48,
+    "duration": 5.68,
+    "text": "this prompt as well and it did better in"
+  },
+  {
+    "start": 817.36,
+    "duration": 5.28,
+    "text": "every area compared to Perplexity, but"
+  },
+  {
+    "start": 820.16,
+    "duration": 5.6,
+    "text": "it did not beat Perplexity Computer. So,"
+  },
+  {
+    "start": 822.64,
+    "duration": 4.48,
+    "text": "the overall winner was absolutely"
+  },
+  {
+    "start": 825.76,
+    "duration": 2.8,
+    "text": "Perplexity Computer. Just so that you"
+  },
+  {
+    "start": 827.12,
+    "duration": 4.08,
+    "text": "know, when it comes to research, I have"
+  },
+  {
+    "start": 828.56,
+    "duration": 4.16,
+    "text": "my foundational docs. Um, somebody if"
+  },
+  {
+    "start": 831.2,
+    "duration": 4.48,
+    "text": "you could please share them. Share the"
+  },
+  {
+    "start": 832.72,
+    "duration": 4.48,
+    "text": "foundational docs uh document if I have"
+  },
+  {
+    "start": 835.68,
+    "duration": 2.64,
+    "text": "any mods in the chat. I don't know if"
+  },
+  {
+    "start": 837.2,
+    "duration": 2.72,
+    "text": "you guys could share it, that'd be"
+  },
+  {
+    "start": 838.32,
+    "duration": 4.0,
+    "text": "great."
+  },
+  {
+    "start": 839.92,
+    "duration": 4.4,
+    "text": "Um, but research is where everything"
+  },
+  {
+    "start": 842.32,
+    "duration": 5.68,
+    "text": "comes from. Now, the reason I brought up"
+  },
+  {
+    "start": 844.32,
+    "duration": 6.0,
+    "text": "William in that BBA interview is because"
+  },
+  {
+    "start": 848.0,
+    "duration": 4.72,
+    "text": "on that call that he had with one of our"
+  },
+  {
+    "start": 850.32,
+    "duration": 4.08,
+    "text": "coaches, our coaching, our coaches gave"
+  },
+  {
+    "start": 852.72,
+    "duration": 3.84,
+    "text": "him a very, very specific piece of"
+  },
+  {
+    "start": 854.4,
+    "duration": 3.28,
+    "text": "feedback. And that was, \"Did you do the"
+  },
+  {
+    "start": 856.56,
+    "duration": 3.44,
+    "text": "foundational doc?\" And he was like,"
+  },
+  {
+    "start": 857.68,
+    "duration": 5.04,
+    "text": "\"Yes.\" And then he was like, \"Did you"
+  },
+  {
+    "start": 860.0,
+    "duration": 4.56,
+    "text": "read the full research document from top"
+  },
+  {
+    "start": 862.72,
+    "duration": 4.64,
+    "text": "to bottom?\" And William at the time"
+  },
+  {
+    "start": 864.56,
+    "duration": 5.36,
+    "text": "said, \"No,"
+  },
+  {
+    "start": 867.36,
+    "duration": 4.32,
+    "text": "you can have AI do work for you, but to"
+  },
+  {
+    "start": 869.92,
+    "duration": 4.08,
+    "text": "become a great marketer, you have to"
+  },
+  {
+    "start": 871.68,
+    "duration": 4.08,
+    "text": "understand you need to know your"
+  },
+  {
+    "start": 874.0,
+    "duration": 4.16,
+    "text": "customer better than they know"
+  },
+  {
+    "start": 875.76,
+    "duration": 5.28,
+    "text": "themselves.\" I'm not saying your AI"
+  },
+  {
+    "start": 878.16,
+    "duration": 5.12,
+    "text": "agent needs to know your customer better"
+  },
+  {
+    "start": 881.04,
+    "duration": 4.16,
+    "text": "than they know themselves. You do. You"
+  },
+  {
+    "start": 883.28,
+    "duration": 3.44,
+    "text": "do. If there's one document that you"
+  },
+  {
+    "start": 885.2,
+    "duration": 4.64,
+    "text": "should read in the entire foundational"
+  },
+  {
+    "start": 886.72,
+    "duration": 4.8,
+    "text": "docs, it is your [ __ ] research doc."
+  },
+  {
+    "start": 889.84,
+    "duration": 4.16,
+    "text": "And what you should do is get really"
+  },
+  {
+    "start": 891.52,
+    "duration": 5.92,
+    "text": "high quality research, sit down for an"
+  },
+  {
+    "start": 894.0,
+    "duration": 5.68,
+    "text": "hour. Uh, pop it open in a Google doc,"
+  },
+  {
+    "start": 897.44,
+    "duration": 4.48,
+    "text": "whatever you want to do. And what you're"
+  },
+  {
+    "start": 899.68,
+    "duration": 3.92,
+    "text": "going to do is go through and just"
+  },
+  {
+    "start": 901.92,
+    "duration": 3.92,
+    "text": "[ __ ]"
+  },
+  {
+    "start": 903.6,
+    "duration": 3.52,
+    "text": "see if I have a You're just going to go"
+  },
+  {
+    "start": 905.84,
+    "duration": 3.76,
+    "text": "and highlight [ __ ] You're going to"
+  },
+  {
+    "start": 907.12,
+    "duration": 6.24,
+    "text": "highlight the takeaways. Highlight."
+  },
+  {
+    "start": 909.6,
+    "duration": 5.2,
+    "text": "You're going to add comments, right?"
+  },
+  {
+    "start": 913.36,
+    "duration": 3.04,
+    "text": "Going to add little, you know, comments"
+  },
+  {
+    "start": 914.8,
+    "duration": 2.64,
+    "text": "here and there. Comments here and there."
+  },
+  {
+    "start": 916.4,
+    "duration": 3.76,
+    "text": "and you're just going to go down this"
+  },
+  {
+    "start": 917.44,
+    "duration": 5.36,
+    "text": "entire longass document and understand"
+  },
+  {
+    "start": 920.16,
+    "duration": 5.76,
+    "text": "your market to a level that nobody"
+  },
+  {
+    "start": 922.8,
+    "duration": 4.64,
+    "text": "nobody ever really has. And when you do"
+  },
+  {
+    "start": 925.92,
+    "duration": 2.48,
+    "text": "that, you'll be able to understand"
+  },
+  {
+    "start": 927.44,
+    "duration": 2.32,
+    "text": "things when you're creating your"
+  },
+  {
+    "start": 928.4,
+    "duration": 3.04,
+    "text": "landers, when you're creating your ads,"
+  },
+  {
+    "start": 929.76,
+    "duration": 3.2,
+    "text": "when you're writing your [ __ ] hooks,"
+  },
+  {
+    "start": 931.44,
+    "duration": 4.0,
+    "text": "which is what I'm talking about in this"
+  },
+  {
+    "start": 932.96,
+    "duration": 4.96,
+    "text": "video right now, that your AI will never"
+  },
+  {
+    "start": 935.44,
+    "duration": 4.72,
+    "text": "actually pick up."
+  },
+  {
+    "start": 937.92,
+    "duration": 5.76,
+    "text": "It'll pick it up if you ask it directly."
+  },
+  {
+    "start": 940.16,
+    "duration": 6.16,
+    "text": "But this is one of those like unknown"
+  },
+  {
+    "start": 943.68,
+    "duration": 4.16,
+    "text": "knowns where if you don't ask directly"
+  },
+  {
+    "start": 946.32,
+    "duration": 3.44,
+    "text": "about something super specific that you"
+  },
+  {
+    "start": 947.84,
+    "duration": 4.0,
+    "text": "highlighted, for example, then the AI is"
+  },
+  {
+    "start": 949.76,
+    "duration": 4.08,
+    "text": "not going to bring it up themselves. So"
+  },
+  {
+    "start": 951.84,
+    "duration": 4.56,
+    "text": "they can help with ideiation, but they"
+  },
+  {
+    "start": 953.84,
+    "duration": 4.48,
+    "text": "should help your own ideation that is"
+  },
+  {
+    "start": 956.4,
+    "duration": 4.64,
+    "text": "already there existing. Does that make"
+  },
+  {
+    "start": 958.32,
+    "duration": 5.2,
+    "text": "sense? This alone, I think for many of"
+  },
+  {
+    "start": 961.04,
+    "duration": 4.24,
+    "text": "you that are struggling finding and"
+  },
+  {
+    "start": 963.52,
+    "duration": 4.08,
+    "text": "creating profitable ads, you need to"
+  },
+  {
+    "start": 965.28,
+    "duration": 4.48,
+    "text": "[ __ ] understand your customers, bro."
+  },
+  {
+    "start": 967.6,
+    "duration": 4.4,
+    "text": "I was talking to another uh another BBA"
+  },
+  {
+    "start": 969.76,
+    "duration": 3.36,
+    "text": "student actually. He went through this"
+  },
+  {
+    "start": 972.0,
+    "duration": 2.16,
+    "text": "process. I told him, \"Did you read it?\""
+  },
+  {
+    "start": 973.12,
+    "duration": 3.12,
+    "text": "He said, \"No.\" I said, \"Go read your"
+  },
+  {
+    "start": 974.16,
+    "duration": 4.88,
+    "text": "[ __ ] research doc.\" He took an exact"
+  },
+  {
+    "start": 976.24,
+    "duration": 4.88,
+    "text": "quote from the research document, ran"
+  },
+  {
+    "start": 979.04,
+    "duration": 3.76,
+    "text": "that quote, that quote as a hook for a"
+  },
+  {
+    "start": 981.12,
+    "duration": 5.96,
+    "text": "native static, and now it's one of his"
+  },
+  {
+    "start": 982.8,
+    "duration": 4.28,
+    "text": "most profitable ads that he's running."
+  },
+  {
+    "start": 988.32,
+    "duration": 4.32,
+    "text": "It's all there. It's all there. You just"
+  },
+  {
+    "start": 990.48,
+    "duration": 4.4,
+    "text": "have to stop being a lazy [ __ ] and read"
+  },
+  {
+    "start": 992.64,
+    "duration": 4.32,
+    "text": "it."
+  },
+  {
+    "start": 994.88,
+    "duration": 4.64,
+    "text": "Now, the re the foundational docs"
+  },
+  {
+    "start": 996.96,
+    "duration": 3.92,
+    "text": "process is, you know, one of many ways"
+  },
+  {
+    "start": 999.52,
+    "duration": 3.52,
+    "text": "that you can do really good research,"
+  },
+  {
+    "start": 1000.88,
+    "duration": 5.16,
+    "text": "right? We have, let me write this down."
+  },
+  {
+    "start": 1003.04,
+    "duration": 3.0,
+    "text": "Foundational"
+  },
+  {
+    "start": 1010.64,
+    "duration": 6.72,
+    "text": "foundational dicks, foundational docks."
+  },
+  {
+    "start": 1014.24,
+    "duration": 7.96,
+    "text": "So the next method that you can use for"
+  },
+  {
+    "start": 1017.36,
+    "duration": 4.84,
+    "text": "research is what I call intentional"
+  },
+  {
+    "start": 1024.8,
+    "duration": 3.4,
+    "text": "doom scrolling."
+  },
+  {
+    "start": 1029.2,
+    "duration": 4.48,
+    "text": "And this is where you set up a burner"
+  },
+  {
+    "start": 1031.04,
+    "duration": 5.68,
+    "text": "account on Facebook and Instagram,"
+  },
+  {
+    "start": 1033.68,
+    "duration": 4.96,
+    "text": "especially Facebook."
+  },
+  {
+    "start": 1036.72,
+    "duration": 4.24,
+    "text": "You literally get it on your phone"
+  },
+  {
+    "start": 1038.64,
+    "duration": 4.32,
+    "text": "ideally. If not, try to use the mobile"
+  },
+  {
+    "start": 1040.96,
+    "duration": 3.92,
+    "text": "version on your desktop and you're going"
+  },
+  {
+    "start": 1042.96,
+    "duration": 3.52,
+    "text": "to legitimately doom scroll after"
+  },
+  {
+    "start": 1044.88,
+    "duration": 3.2,
+    "text": "training your burner account on your"
+  },
+  {
+    "start": 1046.48,
+    "duration": 4.16,
+    "text": "particular market by going and liking"
+  },
+  {
+    "start": 1048.08,
+    "duration": 4.4,
+    "text": "other pages, uh, by commenting on post,"
+  },
+  {
+    "start": 1050.64,
+    "duration": 3.52,
+    "text": "by clicking on links, by going through"
+  },
+  {
+    "start": 1052.48,
+    "duration": 3.04,
+    "text": "the entire checkout process, aband"
+  },
+  {
+    "start": 1054.16,
+    "duration": 2.72,
+    "text": "hitting checkout. You're going to train"
+  },
+  {
+    "start": 1055.52,
+    "duration": 3.2,
+    "text": "your algorithm. I don't need to go over"
+  },
+  {
+    "start": 1056.88,
+    "duration": 3.36,
+    "text": "how to create a burner account, like how"
+  },
+  {
+    "start": 1058.72,
+    "duration": 3.04,
+    "text": "to create a burner profile, but that's"
+  },
+  {
+    "start": 1060.24,
+    "duration": 3.52,
+    "text": "exactly what you do. And then you're"
+  },
+  {
+    "start": 1061.76,
+    "duration": 3.28,
+    "text": "going to start intentionally doom doom"
+  },
+  {
+    "start": 1063.76,
+    "duration": 3.28,
+    "text": "scrolling. You want to doom scroll and"
+  },
+  {
+    "start": 1065.04,
+    "duration": 3.52,
+    "text": "you want to be sucked in, but you also"
+  },
+  {
+    "start": 1067.04,
+    "duration": 3.84,
+    "text": "want to be conscious. You don't want to"
+  },
+  {
+    "start": 1068.56,
+    "duration": 3.68,
+    "text": "be completely subconscious separated"
+  },
+  {
+    "start": 1070.88,
+    "duration": 3.44,
+    "text": "from the fact you're just consuming"
+  },
+  {
+    "start": 1072.24,
+    "duration": 4.64,
+    "text": "useless media. You're consuming media"
+  },
+  {
+    "start": 1074.32,
+    "duration": 5.04,
+    "text": "with the intention of identifying hooks"
+  },
+  {
+    "start": 1076.88,
+    "duration": 4.0,
+    "text": "of identifying emotional hot points by"
+  },
+  {
+    "start": 1079.36,
+    "duration": 3.76,
+    "text": "looking at the comments, looking at the"
+  },
+  {
+    "start": 1080.88,
+    "duration": 4.64,
+    "text": "top comments of like these really"
+  },
+  {
+    "start": 1083.12,
+    "duration": 4.24,
+    "text": "polarizing posts and using those as"
+  },
+  {
+    "start": 1085.52,
+    "duration": 4.72,
+    "text": "hooks, using those as additional points"
+  },
+  {
+    "start": 1087.36,
+    "duration": 5.04,
+    "text": "of research. This is super super uh"
+  },
+  {
+    "start": 1090.24,
+    "duration": 3.84,
+    "text": "underrated in general. And you want to"
+  },
+  {
+    "start": 1092.4,
+    "duration": 3.28,
+    "text": "observe like what is making you stop"
+  },
+  {
+    "start": 1094.08,
+    "duration": 4.88,
+    "text": "scrolling"
+  },
+  {
+    "start": 1095.68,
+    "duration": 6.4,
+    "text": "because even when you're in a niche,"
+  },
+  {
+    "start": 1098.96,
+    "duration": 4.72,
+    "text": "there's this uh you just kind of get"
+  },
+  {
+    "start": 1102.08,
+    "duration": 3.12,
+    "text": "lulled into the doom scrolling, but"
+  },
+  {
+    "start": 1103.68,
+    "duration": 3.52,
+    "text": "eventually there's going to be something"
+  },
+  {
+    "start": 1105.2,
+    "duration": 5.36,
+    "text": "that you scroll and you're like, \"Holy"
+  },
+  {
+    "start": 1107.2,
+    "duration": 5.52,
+    "text": "shit.\" And that is the kind of content"
+  },
+  {
+    "start": 1110.56,
+    "duration": 4.0,
+    "text": "you want to emulate when it comes to"
+  },
+  {
+    "start": 1112.72,
+    "duration": 3.28,
+    "text": "writing really good hooks. And that is"
+  },
+  {
+    "start": 1114.56,
+    "duration": 6.0,
+    "text": "an incredible form of research that most"
+  },
+  {
+    "start": 1116.0,
+    "duration": 8.08,
+    "text": "people just do not um just do not do."
+  },
+  {
+    "start": 1120.56,
+    "duration": 5.6,
+    "text": "Okay. So, as an example, right, with the"
+  },
+  {
+    "start": 1124.08,
+    "duration": 4.16,
+    "text": "deep research that I'm speaking about"
+  },
+  {
+    "start": 1126.16,
+    "duration": 6.36,
+    "text": "and the"
+  },
+  {
+    "start": 1128.24,
+    "duration": 4.28,
+    "text": "uh what's the [ __ ] name?"
+  },
+  {
+    "start": 1133.84,
+    "duration": 4.12,
+    "text": "Foundational docs. Yes."
+  },
+  {
+    "start": 1141.02,
+    "duration": 2.02,
+    "text": "[snorts]"
+  },
+  {
+    "start": 1145.92,
+    "duration": 4.0,
+    "text": "What I'm talking about. Now, this one is"
+  },
+  {
+    "start": 1147.36,
+    "duration": 4.72,
+    "text": "a little bit shorter, right? Uh, but"
+  },
+  {
+    "start": 1149.92,
+    "duration": 5.2,
+    "text": "what I'm talking about is going through"
+  },
+  {
+    "start": 1152.08,
+    "duration": 5.36,
+    "text": "with a highlighter like this and just"
+  },
+  {
+    "start": 1155.12,
+    "duration": 3.84,
+    "text": "highlighting [ __ ]"
+  },
+  {
+    "start": 1157.44,
+    "duration": 3.76,
+    "text": "Specifically, the main things I'm going"
+  },
+  {
+    "start": 1158.96,
+    "duration": 4.16,
+    "text": "to be looking at is going to be the"
+  },
+  {
+    "start": 1161.2,
+    "duration": 4.24,
+    "text": "customer beliefs, emotions, hopes, and"
+  },
+  {
+    "start": 1163.12,
+    "duration": 4.24,
+    "text": "fears. I want to look at all these pain"
+  },
+  {
+    "start": 1165.44,
+    "duration": 3.36,
+    "text": "points, and I want to literally"
+  },
+  {
+    "start": 1167.36,
+    "duration": 3.52,
+    "text": "underline things, bold it, like do"
+  },
+  {
+    "start": 1168.8,
+    "duration": 3.6,
+    "text": "whatever you want to do. But this is"
+  },
+  {
+    "start": 1170.88,
+    "duration": 4.24,
+    "text": "going to train your brain on how to"
+  },
+  {
+    "start": 1172.4,
+    "duration": 5.12,
+    "text": "think when it comes to writing and"
+  },
+  {
+    "start": 1175.12,
+    "duration": 3.44,
+    "text": "writing really good hooks. So, I don't"
+  },
+  {
+    "start": 1177.52,
+    "duration": 5.0,
+    "text": "think I need to go through that, but"
+  },
+  {
+    "start": 1178.56,
+    "duration": 3.96,
+    "text": "that's exactly what you would do."
+  },
+  {
+    "start": 1183.36,
+    "duration": 4.72,
+    "text": "Okay. So, if you've done your research,"
+  },
+  {
+    "start": 1185.92,
+    "duration": 3.2,
+    "text": "you're already better than 99% of people"
+  },
+  {
+    "start": 1188.08,
+    "duration": 3.12,
+    "text": "when it comes to writing really good"
+  },
+  {
+    "start": 1189.12,
+    "duration": 3.68,
+    "text": "ads. And again, I don't mean just"
+  },
+  {
+    "start": 1191.2,
+    "duration": 4.24,
+    "text": "conducting the foundational docs, like"
+  },
+  {
+    "start": 1192.8,
+    "duration": 4.64,
+    "text": "go farther because the moment that"
+  },
+  {
+    "start": 1195.44,
+    "duration": 4.08,
+    "text": "something becomes like mainstream and"
+  },
+  {
+    "start": 1197.44,
+    "duration": 4.16,
+    "text": "standard practice, everybody uses the"
+  },
+  {
+    "start": 1199.52,
+    "duration": 3.44,
+    "text": "[ __ ] foundational docs now. So, if"
+  },
+  {
+    "start": 1201.6,
+    "duration": 2.64,
+    "text": "you're running the same product as"
+  },
+  {
+    "start": 1202.96,
+    "duration": 3.76,
+    "text": "somebody else, how do you have any"
+  },
+  {
+    "start": 1204.24,
+    "duration": 5.28,
+    "text": "competitive advantage over them? Hm. You"
+  },
+  {
+    "start": 1206.72,
+    "duration": 4.64,
+    "text": "don't. You [ __ ] don't. Which means"
+  },
+  {
+    "start": 1209.52,
+    "duration": 3.36,
+    "text": "you're going to lose to them. Your AI is"
+  },
+  {
+    "start": 1211.36,
+    "duration": 4.64,
+    "text": "going to come up with the exact same ad"
+  },
+  {
+    "start": 1212.88,
+    "duration": 4.88,
+    "text": "angles as theirs. So now you're really"
+  },
+  {
+    "start": 1216.0,
+    "duration": 3.6,
+    "text": "in the [ __ ] [ __ ] and you got you"
+  },
+  {
+    "start": 1217.76,
+    "duration": 2.88,
+    "text": "got some work to do. So just like"
+  },
+  {
+    "start": 1219.6,
+    "duration": 2.48,
+    "text": "anything, when something becomes"
+  },
+  {
+    "start": 1220.64,
+    "duration": 4.16,
+    "text": "standard practice, when it becomes the"
+  },
+  {
+    "start": 1222.08,
+    "duration": 5.12,
+    "text": "norm, you still have to follow this"
+  },
+  {
+    "start": 1224.8,
+    "duration": 8.28,
+    "text": "fundamental [ __ ] principle of"
+  },
+  {
+    "start": 1227.2,
+    "duration": 5.88,
+    "text": "marketing, which is creating contrast."
+  },
+  {
+    "start": 1237.52,
+    "duration": 6.08,
+    "text": "And yes, I wrote this in red. It's to"
+  },
+  {
+    "start": 1240.72,
+    "duration": 4.56,
+    "text": "explain the [ __ ] point."
+  },
+  {
+    "start": 1243.6,
+    "duration": 5.08,
+    "text": "You want to create as much contrast as"
+  },
+  {
+    "start": 1245.28,
+    "duration": 3.4,
+    "text": "humanly possible."
+  },
+  {
+    "start": 1248.96,
+    "duration": 6.32,
+    "text": "All right. So, I want to look at a few"
+  },
+  {
+    "start": 1252.48,
+    "duration": 4.72,
+    "text": "different ads here, and we're going to"
+  },
+  {
+    "start": 1255.28,
+    "duration": 4.4,
+    "text": "break them down together, and I'm going"
+  },
+  {
+    "start": 1257.2,
+    "duration": 4.64,
+    "text": "to tell you why they're successful,"
+  },
+  {
+    "start": 1259.68,
+    "duration": 4.16,
+    "text": "and you're going to be able to emulate"
+  },
+  {
+    "start": 1261.84,
+    "duration": 4.64,
+    "text": "those for yourself. I'll tell you this"
+  },
+  {
+    "start": 1263.84,
+    "duration": 4.72,
+    "text": "as one final note before we do this. One"
+  },
+  {
+    "start": 1266.48,
+    "duration": 3.6,
+    "text": "of my copywriting mentors, uh, she"
+  },
+  {
+    "start": 1268.56,
+    "duration": 5.2,
+    "text": "taught me about a concept called your"
+  },
+  {
+    "start": 1270.08,
+    "duration": 5.04,
+    "text": "copy diet. And your copy diet is the"
+  },
+  {
+    "start": 1273.76,
+    "duration": 2.88,
+    "text": "copy that you're reading to train"
+  },
+  {
+    "start": 1275.12,
+    "duration": 3.6,
+    "text": "yourself to become become a better"
+  },
+  {
+    "start": 1276.64,
+    "duration": 3.76,
+    "text": "copywriter. In the same way that if you"
+  },
+  {
+    "start": 1278.72,
+    "duration": 3.6,
+    "text": "have a really [ __ ] diet and all you eat"
+  },
+  {
+    "start": 1280.4,
+    "duration": 4.16,
+    "text": "is [ __ ] McDonald's and you eat"
+  },
+  {
+    "start": 1282.32,
+    "duration": 4.88,
+    "text": "[ __ ] [ __ ] fast foods every"
+  },
+  {
+    "start": 1284.56,
+    "duration": 4.0,
+    "text": "[ __ ] meal of the day,"
+  },
+  {
+    "start": 1287.2,
+    "duration": 2.88,
+    "text": "then your body's going to represent"
+  },
+  {
+    "start": 1288.56,
+    "duration": 3.92,
+    "text": "that. In the same way, if you're reading"
+  },
+  {
+    "start": 1290.08,
+    "duration": 5.76,
+    "text": "really [ __ ] copy and you just continue"
+  },
+  {
+    "start": 1292.48,
+    "duration": 6.56,
+    "text": "to train your your your copy chops that"
+  },
+  {
+    "start": 1295.84,
+    "duration": 4.88,
+    "text": "this is good, it's not good and you're"
+  },
+  {
+    "start": 1299.04,
+    "duration": 3.68,
+    "text": "just going to make yourself and your AI"
+  },
+  {
+    "start": 1300.72,
+    "duration": 4.56,
+    "text": "spit out really really poor quality"
+  },
+  {
+    "start": 1302.72,
+    "duration": 5.76,
+    "text": "copy. So, when it comes to swiping and"
+  },
+  {
+    "start": 1305.28,
+    "duration": 4.88,
+    "text": "analyzing successful competitors, I only"
+  },
+  {
+    "start": 1308.48,
+    "duration": 3.52,
+    "text": "look for these brands that are doing"
+  },
+  {
+    "start": 1310.16,
+    "duration": 5.36,
+    "text": "like"
+  },
+  {
+    "start": 1312.0,
+    "duration": 5.6,
+    "text": "that that I know that there's a strong"
+  },
+  {
+    "start": 1315.52,
+    "duration": 4.72,
+    "text": "direct response"
+  },
+  {
+    "start": 1317.6,
+    "duration": 3.92,
+    "text": "presence in the hooks. And I'll show you"
+  },
+  {
+    "start": 1320.24,
+    "duration": 2.48,
+    "text": "exactly what I mean because I got some"
+  },
+  {
+    "start": 1321.52,
+    "duration": 3.56,
+    "text": "good examples here. All right, let's"
+  },
+  {
+    "start": 1322.72,
+    "duration": 4.38,
+    "text": "look at this one first."
+  },
+  {
+    "start": 1325.08,
+    "duration": 2.02,
+    "text": "[snorts]"
+  },
+  {
+    "start": 1354.4,
+    "duration": 3.52,
+    "text": "All righty. Again, we're analyzing video"
+  },
+  {
+    "start": 1356.24,
+    "duration": 3.12,
+    "text": "hooks here. Maybe if I have some time at"
+  },
+  {
+    "start": 1357.92,
+    "duration": 4.96,
+    "text": "the end, I'll try to get to image hooks."
+  },
+  {
+    "start": 1359.36,
+    "duration": 5.36,
+    "text": "But let's take a little look see what we"
+  },
+  {
+    "start": 1362.88,
+    "duration": 3.12,
+    "text": "got here."
+  },
+  {
+    "start": 1364.72,
+    "duration": 3.44,
+    "text": ">> Can you see it?"
+  },
+  {
+    "start": 1366.0,
+    "duration": 3.2,
+    "text": ">> I think so. Yeah. Oh, yeah. Yeah, yeah,"
+  },
+  {
+    "start": 1368.16,
+    "duration": 3.92,
+    "text": "yeah. Oh, wow. Yeah."
+  },
+  {
+    "start": 1369.2,
+    "duration": 5.88,
+    "text": ">> Oh, wow."
+  },
+  {
+    "start": 1372.08,
+    "duration": 3.0,
+    "text": ">> Okay."
+  },
+  {
+    "start": 1375.76,
+    "duration": 4.88,
+    "text": "Please steal this. Okay. Please steal"
+  },
+  {
+    "start": 1378.0,
+    "duration": 5.44,
+    "text": "this. Specifically asking if they can"
+  },
+  {
+    "start": 1380.64,
+    "duration": 5.44,
+    "text": "see something. If you ask like, \"Can you"
+  },
+  {
+    "start": 1383.44,
+    "duration": 4.8,
+    "text": "see this? Do you see this? Do you see"
+  },
+  {
+    "start": 1386.08,
+    "duration": 5.68,
+    "text": "what I'm looking at?\" You're not giving"
+  },
+  {
+    "start": 1388.24,
+    "duration": 6.48,
+    "text": "people a demand, but you are"
+  },
+  {
+    "start": 1391.76,
+    "duration": 5.2,
+    "text": "commanding an action that is a"
+  },
+  {
+    "start": 1394.72,
+    "duration": 4.0,
+    "text": "subliminal"
+  },
+  {
+    "start": 1396.96,
+    "duration": 3.76,
+    "text": "uh what's the [ __ ] word? Micro"
+  },
+  {
+    "start": 1398.72,
+    "duration": 3.68,
+    "text": "commitment."
+  },
+  {
+    "start": 1400.72,
+    "duration": 3.68,
+    "text": "It's a subliminal micro commitment."
+  },
+  {
+    "start": 1402.4,
+    "duration": 4.0,
+    "text": "You'll notice if you study some really"
+  },
+  {
+    "start": 1404.4,
+    "duration": 3.6,
+    "text": "good uh sales people, especially sales"
+  },
+  {
+    "start": 1406.4,
+    "duration": 3.12,
+    "text": "people like in person, like you think of"
+  },
+  {
+    "start": 1408.0,
+    "duration": 4.64,
+    "text": "somebody like Tony Robbins, like this"
+  },
+  {
+    "start": 1409.52,
+    "duration": 5.2,
+    "text": "dude sells people for a [ __ ] living,"
+  },
+  {
+    "start": 1412.64,
+    "duration": 3.92,
+    "text": "literally. And he gets on these stages"
+  },
+  {
+    "start": 1414.72,
+    "duration": 3.6,
+    "text": "in front of, you know, tens of thousands"
+  },
+  {
+    "start": 1416.56,
+    "duration": 3.6,
+    "text": "of people. And he gets these people to"
+  },
+  {
+    "start": 1418.32,
+    "duration": 3.44,
+    "text": "[ __ ] run up to the stage all through"
+  },
+  {
+    "start": 1420.16,
+    "duration": 3.44,
+    "text": "his words and his actions and how he"
+  },
+  {
+    "start": 1421.76,
+    "duration": 3.68,
+    "text": "speaks."
+  },
+  {
+    "start": 1423.6,
+    "duration": 3.28,
+    "text": "And he understands this concept of"
+  },
+  {
+    "start": 1425.44,
+    "duration": 3.12,
+    "text": "getting micro commitments from people."
+  },
+  {
+    "start": 1426.88,
+    "duration": 4.32,
+    "text": "If you've ever been to a Tony Robbins"
+  },
+  {
+    "start": 1428.56,
+    "duration": 5.44,
+    "text": "event, which I have, and it was it was"
+  },
+  {
+    "start": 1431.2,
+    "duration": 4.64,
+    "text": "[ __ ] crazy. [snorts]"
+  },
+  {
+    "start": 1434.0,
+    "duration": 3.04,
+    "text": "What is he always asking you to do? He's"
+  },
+  {
+    "start": 1435.84,
+    "duration": 2.08,
+    "text": "like, \"Raise your hand if you're this."
+  },
+  {
+    "start": 1437.04,
+    "duration": 1.92,
+    "text": "Raise your hand if you're that. Raise"
+  },
+  {
+    "start": 1437.92,
+    "duration": 2.64,
+    "text": "your hand if you're this.\" Micro"
+  },
+  {
+    "start": 1438.96,
+    "duration": 3.2,
+    "text": "commitment. Micro commitment. [ __ ]"
+  },
+  {
+    "start": 1440.56,
+    "duration": 3.44,
+    "text": "micro commitment. Another one. Everybody"
+  },
+  {
+    "start": 1442.16,
+    "duration": 4.0,
+    "text": "stand up. He starts clapping. Everybody"
+  },
+  {
+    "start": 1444.0,
+    "duration": 4.08,
+    "text": "stand up. Everybody stand up. It's like"
+  },
+  {
+    "start": 1446.16,
+    "duration": 5.44,
+    "text": "he's getting people bought in with every"
+  },
+  {
+    "start": 1448.08,
+    "duration": 4.88,
+    "text": "individual word. Anytime that"
+  },
+  {
+    "start": 1451.6,
+    "duration": 2.96,
+    "text": "you tell somebody to do something and"
+  },
+  {
+    "start": 1452.96,
+    "duration": 2.96,
+    "text": "they do it, no matter how small, that's"
+  },
+  {
+    "start": 1454.56,
+    "duration": 3.52,
+    "text": "a micro commitment and that's getting"
+  },
+  {
+    "start": 1455.92,
+    "duration": 4.56,
+    "text": "them closer and closer and closer to"
+  },
+  {
+    "start": 1458.08,
+    "duration": 4.32,
+    "text": "becoming a customer. Everything in the"
+  },
+  {
+    "start": 1460.48,
+    "duration": 3.84,
+    "text": "way that he speaks and talks, you want"
+  },
+  {
+    "start": 1462.4,
+    "duration": 4.48,
+    "text": "to get really good at copy, just go, you"
+  },
+  {
+    "start": 1464.32,
+    "duration": 5.12,
+    "text": "know, go go watch some some Tony Robbins"
+  },
+  {
+    "start": 1466.88,
+    "duration": 4.08,
+    "text": "events, dude, and you'll see exactly"
+  },
+  {
+    "start": 1469.44,
+    "duration": 3.28,
+    "text": "everything that he does. It's just so"
+  },
+  {
+    "start": 1470.96,
+    "duration": 3.44,
+    "text": "incredibly intentional. Nothing is by"
+  },
+  {
+    "start": 1472.72,
+    "duration": 4.48,
+    "text": "accident. Not the way that he speaks,"
+  },
+  {
+    "start": 1474.4,
+    "duration": 4.72,
+    "text": "the way that he [ __ ] claps, uh,"
+  },
+  {
+    "start": 1477.2,
+    "duration": 3.84,
+    "text": "everything that he asks his audience to"
+  },
+  {
+    "start": 1479.12,
+    "duration": 3.92,
+    "text": "do. I'm not even a Tony Robbins lover"
+  },
+  {
+    "start": 1481.04,
+    "duration": 4.8,
+    "text": "like that. Like, I I'm neutral about the"
+  },
+  {
+    "start": 1483.04,
+    "duration": 4.24,
+    "text": "dude, but I understand who's got game"
+  },
+  {
+    "start": 1485.84,
+    "duration": 3.28,
+    "text": "and who understands this [ __ ] at a"
+  },
+  {
+    "start": 1487.28,
+    "duration": 4.08,
+    "text": "psychotic level. And he is one of those"
+  },
+  {
+    "start": 1489.12,
+    "duration": 3.28,
+    "text": "people. He's absolutely one of those"
+  },
+  {
+    "start": 1491.36,
+    "duration": 2.88,
+    "text": "people."
+  },
+  {
+    "start": 1492.4,
+    "duration": 4.72,
+    "text": ">> Can you see it"
+  },
+  {
+    "start": 1494.24,
+    "duration": 4.48,
+    "text": ">> already?"
+  },
+  {
+    "start": 1497.12,
+    "duration": 4.16,
+    "text": "Really [ __ ] good. Also understand the"
+  },
+  {
+    "start": 1498.72,
+    "duration": 3.92,
+    "text": "inflection in the voice. like the"
+  },
+  {
+    "start": 1501.28,
+    "duration": 2.64,
+    "text": "inflection of the voice. So here, let's"
+  },
+  {
+    "start": 1502.64,
+    "duration": 3.6,
+    "text": "break this down, right? Because we"
+  },
+  {
+    "start": 1503.92,
+    "duration": 3.76,
+    "text": "talked about this triangle, this"
+  },
+  {
+    "start": 1506.24,
+    "duration": 3.68,
+    "text": "beautiful triangle we have up here of"
+  },
+  {
+    "start": 1507.68,
+    "duration": 4.16,
+    "text": "copy, audio, and scroll stopper. In this"
+  },
+  {
+    "start": 1509.92,
+    "duration": 5.04,
+    "text": "case,"
+  },
+  {
+    "start": 1511.84,
+    "duration": 4.88,
+    "text": "in this case, the audio is actually the"
+  },
+  {
+    "start": 1514.96,
+    "duration": 3.52,
+    "text": "way that partly the way that this woman"
+  },
+  {
+    "start": 1516.72,
+    "duration": 4.8,
+    "text": "is talking. This was a dude that was"
+  },
+  {
+    "start": 1518.48,
+    "duration": 4.72,
+    "text": "just like, can you see this? Versus this"
+  },
+  {
+    "start": 1521.52,
+    "duration": 3.92,
+    "text": "woman who has this upward inflection in"
+  },
+  {
+    "start": 1523.2,
+    "duration": 4.88,
+    "text": "her voice, this upspeak at the very end"
+  },
+  {
+    "start": 1525.44,
+    "duration": 4.08,
+    "text": "to signify like a question and get you"
+  },
+  {
+    "start": 1528.08,
+    "duration": 4.72,
+    "text": "more bought in because you want to know"
+  },
+  {
+    "start": 1529.52,
+    "duration": 5.36,
+    "text": "the answer. And also she says, \"Can you"
+  },
+  {
+    "start": 1532.8,
+    "duration": 4.08,
+    "text": "see it?\" What the [ __ ] am I supposed to"
+  },
+  {
+    "start": 1534.88,
+    "duration": 5.52,
+    "text": "see?"
+  },
+  {
+    "start": 1536.88,
+    "duration": 5.68,
+    "text": "Open open [laughter] loop."
+  },
+  {
+    "start": 1540.4,
+    "duration": 3.52,
+    "text": "Um, so that's kind of the audio piece,"
+  },
+  {
+    "start": 1542.56,
+    "duration": 3.2,
+    "text": "right? Let's look at the copy. So the"
+  },
+  {
+    "start": 1543.92,
+    "duration": 3.86,
+    "text": "copy is twofold here. We have the copy"
+  },
+  {
+    "start": 1545.76,
+    "duration": 2.96,
+    "text": "that's actually on the screen,"
+  },
+  {
+    "start": 1547.78,
+    "duration": 2.94,
+    "text": "[clears throat]"
+  },
+  {
+    "start": 1548.72,
+    "duration": 5.84,
+    "text": "number one, which we'll get into, but we"
+  },
+  {
+    "start": 1550.72,
+    "duration": 6.24,
+    "text": "also have the copy of the audio. And the"
+  },
+  {
+    "start": 1554.56,
+    "duration": 4.24,
+    "text": "audio is basically, can you see it? And"
+  },
+  {
+    "start": 1556.96,
+    "duration": 2.32,
+    "text": "then these guys reacting to whatever it"
+  },
+  {
+    "start": 1558.8,
+    "duration": 2.56,
+    "text": "is."
+  },
+  {
+    "start": 1559.28,
+    "duration": 3.2,
+    "text": ">> I think so. Oh yeah. Oh yeah. Yeah."
+  },
+  {
+    "start": 1561.36,
+    "duration": 2.24,
+    "text": "Yeah. Oh wow. Yeah."
+  },
+  {
+    "start": 1562.48,
+    "duration": 2.56,
+    "text": ">> Oh wow."
+  },
+  {
+    "start": 1563.6,
+    "duration": 3.36,
+    "text": ">> That was it. Right. That's that's the"
+  },
+  {
+    "start": 1565.04,
+    "duration": 3.2,
+    "text": "[ __ ] hook right there. It's like can"
+  },
+  {
+    "start": 1566.96,
+    "duration": 4.56,
+    "text": "you see it? I think I can see it. Oh"
+  },
+  {
+    "start": 1568.24,
+    "duration": 5.76,
+    "text": "wow. Oh wow. Oh wow."
+  },
+  {
+    "start": 1571.52,
+    "duration": 4.88,
+    "text": "You know. So"
+  },
+  {
+    "start": 1574.0,
+    "duration": 4.16,
+    "text": "now that's from a copyrightiting"
+  },
+  {
+    "start": 1576.4,
+    "duration": 5.36,
+    "text": "perspective. You know there's not a"
+  },
+  {
+    "start": 1578.16,
+    "duration": 5.36,
+    "text": "whole lot to dissect there. It's just"
+  },
+  {
+    "start": 1581.76,
+    "duration": 2.8,
+    "text": "a wild reaction to something where we"
+  },
+  {
+    "start": 1583.52,
+    "duration": 2.16,
+    "text": "don't actually know what the [ __ ] is"
+  },
+  {
+    "start": 1584.56,
+    "duration": 3.28,
+    "text": "happening except for this woman's"
+  },
+  {
+    "start": 1585.68,
+    "duration": 4.32,
+    "text": "shoulder or neck is moving. Right now,"
+  },
+  {
+    "start": 1587.84,
+    "duration": 5.16,
+    "text": "let's look at the copy that is actually"
+  },
+  {
+    "start": 1590.0,
+    "duration": 3.0,
+    "text": "on"
+  },
+  {
+    "start": 1594.0,
+    "duration": 4.64,
+    "text": "uh the screen here. Let me see if I can"
+  },
+  {
+    "start": 1595.68,
+    "duration": 5.2,
+    "text": "zoom in a little bit more. Yeah. Okay."
+  },
+  {
+    "start": 1598.64,
+    "duration": 4.32,
+    "text": "To the [ __ ] who gave me this"
+  },
+  {
+    "start": 1600.88,
+    "duration": 4.96,
+    "text": "device, this is the first time I felt a"
+  },
+  {
+    "start": 1602.96,
+    "duration": 4.48,
+    "text": "brain orgasm. So,"
+  },
+  {
+    "start": 1605.84,
+    "duration": 3.2,
+    "text": "few things that were done right here. To"
+  },
+  {
+    "start": 1607.44,
+    "duration": 4.08,
+    "text": "the [ __ ] [ __ ] blurred"
+  },
+  {
+    "start": 1609.04,
+    "duration": 4.64,
+    "text": "out, but also anytime you include"
+  },
+  {
+    "start": 1611.52,
+    "duration": 3.76,
+    "text": "cursing in a hook, you're just asking"
+  },
+  {
+    "start": 1613.68,
+    "duration": 4.08,
+    "text": "for polarity. Cursing is one of those"
+  },
+  {
+    "start": 1615.28,
+    "duration": 4.08,
+    "text": "things that, you know, I feel like it's"
+  },
+  {
+    "start": 1617.76,
+    "duration": 4.08,
+    "text": "become relatively normalized over the"
+  },
+  {
+    "start": 1619.36,
+    "duration": 4.96,
+    "text": "last like 20 years, but it's still very"
+  },
+  {
+    "start": 1621.84,
+    "duration": 4.0,
+    "text": "polarizing. Like if somebody curses, you"
+  },
+  {
+    "start": 1624.32,
+    "duration": 3.04,
+    "text": "can assume certain things about that"
+  },
+  {
+    "start": 1625.84,
+    "duration": 3.36,
+    "text": "person in the same way that if somebody"
+  },
+  {
+    "start": 1627.36,
+    "duration": 3.36,
+    "text": "is super against cursing that you can"
+  },
+  {
+    "start": 1629.2,
+    "duration": 3.68,
+    "text": "also assume certain things about that as"
+  },
+  {
+    "start": 1630.72,
+    "duration": 4.8,
+    "text": "well. It it creates a divide. It's"
+  },
+  {
+    "start": 1632.88,
+    "duration": 4.96,
+    "text": "polarizing."
+  },
+  {
+    "start": 1635.52,
+    "duration": 4.88,
+    "text": "And polariz polarizing is almost"
+  },
+  {
+    "start": 1637.84,
+    "duration": 3.92,
+    "text": "synonymous with creating contrast. If"
+  },
+  {
+    "start": 1640.4,
+    "duration": 3.2,
+    "text": "you have if you have a high degree of"
+  },
+  {
+    "start": 1641.76,
+    "duration": 3.28,
+    "text": "polarity,"
+  },
+  {
+    "start": 1643.6,
+    "duration": 2.88,
+    "text": "like if you think of like political"
+  },
+  {
+    "start": 1645.04,
+    "duration": 4.64,
+    "text": "polarity, there's also political"
+  },
+  {
+    "start": 1646.48,
+    "duration": 6.0,
+    "text": "contrast. Very very uh almost synonyms"
+  },
+  {
+    "start": 1649.68,
+    "duration": 4.64,
+    "text": "for one another."
+  },
+  {
+    "start": 1652.48,
+    "duration": 3.92,
+    "text": "So to [ __ ] who gave me this"
+  },
+  {
+    "start": 1654.32,
+    "duration": 3.92,
+    "text": "device, another open loop here. Very"
+  },
+  {
+    "start": 1656.4,
+    "duration": 4.56,
+    "text": "simple way to do this. Anytime you're"
+  },
+  {
+    "start": 1658.24,
+    "duration": 4.56,
+    "text": "speaking, always say this instead of"
+  },
+  {
+    "start": 1660.96,
+    "duration": 3.84,
+    "text": "explaining what this is because she's"
+  },
+  {
+    "start": 1662.8,
+    "duration": 3.52,
+    "text": "saying this device, I can barely see it."
+  },
+  {
+    "start": 1664.8,
+    "duration": 2.64,
+    "text": "Like I would not see this as voucher"
+  },
+  {
+    "start": 1666.32,
+    "duration": 2.16,
+    "text": "scrolling on her phone. the fact that"
+  },
+  {
+    "start": 1667.44,
+    "duration": 4.04,
+    "text": "there's something around her neck right"
+  },
+  {
+    "start": 1668.48,
+    "duration": 3.0,
+    "text": "now."
+  },
+  {
+    "start": 1674.48,
+    "duration": 3.92,
+    "text": "This is the first time I felt a brain"
+  },
+  {
+    "start": 1676.64,
+    "duration": 5.6,
+    "text": "orgasm."
+  },
+  {
+    "start": 1678.4,
+    "duration": 6.64,
+    "text": "Dope, dope, dope [ __ ] term there. Um,"
+  },
+  {
+    "start": 1682.24,
+    "duration": 4.48,
+    "text": "in all caps with an emoji and also kind"
+  },
+  {
+    "start": 1685.04,
+    "duration": 3.44,
+    "text": "of designed to look a little bit more"
+  },
+  {
+    "start": 1686.72,
+    "duration": 4.16,
+    "text": "native with this kind of like Tik Tok"
+  },
+  {
+    "start": 1688.48,
+    "duration": 4.08,
+    "text": "Instagram text. It's very, very subtle"
+  },
+  {
+    "start": 1690.88,
+    "duration": 3.28,
+    "text": "detail that I don't even know if it's"
+  },
+  {
+    "start": 1692.56,
+    "duration": 4.88,
+    "text": "intentional, but you know, it is what it"
+  },
+  {
+    "start": 1694.16,
+    "duration": 5.84,
+    "text": "is. But the brain orgasm piece is really"
+  },
+  {
+    "start": 1697.44,
+    "duration": 4.64,
+    "text": "[ __ ] sick. That's almost like a"
+  },
+  {
+    "start": 1700.0,
+    "duration": 5.12,
+    "text": "unique mechanism of the solution a"
+  },
+  {
+    "start": 1702.08,
+    "duration": 4.96,
+    "text": "little bit. Um, if not, it's just a cool"
+  },
+  {
+    "start": 1705.12,
+    "duration": 5.8,
+    "text": "term for the outcome that you can get"
+  },
+  {
+    "start": 1707.04,
+    "duration": 3.88,
+    "text": "from using this product."
+  },
+  {
+    "start": 1713.44,
+    "duration": 7.92,
+    "text": "So having [ __ ] and excuse me and"
+  },
+  {
+    "start": 1717.92,
+    "duration": 4.8,
+    "text": "orgasm in the same sentence,"
+  },
+  {
+    "start": 1721.36,
+    "duration": 4.0,
+    "text": "think about the level of contrast you're"
+  },
+  {
+    "start": 1722.72,
+    "duration": 4.72,
+    "text": "create creating there and curiosity. A"
+  },
+  {
+    "start": 1725.36,
+    "duration": 3.92,
+    "text": "lot of copy, especially hooks, is just"
+  },
+  {
+    "start": 1727.44,
+    "duration": 5.52,
+    "text": "opening as many loops as you possibly"
+  },
+  {
+    "start": 1729.28,
+    "duration": 6.8,
+    "text": "can. Opening these tabs in the brain of"
+  },
+  {
+    "start": 1732.96,
+    "duration": 4.48,
+    "text": "the person watching the video,"
+  },
+  {
+    "start": 1736.08,
+    "duration": 4.56,
+    "text": "knowing that you're going to close them"
+  },
+  {
+    "start": 1737.44,
+    "duration": 4.88,
+    "text": "later down the down the line. Now, if I"
+  },
+  {
+    "start": 1740.64,
+    "duration": 3.28,
+    "text": "were to be a psycho about this, I think"
+  },
+  {
+    "start": 1742.32,
+    "duration": 5.04,
+    "text": "the one thing that could have been done"
+  },
+  {
+    "start": 1743.92,
+    "duration": 6.24,
+    "text": "better from this text here is just the"
+  },
+  {
+    "start": 1747.36,
+    "duration": 4.16,
+    "text": "length. Because again, think of who's"
+  },
+  {
+    "start": 1750.16,
+    "duration": 3.04,
+    "text": "going to be watching this, and they're"
+  },
+  {
+    "start": 1751.52,
+    "duration": 3.12,
+    "text": "mostly going to be watching on their"
+  },
+  {
+    "start": 1753.2,
+    "duration": 3.12,
+    "text": "phone. Roughly, your phone is going to"
+  },
+  {
+    "start": 1754.64,
+    "duration": 4.08,
+    "text": "be about this size. Like, if I hold my"
+  },
+  {
+    "start": 1756.32,
+    "duration": 4.48,
+    "text": "phone up to the screen, that would be"
+  },
+  {
+    "start": 1758.72,
+    "duration": 5.52,
+    "text": "the actual size. I think I have a iPhone"
+  },
+  {
+    "start": 1760.8,
+    "duration": 5.76,
+    "text": "16. So, this is the actual size. I'm not"
+  },
+  {
+    "start": 1764.24,
+    "duration": 4.0,
+    "text": "going to read this entire thing as"
+  },
+  {
+    "start": 1766.56,
+    "duration": 4.32,
+    "text": "there's speaking going on in the"
+  },
+  {
+    "start": 1768.24,
+    "duration": 4.48,
+    "text": "background. I if this were me to adjust"
+  },
+  {
+    "start": 1770.88,
+    "duration": 4.56,
+    "text": "this and turn it to something even"
+  },
+  {
+    "start": 1772.72,
+    "duration": 4.8,
+    "text": "better, the text on screen should be way"
+  },
+  {
+    "start": 1775.44,
+    "duration": 3.36,
+    "text": "more simple. It should be shorter. It"
+  },
+  {
+    "start": 1777.52,
+    "duration": 4.08,
+    "text": "should be simple, but it should still"
+  },
+  {
+    "start": 1778.8,
+    "duration": 4.96,
+    "text": "punch."
+  },
+  {
+    "start": 1781.6,
+    "duration": 6.2,
+    "text": "So, I think the stronger piece is going"
+  },
+  {
+    "start": 1783.76,
+    "duration": 4.04,
+    "text": "to be brain orgasm."
+  },
+  {
+    "start": 1789.28,
+    "duration": 5.36,
+    "text": "Even like first time feeling a brain"
+  },
+  {
+    "start": 1792.64,
+    "duration": 6.16,
+    "text": "orgasm, that's better. Still a little"
+  },
+  {
+    "start": 1794.64,
+    "duration": 5.84,
+    "text": "bit too long. Um,"
+  },
+  {
+    "start": 1798.8,
+    "duration": 4.08,
+    "text": "I think even something as simple as like"
+  },
+  {
+    "start": 1800.48,
+    "duration": 3.76,
+    "text": "brain orgasm alone creates a ton of"
+  },
+  {
+    "start": 1802.88,
+    "duration": 2.64,
+    "text": "curiosity."
+  },
+  {
+    "start": 1804.24,
+    "duration": 3.84,
+    "text": ">> Can you see it?"
+  },
+  {
+    "start": 1805.52,
+    "duration": 5.36,
+    "text": ">> I think so. Yeah. Oh, yeah. Yeah. Yeah."
+  },
+  {
+    "start": 1808.08,
+    "duration": 4.72,
+    "text": ">> Also, just so you know how in-depth I go"
+  },
+  {
+    "start": 1810.88,
+    "duration": 3.28,
+    "text": "with these these ad reviews, do you"
+  },
+  {
+    "start": 1812.8,
+    "duration": 4.4,
+    "text": "notice how the camera angles are"
+  },
+  {
+    "start": 1814.16,
+    "duration": 5.6,
+    "text": "changing? Right. So, first initially, it"
+  },
+  {
+    "start": 1817.2,
+    "duration": 4.96,
+    "text": "actually starts in this angle. This is"
+  },
+  {
+    "start": 1819.76,
+    "duration": 4.88,
+    "text": "this is that zero minutes in the ad. It"
+  },
+  {
+    "start": 1822.16,
+    "duration": 4.56,
+    "text": "lasts for a a few milliseconds. And then"
+  },
+  {
+    "start": 1824.64,
+    "duration": 4.79,
+    "text": "it goes to a new camera angle right"
+  },
+  {
+    "start": 1826.72,
+    "duration": 4.88,
+    "text": "there. That was under one second."
+  },
+  {
+    "start": 1829.43,
+    "duration": 4.0,
+    "text": "[snorts] And now she's looking off"
+  },
+  {
+    "start": 1831.6,
+    "duration": 3.36,
+    "text": "camera, but she's looking to the other"
+  },
+  {
+    "start": 1833.44,
+    "duration": 3.84,
+    "text": "camera, but now she's looking off camera"
+  },
+  {
+    "start": 1834.96,
+    "duration": 4.8,
+    "text": "directly. And we already have a dynamic"
+  },
+  {
+    "start": 1837.28,
+    "duration": 4.08,
+    "text": "camera switch, which, you know, camera"
+  },
+  {
+    "start": 1839.76,
+    "duration": 3.6,
+    "text": "uh angle switches can also improve"
+  },
+  {
+    "start": 1841.36,
+    "duration": 3.92,
+    "text": "retention a lot because you want to keep"
+  },
+  {
+    "start": 1843.36,
+    "duration": 3.12,
+    "text": "it dynamic typically every, you know,"
+  },
+  {
+    "start": 1845.28,
+    "duration": 2.8,
+    "text": "two to four seconds."
+  },
+  {
+    "start": 1846.48,
+    "duration": 4.16,
+    "text": ">> Can you see it?"
+  },
+  {
+    "start": 1848.08,
+    "duration": 3.76,
+    "text": ">> I think so. Oh, yeah. Oh, yeah. Yeah."
+  },
+  {
+    "start": 1850.64,
+    "duration": 2.72,
+    "text": "Yeah. Oh wow."
+  },
+  {
+    "start": 1851.84,
+    "duration": 3.44,
+    "text": ">> And then whatever the [ __ ] is happening"
+  },
+  {
+    "start": 1853.36,
+    "duration": 3.12,
+    "text": "obviously is is a nice little open loop"
+  },
+  {
+    "start": 1855.28,
+    "duration": 1.6,
+    "text": "of whatever is actually happening."
+  },
+  {
+    "start": 1856.48,
+    "duration": 1.68,
+    "text": ">> Oh yeah."
+  },
+  {
+    "start": 1856.88,
+    "duration": 2.8,
+    "text": ">> Oh wow."
+  },
+  {
+    "start": 1858.16,
+    "duration": 4.0,
+    "text": ">> Oh"
+  },
+  {
+    "start": 1859.68,
+    "duration": 5.44,
+    "text": "okay. I"
+  },
+  {
+    "start": 1862.16,
+    "duration": 4.24,
+    "text": ">> All right. We get it. So when people"
+  },
+  {
+    "start": 1865.12,
+    "duration": 4.0,
+    "text": "talk about like Mark, I have this"
+  },
+  {
+    "start": 1866.4,
+    "duration": 4.4,
+    "text": "winning ad."
+  },
+  {
+    "start": 1869.12,
+    "duration": 3.12,
+    "text": "How do I make more of them? How do I"
+  },
+  {
+    "start": 1870.8,
+    "duration": 4.32,
+    "text": "make variations? How do I make"
+  },
+  {
+    "start": 1872.24,
+    "duration": 5.2,
+    "text": "iterations? And what I've what I've"
+  },
+  {
+    "start": 1875.12,
+    "duration": 4.64,
+    "text": "spoken about here for the last like five"
+  },
+  {
+    "start": 1877.44,
+    "duration": 5.04,
+    "text": "or 10 minutes is the first 5 seconds of"
+  },
+  {
+    "start": 1879.76,
+    "duration": 5.44,
+    "text": "this ad. This is 2 minutes long. I think"
+  },
+  {
+    "start": 1882.48,
+    "duration": 4.96,
+    "text": "a lot of you just don't realize the"
+  },
+  {
+    "start": 1885.2,
+    "duration": 4.16,
+    "text": "sheer level of depth you should go to"
+  },
+  {
+    "start": 1887.44,
+    "duration": 4.32,
+    "text": "when you analyze your ad creatives,"
+  },
+  {
+    "start": 1889.36,
+    "duration": 3.76,
+    "text": "especially the successful ones. Because"
+  },
+  {
+    "start": 1891.76,
+    "duration": 3.84,
+    "text": "whether you understand it or not,"
+  },
+  {
+    "start": 1893.12,
+    "duration": 5.12,
+    "text": "there's all these psychological triggers"
+  },
+  {
+    "start": 1895.6,
+    "duration": 4.56,
+    "text": "that are happening um underneath the"
+  },
+  {
+    "start": 1898.24,
+    "duration": 4.16,
+    "text": "surface that I can see as somebody who's"
+  },
+  {
+    "start": 1900.16,
+    "duration": 6.56,
+    "text": "been practicing copy for like eight"
+  },
+  {
+    "start": 1902.4,
+    "duration": 6.56,
+    "text": "years, but most people just don't see it"
+  },
+  {
+    "start": 1906.72,
+    "duration": 5.92,
+    "text": "or they just choose not to analyze this"
+  },
+  {
+    "start": 1908.96,
+    "duration": 5.52,
+    "text": "deeply because they're [ __ ] lazy. So,"
+  },
+  {
+    "start": 1912.64,
+    "duration": 4.08,
+    "text": "that was a cool ad. Uh kind of like a"
+  },
+  {
+    "start": 1914.48,
+    "duration": 4.72,
+    "text": "product demo"
+  },
+  {
+    "start": 1916.72,
+    "duration": 4.64,
+    "text": "and super high curiosity, super duper"
+  },
+  {
+    "start": 1919.2,
+    "duration": 4.32,
+    "text": "broad as well. Like this is the textbook"
+  },
+  {
+    "start": 1921.36,
+    "duration": 3.68,
+    "text": "definition of like a top offunnel"
+  },
+  {
+    "start": 1923.52,
+    "duration": 3.76,
+    "text": "creative. Even though the product is"
+  },
+  {
+    "start": 1925.04,
+    "duration": 4.24,
+    "text": "immediately being shown, this product"
+  },
+  {
+    "start": 1927.28,
+    "duration": 3.84,
+    "text": ">> product demos typically are a little bit"
+  },
+  {
+    "start": 1929.28,
+    "duration": 2.96,
+    "text": "more middle or bottom funnel, but here"
+  },
+  {
+    "start": 1931.12,
+    "duration": 2.48,
+    "text": "it's being used in a way that's"
+  },
+  {
+    "start": 1932.24,
+    "duration": 5.16,
+    "text": "definitely top of funnel. Let's move on"
+  },
+  {
+    "start": 1933.6,
+    "duration": 3.8,
+    "text": "to the next ad here."
+  },
+  {
+    "start": 1943.2,
+    "duration": 5.04,
+    "text": "All right, these guys scaling up their"
+  },
+  {
+    "start": 1945.44,
+    "duration": 5.44,
+    "text": "uh creative production as you can see"
+  },
+  {
+    "start": 1948.24,
+    "duration": 4.8,
+    "text": "already in September. have tested triple"
+  },
+  {
+    "start": 1950.88,
+    "duration": 5.16,
+    "text": "the ads that they were testing in"
+  },
+  {
+    "start": 1953.04,
+    "duration": 3.0,
+    "text": "August."
+  },
+  {
+    "start": 1956.96,
+    "duration": 4.8,
+    "text": "Let's take a look here."
+  },
+  {
+    "start": 1959.36,
+    "duration": 5.44,
+    "text": ">> Look at that. That's freaky. Ladies, if"
+  },
+  {
+    "start": 1961.76,
+    "duration": 5.84,
+    "text": "you are over 40 and"
+  },
+  {
+    "start": 1964.8,
+    "duration": 4.4,
+    "text": ">> Okay, so this is"
+  },
+  {
+    "start": 1967.6,
+    "duration": 3.68,
+    "text": "[ __ ] This one's a little bit similar to"
+  },
+  {
+    "start": 1969.2,
+    "duration": 3.6,
+    "text": "the other because it's also like showing"
+  },
+  {
+    "start": 1971.28,
+    "duration": 3.68,
+    "text": "the outcome, but it's not an actual"
+  },
+  {
+    "start": 1972.8,
+    "duration": 5.84,
+    "text": "demo. No, it is actually a demo of the"
+  },
+  {
+    "start": 1974.96,
+    "duration": 6.24,
+    "text": "product. Um, but what you have here is"
+  },
+  {
+    "start": 1978.64,
+    "duration": 4.8,
+    "text": "kind of like a micro hook into a"
+  },
+  {
+    "start": 1981.2,
+    "duration": 4.56,
+    "text": "qualifying hook. The micro hook is what"
+  },
+  {
+    "start": 1983.44,
+    "duration": 6.12,
+    "text": "you see in the first few seconds. So,"
+  },
+  {
+    "start": 1985.76,
+    "duration": 3.8,
+    "text": "let's let's check it out."
+  },
+  {
+    "start": 1990.08,
+    "duration": 2.56,
+    "text": "Also, a very very short clip in the"
+  },
+  {
+    "start": 1991.76,
+    "duration": 2.8,
+    "text": "beginning that was probably"
+  },
+  {
+    "start": 1992.64,
+    "duration": 4.32,
+    "text": "unintentional, but just, you know, I do"
+  },
+  {
+    "start": 1994.56,
+    "duration": 5.36,
+    "text": "notice the text on screen. We see bring"
+  },
+  {
+    "start": 1996.96,
+    "duration": 6.24,
+    "text": "the med spa home for one price. I think"
+  },
+  {
+    "start": 1999.92,
+    "duration": 4.8,
+    "text": "that's [ __ ] weak, but"
+  },
+  {
+    "start": 2003.2,
+    "duration": 3.44,
+    "text": "you know, it's better than nothing, I"
+  },
+  {
+    "start": 2004.72,
+    "duration": 2.88,
+    "text": "suppose."
+  },
+  {
+    "start": 2006.64,
+    "duration": 2.96,
+    "text": "Look at that."
+  },
+  {
+    "start": 2007.6,
+    "duration": 3.92,
+    "text": ">> Also, the"
+  },
+  {
+    "start": 2009.6,
+    "duration": 4.64,
+    "text": "captions on screen are relatively small."
+  },
+  {
+    "start": 2011.52,
+    "duration": 5.68,
+    "text": "I think uh it's not too bad. I guess you"
+  },
+  {
+    "start": 2014.24,
+    "duration": 4.4,
+    "text": "zoom out. This would be on your phone. I"
+  },
+  {
+    "start": 2017.2,
+    "duration": 3.92,
+    "text": "think for this market is probably okay,"
+  },
+  {
+    "start": 2018.64,
+    "duration": 4.88,
+    "text": "but I I like to be very maniacal about"
+  },
+  {
+    "start": 2021.12,
+    "duration": 5.44,
+    "text": "the size of uh text, whether it's on"
+  },
+  {
+    "start": 2023.52,
+    "duration": 5.6,
+    "text": "ads, whether it's on uh landers. Most of"
+  },
+  {
+    "start": 2026.56,
+    "duration": 4.32,
+    "text": "you probably are going to increase your"
+  },
+  {
+    "start": 2029.12,
+    "duration": 3.36,
+    "text": "conversion rate across any asset that"
+  },
+  {
+    "start": 2030.88,
+    "duration": 3.2,
+    "text": "you have if you just make the text"
+  },
+  {
+    "start": 2032.48,
+    "duration": 3.76,
+    "text": "larger."
+  },
+  {
+    "start": 2034.08,
+    "duration": 5.6,
+    "text": "Like I I remember learning this in like"
+  },
+  {
+    "start": 2036.24,
+    "duration": 5.6,
+    "text": "2020 I think from this email copywriter"
+  },
+  {
+    "start": 2039.68,
+    "duration": 3.68,
+    "text": "dude. He was like, \"Yeah, I was sending"
+  },
+  {
+    "start": 2041.84,
+    "duration": 3.52,
+    "text": "out emails to my list, you know, every"
+  },
+  {
+    "start": 2043.36,
+    "duration": 4.48,
+    "text": "single day.\" And I was running a promo"
+  },
+  {
+    "start": 2045.36,
+    "duration": 5.04,
+    "text": "and every day I just increased the font"
+  },
+  {
+    "start": 2047.84,
+    "duration": 5.04,
+    "text": "size by one or two pixels and every day"
+  },
+  {
+    "start": 2050.4,
+    "duration": 3.68,
+    "text": "my conversions went up. It was a split"
+  },
+  {
+    "start": 2052.88,
+    "duration": 2.64,
+    "text": "test he was running and it was like"
+  },
+  {
+    "start": 2054.08,
+    "duration": 3.12,
+    "text": "every single day my conversions went up"
+  },
+  {
+    "start": 2055.52,
+    "duration": 4.16,
+    "text": "and and the emails converted better and"
+  },
+  {
+    "start": 2057.2,
+    "duration": 4.4,
+    "text": "better and better."
+  },
+  {
+    "start": 2059.68,
+    "duration": 3.52,
+    "text": "So, I was like, \"Fuck, if that's true"
+  },
+  {
+    "start": 2061.6,
+    "duration": 2.8,
+    "text": "with email copyrighting, I wonder who's"
+  },
+  {
+    "start": 2063.2,
+    "duration": 4.16,
+    "text": "doing that on their landers. I wonder"
+  },
+  {
+    "start": 2064.4,
+    "duration": 5.04,
+    "text": "who's doing that in their creatives.\""
+  },
+  {
+    "start": 2067.36,
+    "duration": 3.92,
+    "text": "Clarity is one of the most important"
+  },
+  {
+    "start": 2069.44,
+    "duration": 4.24,
+    "text": "principles in copyrightiting. Don't try"
+  },
+  {
+    "start": 2071.28,
+    "duration": 4.64,
+    "text": "to impress people with how cool your"
+  },
+  {
+    "start": 2073.68,
+    "duration": 4.08,
+    "text": "copy is. Just try to be incredibly"
+  },
+  {
+    "start": 2075.92,
+    "duration": 3.04,
+    "text": "clear."
+  },
+  {
+    "start": 2077.76,
+    "duration": 3.28,
+    "text": ">> That's freaky."
+  },
+  {
+    "start": 2078.96,
+    "duration": 4.24,
+    "text": ">> So, that's kind of the micro hook here."
+  },
+  {
+    "start": 2081.04,
+    "duration": 3.68,
+    "text": "It's the first two seconds and then from"
+  },
+  {
+    "start": 2083.2,
+    "duration": 5.12,
+    "text": "two seconds to however many seconds"
+  },
+  {
+    "start": 2084.72,
+    "duration": 7.12,
+    "text": "after that, we have the qualifier."
+  },
+  {
+    "start": 2088.32,
+    "duration": 6.4,
+    "text": "Look at that. That's freaky."
+  },
+  {
+    "start": 2091.84,
+    "duration": 4.32,
+    "text": ">> Look at that. That's freaky. So, I don't"
+  },
+  {
+    "start": 2094.72,
+    "duration": 5.84,
+    "text": "have a whole lot to say here. Just kind"
+  },
+  {
+    "start": 2096.16,
+    "duration": 7.4,
+    "text": "of the the shock factor, but notice"
+  },
+  {
+    "start": 2100.56,
+    "duration": 3.0,
+    "text": "notice."
+  },
+  {
+    "start": 2106.08,
+    "duration": 4.96,
+    "text": ">> Can you see it?"
+  },
+  {
+    "start": 2108.48,
+    "duration": 6.48,
+    "text": ">> You see it? You seeing a trend here? Can"
+  },
+  {
+    "start": 2111.04,
+    "duration": 7.32,
+    "text": "you see it here?"
+  },
+  {
+    "start": 2114.96,
+    "duration": 3.4,
+    "text": ">> Look at that."
+  },
+  {
+    "start": 2118.4,
+    "duration": 6.24,
+    "text": "You [ __ ] are you [ __ ] putting two"
+  },
+  {
+    "start": 2120.56,
+    "duration": 5.68,
+    "text": "and two together little [ __ ] [ __ ]"
+  },
+  {
+    "start": 2124.64,
+    "duration": 3.76,
+    "text": "Not only a micro commitment, but the"
+  },
+  {
+    "start": 2126.24,
+    "duration": 3.76,
+    "text": "most micro commitment, most important"
+  },
+  {
+    "start": 2128.4,
+    "duration": 3.68,
+    "text": "micro commitment you could ever [ __ ]"
+  },
+  {
+    "start": 2130.0,
+    "duration": 3.28,
+    "text": "have, which is to get people to continue"
+  },
+  {
+    "start": 2132.08,
+    "duration": 3.12,
+    "text": "watching the [ __ ] ad. Look at that."
+  },
+  {
+    "start": 2133.28,
+    "duration": 4.64,
+    "text": "Do you see this? Do you [ __ ] see"
+  },
+  {
+    "start": 2135.2,
+    "duration": 6.16,
+    "text": "that? You guys ever see these videos uh"
+  },
+  {
+    "start": 2137.92,
+    "duration": 7.36,
+    "text": "trending on social media where it's like"
+  },
+  {
+    "start": 2141.36,
+    "duration": 6.32,
+    "text": "somebody's using an old audio,"
+  },
+  {
+    "start": 2145.28,
+    "duration": 4.8,
+    "text": "but it's a new video and the old audio"
+  },
+  {
+    "start": 2147.68,
+    "duration": 4.72,
+    "text": "is like, \"Whoa, look at that. Do you see"
+  },
+  {
+    "start": 2150.08,
+    "duration": 4.16,
+    "text": "that? What the [ __ ] is that?\" And then"
+  },
+  {
+    "start": 2152.4,
+    "duration": 3.28,
+    "text": "the video literally is showing nothing."
+  },
+  {
+    "start": 2154.24,
+    "duration": 3.28,
+    "text": "It's like showing nothing interesting,"
+  },
+  {
+    "start": 2155.68,
+    "duration": 4.4,
+    "text": "yet the video will have like hundreds of"
+  },
+  {
+    "start": 2157.52,
+    "duration": 4.16,
+    "text": "thousands of views because the person is"
+  },
+  {
+    "start": 2160.08,
+    "duration": 2.56,
+    "text": "continually telling them to like look at"
+  },
+  {
+    "start": 2161.68,
+    "duration": 3.12,
+    "text": "something and you're like, \"What the"
+  },
+  {
+    "start": 2162.64,
+    "duration": 4.08,
+    "text": "[ __ ] What the [ __ ] am I looking at"
+  },
+  {
+    "start": 2164.8,
+    "duration": 4.4,
+    "text": "here? And then that's just getting them"
+  },
+  {
+    "start": 2166.72,
+    "duration": 5.28,
+    "text": "cons to consume more and more and more"
+  },
+  {
+    "start": 2169.2,
+    "duration": 4.8,
+    "text": "of that video."
+  },
+  {
+    "start": 2172.0,
+    "duration": 4.24,
+    "text": "So both of these ads are doing this very"
+  },
+  {
+    "start": 2174.0,
+    "duration": 3.52,
+    "text": "very well by not only getting that micro"
+  },
+  {
+    "start": 2176.24,
+    "duration": 3.68,
+    "text": "commitment but getting them to consume"
+  },
+  {
+    "start": 2177.52,
+    "duration": 4.24,
+    "text": "more simply by using this visual"
+  },
+  {
+    "start": 2179.92,
+    "duration": 4.72,
+    "text": "explainer. Look at this. Look at that."
+  },
+  {
+    "start": 2181.76,
+    "duration": 5.76,
+    "text": "Look at me. [ __ ] you. You know"
+  },
+  {
+    "start": 2184.64,
+    "duration": 5.92,
+    "text": ">> that's freaky."
+  },
+  {
+    "start": 2187.52,
+    "duration": 4.48,
+    "text": "Ladies, if you are over 40 and menopause"
+  },
+  {
+    "start": 2190.56,
+    "duration": 3.52,
+    "text": "has started doing that little gravity"
+  },
+  {
+    "start": 2192.0,
+    "duration": 2.96,
+    "text": "trick on your face, then you need to"
+  },
+  {
+    "start": 2194.08,
+    "duration": 2.4,
+    "text": "listen up."
+  },
+  {
+    "start": 2194.96,
+    "duration": 5.2,
+    "text": ">> So, that's kind of the the qualifier"
+  },
+  {
+    "start": 2196.48,
+    "duration": 5.92,
+    "text": "hook after. Um, this was originally"
+  },
+  {
+    "start": 2200.16,
+    "duration": 3.84,
+    "text": "invented by Prince of Print himself,"
+  },
+  {
+    "start": 2202.4,
+    "duration": 4.96,
+    "text": "Sergey Halbert. This is kind of like the"
+  },
+  {
+    "start": 2204.0,
+    "duration": 5.36,
+    "text": "if then. Ultimately, you want to qualify"
+  },
+  {
+    "start": 2207.36,
+    "duration": 4.64,
+    "text": "as many people as possible within that"
+  },
+  {
+    "start": 2209.36,
+    "duration": 4.4,
+    "text": "hook. And she's going for menopause,"
+  },
+  {
+    "start": 2212.0,
+    "duration": 3.76,
+    "text": "ladies over 40, you know, skincare"
+  },
+  {
+    "start": 2213.76,
+    "duration": 4.96,
+    "text": "issues, then you need to listen up. So"
+  },
+  {
+    "start": 2215.76,
+    "duration": 4.8,
+    "text": "once again getting another tie down on"
+  },
+  {
+    "start": 2218.72,
+    "duration": 4.0,
+    "text": "why they need to watch the rest of this"
+  },
+  {
+    "start": 2220.56,
+    "duration": 4.08,
+    "text": "creative. So I don't really want to"
+  },
+  {
+    "start": 2222.72,
+    "duration": 3.84,
+    "text": "analyze the rest of this because"
+  },
+  {
+    "start": 2224.64,
+    "duration": 5.36,
+    "text": "actually let me let me break down this"
+  },
+  {
+    "start": 2226.56,
+    "duration": 4.48,
+    "text": "um very quickly the the qualifier hook"
+  },
+  {
+    "start": 2230.0,
+    "duration": 2.88,
+    "text": "because they're actually using hook"
+  },
+  {
+    "start": 2231.04,
+    "duration": 3.36,
+    "text": "stacking here which is using one hook"
+  },
+  {
+    "start": 2232.88,
+    "duration": 2.96,
+    "text": "right on top of another in order to"
+  },
+  {
+    "start": 2234.4,
+    "duration": 3.68,
+    "text": "maximize retention and get more people"
+  },
+  {
+    "start": 2235.84,
+    "duration": 4.72,
+    "text": "to watch your ad. So the first hook was"
+  },
+  {
+    "start": 2238.08,
+    "duration": 4.0,
+    "text": "like a micro hook super duper short"
+  },
+  {
+    "start": 2240.56,
+    "duration": 3.92,
+    "text": "using the product."
+  },
+  {
+    "start": 2242.08,
+    "duration": 3.44,
+    "text": ">> Look at that. That's freaky. just"
+  },
+  {
+    "start": 2244.48,
+    "duration": 2.48,
+    "text": "saying, \"Look at that.\" Getting that"
+  },
+  {
+    "start": 2245.52,
+    "duration": 2.48,
+    "text": "micro commitment. Next,"
+  },
+  {
+    "start": 2246.96,
+    "duration": 3.36,
+    "text": ">> ladies, if you"
+  },
+  {
+    "start": 2248.0,
+    "duration": 3.68,
+    "text": ">> We have the woman actually using the"
+  },
+  {
+    "start": 2250.32,
+    "duration": 3.2,
+    "text": "product the entire time. If this was"
+  },
+  {
+    "start": 2251.68,
+    "duration": 5.04,
+    "text": "just a lady looking at the camera, maybe"
+  },
+  {
+    "start": 2253.52,
+    "duration": 4.64,
+    "text": "with a product in her hand, um you're"
+  },
+  {
+    "start": 2256.72,
+    "duration": 3.44,
+    "text": "not going to get as good retention where"
+  },
+  {
+    "start": 2258.16,
+    "duration": 3.2,
+    "text": "you're compared to doing something like"
+  },
+  {
+    "start": 2260.16,
+    "duration": 2.96,
+    "text": "this where you're actively doing"
+  },
+  {
+    "start": 2261.36,
+    "duration": 4.56,
+    "text": "something. Like, I'm sure we've all also"
+  },
+  {
+    "start": 2263.12,
+    "duration": 4.88,
+    "text": "came across those videos on uh IG or"
+  },
+  {
+    "start": 2265.92,
+    "duration": 3.6,
+    "text": "other platforms where somebody's like"
+  },
+  {
+    "start": 2268.0,
+    "duration": 2.88,
+    "text": "telling a story, but they're like doing"
+  },
+  {
+    "start": 2269.52,
+    "duration": 3.2,
+    "text": "something the entire time. they're like"
+  },
+  {
+    "start": 2270.88,
+    "duration": 3.6,
+    "text": "cooking or like solving a [ __ ]"
+  },
+  {
+    "start": 2272.72,
+    "duration": 4.72,
+    "text": "Rubik's cube or like whatever they're"
+  },
+  {
+    "start": 2274.48,
+    "duration": 4.48,
+    "text": "doing something because your brain is"
+  },
+  {
+    "start": 2277.44,
+    "duration": 3.2,
+    "text": "now,"
+  },
+  {
+    "start": 2278.96,
+    "duration": 3.04,
+    "text": "you know, your ears are listening to"
+  },
+  {
+    "start": 2280.64,
+    "duration": 2.88,
+    "text": "what the person is saying, but now your"
+  },
+  {
+    "start": 2282.0,
+    "duration": 2.88,
+    "text": "eyes have something to feast upon that's"
+  },
+  {
+    "start": 2283.52,
+    "duration": 3.6,
+    "text": "not just like the person talking. It's"
+  },
+  {
+    "start": 2284.88,
+    "duration": 3.6,
+    "text": "like them accomplishing something. So,"
+  },
+  {
+    "start": 2287.12,
+    "duration": 4.32,
+    "text": "you're able to trigger even more"
+  },
+  {
+    "start": 2288.48,
+    "duration": 4.72,
+    "text": "dopamine to uh to consume the ad. Let's"
+  },
+  {
+    "start": 2291.44,
+    "duration": 4.16,
+    "text": "look at Let's look at one more. This is"
+  },
+  {
+    "start": 2293.2,
+    "duration": 6.32,
+    "text": "actually going way uh longer than I"
+  },
+  {
+    "start": 2295.6,
+    "duration": 5.6,
+    "text": "thought for for each ad, but"
+  },
+  {
+    "start": 2299.52,
+    "duration": 4.0,
+    "text": "I actually think it's better to go"
+  },
+  {
+    "start": 2301.2,
+    "duration": 4.96,
+    "text": "through viewer creatives, but go way"
+  },
+  {
+    "start": 2303.52,
+    "duration": 4.4,
+    "text": "more in-depth because dude, everybody"
+  },
+  {
+    "start": 2306.16,
+    "duration": 3.44,
+    "text": "posts these [ __ ] videos and like"
+  },
+  {
+    "start": 2307.92,
+    "duration": 2.96,
+    "text": "there's a reason that I don't post"
+  },
+  {
+    "start": 2309.6,
+    "duration": 4.08,
+    "text": "videos like this where it's like"
+  },
+  {
+    "start": 2310.88,
+    "duration": 5.52,
+    "text": "breaking down the successful ad. [ __ ]"
+  },
+  {
+    "start": 2313.68,
+    "duration": 5.52,
+    "text": "you, bro. Anybody can [ __ ] do that."
+  },
+  {
+    "start": 2316.4,
+    "duration": 4.56,
+    "text": "Anybody. I think at least I'm going"
+  },
+  {
+    "start": 2319.2,
+    "duration": 4.48,
+    "text": "really deep into this and I'm like I'm"
+  },
+  {
+    "start": 2320.96,
+    "duration": 5.76,
+    "text": "spending five plus minutes on the first"
+  },
+  {
+    "start": 2323.68,
+    "duration": 4.64,
+    "text": "two seconds of the video."
+  },
+  {
+    "start": 2326.72,
+    "duration": 3.36,
+    "text": "But these these people that are like"
+  },
+  {
+    "start": 2328.32,
+    "duration": 3.84,
+    "text": "here's why this you know ad was"
+  },
+  {
+    "start": 2330.08,
+    "duration": 5.12,
+    "text": "successful and they're like okay he had"
+  },
+  {
+    "start": 2332.16,
+    "duration": 5.44,
+    "text": "a really high curiosity hook. Like no"
+  },
+  {
+    "start": 2335.2,
+    "duration": 4.8,
+    "text": "[ __ ] [ __ ] dude like wow you"
+  },
+  {
+    "start": 2337.6,
+    "duration": 4.08,
+    "text": "understand advertising 101. You got to"
+  },
+  {
+    "start": 2340.0,
+    "duration": 5.68,
+    "text": "have a good hick. What good [ __ ]"
+  },
+  {
+    "start": 2341.68,
+    "duration": 6.8,
+    "text": "hook? This is news to me"
+  },
+  {
+    "start": 2345.68,
+    "duration": 4.48,
+    "text": "you know. [ __ ] you. Let's get Let's"
+  },
+  {
+    "start": 2348.48,
+    "duration": 4.24,
+    "text": "Let's get into some real [ __ ] [ __ ]"
+  },
+  {
+    "start": 2350.16,
+    "duration": 4.08,
+    "text": "huh? Okay,"
+  },
+  {
+    "start": 2352.72,
+    "duration": 3.6,
+    "text": "I don't remember this one. Let's see."
+  },
+  {
+    "start": 2354.24,
+    "duration": 3.68,
+    "text": "Um, really strong thumbnail, though."
+  },
+  {
+    "start": 2356.32,
+    "duration": 2.88,
+    "text": "Super strong thumbnail. Let's see what"
+  },
+  {
+    "start": 2357.92,
+    "duration": 3.76,
+    "text": "we got."
+  },
+  {
+    "start": 2359.2,
+    "duration": 3.84,
+    "text": ">> Look what this fake under eye device did"
+  },
+  {
+    "start": 2361.68,
+    "duration": 4.56,
+    "text": "to my face."
+  },
+  {
+    "start": 2363.04,
+    "duration": 5.52,
+    "text": ">> All right, let's break it down. So, we"
+  },
+  {
+    "start": 2366.24,
+    "duration": 4.0,
+    "text": "have the curse word. So, same rules"
+  },
+  {
+    "start": 2368.56,
+    "duration": 5.6,
+    "text": "apply there of of creating that"
+  },
+  {
+    "start": 2370.24,
+    "duration": 6.4,
+    "text": "polarity. Um, cur uh bleeping it out, I"
+  },
+  {
+    "start": 2374.16,
+    "duration": 6.08,
+    "text": "think, creates actually more auditory"
+  },
+  {
+    "start": 2376.64,
+    "duration": 4.96,
+    "text": "contrast as well. In the same way, uh I"
+  },
+  {
+    "start": 2380.24,
+    "duration": 3.92,
+    "text": "know audio is like not the most"
+  },
+  {
+    "start": 2381.6,
+    "duration": 4.32,
+    "text": "important thing, blah blah blah, but to"
+  },
+  {
+    "start": 2384.16,
+    "duration": 3.52,
+    "text": "create that level of contrast through"
+  },
+  {
+    "start": 2385.92,
+    "duration": 3.44,
+    "text": "the audio,"
+  },
+  {
+    "start": 2387.68,
+    "duration": 4.64,
+    "text": "um I think that's [ __ ] badass. I"
+  },
+  {
+    "start": 2389.36,
+    "duration": 4.48,
+    "text": "mean, I remember when these these songs"
+  },
+  {
+    "start": 2392.32,
+    "duration": 3.28,
+    "text": "were coming out when I was younger. I"
+  },
+  {
+    "start": 2393.84,
+    "duration": 3.76,
+    "text": "was like in middle school, and they"
+  },
+  {
+    "start": 2395.6,
+    "duration": 3.68,
+    "text": "would legitimately bleep [ __ ] out. They"
+  },
+  {
+    "start": 2397.6,
+    "duration": 3.44,
+    "text": "wouldn't just like remove the the curse"
+  },
+  {
+    "start": 2399.28,
+    "duration": 4.08,
+    "text": "word. Like, it would be like the beep"
+  },
+  {
+    "start": 2401.04,
+    "duration": 3.84,
+    "text": "like in the song. It's like my all my"
+  },
+  {
+    "start": 2403.36,
+    "duration": 2.72,
+    "text": "attention went to the beep now. like you"
+  },
+  {
+    "start": 2404.88,
+    "duration": 2.72,
+    "text": "you were trying to get me to forget"
+  },
+  {
+    "start": 2406.08,
+    "duration": 3.28,
+    "text": "about the curse word. Now I really want"
+  },
+  {
+    "start": 2407.6,
+    "duration": 3.92,
+    "text": "to [ __ ] know what what was [ __ ]"
+  },
+  {
+    "start": 2409.36,
+    "duration": 3.36,
+    "text": "happening there. Same principle here."
+  },
+  {
+    "start": 2411.52,
+    "duration": 3.76,
+    "text": "So, we actually get some really"
+  },
+  {
+    "start": 2412.72,
+    "duration": 4.24,
+    "text": "interesting uh polarity and contrast"
+  },
+  {
+    "start": 2415.28,
+    "duration": 3.44,
+    "text": "created just with that beeping sound"
+  },
+  {
+    "start": 2416.96,
+    "duration": 3.28,
+    "text": "beeping out the curse word. Plus, it's"
+  },
+  {
+    "start": 2418.72,
+    "duration": 3.76,
+    "text": "going to be more compliant on Facebook."
+  },
+  {
+    "start": 2420.24,
+    "duration": 5.28,
+    "text": "I've run stuff uh ads where you're"
+  },
+  {
+    "start": 2422.48,
+    "duration": 5.04,
+    "text": "cursing actively in the ad. And I think"
+  },
+  {
+    "start": 2425.52,
+    "duration": 4.16,
+    "text": "if it's very minimal, it has a really"
+  },
+  {
+    "start": 2427.52,
+    "duration": 3.44,
+    "text": "minimal impact on your your CPMs, your"
+  },
+  {
+    "start": 2429.68,
+    "duration": 4.24,
+    "text": "conversions overall. Like I get them"
+  },
+  {
+    "start": 2430.96,
+    "duration": 6.72,
+    "text": "approved no problem personally,"
+  },
+  {
+    "start": 2433.92,
+    "duration": 6.64,
+    "text": "but I like this better personally."
+  },
+  {
+    "start": 2437.68,
+    "duration": 4.16,
+    "text": ">> This look what this fake under eye"
+  },
+  {
+    "start": 2440.56,
+    "duration": 4.0,
+    "text": "device did to my face."
+  },
+  {
+    "start": 2441.84,
+    "duration": 6.12,
+    "text": ">> So we got one of these green screen um"
+  },
+  {
+    "start": 2444.56,
+    "duration": 3.4,
+    "text": "hooks here."
+  },
+  {
+    "start": 2449.07,
+    "duration": 4.61,
+    "text": "[laughter]"
+  },
+  {
+    "start": 2450.0,
+    "duration": 6.64,
+    "text": "Dude, I mean, wait a minute. Who the who"
+  },
+  {
+    "start": 2453.68,
+    "duration": 6.2,
+    "text": "the [ __ ] face is this?"
+  },
+  {
+    "start": 2456.64,
+    "duration": 3.24,
+    "text": "This [ __ ]"
+  },
+  {
+    "start": 2460.24,
+    "duration": 4.48,
+    "text": "This is like the Is this one of the Is"
+  },
+  {
+    "start": 2463.12,
+    "duration": 3.52,
+    "text": "this the captain of the ship from"
+  },
+  {
+    "start": 2464.72,
+    "duration": 4.0,
+    "text": "Wall-E? That [ __ ] movie of the"
+  },
+  {
+    "start": 2466.64,
+    "duration": 4.0,
+    "text": "robots?"
+  },
+  {
+    "start": 2468.72,
+    "duration": 3.93,
+    "text": "Those super overweight [ __ ] people."
+  },
+  {
+    "start": 2470.64,
+    "duration": 3.92,
+    "text": "What kind of"
+  },
+  {
+    "start": 2472.65,
+    "duration": 5.27,
+    "text": "[laughter]"
+  },
+  {
+    "start": 2474.56,
+    "duration": 5.84,
+    "text": "What kind of [ __ ] squashed faced"
+  },
+  {
+    "start": 2477.92,
+    "duration": 5.6,
+    "text": "[ __ ] skull is this"
+  },
+  {
+    "start": 2480.4,
+    "duration": 7.04,
+    "text": "[ __ ] butternut butter squash looking"
+  },
+  {
+    "start": 2483.52,
+    "duration": 5.52,
+    "text": "ass face, bro? Golly goodness gracious."
+  },
+  {
+    "start": 2487.44,
+    "duration": 3.12,
+    "text": "I don't even like looking at this."
+  },
+  {
+    "start": 2489.04,
+    "duration": 3.52,
+    "text": "That's actually a good principle though"
+  },
+  {
+    "start": 2490.56,
+    "duration": 3.84,
+    "text": "when it comes to creating like these"
+  },
+  {
+    "start": 2492.56,
+    "duration": 5.76,
+    "text": "visual the visual element of the hook"
+  },
+  {
+    "start": 2494.4,
+    "duration": 7.44,
+    "text": "here. You want to create what I call"
+  },
+  {
+    "start": 2498.32,
+    "duration": 5.6,
+    "text": "like the uh I'll just call it like the"
+  },
+  {
+    "start": 2501.84,
+    "duration": 3.6,
+    "text": "car crash effect, which is like if"
+  },
+  {
+    "start": 2503.92,
+    "duration": 3.52,
+    "text": "you're at your house and you walk"
+  },
+  {
+    "start": 2505.44,
+    "duration": 4.16,
+    "text": "outside and you're just kind of looking"
+  },
+  {
+    "start": 2507.44,
+    "duration": 5.04,
+    "text": "at the cars that are passing you and"
+  },
+  {
+    "start": 2509.6,
+    "duration": 6.96,
+    "text": "there's a bad [ __ ] accident, like"
+  },
+  {
+    "start": 2512.48,
+    "duration": 7.44,
+    "text": "really bad between two cars. You don't"
+  },
+  {
+    "start": 2516.56,
+    "duration": 5.76,
+    "text": "want to look, but you can't help but"
+  },
+  {
+    "start": 2519.92,
+    "duration": 4.4,
+    "text": "look. You know, you know that kind of"
+  },
+  {
+    "start": 2522.32,
+    "duration": 3.68,
+    "text": "feeling if you look at some really crazy"
+  },
+  {
+    "start": 2524.32,
+    "duration": 3.36,
+    "text": "native statics, it's the exact same"
+  },
+  {
+    "start": 2526.0,
+    "duration": 3.04,
+    "text": "principle. It's like I don't want to"
+  },
+  {
+    "start": 2527.68,
+    "duration": 3.68,
+    "text": "look at this. Like looking at this"
+  },
+  {
+    "start": 2529.04,
+    "duration": 4.48,
+    "text": "genuinely makes me uncomfortable, but I"
+  },
+  {
+    "start": 2531.36,
+    "duration": 3.52,
+    "text": "can't stop looking at it. That's kind of"
+  },
+  {
+    "start": 2533.52,
+    "duration": 3.84,
+    "text": "the element that you should create when"
+  },
+  {
+    "start": 2534.88,
+    "duration": 5.36,
+    "text": "it comes to your your visual piece of"
+  },
+  {
+    "start": 2537.36,
+    "duration": 5.36,
+    "text": "the hook. those squirrel stoppers is you"
+  },
+  {
+    "start": 2540.24,
+    "duration": 5.48,
+    "text": "want to make something that is"
+  },
+  {
+    "start": 2542.72,
+    "duration": 3.0,
+    "text": "borderline"
+  },
+  {
+    "start": 2546.96,
+    "duration": 4.16,
+    "text": "uncomfortable, borderline disgusting,"
+  },
+  {
+    "start": 2549.44,
+    "duration": 3.04,
+    "text": "but like you feel like you still have to"
+  },
+  {
+    "start": 2551.12,
+    "duration": 2.64,
+    "text": "look at it, you know, like you just"
+  },
+  {
+    "start": 2552.48,
+    "duration": 3.92,
+    "text": "can't look away."
+  },
+  {
+    "start": 2553.76,
+    "duration": 5.28,
+    "text": ">> This look what this"
+  },
+  {
+    "start": 2556.4,
+    "duration": 4.56,
+    "text": ">> Once again, we have the same This is"
+  },
+  {
+    "start": 2559.04,
+    "duration": 4.64,
+    "text": "crazy. I didn't intentionally pick"
+  },
+  {
+    "start": 2560.96,
+    "duration": 5.36,
+    "text": "these. Um, these were just in in one of"
+  },
+  {
+    "start": 2563.68,
+    "duration": 4.56,
+    "text": "my swipe files, but notice how all three"
+  },
+  {
+    "start": 2566.32,
+    "duration": 3.84,
+    "text": "of these ads that we have now reviewed"
+  },
+  {
+    "start": 2568.24,
+    "duration": 4.72,
+    "text": "have used the exact same concept of this"
+  },
+  {
+    "start": 2570.16,
+    "duration": 4.8,
+    "text": "micro commitment saying, \"Look at look"
+  },
+  {
+    "start": 2572.96,
+    "duration": 5.04,
+    "text": "at something in some way, shape, or"
+  },
+  {
+    "start": 2574.96,
+    "duration": 4.0,
+    "text": "form. And they're all profitable.\" Well,"
+  },
+  {
+    "start": 2578.0,
+    "duration": 3.92,
+    "text": "I don't know if they're profitable, but"
+  },
+  {
+    "start": 2578.96,
+    "duration": 5.12,
+    "text": "they're all successful ads."
+  },
+  {
+    "start": 2581.92,
+    "duration": 3.44,
+    "text": "All of them."
+  },
+  {
+    "start": 2584.08,
+    "duration": 3.28,
+    "text": "And they all use the same principle."
+  },
+  {
+    "start": 2585.36,
+    "duration": 4.48,
+    "text": "Isn't that interesting? Hm. It's almost"
+  },
+  {
+    "start": 2587.36,
+    "duration": 6.16,
+    "text": "like maybe you should [ __ ] listen"
+  },
+  {
+    "start": 2589.84,
+    "duration": 5.04,
+    "text": "listen to what I [ __ ] say. Huh? H"
+  },
+  {
+    "start": 2593.52,
+    "duration": 3.84,
+    "text": "Maybe that's a maybe that's a good"
+  },
+  {
+    "start": 2594.88,
+    "duration": 4.16,
+    "text": "[ __ ] idea. What do you think?"
+  },
+  {
+    "start": 2597.36,
+    "duration": 3.36,
+    "text": "All right."
+  },
+  {
+    "start": 2599.04,
+    "duration": 6.16,
+    "text": "In this case, we have the exact same"
+  },
+  {
+    "start": 2600.72,
+    "duration": 5.84,
+    "text": "text as we do the copy. So, there's not"
+  },
+  {
+    "start": 2605.2,
+    "duration": 3.76,
+    "text": "a ton to break down here. We have the"
+  },
+  {
+    "start": 2606.56,
+    "duration": 3.92,
+    "text": "look. We have the the cursing. Uh once"
+  },
+  {
+    "start": 2608.96,
+    "duration": 4.4,
+    "text": "again, we have underey device. The"
+  },
+  {
+    "start": 2610.48,
+    "duration": 5.28,
+    "text": "previous one also had the word sorry"
+  },
+  {
+    "start": 2613.36,
+    "duration": 4.08,
+    "text": "this one also had the word device right"
+  },
+  {
+    "start": 2615.76,
+    "duration": 5.4,
+    "text": "here"
+  },
+  {
+    "start": 2617.44,
+    "duration": 3.72,
+    "text": "did to my face."
+  },
+  {
+    "start": 2621.84,
+    "duration": 3.44,
+    "text": "I think if I were to take over this ad"
+  },
+  {
+    "start": 2623.84,
+    "duration": 4.08,
+    "text": "and I was like you know we have to step"
+  },
+  {
+    "start": 2625.28,
+    "duration": 7.2,
+    "text": "this up somehow. I would probably make"
+  },
+  {
+    "start": 2627.92,
+    "duration": 5.76,
+    "text": "this last uh this image in the back. I"
+  },
+  {
+    "start": 2632.48,
+    "duration": 3.04,
+    "text": "would make it a video and I would make"
+  },
+  {
+    "start": 2633.68,
+    "duration": 4.08,
+    "text": "it dynamic."
+  },
+  {
+    "start": 2635.52,
+    "duration": 5.6,
+    "text": ">> Thising fake under eye device did my"
+  },
+  {
+    "start": 2637.76,
+    "duration": 4.72,
+    "text": "face. Look what this fake under eye"
+  },
+  {
+    "start": 2641.12,
+    "duration": 3.28,
+    "text": "device did to my face."
+  },
+  {
+    "start": 2642.48,
+    "duration": 3.84,
+    "text": ">> Okay, that's like a whole three ass"
+  },
+  {
+    "start": 2644.4,
+    "duration": 3.68,
+    "text": "seconds right there. Like 3 seconds"
+  },
+  {
+    "start": 2646.32,
+    "duration": 3.68,
+    "text": "staring at an image. I mean, granted, we"
+  },
+  {
+    "start": 2648.08,
+    "duration": 3.28,
+    "text": "have her in video form, which is good,"
+  },
+  {
+    "start": 2650.0,
+    "duration": 6.08,
+    "text": "but if I were to take it over, I would"
+  },
+  {
+    "start": 2651.36,
+    "duration": 7.68,
+    "text": "want to see this uh X-ray scan, I guess."
+  },
+  {
+    "start": 2656.08,
+    "duration": 4.8,
+    "text": "I'd want to see it dynamically changing"
+  },
+  {
+    "start": 2659.04,
+    "duration": 3.28,
+    "text": "in a really weird way, you know, a way"
+  },
+  {
+    "start": 2660.88,
+    "duration": 5.32,
+    "text": "that makes me go like, \"What the [ __ ] I"
+  },
+  {
+    "start": 2662.32,
+    "duration": 3.88,
+    "text": "need to watch the rest of this.\""
+  },
+  {
+    "start": 2666.32,
+    "duration": 3.0,
+    "text": "So"
+  },
+  {
+    "start": 2669.52,
+    "duration": 5.92,
+    "text": "yeah, um"
+  },
+  {
+    "start": 2672.72,
+    "duration": 4.56,
+    "text": "I think at this point I'm gonna I'm"
+  },
+  {
+    "start": 2675.44,
+    "duration": 3.36,
+    "text": "going to pause because I've been I've"
+  },
+  {
+    "start": 2677.28,
+    "duration": 2.96,
+    "text": "been yapping for a bit. I was not even"
+  },
+  {
+    "start": 2678.8,
+    "duration": 3.04,
+    "text": "looking at the chat. I don't know what"
+  },
+  {
+    "start": 2680.24,
+    "duration": 4.08,
+    "text": "what's going on there, but let me take a"
+  },
+  {
+    "start": 2681.84,
+    "duration": 4.48,
+    "text": "second to look and we can move to Q&A"
+  },
+  {
+    "start": 2684.32,
+    "duration": 3.76,
+    "text": "now."
+  },
+  {
+    "start": 2686.32,
+    "duration": 3.28,
+    "text": "We can move to Q&A. So whatever"
+  },
+  {
+    "start": 2688.08,
+    "duration": 4.4,
+    "text": "questions you guys got, feel free to"
+  },
+  {
+    "start": 2689.6,
+    "duration": 4.24,
+    "text": "drop them in the chat. I got about I"
+  },
+  {
+    "start": 2692.48,
+    "duration": 3.68,
+    "text": "actually don't have that much time. I"
+  },
+  {
+    "start": 2693.84,
+    "duration": 5.68,
+    "text": "got like five minutes. I got like five"
+  },
+  {
+    "start": 2696.16,
+    "duration": 6.64,
+    "text": "minutes and I got to bounce. [snorts]"
+  },
+  {
+    "start": 2699.52,
+    "duration": 5.92,
+    "text": "Who is this guy and why is he naked?"
+  },
+  {
+    "start": 2702.8,
+    "duration": 3.92,
+    "text": "He must be new here."
+  },
+  {
+    "start": 2705.44,
+    "duration": 2.96,
+    "text": "Yeah, let's drop some questions in the"
+  },
+  {
+    "start": 2706.72,
+    "duration": 5.76,
+    "text": "chat, guys. I'll I'll rapid fire get to"
+  },
+  {
+    "start": 2708.4,
+    "duration": 7.64,
+    "text": "as many um"
+  },
+  {
+    "start": 2712.48,
+    "duration": 3.56,
+    "text": "as many [ __ ]"
+  },
+  {
+    "start": 2716.64,
+    "duration": 4.36,
+    "text": "as many [ __ ] people as I can."
+  },
+  {
+    "start": 2723.52,
+    "duration": 2.02,
+    "text": ">> [snorts]"
+  },
+  {
+    "start": 2725.68,
+    "duration": 4.56,
+    "text": ">> Okay, great question. Young JB,"
+  },
+  {
+    "start": 2728.56,
+    "duration": 3.44,
+    "text": "good to see you, bro. Hey, Mark, how do"
+  },
+  {
+    "start": 2730.24,
+    "duration": 3.52,
+    "text": "you know when you're either not selling"
+  },
+  {
+    "start": 2732.0,
+    "duration": 3.68,
+    "text": "somebody enough on the ad or landing"
+  },
+  {
+    "start": 2733.76,
+    "duration": 3.68,
+    "text": "page when you have good CTR but no"
+  },
+  {
+    "start": 2735.68,
+    "duration": 2.72,
+    "text": "sales? It's one of the most difficult"
+  },
+  {
+    "start": 2737.44,
+    "duration": 3.2,
+    "text": "things, bro, when it comes to"
+  },
+  {
+    "start": 2738.4,
+    "duration": 4.08,
+    "text": "advertising because you have to be able"
+  },
+  {
+    "start": 2740.64,
+    "duration": 4.56,
+    "text": "to read the data, but you also have to"
+  },
+  {
+    "start": 2742.48,
+    "duration": 4.4,
+    "text": "be able to read between the data. So, if"
+  },
+  {
+    "start": 2745.2,
+    "duration": 3.84,
+    "text": "you have really good CTR, I'd want to"
+  },
+  {
+    "start": 2746.88,
+    "duration": 3.36,
+    "text": "know what CTR because a good CTR means"
+  },
+  {
+    "start": 2749.04,
+    "duration": 4.0,
+    "text": "like different things to different"
+  },
+  {
+    "start": 2750.24,
+    "duration": 4.56,
+    "text": "people. But I would say if you have a"
+  },
+  {
+    "start": 2753.04,
+    "duration": 7.2,
+    "text": "really good CTR, let's say it's above"
+  },
+  {
+    "start": 2754.8,
+    "duration": 8.8,
+    "text": "like 5%. Um, but no sales,"
+  },
+  {
+    "start": 2760.24,
+    "duration": 5.44,
+    "text": "you got to break down your metrics"
+  },
+  {
+    "start": 2763.6,
+    "duration": 4.08,
+    "text": "associated with your funnel first to see"
+  },
+  {
+    "start": 2765.68,
+    "duration": 4.16,
+    "text": "what is within KPI and what is outside"
+  },
+  {
+    "start": 2767.68,
+    "duration": 4.72,
+    "text": "KPI. It's really easy to spend money on"
+  },
+  {
+    "start": 2769.84,
+    "duration": 5.44,
+    "text": "ads and be like, \"My CTR is great. No"
+  },
+  {
+    "start": 2772.4,
+    "duration": 4.96,
+    "text": "sales.\" uh you know, but it was like why"
+  },
+  {
+    "start": 2775.28,
+    "duration": 4.64,
+    "text": "was there no sales?"
+  },
+  {
+    "start": 2777.36,
+    "duration": 5.76,
+    "text": "Let's let's isolate it first to rule out"
+  },
+  {
+    "start": 2779.92,
+    "duration": 5.2,
+    "text": "every possible reason why it's maybe not"
+  },
+  {
+    "start": 2783.12,
+    "duration": 4.16,
+    "text": "the lander. Okay, let's look at the link"
+  },
+  {
+    "start": 2785.12,
+    "duration": 3.76,
+    "text": "click to landing page view drop off. It"
+  },
+  {
+    "start": 2787.28,
+    "duration": 3.76,
+    "text": "should be no more than 20%. Let's look"
+  },
+  {
+    "start": 2788.88,
+    "duration": 5.52,
+    "text": "at the add to cart ratio for products"
+  },
+  {
+    "start": 2791.04,
+    "duration": 5.52,
+    "text": "like in the 40 to $80 price ration price"
+  },
+  {
+    "start": 2794.4,
+    "duration": 4.16,
+    "text": "range. It should be like 8 to 10%. More"
+  },
+  {
+    "start": 2796.56,
+    "duration": 3.52,
+    "text": "than $80, it should be like seven or"
+  },
+  {
+    "start": 2798.56,
+    "duration": 3.6,
+    "text": "eight%."
+  },
+  {
+    "start": 2800.08,
+    "duration": 4.0,
+    "text": "So, is that within KPI? Yes. No. Cool."
+  },
+  {
+    "start": 2802.16,
+    "duration": 3.92,
+    "text": "How about add to cart to purchase ratio?"
+  },
+  {
+    "start": 2804.08,
+    "duration": 4.24,
+    "text": "Um, for most products, it should be"
+  },
+  {
+    "start": 2806.08,
+    "duration": 3.44,
+    "text": "around 30%. So, if you get 10 add to"
+  },
+  {
+    "start": 2808.32,
+    "duration": 2.88,
+    "text": "carts, at least three should go through"
+  },
+  {
+    "start": 2809.52,
+    "duration": 3.6,
+    "text": "and purchase. Okay, which one of those"
+  },
+  {
+    "start": 2811.2,
+    "duration": 4.48,
+    "text": "is outside of KPI? There's a different"
+  },
+  {
+    "start": 2813.12,
+    "duration": 5.04,
+    "text": "answer to all of those. So, for most"
+  },
+  {
+    "start": 2815.68,
+    "duration": 3.92,
+    "text": "people, it's add to cart ratio. And you"
+  },
+  {
+    "start": 2818.16,
+    "duration": 3.36,
+    "text": "have to be able to look at your lander"
+  },
+  {
+    "start": 2819.6,
+    "duration": 3.92,
+    "text": "and then go back to your creative and"
+  },
+  {
+    "start": 2821.52,
+    "duration": 5.12,
+    "text": "rewatch it, reread it if it's like a"
+  },
+  {
+    "start": 2823.52,
+    "duration": 4.96,
+    "text": "native static, and understand the kind"
+  },
+  {
+    "start": 2826.64,
+    "duration": 4.16,
+    "text": "of traffic that you are attracting"
+  },
+  {
+    "start": 2828.48,
+    "duration": 3.92,
+    "text": "through your marketing words. Because"
+  },
+  {
+    "start": 2830.8,
+    "duration": 4.32,
+    "text": "something that Facebook does not admit,"
+  },
+  {
+    "start": 2832.4,
+    "duration": 5.12,
+    "text": "but they 100% do is they use your"
+  },
+  {
+    "start": 2835.12,
+    "duration": 6.08,
+    "text": "primary text to determine your targeting"
+  },
+  {
+    "start": 2837.52,
+    "duration": 6.32,
+    "text": "to to some degree. 100%. Maybe it's only"
+  },
+  {
+    "start": 2841.2,
+    "duration": 4.56,
+    "text": "10% of their uh information that they"
+  },
+  {
+    "start": 2843.84,
+    "duration": 3.04,
+    "text": "use to determine targeting. But the"
+  },
+  {
+    "start": 2845.76,
+    "duration": 2.72,
+    "text": "reason I can say this with such"
+  },
+  {
+    "start": 2846.88,
+    "duration": 2.96,
+    "text": "confidence is because if you run"
+  },
+  {
+    "start": 2848.48,
+    "duration": 4.48,
+    "text": "something like a native static, you"
+  },
+  {
+    "start": 2849.84,
+    "duration": 5.52,
+    "text": "know, if you simply change the text, the"
+  },
+  {
+    "start": 2852.96,
+    "duration": 4.0,
+    "text": "primary text, you can target completely"
+  },
+  {
+    "start": 2855.36,
+    "duration": 3.6,
+    "text": "different kinds of people. If it was"
+  },
+  {
+    "start": 2856.96,
+    "duration": 4.08,
+    "text": "only targeting based off the creative,"
+  },
+  {
+    "start": 2858.96,
+    "duration": 3.68,
+    "text": "you would never come to that conclusion."
+  },
+  {
+    "start": 2861.04,
+    "duration": 3.28,
+    "text": "So that's how you know it's not just the"
+  },
+  {
+    "start": 2862.64,
+    "duration": 2.96,
+    "text": "creative that determines your targeting."
+  },
+  {
+    "start": 2864.32,
+    "duration": 2.72,
+    "text": "It's the creative and the copy. That's"
+  },
+  {
+    "start": 2865.6,
+    "duration": 3.76,
+    "text": "especially true for images. It's less"
+  },
+  {
+    "start": 2867.04,
+    "duration": 5.84,
+    "text": "true for videos. But in general, you"
+  },
+  {
+    "start": 2869.36,
+    "duration": 5.6,
+    "text": "have to go and read your uh creative and"
+  },
+  {
+    "start": 2872.88,
+    "duration": 4.88,
+    "text": "read your copy associated with it. What"
+  },
+  {
+    "start": 2874.96,
+    "duration": 5.28,
+    "text": "I see super frequently, bro, is a lot of"
+  },
+  {
+    "start": 2877.76,
+    "duration": 3.76,
+    "text": "guys try to like CTR max on their"
+  },
+  {
+    "start": 2880.24,
+    "duration": 3.04,
+    "text": "creatives now with native status."
+  },
+  {
+    "start": 2881.52,
+    "duration": 4.32,
+    "text": "They're like, \"Oh, look at me. I got 30%"
+  },
+  {
+    "start": 2883.28,
+    "duration": 4.48,
+    "text": "[ __ ] CTR. Oh, I'm at like a 10% CTR"
+  },
+  {
+    "start": 2885.84,
+    "duration": 3.2,
+    "text": "link. Then you read the copy and you're"
+  },
+  {
+    "start": 2887.76,
+    "duration": 2.64,
+    "text": "like, look at the people you're speaking"
+  },
+  {
+    "start": 2889.04,
+    "duration": 3.76,
+    "text": "to, bro. Like, these people have no"
+  },
+  {
+    "start": 2890.4,
+    "duration": 4.08,
+    "text": "interest in buying from you. So, now"
+  },
+  {
+    "start": 2892.8,
+    "duration": 4.16,
+    "text": "you're just optimizing around these"
+  },
+  {
+    "start": 2894.48,
+    "duration": 4.96,
+    "text": "people. Um, because if Facebook doesn't"
+  },
+  {
+    "start": 2896.96,
+    "duration": 3.84,
+    "text": "have any conversion data to optimize on,"
+  },
+  {
+    "start": 2899.44,
+    "duration": 3.6,
+    "text": "they're going to initially use a little"
+  },
+  {
+    "start": 2900.8,
+    "duration": 5.52,
+    "text": "bit of the engagement data. And once"
+  },
+  {
+    "start": 2903.04,
+    "duration": 4.8,
+    "text": "again, the targeting partially is due to"
+  },
+  {
+    "start": 2906.32,
+    "duration": 3.92,
+    "text": "the text that you have in your primary"
+  },
+  {
+    "start": 2907.84,
+    "duration": 5.76,
+    "text": "copy. So unfortunately I can't tell you"
+  },
+  {
+    "start": 2910.24,
+    "duration": 4.32,
+    "text": "just like you know exactly what it is"
+  },
+  {
+    "start": 2913.6,
+    "duration": 2.24,
+    "text": "for you because I don't know your"
+  },
+  {
+    "start": 2914.56,
+    "duration": 3.36,
+    "text": "numbers and your data and I haven't seen"
+  },
+  {
+    "start": 2915.84,
+    "duration": 3.68,
+    "text": "your ads but it should be a combination"
+  },
+  {
+    "start": 2917.92,
+    "duration": 4.4,
+    "text": "of reading the data and reading between"
+  },
+  {
+    "start": 2919.52,
+    "duration": 5.12,
+    "text": "the data to understand most often what I"
+  },
+  {
+    "start": 2922.32,
+    "duration": 3.6,
+    "text": "see is people going way way way too top"
+  },
+  {
+    "start": 2924.64,
+    "duration": 4.4,
+    "text": "of funnel. They run like these native"
+  },
+  {
+    "start": 2925.92,
+    "duration": 5.12,
+    "text": "statics that the the hook is like my dog"
+  },
+  {
+    "start": 2929.04,
+    "duration": 4.4,
+    "text": "died and it's my fault. They're like,"
+  },
+  {
+    "start": 2931.04,
+    "duration": 4.0,
+    "text": "\"Oh, Jesus Christ, bro.\" Like, yes, of"
+  },
+  {
+    "start": 2933.44,
+    "duration": 4.72,
+    "text": "course you have a 50% [ __ ]"
+  },
+  {
+    "start": 2935.04,
+    "duration": 4.72,
+    "text": "click-through rate. And then somehow"
+  },
+  {
+    "start": 2938.16,
+    "duration": 4.96,
+    "text": "you got to [ __ ] tie the [ __ ] into"
+  },
+  {
+    "start": 2939.76,
+    "duration": 4.8,
+    "text": "like a joint supplement for a dog."
+  },
+  {
+    "start": 2943.12,
+    "duration": 3.12,
+    "text": "That's not easy to do. Like, it's"
+  },
+  {
+    "start": 2944.56,
+    "duration": 3.6,
+    "text": "possible. And if you crack it, cool. You"
+  },
+  {
+    "start": 2946.24,
+    "duration": 4.72,
+    "text": "got the most scalable ads on the [ __ ]"
+  },
+  {
+    "start": 2948.16,
+    "duration": 4.08,
+    "text": "planet. But if you don't,"
+  },
+  {
+    "start": 2950.96,
+    "duration": 2.56,
+    "text": "now you're just attracting really,"
+  },
+  {
+    "start": 2952.24,
+    "duration": 3.28,
+    "text": "really [ __ ] people that just want to"
+  },
+  {
+    "start": 2953.52,
+    "duration": 4.4,
+    "text": "read an interesting story and have no"
+  },
+  {
+    "start": 2955.52,
+    "duration": 4.72,
+    "text": "desire in buying your product. Not"
+  },
+  {
+    "start": 2957.92,
+    "duration": 3.44,
+    "text": "saying it can't work. It can work. But"
+  },
+  {
+    "start": 2960.24,
+    "duration": 2.64,
+    "text": "the degree to which you have to be"
+  },
+  {
+    "start": 2961.36,
+    "duration": 4.0,
+    "text": "really [ __ ] good at copywriting"
+  },
+  {
+    "start": 2962.88,
+    "duration": 3.76,
+    "text": "exponentially increases the more top of"
+  },
+  {
+    "start": 2965.36,
+    "duration": 4.08,
+    "text": "funnel you go when it comes to your"
+  },
+  {
+    "start": 2966.64,
+    "duration": 4.16,
+    "text": "copy."
+  },
+  {
+    "start": 2969.44,
+    "duration": 3.12,
+    "text": "I don't think people will understand how"
+  },
+  {
+    "start": 2970.8,
+    "duration": 6.12,
+    "text": "valuable what I just said actually is."
+  },
+  {
+    "start": 2972.56,
+    "duration": 4.36,
+    "text": "But like if you know then you know"
+  },
+  {
+    "start": 2984.24,
+    "duration": 3.28,
+    "text": "how important is a thumbnail considering"
+  },
+  {
+    "start": 2986.0,
+    "duration": 3.2,
+    "text": "people mostly get into the ad by"
+  },
+  {
+    "start": 2987.52,
+    "duration": 4.88,
+    "text": "scrolling. It used to be way more"
+  },
+  {
+    "start": 2989.2,
+    "duration": 4.64,
+    "text": "important. Now ads are autoplayed. So I"
+  },
+  {
+    "start": 2992.4,
+    "duration": 3.04,
+    "text": "think it's it's really not like I don't"
+  },
+  {
+    "start": 2993.84,
+    "duration": 4.0,
+    "text": "I don't put much emphasis really on the"
+  },
+  {
+    "start": 2995.44,
+    "duration": 5.12,
+    "text": "thumbnail at all anymore."
+  },
+  {
+    "start": 2997.84,
+    "duration": 4.0,
+    "text": "Um, hey, I have a 3.5% conversion rate,"
+  },
+  {
+    "start": 3000.56,
+    "duration": 2.72,
+    "text": "but my ad cost is higher than my"
+  },
+  {
+    "start": 3001.84,
+    "duration": 3.12,
+    "text": "earnings. Should I drop that product or"
+  },
+  {
+    "start": 3003.28,
+    "duration": 2.96,
+    "text": "test different ads? Read the data, bro."
+  },
+  {
+    "start": 3004.96,
+    "duration": 2.96,
+    "text": "If you have a three and a half%"
+  },
+  {
+    "start": 3006.24,
+    "duration": 3.12,
+    "text": "conversion rate, that's really good. You"
+  },
+  {
+    "start": 3007.92,
+    "duration": 3.92,
+    "text": "may just need to make better ads to"
+  },
+  {
+    "start": 3009.36,
+    "duration": 4.8,
+    "text": "lower your CPC. So it depends on what"
+  },
+  {
+    "start": 3011.84,
+    "duration": 4.08,
+    "text": "your CPC actually is and where the"
+  },
+  {
+    "start": 3014.16,
+    "duration": 2.96,
+    "text": "breakdown is occurring on your creative"
+  },
+  {
+    "start": 3015.92,
+    "duration": 3.92,
+    "text": "side because your funnel is obviously"
+  },
+  {
+    "start": 3017.12,
+    "duration": 7.8,
+    "text": "converting really, really well. So most"
+  },
+  {
+    "start": 3019.84,
+    "duration": 5.08,
+    "text": "likely the answer is make better ads."
+  },
+  {
+    "start": 3032.48,
+    "duration": 3.2,
+    "text": "How do you niche down in life? Pick a"
+  },
+  {
+    "start": 3034.08,
+    "duration": 5.16,
+    "text": "skill and get good at it, especially not"
+  },
+  {
+    "start": 3035.68,
+    "duration": 3.56,
+    "text": "from first world."
+  },
+  {
+    "start": 3039.28,
+    "duration": 3.0,
+    "text": "Um,"
+  },
+  {
+    "start": 3042.64,
+    "duration": 5.28,
+    "text": "bro, I think the best the best advice I"
+  },
+  {
+    "start": 3045.76,
+    "duration": 4.88,
+    "text": "could give you is don't even don't even"
+  },
+  {
+    "start": 3047.92,
+    "duration": 5.84,
+    "text": "try and just"
+  },
+  {
+    "start": 3050.64,
+    "duration": 5.68,
+    "text": "let me finish. Don't even try to go do"
+  },
+  {
+    "start": 3053.76,
+    "duration": 5.36,
+    "text": "all this research to figure out what you"
+  },
+  {
+    "start": 3056.32,
+    "duration": 4.32,
+    "text": "should center your life around. Just try"
+  },
+  {
+    "start": 3059.12,
+    "duration": 4.0,
+    "text": "[ __ ] Just start getting your hands"
+  },
+  {
+    "start": 3060.64,
+    "duration": 4.64,
+    "text": "dirty. test a bunch of things that you"
+  },
+  {
+    "start": 3063.12,
+    "duration": 3.52,
+    "text": "think are a little bit interesting and"
+  },
+  {
+    "start": 3065.28,
+    "duration": 3.28,
+    "text": "see where it takes you because you're"
+  },
+  {
+    "start": 3066.64,
+    "duration": 3.12,
+    "text": "going to learn very quickly if it's"
+  },
+  {
+    "start": 3068.56,
+    "duration": 2.8,
+    "text": "actually something for you, something"
+  },
+  {
+    "start": 3069.76,
+    "duration": 3.44,
+    "text": "that you're interested in and something"
+  },
+  {
+    "start": 3071.36,
+    "duration": 3.92,
+    "text": "that's going to help you, you know,"
+  },
+  {
+    "start": 3073.2,
+    "duration": 3.12,
+    "text": "achieve your your goals with your life."
+  },
+  {
+    "start": 3075.28,
+    "duration": 2.56,
+    "text": "You're going to learn that really"
+  },
+  {
+    "start": 3076.32,
+    "duration": 2.96,
+    "text": "quickly. And the only way you're going"
+  },
+  {
+    "start": 3077.84,
+    "duration": 3.28,
+    "text": "to know that, it's not the research."
+  },
+  {
+    "start": 3079.28,
+    "duration": 4.08,
+    "text": "It's just through actually doing it. So,"
+  },
+  {
+    "start": 3081.12,
+    "duration": 7.0,
+    "text": "the faster you can get into just testing"
+  },
+  {
+    "start": 3083.36,
+    "duration": 4.76,
+    "text": "[ __ ] testing [ __ ] the better."
+  },
+  {
+    "start": 3099.68,
+    "duration": 4.56,
+    "text": "All right, I'm not going to lie. These"
+  },
+  {
+    "start": 3100.72,
+    "duration": 6.96,
+    "text": "these [ __ ] questions suck. So,"
+  },
+  {
+    "start": 3104.24,
+    "duration": 5.52,
+    "text": "I'm sorry. Go rewatch this [ __ ] live"
+  },
+  {
+    "start": 3107.68,
+    "duration": 3.2,
+    "text": "and a few other lives. And that's all I"
+  },
+  {
+    "start": 3109.76,
+    "duration": 2.64,
+    "text": "got for today. Thank you guys so much"
+  },
+  {
+    "start": 3110.88,
+    "duration": 3.28,
+    "text": "for being here. Other than that, I'm"
+  },
+  {
+    "start": 3112.4,
+    "duration": 4.4,
+    "text": "going to cue the outro because I got to"
+  },
+  {
+    "start": 3114.16,
+    "duration": 4.88,
+    "text": "get out of here pretty soon. But thank"
+  },
+  {
+    "start": 3116.8,
+    "duration": 4.48,
+    "text": "you for being here. Share it with a"
+  },
+  {
+    "start": 3119.04,
+    "duration": 4.48,
+    "text": "friend or something, bro. Oh, you know"
+  },
+  {
+    "start": 3121.28,
+    "duration": 5.6,
+    "text": "what? I got some [ __ ] I got some ball"
+  },
+  {
+    "start": 3123.52,
+    "duration": 7.8,
+    "text": "knowledge today. [snorts]"
+  },
+  {
+    "start": 3126.88,
+    "duration": 4.44,
+    "text": "I went down a rabbit hole last night."
+  },
+  {
+    "start": 3142.08,
+    "duration": 5.48,
+    "text": "this morning about my [ __ ] I'm bing."
+  },
+  {
+    "start": 3144.56,
+    "duration": 3.0,
+    "text": "She"
+  },
+  {
+    "start": 3149.93,
+    "duration": 2.71,
+    "text": "[music]"
+  },
+  {
+    "start": 3151.12,
+    "duration": 3.84,
+    "text": "pushing the limit. I'm pushing it up."
+  },
+  {
+    "start": 3152.64,
+    "duration": 4.5,
+    "text": "[ __ ] it up. I'm back with your [ __ ]"
+  },
+  {
+    "start": 3154.96,
+    "duration": 3.12,
+    "text": "She g it up."
+  },
+  {
+    "start": 3157.14,
+    "duration": 4.54,
+    "text": "[music]"
+  },
+  {
+    "start": 3158.08,
+    "duration": 5.52,
+    "text": "Like I'm got a lot of money. I can't"
+  },
+  {
+    "start": 3161.68,
+    "duration": 4.0,
+    "text": "relate to you. I don't know what [music]"
+  },
+  {
+    "start": 3163.6,
+    "duration": 4.24,
+    "text": "the time you talk to me. Sounded dumb as"
+  },
+  {
+    "start": 3165.68,
+    "duration": 4.0,
+    "text": "[ __ ]"
+  },
+  {
+    "start": 3167.84,
+    "duration": 4.84,
+    "text": "If you could understand me, [music] I'll"
+  },
+  {
+    "start": 3169.68,
+    "duration": 3.0,
+    "text": "ass."
+  },
+  {
+    "start": 3176.16,
+    "duration": 4.96,
+    "text": ">> I'm pushing the limit. I'm pushing it"
+  },
+  {
+    "start": 3177.46,
+    "duration": 3.66,
+    "text": "[music] up. I'm [ __ ] it up."
+  }
+]

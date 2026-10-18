@@ -1,0 +1,4396 @@
+1
+00:00:00,040 --> 00:00:02,760
+in this video I'm going to show you
+
+2
+00:00:01,360 --> 00:00:05,280
+everything that you need to know to
+
+3
+00:00:02,760 --> 00:00:07,120
+launch your first successful Facebook ad
+
+4
+00:00:05,280 --> 00:00:08,320
+campaign from complete scratch this
+
+5
+00:00:07,120 --> 00:00:09,840
+video is designed to get you from
+
+6
+00:00:08,320 --> 00:00:12,200
+somebody who maybe doesn't know a whole
+
+7
+00:00:09,840 --> 00:00:15,120
+lot if anything about launching Facebook
+
+8
+00:00:12,200 --> 00:00:16,440
+ads to a literal freaking ads expert
+
+9
+00:00:15,120 --> 00:00:18,160
+somebody who just hops in the ads
+
+10
+00:00:16,440 --> 00:00:19,520
+manager and starts printing money
+
+11
+00:00:18,160 --> 00:00:21,400
+practically on demand and if you don't
+
+12
+00:00:19,520 --> 00:00:23,080
+know who I am my name is Mark studor and
+
+13
+00:00:21,400 --> 00:00:24,720
+as you can tell by my shirt I run ads
+
+14
+00:00:23,080 --> 00:00:26,120
+for a living so who better to learn from
+
+15
+00:00:24,720 --> 00:00:27,480
+than somebody who does this every single
+
+16
+00:00:26,120 --> 00:00:28,880
+day after you're fully logged into your
+
+17
+00:00:27,480 --> 00:00:31,440
+Facebook account the first thing that
+
+18
+00:00:28,880 --> 00:00:33,680
+you want to do is go go to business.
+
+19
+00:00:31,440 --> 00:00:35,760
+face.com and the first thing we're going
+
+20
+00:00:33,680 --> 00:00:37,640
+to do is set up what's called a business
+
+21
+00:00:35,760 --> 00:00:39,000
+manager you can see this is the first
+
+22
+00:00:37,640 --> 00:00:40,600
+screen that we see right here it's going
+
+23
+00:00:39,000 --> 00:00:42,360
+to pre-fill in your name so with
+
+24
+00:00:40,600 --> 00:00:44,000
+Facebook there's this infrastructure
+
+25
+00:00:42,360 --> 00:00:45,280
+where at the very top you have a
+
+26
+00:00:44,000 --> 00:00:47,760
+business manager you want to think of
+
+27
+00:00:45,280 --> 00:00:49,200
+this as a house and inside of the house
+
+28
+00:00:47,760 --> 00:00:50,880
+there's a bunch of different rooms that
+
+29
+00:00:49,200 --> 00:00:52,840
+you can have such as you can have a room
+
+30
+00:00:50,880 --> 00:00:54,800
+for the ad accounts you can have a room
+
+31
+00:00:52,840 --> 00:00:56,560
+for the pixels the business manager is
+
+32
+00:00:54,800 --> 00:00:57,640
+what holds all of that together so if
+
+33
+00:00:56,560 --> 00:00:59,040
+you're building a house you're going to
+
+34
+00:00:57,640 --> 00:01:00,680
+start from the outside in you're not
+
+35
+00:00:59,040 --> 00:01:02,000
+going to start by building one of the
+
+36
+00:01:00,680 --> 00:01:03,960
+smallest rooms right you're going to
+
+37
+00:01:02,000 --> 00:01:05,680
+start by building the foundation and
+
+38
+00:01:03,960 --> 00:01:06,800
+actually building the house first before
+
+39
+00:01:05,680 --> 00:01:08,240
+anything else so that's what we're doing
+
+40
+00:01:06,800 --> 00:01:09,680
+right here you want to start by naming
+
+41
+00:01:08,240 --> 00:01:11,160
+your business manager you can name it
+
+42
+00:01:09,680 --> 00:01:13,240
+whatever you want I'll just call mine
+
+43
+00:01:11,160 --> 00:01:14,640
+marks BM and then here you're going to
+
+44
+00:01:13,240 --> 00:01:16,080
+have your name and lastly down below
+
+45
+00:01:14,640 --> 00:01:17,640
+just add your email that you want to use
+
+46
+00:01:16,080 --> 00:01:18,680
+to be associated with the business and
+
+47
+00:01:17,640 --> 00:01:19,920
+then you're just going to click submit
+
+48
+00:01:18,680 --> 00:01:21,440
+right here and boom there you go your
+
+49
+00:01:19,920 --> 00:01:23,000
+business manager was created great job
+
+50
+00:01:21,440 --> 00:01:25,080
+you're doing great so far now you just
+
+51
+00:01:23,000 --> 00:01:26,920
+are going to have to confirm your email
+
+52
+00:01:25,080 --> 00:01:28,760
+address so go over to your Gmail account
+
+53
+00:01:26,920 --> 00:01:30,360
+or whatever you're using and click the
+
+54
+00:01:28,760 --> 00:01:32,360
+link inside of that email to actually
+
+55
+00:01:30,360 --> 00:01:33,720
+confirm the creation of the business
+
+56
+00:01:32,360 --> 00:01:35,320
+manager so here you can see we got the
+
+57
+00:01:33,720 --> 00:01:37,240
+email we're just going to click in here
+
+58
+00:01:35,320 --> 00:01:39,040
+and just hit confirm now and there you
+
+59
+00:01:37,240 --> 00:01:40,640
+have it you've officially created your
+
+60
+00:01:39,040 --> 00:01:41,960
+first business manager great work you're
+
+61
+00:01:40,640 --> 00:01:43,240
+doing so good so now that you're in the
+
+62
+00:01:41,960 --> 00:01:44,800
+business manager the first thing you
+
+63
+00:01:43,240 --> 00:01:46,440
+want to do is scroll all the way to the
+
+64
+00:01:44,800 --> 00:01:48,200
+bottom on the left side and click
+
+65
+00:01:46,440 --> 00:01:49,400
+business info and here you're going to
+
+66
+00:01:48,200 --> 00:01:50,960
+select edits and you're actually going
+
+67
+00:01:49,400 --> 00:01:52,040
+to go through and insert all the
+
+68
+00:01:50,960 --> 00:01:53,640
+information that you have that's
+
+69
+00:01:52,040 --> 00:01:55,800
+associated with your business now if you
+
+70
+00:01:53,640 --> 00:01:57,400
+don't have a business that's okay just
+
+71
+00:01:55,800 --> 00:01:59,280
+fill out the information that is
+
+72
+00:01:57,400 --> 00:02:00,400
+associated with you personally and then
+
+73
+00:01:59,280 --> 00:02:02,040
+when you do create the business
+
+74
+00:02:00,400 --> 00:02:03,680
+eventually down the line you can come
+
+75
+00:02:02,040 --> 00:02:05,640
+and update this information at any time
+
+76
+00:02:03,680 --> 00:02:06,960
+no biggie so where it says legal name of
+
+77
+00:02:05,640 --> 00:02:09,120
+business if you don't have a business
+
+78
+00:02:06,960 --> 00:02:10,840
+you can just put you know your own name
+
+79
+00:02:09,120 --> 00:02:12,240
+right here and Country obviously the
+
+80
+00:02:10,840 --> 00:02:13,600
+country that you are staying same thing
+
+81
+00:02:12,240 --> 00:02:16,000
+with the street address again if you
+
+82
+00:02:13,600 --> 00:02:17,480
+don't have a specific business address
+
+83
+00:02:16,000 --> 00:02:18,760
+just use the one that is associated with
+
+84
+00:02:17,480 --> 00:02:20,040
+your residential address it's fine you
+
+85
+00:02:18,760 --> 00:02:21,360
+can always come back and change it later
+
+86
+00:02:20,040 --> 00:02:22,400
+down the line it's not a big deal after
+
+87
+00:02:21,360 --> 00:02:23,920
+you finished all that you're going to
+
+88
+00:02:22,400 --> 00:02:25,080
+just hit save in the bottom right hand
+
+89
+00:02:23,920 --> 00:02:27,520
+corner now that you're back in the main
+
+90
+00:02:25,080 --> 00:02:29,600
+screen of the BM next thing to do is to
+
+91
+00:02:27,520 --> 00:02:31,080
+go to the section that says people so
+
+92
+00:02:29,600 --> 00:02:32,480
+scroll all the way up to the top on the
+
+93
+00:02:31,080 --> 00:02:34,080
+left hand side so people is where you
+
+94
+00:02:32,480 --> 00:02:35,520
+can add other people to your business
+
+95
+00:02:34,080 --> 00:02:36,960
+manager so for example if you want
+
+96
+00:02:35,520 --> 00:02:38,360
+somebody else to run your ads or you
+
+97
+00:02:36,960 --> 00:02:40,080
+have a business partner this is where
+
+98
+00:02:38,360 --> 00:02:41,560
+you can go and do that you just go up to
+
+99
+00:02:40,080 --> 00:02:42,520
+invite right here in this blue button
+
+100
+00:02:41,560 --> 00:02:44,200
+you're going to enter their email
+
+101
+00:02:42,520 --> 00:02:45,760
+address that's associated with their
+
+102
+00:02:44,200 --> 00:02:47,120
+Facebook profile and then just invite
+
+103
+00:02:45,760 --> 00:02:48,600
+them to your BM you know it's like a
+
+104
+00:02:47,120 --> 00:02:49,840
+little BM party just invite them over
+
+105
+00:02:48,600 --> 00:02:51,480
+just come on over but for me I don't
+
+106
+00:02:49,840 --> 00:02:52,920
+have any friends so I'm not inviting
+
+107
+00:02:51,480 --> 00:02:54,960
+anybody to my business manager it's my
+
+108
+00:02:52,920 --> 00:02:57,000
+party party of one next step is to add
+
+109
+00:02:54,960 --> 00:02:58,480
+two Factor authentication now I know for
+
+110
+00:02:57,000 --> 00:03:00,280
+a lot of you that's probably kind of a
+
+111
+00:02:58,480 --> 00:03:02,320
+pain in the butt to set up but I promise
+
+112
+00:03:00,280 --> 00:03:04,400
+you it's worthwhile and the reason why
+
+113
+00:03:02,320 --> 00:03:06,200
+is because often times you will see ad
+
+114
+00:03:04,400 --> 00:03:07,840
+accounts get hacked which means people
+
+115
+00:03:06,200 --> 00:03:09,920
+will actually hack into your own ad
+
+116
+00:03:07,840 --> 00:03:11,680
+account and spend your money and then
+
+117
+00:03:09,920 --> 00:03:13,040
+disappear poof they're gone and there's
+
+118
+00:03:11,680 --> 00:03:14,960
+nothing you can do about it I'm only
+
+119
+00:03:13,040 --> 00:03:17,080
+saying this because I have personally
+
+120
+00:03:14,960 --> 00:03:18,720
+had experiences of this and I can tell
+
+121
+00:03:17,080 --> 00:03:19,920
+you from firsthand experience it sucks
+
+122
+00:03:18,720 --> 00:03:21,800
+just going to go to security center
+
+123
+00:03:19,920 --> 00:03:23,320
+right here and rate under two Factor
+
+124
+00:03:21,800 --> 00:03:24,680
+authentication we're going to hit
+
+125
+00:03:23,320 --> 00:03:26,560
+everyone and from there you're good to
+
+126
+00:03:24,680 --> 00:03:27,920
+go TFA will officially be set up anytime
+
+127
+00:03:26,560 --> 00:03:29,280
+you try to log into the account now that
+
+128
+00:03:27,920 --> 00:03:31,320
+we have kind of the general structure of
+
+129
+00:03:29,280 --> 00:03:34,040
+the BM set up we're going to move into
+
+130
+00:03:31,320 --> 00:03:35,760
+actually creating your own Facebook page
+
+131
+00:03:34,040 --> 00:03:37,160
+so to do that you're going to go rate
+
+132
+00:03:35,760 --> 00:03:38,840
+under Pages who would have thought
+
+133
+00:03:37,160 --> 00:03:40,160
+you're going to hit add very important
+
+134
+00:03:38,840 --> 00:03:41,840
+here you're going to select the third
+
+135
+00:03:40,160 --> 00:03:43,520
+option you're not going to hit add a
+
+136
+00:03:41,840 --> 00:03:45,200
+page this is if you're adding an
+
+137
+00:03:43,520 --> 00:03:46,640
+existing page but you probably don't
+
+138
+00:03:45,200 --> 00:03:48,680
+have a page so you're going to go right
+
+139
+00:03:46,640 --> 00:03:50,000
+down to where it says create a new page
+
+140
+00:03:48,680 --> 00:03:52,200
+it's going to create a brand new
+
+141
+00:03:50,000 --> 00:03:53,400
+Facebook page from scratch associated
+
+142
+00:03:52,200 --> 00:03:54,520
+with your business so let's go ahead and
+
+143
+00:03:53,400 --> 00:03:56,040
+click that so whatever your business
+
+144
+00:03:54,520 --> 00:03:57,760
+name is called you want to put it right
+
+145
+00:03:56,040 --> 00:03:59,240
+here in this case I already have one for
+
+146
+00:03:57,760 --> 00:04:01,440
+my business so I'm just going to call
+
+147
+00:03:59,240 --> 00:04:02,920
+this one Mark has no friends and under
+
+148
+00:04:01,440 --> 00:04:04,320
+category pretty common you're just going
+
+149
+00:04:02,920 --> 00:04:06,400
+to choose whatever is associated with
+
+150
+00:04:04,320 --> 00:04:07,960
+your category so let's say like I run
+
+151
+00:04:06,400 --> 00:04:09,600
+you know an education business that's a
+
+152
+00:04:07,960 --> 00:04:11,200
+great one so we'll select like education
+
+153
+00:04:09,600 --> 00:04:12,560
+is absolutely not mandatory just select
+
+154
+00:04:11,200 --> 00:04:13,960
+whatever is most associated with your
+
+155
+00:04:12,560 --> 00:04:15,480
+business in the bio as you can see here
+
+156
+00:04:13,960 --> 00:04:17,280
+it's optional so that means that we
+
+157
+00:04:15,480 --> 00:04:19,280
+don't do it it looks like Facebook is
+
+158
+00:04:17,280 --> 00:04:21,400
+telling me I don't have friends now we
+
+159
+00:04:19,280 --> 00:04:23,120
+can see that Mark BM officially has the
+
+160
+00:04:21,400 --> 00:04:24,320
+Mark has no friends Facebook page so
+
+161
+00:04:23,120 --> 00:04:26,400
+we're going to just check this box that
+
+162
+00:04:24,320 --> 00:04:28,000
+says I agree and hit create page I I do
+
+163
+00:04:26,400 --> 00:04:29,320
+have friends I I swear they're I pay
+
+164
+00:04:28,000 --> 00:04:31,320
+them a lot of money so now that the page
+
+165
+00:04:29,320 --> 00:04:32,680
+is done we're going to do the exact same
+
+166
+00:04:31,320 --> 00:04:34,800
+process with the ad accounts cuz right
+
+167
+00:04:32,680 --> 00:04:36,320
+now no ad account exists inside of this
+
+168
+00:04:34,800 --> 00:04:38,240
+business manager there's no ad account
+
+169
+00:04:36,320 --> 00:04:40,040
+room inside of this business manager
+
+170
+00:04:38,240 --> 00:04:41,960
+house so just go to add accounts over on
+
+171
+00:04:40,040 --> 00:04:43,880
+the left hand side under your BM hit add
+
+172
+00:04:41,960 --> 00:04:44,960
+and then create a new ad account add
+
+173
+00:04:43,880 --> 00:04:46,520
+account name I wonder what we're going
+
+174
+00:04:44,960 --> 00:04:48,120
+to put here once again you can name this
+
+175
+00:04:46,520 --> 00:04:49,280
+anything that you want so if it's
+
+176
+00:04:48,120 --> 00:04:50,880
+associated with your business you could
+
+177
+00:04:49,280 --> 00:04:52,480
+just put your business name and then add
+
+178
+00:04:50,880 --> 00:04:55,280
+account right after it's pretty standard
+
+179
+00:04:52,480 --> 00:04:57,000
+in my case uh Mark has no friends at
+
+180
+00:04:55,280 --> 00:04:58,320
+account pretty standard then underneath
+
+181
+00:04:57,000 --> 00:04:59,480
+time zone you want to select the time
+
+182
+00:04:58,320 --> 00:05:01,520
+zone that you're currently living in
+
+183
+00:04:59,480 --> 00:05:03,480
+it's probably automatically populated
+
+184
+00:05:01,520 --> 00:05:04,600
+but I'm in the New York time zone so I'm
+
+185
+00:05:03,480 --> 00:05:05,760
+going to keep that and then currency
+
+186
+00:05:04,600 --> 00:05:07,480
+once again just use the standard
+
+187
+00:05:05,760 --> 00:05:09,040
+currency that you plan on advertising in
+
+188
+00:05:07,480 --> 00:05:10,320
+so if that's dollars that's Euros
+
+189
+00:05:09,040 --> 00:05:11,640
+doesn't matter just select the one that
+
+190
+00:05:10,320 --> 00:05:13,600
+you're currently using this is really
+
+191
+00:05:11,640 --> 00:05:14,920
+important because you cannot change the
+
+192
+00:05:13,600 --> 00:05:16,960
+currency so like let's say you
+
+193
+00:05:14,920 --> 00:05:18,640
+accidentally select turkus L you can't
+
+194
+00:05:16,960 --> 00:05:20,480
+go back and change it like the only way
+
+195
+00:05:18,640 --> 00:05:22,000
+is just to create an entirely new ad
+
+196
+00:05:20,480 --> 00:05:23,320
+account which is a total pain often
+
+197
+00:05:22,000 --> 00:05:24,760
+times so make sure you actually select
+
+198
+00:05:23,320 --> 00:05:26,960
+the right one don't mess it up and here
+
+199
+00:05:24,760 --> 00:05:28,120
+we want to select my business hit create
+
+200
+00:05:26,960 --> 00:05:30,240
+now you're going to have this little box
+
+201
+00:05:28,120 --> 00:05:31,680
+pops up that says add people and set
+
+202
+00:05:30,240 --> 00:05:33,680
+permission so this is kind of weird so
+
+203
+00:05:31,680 --> 00:05:35,320
+you have to assign yourself to an ad
+
+204
+00:05:33,680 --> 00:05:37,680
+account just because it exists inside
+
+205
+00:05:35,320 --> 00:05:39,200
+your business manager does not mean that
+
+206
+00:05:37,680 --> 00:05:41,560
+you can run it so you have to actually
+
+207
+00:05:39,200 --> 00:05:42,560
+assign yourself as a person that can run
+
+208
+00:05:41,560 --> 00:05:44,040
+that ad account so what we're going to
+
+209
+00:05:42,560 --> 00:05:45,960
+do here with this box is check this then
+
+210
+00:05:44,040 --> 00:05:47,760
+we're going to check manage ad accounts
+
+211
+00:05:45,960 --> 00:05:49,560
+that means you can view the performance
+
+212
+00:05:47,760 --> 00:05:50,680
+manage campaigns manage creative Hub
+
+213
+00:05:49,560 --> 00:05:52,040
+everything right you're basically an
+
+214
+00:05:50,680 --> 00:05:53,400
+admin on the account and we're going to
+
+215
+00:05:52,040 --> 00:05:54,880
+hit assign so before you start running
+
+216
+00:05:53,400 --> 00:05:56,280
+your ads you'll get this window again
+
+217
+00:05:54,880 --> 00:05:57,600
+where you have to add payment info
+
+218
+00:05:56,280 --> 00:05:59,200
+because you know you got to spend money
+
+219
+00:05:57,600 --> 00:06:01,440
+to make money so we're going to close
+
+220
+00:05:59,200 --> 00:06:02,760
+this window exit and continue with the
+
+221
+00:06:01,440 --> 00:06:04,080
+setup all right so now you have the ad
+
+222
+00:06:02,760 --> 00:06:06,360
+account what we're going to move on to
+
+223
+00:06:04,080 --> 00:06:07,840
+next is verifying your domain so
+
+224
+00:06:06,360 --> 00:06:09,160
+whenever you start running an ad again
+
+225
+00:06:07,840 --> 00:06:10,520
+this is kind of weird that Facebook does
+
+226
+00:06:09,160 --> 00:06:12,800
+this but you have to verify that you
+
+227
+00:06:10,520 --> 00:06:14,520
+actually own it so if you try to run ads
+
+228
+00:06:12,800 --> 00:06:16,520
+without a verified domain you may not
+
+229
+00:06:14,520 --> 00:06:18,360
+get the ad approved or you may get lower
+
+230
+00:06:16,520 --> 00:06:20,160
+quality traffic because you didn't
+
+231
+00:06:18,360 --> 00:06:21,880
+verify the domain so it's just a good
+
+232
+00:06:20,160 --> 00:06:23,040
+general practice to verify all domains
+
+233
+00:06:21,880 --> 00:06:24,160
+that you're running so in this case
+
+234
+00:06:23,040 --> 00:06:25,800
+we're going to go right under brand
+
+235
+00:06:24,160 --> 00:06:27,800
+safety hit domains hit add and then
+
+236
+00:06:25,800 --> 00:06:28,920
+we're going to create a new domain and
+
+237
+00:06:27,800 --> 00:06:30,840
+now here you're going to enter the
+
+238
+00:06:28,920 --> 00:06:32,480
+domain that you already have purchased
+
+239
+00:06:30,840 --> 00:06:34,480
+if you haven't purchased one you can
+
+240
+00:06:32,480 --> 00:06:36,600
+just go to GoDaddy and buy one it'll
+
+241
+00:06:34,480 --> 00:06:38,920
+cost you like 20 or 30 bucks all in it's
+
+242
+00:06:36,600 --> 00:06:40,360
+very cheap oh wow it's available if this
+
+243
+00:06:38,920 --> 00:06:42,880
+video doesn't do well I will have bought
+
+244
+00:06:40,360 --> 00:06:44,760
+Mark asof friends.com for nothing as you
+
+245
+00:06:42,880 --> 00:06:46,120
+can see it says the domain is not
+
+246
+00:06:44,760 --> 00:06:47,960
+verified so what we're going to do from
+
+247
+00:06:46,120 --> 00:06:50,600
+this drop down is hit the third option
+
+248
+00:06:47,960 --> 00:06:52,160
+to update the DNS txt record with your
+
+249
+00:06:50,600 --> 00:06:53,240
+domain register so because I just bought
+
+250
+00:06:52,160 --> 00:06:55,120
+through GoDaddy I'm going to head over
+
+251
+00:06:53,240 --> 00:06:56,840
+to God Daddy and put this little record
+
+252
+00:06:55,120 --> 00:06:58,160
+in it's very simple you can do it with
+
+253
+00:06:56,840 --> 00:07:00,080
+me if you follow along so I'm just going
+
+254
+00:06:58,160 --> 00:07:01,880
+to copy here and go over to my I'm going
+
+255
+00:07:00,080 --> 00:07:03,560
+to hit add a new record I'm going to
+
+256
+00:07:01,880 --> 00:07:06,240
+choose txt and I'm going to put this is
+
+257
+00:07:03,560 --> 00:07:08,120
+the value boom as a name hit save yeah
+
+258
+00:07:06,240 --> 00:07:10,280
+so as you can see our our Mark hasof
+
+259
+00:07:08,120 --> 00:07:11,600
+friends.com domain is verified very
+
+260
+00:07:10,280 --> 00:07:13,040
+quick that was under a minute that was
+
+261
+00:07:11,600 --> 00:07:15,120
+actually pretty crazy so the next most
+
+262
+00:07:13,040 --> 00:07:17,240
+important step is that you set up your
+
+263
+00:07:15,120 --> 00:07:18,320
+pixel and if somebody ever says hey I
+
+264
+00:07:17,240 --> 00:07:20,120
+don't know what a pixel is can you
+
+265
+00:07:18,320 --> 00:07:22,000
+explain it to me this is all that you
+
+266
+00:07:20,120 --> 00:07:24,000
+need to know all it is is just a really
+
+267
+00:07:22,000 --> 00:07:25,680
+cool piece of technology to track each
+
+268
+00:07:24,000 --> 00:07:27,160
+and every person that comes to your
+
+269
+00:07:25,680 --> 00:07:29,200
+website now to actually set it up all
+
+270
+00:07:27,160 --> 00:07:30,840
+you have to do is go to not the pixel
+
+271
+00:07:29,200 --> 00:07:32,520
+section actually kind of weird but
+
+272
+00:07:30,840 --> 00:07:34,480
+you're going to go into the data sets
+
+273
+00:07:32,520 --> 00:07:36,720
+section and go ahead and hit add under
+
+274
+00:07:34,480 --> 00:07:38,480
+add you can name this data set whatever
+
+275
+00:07:36,720 --> 00:07:41,240
+you want and we'll call this one the
+
+276
+00:07:38,480 --> 00:07:42,680
+Mark has no friends pixel and we'll do
+
+277
+00:07:41,240 --> 00:07:44,400
+the friends with a z so after you hit
+
+278
+00:07:42,680 --> 00:07:46,160
+create you see this screen right here
+
+279
+00:07:44,400 --> 00:07:48,000
+now I could go into detail about what
+
+280
+00:07:46,160 --> 00:07:50,120
+each of these options means what is
+
+281
+00:07:48,000 --> 00:07:51,400
+conversions API all you need to know is
+
+282
+00:07:50,120 --> 00:07:52,840
+that it's a good thing and you want to
+
+283
+00:07:51,400 --> 00:07:54,280
+keep this dot checked all right so we're
+
+284
+00:07:52,840 --> 00:07:55,440
+going to hit next in the bottom right
+
+285
+00:07:54,280 --> 00:07:57,640
+hand corner and then we're going to
+
+286
+00:07:55,440 --> 00:07:58,720
+select check for partner now a lot of
+
+287
+00:07:57,640 --> 00:08:00,080
+you if you're watching this video you're
+
+288
+00:07:58,720 --> 00:08:01,560
+probably in the Ecom probably running
+
+289
+00:08:00,080 --> 00:08:03,680
+stores on Shopify so we're going to go
+
+290
+00:08:01,560 --> 00:08:05,760
+ahead and select Shopify right here and
+
+291
+00:08:03,680 --> 00:08:07,160
+Facebook makes this so easy to actually
+
+292
+00:08:05,760 --> 00:08:08,880
+get integrated so all you're going to do
+
+293
+00:08:07,160 --> 00:08:10,280
+is hit this blue button go to Shopify
+
+294
+00:08:08,880 --> 00:08:11,800
+it'll open your Shopify account right
+
+295
+00:08:10,280 --> 00:08:13,000
+here just select your store and we're
+
+296
+00:08:11,800 --> 00:08:14,760
+going to hit install right here in the
+
+297
+00:08:13,000 --> 00:08:17,160
+bottom right so because Facebook is a
+
+298
+00:08:14,760 --> 00:08:18,400
+massive company and Shopify is also a
+
+299
+00:08:17,160 --> 00:08:19,600
+massive company they have these really
+
+300
+00:08:18,400 --> 00:08:21,320
+cool Partnerships that makes the
+
+301
+00:08:19,600 --> 00:08:23,600
+integration super easy when I was
+
+302
+00:08:21,320 --> 00:08:25,520
+starting out it was so difficult to get
+
+303
+00:08:23,600 --> 00:08:27,000
+the pixel installed and so confusing so
+
+304
+00:08:25,520 --> 00:08:28,440
+you really got it good you know take
+
+305
+00:08:27,000 --> 00:08:30,840
+take advantage of it so we're going to
+
+306
+00:08:28,440 --> 00:08:32,520
+select our BM right here marks BM hit
+
+307
+00:08:30,840 --> 00:08:34,600
+connect now we see this window pop up
+
+308
+00:08:32,520 --> 00:08:36,640
+about managing your data sharing
+
+309
+00:08:34,600 --> 00:08:38,560
+preferences now this section we want to
+
+310
+00:08:36,640 --> 00:08:40,600
+select maximum all you need to know is
+
+311
+00:08:38,560 --> 00:08:42,760
+that the more data you allow Facebook to
+
+312
+00:08:40,600 --> 00:08:44,040
+give you the better of an ad Runner that
+
+313
+00:08:42,760 --> 00:08:45,480
+you're going to be the more profitable
+
+314
+00:08:44,040 --> 00:08:46,560
+ad campaigns you're going to run because
+
+315
+00:08:45,480 --> 00:08:49,040
+one thing that you take away from this
+
+316
+00:08:46,560 --> 00:08:50,720
+video it should be that data is freaking
+
+317
+00:08:49,040 --> 00:08:52,000
+King so we're going to hit save in the
+
+318
+00:08:50,720 --> 00:08:53,280
+bottom right here next you're just going
+
+319
+00:08:52,000 --> 00:08:55,160
+to select the pixel that you just
+
+320
+00:08:53,280 --> 00:08:56,320
+created The Mark has no friends pixel
+
+321
+00:08:55,160 --> 00:08:57,440
+right here and we're going to select
+
+322
+00:08:56,320 --> 00:08:59,120
+connect and then the terms and
+
+323
+00:08:57,440 --> 00:09:00,640
+conditions check the box don't ask any
+
+324
+00:08:59,120 --> 00:09:01,880
+questions and submit for review all
+
+325
+00:09:00,640 --> 00:09:04,600
+right and just like that we're good to
+
+326
+00:09:01,880 --> 00:09:06,160
+go we got the green active run ads on
+
+327
+00:09:04,600 --> 00:09:07,640
+Facebook and Instagram so all the pixel
+
+328
+00:09:06,160 --> 00:09:09,280
+setup is officially done so let's go
+
+329
+00:09:07,640 --> 00:09:10,920
+back to the pixel settings on Facebook
+
+330
+00:09:09,280 --> 00:09:12,840
+and we're going to just select next in
+
+331
+00:09:10,920 --> 00:09:15,200
+the bottom right and then enter the URL
+
+332
+00:09:12,840 --> 00:09:16,240
+that's associated with your business so
+
+333
+00:09:15,200 --> 00:09:17,600
+for us that's just going to be the
+
+334
+00:09:16,240 --> 00:09:19,600
+online store here so I'm just going to
+
+335
+00:09:17,600 --> 00:09:21,520
+grab this URL paste it in and hit send
+
+336
+00:09:19,600 --> 00:09:22,960
+test traffic so what Facebook is doing
+
+337
+00:09:21,520 --> 00:09:24,400
+now that the pixel is installed is
+
+338
+00:09:22,960 --> 00:09:26,120
+they're sending what's called like test
+
+339
+00:09:24,400 --> 00:09:27,880
+traffic to your website to be like okay
+
+340
+00:09:26,120 --> 00:09:29,720
+this person actually did visit and the
+
+341
+00:09:27,880 --> 00:09:31,600
+pixel is actually capturing that data so
+
+342
+00:09:29,720 --> 00:09:33,600
+now we're back in the BM and you can see
+
+343
+00:09:31,600 --> 00:09:35,360
+that yes the pixel is active so
+
+344
+00:09:33,600 --> 00:09:37,400
+everything was connected successfully
+
+345
+00:09:35,360 --> 00:09:38,840
+seeing that green button is a good Mark
+
+346
+00:09:37,400 --> 00:09:39,760
+of verification that we're good to go
+
+347
+00:09:38,840 --> 00:09:41,200
+and then we're just going to hit finish
+
+348
+00:09:39,760 --> 00:09:43,120
+in the bottom right here so the pixel
+
+349
+00:09:41,200 --> 00:09:44,360
+has officially been set up good job give
+
+350
+00:09:43,120 --> 00:09:45,720
+yourself a little pad on the back you
+
+351
+00:09:44,360 --> 00:09:47,400
+did great the final thing that you have
+
+352
+00:09:45,720 --> 00:09:49,200
+to do and again this step is just kind
+
+353
+00:09:47,400 --> 00:09:51,440
+of weird but you absolutely have to do
+
+354
+00:09:49,200 --> 00:09:53,160
+it is you have to assign that new pixel
+
+355
+00:09:51,440 --> 00:09:55,160
+that you just created to your ad account
+
+356
+00:09:53,160 --> 00:09:56,760
+so the way to do that if you go to data
+
+357
+00:09:55,160 --> 00:09:58,440
+sets is you're just going to select the
+
+358
+00:09:56,760 --> 00:10:00,520
+pixel that you just created which for us
+
+359
+00:09:58,440 --> 00:10:01,920
+is a Mark has no friends pixel with the
+
+360
+00:10:00,520 --> 00:10:03,760
+Z and then you're just going to select
+
+361
+00:10:01,920 --> 00:10:05,480
+connected assets assign assets and
+
+362
+00:10:03,760 --> 00:10:07,120
+select the box of the new ad account
+
+363
+00:10:05,480 --> 00:10:08,480
+that we already created previously so
+
+364
+00:10:07,120 --> 00:10:09,880
+this is the Mark has no friends ad
+
+365
+00:10:08,480 --> 00:10:11,360
+account boom now we're good to go so we
+
+366
+00:10:09,880 --> 00:10:12,600
+can actually jump inside of the ad
+
+367
+00:10:11,360 --> 00:10:14,320
+account now and I'm going to walk you
+
+368
+00:10:12,600 --> 00:10:16,600
+through how to actually create your
+
+369
+00:10:14,320 --> 00:10:18,040
+first real profitable ad campaign
+
+370
+00:10:16,600 --> 00:10:19,280
+everything that we've done so far is
+
+371
+00:10:18,040 --> 00:10:21,040
+literally just like laying the
+
+372
+00:10:19,280 --> 00:10:22,600
+groundwork we're setting the foundation
+
+373
+00:10:21,040 --> 00:10:24,080
+because it's kind of annoying to set up
+
+374
+00:10:22,600 --> 00:10:25,360
+I'm not going to lie to you but it's one
+
+375
+00:10:24,080 --> 00:10:27,000
+of those things that you have to get
+
+376
+00:10:25,360 --> 00:10:28,440
+done and if you don't you're just not
+
+377
+00:10:27,000 --> 00:10:30,200
+going to be able to run profitable ad
+
+378
+00:10:28,440 --> 00:10:31,480
+campaigns if at all now to actually hop
+
+379
+00:10:30,200 --> 00:10:33,200
+in the ad account we're just going to go
+
+380
+00:10:31,480 --> 00:10:35,000
+to the ad accounts select the one that
+
+381
+00:10:33,200 --> 00:10:36,880
+we had created and hit open in ads
+
+382
+00:10:35,000 --> 00:10:38,520
+manager now before I create a single
+
+383
+00:10:36,880 --> 00:10:41,280
+campaign everything I'm about to show
+
+384
+00:10:38,520 --> 00:10:43,400
+you is extremely fun but it also gets
+
+385
+00:10:41,280 --> 00:10:44,920
+extremely complex so one of the most
+
+386
+00:10:43,400 --> 00:10:46,720
+important things when you're running ads
+
+387
+00:10:44,920 --> 00:10:48,000
+is Simply Having a feedback loop so like
+
+388
+00:10:46,720 --> 00:10:49,480
+I'm about to show you how to create your
+
+389
+00:10:48,000 --> 00:10:50,800
+campaign how to create your adsets how
+
+390
+00:10:49,480 --> 00:10:52,200
+to launch it and you'll get this huge
+
+391
+00:10:50,800 --> 00:10:53,400
+burst of dopamine just flooding into
+
+392
+00:10:52,200 --> 00:10:55,720
+your brain cuz you just launch for
+
+393
+00:10:53,400 --> 00:10:57,560
+successful ad as you should however the
+
+394
+00:10:55,720 --> 00:10:59,680
+hardest part is letting the ads actually
+
+395
+00:10:57,560 --> 00:11:01,560
+run looking at the data and then making
+
+396
+00:10:59,680 --> 00:11:03,160
+databased decisions on how to make your
+
+397
+00:11:01,560 --> 00:11:04,560
+ads more profitable to this day I
+
+398
+00:11:03,160 --> 00:11:07,560
+personally have mentors that I look up
+
+399
+00:11:04,560 --> 00:11:09,520
+to to understand how to look at ad data
+
+400
+00:11:07,560 --> 00:11:11,040
+better and so that problem like just not
+
+401
+00:11:09,520 --> 00:11:12,800
+knowing how to read the data is actually
+
+402
+00:11:11,040 --> 00:11:14,280
+exactly why we created brand Builder
+
+403
+00:11:12,800 --> 00:11:15,440
+Academy so this is our community we
+
+404
+00:11:14,280 --> 00:11:17,600
+actually teach you everything there is
+
+405
+00:11:15,440 --> 00:11:19,520
+to know about e-commerce about Facebook
+
+406
+00:11:17,600 --> 00:11:21,640
+ads and we're actually so serious about
+
+407
+00:11:19,520 --> 00:11:23,360
+your success that we will assign you a
+
+408
+00:11:21,640 --> 00:11:24,840
+success coach where you can ask some
+
+409
+00:11:23,360 --> 00:11:26,000
+questions about your ads you can hop on
+
+410
+00:11:24,840 --> 00:11:27,800
+calls with them you can actually make
+
+411
+00:11:26,000 --> 00:11:30,200
+sure that you run profitable ads from
+
+412
+00:11:27,800 --> 00:11:31,760
+day one because having feedback is so
+
+413
+00:11:30,200 --> 00:11:34,120
+freaking crucial so if you want to apply
+
+414
+00:11:31,760 --> 00:11:35,880
+for BBA for brand billage Academy just
+
+415
+00:11:34,120 --> 00:11:38,520
+click the first link in the description
+
+416
+00:11:35,880 --> 00:11:39,800
+so Facebook has a hierarchy inside of it
+
+417
+00:11:38,520 --> 00:11:41,040
+at the very top of the hierarchy you
+
+418
+00:11:39,800 --> 00:11:42,920
+have the campaign and you kind of want
+
+419
+00:11:41,040 --> 00:11:45,080
+to think of these as the big building
+
+420
+00:11:42,920 --> 00:11:46,720
+blocks of your ad account what is it
+
+421
+00:11:45,080 --> 00:11:48,040
+that you actually want do you want sales
+
+422
+00:11:46,720 --> 00:11:49,760
+you want engagement that is all
+
+423
+00:11:48,040 --> 00:11:51,240
+determined at the campaign level
+
+424
+00:11:49,760 --> 00:11:53,040
+underneath the campaign you can have
+
+425
+00:11:51,240 --> 00:11:55,240
+multiple different ad sets and all the
+
+426
+00:11:53,040 --> 00:11:57,360
+adset is is simply who is it that you're
+
+427
+00:11:55,240 --> 00:11:59,640
+really after is it men between the ages
+
+428
+00:11:57,360 --> 00:12:01,440
+of 35 and 55 that are interested in
+
+429
+00:11:59,640 --> 00:12:04,560
+construction is it women between the
+
+430
+00:12:01,440 --> 00:12:06,240
+ages of 25 and 37 that have an interest
+
+431
+00:12:04,560 --> 00:12:08,600
+in makeup this is where the actual
+
+432
+00:12:06,240 --> 00:12:10,520
+targeting is done this is where the who
+
+433
+00:12:08,600 --> 00:12:12,560
+is captured and then the ads are
+
+434
+00:12:10,520 --> 00:12:14,000
+underneath each individual ad set so you
+
+435
+00:12:12,560 --> 00:12:16,080
+could have three you could have five you
+
+436
+00:12:14,000 --> 00:12:19,000
+could have 30 ads underneath One
+
+437
+00:12:16,080 --> 00:12:21,480
+Singular ad set and the ad of course is
+
+438
+00:12:19,000 --> 00:12:23,080
+the creative this is the most important
+
+439
+00:12:21,480 --> 00:12:24,880
+part of the ad account the video or
+
+440
+00:12:23,080 --> 00:12:26,280
+image that you're using to try to get
+
+441
+00:12:24,880 --> 00:12:27,560
+customers for your business without
+
+442
+00:12:26,280 --> 00:12:28,840
+further Ado let's hop in and create our
+
+443
+00:12:27,560 --> 00:12:30,520
+first campaign so you're going to go up
+
+444
+00:12:28,840 --> 00:12:32,240
+to this beautiful green button here and
+
+445
+00:12:30,520 --> 00:12:34,000
+select create under buying type we're
+
+446
+00:12:32,240 --> 00:12:35,320
+going to keep it as auction and as you
+
+447
+00:12:34,000 --> 00:12:37,160
+can see you have all these different
+
+448
+00:12:35,320 --> 00:12:39,120
+objectives around what you want your
+
+449
+00:12:37,160 --> 00:12:41,760
+campaign to actually do whatever you
+
+450
+00:12:39,120 --> 00:12:43,040
+tell Facebook to optimize for is exactly
+
+451
+00:12:41,760 --> 00:12:44,840
+what it will give you if you want a
+
+452
+00:12:43,040 --> 00:12:46,080
+bunch of leads for your business it'll
+
+453
+00:12:44,840 --> 00:12:48,440
+come back and it'll give you leads if
+
+454
+00:12:46,080 --> 00:12:50,520
+you say hey Facebook I want some more
+
+455
+00:12:48,440 --> 00:12:51,880
+likes on my Instagram post so you select
+
+456
+00:12:50,520 --> 00:12:53,200
+engagement Facebook will come back and
+
+457
+00:12:51,880 --> 00:12:54,680
+give you a whole bunch of Engagement
+
+458
+00:12:53,200 --> 00:12:56,720
+seems pretty straightforward right the
+
+459
+00:12:54,680 --> 00:12:58,240
+most common question that I get and I'm
+
+460
+00:12:56,720 --> 00:13:00,240
+not joking when I tell you this is
+
+461
+00:12:58,240 --> 00:13:01,960
+people saying well I have this website
+
+462
+00:13:00,240 --> 00:13:03,040
+but nobody's visiting I need traffic so
+
+463
+00:13:01,960 --> 00:13:04,680
+they'll hop in the ad account they'll
+
+464
+00:13:03,040 --> 00:13:06,880
+create a new campaign and they'll select
+
+465
+00:13:04,680 --> 00:13:09,240
+traffic and you know what happens they
+
+466
+00:13:06,880 --> 00:13:11,160
+spend all this money running a freaking
+
+467
+00:13:09,240 --> 00:13:12,840
+traffic campaign and then they come to
+
+468
+00:13:11,160 --> 00:13:15,160
+me like Mark I got all these people to
+
+469
+00:13:12,840 --> 00:13:17,000
+my website but nobody bought I wonder
+
+470
+00:13:15,160 --> 00:13:18,880
+why Steve I wonder why it's because you
+
+471
+00:13:17,000 --> 00:13:20,680
+said you want traffic and you don't want
+
+472
+00:13:18,880 --> 00:13:22,880
+sales God damn it Steve what you should
+
+473
+00:13:20,680 --> 00:13:25,000
+do is actually optimize your campaigns
+
+474
+00:13:22,880 --> 00:13:26,720
+for what you want which 99% of the
+
+475
+00:13:25,000 --> 00:13:28,280
+people watching this video right now you
+
+476
+00:13:26,720 --> 00:13:29,960
+want sales all right you want to make
+
+477
+00:13:28,280 --> 00:13:30,960
+money and run profitable campaigns
+
+478
+00:13:29,960 --> 00:13:32,280
+that's why you're here in the first
+
+479
+00:13:30,960 --> 00:13:33,600
+place so you're going to select sales
+
+480
+00:13:32,280 --> 00:13:35,480
+and hit continue now you're going to get
+
+481
+00:13:33,600 --> 00:13:37,600
+this option to do what's called an
+
+482
+00:13:35,480 --> 00:13:39,560
+Advantage Plus shopping campaign or a
+
+483
+00:13:37,600 --> 00:13:41,560
+manual sales campaign so an Advantage
+
+484
+00:13:39,560 --> 00:13:43,080
+Plus shopping campaign is where you tell
+
+485
+00:13:41,560 --> 00:13:45,360
+Facebook hey I'm not going to tell you
+
+486
+00:13:43,080 --> 00:13:46,800
+exactly who I want to go after I'll just
+
+487
+00:13:45,360 --> 00:13:48,440
+give you the creatives you spend it how
+
+488
+00:13:46,800 --> 00:13:50,800
+you want Advantage Plus is a super
+
+489
+00:13:48,440 --> 00:13:53,080
+powerful tool for scaling meaning when
+
+490
+00:13:50,800 --> 00:13:54,360
+you want to spend more money on ads and
+
+491
+00:13:53,080 --> 00:13:55,640
+increase the amount that you're spending
+
+492
+00:13:54,360 --> 00:13:57,080
+every single day Advantage Plus
+
+493
+00:13:55,640 --> 00:13:58,520
+campaigns are phenomenal but when you're
+
+494
+00:13:57,080 --> 00:14:00,320
+starting out I highly recommend that you
+
+495
+00:13:58,520 --> 00:14:01,440
+go with a anual sales campaign so that's
+
+496
+00:14:00,320 --> 00:14:02,960
+what we're going to do now that we're
+
+497
+00:14:01,440 --> 00:14:04,440
+inside the campaign the first thing you
+
+498
+00:14:02,960 --> 00:14:05,840
+have is actually naming it now I could
+
+499
+00:14:04,440 --> 00:14:07,400
+give you a hundred different naming
+
+500
+00:14:05,840 --> 00:14:09,520
+conventions right now but all that
+
+501
+00:14:07,400 --> 00:14:11,440
+really matters is that you know exactly
+
+502
+00:14:09,520 --> 00:14:12,960
+what's going on inside your campaign
+
+503
+00:14:11,440 --> 00:14:14,760
+without actually opening it so for
+
+504
+00:14:12,960 --> 00:14:16,120
+example if I were to close this off and
+
+505
+00:14:14,760 --> 00:14:17,920
+I just see this one campaign that we're
+
+506
+00:14:16,120 --> 00:14:19,720
+building right now without clicking into
+
+507
+00:14:17,920 --> 00:14:21,920
+it and looking at the settings am I
+
+508
+00:14:19,720 --> 00:14:24,480
+going to know exactly what product is
+
+509
+00:14:21,920 --> 00:14:26,520
+being sold at what budget when did it
+
+510
+00:14:24,480 --> 00:14:28,120
+start what type of campaign is it that
+
+511
+00:14:26,520 --> 00:14:30,040
+is all you need to know so I'm not going
+
+512
+00:14:28,120 --> 00:14:31,680
+to go over a specific naming conventions
+
+513
+00:14:30,040 --> 00:14:33,720
+just keep it simple and keep it
+
+514
+00:14:31,680 --> 00:14:36,080
+organized now if we scroll down past
+
+515
+00:14:33,720 --> 00:14:38,160
+that you don't need to select a category
+
+516
+00:14:36,080 --> 00:14:39,680
+unless you're selling to a sensitive
+
+517
+00:14:38,160 --> 00:14:41,480
+category like Financial products
+
+518
+00:14:39,680 --> 00:14:42,680
+employment housing Etc so we're going to
+
+519
+00:14:41,480 --> 00:14:43,880
+go ahead and skip that because that's
+
+520
+00:14:42,680 --> 00:14:46,400
+not what we're selling and we're going
+
+521
+00:14:43,880 --> 00:14:48,960
+to keep the Advantage Plus catalog ads
+
+522
+00:14:46,400 --> 00:14:51,040
+checked off and also the advantage
+
+523
+00:14:48,960 --> 00:14:52,800
+campaign budget checked off so this if I
+
+524
+00:14:51,040 --> 00:14:55,080
+were to turn this on this campaign is
+
+525
+00:14:52,800 --> 00:14:57,320
+officially what's called a CBO which
+
+526
+00:14:55,080 --> 00:14:59,160
+stands for campaign budget optimization
+
+527
+00:14:57,320 --> 00:15:01,040
+all this means is that you set the the
+
+528
+00:14:59,160 --> 00:15:02,800
+budget at the campaign level instead of
+
+529
+00:15:01,040 --> 00:15:04,880
+at the adset level so for example if you
+
+530
+00:15:02,800 --> 00:15:06,520
+have a campaign and there's five adsets
+
+531
+00:15:04,880 --> 00:15:08,840
+within that one campaign but you turn on
+
+532
+00:15:06,520 --> 00:15:10,280
+CBO and you set let's say a $100 day
+
+533
+00:15:08,840 --> 00:15:12,920
+budget you're telling Facebook hey you
+
+534
+00:15:10,280 --> 00:15:15,000
+can spend $100 a day across any of these
+
+535
+00:15:12,920 --> 00:15:19,400
+adets exactly how you see fit if you
+
+536
+00:15:15,000 --> 00:15:21,320
+want to spend $99 on one ad set and 25
+
+537
+00:15:19,400 --> 00:15:23,360
+across the others you can do that and
+
+538
+00:15:21,320 --> 00:15:25,280
+often times that's actually what does
+
+539
+00:15:23,360 --> 00:15:27,000
+end up happening but for us since we're
+
+540
+00:15:25,280 --> 00:15:28,480
+starting off with a brand new account
+
+541
+00:15:27,000 --> 00:15:30,440
+we're going to stick to which is
+
+542
+00:15:28,480 --> 00:15:32,400
+adset budget optimization so you set the
+
+543
+00:15:30,440 --> 00:15:33,880
+budget at the individual adset level
+
+544
+00:15:32,400 --> 00:15:35,200
+instead of at the campaign level moving
+
+545
+00:15:33,880 --> 00:15:36,480
+down we don't need to adjust any of
+
+546
+00:15:35,200 --> 00:15:38,200
+these settings here we're just going to
+
+547
+00:15:36,480 --> 00:15:40,400
+go ahead and hit next move on to the
+
+548
+00:15:38,200 --> 00:15:41,840
+adset level now again the adset is the
+
+549
+00:15:40,400 --> 00:15:43,920
+who who is it that you're actually
+
+550
+00:15:41,840 --> 00:15:45,800
+trying to Target in this particular
+
+551
+00:15:43,920 --> 00:15:47,240
+adset so for conversion we're going to
+
+552
+00:15:45,800 --> 00:15:49,080
+keep website selected we're going to
+
+553
+00:15:47,240 --> 00:15:51,200
+select our pixel here Mark has no
+
+554
+00:15:49,080 --> 00:15:52,840
+friends with a z pixel under conversion
+
+555
+00:15:51,200 --> 00:15:54,160
+event we're going to select purchase
+
+556
+00:15:52,840 --> 00:15:56,000
+because once again what you tell
+
+557
+00:15:54,160 --> 00:15:57,560
+Facebook to optimize for is exactly what
+
+558
+00:15:56,000 --> 00:15:59,160
+it's going to give you so if I were to
+
+559
+00:15:57,560 --> 00:16:00,200
+instead of purchase select something
+
+560
+00:15:59,160 --> 00:16:01,840
+like add to cart then you're going to
+
+561
+00:16:00,200 --> 00:16:03,480
+turn into somebody like Steve and you're
+
+562
+00:16:01,840 --> 00:16:05,440
+going to get all these add to carts in
+
+563
+00:16:03,480 --> 00:16:07,640
+zero purchases under attribution setting
+
+564
+00:16:05,440 --> 00:16:09,000
+you'll see It'll say 7day click in one
+
+565
+00:16:07,640 --> 00:16:10,560
+day view once again I could go into
+
+566
+00:16:09,000 --> 00:16:11,960
+detail about this but all you need to
+
+567
+00:16:10,560 --> 00:16:13,800
+know is that that's a great place to
+
+568
+00:16:11,960 --> 00:16:15,440
+start and you don't need to adjust it
+
+569
+00:16:13,800 --> 00:16:16,960
+until you're spending just a stupid
+
+570
+00:16:15,440 --> 00:16:18,440
+amount of money on ads so keep that as
+
+571
+00:16:16,960 --> 00:16:19,880
+is so you can see here Dynamic creative
+
+572
+00:16:18,440 --> 00:16:21,600
+is turned off we're going to keep it off
+
+573
+00:16:19,880 --> 00:16:23,040
+Dynamic creative is another one of those
+
+574
+00:16:21,600 --> 00:16:24,520
+features created by Facebook where
+
+575
+00:16:23,040 --> 00:16:26,960
+they're like oh you just give us a bunch
+
+576
+00:16:24,520 --> 00:16:28,760
+of inputs a bunch of creatives headlines
+
+577
+00:16:26,960 --> 00:16:30,760
+copies blah blah blah and we'll figure
+
+578
+00:16:28,760 --> 00:16:32,920
+out the best combination and yeah in
+
+579
+00:16:30,760 --> 00:16:34,640
+theory that makes a lot of sense but I
+
+580
+00:16:32,920 --> 00:16:36,480
+can tell you after spending a stupid
+
+581
+00:16:34,640 --> 00:16:38,480
+amount of money on ads at scale this
+
+582
+00:16:36,480 --> 00:16:39,880
+really doesn't work that well for
+
+583
+00:16:38,480 --> 00:16:41,160
+numerous reasons but at the end of the
+
+584
+00:16:39,880 --> 00:16:42,480
+day it doesn't matter I listen to data
+
+585
+00:16:41,160 --> 00:16:44,040
+and the data says that just traditional
+
+586
+00:16:42,480 --> 00:16:46,240
+creatives are much better so keep that
+
+587
+00:16:44,040 --> 00:16:48,000
+checked off now we'll move to the budget
+
+588
+00:16:46,240 --> 00:16:50,000
+under the budget I highly recommend
+
+589
+00:16:48,000 --> 00:16:52,000
+keeping it as a daily budget instead of
+
+590
+00:16:50,000 --> 00:16:53,760
+Lifetime or instead of selecting an end
+
+591
+00:16:52,000 --> 00:16:55,760
+date I'm a big fan of keeping it simple
+
+592
+00:16:53,760 --> 00:16:57,560
+and when you're launching new ads you
+
+593
+00:16:55,760 --> 00:16:59,200
+should be Hands-On this idea that you
+
+594
+00:16:57,560 --> 00:17:00,520
+just like launch ads and you de it and
+
+595
+00:16:59,200 --> 00:17:03,280
+forget it and then you go on a vacation
+
+596
+00:17:00,520 --> 00:17:04,840
+to Bali it's just complete ads
+
+597
+00:17:03,280 --> 00:17:06,160
+are something that need to be looked
+
+598
+00:17:04,840 --> 00:17:07,440
+after especially in the beginning you
+
+599
+00:17:06,160 --> 00:17:09,000
+want to look at the data but if you set
+
+600
+00:17:07,440 --> 00:17:10,640
+a lifetime budget or a budget with an
+
+601
+00:17:09,000 --> 00:17:12,360
+end date then I know you just have the
+
+602
+00:17:10,640 --> 00:17:14,520
+wrong intentions going in so keep it as
+
+603
+00:17:12,360 --> 00:17:16,440
+a daily budget and in terms of how much
+
+604
+00:17:14,520 --> 00:17:18,440
+it should be what I highly recommend is
+
+605
+00:17:16,440 --> 00:17:20,680
+set the daily budget at what your
+
+606
+00:17:18,440 --> 00:17:22,480
+product is priced at currently so let's
+
+607
+00:17:20,680 --> 00:17:24,000
+say I was selling a $30 product I'm just
+
+608
+00:17:22,480 --> 00:17:25,680
+going to go in here and put 30 and then
+
+609
+00:17:24,000 --> 00:17:28,120
+I'm going to let that run for a minimum
+
+610
+00:17:25,680 --> 00:17:30,720
+of 3 days which means this specific
+
+611
+00:17:28,120 --> 00:17:32,440
+adset will at least $90 so I can
+
+612
+00:17:30,720 --> 00:17:34,080
+actually look at the data see if this is
+
+613
+00:17:32,440 --> 00:17:35,320
+something worth pursuing and what
+
+614
+00:17:34,080 --> 00:17:36,600
+adjustments I need to make to the
+
+615
+00:17:35,320 --> 00:17:38,080
+product or to the creative now that we
+
+616
+00:17:36,600 --> 00:17:40,240
+have the budget set you have to schedule
+
+617
+00:17:38,080 --> 00:17:42,440
+for when you want that ad set to start
+
+618
+00:17:40,240 --> 00:17:44,600
+spending so for me I always think it's
+
+619
+00:17:42,440 --> 00:17:46,680
+best practiced to schedule for the next
+
+620
+00:17:44,600 --> 00:17:48,600
+day around 4:00 a.m. because I only run
+
+621
+00:17:46,680 --> 00:17:50,200
+ads in the US and that's when naturally
+
+622
+00:17:48,600 --> 00:17:51,680
+a lot of people are beginning to wake up
+
+623
+00:17:50,200 --> 00:17:53,040
+and be thinking Mark who the hell wakes
+
+624
+00:17:51,680 --> 00:17:54,360
+up at 4:00 a.m. you would be surprised
+
+625
+00:17:53,040 --> 00:17:55,560
+because I have people buying products at
+
+626
+00:17:54,360 --> 00:17:56,800
+4:00 a.m. I don't know who they are but
+
+627
+00:17:55,560 --> 00:17:58,840
+I love them for doing that and let's
+
+628
+00:17:56,800 --> 00:18:00,320
+move on to audience controls before
+
+629
+00:17:58,840 --> 00:18:01,480
+before I go through audience controls
+
+630
+00:18:00,320 --> 00:18:03,360
+we're just going to scroll down here and
+
+631
+00:18:01,480 --> 00:18:04,720
+select switch to original audience
+
+632
+00:18:03,360 --> 00:18:06,600
+option all right so we're not going to
+
+633
+00:18:04,720 --> 00:18:08,040
+be using the Advantage Plus audience
+
+634
+00:18:06,600 --> 00:18:10,320
+again this is one of those Facebook
+
+635
+00:18:08,040 --> 00:18:12,000
+features where they want you to give
+
+636
+00:18:10,320 --> 00:18:13,680
+them control over the audience but on a
+
+637
+00:18:12,000 --> 00:18:15,600
+brand new ad account I don't recommend
+
+638
+00:18:13,680 --> 00:18:17,520
+that so we're going to hit use original
+
+639
+00:18:15,600 --> 00:18:20,120
+audience so like I said earlier this is
+
+640
+00:18:17,520 --> 00:18:21,600
+really the who of your campaign who do
+
+641
+00:18:20,120 --> 00:18:23,600
+you want to Target this is where you can
+
+642
+00:18:21,600 --> 00:18:24,880
+set the age you can set the location you
+
+643
+00:18:23,600 --> 00:18:26,480
+can set the gender so I'm just going to
+
+644
+00:18:24,880 --> 00:18:28,080
+tell you exactly what I would recommend
+
+645
+00:18:26,480 --> 00:18:29,800
+number one I run the far majority of my
+
+646
+00:18:28,080 --> 00:18:32,040
+ads in the US so we're going to keep the
+
+647
+00:18:29,800 --> 00:18:33,480
+locations as United States only however
+
+648
+00:18:32,040 --> 00:18:35,680
+if you're selling in other countries
+
+649
+00:18:33,480 --> 00:18:37,880
+obviously just use what's most common
+
+650
+00:18:35,680 --> 00:18:40,280
+sense now for the age unless you have a
+
+651
+00:18:37,880 --> 00:18:42,720
+product that's only going to be used for
+
+652
+00:18:40,280 --> 00:18:44,520
+a specific age group I highly recommend
+
+653
+00:18:42,720 --> 00:18:46,600
+keeping it very broad while Facebook
+
+654
+00:18:44,520 --> 00:18:47,720
+does have its issues with like control
+
+655
+00:18:46,600 --> 00:18:49,080
+and there's all these features where
+
+656
+00:18:47,720 --> 00:18:50,320
+they're like oh give me control give me
+
+657
+00:18:49,080 --> 00:18:52,920
+control I'm actually a big fan of
+
+658
+00:18:50,320 --> 00:18:54,600
+keeping it broad because the more data
+
+659
+00:18:52,920 --> 00:18:56,160
+that you can give Facebook and Facebook
+
+660
+00:18:54,600 --> 00:18:57,800
+can give you on where your buyers
+
+661
+00:18:56,160 --> 00:18:59,120
+actually are the better results you're
+
+662
+00:18:57,800 --> 00:19:00,960
+going to get so keeping brought
+
+663
+00:18:59,120 --> 00:19:02,760
+initially is a great way to start out
+
+664
+00:19:00,960 --> 00:19:04,800
+your campaigns and it's the same exact
+
+665
+00:19:02,760 --> 00:19:06,760
+process for gender so if you're only
+
+666
+00:19:04,800 --> 00:19:08,120
+selling a product that applies to men or
+
+667
+00:19:06,760 --> 00:19:09,600
+only selling a product that applies to
+
+668
+00:19:08,120 --> 00:19:10,920
+women then obviously select which one
+
+669
+00:19:09,600 --> 00:19:12,600
+makes the most sense so let's say we're
+
+670
+00:19:10,920 --> 00:19:14,360
+selling a skincare product so I'm only
+
+671
+00:19:12,600 --> 00:19:15,960
+going to select women here and I'm still
+
+672
+00:19:14,360 --> 00:19:18,320
+going to keep the age very broad because
+
+673
+00:19:15,960 --> 00:19:20,040
+skincare is a Timeless Niche it doesn't
+
+674
+00:19:18,320 --> 00:19:22,440
+matter if you're 16 doesn't matter if
+
+675
+00:19:20,040 --> 00:19:24,600
+you're 65 you probably buy skincare
+
+676
+00:19:22,440 --> 00:19:26,000
+products the next part is to move on to
+
+677
+00:19:24,600 --> 00:19:27,680
+the targeting right the interest
+
+678
+00:19:26,000 --> 00:19:29,480
+targeting the best practice here is just
+
+679
+00:19:27,680 --> 00:19:30,840
+to add one interest that's associated
+
+680
+00:19:29,480 --> 00:19:32,480
+with your product and to not overthink
+
+681
+00:19:30,840 --> 00:19:34,040
+it so for us we're selling a skincare
+
+682
+00:19:32,480 --> 00:19:36,200
+product right so I'm just going to
+
+683
+00:19:34,040 --> 00:19:38,240
+search skincare and see what pops up and
+
+684
+00:19:36,200 --> 00:19:40,960
+immediately we have skincare Cosmetics
+
+685
+00:19:38,240 --> 00:19:43,320
+simple skincare sah skincare Ren
+
+686
+00:19:40,960 --> 00:19:44,560
+skincare Image Skincare there's just a
+
+687
+00:19:43,320 --> 00:19:45,920
+stupid amount of interest and there's
+
+688
+00:19:44,560 --> 00:19:47,400
+probably a lot more if I were to keep
+
+689
+00:19:45,920 --> 00:19:50,120
+scrolling the guidance I want to give
+
+690
+00:19:47,400 --> 00:19:54,000
+you here is only select audiences that
+
+691
+00:19:50,120 --> 00:19:55,920
+are ideally no greater than 100 million
+
+692
+00:19:54,000 --> 00:19:57,560
+in total size cuz we're only selling in
+
+693
+00:19:55,920 --> 00:19:59,480
+the United States keep in mind so the
+
+694
+00:19:57,560 --> 00:20:02,080
+skincare audience for example is between
+
+695
+00:19:59,480 --> 00:20:04,040
+257 million and 302 million it's a
+
+696
+00:20:02,080 --> 00:20:05,360
+little bit too big we want to dial down
+
+697
+00:20:04,040 --> 00:20:07,240
+just a little bit more so let's select
+
+698
+00:20:05,360 --> 00:20:09,400
+the cave interest just as an example
+
+699
+00:20:07,240 --> 00:20:11,400
+here so this one was 3 to 3.5 million
+
+700
+00:20:09,400 --> 00:20:13,640
+that's perfect next we want to select
+
+701
+00:20:11,400 --> 00:20:15,280
+the language once again just use the
+
+702
+00:20:13,640 --> 00:20:16,720
+language that you're actually selling it
+
+703
+00:20:15,280 --> 00:20:18,760
+the final section at the end of the ad
+
+704
+00:20:16,720 --> 00:20:20,760
+set is the placements all placements
+
+705
+00:20:18,760 --> 00:20:22,000
+means is where do you want your ad to
+
+706
+00:20:20,760 --> 00:20:23,480
+actually show up you want to show up on
+
+707
+00:20:22,000 --> 00:20:25,880
+the Instagram feed you want to show up
+
+708
+00:20:23,480 --> 00:20:27,320
+on Facebook Stories which apparently are
+
+709
+00:20:25,880 --> 00:20:29,000
+a thing the best practice here is just
+
+710
+00:20:27,320 --> 00:20:30,440
+to use what's called advantage plus
+
+711
+00:20:29,000 --> 00:20:31,880
+placements this is just a fancy way of
+
+712
+00:20:30,440 --> 00:20:34,160
+saying every single one that Facebook
+
+713
+00:20:31,880 --> 00:20:36,120
+has access to and it's going to spend
+
+714
+00:20:34,160 --> 00:20:37,800
+based off of how people are interacting
+
+715
+00:20:36,120 --> 00:20:39,600
+per placement so I don't want to go too
+
+716
+00:20:37,800 --> 00:20:41,080
+in depth on that particular topic it
+
+717
+00:20:39,600 --> 00:20:42,560
+just means everything but if you only
+
+718
+00:20:41,080 --> 00:20:44,200
+want your ads to show in the feeds or
+
+719
+00:20:42,560 --> 00:20:46,040
+only in the reals then you just select
+
+720
+00:20:44,200 --> 00:20:48,040
+edit manual and then you can see each
+
+721
+00:20:46,040 --> 00:20:50,600
+and every individual placement that
+
+722
+00:20:48,040 --> 00:20:52,960
+there is every feed every story every
+
+723
+00:20:50,600 --> 00:20:54,520
+real you can select and deselect every
+
+724
+00:20:52,960 --> 00:20:56,400
+single one but for us we like to keep it
+
+725
+00:20:54,520 --> 00:20:57,880
+simple because we're Chad media buyers
+
+726
+00:20:56,400 --> 00:20:59,040
+so we're going to hit Advantage Plus and
+
+727
+00:20:57,880 --> 00:21:00,840
+that's it for the adset level now we're
+
+728
+00:20:59,040 --> 00:21:02,360
+going to hit next and go to the ad
+
+729
+00:21:00,840 --> 00:21:04,360
+before I get started on how to create an
+
+730
+00:21:02,360 --> 00:21:06,800
+ad you need to understand that this is
+
+731
+00:21:04,360 --> 00:21:08,720
+by far the most important part of
+
+732
+00:21:06,800 --> 00:21:10,640
+running ads on Facebook it all comes
+
+733
+00:21:08,720 --> 00:21:11,920
+down to the ad itself you could totally
+
+734
+00:21:10,640 --> 00:21:13,560
+mess up on the targeting and the
+
+735
+00:21:11,920 --> 00:21:15,160
+interest and still make money you could
+
+736
+00:21:13,560 --> 00:21:17,040
+probably totally mess up even on the
+
+737
+00:21:15,160 --> 00:21:18,800
+campaign and still make money as long as
+
+738
+00:21:17,040 --> 00:21:20,840
+your ads are good that's why my whole
+
+739
+00:21:18,800 --> 00:21:22,680
+thing is run more ads should say run
+
+740
+00:21:20,840 --> 00:21:24,560
+more good ads because if you run boring
+
+741
+00:21:22,680 --> 00:21:26,000
+ads nobody's going to watch nobody cares
+
+742
+00:21:24,560 --> 00:21:28,080
+nobody cares about who you are for the
+
+743
+00:21:26,000 --> 00:21:29,920
+ad name same process as before just use
+
+744
+00:21:28,080 --> 00:21:31,320
+something simp simple and organized so
+
+745
+00:21:29,920 --> 00:21:33,840
+that you can know exactly what's going
+
+746
+00:21:31,320 --> 00:21:35,840
+on in that ad without actually opening
+
+747
+00:21:33,840 --> 00:21:37,280
+the ad itself under the identity section
+
+748
+00:21:35,840 --> 00:21:39,360
+you can see we already have the Mark has
+
+749
+00:21:37,280 --> 00:21:40,760
+no friends Facebook page is already
+
+750
+00:21:39,360 --> 00:21:42,280
+selected so we're good to go the
+
+751
+00:21:40,760 --> 00:21:44,080
+Instagram account we're just going to
+
+752
+00:21:42,280 --> 00:21:45,280
+use a selected Facebook page so you
+
+753
+00:21:44,080 --> 00:21:47,520
+don't actually need to create an
+
+754
+00:21:45,280 --> 00:21:49,160
+Instagram account to run ads on Facebook
+
+755
+00:21:47,520 --> 00:21:51,240
+and Instagram so I actually don't
+
+756
+00:21:49,160 --> 00:21:52,760
+recommend people create an Instagram
+
+757
+00:21:51,240 --> 00:21:54,360
+account right when they launch unless
+
+758
+00:21:52,760 --> 00:21:56,440
+you already have one with at least
+
+759
+00:21:54,360 --> 00:21:58,200
+10,000 followers and the reason why is
+
+760
+00:21:56,440 --> 00:22:00,200
+because on Instagram especially when
+
+761
+00:21:58,200 --> 00:22:02,360
+people are buying something they are so
+
+762
+00:22:00,200 --> 00:22:04,600
+vain they are so judgmental so if they
+
+763
+00:22:02,360 --> 00:22:07,160
+see a brand new Instagram account that
+
+764
+00:22:04,600 --> 00:22:08,440
+has zero followers in like three posts
+
+765
+00:22:07,160 --> 00:22:10,080
+that's working against you and that's
+
+766
+00:22:08,440 --> 00:22:12,040
+going to affect the conversion rate that
+
+767
+00:22:10,080 --> 00:22:13,400
+you have on your store so I recommend if
+
+768
+00:22:12,040 --> 00:22:15,320
+you're just starting out from scratch
+
+769
+00:22:13,400 --> 00:22:16,720
+just select use Facebook page and then
+
+770
+00:22:15,320 --> 00:22:19,040
+you can create an Instagram account
+
+771
+00:22:16,720 --> 00:22:21,440
+later down the line it's not a big deal
+
+772
+00:22:19,040 --> 00:22:23,240
+at all now comes down to the actual ad
+
+773
+00:22:21,440 --> 00:22:24,720
+creation so on Facebook there's really
+
+774
+00:22:23,240 --> 00:22:27,080
+three types of ads that you can create
+
+775
+00:22:24,720 --> 00:22:28,840
+image ads video ads or Carousel ads and
+
+776
+00:22:27,080 --> 00:22:30,880
+carousels are just a collection of
+
+777
+00:22:28,840 --> 00:22:32,480
+multiple images or multiple videos in a
+
+778
+00:22:30,880 --> 00:22:34,320
+row for us we're just going to run a
+
+779
+00:22:32,480 --> 00:22:36,120
+simple image ad because they're very
+
+780
+00:22:34,320 --> 00:22:38,480
+cheap so you just want to select single
+
+781
+00:22:36,120 --> 00:22:40,760
+image or video and deselect multi-
+
+782
+00:22:38,480 --> 00:22:42,320
+Advertiser ad under ad sources we also
+
+783
+00:22:40,760 --> 00:22:43,560
+want to keep this completely blank once
+
+784
+00:22:42,320 --> 00:22:44,640
+again this is another thing where
+
+785
+00:22:43,560 --> 00:22:46,320
+Facebook is trying to get more
+
+786
+00:22:44,640 --> 00:22:48,320
+information from you and this doesn't
+
+787
+00:22:46,320 --> 00:22:50,080
+help you in any way and now go down to
+
+788
+00:22:48,320 --> 00:22:51,480
+the actual ad creative so when you hear
+
+789
+00:22:50,080 --> 00:22:53,400
+somebody say creative or how many
+
+790
+00:22:51,480 --> 00:22:55,360
+creatives are you testing per week which
+
+791
+00:22:53,400 --> 00:22:57,560
+is something I ask my team every single
+
+792
+00:22:55,360 --> 00:23:00,160
+week creative is simply the image or the
+
+793
+00:22:57,560 --> 00:23:03,200
+video associ with your ad it's what has
+
+794
+00:23:00,160 --> 00:23:04,760
+the most power the most pull amongst any
+
+795
+00:23:03,200 --> 00:23:06,960
+part of the ad more than the copy more
+
+796
+00:23:04,760 --> 00:23:08,640
+than the call to action the creative is
+
+797
+00:23:06,960 --> 00:23:10,320
+by far the most important element and if
+
+798
+00:23:08,640 --> 00:23:12,200
+you get that right especially the first
+
+799
+00:23:10,320 --> 00:23:14,160
+2 to 3 seconds of the creative you will
+
+800
+00:23:12,200 --> 00:23:16,360
+make so much money like Facebook will
+
+801
+00:23:14,160 --> 00:23:18,440
+become a thing where you put a dollar in
+
+802
+00:23:16,360 --> 00:23:19,920
+and you get three four $5 out that's why
+
+803
+00:23:18,440 --> 00:23:22,480
+paid ads are so powerful so we're going
+
+804
+00:23:19,920 --> 00:23:23,720
+to upload the ad that we already worked
+
+805
+00:23:22,480 --> 00:23:26,000
+so hard on creating so we're just going
+
+806
+00:23:23,720 --> 00:23:27,640
+to hit upload and gotcha so our ad
+
+807
+00:23:26,000 --> 00:23:29,360
+beautiful ad right here before we
+
+808
+00:23:27,640 --> 00:23:31,520
+actually upload it you want to make sure
+
+809
+00:23:29,360 --> 00:23:33,480
+that it fits every single placement so I
+
+810
+00:23:31,520 --> 00:23:35,360
+just keep it on original because I find
+
+811
+00:23:33,480 --> 00:23:37,040
+that if you change the original
+
+812
+00:23:35,360 --> 00:23:38,320
+resolution of that image just looks
+
+813
+00:23:37,040 --> 00:23:39,680
+really wonky and really weird we're
+
+814
+00:23:38,320 --> 00:23:41,280
+going to keep original for all three
+
+815
+00:23:39,680 --> 00:23:43,240
+that's what I recommend hit next and all
+
+816
+00:23:41,280 --> 00:23:45,000
+the ad optimizations just skip them all
+
+817
+00:23:43,240 --> 00:23:46,000
+I promise they're not worth it another
+
+818
+00:23:45,000 --> 00:23:47,480
+thing that you need to know about
+
+819
+00:23:46,000 --> 00:23:49,280
+Facebook is that they'll have all these
+
+820
+00:23:47,480 --> 00:23:51,040
+errors around your account they'll say
+
+821
+00:23:49,280 --> 00:23:52,160
+like oh this is not going to be good for
+
+822
+00:23:51,040 --> 00:23:53,760
+your results you need to have more
+
+823
+00:23:52,160 --> 00:23:55,120
+creative that's not true Facebook is a
+
+824
+00:23:53,760 --> 00:23:56,560
+business at the end of the day they want
+
+825
+00:23:55,120 --> 00:23:58,720
+the money of small business owners like
+
+826
+00:23:56,560 --> 00:24:00,360
+you especially people that have no idea
+
+827
+00:23:58,720 --> 00:24:02,640
+what they're doing and so most of these
+
+828
+00:24:00,360 --> 00:24:04,360
+errors for the far majority of the time
+
+829
+00:24:02,640 --> 00:24:05,960
+you can just completely ignore them if
+
+830
+00:24:04,360 --> 00:24:08,720
+you follow exactly what I've told you to
+
+831
+00:24:05,960 --> 00:24:11,600
+do in this course you will be way better
+
+832
+00:24:08,720 --> 00:24:13,040
+off than any Facebook recommendation
+
+833
+00:24:11,600 --> 00:24:14,720
+that pops up on your ad account so
+
+834
+00:24:13,040 --> 00:24:16,520
+things like this you can just completely
+
+835
+00:24:14,720 --> 00:24:18,200
+ignore x amount outside of your creative
+
+836
+00:24:16,520 --> 00:24:20,400
+there's one additional piece of your ad
+
+837
+00:24:18,200 --> 00:24:21,520
+that is by far the second most important
+
+838
+00:24:20,400 --> 00:24:23,880
+cuz the number one is the creative
+
+839
+00:24:21,520 --> 00:24:26,320
+number two is your primary text this is
+
+840
+00:24:23,880 --> 00:24:27,960
+the text that appears right underneath
+
+841
+00:24:26,320 --> 00:24:29,520
+your Facebook page but right above the
+
+842
+00:24:27,960 --> 00:24:31,000
+creative let me just like type out a
+
+843
+00:24:29,520 --> 00:24:32,240
+little thing right here as an example
+
+844
+00:24:31,000 --> 00:24:33,960
+you can see this is right where it
+
+845
+00:24:32,240 --> 00:24:35,520
+appears on Facebook and then right below
+
+846
+00:24:33,960 --> 00:24:37,240
+the image on Instagram so think of it
+
+847
+00:24:35,520 --> 00:24:38,720
+kind of as the caption but the way that
+
+848
+00:24:37,240 --> 00:24:40,160
+people's brain works when they're
+
+849
+00:24:38,720 --> 00:24:41,880
+scrolling on Instagram the first thing
+
+850
+00:24:40,160 --> 00:24:43,880
+that they see always is the creative so
+
+851
+00:24:41,880 --> 00:24:45,440
+that's like that's 90% of your success
+
+852
+00:24:43,880 --> 00:24:46,520
+of the ad right there once they watch a
+
+853
+00:24:45,440 --> 00:24:48,760
+little bit of the creative they'll
+
+854
+00:24:46,520 --> 00:24:49,760
+actually glance up to the primary text
+
+855
+00:24:48,760 --> 00:24:51,160
+or they'll look at wherever their
+
+856
+00:24:49,760 --> 00:24:52,800
+caption is going to be so on Instagram
+
+857
+00:24:51,160 --> 00:24:55,280
+it's down but on Facebook it's up that's
+
+858
+00:24:52,800 --> 00:24:57,720
+why the primary text is the second most
+
+859
+00:24:55,280 --> 00:24:59,560
+important piece of the ad and after that
+
+860
+00:24:57,720 --> 00:25:01,200
+it would be the headline and the
+
+861
+00:24:59,560 --> 00:25:02,840
+description which if I were to write a
+
+862
+00:25:01,200 --> 00:25:04,520
+headline for example that's going to be
+
+863
+00:25:02,840 --> 00:25:05,680
+right here on the ad and on Instagram it
+
+864
+00:25:04,520 --> 00:25:07,160
+doesn't even show up and then the
+
+865
+00:25:05,680 --> 00:25:08,400
+description of course is going to be
+
+866
+00:25:07,160 --> 00:25:09,720
+right below the headline again on
+
+867
+00:25:08,400 --> 00:25:11,480
+Instagram it doesn't even show up that
+
+868
+00:25:09,720 --> 00:25:13,240
+should tell you how important it
+
+869
+00:25:11,480 --> 00:25:15,000
+actually is it doesn't even show up on
+
+870
+00:25:13,240 --> 00:25:18,360
+Instagram final thing I'll say about ad
+
+871
+00:25:15,000 --> 00:25:19,760
+copy is Facebook loves rejecting ads and
+
+872
+00:25:18,360 --> 00:25:21,680
+they'll reject ads for a number of
+
+873
+00:25:19,760 --> 00:25:23,280
+reasons sometimes it's completely random
+
+874
+00:25:21,680 --> 00:25:25,000
+but most of the times it'll reject ads
+
+875
+00:25:23,280 --> 00:25:26,360
+from the ad copy based off what you
+
+876
+00:25:25,000 --> 00:25:28,320
+write so if you're writing something
+
+877
+00:25:26,360 --> 00:25:29,480
+that's really what we call aggressive in
+
+878
+00:25:28,320 --> 00:25:31,080
+the industry you know like if you're
+
+879
+00:25:29,480 --> 00:25:35,040
+selling a weight loss product easily
+
+880
+00:25:31,080 --> 00:25:37,360
+lose 20 lbs in 2 days without diet or
+
+881
+00:25:35,040 --> 00:25:39,360
+exercise Facebook has an AI built in and
+
+882
+00:25:37,360 --> 00:25:41,240
+it's going to analyze that and analyze
+
+883
+00:25:39,360 --> 00:25:42,880
+the sentiment around that particular
+
+884
+00:25:41,240 --> 00:25:44,440
+claim and that piece of text and it's
+
+885
+00:25:42,880 --> 00:25:46,360
+going to say yeah I don't think so that
+
+886
+00:25:44,440 --> 00:25:48,320
+sounds super unrealistic and what you're
+
+887
+00:25:46,360 --> 00:25:50,960
+writing is not in the best interest of
+
+888
+00:25:48,320 --> 00:25:52,880
+our users our Collective users there's
+
+889
+00:25:50,960 --> 00:25:54,240
+over a billion monthly active users on
+
+890
+00:25:52,880 --> 00:25:56,440
+Facebook that's not even including
+
+891
+00:25:54,240 --> 00:25:58,640
+Instagram or Whatsapp which Facebook
+
+892
+00:25:56,440 --> 00:26:00,280
+owns both of those so general rules are
+
+893
+00:25:58,640 --> 00:26:01,920
+don't have any really really aggressive
+
+894
+00:26:00,280 --> 00:26:04,240
+claims like that any wild
+
+895
+00:26:01,920 --> 00:26:05,880
+Transformations and don't cuss you can
+
+896
+00:26:04,240 --> 00:26:08,000
+bleep out curse words but don't just
+
+897
+00:26:05,880 --> 00:26:10,280
+outright cuss and don't write in all
+
+898
+00:26:08,000 --> 00:26:11,880
+caps writing in all caps is one of the
+
+899
+00:26:10,280 --> 00:26:13,760
+worst things you can do because often
+
+900
+00:26:11,880 --> 00:26:15,560
+times you won't actually get rejected
+
+901
+00:26:13,760 --> 00:26:17,280
+for having an ad that's written in all
+
+902
+00:26:15,560 --> 00:26:19,280
+caps but what Facebook will do is
+
+903
+00:26:17,280 --> 00:26:21,280
+they'll say wow this ad this guy was
+
+904
+00:26:19,280 --> 00:26:22,480
+really trying to sound so important that
+
+905
+00:26:21,280 --> 00:26:25,040
+we're going to punish him and we're
+
+906
+00:26:22,480 --> 00:26:26,320
+going to increase his ad cost like crazy
+
+907
+00:26:25,040 --> 00:26:28,440
+to the point where it's not even worth
+
+908
+00:26:26,320 --> 00:26:30,040
+running ads and years ago I had a client
+
+909
+00:26:28,440 --> 00:26:31,640
+this happened to and I was like what is
+
+910
+00:26:30,040 --> 00:26:33,280
+going on this is so weird and we look at
+
+911
+00:26:31,640 --> 00:26:34,920
+the ad I'm like oh well there it is he
+
+912
+00:26:33,280 --> 00:26:36,840
+wrote everything in all caps and it was
+
+913
+00:26:34,920 --> 00:26:38,560
+like 200 words so just write like your
+
+914
+00:26:36,840 --> 00:26:39,720
+normal human being selling a product to
+
+915
+00:26:38,560 --> 00:26:41,120
+a random stranger on the internet and
+
+916
+00:26:39,720 --> 00:26:43,280
+you'll be just fine now for the call to
+
+917
+00:26:41,120 --> 00:26:45,880
+action I like to keep it very simple I
+
+918
+00:26:43,280 --> 00:26:47,720
+typically keep it as shop now or learn
+
+919
+00:26:45,880 --> 00:26:49,120
+more so if you're selling an e-commerce
+
+920
+00:26:47,720 --> 00:26:50,960
+product then keep it as shop now
+
+921
+00:26:49,120 --> 00:26:52,640
+anything else just keep it as learn more
+
+922
+00:26:50,960 --> 00:26:54,040
+now if we scroll down here the last
+
+923
+00:26:52,640 --> 00:26:56,600
+thing that we really have to add is
+
+924
+00:26:54,040 --> 00:26:58,360
+going to be the ad destination which is
+
+925
+00:26:56,600 --> 00:27:00,360
+a fancy way of saying the URL that you
+
+926
+00:26:58,360 --> 00:27:01,840
+want the traffic to go to after they
+
+927
+00:27:00,360 --> 00:27:03,880
+click on your ad so for us that's going
+
+928
+00:27:01,840 --> 00:27:05,240
+to be our pretty little test Shopify
+
+929
+00:27:03,880 --> 00:27:06,800
+store that we have here so we're just
+
+930
+00:27:05,240 --> 00:27:08,080
+going to copy that and paste it right
+
+931
+00:27:06,800 --> 00:27:09,680
+into the URL and we're good to go you
+
+932
+00:27:08,080 --> 00:27:11,560
+don't need to put anything for display
+
+933
+00:27:09,680 --> 00:27:12,960
+link browser add-ons again this is just
+
+934
+00:27:11,560 --> 00:27:14,280
+it doesn't help your conversion rate
+
+935
+00:27:12,960 --> 00:27:15,400
+it's not going to make you more money
+
+936
+00:27:14,280 --> 00:27:17,320
+you don't need to do it all the other
+
+937
+00:27:15,400 --> 00:27:19,000
+settings at the ad level you don't need
+
+938
+00:27:17,320 --> 00:27:20,840
+to touch we have the link you have the
+
+939
+00:27:19,000 --> 00:27:22,240
+copy updated the creative is there
+
+940
+00:27:20,840 --> 00:27:23,520
+that's all that you need the only final
+
+941
+00:27:22,240 --> 00:27:25,160
+thing that's a great add-on if you
+
+942
+00:27:23,520 --> 00:27:26,760
+scroll all the way down so if you're
+
+943
+00:27:25,160 --> 00:27:28,360
+running an e-commerce store I highly
+
+944
+00:27:26,760 --> 00:27:30,200
+recommend you use triple whale for
+
+945
+00:27:28,360 --> 00:27:32,640
+tracking if you're running info I highly
+
+946
+00:27:30,200 --> 00:27:33,960
+recommend you use a software called hyos
+
+947
+00:27:32,640 --> 00:27:35,760
+if you're running anything else in
+
+948
+00:27:33,960 --> 00:27:37,000
+between send me a DM on Instagram and I
+
+949
+00:27:35,760 --> 00:27:38,600
+can help you out a little bit further
+
+950
+00:27:37,000 --> 00:27:40,560
+there so what you'll do is paste some
+
+951
+00:27:38,600 --> 00:27:42,280
+simple URL parameters right here at the
+
+952
+00:27:40,560 --> 00:27:43,880
+bottom of all of your ads so that
+
+953
+00:27:42,280 --> 00:27:45,640
+anytime somebody clicks and buys
+
+954
+00:27:43,880 --> 00:27:47,760
+something from you you can know the
+
+955
+00:27:45,640 --> 00:27:50,080
+exact ad ad set the audience you can
+
+956
+00:27:47,760 --> 00:27:52,040
+know everything about where that person
+
+957
+00:27:50,080 --> 00:27:54,200
+came from to optimize your ads better
+
+958
+00:27:52,040 --> 00:27:55,680
+and that's it so all you have to do is
+
+959
+00:27:54,200 --> 00:27:57,520
+go to the bottom right and we're going
+
+960
+00:27:55,680 --> 00:27:59,000
+to select publish so I'm just going to
+
+961
+00:27:57,520 --> 00:28:00,400
+add my payment information here I'm
+
+962
+00:27:59,000 --> 00:28:01,680
+going to hit next so this is a really
+
+963
+00:28:00,400 --> 00:28:04,040
+important thing about once again
+
+964
+00:28:01,680 --> 00:28:05,680
+Facebook and how they categorize what
+
+965
+00:28:04,040 --> 00:28:07,000
+type of payment method that you use I'm
+
+966
+00:28:05,680 --> 00:28:08,600
+just going to tell you what to do and
+
+967
+00:28:07,000 --> 00:28:10,520
+then tell you why you should select
+
+968
+00:28:08,600 --> 00:28:13,000
+credit card and nothing else don't pay
+
+969
+00:28:10,520 --> 00:28:14,800
+with PayPal don't pay with an online
+
+970
+00:28:13,000 --> 00:28:16,480
+bank connected don't pay any other way
+
+971
+00:28:14,800 --> 00:28:18,400
+except for a credit card the reason why
+
+972
+00:28:16,480 --> 00:28:20,360
+is because Facebook like I said is a
+
+973
+00:28:18,400 --> 00:28:22,600
+business and they always want your money
+
+974
+00:28:20,360 --> 00:28:25,200
+you are the target for Facebook ads if
+
+975
+00:28:22,600 --> 00:28:27,040
+they see you add PayPal which is not as
+
+976
+00:28:25,200 --> 00:28:28,800
+secure as something like a credit card
+
+977
+00:28:27,040 --> 00:28:30,240
+with the US banking system they're
+
+978
+00:28:28,800 --> 00:28:31,640
+actually going to alter the quality of
+
+979
+00:28:30,240 --> 00:28:33,120
+traffic that they send you because of
+
+980
+00:28:31,640 --> 00:28:35,120
+the payment method which is crazy but
+
+981
+00:28:33,120 --> 00:28:36,720
+they will send you lower quality traffic
+
+982
+00:28:35,120 --> 00:28:38,160
+lower your conversion rate lower your
+
+983
+00:28:36,720 --> 00:28:40,200
+average order value and you'll make less
+
+984
+00:28:38,160 --> 00:28:41,640
+money simply because you changed the
+
+985
+00:28:40,200 --> 00:28:43,520
+payment method all right and we're good
+
+986
+00:28:41,640 --> 00:28:45,000
+to go the card has been saved it has
+
+987
+00:28:43,520 --> 00:28:46,400
+been added so you may have to hit
+
+988
+00:28:45,000 --> 00:28:47,920
+publish once again so we're just going
+
+989
+00:28:46,400 --> 00:28:49,560
+to select publish on the ad now that we
+
+990
+00:28:47,920 --> 00:28:50,760
+have the payment method added boom there
+
+991
+00:28:49,560 --> 00:28:52,360
+you go you did it you just published
+
+992
+00:28:50,760 --> 00:28:53,880
+your first ad on Facebook great job so
+
+993
+00:28:52,360 --> 00:28:55,080
+now that your first campaign is actually
+
+994
+00:28:53,880 --> 00:28:57,080
+live and you're going to start spending
+
+995
+00:28:55,080 --> 00:28:58,760
+money on ads this is where the real work
+
+996
+00:28:57,080 --> 00:29:00,480
+begins all that stuff that I just took
+
+997
+00:28:58,760 --> 00:29:01,920
+you through I hate to say it that was
+
+998
+00:29:00,480 --> 00:29:03,960
+the easy part that was just setting
+
+999
+00:29:01,920 --> 00:29:06,080
+things up now you get to actually run
+
+1000
+00:29:03,960 --> 00:29:08,680
+and manage testing new creatives testing
+
+1001
+00:29:06,080 --> 00:29:10,480
+new audiences testing this testing that
+
+1002
+00:29:08,680 --> 00:29:11,960
+testing everything and just seeing what
+
+1003
+00:29:10,480 --> 00:29:13,720
+sticks what is really resonating with
+
+1004
+00:29:11,960 --> 00:29:15,200
+the audience and one of the best ways to
+
+1005
+00:29:13,720 --> 00:29:17,600
+really do that is simply to know your
+
+1006
+00:29:15,200 --> 00:29:19,800
+numbers know what metrics to look at and
+
+1007
+00:29:17,600 --> 00:29:21,200
+cut out all of the noise let me actually
+
+1008
+00:29:19,800 --> 00:29:23,200
+show you how to create some custom
+
+1009
+00:29:21,200 --> 00:29:24,680
+columns to properly analyze your data so
+
+1010
+00:29:23,200 --> 00:29:26,560
+we're going to go to columns right here
+
+1011
+00:29:24,680 --> 00:29:28,240
+and you're going to go to customize
+
+1012
+00:29:26,560 --> 00:29:30,760
+columns now over here on the right hand
+
+1013
+00:29:28,240 --> 00:29:34,040
+side right under campaign we are going
+
+1014
+00:29:30,760 --> 00:29:35,400
+to delete everything except for delivery
+
+1015
+00:29:34,040 --> 00:29:37,520
+and budget everything else we're going
+
+1016
+00:29:35,400 --> 00:29:39,440
+to build from the bottom up so just X
+
+1017
+00:29:37,520 --> 00:29:41,200
+everything out here great now this is a
+
+1018
+00:29:39,440 --> 00:29:43,160
+nice clean start so first we want to
+
+1019
+00:29:41,200 --> 00:29:44,920
+click Impressions which is just a fancy
+
+1020
+00:29:43,160 --> 00:29:46,200
+way to say how many people actually saw
+
+1021
+00:29:44,920 --> 00:29:47,360
+your ad and next while you have
+
+1022
+00:29:46,200 --> 00:29:50,640
+Impressions searched you're going to
+
+1023
+00:29:47,360 --> 00:29:52,880
+select CPM which is how expensive it is
+
+1024
+00:29:50,640 --> 00:29:55,760
+for you to advertise to 1,000 people
+
+1025
+00:29:52,880 --> 00:29:58,040
+after cpms we're going to select CTR and
+
+1026
+00:29:55,760 --> 00:29:59,880
+you specifically want to select link
+
+1027
+00:29:58,040 --> 00:30:02,120
+click the rate this is the percentage of
+
+1028
+00:29:59,880 --> 00:30:05,120
+people that see your ad stop and click
+
+1029
+00:30:02,120 --> 00:30:07,040
+the link to go to your website after CTR
+
+1030
+00:30:05,120 --> 00:30:08,360
+we're going to select CPC same process
+
+1031
+00:30:07,040 --> 00:30:10,480
+you want to select the one that says
+
+1032
+00:30:08,360 --> 00:30:12,840
+cost per link click and again that's how
+
+1033
+00:30:10,480 --> 00:30:14,880
+much you pay Facebook for one click to
+
+1034
+00:30:12,840 --> 00:30:16,080
+your website next you want to search for
+
+1035
+00:30:14,880 --> 00:30:17,320
+link clicks which is pretty
+
+1036
+00:30:16,080 --> 00:30:18,720
+straightforward how many people actually
+
+1037
+00:30:17,320 --> 00:30:20,880
+clicked on your ad next you want to
+
+1038
+00:30:18,720 --> 00:30:22,320
+search for landing page views and you're
+
+1039
+00:30:20,880 --> 00:30:24,600
+going to select total this is the amount
+
+1040
+00:30:22,320 --> 00:30:26,600
+of people that both clicked and landed
+
+1041
+00:30:24,600 --> 00:30:28,040
+on your landing page because a lot of
+
+1042
+00:30:26,600 --> 00:30:29,880
+people will click and because you're
+
+1043
+00:30:28,040 --> 00:30:32,040
+website loads too slow they'll leave
+
+1044
+00:30:29,880 --> 00:30:33,680
+before it's even registered as a landing
+
+1045
+00:30:32,040 --> 00:30:35,040
+page view next you want to add add to
+
+1046
+00:30:33,680 --> 00:30:36,720
+cart we're going to search add to cart
+
+1047
+00:30:35,040 --> 00:30:39,040
+and hit total and then all of these you
+
+1048
+00:30:36,720 --> 00:30:40,800
+want to deselect every single one next
+
+1049
+00:30:39,040 --> 00:30:43,400
+we're going to do initiate checkout hit
+
+1050
+00:30:40,800 --> 00:30:45,120
+total and same process deselect all four
+
+1051
+00:30:43,400 --> 00:30:46,880
+of these check boxes next is going to be
+
+1052
+00:30:45,120 --> 00:30:49,600
+purchases so for purchases we're going
+
+1053
+00:30:46,880 --> 00:30:51,000
+to select total Des select all four and
+
+1054
+00:30:49,600 --> 00:30:53,520
+while you still have purchases searched
+
+1055
+00:30:51,000 --> 00:30:55,560
+up you're also going to select value and
+
+1056
+00:30:53,520 --> 00:30:57,960
+purchase row as so scroll down and
+
+1057
+00:30:55,560 --> 00:30:59,520
+you're going to uncheck all four for
+
+1058
+00:30:57,960 --> 00:31:01,680
+conversion value keep scrolling and then
+
+1059
+00:30:59,520 --> 00:31:03,880
+uncheck these two for Rass so the
+
+1060
+00:31:01,680 --> 00:31:05,800
+purchases conversion value is just a
+
+1061
+00:31:03,880 --> 00:31:07,480
+fancy way to say how much revenue you
+
+1062
+00:31:05,800 --> 00:31:09,080
+actually generated what was your sales
+
+1063
+00:31:07,480 --> 00:31:10,640
+for this ad for this ad set for this
+
+1064
+00:31:09,080 --> 00:31:12,240
+campaign the cost per purchase is how
+
+1065
+00:31:10,640 --> 00:31:13,440
+much you're paying for a purchase pretty
+
+1066
+00:31:12,240 --> 00:31:16,040
+straightforward and then the purchase
+
+1067
+00:31:13,440 --> 00:31:18,160
+row as is what is your return on your
+
+1068
+00:31:16,040 --> 00:31:20,280
+advertising dollar so if I were to go to
+
+1069
+00:31:18,160 --> 00:31:22,160
+Facebook and spend $100 on ads and I
+
+1070
+00:31:20,280 --> 00:31:25,040
+brought back $200 in Revenue that would
+
+1071
+00:31:22,160 --> 00:31:26,400
+be a 2.0 rows after all this is done
+
+1072
+00:31:25,040 --> 00:31:27,840
+you're going to go to the bottom left
+
+1073
+00:31:26,400 --> 00:31:30,200
+save as column preset and you're going
+
+1074
+00:31:27,840 --> 00:31:31,960
+to to type in run more ads as a constant
+
+1075
+00:31:30,200 --> 00:31:33,520
+reminder that you always need to be
+
+1076
+00:31:31,960 --> 00:31:35,040
+running more ads and just go to bottom
+
+1077
+00:31:33,520 --> 00:31:37,560
+right and hit apply there you go you got
+
+1078
+00:31:35,040 --> 00:31:39,280
+all these beautiful custom columns saved
+
+1079
+00:31:37,560 --> 00:31:41,000
+and ready to go so that you can analyze
+
+1080
+00:31:39,280 --> 00:31:42,320
+data like a real expert all right that's
+
+1081
+00:31:41,000 --> 00:31:43,680
+it for this video guys thank you so much
+
+1082
+00:31:42,320 --> 00:31:44,920
+for watching Facebook ads are
+
+1083
+00:31:43,680 --> 00:31:47,640
+complicated they're tough I've been
+
+1084
+00:31:44,920 --> 00:31:49,280
+running ads for 6 plus years and there's
+
+1085
+00:31:47,640 --> 00:31:51,160
+still stuff that I see that I'm like
+
+1086
+00:31:49,280 --> 00:31:53,440
+what the hell is even that that's why
+
+1087
+00:31:51,160 --> 00:31:55,520
+it's so important to have like a coach
+
+1088
+00:31:53,440 --> 00:31:57,400
+or a mentor that can give you
+
+1089
+00:31:55,520 --> 00:31:58,760
+personalized one-on-one feedback again
+
+1090
+00:31:57,400 --> 00:32:00,280
+that's why we built brand builders
+
+1091
+00:31:58,760 --> 00:32:02,080
+Academy so if you want to learn how to
+
+1092
+00:32:00,280 --> 00:32:03,960
+run ads most successfully with
+
+1093
+00:32:02,080 --> 00:32:06,160
+e-commerce specifically just click the
+
+1094
+00:32:03,960 --> 00:32:07,720
+first link in the description to apply
+
+1095
+00:32:06,160 --> 00:32:10,320
+for that program other than that make
+
+1096
+00:32:07,720 --> 00:32:12,040
+sure you subscribe I got more Super
+
+1097
+00:32:10,320 --> 00:32:13,920
+valuable videos coming for you other
+
+1098
+00:32:12,040 --> 00:32:16,360
+than that see you in the next video
+
+1099
+00:32:13,920 --> 00:32:16,360
+peace
+

@@ -1,0 +1,1108 @@
+# FREE Facebook Ads Course For Shopify Dropshipping - 2024 Tutorial For Beginners
+URL: https://www.youtube.com/watch?v=8SFz75J4pjY
+Category: video
+Duration: 1935s
+Published: 20241113
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] in this video I'm going to show you
+[00:00:01] everything that you need to know to
+[00:00:02] launch your first successful Facebook ad
+[00:00:05] campaign from complete scratch this
+[00:00:07] video is designed to get you from
+[00:00:08] somebody who maybe doesn't know a whole
+[00:00:09] lot if anything about launching Facebook
+[00:00:12] ads to a literal freaking ads expert
+[00:00:15] somebody who just hops in the ads
+[00:00:16] manager and starts printing money
+[00:00:18] practically on demand and if you don't
+[00:00:19] know who I am my name is Mark studor and
+[00:00:21] as you can tell by my shirt I run ads
+[00:00:23] for a living so who better to learn from
+[00:00:24] than somebody who does this every single
+[00:00:26] day after you're fully logged into your
+[00:00:27] Facebook account the first thing that
+[00:00:28] you want to do is go go to business.
+[00:00:31] face.com and the first thing we're going
+[00:00:33] to do is set up what's called a business
+[00:00:35] manager you can see this is the first
+[00:00:37] screen that we see right here it's going
+[00:00:39] to pre-fill in your name so with
+[00:00:40] Facebook there's this infrastructure
+[00:00:42] where at the very top you have a
+[00:00:44] business manager you want to think of
+[00:00:45] this as a house and inside of the house
+[00:00:47] there's a bunch of different rooms that
+[00:00:49] you can have such as you can have a room
+[00:00:50] for the ad accounts you can have a room
+[00:00:52] for the pixels the business manager is
+[00:00:54] what holds all of that together so if
+[00:00:56] you're building a house you're going to
+[00:00:57] start from the outside in you're not
+[00:00:59] going to start by building one of the
+[00:01:00] smallest rooms right you're going to
+[00:01:02] start by building the foundation and
+[00:01:03] actually building the house first before
+[00:01:05] anything else so that's what we're doing
+[00:01:06] right here you want to start by naming
+[00:01:08] your business manager you can name it
+[00:01:09] whatever you want I'll just call mine
+[00:01:11] marks BM and then here you're going to
+[00:01:13] have your name and lastly down below
+[00:01:14] just add your email that you want to use
+[00:01:16] to be associated with the business and
+[00:01:17] then you're just going to click submit
+[00:01:18] right here and boom there you go your
+[00:01:19] business manager was created great job
+[00:01:21] you're doing great so far now you just
+[00:01:23] are going to have to confirm your email
+[00:01:25] address so go over to your Gmail account
+[00:01:26] or whatever you're using and click the
+[00:01:28] link inside of that email to actually
+[00:01:30] confirm the creation of the business
+[00:01:32] manager so here you can see we got the
+[00:01:33] email we're just going to click in here
+[00:01:35] and just hit confirm now and there you
+[00:01:37] have it you've officially created your
+[00:01:39] first business manager great work you're
+[00:01:40] doing so good so now that you're in the
+[00:01:41] business manager the first thing you
+[00:01:43] want to do is scroll all the way to the
+[00:01:44] bottom on the left side and click
+[00:01:46] business info and here you're going to
+[00:01:48] select edits and you're actually going
+[00:01:49] to go through and insert all the
+[00:01:50] information that you have that's
+[00:01:52] associated with your business now if you
+[00:01:53] don't have a business that's okay just
+[00:01:55] fill out the information that is
+[00:01:57] associated with you personally and then
+[00:01:59] when you do create the business
+[00:02:00] eventually down the line you can come
+[00:02:02] and update this information at any time
+[00:02:03] no biggie so where it says legal name of
+[00:02:05] business if you don't have a business
+[00:02:06] you can just put you know your own name
+[00:02:09] right here and Country obviously the
+[00:02:10] country that you are staying same thing
+[00:02:12] with the street address again if you
+[00:02:13] don't have a specific business address
+[00:02:16] just use the one that is associated with
+[00:02:17] your residential address it's fine you
+[00:02:18] can always come back and change it later
+[00:02:20] down the line it's not a big deal after
+[00:02:21] you finished all that you're going to
+[00:02:22] just hit save in the bottom right hand
+[00:02:23] corner now that you're back in the main
+[00:02:25] screen of the BM next thing to do is to
+[00:02:27] go to the section that says people so
+[00:02:29] scroll all the way up to the top on the
+[00:02:31] left hand side so people is where you
+[00:02:32] can add other people to your business
+[00:02:34] manager so for example if you want
+[00:02:35] somebody else to run your ads or you
+[00:02:36] have a business partner this is where
+[00:02:38] you can go and do that you just go up to
+[00:02:40] invite right here in this blue button
+[00:02:41] you're going to enter their email
+[00:02:42] address that's associated with their
+[00:02:44] Facebook profile and then just invite
+[00:02:45] them to your BM you know it's like a
+[00:02:47] little BM party just invite them over
+[00:02:48] just come on over but for me I don't
+[00:02:49] have any friends so I'm not inviting
+[00:02:51] anybody to my business manager it's my
+[00:02:52] party party of one next step is to add
+[00:02:54] two Factor authentication now I know for
+[00:02:57] a lot of you that's probably kind of a
+[00:02:58] pain in the butt to set up but I promise
+[00:03:00] you it's worthwhile and the reason why
+[00:03:02] is because often times you will see ad
+[00:03:04] accounts get hacked which means people
+[00:03:06] will actually hack into your own ad
+[00:03:07] account and spend your money and then
+[00:03:09] disappear poof they're gone and there's
+[00:03:11] nothing you can do about it I'm only
+[00:03:13] saying this because I have personally
+[00:03:14] had experiences of this and I can tell
+[00:03:17] you from firsthand experience it sucks
+[00:03:18] just going to go to security center
+[00:03:19] right here and rate under two Factor
+[00:03:21] authentication we're going to hit
+[00:03:23] everyone and from there you're good to
+[00:03:24] go TFA will officially be set up anytime
+[00:03:26] you try to log into the account now that
+[00:03:27] we have kind of the general structure of
+[00:03:29] the BM set up we're going to move into
+[00:03:31] actually creating your own Facebook page
+[00:03:34] so to do that you're going to go rate
+[00:03:35] under Pages who would have thought
+[00:03:37] you're going to hit add very important
+[00:03:38] here you're going to select the third
+[00:03:40] option you're not going to hit add a
+[00:03:41] page this is if you're adding an
+[00:03:43] existing page but you probably don't
+[00:03:45] have a page so you're going to go right
+[00:03:46] down to where it says create a new page
+[00:03:48] it's going to create a brand new
+[00:03:50] Facebook page from scratch associated
+[00:03:52] with your business so let's go ahead and
+[00:03:53] click that so whatever your business
+[00:03:54] name is called you want to put it right
+[00:03:56] here in this case I already have one for
+[00:03:57] my business so I'm just going to call
+[00:03:59] this one Mark has no friends and under
+[00:04:01] category pretty common you're just going
+[00:04:02] to choose whatever is associated with
+[00:04:04] your category so let's say like I run
+[00:04:06] you know an education business that's a
+[00:04:07] great one so we'll select like education
+[00:04:09] is absolutely not mandatory just select
+[00:04:11] whatever is most associated with your
+[00:04:12] business in the bio as you can see here
+[00:04:13] it's optional so that means that we
+[00:04:15] don't do it it looks like Facebook is
+[00:04:17] telling me I don't have friends now we
+[00:04:19] can see that Mark BM officially has the
+[00:04:21] Mark has no friends Facebook page so
+[00:04:23] we're going to just check this box that
+[00:04:24] says I agree and hit create page I I do
+[00:04:26] have friends I I swear they're I pay
+[00:04:28] them a lot of money so now that the page
+[00:04:29] is done we're going to do the exact same
+[00:04:31] process with the ad accounts cuz right
+[00:04:32] now no ad account exists inside of this
+[00:04:34] business manager there's no ad account
+[00:04:36] room inside of this business manager
+[00:04:38] house so just go to add accounts over on
+[00:04:40] the left hand side under your BM hit add
+[00:04:41] and then create a new ad account add
+[00:04:43] account name I wonder what we're going
+[00:04:44] to put here once again you can name this
+[00:04:46] anything that you want so if it's
+[00:04:48] associated with your business you could
+[00:04:49] just put your business name and then add
+[00:04:50] account right after it's pretty standard
+[00:04:52] in my case uh Mark has no friends at
+[00:04:55] account pretty standard then underneath
+[00:04:57] time zone you want to select the time
+[00:04:58] zone that you're currently living in
+[00:04:59] it's probably automatically populated
+[00:05:01] but I'm in the New York time zone so I'm
+[00:05:03] going to keep that and then currency
+[00:05:04] once again just use the standard
+[00:05:05] currency that you plan on advertising in
+[00:05:07] so if that's dollars that's Euros
+[00:05:09] doesn't matter just select the one that
+[00:05:10] you're currently using this is really
+[00:05:11] important because you cannot change the
+[00:05:13] currency so like let's say you
+[00:05:14] accidentally select turkus L you can't
+[00:05:16] go back and change it like the only way
+[00:05:18] is just to create an entirely new ad
+[00:05:20] account which is a total pain often
+[00:05:22] times so make sure you actually select
+[00:05:23] the right one don't mess it up and here
+[00:05:24] we want to select my business hit create
+[00:05:26] now you're going to have this little box
+[00:05:28] pops up that says add people and set
+[00:05:30] permission so this is kind of weird so
+[00:05:31] you have to assign yourself to an ad
+[00:05:33] account just because it exists inside
+[00:05:35] your business manager does not mean that
+[00:05:37] you can run it so you have to actually
+[00:05:39] assign yourself as a person that can run
+[00:05:41] that ad account so what we're going to
+[00:05:42] do here with this box is check this then
+[00:05:44] we're going to check manage ad accounts
+[00:05:45] that means you can view the performance
+[00:05:47] manage campaigns manage creative Hub
+[00:05:49] everything right you're basically an
+[00:05:50] admin on the account and we're going to
+[00:05:52] hit assign so before you start running
+[00:05:53] your ads you'll get this window again
+[00:05:54] where you have to add payment info
+[00:05:56] because you know you got to spend money
+[00:05:57] to make money so we're going to close
+[00:05:59] this window exit and continue with the
+[00:06:01] setup all right so now you have the ad
+[00:06:02] account what we're going to move on to
+[00:06:04] next is verifying your domain so
+[00:06:06] whenever you start running an ad again
+[00:06:07] this is kind of weird that Facebook does
+[00:06:09] this but you have to verify that you
+[00:06:10] actually own it so if you try to run ads
+[00:06:12] without a verified domain you may not
+[00:06:14] get the ad approved or you may get lower
+[00:06:16] quality traffic because you didn't
+[00:06:18] verify the domain so it's just a good
+[00:06:20] general practice to verify all domains
+[00:06:21] that you're running so in this case
+[00:06:23] we're going to go right under brand
+[00:06:24] safety hit domains hit add and then
+[00:06:25] we're going to create a new domain and
+[00:06:27] now here you're going to enter the
+[00:06:28] domain that you already have purchased
+[00:06:30] if you haven't purchased one you can
+[00:06:32] just go to GoDaddy and buy one it'll
+[00:06:34] cost you like 20 or 30 bucks all in it's
+[00:06:36] very cheap oh wow it's available if this
+[00:06:38] video doesn't do well I will have bought
+[00:06:40] Mark asof friends.com for nothing as you
+[00:06:42] can see it says the domain is not
+[00:06:44] verified so what we're going to do from
+[00:06:46] this drop down is hit the third option
+[00:06:47] to update the DNS txt record with your
+[00:06:50] domain register so because I just bought
+[00:06:52] through GoDaddy I'm going to head over
+[00:06:53] to God Daddy and put this little record
+[00:06:55] in it's very simple you can do it with
+[00:06:56] me if you follow along so I'm just going
+[00:06:58] to copy here and go over to my I'm going
+[00:07:00] to hit add a new record I'm going to
+[00:07:01] choose txt and I'm going to put this is
+[00:07:03] the value boom as a name hit save yeah
+[00:07:06] so as you can see our our Mark hasof
+[00:07:08] friends.com domain is verified very
+[00:07:10] quick that was under a minute that was
+[00:07:11] actually pretty crazy so the next most
+[00:07:13] important step is that you set up your
+[00:07:15] pixel and if somebody ever says hey I
+[00:07:17] don't know what a pixel is can you
+[00:07:18] explain it to me this is all that you
+[00:07:20] need to know all it is is just a really
+[00:07:22] cool piece of technology to track each
+[00:07:24] and every person that comes to your
+[00:07:25] website now to actually set it up all
+[00:07:27] you have to do is go to not the pixel
+[00:07:29] section actually kind of weird but
+[00:07:30] you're going to go into the data sets
+[00:07:32] section and go ahead and hit add under
+[00:07:34] add you can name this data set whatever
+[00:07:36] you want and we'll call this one the
+[00:07:38] Mark has no friends pixel and we'll do
+[00:07:41] the friends with a z so after you hit
+[00:07:42] create you see this screen right here
+[00:07:44] now I could go into detail about what
+[00:07:46] each of these options means what is
+[00:07:48] conversions API all you need to know is
+[00:07:50] that it's a good thing and you want to
+[00:07:51] keep this dot checked all right so we're
+[00:07:52] going to hit next in the bottom right
+[00:07:54] hand corner and then we're going to
+[00:07:55] select check for partner now a lot of
+[00:07:57] you if you're watching this video you're
+[00:07:58] probably in the Ecom probably running
+[00:08:00] stores on Shopify so we're going to go
+[00:08:01] ahead and select Shopify right here and
+[00:08:03] Facebook makes this so easy to actually
+[00:08:05] get integrated so all you're going to do
+[00:08:07] is hit this blue button go to Shopify
+[00:08:08] it'll open your Shopify account right
+[00:08:10] here just select your store and we're
+[00:08:11] going to hit install right here in the
+[00:08:13] bottom right so because Facebook is a
+[00:08:14] massive company and Shopify is also a
+[00:08:17] massive company they have these really
+[00:08:18] cool Partnerships that makes the
+[00:08:19] integration super easy when I was
+[00:08:21] starting out it was so difficult to get
+[00:08:23] the pixel installed and so confusing so
+[00:08:25] you really got it good you know take
+[00:08:27] take advantage of it so we're going to
+[00:08:28] select our BM right here marks BM hit
+[00:08:30] connect now we see this window pop up
+[00:08:32] about managing your data sharing
+[00:08:34] preferences now this section we want to
+[00:08:36] select maximum all you need to know is
+[00:08:38] that the more data you allow Facebook to
+[00:08:40] give you the better of an ad Runner that
+[00:08:42] you're going to be the more profitable
+[00:08:44] ad campaigns you're going to run because
+[00:08:45] one thing that you take away from this
+[00:08:46] video it should be that data is freaking
+[00:08:49] King so we're going to hit save in the
+[00:08:50] bottom right here next you're just going
+[00:08:52] to select the pixel that you just
+[00:08:53] created The Mark has no friends pixel
+[00:08:55] right here and we're going to select
+[00:08:56] connect and then the terms and
+[00:08:57] conditions check the box don't ask any
+[00:08:59] questions and submit for review all
+[00:09:00] right and just like that we're good to
+[00:09:01] go we got the green active run ads on
+[00:09:04] Facebook and Instagram so all the pixel
+[00:09:06] setup is officially done so let's go
+[00:09:07] back to the pixel settings on Facebook
+[00:09:09] and we're going to just select next in
+[00:09:10] the bottom right and then enter the URL
+[00:09:12] that's associated with your business so
+[00:09:15] for us that's just going to be the
+[00:09:16] online store here so I'm just going to
+[00:09:17] grab this URL paste it in and hit send
+[00:09:19] test traffic so what Facebook is doing
+[00:09:21] now that the pixel is installed is
+[00:09:22] they're sending what's called like test
+[00:09:24] traffic to your website to be like okay
+[00:09:26] this person actually did visit and the
+[00:09:27] pixel is actually capturing that data so
+[00:09:29] now we're back in the BM and you can see
+[00:09:31] that yes the pixel is active so
+[00:09:33] everything was connected successfully
+[00:09:35] seeing that green button is a good Mark
+[00:09:37] of verification that we're good to go
+[00:09:38] and then we're just going to hit finish
+[00:09:39] in the bottom right here so the pixel
+[00:09:41] has officially been set up good job give
+[00:09:43] yourself a little pad on the back you
+[00:09:44] did great the final thing that you have
+[00:09:45] to do and again this step is just kind
+[00:09:47] of weird but you absolutely have to do
+[00:09:49] it is you have to assign that new pixel
+[00:09:51] that you just created to your ad account
+[00:09:53] so the way to do that if you go to data
+[00:09:55] sets is you're just going to select the
+[00:09:56] pixel that you just created which for us
+[00:09:58] is a Mark has no friends pixel with the
+[00:10:00] Z and then you're just going to select
+[00:10:01] connected assets assign assets and
+[00:10:03] select the box of the new ad account
+[00:10:05] that we already created previously so
+[00:10:07] this is the Mark has no friends ad
+[00:10:08] account boom now we're good to go so we
+[00:10:09] can actually jump inside of the ad
+[00:10:11] account now and I'm going to walk you
+[00:10:12] through how to actually create your
+[00:10:14] first real profitable ad campaign
+[00:10:16] everything that we've done so far is
+[00:10:18] literally just like laying the
+[00:10:19] groundwork we're setting the foundation
+[00:10:21] because it's kind of annoying to set up
+[00:10:22] I'm not going to lie to you but it's one
+[00:10:24] of those things that you have to get
+[00:10:25] done and if you don't you're just not
+[00:10:27] going to be able to run profitable ad
+[00:10:28] campaigns if at all now to actually hop
+[00:10:30] in the ad account we're just going to go
+[00:10:31] to the ad accounts select the one that
+[00:10:33] we had created and hit open in ads
+[00:10:35] manager now before I create a single
+[00:10:36] campaign everything I'm about to show
+[00:10:38] you is extremely fun but it also gets
+[00:10:41] extremely complex so one of the most
+[00:10:43] important things when you're running ads
+[00:10:44] is Simply Having a feedback loop so like
+[00:10:46] I'm about to show you how to create your
+[00:10:48] campaign how to create your adsets how
+[00:10:49] to launch it and you'll get this huge
+[00:10:50] burst of dopamine just flooding into
+[00:10:52] your brain cuz you just launch for
+[00:10:53] successful ad as you should however the
+[00:10:55] hardest part is letting the ads actually
+[00:10:57] run looking at the data and then making
+[00:10:59] databased decisions on how to make your
+[00:11:01] ads more profitable to this day I
+[00:11:03] personally have mentors that I look up
+[00:11:04] to to understand how to look at ad data
+[00:11:07] better and so that problem like just not
+[00:11:09] knowing how to read the data is actually
+[00:11:11] exactly why we created brand Builder
+[00:11:12] Academy so this is our community we
+[00:11:14] actually teach you everything there is
+[00:11:15] to know about e-commerce about Facebook
+[00:11:17] ads and we're actually so serious about
+[00:11:19] your success that we will assign you a
+[00:11:21] success coach where you can ask some
+[00:11:23] questions about your ads you can hop on
+[00:11:24] calls with them you can actually make
+[00:11:26] sure that you run profitable ads from
+[00:11:27] day one because having feedback is so
+[00:11:30] freaking crucial so if you want to apply
+[00:11:31] for BBA for brand billage Academy just
+[00:11:34] click the first link in the description
+[00:11:35] so Facebook has a hierarchy inside of it
+[00:11:38] at the very top of the hierarchy you
+[00:11:39] have the campaign and you kind of want
+[00:11:41] to think of these as the big building
+[00:11:42] blocks of your ad account what is it
+[00:11:45] that you actually want do you want sales
+[00:11:46] you want engagement that is all
+[00:11:48] determined at the campaign level
+[00:11:49] underneath the campaign you can have
+[00:11:51] multiple different ad sets and all the
+[00:11:53] adset is is simply who is it that you're
+[00:11:55] really after is it men between the ages
+[00:11:57] of 35 and 55 that are interested in
+[00:11:59] construction is it women between the
+[00:12:01] ages of 25 and 37 that have an interest
+[00:12:04] in makeup this is where the actual
+[00:12:06] targeting is done this is where the who
+[00:12:08] is captured and then the ads are
+[00:12:10] underneath each individual ad set so you
+[00:12:12] could have three you could have five you
+[00:12:14] could have 30 ads underneath One
+[00:12:16] Singular ad set and the ad of course is
+[00:12:19] the creative this is the most important
+[00:12:21] part of the ad account the video or
+[00:12:23] image that you're using to try to get
+[00:12:24] customers for your business without
+[00:12:26] further Ado let's hop in and create our
+[00:12:27] first campaign so you're going to go up
+[00:12:28] to this beautiful green button here and
+[00:12:30] select create under buying type we're
+[00:12:32] going to keep it as auction and as you
+[00:12:34] can see you have all these different
+[00:12:35] objectives around what you want your
+[00:12:37] campaign to actually do whatever you
+[00:12:39] tell Facebook to optimize for is exactly
+[00:12:41] what it will give you if you want a
+[00:12:43] bunch of leads for your business it'll
+[00:12:44] come back and it'll give you leads if
+[00:12:46] you say hey Facebook I want some more
+[00:12:48] likes on my Instagram post so you select
+[00:12:50] engagement Facebook will come back and
+[00:12:51] give you a whole bunch of Engagement
+[00:12:53] seems pretty straightforward right the
+[00:12:54] most common question that I get and I'm
+[00:12:56] not joking when I tell you this is
+[00:12:58] people saying well I have this website
+[00:13:00] but nobody's visiting I need traffic so
+[00:13:01] they'll hop in the ad account they'll
+[00:13:03] create a new campaign and they'll select
+[00:13:04] traffic and you know what happens they
+[00:13:06] spend all this money running a freaking
+[00:13:09] traffic campaign and then they come to
+[00:13:11] me like Mark I got all these people to
+[00:13:12] my website but nobody bought I wonder
+[00:13:15] why Steve I wonder why it's because you
+[00:13:17] said you want traffic and you don't want
+[00:13:18] sales God damn it Steve what you should
+[00:13:20] do is actually optimize your campaigns
+[00:13:22] for what you want which 99% of the
+[00:13:25] people watching this video right now you
+[00:13:26] want sales all right you want to make
+[00:13:28] money and run profitable campaigns
+[00:13:29] that's why you're here in the first
+[00:13:30] place so you're going to select sales
+[00:13:32] and hit continue now you're going to get
+[00:13:33] this option to do what's called an
+[00:13:35] Advantage Plus shopping campaign or a
+[00:13:37] manual sales campaign so an Advantage
+[00:13:39] Plus shopping campaign is where you tell
+[00:13:41] Facebook hey I'm not going to tell you
+[00:13:43] exactly who I want to go after I'll just
+[00:13:45] give you the creatives you spend it how
+[00:13:46] you want Advantage Plus is a super
+[00:13:48] powerful tool for scaling meaning when
+[00:13:50] you want to spend more money on ads and
+[00:13:53] increase the amount that you're spending
+[00:13:54] every single day Advantage Plus
+[00:13:55] campaigns are phenomenal but when you're
+[00:13:57] starting out I highly recommend that you
+[00:13:58] go with a anual sales campaign so that's
+[00:14:00] what we're going to do now that we're
+[00:14:01] inside the campaign the first thing you
+[00:14:02] have is actually naming it now I could
+[00:14:04] give you a hundred different naming
+[00:14:05] conventions right now but all that
+[00:14:07] really matters is that you know exactly
+[00:14:09] what's going on inside your campaign
+[00:14:11] without actually opening it so for
+[00:14:12] example if I were to close this off and
+[00:14:14] I just see this one campaign that we're
+[00:14:16] building right now without clicking into
+[00:14:17] it and looking at the settings am I
+[00:14:19] going to know exactly what product is
+[00:14:21] being sold at what budget when did it
+[00:14:24] start what type of campaign is it that
+[00:14:26] is all you need to know so I'm not going
+[00:14:28] to go over a specific naming conventions
+[00:14:30] just keep it simple and keep it
+[00:14:31] organized now if we scroll down past
+[00:14:33] that you don't need to select a category
+[00:14:36] unless you're selling to a sensitive
+[00:14:38] category like Financial products
+[00:14:39] employment housing Etc so we're going to
+[00:14:41] go ahead and skip that because that's
+[00:14:42] not what we're selling and we're going
+[00:14:43] to keep the Advantage Plus catalog ads
+[00:14:46] checked off and also the advantage
+[00:14:48] campaign budget checked off so this if I
+[00:14:51] were to turn this on this campaign is
+[00:14:52] officially what's called a CBO which
+[00:14:55] stands for campaign budget optimization
+[00:14:57] all this means is that you set the the
+[00:14:59] budget at the campaign level instead of
+[00:15:01] at the adset level so for example if you
+[00:15:02] have a campaign and there's five adsets
+[00:15:04] within that one campaign but you turn on
+[00:15:06] CBO and you set let's say a $100 day
+[00:15:08] budget you're telling Facebook hey you
+[00:15:10] can spend $100 a day across any of these
+[00:15:12] adets exactly how you see fit if you
+[00:15:15] want to spend $99 on one ad set and 25
+[00:15:19] across the others you can do that and
+[00:15:21] often times that's actually what does
+[00:15:23] end up happening but for us since we're
+[00:15:25] starting off with a brand new account
+[00:15:27] we're going to stick to which is
+[00:15:28] adset budget optimization so you set the
+[00:15:30] budget at the individual adset level
+[00:15:32] instead of at the campaign level moving
+[00:15:33] down we don't need to adjust any of
+[00:15:35] these settings here we're just going to
+[00:15:36] go ahead and hit next move on to the
+[00:15:38] adset level now again the adset is the
+[00:15:40] who who is it that you're actually
+[00:15:41] trying to Target in this particular
+[00:15:43] adset so for conversion we're going to
+[00:15:45] keep website selected we're going to
+[00:15:47] select our pixel here Mark has no
+[00:15:49] friends with a z pixel under conversion
+[00:15:51] event we're going to select purchase
+[00:15:52] because once again what you tell
+[00:15:54] Facebook to optimize for is exactly what
+[00:15:56] it's going to give you so if I were to
+[00:15:57] instead of purchase select something
+[00:15:59] like add to cart then you're going to
+[00:16:00] turn into somebody like Steve and you're
+[00:16:01] going to get all these add to carts in
+[00:16:03] zero purchases under attribution setting
+[00:16:05] you'll see It'll say 7day click in one
+[00:16:07] day view once again I could go into
+[00:16:09] detail about this but all you need to
+[00:16:10] know is that that's a great place to
+[00:16:11] start and you don't need to adjust it
+[00:16:13] until you're spending just a stupid
+[00:16:15] amount of money on ads so keep that as
+[00:16:16] is so you can see here Dynamic creative
+[00:16:18] is turned off we're going to keep it off
+[00:16:19] Dynamic creative is another one of those
+[00:16:21] features created by Facebook where
+[00:16:23] they're like oh you just give us a bunch
+[00:16:24] of inputs a bunch of creatives headlines
+[00:16:26] copies blah blah blah and we'll figure
+[00:16:28] out the best combination and yeah in
+[00:16:30] theory that makes a lot of sense but I
+[00:16:32] can tell you after spending a stupid
+[00:16:34] amount of money on ads at scale this
+[00:16:36] really doesn't work that well for
+[00:16:38] numerous reasons but at the end of the
+[00:16:39] day it doesn't matter I listen to data
+[00:16:41] and the data says that just traditional
+[00:16:42] creatives are much better so keep that
+[00:16:44] checked off now we'll move to the budget
+[00:16:46] under the budget I highly recommend
+[00:16:48] keeping it as a daily budget instead of
+[00:16:50] Lifetime or instead of selecting an end
+[00:16:52] date I'm a big fan of keeping it simple
+[00:16:53] and when you're launching new ads you
+[00:16:55] should be Hands-On this idea that you
+[00:16:57] just like launch ads and you de it and
+[00:16:59] forget it and then you go on a vacation
+[00:17:00] to Bali it's just complete ads
+[00:17:03] are something that need to be looked
+[00:17:04] after especially in the beginning you
+[00:17:06] want to look at the data but if you set
+[00:17:07] a lifetime budget or a budget with an
+[00:17:09] end date then I know you just have the
+[00:17:10] wrong intentions going in so keep it as
+[00:17:12] a daily budget and in terms of how much
+[00:17:14] it should be what I highly recommend is
+[00:17:16] set the daily budget at what your
+[00:17:18] product is priced at currently so let's
+[00:17:20] say I was selling a $30 product I'm just
+[00:17:22] going to go in here and put 30 and then
+[00:17:24] I'm going to let that run for a minimum
+[00:17:25] of 3 days which means this specific
+[00:17:28] adset will at least $90 so I can
+[00:17:30] actually look at the data see if this is
+[00:17:32] something worth pursuing and what
+[00:17:34] adjustments I need to make to the
+[00:17:35] product or to the creative now that we
+[00:17:36] have the budget set you have to schedule
+[00:17:38] for when you want that ad set to start
+[00:17:40] spending so for me I always think it's
+[00:17:42] best practiced to schedule for the next
+[00:17:44] day around 4:00 a.m. because I only run
+[00:17:46] ads in the US and that's when naturally
+[00:17:48] a lot of people are beginning to wake up
+[00:17:50] and be thinking Mark who the hell wakes
+[00:17:51] up at 4:00 a.m. you would be surprised
+[00:17:53] because I have people buying products at
+[00:17:54] 4:00 a.m. I don't know who they are but
+[00:17:55] I love them for doing that and let's
+[00:17:56] move on to audience controls before
+[00:17:58] before I go through audience controls
+[00:18:00] we're just going to scroll down here and
+[00:18:01] select switch to original audience
+[00:18:03] option all right so we're not going to
+[00:18:04] be using the Advantage Plus audience
+[00:18:06] again this is one of those Facebook
+[00:18:08] features where they want you to give
+[00:18:10] them control over the audience but on a
+[00:18:12] brand new ad account I don't recommend
+[00:18:13] that so we're going to hit use original
+[00:18:15] audience so like I said earlier this is
+[00:18:17] really the who of your campaign who do
+[00:18:20] you want to Target this is where you can
+[00:18:21] set the age you can set the location you
+[00:18:23] can set the gender so I'm just going to
+[00:18:24] tell you exactly what I would recommend
+[00:18:26] number one I run the far majority of my
+[00:18:28] ads in the US so we're going to keep the
+[00:18:29] locations as United States only however
+[00:18:32] if you're selling in other countries
+[00:18:33] obviously just use what's most common
+[00:18:35] sense now for the age unless you have a
+[00:18:37] product that's only going to be used for
+[00:18:40] a specific age group I highly recommend
+[00:18:42] keeping it very broad while Facebook
+[00:18:44] does have its issues with like control
+[00:18:46] and there's all these features where
+[00:18:47] they're like oh give me control give me
+[00:18:49] control I'm actually a big fan of
+[00:18:50] keeping it broad because the more data
+[00:18:52] that you can give Facebook and Facebook
+[00:18:54] can give you on where your buyers
+[00:18:56] actually are the better results you're
+[00:18:57] going to get so keeping brought
+[00:18:59] initially is a great way to start out
+[00:19:00] your campaigns and it's the same exact
+[00:19:02] process for gender so if you're only
+[00:19:04] selling a product that applies to men or
+[00:19:06] only selling a product that applies to
+[00:19:08] women then obviously select which one
+[00:19:09] makes the most sense so let's say we're
+[00:19:10] selling a skincare product so I'm only
+[00:19:12] going to select women here and I'm still
+[00:19:14] going to keep the age very broad because
+[00:19:15] skincare is a Timeless Niche it doesn't
+[00:19:18] matter if you're 16 doesn't matter if
+[00:19:20] you're 65 you probably buy skincare
+[00:19:22] products the next part is to move on to
+[00:19:24] the targeting right the interest
+[00:19:26] targeting the best practice here is just
+[00:19:27] to add one interest that's associated
+[00:19:29] with your product and to not overthink
+[00:19:30] it so for us we're selling a skincare
+[00:19:32] product right so I'm just going to
+[00:19:34] search skincare and see what pops up and
+[00:19:36] immediately we have skincare Cosmetics
+[00:19:38] simple skincare sah skincare Ren
+[00:19:40] skincare Image Skincare there's just a
+[00:19:43] stupid amount of interest and there's
+[00:19:44] probably a lot more if I were to keep
+[00:19:45] scrolling the guidance I want to give
+[00:19:47] you here is only select audiences that
+[00:19:50] are ideally no greater than 100 million
+[00:19:54] in total size cuz we're only selling in
+[00:19:55] the United States keep in mind so the
+[00:19:57] skincare audience for example is between
+[00:19:59] 257 million and 302 million it's a
+[00:20:02] little bit too big we want to dial down
+[00:20:04] just a little bit more so let's select
+[00:20:05] the cave interest just as an example
+[00:20:07] here so this one was 3 to 3.5 million
+[00:20:09] that's perfect next we want to select
+[00:20:11] the language once again just use the
+[00:20:13] language that you're actually selling it
+[00:20:15] the final section at the end of the ad
+[00:20:16] set is the placements all placements
+[00:20:18] means is where do you want your ad to
+[00:20:20] actually show up you want to show up on
+[00:20:22] the Instagram feed you want to show up
+[00:20:23] on Facebook Stories which apparently are
+[00:20:25] a thing the best practice here is just
+[00:20:27] to use what's called advantage plus
+[00:20:29] placements this is just a fancy way of
+[00:20:30] saying every single one that Facebook
+[00:20:31] has access to and it's going to spend
+[00:20:34] based off of how people are interacting
+[00:20:36] per placement so I don't want to go too
+[00:20:37] in depth on that particular topic it
+[00:20:39] just means everything but if you only
+[00:20:41] want your ads to show in the feeds or
+[00:20:42] only in the reals then you just select
+[00:20:44] edit manual and then you can see each
+[00:20:46] and every individual placement that
+[00:20:48] there is every feed every story every
+[00:20:50] real you can select and deselect every
+[00:20:52] single one but for us we like to keep it
+[00:20:54] simple because we're Chad media buyers
+[00:20:56] so we're going to hit Advantage Plus and
+[00:20:57] that's it for the adset level now we're
+[00:20:59] going to hit next and go to the ad
+[00:21:00] before I get started on how to create an
+[00:21:02] ad you need to understand that this is
+[00:21:04] by far the most important part of
+[00:21:06] running ads on Facebook it all comes
+[00:21:08] down to the ad itself you could totally
+[00:21:10] mess up on the targeting and the
+[00:21:11] interest and still make money you could
+[00:21:13] probably totally mess up even on the
+[00:21:15] campaign and still make money as long as
+[00:21:17] your ads are good that's why my whole
+[00:21:18] thing is run more ads should say run
+[00:21:20] more good ads because if you run boring
+[00:21:22] ads nobody's going to watch nobody cares
+[00:21:24] nobody cares about who you are for the
+[00:21:26] ad name same process as before just use
+[00:21:28] something simp simple and organized so
+[00:21:29] that you can know exactly what's going
+[00:21:31] on in that ad without actually opening
+[00:21:33] the ad itself under the identity section
+[00:21:35] you can see we already have the Mark has
+[00:21:37] no friends Facebook page is already
+[00:21:39] selected so we're good to go the
+[00:21:40] Instagram account we're just going to
+[00:21:42] use a selected Facebook page so you
+[00:21:44] don't actually need to create an
+[00:21:45] Instagram account to run ads on Facebook
+[00:21:47] and Instagram so I actually don't
+[00:21:49] recommend people create an Instagram
+[00:21:51] account right when they launch unless
+[00:21:52] you already have one with at least
+[00:21:54] 10,000 followers and the reason why is
+[00:21:56] because on Instagram especially when
+[00:21:58] people are buying something they are so
+[00:22:00] vain they are so judgmental so if they
+[00:22:02] see a brand new Instagram account that
+[00:22:04] has zero followers in like three posts
+[00:22:07] that's working against you and that's
+[00:22:08] going to affect the conversion rate that
+[00:22:10] you have on your store so I recommend if
+[00:22:12] you're just starting out from scratch
+[00:22:13] just select use Facebook page and then
+[00:22:15] you can create an Instagram account
+[00:22:16] later down the line it's not a big deal
+[00:22:19] at all now comes down to the actual ad
+[00:22:21] creation so on Facebook there's really
+[00:22:23] three types of ads that you can create
+[00:22:24] image ads video ads or Carousel ads and
+[00:22:27] carousels are just a collection of
+[00:22:28] multiple images or multiple videos in a
+[00:22:30] row for us we're just going to run a
+[00:22:32] simple image ad because they're very
+[00:22:34] cheap so you just want to select single
+[00:22:36] image or video and deselect multi-
+[00:22:38] Advertiser ad under ad sources we also
+[00:22:40] want to keep this completely blank once
+[00:22:42] again this is another thing where
+[00:22:43] Facebook is trying to get more
+[00:22:44] information from you and this doesn't
+[00:22:46] help you in any way and now go down to
+[00:22:48] the actual ad creative so when you hear
+[00:22:50] somebody say creative or how many
+[00:22:51] creatives are you testing per week which
+[00:22:53] is something I ask my team every single
+[00:22:55] week creative is simply the image or the
+[00:22:57] video associ with your ad it's what has
+[00:23:00] the most power the most pull amongst any
+[00:23:03] part of the ad more than the copy more
+[00:23:04] than the call to action the creative is
+[00:23:06] by far the most important element and if
+[00:23:08] you get that right especially the first
+[00:23:10] 2 to 3 seconds of the creative you will
+[00:23:12] make so much money like Facebook will
+[00:23:14] become a thing where you put a dollar in
+[00:23:16] and you get three four $5 out that's why
+[00:23:18] paid ads are so powerful so we're going
+[00:23:19] to upload the ad that we already worked
+[00:23:22] so hard on creating so we're just going
+[00:23:23] to hit upload and gotcha so our ad
+[00:23:26] beautiful ad right here before we
+[00:23:27] actually upload it you want to make sure
+[00:23:29] that it fits every single placement so I
+[00:23:31] just keep it on original because I find
+[00:23:33] that if you change the original
+[00:23:35] resolution of that image just looks
+[00:23:37] really wonky and really weird we're
+[00:23:38] going to keep original for all three
+[00:23:39] that's what I recommend hit next and all
+[00:23:41] the ad optimizations just skip them all
+[00:23:43] I promise they're not worth it another
+[00:23:45] thing that you need to know about
+[00:23:46] Facebook is that they'll have all these
+[00:23:47] errors around your account they'll say
+[00:23:49] like oh this is not going to be good for
+[00:23:51] your results you need to have more
+[00:23:52] creative that's not true Facebook is a
+[00:23:53] business at the end of the day they want
+[00:23:55] the money of small business owners like
+[00:23:56] you especially people that have no idea
+[00:23:58] what they're doing and so most of these
+[00:24:00] errors for the far majority of the time
+[00:24:02] you can just completely ignore them if
+[00:24:04] you follow exactly what I've told you to
+[00:24:05] do in this course you will be way better
+[00:24:08] off than any Facebook recommendation
+[00:24:11] that pops up on your ad account so
+[00:24:13] things like this you can just completely
+[00:24:14] ignore x amount outside of your creative
+[00:24:16] there's one additional piece of your ad
+[00:24:18] that is by far the second most important
+[00:24:20] cuz the number one is the creative
+[00:24:21] number two is your primary text this is
+[00:24:23] the text that appears right underneath
+[00:24:26] your Facebook page but right above the
+[00:24:27] creative let me just like type out a
+[00:24:29] little thing right here as an example
+[00:24:31] you can see this is right where it
+[00:24:32] appears on Facebook and then right below
+[00:24:33] the image on Instagram so think of it
+[00:24:35] kind of as the caption but the way that
+[00:24:37] people's brain works when they're
+[00:24:38] scrolling on Instagram the first thing
+[00:24:40] that they see always is the creative so
+[00:24:41] that's like that's 90% of your success
+[00:24:43] of the ad right there once they watch a
+[00:24:45] little bit of the creative they'll
+[00:24:46] actually glance up to the primary text
+[00:24:48] or they'll look at wherever their
+[00:24:49] caption is going to be so on Instagram
+[00:24:51] it's down but on Facebook it's up that's
+[00:24:52] why the primary text is the second most
+[00:24:55] important piece of the ad and after that
+[00:24:57] it would be the headline and the
+[00:24:59] description which if I were to write a
+[00:25:01] headline for example that's going to be
+[00:25:02] right here on the ad and on Instagram it
+[00:25:04] doesn't even show up and then the
+[00:25:05] description of course is going to be
+[00:25:07] right below the headline again on
+[00:25:08] Instagram it doesn't even show up that
+[00:25:09] should tell you how important it
+[00:25:11] actually is it doesn't even show up on
+[00:25:13] Instagram final thing I'll say about ad
+[00:25:15] copy is Facebook loves rejecting ads and
+[00:25:18] they'll reject ads for a number of
+[00:25:19] reasons sometimes it's completely random
+[00:25:21] but most of the times it'll reject ads
+[00:25:23] from the ad copy based off what you
+[00:25:25] write so if you're writing something
+[00:25:26] that's really what we call aggressive in
+[00:25:28] the industry you know like if you're
+[00:25:29] selling a weight loss product easily
+[00:25:31] lose 20 lbs in 2 days without diet or
+[00:25:35] exercise Facebook has an AI built in and
+[00:25:37] it's going to analyze that and analyze
+[00:25:39] the sentiment around that particular
+[00:25:41] claim and that piece of text and it's
+[00:25:42] going to say yeah I don't think so that
+[00:25:44] sounds super unrealistic and what you're
+[00:25:46] writing is not in the best interest of
+[00:25:48] our users our Collective users there's
+[00:25:50] over a billion monthly active users on
+[00:25:52] Facebook that's not even including
+[00:25:54] Instagram or Whatsapp which Facebook
+[00:25:56] owns both of those so general rules are
+[00:25:58] don't have any really really aggressive
+[00:26:00] claims like that any wild
+[00:26:01] Transformations and don't cuss you can
+[00:26:04] bleep out curse words but don't just
+[00:26:05] outright cuss and don't write in all
+[00:26:08] caps writing in all caps is one of the
+[00:26:10] worst things you can do because often
+[00:26:11] times you won't actually get rejected
+[00:26:13] for having an ad that's written in all
+[00:26:15] caps but what Facebook will do is
+[00:26:17] they'll say wow this ad this guy was
+[00:26:19] really trying to sound so important that
+[00:26:21] we're going to punish him and we're
+[00:26:22] going to increase his ad cost like crazy
+[00:26:25] to the point where it's not even worth
+[00:26:26] running ads and years ago I had a client
+[00:26:28] this happened to and I was like what is
+[00:26:30] going on this is so weird and we look at
+[00:26:31] the ad I'm like oh well there it is he
+[00:26:33] wrote everything in all caps and it was
+[00:26:34] like 200 words so just write like your
+[00:26:36] normal human being selling a product to
+[00:26:38] a random stranger on the internet and
+[00:26:39] you'll be just fine now for the call to
+[00:26:41] action I like to keep it very simple I
+[00:26:43] typically keep it as shop now or learn
+[00:26:45] more so if you're selling an e-commerce
+[00:26:47] product then keep it as shop now
+[00:26:49] anything else just keep it as learn more
+[00:26:50] now if we scroll down here the last
+[00:26:52] thing that we really have to add is
+[00:26:54] going to be the ad destination which is
+[00:26:56] a fancy way of saying the URL that you
+[00:26:58] want the traffic to go to after they
+[00:27:00] click on your ad so for us that's going
+[00:27:01] to be our pretty little test Shopify
+[00:27:03] store that we have here so we're just
+[00:27:05] going to copy that and paste it right
+[00:27:06] into the URL and we're good to go you
+[00:27:08] don't need to put anything for display
+[00:27:09] link browser add-ons again this is just
+[00:27:11] it doesn't help your conversion rate
+[00:27:12] it's not going to make you more money
+[00:27:14] you don't need to do it all the other
+[00:27:15] settings at the ad level you don't need
+[00:27:17] to touch we have the link you have the
+[00:27:19] copy updated the creative is there
+[00:27:20] that's all that you need the only final
+[00:27:22] thing that's a great add-on if you
+[00:27:23] scroll all the way down so if you're
+[00:27:25] running an e-commerce store I highly
+[00:27:26] recommend you use triple whale for
+[00:27:28] tracking if you're running info I highly
+[00:27:30] recommend you use a software called hyos
+[00:27:32] if you're running anything else in
+[00:27:33] between send me a DM on Instagram and I
+[00:27:35] can help you out a little bit further
+[00:27:37] there so what you'll do is paste some
+[00:27:38] simple URL parameters right here at the
+[00:27:40] bottom of all of your ads so that
+[00:27:42] anytime somebody clicks and buys
+[00:27:43] something from you you can know the
+[00:27:45] exact ad ad set the audience you can
+[00:27:47] know everything about where that person
+[00:27:50] came from to optimize your ads better
+[00:27:52] and that's it so all you have to do is
+[00:27:54] go to the bottom right and we're going
+[00:27:55] to select publish so I'm just going to
+[00:27:57] add my payment information here I'm
+[00:27:59] going to hit next so this is a really
+[00:28:00] important thing about once again
+[00:28:01] Facebook and how they categorize what
+[00:28:04] type of payment method that you use I'm
+[00:28:05] just going to tell you what to do and
+[00:28:07] then tell you why you should select
+[00:28:08] credit card and nothing else don't pay
+[00:28:10] with PayPal don't pay with an online
+[00:28:13] bank connected don't pay any other way
+[00:28:14] except for a credit card the reason why
+[00:28:16] is because Facebook like I said is a
+[00:28:18] business and they always want your money
+[00:28:20] you are the target for Facebook ads if
+[00:28:22] they see you add PayPal which is not as
+[00:28:25] secure as something like a credit card
+[00:28:27] with the US banking system they're
+[00:28:28] actually going to alter the quality of
+[00:28:30] traffic that they send you because of
+[00:28:31] the payment method which is crazy but
+[00:28:33] they will send you lower quality traffic
+[00:28:35] lower your conversion rate lower your
+[00:28:36] average order value and you'll make less
+[00:28:38] money simply because you changed the
+[00:28:40] payment method all right and we're good
+[00:28:41] to go the card has been saved it has
+[00:28:43] been added so you may have to hit
+[00:28:45] publish once again so we're just going
+[00:28:46] to select publish on the ad now that we
+[00:28:47] have the payment method added boom there
+[00:28:49] you go you did it you just published
+[00:28:50] your first ad on Facebook great job so
+[00:28:52] now that your first campaign is actually
+[00:28:53] live and you're going to start spending
+[00:28:55] money on ads this is where the real work
+[00:28:57] begins all that stuff that I just took
+[00:28:58] you through I hate to say it that was
+[00:29:00] the easy part that was just setting
+[00:29:01] things up now you get to actually run
+[00:29:03] and manage testing new creatives testing
+[00:29:06] new audiences testing this testing that
+[00:29:08] testing everything and just seeing what
+[00:29:10] sticks what is really resonating with
+[00:29:11] the audience and one of the best ways to
+[00:29:13] really do that is simply to know your
+[00:29:15] numbers know what metrics to look at and
+[00:29:17] cut out all of the noise let me actually
+[00:29:19] show you how to create some custom
+[00:29:21] columns to properly analyze your data so
+[00:29:23] we're going to go to columns right here
+[00:29:24] and you're going to go to customize
+[00:29:26] columns now over here on the right hand
+[00:29:28] side right under campaign we are going
+[00:29:30] to delete everything except for delivery
+[00:29:34] and budget everything else we're going
+[00:29:35] to build from the bottom up so just X
+[00:29:37] everything out here great now this is a
+[00:29:39] nice clean start so first we want to
+[00:29:41] click Impressions which is just a fancy
+[00:29:43] way to say how many people actually saw
+[00:29:44] your ad and next while you have
+[00:29:46] Impressions searched you're going to
+[00:29:47] select CPM which is how expensive it is
+[00:29:50] for you to advertise to 1,000 people
+[00:29:52] after cpms we're going to select CTR and
+[00:29:55] you specifically want to select link
+[00:29:58] click the rate this is the percentage of
+[00:29:59] people that see your ad stop and click
+[00:30:02] the link to go to your website after CTR
+[00:30:05] we're going to select CPC same process
+[00:30:07] you want to select the one that says
+[00:30:08] cost per link click and again that's how
+[00:30:10] much you pay Facebook for one click to
+[00:30:12] your website next you want to search for
+[00:30:14] link clicks which is pretty
+[00:30:16] straightforward how many people actually
+[00:30:17] clicked on your ad next you want to
+[00:30:18] search for landing page views and you're
+[00:30:20] going to select total this is the amount
+[00:30:22] of people that both clicked and landed
+[00:30:24] on your landing page because a lot of
+[00:30:26] people will click and because you're
+[00:30:28] website loads too slow they'll leave
+[00:30:29] before it's even registered as a landing
+[00:30:32] page view next you want to add add to
+[00:30:33] cart we're going to search add to cart
+[00:30:35] and hit total and then all of these you
+[00:30:36] want to deselect every single one next
+[00:30:39] we're going to do initiate checkout hit
+[00:30:40] total and same process deselect all four
+[00:30:43] of these check boxes next is going to be
+[00:30:45] purchases so for purchases we're going
+[00:30:46] to select total Des select all four and
+[00:30:49] while you still have purchases searched
+[00:30:51] up you're also going to select value and
+[00:30:53] purchase row as so scroll down and
+[00:30:55] you're going to uncheck all four for
+[00:30:57] conversion value keep scrolling and then
+[00:30:59] uncheck these two for Rass so the
+[00:31:01] purchases conversion value is just a
+[00:31:03] fancy way to say how much revenue you
+[00:31:05] actually generated what was your sales
+[00:31:07] for this ad for this ad set for this
+[00:31:09] campaign the cost per purchase is how
+[00:31:10] much you're paying for a purchase pretty
+[00:31:12] straightforward and then the purchase
+[00:31:13] row as is what is your return on your
+[00:31:16] advertising dollar so if I were to go to
+[00:31:18] Facebook and spend $100 on ads and I
+[00:31:20] brought back $200 in Revenue that would
+[00:31:22] be a 2.0 rows after all this is done
+[00:31:25] you're going to go to the bottom left
+[00:31:26] save as column preset and you're going
+[00:31:27] to to type in run more ads as a constant
+[00:31:30] reminder that you always need to be
+[00:31:31] running more ads and just go to bottom
+[00:31:33] right and hit apply there you go you got
+[00:31:35] all these beautiful custom columns saved
+[00:31:37] and ready to go so that you can analyze
+[00:31:39] data like a real expert all right that's
+[00:31:41] it for this video guys thank you so much
+[00:31:42] for watching Facebook ads are
+[00:31:43] complicated they're tough I've been
+[00:31:44] running ads for 6 plus years and there's
+[00:31:47] still stuff that I see that I'm like
+[00:31:49] what the hell is even that that's why
+[00:31:51] it's so important to have like a coach
+[00:31:53] or a mentor that can give you
+[00:31:55] personalized one-on-one feedback again
+[00:31:57] that's why we built brand builders
+[00:31:58] Academy so if you want to learn how to
+[00:32:00] run ads most successfully with
+[00:32:02] e-commerce specifically just click the
+[00:32:03] first link in the description to apply
+[00:32:06] for that program other than that make
+[00:32:07] sure you subscribe I got more Super
+[00:32:10] valuable videos coming for you other
+[00:32:12] than that see you in the next video
+[00:32:13] peace

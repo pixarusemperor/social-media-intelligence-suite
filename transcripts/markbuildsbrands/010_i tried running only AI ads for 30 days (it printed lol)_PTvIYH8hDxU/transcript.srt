@@ -1,0 +1,2556 @@
+1
+00:00:00,000 --> 00:00:03,080
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,400 --> 00:00:05,960
+going to be going over how I tried
+
+3
+00:00:03,080 --> 00:00:07,640
+running only AI ads for 30 days and it
+
+4
+00:00:05,960 --> 00:00:09,120
+printed. As you can see, this is the
+
+5
+00:00:07,640 --> 00:00:10,760
+results from last month specifically,
+
+6
+00:00:09,120 --> 00:00:12,480
+$2.2 million
+
+7
+00:00:10,760 --> 00:00:13,600
+in sales. And if we jump over into the
+
+8
+00:00:12,480 --> 00:00:15,720
+ad account, you can see just over a
+
+9
+00:00:13,600 --> 00:00:17,240
+million dollars to spend for the month
+
+10
+00:00:15,720 --> 00:00:19,480
+of March. Now, before you run off into
+
+11
+00:00:17,240 --> 00:00:21,560
+Claude code with some BS process that
+
+12
+00:00:19,480 --> 00:00:22,800
+you got from IG or Twitter, there's
+
+13
+00:00:21,560 --> 00:00:24,360
+something very, very important that you
+
+14
+00:00:22,800 --> 00:00:26,160
+need to understand about AI. Because if
+
+15
+00:00:24,360 --> 00:00:27,600
+you don't understand this, it doesn't
+
+16
+00:00:26,160 --> 00:00:28,720
+matter how good the technology gets,
+
+17
+00:00:27,600 --> 00:00:30,840
+you're never going to make any real
+
+18
+00:00:28,720 --> 00:00:32,840
+money. Now, the old way of running ads,
+
+19
+00:00:30,840 --> 00:00:34,960
+before AI was ever really a thing, you
+
+20
+00:00:32,840 --> 00:00:36,560
+had to choose two things, but there were
+
+21
+00:00:34,960 --> 00:00:40,400
+three options. You could choose between
+
+22
+00:00:36,560 --> 00:00:42,040
+quality, speed, and basically zero cost.
+
+23
+00:00:40,400 --> 00:00:44,240
+And you could choose any two that you
+
+24
+00:00:42,040 --> 00:00:46,040
+wanted, but anytime that you tried to
+
+25
+00:00:44,240 --> 00:00:47,600
+select one, one of them would also be
+
+26
+00:00:46,040 --> 00:00:49,520
+deselected. So, if you want to have
+
+27
+00:00:47,600 --> 00:00:51,120
+quality and speed, that means it's going
+
+28
+00:00:49,520 --> 00:00:52,480
+to cost you a shitload of money. Or if
+
+29
+00:00:51,120 --> 00:00:53,920
+you want to have speed and have it be
+
+30
+00:00:52,480 --> 00:00:55,560
+cheap, then you're going to sacrifice
+
+31
+00:00:53,920 --> 00:00:57,440
+quality. It was always this battle
+
+32
+00:00:55,560 --> 00:00:59,120
+between, okay, I can either pump a
+
+33
+00:00:57,440 --> 00:01:00,280
+shitload of volume into my ad account
+
+34
+00:00:59,120 --> 00:01:03,360
+and just kind of play the volume game,
+
+35
+00:01:00,280 --> 00:01:05,320
+or I can sacrifice volume and make the
+
+36
+00:01:03,360 --> 00:01:07,040
+best quality ads I possibly can that are
+
+37
+00:01:05,320 --> 00:01:08,600
+most likely to succeed. And if you have
+
+38
+00:01:07,040 --> 00:01:10,560
+to choose between both of those, they're
+
+39
+00:01:08,600 --> 00:01:12,520
+both pretty shitty options. What AI has
+
+40
+00:01:10,560 --> 00:01:14,200
+done has basically allowed you to select
+
+41
+00:01:12,520 --> 00:01:16,160
+all three at once, where you can have
+
+42
+00:01:14,200 --> 00:01:18,160
+very high-quality ads, you can produce
+
+43
+00:01:16,160 --> 00:01:19,680
+them incredibly quickly, and it doesn't
+
+44
+00:01:18,160 --> 00:01:21,560
+even cost you a lot of money. This is
+
+45
+00:01:19,680 --> 00:01:22,760
+both a really, really good thing and a
+
+46
+00:01:21,560 --> 00:01:25,240
+really, really bad thing. It's really
+
+47
+00:01:22,760 --> 00:01:27,360
+good because now the barrier to entry is
+
+48
+00:01:25,240 --> 00:01:30,080
+virtually zero for anybody to be able to
+
+49
+00:01:27,360 --> 00:01:31,880
+create amazing ads and a shitload of
+
+50
+00:01:30,080 --> 00:01:34,040
+them, it costs them very, very little,
+
+51
+00:01:31,880 --> 00:01:35,440
+and they can do it in under an hour. So,
+
+52
+00:01:34,040 --> 00:01:36,640
+what does this mean for the advertising
+
+53
+00:01:35,440 --> 00:01:37,960
+space? Well, this is kind of the way
+
+54
+00:01:36,640 --> 00:01:40,960
+that I like to think about it. If you
+
+55
+00:01:37,960 --> 00:01:43,200
+imagine back in 2015, it would cost you
+
+56
+00:01:40,960 --> 00:01:45,040
+thousands of dollars for you to produce
+
+57
+00:01:43,200 --> 00:01:47,080
+a high-quality ad. I mean, like hip,
+
+58
+00:01:45,040 --> 00:01:48,440
+cream of the crop, the best ad that you
+
+59
+00:01:47,080 --> 00:01:49,440
+could possibly ever create. And of
+
+60
+00:01:48,440 --> 00:01:50,720
+course, it's going to take a lot of
+
+61
+00:01:49,440 --> 00:01:52,120
+time, and there's not going to be a lot
+
+62
+00:01:50,720 --> 00:01:54,280
+of competition, right? If you're running
+
+63
+00:01:52,120 --> 00:01:56,440
+Facebook ads back in 2015, you could put
+
+64
+00:01:54,280 --> 00:01:58,360
+up terrible ads by our standards today
+
+65
+00:01:56,440 --> 00:02:00,480
+and make shitloads of money. However, as
+
+66
+00:01:58,360 --> 00:02:02,280
+the years progressed, the cost it takes
+
+67
+00:02:00,480 --> 00:02:04,520
+for you to produce a very high quality
+
+68
+00:02:02,280 --> 00:02:06,520
+ad decreases. This is a negative
+
+69
+00:02:04,520 --> 00:02:08,640
+logarithmic curve that is slowly
+
+70
+00:02:06,520 --> 00:02:10,560
+approaching zero. So, like the cost over
+
+71
+00:02:08,640 --> 00:02:12,480
+time for you to actually produce an ad
+
+72
+00:02:10,560 --> 00:02:14,120
+becomes virtually nothing. You can see
+
+73
+00:02:12,480 --> 00:02:15,680
+this is an estimation, of course, but it
+
+74
+00:02:14,120 --> 00:02:17,800
+becomes very, very low. I mean, you can
+
+75
+00:02:15,680 --> 00:02:20,840
+create incredible ads for, you know, $5,
+
+76
+00:02:17,800 --> 00:02:23,200
+$10, $20, $30 in AI credits. And not
+
+77
+00:02:20,840 --> 00:02:24,960
+only that, but you also have the speed,
+
+78
+00:02:23,200 --> 00:02:25,760
+right? The ads that used to take days
+
+79
+00:02:24,960 --> 00:02:28,000
+for you to put together a whole
+
+80
+00:02:25,760 --> 00:02:30,280
+production team, you can now have a 100%
+
+81
+00:02:28,000 --> 00:02:31,960
+custom content fully edited produced in
+
+82
+00:02:30,280 --> 00:02:33,560
+a matter of minutes. The downside of
+
+83
+00:02:31,960 --> 00:02:35,840
+this, of course, is that over time, as
+
+84
+00:02:33,560 --> 00:02:38,160
+well, the competitor ad volume is
+
+85
+00:02:35,840 --> 00:02:39,520
+actually a positive exponential curve,
+
+86
+00:02:38,160 --> 00:02:41,280
+where because the barrier of entry, not
+
+87
+00:02:39,520 --> 00:02:44,280
+just with the cost, but with the speed
+
+88
+00:02:41,280 --> 00:02:46,600
+as well, is decreasing so substantially,
+
+89
+00:02:44,280 --> 00:02:48,600
+the competitor ad volume is increasing
+
+90
+00:02:46,600 --> 00:02:50,080
+at an unprecedented rate. So, the
+
+91
+00:02:48,600 --> 00:02:51,680
+question becomes, what the hell do you
+
+92
+00:02:50,080 --> 00:02:53,680
+do about this? Because as we see the
+
+93
+00:02:51,680 --> 00:02:55,160
+barrier to entry decreasing and
+
+94
+00:02:53,680 --> 00:02:56,600
+decreasing and decreasing, and the
+
+95
+00:02:55,160 --> 00:02:58,800
+availability of these tools is
+
+96
+00:02:56,600 --> 00:03:00,960
+increasing and increasing, what the hell
+
+97
+00:02:58,800 --> 00:03:02,880
+left is there for you to compete on? How
+
+98
+00:03:00,960 --> 00:03:04,320
+can you actually destroy people in the
+
+99
+00:03:02,880 --> 00:03:06,400
+ad auction? And I spent a lot of time
+
+100
+00:03:04,320 --> 00:03:07,840
+thinking about this, because what is the
+
+101
+00:03:06,400 --> 00:03:09,680
+real moat now? How do you actually
+
+102
+00:03:07,840 --> 00:03:11,040
+protect your business? Because you used
+
+103
+00:03:09,680 --> 00:03:14,080
+to be able to do it with a [ __ ] load of
+
+104
+00:03:11,040 --> 00:03:16,000
+creative volume, or just top tier S tier
+
+105
+00:03:14,080 --> 00:03:18,560
+creatives, but now both of those things
+
+106
+00:03:16,000 --> 00:03:21,080
+are virtually available to anybody. And
+
+107
+00:03:18,560 --> 00:03:22,240
+my general hypothesis is that the main
+
+108
+00:03:21,080 --> 00:03:24,400
+thing that you're going to be able to
+
+109
+00:03:22,240 --> 00:03:26,200
+compete on is going to be the thinking
+
+110
+00:03:24,400 --> 00:03:27,560
+behind each ad that you're creating.
+
+111
+00:03:26,200 --> 00:03:29,320
+It's not going to be the technology,
+
+112
+00:03:27,560 --> 00:03:30,840
+because the technology is evolving
+
+113
+00:03:29,320 --> 00:03:32,840
+incredibly quickly, and it's virtually
+
+114
+00:03:30,840 --> 00:03:34,600
+available to everybody for an incredibly
+
+115
+00:03:32,840 --> 00:03:36,920
+low cost. Instead, the real barrier to
+
+116
+00:03:34,600 --> 00:03:38,320
+entry is going to be the thinking behind
+
+117
+00:03:36,920 --> 00:03:40,400
+all the creatives that you're making,
+
+118
+00:03:38,320 --> 00:03:41,400
+and the systemization of that thinking.
+
+119
+00:03:40,400 --> 00:03:43,400
+Because what most people don't really
+
+120
+00:03:41,400 --> 00:03:45,240
+understand is they're trying to chase
+
+121
+00:03:43,400 --> 00:03:46,800
+after this winning ad, right? You just
+
+122
+00:03:45,240 --> 00:03:48,320
+test, test, test until you can find your
+
+123
+00:03:46,800 --> 00:03:49,720
+one winner that's allowing you to
+
+124
+00:03:48,320 --> 00:03:51,320
+actually like scale your account, right?
+
+125
+00:03:49,720 --> 00:03:53,320
+Well, I actually disagree with this. I
+
+126
+00:03:51,320 --> 00:03:55,520
+think that what you should be aiming for
+
+127
+00:03:53,320 --> 00:03:57,400
+is not a winning ad, but your winning
+
+128
+00:03:55,520 --> 00:03:59,240
+message. Because once you have that
+
+129
+00:03:57,400 --> 00:04:01,560
+winning message, that can be transmuted
+
+130
+00:03:59,240 --> 00:04:03,120
+across dozens, if not hundreds, of
+
+131
+00:04:01,560 --> 00:04:04,800
+different types of ads, different
+
+132
+00:04:03,120 --> 00:04:06,240
+formats, different styles, different
+
+133
+00:04:04,800 --> 00:04:08,560
+creators. You're looking for your
+
+134
+00:04:06,240 --> 00:04:10,040
+winning sales message. If you study any
+
+135
+00:04:08,560 --> 00:04:12,120
+direct response history, like the
+
+136
+00:04:10,040 --> 00:04:13,680
+legends in the space, they say something
+
+137
+00:04:12,120 --> 00:04:15,840
+similar. One of my favorite direct
+
+138
+00:04:13,680 --> 00:04:17,320
+response entrepreneurs is a guy, I'll go
+
+139
+00:04:15,840 --> 00:04:18,840
+by his alias, his name is Michael
+
+140
+00:04:17,320 --> 00:04:20,320
+Masterson. If you haven't read any of
+
+141
+00:04:18,840 --> 00:04:22,160
+his books, I highly recommend it. But
+
+142
+00:04:20,320 --> 00:04:23,800
+this is one thing that he really, really
+
+143
+00:04:22,160 --> 00:04:25,320
+preaches on. Like what is that message?
+
+144
+00:04:23,800 --> 00:04:26,840
+Because that can be used across funnels,
+
+145
+00:04:25,320 --> 00:04:29,280
+that can be used across creatives. That
+
+146
+00:04:26,840 --> 00:04:31,000
+is essentially how you connect with your
+
+147
+00:04:29,280 --> 00:04:32,880
+customers. And if you connect with them,
+
+148
+00:04:31,000 --> 00:04:35,040
+then they will be buying from you all
+
+149
+00:04:32,880 --> 00:04:36,520
+day, every single day for eternity. So
+
+150
+00:04:35,040 --> 00:04:37,680
+what I'm really trying to say here is
+
+151
+00:04:36,520 --> 00:04:39,400
+that being able to find your winning
+
+152
+00:04:37,680 --> 00:04:41,280
+message, this could be as simple as
+
+153
+00:04:39,400 --> 00:04:43,160
+finding a winning angle, is going to be
+
+154
+00:04:41,280 --> 00:04:45,080
+the one thing that differentiates those
+
+155
+00:04:43,160 --> 00:04:46,720
+who are just throwing up AI slop into
+
+156
+00:04:45,080 --> 00:04:48,040
+their ad account and struggling to find
+
+157
+00:04:46,720 --> 00:04:49,960
+winners, and those who are actually
+
+158
+00:04:48,040 --> 00:04:51,520
+predictively adding winners into their
+
+159
+00:04:49,960 --> 00:04:52,960
+ad account every single week. And it
+
+160
+00:04:51,520 --> 00:04:54,680
+comes down to this core understanding
+
+161
+00:04:52,960 --> 00:04:57,360
+that the person who understands their
+
+162
+00:04:54,680 --> 00:04:59,520
+customer best will destroy the person
+
+163
+00:04:57,360 --> 00:05:01,760
+with better tools every single time. And
+
+164
+00:04:59,520 --> 00:05:04,360
+this message right here comes down to
+
+165
+00:05:01,760 --> 00:05:06,280
+your research and your creativity. So
+
+166
+00:05:04,360 --> 00:05:08,200
+before I show you like the actual tools
+
+167
+00:05:06,280 --> 00:05:10,160
+that I use to scale my ad account with
+
+168
+00:05:08,200 --> 00:05:11,600
+100% AI ads, there's something that you
+
+169
+00:05:10,160 --> 00:05:13,120
+really need to understand. In fact, it's
+
+170
+00:05:11,600 --> 00:05:15,480
+not just one thing, it's what I call the
+
+171
+00:05:13,120 --> 00:05:17,760
+AI non-negotiables. All right, so
+
+172
+00:05:15,480 --> 00:05:20,400
+non-negotiable number one is that your
+
+173
+00:05:17,760 --> 00:05:21,960
+copy is the foundation of everything. I
+
+174
+00:05:20,400 --> 00:05:23,480
+think I talk about this in almost every
+
+175
+00:05:21,960 --> 00:05:25,760
+single one of my videos, but it's
+
+176
+00:05:23,480 --> 00:05:27,840
+because it's so legitimately true. Like
+
+177
+00:05:25,760 --> 00:05:29,760
+the art of copywriting is dying, and
+
+178
+00:05:27,840 --> 00:05:31,320
+most people don't really know how to
+
+179
+00:05:29,760 --> 00:05:33,120
+really write high converting copy. They
+
+180
+00:05:31,320 --> 00:05:35,880
+think that if I just make the most
+
+181
+00:05:33,120 --> 00:05:37,880
+realistic AI videos, the best AI UGC,
+
+182
+00:05:35,880 --> 00:05:39,680
+best AI animation ads, that that's going
+
+183
+00:05:37,880 --> 00:05:41,040
+to make me have profitable ads, but
+
+184
+00:05:39,680 --> 00:05:43,280
+that's not always the case. You still
+
+185
+00:05:41,040 --> 00:05:46,120
+need to have the actual meat, which is
+
+186
+00:05:43,280 --> 00:05:47,680
+the copywriting, the absolutely top
+
+187
+00:05:46,120 --> 00:05:49,280
+tier. And again, this is going to
+
+188
+00:05:47,680 --> 00:05:50,920
+separate like mark my words it's going
+
+189
+00:05:49,280 --> 00:05:52,720
+to separate all the people that are
+
+190
+00:05:50,920 --> 00:05:54,320
+pushing the AI slop and just throwing
+
+191
+00:05:52,720 --> 00:05:56,040
+all these stupid AI creatives. None of
+
+192
+00:05:54,320 --> 00:05:58,160
+them convert into ad account versus the
+
+193
+00:05:56,040 --> 00:05:59,520
+ones that are actually making real money
+
+194
+00:05:58,160 --> 00:06:01,360
+and scaling ad accounts with AI
+
+195
+00:05:59,520 --> 00:06:03,360
+creatives. If your copy sucks, AI is
+
+196
+00:06:01,360 --> 00:06:05,040
+just going to help you make shitty ads
+
+197
+00:06:03,360 --> 00:06:07,040
+faster and more of [clears throat] them.
+
+198
+00:06:05,040 --> 00:06:08,840
+The whole concept of AI, it doesn't
+
+199
+00:06:07,040 --> 00:06:11,000
+actually change like what makes people
+
+200
+00:06:08,840 --> 00:06:13,080
+tick. It doesn't change underlying human
+
+201
+00:06:11,000 --> 00:06:14,640
+psychology. It's a tool that is going to
+
+202
+00:06:13,080 --> 00:06:16,120
+multiply your understanding of
+
+203
+00:06:14,640 --> 00:06:18,600
+psychology. And one of the biggest
+
+204
+00:06:16,120 --> 00:06:21,760
+pieces of your copy is just having
+
+205
+00:06:18,600 --> 00:06:24,360
+incredibly deep psychographic research.
+
+206
+00:06:21,760 --> 00:06:26,560
+Once again, if you study any of the best
+
+207
+00:06:24,360 --> 00:06:28,600
+copywriters in history, they say that
+
+208
+00:06:26,560 --> 00:06:30,360
+anywhere from like 60 to 80% of your
+
+209
+00:06:28,600 --> 00:06:32,160
+time should actually be spent on the
+
+210
+00:06:30,360 --> 00:06:33,880
+research. Like the writing, the actual
+
+211
+00:06:32,160 --> 00:06:36,040
+writing back when they would put pen to
+
+212
+00:06:33,880 --> 00:06:38,360
+paper should be the minority of your
+
+213
+00:06:36,040 --> 00:06:39,880
+time. The majority should be spent in
+
+214
+00:06:38,360 --> 00:06:41,120
+the research. And that was the whole
+
+215
+00:06:39,880 --> 00:06:43,640
+reason that I put together this
+
+216
+00:06:41,120 --> 00:06:46,280
+foundational Docs SOP where you can get
+
+217
+00:06:43,640 --> 00:06:48,400
+incredibly deep research with AI that
+
+218
+00:06:46,280 --> 00:06:49,920
+takes you about 30 minutes and you can
+
+219
+00:06:48,400 --> 00:06:51,480
+have all of your copy ingredients. You
+
+220
+00:06:49,920 --> 00:06:53,920
+can find your unique mechanism, your big
+
+221
+00:06:51,480 --> 00:06:55,400
+idea. You can find your discovery story,
+
+222
+00:06:53,920 --> 00:06:57,240
+unique mechanism of the problem and the
+
+223
+00:06:55,400 --> 00:06:58,960
+solution, your levels of awareness, your
+
+224
+00:06:57,240 --> 00:07:01,400
+stage of sophistication, your level of
+
+225
+00:06:58,960 --> 00:07:03,240
+consciousness, like all these things
+
+226
+00:07:01,400 --> 00:07:04,680
+that actually allow you to sell people
+
+227
+00:07:03,240 --> 00:07:06,360
+hyper effectively. If you don't have
+
+228
+00:07:04,680 --> 00:07:07,720
+that and you're just like trying to rip
+
+229
+00:07:06,360 --> 00:07:09,280
+what everybody else is doing, then
+
+230
+00:07:07,720 --> 00:07:10,480
+you're always going to be behind. By the
+
+231
+00:07:09,280 --> 00:07:12,360
+way, if you want this, I'll leave it in
+
+232
+00:07:10,480 --> 00:07:14,240
+the description of this video. Like do
+
+233
+00:07:12,360 --> 00:07:16,920
+you really think when it comes to me
+
+234
+00:07:14,240 --> 00:07:18,640
+making AI ads, I just go into Claude and
+
+235
+00:07:16,920 --> 00:07:20,040
+I say, "Hey, here's this ad from a
+
+236
+00:07:18,640 --> 00:07:21,800
+successful competitor. Can you rewrite
+
+237
+00:07:20,040 --> 00:07:23,600
+it for my brand?" Of course not. You
+
+238
+00:07:21,800 --> 00:07:25,480
+need to have the underlying research
+
+239
+00:07:23,600 --> 00:07:26,680
+first because that multiplies everything
+
+240
+00:07:25,480 --> 00:07:29,280
+else that you're doing afterwards. The
+
+241
+00:07:26,680 --> 00:07:32,280
+second non-negotiable is understanding
+
+242
+00:07:29,280 --> 00:07:33,880
+that your funnel is a creative
+
+243
+00:07:32,280 --> 00:07:35,800
+multiplier. And I'm going to explain
+
+244
+00:07:33,880 --> 00:07:38,360
+what I mean. Now, everybody likes to,
+
+245
+00:07:35,800 --> 00:07:39,960
+you know, yap from the [ __ ] rooftops
+
+246
+00:07:38,360 --> 00:07:41,440
+about creative diversity. Creative
+
+247
+00:07:39,960 --> 00:07:43,640
+diversity, creative diversity, creative
+
+248
+00:07:41,440 --> 00:07:46,000
+diversity. What about funnel diversity?
+
+249
+00:07:43,640 --> 00:07:48,320
+I think funnel diversity is actually
+
+250
+00:07:46,000 --> 00:07:49,680
+more important than creative diversity,
+
+251
+00:07:48,320 --> 00:07:50,920
+which most people are not going to agree
+
+252
+00:07:49,680 --> 00:07:52,440
+with that. That's just my personal
+
+253
+00:07:50,920 --> 00:07:53,800
+opinion, but let me kind of show you my
+
+254
+00:07:52,440 --> 00:07:56,040
+thinking behind this. I think the best
+
+255
+00:07:53,800 --> 00:07:58,960
+way to explain how powerful a funnel
+
+256
+00:07:56,040 --> 00:08:02,200
+really can be is that old saying where a
+
+257
+00:07:58,960 --> 00:08:03,800
+rising tide raises all ships. So, here's
+
+258
+00:08:02,200 --> 00:08:06,280
+another visual. Just imagine every
+
+259
+00:08:03,800 --> 00:08:09,040
+single quote-unquote ship is one of your
+
+260
+00:08:06,280 --> 00:08:11,360
+creatives, and the sea level is your
+
+261
+00:08:09,040 --> 00:08:13,600
+funnel. If you're able to overall raise
+
+262
+00:08:11,360 --> 00:08:15,400
+the sea level, aka raise the performance
+
+263
+00:08:13,600 --> 00:08:17,320
+of your funnel, all of your creative
+
+264
+00:08:15,400 --> 00:08:19,440
+efforts are going to be multiplied in a
+
+265
+00:08:17,320 --> 00:08:21,080
+positive way. So, let's say you have a
+
+266
+00:08:19,440 --> 00:08:22,760
+D-tier funnel right here, right? Not a
+
+267
+00:08:21,080 --> 00:08:24,320
+very good funnel at all. Your ROAS is
+
+268
+00:08:22,760 --> 00:08:25,680
+[ __ ] You're not producing any winners.
+
+269
+00:08:24,320 --> 00:08:28,600
+You're not able to scale up your ad
+
+270
+00:08:25,680 --> 00:08:30,440
+spend, and your CPA is very high. Now,
+
+271
+00:08:28,600 --> 00:08:32,240
+these numbers are relative. It's just
+
+272
+00:08:30,440 --> 00:08:34,080
+for the visualization purposes. And
+
+273
+00:08:32,240 --> 00:08:36,120
+let's say you have a target ROAS of a
+
+274
+00:08:34,080 --> 00:08:37,800
+2x, right? This is all your creative.
+
+275
+00:08:36,120 --> 00:08:39,480
+Some are better than others. As you can
+
+276
+00:08:37,800 --> 00:08:41,360
+see, they're kind of organized based off
+
+277
+00:08:39,480 --> 00:08:42,480
+their CPA. If you increase the quality
+
+278
+00:08:41,360 --> 00:08:44,640
+of your funnel, both through the
+
+279
+00:08:42,480 --> 00:08:46,840
+conversion rate and the average order
+
+280
+00:08:44,640 --> 00:08:49,160
+value, you'll see, boom, you immediately
+
+281
+00:08:46,840 --> 00:08:50,520
+improve both the floor of the
+
+282
+00:08:49,160 --> 00:08:52,280
+lowest-performing creatives, and you
+
+283
+00:08:50,520 --> 00:08:53,920
+also raise the ceiling of the
+
+284
+00:08:52,280 --> 00:08:56,000
+highest-performing creative. If we push
+
+285
+00:08:53,920 --> 00:08:57,760
+it up to a B-tier funnel, you can see we
+
+286
+00:08:56,000 --> 00:08:59,720
+now have creatives that are above our
+
+287
+00:08:57,760 --> 00:09:01,200
+target profitability level. Raise it a
+
+288
+00:08:59,720 --> 00:09:02,720
+little bit more, you can see how
+
+289
+00:09:01,200 --> 00:09:03,880
+impactful it is. Raise it again,
+
+290
+00:09:02,720 --> 00:09:05,920
+obviously your win rate's not actually
+
+291
+00:09:03,880 --> 00:09:07,600
+going to be 60%, [laughter] but point
+
+292
+00:09:05,920 --> 00:09:10,120
+being, if you're able to improve your
+
+293
+00:09:07,600 --> 00:09:11,320
+funnel, all the creative efforts The top
+
+294
+00:09:10,120 --> 00:09:13,360
+creative, when you have a terrible
+
+295
+00:09:11,320 --> 00:09:14,760
+funnel, is barely above a 1x ROAS. If
+
+296
+00:09:13,360 --> 00:09:17,000
+you have an incredible funnel, your
+
+297
+00:09:14,760 --> 00:09:19,040
+worst creative is barely above a 1x
+
+298
+00:09:17,000 --> 00:09:20,800
+ROAS. So, it just makes everything else
+
+299
+00:09:19,040 --> 00:09:22,760
+so much easier. It makes finding winning
+
+300
+00:09:20,800 --> 00:09:24,880
+creatives easier. It makes scaling
+
+301
+00:09:22,760 --> 00:09:26,040
+easier. It makes your margins better
+
+302
+00:09:24,880 --> 00:09:27,520
+because you're just generally more
+
+303
+00:09:26,040 --> 00:09:29,200
+profitable. Like, I could just go on and
+
+304
+00:09:27,520 --> 00:09:30,640
+on. The reason I'm including this in
+
+305
+00:09:29,200 --> 00:09:32,440
+this video, by the way, is because so
+
+306
+00:09:30,640 --> 00:09:34,720
+many of you are just like foaming at the
+
+307
+00:09:32,440 --> 00:09:36,480
+[ __ ] mouth for like new technology,
+
+308
+00:09:34,720 --> 00:09:38,080
+shiny objects. What's the new AI tool?
+
+309
+00:09:36,480 --> 00:09:39,800
+What's the workflow? What's the agentic
+
+310
+00:09:38,080 --> 00:09:41,280
+workflow when the fundamentals don't
+
+311
+00:09:39,800 --> 00:09:42,840
+change? If you don't have these things
+
+312
+00:09:41,280 --> 00:09:44,400
+right, then AI is not going to save you.
+
+313
+00:09:42,840 --> 00:09:46,520
+And the way to avoid really bad
+
+314
+00:09:44,400 --> 00:09:48,280
+creatives is pretty simple. It typically
+
+315
+00:09:46,520 --> 00:09:50,320
+can be boiled down to a few things, but
+
+316
+00:09:48,280 --> 00:09:52,200
+the first is just absolute [ __ ]
+
+317
+00:09:50,320 --> 00:09:55,240
+prompting. If you're going into Higgs
+
+318
+00:09:52,200 --> 00:09:56,840
+Field or VEO or Sora isn't really around
+
+319
+00:09:55,240 --> 00:09:58,080
+anymore, but any of these tools and
+
+320
+00:09:56,840 --> 00:09:59,280
+you're writing your own prompts, you're
+
+321
+00:09:58,080 --> 00:10:01,240
+already behind. You don't need to be a
+
+322
+00:09:59,280 --> 00:10:03,080
+prompt genius, but you do need to speak
+
+323
+00:10:01,240 --> 00:10:04,440
+the language of an LLM to get the best
+
+324
+00:10:03,080 --> 00:10:06,880
+prompt as humanly possible. So, what I
+
+325
+00:10:04,440 --> 00:10:09,080
+like to do is use Whisper or Super
+
+326
+00:10:06,880 --> 00:10:11,240
+Whisper, basically verbally say what I'm
+
+327
+00:10:09,080 --> 00:10:13,200
+looking for in terms of, you know,
+
+328
+00:10:11,240 --> 00:10:16,480
+creating a video, and then have it turn
+
+329
+00:10:13,200 --> 00:10:18,000
+it into a image to video or a text to
+
+330
+00:10:16,480 --> 00:10:19,560
+image prompt, and then send that prompt
+
+331
+00:10:18,000 --> 00:10:21,160
+into the technology for it to create the
+
+332
+00:10:19,560 --> 00:10:22,760
+asset. Another reason that they
+
+333
+00:10:21,160 --> 00:10:25,240
+typically won't work, these AI
+
+334
+00:10:22,760 --> 00:10:26,800
+creatives, is you have [ __ ] research.
+
+335
+00:10:25,240 --> 00:10:28,600
+You totally skimp out on the most
+
+336
+00:10:26,800 --> 00:10:29,960
+important step, which is actually
+
+337
+00:10:28,600 --> 00:10:31,680
+understand your customers really, really
+
+338
+00:10:29,960 --> 00:10:33,760
+deeply, and you just hope that, you
+
+339
+00:10:31,680 --> 00:10:35,280
+know, swiping a top competitor or not
+
+340
+00:10:33,760 --> 00:10:37,000
+really knowing your customers that well
+
+341
+00:10:35,280 --> 00:10:38,240
+is somehow going to work out for you. It
+
+342
+00:10:37,000 --> 00:10:40,320
+doesn't. And the third and final reason
+
+343
+00:10:38,240 --> 00:10:41,760
+your AI ads would fail would be [ __ ]
+
+344
+00:10:40,320 --> 00:10:42,920
+technology, which that's actually going
+
+345
+00:10:41,760 --> 00:10:45,240
+to be the next section. You need to make
+
+346
+00:10:42,920 --> 00:10:47,080
+sure you're using the right tool during
+
+347
+00:10:45,240 --> 00:10:49,440
+the right times. Now, first, let's talk
+
+348
+00:10:47,080 --> 00:10:50,720
+about images. They're so easy. This
+
+349
+00:10:49,440 --> 00:10:52,040
+section will probably take like 30
+
+350
+00:10:50,720 --> 00:10:53,280
+seconds in the video. Like, the only
+
+351
+00:10:52,040 --> 00:10:55,400
+technology you really need is Nano
+
+352
+00:10:53,280 --> 00:10:56,680
+Banana Pro. It's relatively cheap if
+
+353
+00:10:55,400 --> 00:10:58,960
+you're able to get it through Higgs
+
+354
+00:10:56,680 --> 00:11:00,560
+Field. That's what I recommend. And as
+
+355
+00:10:58,960 --> 00:11:02,680
+long as your prompting is good enough,
+
+356
+00:11:00,560 --> 00:11:05,720
+there quite literally, in my experience,
+
+357
+00:11:02,680 --> 00:11:07,280
+is nothing that you cannot accomplish
+
+358
+00:11:05,720 --> 00:11:09,320
+with image ads if you have Nano Banana
+
+359
+00:11:07,280 --> 00:11:11,400
+Pro. With good prompting, good reference
+
+360
+00:11:09,320 --> 00:11:12,720
+images, there's no other tool that you
+
+361
+00:11:11,400 --> 00:11:14,120
+need, like literally nothing. There's
+
+362
+00:11:12,720 --> 00:11:15,880
+all these cool video models. With
+
+363
+00:11:14,120 --> 00:11:17,680
+images, it's so freaking basic. I know
+
+364
+00:11:15,880 --> 00:11:19,240
+ChatGPT dropped a new image model. To
+
+365
+00:11:17,680 --> 00:11:20,720
+me, I was like, it's basically just a
+
+366
+00:11:19,240 --> 00:11:22,920
+clone of Nano Banana Pro. I mean, it
+
+367
+00:11:20,720 --> 00:11:24,920
+does all the same things. Speed is just
+
+368
+00:11:22,920 --> 00:11:25,960
+about the same. So, you know, it doesn't
+
+369
+00:11:24,920 --> 00:11:27,560
+really matter which one you use. They're
+
+370
+00:11:25,960 --> 00:11:29,520
+both very, very good. But, I think what
+
+371
+00:11:27,560 --> 00:11:31,800
+most people don't realize is what you
+
+372
+00:11:29,520 --> 00:11:33,720
+can do with Canva. So, let's say that I
+
+373
+00:11:31,800 --> 00:11:35,960
+was selling this device here for, you
+
+374
+00:11:33,720 --> 00:11:37,280
+know, a shower filter and I like the
+
+375
+00:11:35,960 --> 00:11:39,040
+creative, but it's not just the way I
+
+376
+00:11:37,280 --> 00:11:40,280
+want it. What you can do is download it
+
+377
+00:11:39,040 --> 00:11:42,600
+directly from Higgsfield. You're going
+
+378
+00:11:40,280 --> 00:11:44,520
+to go into Canva and select magic layer.
+
+379
+00:11:42,600 --> 00:11:47,200
+And what it'll do, as you can see, it'll
+
+380
+00:11:44,520 --> 00:11:49,720
+scan your entire image and basically
+
+381
+00:11:47,200 --> 00:11:51,320
+make every element on there dynamic. So,
+
+382
+00:11:49,720 --> 00:11:53,040
+if you don't like one specific part of
+
+383
+00:11:51,320 --> 00:11:54,480
+the text, the color, whatever it is,
+
+384
+00:11:53,040 --> 00:11:56,240
+instead of going back and forth with
+
+385
+00:11:54,480 --> 00:11:58,120
+Nano Banana Pro, you can literally just
+
+386
+00:11:56,240 --> 00:12:00,280
+edit it right here. I mean, it has the
+
+387
+00:11:58,120 --> 00:12:02,480
+exact correct font, like everything is
+
+388
+00:12:00,280 --> 00:12:04,400
+correct. It's pretty absurd. And it's
+
+389
+00:12:02,480 --> 00:12:06,680
+free, so what the hell? So, that's
+
+390
+00:12:04,400 --> 00:12:08,520
+images, right? Stupid simple, not much
+
+391
+00:12:06,680 --> 00:12:10,280
+to say. Now, videos you have a few more
+
+392
+00:12:08,520 --> 00:12:12,520
+options and it becomes a little bit more
+
+393
+00:12:10,280 --> 00:12:14,160
+case dependent. Every model here is
+
+394
+00:12:12,520 --> 00:12:15,440
+actually available through Higgsfield.
+
+395
+00:12:14,160 --> 00:12:17,760
+I'm not affiliated with Higgsfield,
+
+396
+00:12:15,440 --> 00:12:19,600
+guys. I just use them all the freaking
+
+397
+00:12:17,760 --> 00:12:21,600
+time. And it is nice to have all your
+
+398
+00:12:19,600 --> 00:12:23,320
+models in one place. The first solid
+
+399
+00:12:21,600 --> 00:12:26,160
+video model is, of course, going to be
+
+400
+00:12:23,320 --> 00:12:29,480
+Kling 3.0. To me, this is the best
+
+401
+00:12:26,160 --> 00:12:31,440
+balance between quality and cost because
+
+402
+00:12:29,480 --> 00:12:33,960
+it's not super duper expensive, but it
+
+403
+00:12:31,440 --> 00:12:35,960
+is definitely better than Veo 3.1 from
+
+404
+00:12:33,960 --> 00:12:38,840
+Google in terms of prompt adherence, in
+
+405
+00:12:35,960 --> 00:12:40,440
+terms of how realistic it is, etc. Veo
+
+406
+00:12:38,840 --> 00:12:42,520
+3.1, on the other hand, a little bit
+
+407
+00:12:40,440 --> 00:12:43,840
+cheaper, a little bit faster. You have,
+
+408
+00:12:42,520 --> 00:12:46,000
+you know, some limits in terms of how
+
+409
+00:12:43,840 --> 00:12:48,640
+long the clip can be, but I actually
+
+410
+00:12:46,000 --> 00:12:51,520
+still use Veo 3.1 a ton, specifically
+
+411
+00:12:48,640 --> 00:12:54,080
+the image to video model for Veo 3.1. In
+
+412
+00:12:51,520 --> 00:12:55,800
+fact, I almost exclusively use image to
+
+413
+00:12:54,080 --> 00:12:57,240
+video unless I'm creating something
+
+414
+00:12:55,800 --> 00:12:58,680
+completely from scratch and I don't need
+
+415
+00:12:57,240 --> 00:13:00,520
+a reference image and I want the AI to
+
+416
+00:12:58,680 --> 00:13:02,200
+kind of run wild. I'm always doing image
+
+417
+00:13:00,520 --> 00:13:04,880
+generation on Nano Banana Pro and then
+
+418
+00:13:02,200 --> 00:13:07,600
+image to video using Kling or Veo 3.1.
+
+419
+00:13:04,880 --> 00:13:10,240
+Seedance 2.0 is the final one. This is
+
+420
+00:13:07,600 --> 00:13:13,120
+obviously the most expensive by far, but
+
+421
+00:13:10,240 --> 00:13:15,520
+it's also the most realistic model that
+
+422
+00:13:13,120 --> 00:13:17,320
+there is by far. Now, my use case for
+
+423
+00:13:15,520 --> 00:13:19,280
+Seedance 2.0 right now is very, very
+
+424
+00:13:17,320 --> 00:13:20,560
+simple. All I'm doing is taking my top
+
+425
+00:13:19,280 --> 00:13:22,320
+performing creatives and remaking them
+
+426
+00:13:20,560 --> 00:13:24,520
+with Seedance. I'm not using it for
+
+427
+00:13:22,320 --> 00:13:26,040
+testing because, again, it's very slow
+
+428
+00:13:24,520 --> 00:13:27,440
+and it is quite expensive for the amount
+
+429
+00:13:26,040 --> 00:13:28,640
+of creatives that I produce on a daily
+
+430
+00:13:27,440 --> 00:13:29,800
+basis, so it just doesn't really make
+
+431
+00:13:28,640 --> 00:13:31,440
+sense. If you want all the prompts that
+
+432
+00:13:29,800 --> 00:13:33,560
+I use to both, you know, create the
+
+433
+00:13:31,440 --> 00:13:35,520
+images and then also the prompts for
+
+434
+00:13:33,560 --> 00:13:37,720
+image to video, just go to my Instagram
+
+435
+00:13:35,520 --> 00:13:39,240
+@markbuildsbrands and DM me the word
+
+436
+00:13:37,720 --> 00:13:41,080
+stack and I'll send it to you for free.
+
+437
+00:13:39,240 --> 00:13:43,480
+Now, I want to show you some examples of
+
+438
+00:13:41,080 --> 00:13:44,760
+what actually good AI creatives look
+
+439
+00:13:43,480 --> 00:13:46,120
+like. I'm not going to show examples
+
+440
+00:13:44,760 --> 00:13:48,200
+from my specific account, but I will
+
+441
+00:13:46,120 --> 00:13:49,520
+tell you they are very similar to many
+
+442
+00:13:48,200 --> 00:13:51,400
+of the creatives that I run across all
+
+443
+00:13:49,520 --> 00:13:54,360
+my businesses. First, let's take a quick
+
+444
+00:13:51,400 --> 00:13:55,880
+look at some high-performing AI UGC.
+
+445
+00:13:54,360 --> 00:13:57,000
+>> I woke up one morning and everything
+
+446
+00:13:55,880 --> 00:13:58,360
+looked like there were two of them and
+
+447
+00:13:57,000 --> 00:14:00,000
+every doctor told me it had nothing to
+
+448
+00:13:58,360 --> 00:14:01,520
+do with my thyroid. I'd see [music] two
+
+449
+00:14:00,000 --> 00:14:03,200
+coffee cups, two phones, two of
+
+450
+00:14:01,520 --> 00:14:04,960
+everything. I had to close one eye just
+
+451
+00:14:03,200 --> 00:14:06,280
+to function. Went to an ophthalmologist
+
+452
+00:14:04,960 --> 00:14:07,840
+who said my eyes were fine. Went to a
+
+453
+00:14:06,280 --> 00:14:09,680
+neurologist who did an MRI, found
+
+454
+00:14:07,840 --> 00:14:11,240
+nothing. Went back to my endocrinologist
+
+455
+00:14:09,680 --> 00:14:13,720
+who looked at my labs and said, "Your
+
+456
+00:14:11,240 --> 00:14:15,360
+TSH is 1.8. That's perfect. This isn't
+
+457
+00:14:13,720 --> 00:14:16,880
+thyroid-related." But I knew my body
+
+458
+00:14:15,360 --> 00:14:18,640
+something was very wrong. I couldn't
+
+459
+00:14:16,880 --> 00:14:20,560
+drive cuz I'd see two lanes instead of
+
+460
+00:14:18,640 --> 00:14:21,720
+one. I couldn't read because the words
+
+461
+00:14:20,560 --> 00:14:23,200
+doubled. I couldn't work because I
+
+462
+00:14:21,720 --> 00:14:24,680
+couldn't focus on my computer screen. My
+
+463
+00:14:23,200 --> 00:14:26,200
+life was falling apart and nobody could
+
+464
+00:14:24,680 --> 00:14:28,600
+tell me why. Then I found a research
+
+465
+00:14:26,200 --> 00:14:30,280
+study about thyroid eye disease and
+
+466
+00:14:28,600 --> 00:14:32,360
+>> So, before I even talk about the
+
+467
+00:14:30,280 --> 00:14:35,560
+technology here, as you can see, this is
+
+468
+00:14:32,360 --> 00:14:37,200
+a solid script. This is first-person
+
+469
+00:14:35,560 --> 00:14:38,880
+driven copy. It's following a framework
+
+470
+00:14:37,200 --> 00:14:40,760
+that I like to call, "I was just like
+
+471
+00:14:38,880 --> 00:14:42,640
+you, but worse." Where it's like, "I had
+
+472
+00:14:40,760 --> 00:14:44,400
+this clear issue. It wasn't quite as bad
+
+473
+00:14:42,640 --> 00:14:46,280
+as this lady, but if this lady was able
+
+474
+00:14:44,400 --> 00:14:47,760
+to fix her issues, then obviously I can
+
+475
+00:14:46,280 --> 00:14:49,400
+cuz she's in a much worse position than
+
+476
+00:14:47,760 --> 00:14:50,320
+me." And if we look at the hook, let's
+
+477
+00:14:49,400 --> 00:14:51,680
+rewatch the hook.
+
+478
+00:14:50,320 --> 00:14:52,840
+>> I woke up one morning and everything
+
+479
+00:14:51,680 --> 00:14:54,240
+looked like there were two of them and
+
+480
+00:14:52,840 --> 00:14:55,120
+every doctor told me it had nothing to
+
+481
+00:14:54,240 --> 00:14:56,960
+do with my thyroid.
+
+482
+00:14:55,120 --> 00:14:59,360
+>> So, I think one of the reasons this hook
+
+483
+00:14:56,960 --> 00:15:00,800
+was so successful is the second half. My
+
+484
+00:14:59,360 --> 00:15:03,040
+doctor told me it had nothing to do with
+
+485
+00:15:00,800 --> 00:15:05,040
+my thyroid. This is an ad that is
+
+486
+00:15:03,040 --> 00:15:06,800
+running in a solution-aware market,
+
+487
+00:15:05,040 --> 00:15:08,400
+which is actually, ironically, one of
+
+488
+00:15:06,800 --> 00:15:10,640
+the best markets to sell to because
+
+489
+00:15:08,400 --> 00:15:11,520
+people are already relatively aware of,
+
+490
+00:15:10,640 --> 00:15:12,720
+you know, all the products in the
+
+491
+00:15:11,520 --> 00:15:14,440
+market. You just have to play the game
+
+492
+00:15:12,720 --> 00:15:16,040
+of differentiation through your
+
+493
+00:15:14,440 --> 00:15:18,080
+mechanisms, through discrediting
+
+494
+00:15:16,040 --> 00:15:19,720
+alternative solutions, etc. And while
+
+495
+00:15:18,080 --> 00:15:22,440
+this lady didn't use it, one of the most
+
+496
+00:15:19,720 --> 00:15:23,680
+powerful words in copy in general, not
+
+497
+00:15:22,440 --> 00:15:25,720
+the most powerful, but I put it in the
+
+498
+00:15:23,680 --> 00:15:28,080
+top five. It's the word without. Like,
+
+499
+00:15:25,720 --> 00:15:29,840
+this is how you can achieve XYZ outcome
+
+500
+00:15:28,080 --> 00:15:31,520
+without discredit all the common
+
+501
+00:15:29,840 --> 00:15:33,120
+solutions. So, she didn't use the word
+
+502
+00:15:31,520 --> 00:15:34,840
+exactly without, but she was
+
+503
+00:15:33,120 --> 00:15:36,040
+discrediting the most common solution
+
+504
+00:15:34,840 --> 00:15:38,080
+being, you know, an issue with the
+
+505
+00:15:36,040 --> 00:15:40,400
+thyroid. Now, how about we look at an
+
+506
+00:15:38,080 --> 00:15:42,640
+image ad, specifically native static.
+
+507
+00:15:40,400 --> 00:15:44,760
+Native statics are format of images that
+
+508
+00:15:42,640 --> 00:15:46,440
+are designed to blend into the natural
+
+509
+00:15:44,760 --> 00:15:48,880
+scroll of the Facebook feed, yet they're
+
+510
+00:15:46,440 --> 00:15:50,200
+still designed for you to obviously stop
+
+511
+00:15:48,880 --> 00:15:52,520
+the scroll. The way that I view native
+
+512
+00:15:50,200 --> 00:15:54,040
+statics is the creative is essentially
+
+513
+00:15:52,520 --> 00:15:55,280
+the scroll stopper because it's the
+
+514
+00:15:54,040 --> 00:15:57,000
+first thing that people see. People
+
+515
+00:15:55,280 --> 00:15:59,440
+always see the creative way before they
+
+516
+00:15:57,000 --> 00:16:00,920
+read the copy. But, this creative itself
+
+517
+00:15:59,440 --> 00:16:03,000
+doesn't do any selling. What does the
+
+518
+00:16:00,920 --> 00:16:05,400
+actual selling is right here, which is
+
+519
+00:16:03,000 --> 00:16:07,600
+the actual primary text, the copy, which
+
+520
+00:16:05,400 --> 00:16:09,280
+says, "Please stop buying Oral-B 12 for
+
+521
+00:16:07,600 --> 00:16:10,600
+neuropathy." So, obviously selling to
+
+522
+00:16:09,280 --> 00:16:12,160
+the, you know, the health and wellness
+
+523
+00:16:10,600 --> 00:16:14,560
+market and neuropathy product. Now, the
+
+524
+00:16:12,160 --> 00:16:16,280
+reason this is so good is because while
+
+525
+00:16:14,560 --> 00:16:17,840
+it is like the whole native static and
+
+526
+00:16:16,280 --> 00:16:19,200
+it's kind of designed to blend in, it's
+
+527
+00:16:17,840 --> 00:16:21,400
+a balance because you have to blend in,
+
+528
+00:16:19,200 --> 00:16:22,920
+but you also have to stand out to stop
+
+529
+00:16:21,400 --> 00:16:24,960
+the scroll. And this is using a
+
+530
+00:16:22,920 --> 00:16:26,600
+principle called contrast, where if
+
+531
+00:16:24,960 --> 00:16:29,240
+people are scrolling through their feed,
+
+532
+00:16:26,600 --> 00:16:30,960
+this is not something that particularly
+
+533
+00:16:29,240 --> 00:16:32,680
+is pleasant to look at. And in your
+
+534
+00:16:30,960 --> 00:16:34,640
+brain, especially because of all this,
+
+535
+00:16:32,680 --> 00:16:36,720
+you know, the stitches and the purple,
+
+536
+00:16:34,640 --> 00:16:38,080
+it creates a visual sense of contrast.
+
+537
+00:16:36,720 --> 00:16:39,320
+And I posted a few videos ago, if you
+
+538
+00:16:38,080 --> 00:16:40,440
+want to go check it out, I'll leave it
+
+539
+00:16:39,320 --> 00:16:41,680
+somewhere in the description that goes
+
+540
+00:16:40,440 --> 00:16:43,720
+into this a little bit more depth. But,
+
+541
+00:16:41,680 --> 00:16:45,520
+this is another AI image, probably took
+
+542
+00:16:43,720 --> 00:16:47,320
+this person 30 seconds to actually
+
+543
+00:16:45,520 --> 00:16:48,600
+create this, that is scaling really well
+
+544
+00:16:47,320 --> 00:16:50,080
+in the health and wellness market. Now,
+
+545
+00:16:48,600 --> 00:16:52,560
+let's look at one more example here.
+
+546
+00:16:50,080 --> 00:16:54,720
+This is a AI animation ad. This is like
+
+547
+00:16:52,560 --> 00:16:56,680
+one of my points here of this video. You
+
+548
+00:16:54,720 --> 00:16:58,600
+guys have to understand that the whole
+
+549
+00:16:56,680 --> 00:17:00,440
+concept of like, "Oh, that AI looks so
+
+550
+00:16:58,600 --> 00:17:02,480
+realistic. It looks so human." We've
+
+551
+00:17:00,440 --> 00:17:05,000
+passed that point. The point is not AI
+
+552
+00:17:02,480 --> 00:17:07,200
+realism anymore. It maybe was initially
+
+553
+00:17:05,000 --> 00:17:09,000
+to make videos and images that look so
+
+554
+00:17:07,200 --> 00:17:10,760
+freaking realistic, but I'll be honest,
+
+555
+00:17:09,000 --> 00:17:12,760
+like some of the top ads in my account
+
+556
+00:17:10,760 --> 00:17:14,800
+over the last month has been stupid [ __ ]
+
+557
+00:17:12,760 --> 00:17:18,120
+like this. So, don't confine yourself to
+
+558
+00:17:14,800 --> 00:17:19,760
+like AI UGC or like hyperrealistic VSLs.
+
+559
+00:17:18,120 --> 00:17:21,320
+Some of the best ads you can ever run,
+
+560
+00:17:19,760 --> 00:17:23,360
+yes they're made with AI, but they can
+
+561
+00:17:21,320 --> 00:17:24,040
+just be the stupidest [ __ ] ever. So,
+
+562
+00:17:23,360 --> 00:17:27,280
+let's take a look.
+
+563
+00:17:24,040 --> 00:17:29,640
+>> E27 liquid collagen, a powerful blend of
+
+564
+00:17:27,280 --> 00:17:32,320
+collagen peptides, vitamin C, [music]
+
+565
+00:17:29,640 --> 00:17:35,120
+and hyaluronic acid to help curb those
+
+566
+00:17:32,320 --> 00:17:37,800
+pesky cravings, boost metabolism,
+
+567
+00:17:35,120 --> 00:17:39,120
+improve gut health, and support energy.
+
+568
+00:17:37,800 --> 00:17:41,320
+>> I'll be honest with you guys. If you
+
+569
+00:17:39,120 --> 00:17:43,240
+want to know the best way to find like
+
+570
+00:17:41,320 --> 00:17:44,800
+the top ad formats that are running,
+
+571
+00:17:43,240 --> 00:17:47,000
+don't go to Twitter, don't go to
+
+572
+00:17:44,800 --> 00:17:48,880
+Instagram. Everybody there is usually
+
+573
+00:17:47,000 --> 00:17:50,760
+very late, anywhere from like 6 months
+
+574
+00:17:48,880 --> 00:17:52,400
+to multiple years behind. What you
+
+575
+00:17:50,760 --> 00:17:54,760
+really want to do is go backwards. Go
+
+576
+00:17:52,400 --> 00:17:57,720
+back into history because this style of
+
+577
+00:17:54,760 --> 00:17:59,520
+creative has run in TV commercials for
+
+578
+00:17:57,720 --> 00:18:01,080
+decades. And if you really know your
+
+579
+00:17:59,520 --> 00:18:02,730
+history, you'd know that to be true. So,
+
+580
+00:18:01,080 --> 00:18:02,960
+instead of trying to go
+
+581
+00:18:02,730 --> 00:18:04,840
+>> [laughter]
+
+582
+00:18:02,960 --> 00:18:06,440
+>> look forward, go look backwards and you
+
+583
+00:18:04,840 --> 00:18:08,080
+may just find a a new winning format
+
+584
+00:18:06,440 --> 00:18:09,280
+that just prints for you. Speaking from
+
+585
+00:18:08,080 --> 00:18:09,480
+experience.
+
+586
+00:18:09,280 --> 00:18:11,920
+>> [music]
+
+587
+00:18:09,480 --> 00:18:15,040
+>> Just give me a little collagen.
+
+588
+00:18:11,920 --> 00:18:16,600
+Just one drop. E27 liquid collagen gives
+
+589
+00:18:15,040 --> 00:18:18,840
+you the confidence to slim down [music]
+
+590
+00:18:16,600 --> 00:18:19,840
+without the drama. Trust me, your gut
+
+591
+00:18:18,840 --> 00:18:21,160
+will thank you.
+
+592
+00:18:19,840 --> 00:18:22,560
+>> So, this isn't that good of a script,
+
+593
+00:18:21,160 --> 00:18:24,120
+but I actually think the product is
+
+594
+00:18:22,560 --> 00:18:26,160
+carrying a lot more weight here because
+
+595
+00:18:24,120 --> 00:18:28,240
+you're taking a super duper proven
+
+596
+00:18:26,160 --> 00:18:30,040
+market, which is collagen, and having
+
+597
+00:18:28,240 --> 00:18:32,120
+another method of consumption. Which, if
+
+598
+00:18:30,040 --> 00:18:33,720
+you're interested in like R&D in your
+
+599
+00:18:32,120 --> 00:18:35,400
+own brand, just look at the top
+
+600
+00:18:33,720 --> 00:18:37,800
+performing like supplements in a market
+
+601
+00:18:35,400 --> 00:18:38,800
+and transmute that into another method
+
+602
+00:18:37,800 --> 00:18:40,760
+of consumption. If you know, you know.
+
+603
+00:18:38,800 --> 00:18:42,840
+Now, once again, especially with videos,
+
+604
+00:18:40,760 --> 00:18:45,840
+very important you understand, realism
+
+605
+00:18:42,840 --> 00:18:47,840
+in AI is not the goal, okay? The people
+
+606
+00:18:45,840 --> 00:18:50,120
+that were very, very early to those
+
+607
+00:18:47,840 --> 00:18:52,080
+animation style creatives, they know
+
+608
+00:18:50,120 --> 00:18:54,240
+that it's not really about realism. We
+
+609
+00:18:52,080 --> 00:18:56,600
+cracked realism very, very early. I
+
+610
+00:18:54,240 --> 00:18:58,520
+think Sora 2 was the first, you know,
+
+611
+00:18:56,600 --> 00:19:00,040
+real introduction to having incredibly
+
+612
+00:18:58,520 --> 00:19:01,840
+realistic ads. And the better the
+
+613
+00:19:00,040 --> 00:19:03,360
+technology gets, once again, it's going
+
+614
+00:19:01,840 --> 00:19:05,200
+to become cheaper, it's going to become
+
+615
+00:19:03,360 --> 00:19:06,400
+faster. And so, this isn't going to be
+
+616
+00:19:05,200 --> 00:19:08,240
+something that you can compete on. So,
+
+617
+00:19:06,400 --> 00:19:10,760
+you have to adapt and become, you know,
+
+618
+00:19:08,240 --> 00:19:12,440
+more creative and come up with better at
+
+619
+00:19:10,760 --> 00:19:14,200
+formats that you can run instead of just
+
+620
+00:19:12,440 --> 00:19:17,640
+relying on stuff that looks realistic.
+
+621
+00:19:14,200 --> 00:19:19,640
+AI is a vehicle. It's not a strategy.
+
+622
+00:19:17,640 --> 00:19:20,840
+It's a multiplier of what you're already
+
+623
+00:19:19,640 --> 00:19:22,200
+doing. You cannot neglect the
+
+624
+00:19:20,840 --> 00:19:23,560
+fundamentals, or you'll never make
+
+625
+00:19:22,200 --> 00:19:25,760
+winning creatives. And you need to have
+
+626
+00:19:23,560 --> 00:19:26,920
+the right technology for each use case
+
+627
+00:19:25,760 --> 00:19:28,160
+that you have for your creative
+
+628
+00:19:26,920 --> 00:19:29,880
+production. And if you like learning
+
+629
+00:19:28,160 --> 00:19:32,280
+about all this AI stuff and staying on
+
+630
+00:19:29,880 --> 00:19:34,040
+top of AI creatives and strategies, I do
+
+631
+00:19:32,280 --> 00:19:35,440
+have a mentorship program called Brand
+
+632
+00:19:34,040 --> 00:19:36,560
+Builders Academy, where we go through
+
+633
+00:19:35,440 --> 00:19:38,880
+all this stuff in depth. If you're
+
+634
+00:19:36,560 --> 00:19:40,640
+interested, it is via application only
+
+635
+00:19:38,880 --> 00:19:42,040
+as of right now. interested, just click
+
+636
+00:19:40,640 --> 00:19:43,680
+the link in the description, the first
+
+637
+00:19:42,040 --> 00:19:44,880
+one. Other than that, y'all, thank you
+
+638
+00:19:43,680 --> 00:19:48,120
+so much for watching. See y'all in the
+
+639
+00:19:44,880 --> 00:19:48,120
+next video. Peace.
+

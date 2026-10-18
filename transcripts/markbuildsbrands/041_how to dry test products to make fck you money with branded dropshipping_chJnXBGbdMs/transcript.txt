@@ -1,0 +1,343 @@
+# how to "dry test" products to make f*ck you money with branded dropshipping
+URL: https://www.youtube.com/watch?v=chJnXBGbdMs
+Category: video
+Duration: 590s
+Published: 20250916
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to show you how you can use dry
+[00:00:03] testing to make FU money. Now, what
+[00:00:05] actually is dry testing and why is it
+[00:00:07] better than any model out there? Well,
+[00:00:08] it's very simple. Let's say you got
+[00:00:10] Jimmy here, and Jimmy wants to start an
+[00:00:12] e-commerce business. To start an
+[00:00:14] e-commerce business, you have to go out
+[00:00:15] and do all this product research for
+[00:00:17] hours upon hours to find the perfect
+[00:00:18] product. You got to go build the store,
+[00:00:20] which often times can take days, if not
+[00:00:22] weeks. You have to go write the ads to
+[00:00:24] actually launch traffic to your store.
+[00:00:26] You have to work out the supplier so you
+[00:00:28] can actually ship out your product to
+[00:00:29] customer. There's like all these things
+[00:00:30] you have to do. The problem is like you
+[00:00:32] do all of this before you even test the
+[00:00:34] product. You don't even know if that
+[00:00:36] product is able to be sold successfully.
+[00:00:38] And that's the problem with this model.
+[00:00:39] And so the concept of dry testing on the
+[00:00:41] other hand is you literally just find a
+[00:00:44] product using a very very simple method
+[00:00:46] and you test it immediately using
+[00:00:48] something called VCL which is a
+[00:00:51] vibecoded lander. And yes, I 100% made
+[00:00:55] that term up myself and I'm proud of it.
+[00:00:57] But for a lot of people, the most
+[00:00:59] timeconuming part is simply actually
+[00:01:00] building the store because you have to
+[00:01:02] do all this manual work. Takes hours
+[00:01:03] upon hours. You want it to look perfect.
+[00:01:05] Instead, you can use a simple tool to
+[00:01:07] vibe code a landing page and actually
+[00:01:09] deploy it live on a domain in like under
+[00:01:11] 30 minutes, which means all you have to
+[00:01:13] do at that point is find a product and
+[00:01:15] test it. So, step number one, you
+[00:01:16] actually need to find a product that
+[00:01:18] you're going to sell. This is not going
+[00:01:19] to be one of those product research
+[00:01:21] videos. I have many of those already on
+[00:01:22] my channel if you want to check them
+[00:01:23] out. Obviously, you know, they're there.
+[00:01:25] So, step number two is going to be that
+[00:01:26] vibecoded lander, right? So, what you're
+[00:01:28] going to do after you find the product
+[00:01:29] is you're going to put that product
+[00:01:31] through my foundational docs SOP. This
+[00:01:33] is a well-known document at this point,
+[00:01:35] but this is the best way to get deep,
+[00:01:37] deep psychological research and
+[00:01:38] understanding of the person that you're
+[00:01:40] actually selling to. Okay? So, again, I
+[00:01:41] have many videos on this. I'll leave a
+[00:01:43] link to this resource in the description
+[00:01:45] of the video. But what's going to happen
+[00:01:46] is you're going to pop out four
+[00:01:47] different documents that are basically
+[00:01:49] going to be the structure for the copy
+[00:01:51] that you write on your landing page. So
+[00:01:53] after you have the foundational docs,
+[00:01:54] you can go into your favorite AI
+[00:01:56] copywriting tool of choice or if you
+[00:01:58] want to raw dog it, you know, by all
+[00:01:59] means go for it. But what I did instead
+[00:02:01] is I popped it into Claude Opus 4.1 for
+[00:02:04] a showerhead product just as an example.
+[00:02:07] I put it through a few simple prompts so
+[00:02:08] that we have the actually outputed copy
+[00:02:11] for this particular page as you can see
+[00:02:13] here. And this is now the entire sales
+[00:02:15] page copy that I just wrote already in
+[00:02:17] under 30 minutes. Is it perfect?
+[00:02:18] Definitely not. I haven't achieved this
+[00:02:20] one bit. But that's not the point. The
+[00:02:22] point of dry testing is to test quickly
+[00:02:24] with minimal effort. That's the whole
+[00:02:26] point of dry testing because you don't
+[00:02:28] want to be the guy, right? You don't
+[00:02:29] want to be Jimmy who has to go and build
+[00:02:31] X, Y, and Z plus 3 million other things
+[00:02:34] before he even launches a product.
+[00:02:36] Because like what happens when you want
+[00:02:38] to start a business is that you create
+[00:02:39] this illusion where you think that the
+[00:02:41] majority of the work is in the
+[00:02:43] preparation. But the majority of the
+[00:02:45] work and the learning is actually after
+[00:02:46] you already launch. So many people get
+[00:02:49] like this incredible sense of
+[00:02:50] procrastination simply because they
+[00:02:52] think that the most important thing is
+[00:02:54] everything that's actually not
+[00:02:55] important. It's everything before the
+[00:02:56] launch. But the launch is actually
+[00:02:57] what's most important. if you can launch
+[00:02:59] products really really quickly. Even if
+[00:03:01] you don't have the entire backend built
+[00:03:02] out, even if you don't have supplier,
+[00:03:03] like don't even worry about that. What
+[00:03:05] we're looking for initially is positive
+[00:03:07] leading indicators. And I'll explain
+[00:03:08] exactly what I mean in just a second.
+[00:03:10] But first, before we do any of that, we
+[00:03:11] have to actually build this vibecoded
+[00:03:13] lander. So the software that I actually
+[00:03:15] like using most for this is called
+[00:03:17] builder.io. I've used a lot of vi coding
+[00:03:19] softwares. I use a lot of them every
+[00:03:20] single day, but builder, I think it's
+[00:03:22] specifically for landing pages, has been
+[00:03:24] my favorite one. And this is essentially
+[00:03:26] a software that you can have a normal
+[00:03:29] English conversation with this
+[00:03:31] particular software as if it was chatb
+[00:03:33] and speak to it in real language so you
+[00:03:34] can build the exact kind of lander that
+[00:03:36] you want. Now, before we type a single
+[00:03:37] prompt in here, the most important thing
+[00:03:39] when it comes to actually building this
+[00:03:40] DCL here that I'm talking about is that
+[00:03:42] you have the structure right. In my
+[00:03:44] experience, when you're working with
+[00:03:45] these vibe coding softwares, if you just
+[00:03:47] have a monstrous first prompt that has
+[00:03:49] like all the copy, all the structure,
+[00:03:51] all the color palette, the branding
+[00:03:53] guidelines, everything, it's just going
+[00:03:54] to completely underexecute, right? I
+[00:03:56] actually think that having this
+[00:03:57] conversation back and forth a lot more,
+[00:03:59] you're going to get better results. And
+[00:04:00] so, the structure that I like to follow
+[00:04:02] is number one, you want it to just get
+[00:04:04] the structure down first. Okay? So, like
+[00:04:06] don't input the copy, don't input your
+[00:04:08] your colors, don't input anything. All
+[00:04:10] we want is the structure of a sales
+[00:04:12] page. Very simple thing that you can do
+[00:04:14] here. I just went to a brand that is
+[00:04:16] doing really, really well. Obviously,
+[00:04:18] don't copy. These guys are a legit brand
+[00:04:20] doing amazing. And all that I did is I
+[00:04:23] screenshotted this and I uploaded it to
+[00:04:25] the Vive coding software. Basically
+[00:04:26] said, I want you to remake this landing
+[00:04:28] page. All right. So, after you have the
+[00:04:29] structure, number two is going to be to
+[00:04:31] input the copy. So, you actually want to
+[00:04:33] paste all of the copy word for word in
+[00:04:36] this particular chat. And I'm going to
+[00:04:37] show all this in just a second. And then
+[00:04:39] the third step is going to be, of
+[00:04:41] course, the branding. So what I mean by
+[00:04:43] this is the color palette, the
+[00:04:44] typography, the spacing, the overall
+[00:04:47] like feeling of your brand, if that
+[00:04:49] makes sense. And then the fourth and
+[00:04:50] final thing obviously is going to be the
+[00:04:51] images, which I'm not going to be
+[00:04:53] covering in this video. I have again
+[00:04:54] many videos on this. You want to check
+[00:04:55] out my video on image ads. You can
+[00:04:57] follow the exact same process. So here's
+[00:04:59] a particular landing page that as of
+[00:05:01] right now looks pretty terrible for this
+[00:05:03] shower head filter kind of product, but
+[00:05:05] I want you to focus over here so that
+[00:05:07] you can specifically see the prompts
+[00:05:08] that I'm using. As you can tell, the
+[00:05:10] first one incredibly basic. I probably
+[00:05:11] could have done a lot better with this,
+[00:05:13] but it actually executed this step
+[00:05:15] incredibly well. I'll show you that. I
+[00:05:17] just wanted it to remake the structure
+[00:05:18] of a particular landing page, and it
+[00:05:20] already did that one step so incredibly
+[00:05:22] well. Check this out. So, this is the
+[00:05:24] original lander from the competitor. And
+[00:05:26] this is the remade version. So, as you
+[00:05:28] can see, the only thing that's really
+[00:05:30] not in place here is the images.
+[00:05:32] Everything else looks pretty good. So,
+[00:05:33] now we can go back here and say, "Okay,
+[00:05:34] cool. We got the structure down." Number
+[00:05:36] two is going to be the copy, which
+[00:05:37] thankfully we already got that all
+[00:05:38] written. So, what you're going to do is
+[00:05:39] go to the copy. Copy the copy. Um,
+[00:05:42] you're going to go into builder.io. And
+[00:05:44] as you can see here, this was the second
+[00:05:45] message that I sent here. Just pasted
+[00:05:47] all the copy written here. Again, the
+[00:05:48] copy doesn't necessarily match the
+[00:05:50] structure of the lander because I am
+[00:05:51] zooming through this process. But point
+[00:05:53] being, it works well. Now, after you
+[00:05:54] have inputed all the copy, the next is
+[00:05:56] going to be the brand guidelines. Okay?
+[00:05:58] So, let me show you exactly what I said
+[00:06:00] here. So, as you can tell, I got the
+[00:06:01] color palette, the specific hex codes of
+[00:06:04] all the colors that I want, the
+[00:06:05] typography, the font family, for primary
+[00:06:07] text, for description text, for headline
+[00:06:10] text. By the way, if you're like looking
+[00:06:11] at these prompts, you're like, "How the
+[00:06:12] hell did you write these?" I didn't. Of
+[00:06:14] course, I used AI to help me build these
+[00:06:16] prompts and then I send it into this
+[00:06:18] vibe coding software here. Let's say you
+[00:06:19] got all the branding done. The final
+[00:06:20] thing is going to be the images. This is
+[00:06:22] the one thing I didn't show in this
+[00:06:23] video, but it's a very, very simple
+[00:06:25] process. You can just again have a
+[00:06:27] normal conversation. What's cool is that
+[00:06:29] with builder.io, you can actually see
+[00:06:31] this website in a responsive mode. So,
+[00:06:34] as you can tell, again, this looks like
+[00:06:35] nowhere near what I would actually use.
+[00:06:37] But if we replace the images, you can
+[00:06:39] see that it actually has a relatively
+[00:06:40] solid design already. And I've been
+[00:06:42] doing this, you know, for about 10
+[00:06:44] minutes. And it's only an example. Point
+[00:06:46] is not to make this like a beautiful 10
+[00:06:47] out of 10 lander, though I think you can
+[00:06:49] with minimal effort. The point is so
+[00:06:51] that you have something quickly, okay?
+[00:06:53] Cuz I haven't even gotten to the testing
+[00:06:54] side, which is what I want to talk about
+[00:06:56] now. Because let's say like, okay, Mark,
+[00:06:58] I have all this stuff built out. I got
+[00:06:59] this VCL. It looks amazing. Well, the
+[00:07:01] cool thing about builder.io is that you
+[00:07:04] can actually launch on a subdomain
+[00:07:06] through builder.io. Literally, all you
+[00:07:08] have to do is go into your DNS settings
+[00:07:11] on your domain, add a record from
+[00:07:13] builder.io, and you can launch this
+[00:07:15] lander completely live with like all
+[00:07:17] this took, you know, like 30 to 45
+[00:07:19] minutes to actually launch. And the
+[00:07:20] beauty, like I said, you have this
+[00:07:22] lander built out, everything is ready to
+[00:07:23] go. Then that's always everybody's next
+[00:07:25] question is like, "Mark, I have the
+[00:07:26] lander. Got the VCL. Cool." The answer
+[00:07:28] to that is now you freaking launch. And
+[00:07:30] obviously, you don't actually have the
+[00:07:32] product on hand. You don't have the
+[00:07:34] supplier sorted out. You don't have the
+[00:07:35] store. You don't have your payment
+[00:07:36] process. You don't have anything. So,
+[00:07:37] Mark, how do you actually launch? Well,
+[00:07:38] again, the point of the launch is simply
+[00:07:40] to identify if people are genuinely
+[00:07:42] interested in purchasing this product
+[00:07:45] before you go and build out all the
+[00:07:46] backend and the infrastructure. So the
+[00:07:48] one change that you're going to make
+[00:07:49] that is different from a standard launch
+[00:07:52] of an e-commerce product, let's say, is
+[00:07:53] that you're not going to have an add
+[00:07:55] toart kind of button. You're going to
+[00:07:57] have a buy button, but instead of the
+[00:07:58] buy button, it is going to be an opt-in.
+[00:08:01] All right? So what you're looking for is
+[00:08:03] people to opt in to this particular
+[00:08:06] landing page at a specific rate that
+[00:08:08] signifies that they're actually going to
+[00:08:10] go through and purchase. And the rate
+[00:08:11] that I'm looking for specifically is
+[00:08:13] going to be right around 10%. This is
+[00:08:15] going to vary depending on the price of
+[00:08:16] your product. If you're selling
+[00:08:17] something more expensive like in the
+[00:08:19] hundred plus dollar range, you could
+[00:08:20] probably get away with like 8 to 9%. But
+[00:08:22] overall, if people are not willing to
+[00:08:25] opt in to purchase my product at a rate
+[00:08:27] of at least 10%, then this is not a
+[00:08:29] product I'm going to pursue. The beauty
+[00:08:31] of this dry testing method is that you
+[00:08:33] can test, you know, three products in a
+[00:08:35] single day and one of them gets maybe a
+[00:08:37] 5% optin rate. It's obviously, you know,
+[00:08:39] not going to be a winner. The next one
+[00:08:41] gets a 4% optin rate, also clearly not a
+[00:08:43] winner, but the next one gets a 12%
+[00:08:45] optin rate. You can see that the ads are
+[00:08:47] doing well. The lander is converting.
+[00:08:48] So, this is a positive signal to you.
+[00:08:51] You can actually launch this product
+[00:08:52] successfully and probably make a lot of
+[00:08:54] money. So, this is a process that I like
+[00:08:56] to teach internally to a lot of people,
+[00:08:58] especially if you're a little bit
+[00:08:58] strapped for cash. You're not going to
+[00:09:00] make money when you dry test landers.
+[00:09:02] That is the one important caveat because
+[00:09:04] you don't even have your payment
+[00:09:05] processor set up. All you're trying to
+[00:09:06] do is see if it is worthwhile for you to
+[00:09:10] build the entire infrastructure around
+[00:09:11] this product. So, it's very lean, it's
+[00:09:13] mean, and it's a beautiful way of
+[00:09:15] testing products quickly, especially
+[00:09:16] with the help of vibe coding that you
+[00:09:18] can build these liners and launch them
+[00:09:19] and deploy them and just get data,
+[00:09:21] right? I'm a huge data guy. Whenever
+[00:09:23] you're running ads, I believe that you
+[00:09:24] never lose money. You only buy data. So,
+[00:09:26] this is a way we can buy data faster and
+[00:09:28] get results faster. And if you like kind
+[00:09:30] of this entire strategy that I went
+[00:09:31] over, this is just the tip of the
+[00:09:32] iceberg. I promise you, it goes so much
+[00:09:34] deeper. But if you're interested in
+[00:09:36] working with me and my team a little bit
+[00:09:37] more closely and you want somebody to
+[00:09:38] actually like hold your hand process of
+[00:09:41] starting and getting your ecom brand, I
+[00:09:42] do have a mentorship program called
+[00:09:44] Brand Builders Academy. You can check it
+[00:09:45] out. First link in the description.
+[00:09:46] Other than that, I'll see you on the
+[00:09:48] next video. No more ads. Peace.

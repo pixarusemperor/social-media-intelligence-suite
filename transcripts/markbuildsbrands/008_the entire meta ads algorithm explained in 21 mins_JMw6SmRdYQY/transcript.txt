@@ -1,0 +1,701 @@
+# the entire meta ads algorithm explained in 21 mins
+URL: https://www.youtube.com/watch?v=JMw6SmRdYQY
+Category: video
+Duration: 1279s
+Published: 20260511
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be explaining how the entire
+[00:00:03] Meta Ads algorithm actually works. A lot
+[00:00:06] of people think that running ads on
+[00:00:07] Facebook is just all random or that if
+[00:00:09] your creative is good enough, then
+[00:00:11] everything else will just magically fall
+[00:00:12] into place. Well, running profitable ads
+[00:00:14] on Facebook is both an art and a
+[00:00:16] science. The art is the creative, but
+[00:00:18] the science is exactly what I'm going to
+[00:00:19] be explaining in this video, how the
+[00:00:21] algorithm actually works. And more
+[00:00:23] specifically than a science, it's
+[00:00:24] actually an equation. And this is the
+[00:00:26] one equation that is actually going to
+[00:00:28] determine how profitable your ads are
+[00:00:30] going to be. Now, before I break down
+[00:00:32] this equation, I need to explain to you
+[00:00:34] the four-step process that Facebook uses
+[00:00:36] to actually show your ads, the one
+[00:00:37] update that broke everybody's ad
+[00:00:39] account, and at the end of this video,
+[00:00:41] I'm going to put in a little something
+[00:00:42] special to explain what this actually
+[00:00:44] all means and how the game really works.
+[00:00:46] All right, so before we get too
+[00:00:47] technical, this is what you have to
+[00:00:48] understand. Facebook basically goes
+[00:00:50] through a four-step process to determine
+[00:00:52] which ad is going to show for any
+[00:00:54] particular user. Every time somebody
+[00:00:56] opens up their phone on Instagram and
+[00:00:58] they scroll and see an ad behind the
+[00:01:00] means there's literally a 200
+[00:01:01] millisecond window where Facebook is
+[00:01:03] doing all these incredible calculations
+[00:01:06] and machine learning decisions to
+[00:01:08] ultimately decide to put your ad in
+[00:01:10] front of the user or somebody else's.
+[00:01:12] So, in that one 200 millisecond period,
+[00:01:15] there is literally tens of millions of
+[00:01:17] ads that are competing for that one
+[00:01:19] impression. And these are the four steps
+[00:01:21] right here. First, you have retrieval.
+[00:01:23] Second is light ranking. Third is heavy
+[00:01:26] ranking. And the final piece is the
+[00:01:28] auction. So, let me break this down for
+[00:01:29] you. So, first up is retrieval.
+[00:01:31] Retrieval is the most data-intensive
+[00:01:35] portion of this entire process because
+[00:01:36] as I said, there's tens of millions of
+[00:01:38] ads, tens of millions that are competing
+[00:01:40] for one individual spot. The process of
+[00:01:42] retrieval is essentially Facebook going
+[00:01:45] through and ultimately deciding, is the
+[00:01:47] ad right now even remotely relevant to
+[00:01:49] this user? Basically, like is it even in
+[00:01:52] the right ballpark? Now, this is also
+[00:01:54] the portion of the process where
+[00:01:56] Facebook actually analyzes all the
+[00:01:58] aspects of your creative to determine
+[00:02:00] how to narrow down the audience. So, you
+[00:02:02] may have heard this before, but this
+[00:02:04] whole concept of your creative is your
+[00:02:06] targeting. This is where Facebook is
+[00:02:08] analyzing everything about your creative
+[00:02:09] to determine who to show it to. This
+[00:02:11] includes, but is not limited to, your
+[00:02:14] hook, your format, the demographic of
+[00:02:18] the users that are actually on your ad.
+[00:02:20] So, for example, if you're running an ad
+[00:02:22] that is featuring a woman that is 55
+[00:02:24] years old, Facebook takes note of that
+[00:02:26] and it's going to use that to power the
+[00:02:27] targeting to skew much more towards
+[00:02:29] women and skew much more towards older
+[00:02:31] women specifically. Of course, all taken
+[00:02:32] into context with what the creative is
+[00:02:34] actually saying. It's also looking at
+[00:02:35] your copy, it's looking at your script.
+[00:02:38] If you're running video ads, it's
+[00:02:40] looking at your thumbnail. It's even
+[00:02:41] going and looking at your landing page
+[00:02:43] to determine generally who is this ad
+[00:02:45] trying to target. This is a
+[00:02:46] non-exhaustive list. I'm really
+[00:02:47] simplifying this. Behind the scenes,
+[00:02:49] it's a pretty substantial, literally an
+[00:02:52] algorithm in order to determine which
+[00:02:54] variable is going to correlate to which
+[00:02:56] piece of targeting. And this is probably
+[00:02:57] a good time to mention the Andromeda
+[00:03:00] update. Andromeda what is was an update
+[00:03:02] to the sorting process of the retrieval
+[00:03:05] steps specifically. Mostly just because
+[00:03:07] there was a massive influx of AI
+[00:03:08] creative that was absolutely flooding
+[00:03:11] Facebook to the point where their old
+[00:03:12] model of sifting through all these
+[00:03:13] creatives was not becoming very
+[00:03:15] effective. This is not the only reason
+[00:03:16] for the Andromeda update, but I believe
+[00:03:18] this is one of the biggest ones simply
+[00:03:20] due to the fact that AI has massively
+[00:03:22] increased creative production for all
+[00:03:23] advertisers. And now that's why Facebook
+[00:03:26] is mostly looking at creative to
+[00:03:27] determine targeting, not what you have
+[00:03:29] going on within your ad sets. That's why
+[00:03:31] you've probably seen a decline in
+[00:03:33] audiences that are actually able to
+[00:03:35] sustain high budgets profitably. Like I
+[00:03:38] rarely use audiences like interest, and
+[00:03:40] if I do, they're pretty capped in terms
+[00:03:42] of budget or, you know, lookalikes or
+[00:03:44] even custom audiences. Like I don't set
+[00:03:46] any real [ __ ] targeting when it comes
+[00:03:48] to my retargeting. I don't put any
+[00:03:50] custom audiences in there. I literally
+[00:03:52] just still run completely broad. And
+[00:03:54] most high-skill advertisers that I speak
+[00:03:56] to, they're doing something relatively
+[00:03:57] similar. Maybe one exclusion of
+[00:03:58] purchasers, but like other than that,
+[00:04:00] very, very broad. So, if that was kind
+[00:04:02] of the old way of doing targeting on
+[00:04:04] Facebook, the new way is to do a lot of
+[00:04:06] broad targeting. It's to do a lot of
+[00:04:08] Advantage Plus campaigns, and it's
+[00:04:10] usually within reason, within reason.
+[00:04:13] Giving Facebook control. Like the reason
+[00:04:15] that I say it's within reason is because
+[00:04:17] if you give Facebook all the control,
+[00:04:19] the algorithm is good, don't get me
+[00:04:20] wrong, but holy [ __ ] the amount of
+[00:04:22] suggestions that Facebook gives you that
+[00:04:24] are horrible pieces of advice that are
+[00:04:27] just going to drain your [ __ ] bank
+[00:04:28] account is obscene. And it's always been
+[00:04:30] this way, too. They're still a company
+[00:04:32] at the end of the day, and you are a
+[00:04:34] customer. You are paying Facebook, so
+[00:04:36] they still want to get your money. I'll
+[00:04:37] save that for later in the video. Now,
+[00:04:39] the second step is going to be light
+[00:04:41] ranking. This step barely deserves a
+[00:04:43] description. It's basically taking the
+[00:04:44] now millions of ads instead of tens of
+[00:04:47] millions, and reducing it down to
+[00:04:49] thousands. There's really not a a whole
+[00:04:51] lot more to say about the light ranking
+[00:04:52] process. Now, the heavy ranking is the
+[00:04:55] next step, which, you guessed it, if
+[00:04:56] it's going from thousands of ads, you're
+[00:04:58] now trying to get to a couple hundred.
+[00:05:00] Now, at this point, this is like your
+[00:05:02] real, legitimate competitors. Like this
+[00:05:04] is the stage where competitors are
+[00:05:06] actually something that you should take
+[00:05:07] into consideration, because you don't
+[00:05:09] have tens of millions of competitors.
+[00:05:11] You just don't. You probably only have a
+[00:05:13] handful, at least in the eyes of
+[00:05:14] Facebook, you only have a handful.
+[00:05:15] There's only 10 million advertisers
+[00:05:18] total on Facebook, which may seem like a
+[00:05:19] massive number, but also think about we
+[00:05:21] are in e-commerce specifically, at least
+[00:05:23] I'm in e-commerce specifically, which
+[00:05:25] immediately narrows it pretty
+[00:05:26] substantially. Now, the really important
+[00:05:28] piece about the heavy ranking step is
+[00:05:30] that this is where that equation
+[00:05:32] actually comes into play. So, I want to
+[00:05:33] take a second to talk about that,
+[00:05:35] because I remember Facebook released
+[00:05:37] this. They have since withdrawn it, but
+[00:05:38] they released this documentation to
+[00:05:41] explain how they actually assign a
+[00:05:43] specific value for every single ad when
+[00:05:46] they are fighting for an impression. And
+[00:05:48] the one that has a higher value,
+[00:05:49] obviously, is going to win the
+[00:05:50] impression and the one with the lower
+[00:05:51] value is going to lose the impression
+[00:05:53] and get served a lower quality
+[00:05:54] impression. All right, so this is the
+[00:05:55] equation I was talking about. This is
+[00:05:57] actually directly from Facebook.
+[00:05:58] Somebody swiped it and it is still on
+[00:06:01] their website, but it's not on Facebook.
+[00:06:03] But this is how it's actually working
+[00:06:04] underneath the hood, all right? So the
+[00:06:05] total value, this is what you want to
+[00:06:07] aim on maximizing, is equal to this
+[00:06:10] piece first of maximizing advertiser
+[00:06:12] value plus maximizing consumer value and
+[00:06:15] consumer experience. So the piece to
+[00:06:17] maximize your advertise value, number
+[00:06:19] one is going to be your bid, which we'll
+[00:06:21] get to in a second, times your estimated
+[00:06:23] action rate. Since 99% of us and 99% of
+[00:06:26] people watching this video are running
+[00:06:28] conversion campaigns, that essentially
+[00:06:29] means what is the estimated action rate
+[00:06:32] to get a conversion. And if you look
+[00:06:33] down here, you can see they actually
+[00:06:35] break it down specifically for a
+[00:06:37] conversion optimized ad, which is the
+[00:06:40] estimated click-through rate times the
+[00:06:42] estimated click-to-conversion rate. So
+[00:06:44] the way to get gamify this, of course,
+[00:06:46] is you want to have really high CTR.
+[00:06:48] Historically, Facebook just loves ads
+[00:06:50] that have really high CTR, and the
+[00:06:51] reason why is because that is the the
+[00:06:53] most pure indication of how relevant
+[00:06:57] that one particular ad is to the user.
+[00:06:59] So Facebook is going to reward you
+[00:07:01] typically over time and as you spend
+[00:07:03] more with lower cost to advertise, lower
+[00:07:05] CPMs, and ideally higher quality
+[00:07:08] traffic, too. So this is kind of like
+[00:07:09] the first piece of that. The second
+[00:07:10] piece is going to be you want to have a
+[00:07:12] high, they call it like
+[00:07:14] click-to-conversion. It's basically just
+[00:07:16] your conversion rate, which is out of
+[00:07:17] all the clicks that you had, how many
+[00:07:18] actually purchased. And again, if you're
+[00:07:20] running a e-commerce business, this is
+[00:07:23] going to be like a legitimate purchase
+[00:07:24] because that's typically what you're
+[00:07:25] optimizing for. But if you're in, you
+[00:07:27] know, the info industry, for example,
+[00:07:29] you're optimizing for calls, what is the
+[00:07:31] ratio between clicks to calls that
+[00:07:33] you're getting or clicks to applications
+[00:07:35] or insert your conversion here, it
+[00:07:36] doesn't really matter. Facebook views a
+[00:07:38] lot of this largely the same, at least
+[00:07:40] in the context of this equation. So the
+[00:07:42] way I like to think about this is the
+[00:07:43] estimated click-through rate, I think
+[00:07:45] it's actually more than the
+[00:07:46] click-through rate. I think it's a
+[00:07:47] culmination of all your soft metrics.
+[00:07:50] So, that is your CTR, but that's also
+[00:07:51] your CPC, your CPMs, your hook rate,
+[00:07:53] your hold rate, cost per 3-second video
+[00:07:55] view, like all these metrics that are
+[00:07:57] associated with getting somebody engaged
+[00:07:59] and getting them to click. And then the
+[00:08:01] second half of this is how good are you
+[00:08:04] at monetizing that click, taking that
+[00:08:06] click through your funnel, and turning
+[00:08:08] somebody who's a prospect into a buyer.
+[00:08:10] Pretty straightforward. And this last
+[00:08:11] piece is basically Facebook trying to
+[00:08:13] save their own ass from advertisers that
+[00:08:15] are incredibly aggressive and cause a
+[00:08:17] terrible user experience for the users.
+[00:08:19] Because if this piece just did not exist
+[00:08:21] and we didn't care about the user
+[00:08:22] experience whatsoever, advertisers would
+[00:08:24] just flood the platform and completely
+[00:08:26] just destroy Facebook as a platform
+[00:08:28] because you just have [ __ ] loads of
+[00:08:30] scammers, not like there isn't scammers
+[00:08:31] on Facebook anyways, but there would be
+[00:08:33] way more. Like it would be like 50/50
+[00:08:35] instead of 80/20, which is roughly what
+[00:08:37] it is right now. So, this is Facebook
+[00:08:38] saying, "Hey, I want you to have the
+[00:08:41] most relevant ads to the user, which is
+[00:08:43] CTR, all the soft metrics, and I want
+[00:08:46] you to actually get conversions for all
+[00:08:48] the clicks that you're getting, which is
+[00:08:50] the conversion rate, and I don't want
+[00:08:51] you to piss off all of our [ __ ] users
+[00:08:53] in the process." And that's the last
+[00:08:54] piece. All right, so we took it from
+[00:08:56] thousands of ads and now we're down to a
+[00:08:58] few hundred. In fact, sometimes it could
+[00:09:00] be even less than a few hundred. But now
+[00:09:02] we have the final step in the process,
+[00:09:03] which is going to be the auction. And
+[00:09:06] the auction is exactly what it sounds
+[00:09:08] like. It's all the advertisers that are
+[00:09:11] left competing for that one impression
+[00:09:12] and basically who can have the highest
+[00:09:15] bid, of course with all the context of
+[00:09:17] that equation that I said previously,
+[00:09:18] that's going to be the one that wins the
+[00:09:19] impression. So, majority of people
+[00:09:20] watching this video right now are
+[00:09:21] probably running what's called, you
+[00:09:23] know, lowest cost bidding or also known
+[00:09:25] as like auto bidding, which Facebook is
+[00:09:27] just doing all the bidding for you,
+[00:09:29] trying to get you conversions for the
+[00:09:30] lowest cost possible. This is, like I
+[00:09:32] said, auto bidding. You can also do
+[00:09:35] manual bidding, which can come in a few
+[00:09:37] different ways. Manual bidding, you can
+[00:09:39] do something called cost caps, which is
+[00:09:40] where you set a cap on the maximum
+[00:09:42] amount that you're willing to pay to
+[00:09:44] acquire a customer. You can also do bid
+[00:09:46] caps, which is similar, except it's the
+[00:09:48] maximum amount that you want to bid to
+[00:09:50] acquire a customer. And there's some
+[00:09:51] other stuff that Facebook is always
+[00:09:53] releasing as well to help you optimize,
+[00:09:55] you know, maximum value, target ROAS,
+[00:09:57] stuff like that. But I'll tell you this,
+[00:09:58] there's a lot of people that are really
+[00:10:00] obsessing about cost caps or bid caps or
+[00:10:03] whatever the hot, you know, manual
+[00:10:05] bidding method is at the time. I can
+[00:10:07] tell you for a fact, I have seen ad
+[00:10:09] accounts, I have ran ad accounts that
+[00:10:10] are spending multiple five figures per
+[00:10:12] day. I have seen one spending six
+[00:10:14] figures per day, all on lowest cost, and
+[00:10:16] they're good ad accounts. They are
+[00:10:17] profitable. Other people literally only
+[00:10:20] run bid caps. You can see both sides of
+[00:10:21] the spectrum, but the point is you
+[00:10:24] should choose what is actually going to
+[00:10:26] solve the constraint in your business
+[00:10:27] for you. Because I talk to people all
+[00:10:29] the time, they're like, "All right, in
+[00:10:30] order to get from like 1K a day to 10K
+[00:10:32] per day, I just got like media buy my
+[00:10:33] way there." And like there's a little
+[00:10:35] bit you can do, don't get me wrong. I'm
+[00:10:36] not the guy that's saying like media
+[00:10:37] buying is dead. I'm defending media
+[00:10:39] buying. At the same time, you have to
+[00:10:41] think like an entrepreneur, not like a
+[00:10:43] media buyer. And just to show this
+[00:10:45] entire process visually, all right, this
+[00:10:46] is how Facebook actually picks ads in
+[00:10:49] under 200 milliseconds. So this is the
+[00:10:51] first step, tens of millions of ads
+[00:10:53] competing for one impression. After
+[00:10:54] that, we go through the light ranking,
+[00:10:57] right? Now you can see there's
+[00:10:58] substantially less, say like roughly
+[00:10:59] 5,000. Next step, there's just a few
+[00:11:01] hundred. Now we're going to go into
+[00:11:03] heavy ranking, which is boom, now we're
+[00:11:05] on the final step, which is actually
+[00:11:08] competing who's going to have the
+[00:11:09] highest bid. There's very few
+[00:11:10] advertisers left at this step, until
+[00:11:12] finally your ad is actually served. You
+[00:11:14] have the highest bid, you win the
+[00:11:15] impression. So again, retrieval, light
+[00:11:17] ranking, heavy ranking, and the auction
+[00:11:20] as the final step there. Okay, so now
+[00:11:22] you know how this filtering process
+[00:11:23] works, how does that actually affect
+[00:11:25] your ability to create winning ads
+[00:11:28] consistently and more importantly
+[00:11:30] predictably churn out winners into your
+[00:11:31] ad account. So there's a few other
+[00:11:33] things that aren't part of that
+[00:11:34] four-step ranking process that are still
+[00:11:36] really important to understand so that
+[00:11:37] you can have the most profitable ads as
+[00:11:39] possible. All right, first I want to
+[00:11:40] talk for a second about the learning
+[00:11:42] phase, okay? So, the learning phase,
+[00:11:44] according to Facebook themselves, is
+[00:11:46] basically a phase that your ads go
+[00:11:48] through, your ad sets go through, your
+[00:11:50] campaigns go through, but especially at
+[00:11:51] the ad level to acquire conversions so
+[00:11:54] that it can learn about your customer
+[00:11:56] and then you kind of exit the learning
+[00:11:58] phase and go into like mature phase
+[00:12:01] where you're getting more predictable
+[00:12:02] consistent results. Here's my beef with
+[00:12:04] this whole [ __ ] term. Like that's the
+[00:12:05] theory. Let me tell you the [ __ ]
+[00:12:06] reality. Your ads are always learning.
+[00:12:08] They never stop learning. There's not a
+[00:12:10] learning phase and then they get out of
+[00:12:11] learning phase and they're just going to
+[00:12:12] be good forever. Everything dies at some
+[00:12:14] point. It's just the circle of ads. So,
+[00:12:17] if you are obsessing over the learning
+[00:12:18] phase, just stop. Of course, the ads
+[00:12:21] initially are going to be a little bit
+[00:12:23] more volatile, a little bit more bumpy,
+[00:12:25] and sometimes you see improvements over
+[00:12:26] time with more consistency, but
+[00:12:28] sometimes you don't. Sometimes the
+[00:12:29] solution is literally just to make
+[00:12:31] better ads. So, spending too much time
+[00:12:34] on the learning phase is not super
+[00:12:36] smart. The main thing I want to say here
+[00:12:37] is like if you're not spending a lot of
+[00:12:39] money on ads, maybe you're spending, you
+[00:12:40] know, 50 bucks a day, a few hundred
+[00:12:42] bucks per day, even up to like a
+[00:12:43] thousand dollars per day, I think that's
+[00:12:44] kind of like the barrier. If you see
+[00:12:46] your results being like up and down,
+[00:12:48] like it literally looks like a freaking
+[00:12:49] sine wave, that is normal, okay? That's
+[00:12:53] 100% normal. That's how the game works.
+[00:12:55] [ __ ] I experience inconsistencies. I
+[00:12:57] spend way beyond 1K per day. And most
+[00:13:00] advertisers do. Facebook is an emotional
+[00:13:02] ass platform, man. It's a bunch of
+[00:13:04] emotional human beings like you and me.
+[00:13:06] Do you really expect it to be the most
+[00:13:08] consistent thing on the world? If you
+[00:13:09] want super duper consistent results,
+[00:13:11] like go advertise on Google
+[00:13:13] >> [laughter]
+[00:13:13] >> and uh you know, enjoy your time, all
+[00:13:15] right? Google's cool. It's got its own
+[00:13:16] issues, but with Facebook
+[00:13:18] inconsistencies is part of the game, but
+[00:13:19] especially at lower levels of spend,
+[00:13:21] you'll see people just bitching about,
+[00:13:23] "Oh, I was at 3X ROAS and now I'm not
+[00:13:25] profitable." I'm was "Well, how much do
+[00:13:26] you spend?" He's like, "A hundred
+[00:13:27] bucks." I'm like, "Come on. What what
+[00:13:28] are we doing here? Like, what do you
+[00:13:29] What do you expect?" So, the solution
+[00:13:31] there is to, when in doubt, zoom out.
+[00:13:33] Look at larger time frames with larger
+[00:13:35] amounts of data, and you'll see what's
+[00:13:37] really happening. Instead of being like,
+[00:13:38] "Oh, today was good really good. Next
+[00:13:40] day was really bad." I don't care. Look
+[00:13:41] at 7 days. Look at the most amount of ad
+[00:13:43] spend that you can, and that's when
+[00:13:44] you'll make the best decisions, and not
+[00:13:46] these emotional decisions where you're
+[00:13:47] just going with the [ __ ] flow of
+[00:13:48] Facebook taking you for a ride. Nobody
+[00:13:50] wants that. All right, next I want to
+[00:13:51] talk about signal quality and your EMQ
+[00:13:54] and Conversions API. So, Facebook
+[00:13:57] performance is often times dependent on
+[00:13:59] the data that you're sending back to the
+[00:14:01] ad account and back to the Facebook
+[00:14:02] servers so that it can learn about your
+[00:14:04] customers and reduce your cost to
+[00:14:06] advertise long-term, hopefully. And with
+[00:14:08] that, that means that you have to be
+[00:14:10] sure that you're sending the best
+[00:14:12] quality data you possibly can to
+[00:14:14] Facebook because the better quality data
+[00:14:16] that you send them, often times, they're
+[00:14:18] going to be able to learn more about
+[00:14:19] your customers and send you better
+[00:14:21] customers in the future, make your ads
+[00:14:23] more efficient long-term. So, you can go
+[00:14:25] into your Events Manager and go to the
+[00:14:27] purchase event specifically, and you'll
+[00:14:28] see something called the EMQ, which is
+[00:14:30] your event match quality, and it'll be
+[00:14:32] on a scale of 1 to 10. I'm not saying
+[00:14:34] it's a direct correlation like 10 out of
+[00:14:36] 10 is super profitable ads, like five
+[00:14:38] out of 10 you're going to be dog [ __ ] I
+[00:14:39] actually think this whole concept is
+[00:14:41] overrated, but I think generally
+[00:14:43] speaking, it's a good thing to try to
+[00:14:45] send good data to Facebook. And you can
+[00:14:47] do that through Conversions API, which
+[00:14:49] is simply sending your data back
+[00:14:51] server-side and not only on the browser.
+[00:14:53] For those that have been advertising for
+[00:14:55] long enough, you know this became a big
+[00:14:56] deal around iOS 14, which was launched
+[00:14:59] in 2020, but it actually went into
+[00:15:01] effect, I think, early 2021, and
+[00:15:03] everybody's ads just kind of went to
+[00:15:04] [ __ ] because I don't look at any
+[00:15:06] conversions after the click. Like, I
+[00:15:09] don't look at my CPA on Facebook at all.
+[00:15:11] I always use third-party attribution
+[00:15:13] tools, you know, whether that's Triple
+[00:15:14] Whale, whether that's Hyros. There's so
+[00:15:16] many of these out there. Like, you can
+[00:15:17] build one custom now. [ __ ] you could
+[00:15:18] vibe code one probably in a few hours
+[00:15:20] and have your own solution that you
+[00:15:21] don't have to pay for at all. The issue
+[00:15:23] is, because of what the update that iOS
+[00:15:25] launched, all the users can now opt out
+[00:15:27] of tracking from Facebook. So,
+[00:15:28] everything becomes really inaccurate.
+[00:15:30] Now, if you're able to use like
+[00:15:31] conversions API, any server-side
+[00:15:33] tracking, you can improve your EMQ and
+[00:15:36] get better data into the Facebook
+[00:15:37] servers to help you optimize with your
+[00:15:39] ad account your ads a lot better than
+[00:15:40] you are right now. So, to summarize this
+[00:15:42] point, try to send Facebook good data.
+[00:15:45] And also, take all the conversion data
+[00:15:46] with a grain of salt. Okay, let's go.
+[00:15:48] Now, the third thing here is going to be
+[00:15:49] the whole concept of creative diversity.
+[00:15:51] So, because of Andromeda, there was this
+[00:15:53] really weird narrative where people are
+[00:15:55] basically saying, "Oh, there's kind of
+[00:15:56] like two types of ads that you can
+[00:15:57] test." You know, you can test something
+[00:15:58] completely new, we'll just call that
+[00:15:59] like a new concept and that new concept,
+[00:16:01] or you can test, you know, a variation.
+[00:16:03] You can only do one of the two, which
+[00:16:04] it's really not that simple, but let's
+[00:16:06] just say for these purposes, this is
+[00:16:07] what it is. And people like, "All right,
+[00:16:09] all you need to do to survive Andromeda
+[00:16:11] is just like pump out more new concepts
+[00:16:13] and do less variations." No, variations
+[00:16:15] are still highly highly effective. What
+[00:16:18] Andromeda did is let's say like this is
+[00:16:20] within an ad set and we're looking at
+[00:16:22] the ad level, and each one of these is a
+[00:16:23] new ad, right? You have ad one, two,
+[00:16:25] three, and four. So, every time I launch
+[00:16:28] creatives, I'm actually launching
+[00:16:29] variations. So, this entire ad set, per
+[00:16:32] se, will be one net new concept, but ad
+[00:16:35] number two, ad number three, and ad
+[00:16:37] number four will all be variations of
+[00:16:40] that original net new concept. So, it's
+[00:16:42] not necessarily variations of the
+[00:16:43] winner. Like it's difficult to get a
+[00:16:44] variation of like your top ad in an ad
+[00:16:47] account to outperform the top ad. It'll
+[00:16:50] do decent. It's typically not going to
+[00:16:51] outperform, at least in my experience.
+[00:16:53] But, variations are still highly
+[00:16:54] effective because you're basically
+[00:16:56] getting more at-bats at the concept
+[00:16:58] level. Technically, you're testing a new
+[00:16:59] concept, but you can test one concept
+[00:17:02] with three different hooks, and it turns
+[00:17:04] out that this variation actually ends up
+[00:17:06] being the winner, and this original like
+[00:17:08] net new concept is actually the loser.
+[00:17:10] But, if you said variations are stupid
+[00:17:12] and they don't make any sense, then you
+[00:17:13] never would have figured that out, and
+[00:17:14] you would have just concluded that this
+[00:17:16] net new concept was a loser. When in
+[00:17:18] reality, you're a loser
+[00:17:20] >> [laughter]
+[00:17:20] >> for believing that.
+[00:17:22] I swear I could rant on all this stuff
+[00:17:23] for so much longer. I'm trying to stay
+[00:17:25] focused here. Let me distill all this
+[00:17:26] technical crap into something that you
+[00:17:29] can actually take away. Because
+[00:17:31] basically what we just did is we went
+[00:17:33] through all the super autistic
+[00:17:36] scientific mathematical explanations of
+[00:17:39] how the Facebook ads algorithm actually
+[00:17:41] works, but let's take our [ __ ] hat off
+[00:17:43] for a second and think like a Chad,
+[00:17:45] okay? Three things you should take away.
+[00:17:48] All right, number one, your creative is
+[00:17:50] the targeting. Stop trying to [ __ ]
+[00:17:51] around so much with the ad sets
+[00:17:53] targeting, custom audiences, lookalikes.
+[00:17:55] That can be a little experimentation
+[00:17:57] sandbox, but for the most part, run
+[00:17:59] broad. The creative is the targeting.
+[00:18:00] Number two, make good creatives that
+[00:18:02] thought people from their doom scroll.
+[00:18:03] Of course, easier said than done, and
+[00:18:04] that's not even what this video is
+[00:18:06] about, but if you just have damn good
+[00:18:08] creatives, like that's literally half of
+[00:18:09] the [ __ ] formula. It's just having
+[00:18:11] that high CTR, high soft metrics, of
+[00:18:14] course, excluding the conversions. Like
+[00:18:15] that's half the [ __ ] battle right
+[00:18:16] there. And then third is going to be
+[00:18:18] don't [ __ ] up the user experience. Now,
+[00:18:20] I have a portion of this video that I
+[00:18:22] intentionally left for the end of this
+[00:18:23] video for people that are genuinely
+[00:18:25] serious about figuring out how Facebook
+[00:18:27] works. And all this stuff that I've said
+[00:18:28] so far is what we'll call, you know, by
+[00:18:30] the books. A lot of it is in, you know,
+[00:18:32] Facebook's own documentation or
+[00:18:34] documentation that they had years ago
+[00:18:35] and they have since removed, but let me
+[00:18:37] tell you how the game really works.
+[00:18:39] Facebook is a for-profit [snorts]
+[00:18:41] company based in America. Facebook is a
+[00:18:44] massive, massive company. We can assume
+[00:18:46] they probably don't do everything by the
+[00:18:47] books. So, what I'm really leading to
+[00:18:49] here is Facebook doesn't play by the
+[00:18:51] rules. I could go down the list of what
+[00:18:54] this actually means, but at the end of
+[00:18:56] the day, as I said, Facebook is a
+[00:18:57] for-profit company. And like most
+[00:18:59] companies, they are trying to get the
+[00:19:01] most amount of money from the largest
+[00:19:03] advertisers, and then all the smaller
+[00:19:05] ones that cause like 99% of their
+[00:19:07] headaches, they're not going to treat
+[00:19:08] them super duper well. So, a lot of you
+[00:19:10] have probably launched ad accounts and
+[00:19:12] got them disabled, have ads rejected,
+[00:19:14] have ad accounts banned, have business
+[00:19:16] managers banned. Maybe you've had
+[00:19:17] profiles banned, but you have to
+[00:19:18] understand that Facebook is a company,
+[00:19:20] and they're a company that is public.
+[00:19:23] And what happens when you run a public
+[00:19:24] company is you have to answer to your
+[00:19:27] shareholders, which means depending on
+[00:19:30] how the earnings reports come out
+[00:19:32] regarding Facebook, Facebook is either
+[00:19:34] going to constrict their guidelines,
+[00:19:37] their restrictions, and this is where
+[00:19:38] you see ban waves come through, which is
+[00:19:40] where everybody's just getting their ad
+[00:19:42] account banned, everybody's dealing with
+[00:19:43] business manager bans, page bans, and
+[00:19:45] then a month later it's like totally
+[00:19:47] fine. That's all due mostly to earnings
+[00:19:51] reports that are coming out directly
+[00:19:52] from Facebook. So, depending on how
+[00:19:54] those look, they will either be way more
+[00:19:57] laid back, way more chill, or super
+[00:19:59] duper strict. That's why saying, "Oh,
+[00:20:01] you can't run like this type of format
+[00:20:03] of ad on Facebook." One person runs it,
+[00:20:05] gets approved. Another person runs an
+[00:20:06] identical creative and gets it rejected.
+[00:20:08] Why is that? Well, Facebook don't play
+[00:20:09] about their rules, all right? So, what
+[00:20:11] do you do about this? I mean, I'm not
+[00:20:12] going to get too much into specifics
+[00:20:13] because I don't know if I can. I think
+[00:20:15] the main thing anyone can take away from
+[00:20:16] this is just question everything. Like,
+[00:20:19] when I was talking about the CAPI and
+[00:20:21] the signal quality and the EMQ score,
+[00:20:23] technically speaking, like it makes
+[00:20:24] sense logically, theoretically, if
+[00:20:26] you're able to get higher quality data
+[00:20:28] back to Facebook, they should be able to
+[00:20:29] optimize better. However, I haven't seen
+[00:20:32] a direct correlation between that. I
+[00:20:34] have had really, really good server-side
+[00:20:36] setups to where my EMQ was like 9.8,
+[00:20:39] 9.9. The little thing on my freaking ad
+[00:20:41] account was like, matter of fact, I'll
+[00:20:43] show you. I'm literally at a zero
+[00:20:45] >> [laughter]
+[00:20:46] >> at a zero opportunity score, and this ad
+[00:20:48] account is incredibly profitable. So,
+[00:20:50] all the [ __ ] from Facebook, they're
+[00:20:52] still wanting to get money from you. So,
+[00:20:54] just because they say something or it's
+[00:20:55] in their documentation or like their
+[00:20:57] CEO, CMO, head of advertising is like,
+[00:20:59] "This is what advertisers should do."
+[00:21:00] [ __ ] it. Think for yourself, question
+[00:21:02] everything. And I want to take a moment
+[00:21:04] of silence for everyone that listened to
+[00:21:06] all the Facebook suggestions at the ad
+[00:21:08] level that said they would lower your
+[00:21:10] cost per result by 11% and then their
+[00:21:12] ads went to [ __ ] RIP. Don't listen to
+[00:21:14] Facebook. Other than that, guys, I hope
+[00:21:16] you enjoyed. Thank you so much for
+[00:21:17] watching this video. See you on the next
+[00:21:18] one. Peace.

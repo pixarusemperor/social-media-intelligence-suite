@@ -1,0 +1,321 @@
+# how i generate $10k/day ad hooks with this new AI
+URL: https://www.youtube.com/watch?v=Kl9QvifZFAE
+Category: video
+Duration: 543s
+Published: 20250404
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to be going over how you can
+[00:00:02] create endless winning ad hooks using AI
+[00:00:06] so that you don't even have to freaking
+[00:00:07] think. And this entire process, entire
+[00:00:09] strategy is based off one very simple
+[00:00:11] but very unpopular fact. And that one
+[00:00:14] simple fact is that content creators
+[00:00:15] suck. And when I say they suck, what I
+[00:00:17] specifically mean is they suck at making
+[00:00:19] money. They're so so so good at
+[00:00:22] garnering all this attention, getting
+[00:00:24] all these views, all these followers,
+[00:00:25] all these vanity metrics, but they suck
+[00:00:26] at actually converting it. So, we can
+[00:00:28] take advantage of that as smart
+[00:00:29] advertisers, smart marketers. We could
+[00:00:31] take advantage of their ability to
+[00:00:33] create really popular hooks and use
+[00:00:35] those ourselves in our ads. And all we
+[00:00:37] have to do is inject a little bit of
+[00:00:39] highquality direct response copy into
+[00:00:41] those ads to actually make them convert.
+[00:00:43] That's what most content creators don't
+[00:00:44] understand. That's why most of them are
+[00:00:46] completely broke. There's a reason that
+[00:00:47] there's a term for influencers called
+[00:00:49] the broke influencer syndrome. But we
+[00:00:51] can use that to our advantage. Now, the
+[00:00:53] question becomes, how do you actually
+[00:00:54] make a good hook? like how do you know
+[00:00:55] that this is a good hook versus a bad
+[00:00:57] hook? How do I know that it's a hook of
+[00:00:58] the ad that sucks versus everything
+[00:01:00] else? Well, for that there's actually
+[00:01:02] something that you can do and something
+[00:01:03] that you should look at as a metric
+[00:01:05] called your hook rate. Now, this is not
+[00:01:07] something that is natively within the
+[00:01:10] Facebook ads dashboard if you're running
+[00:01:11] ads on Facebook or if you're running ads
+[00:01:13] on TikTok. Same thing. But you can
+[00:01:14] create custom metrics inside of your
+[00:01:15] Facebook ads account. So, for example,
+[00:01:17] this account here and all you have to do
+[00:01:18] is go to columns. You're going to hit
+[00:01:20] edit to one of your custom columns. Go
+[00:01:22] to custom and just select create custom
+[00:01:24] metric. Now let's call this the hook
+[00:01:27] rate. And the way that we calculate the
+[00:01:28] hook rate, it's actually very very
+[00:01:29] simple. All we're going to do is 3se
+[00:01:31] second video plays divided by
+[00:01:33] impressions. This is what your actual
+[00:01:34] hook rate is. So you're going to select
+[00:01:36] create metric right here. So from here
+[00:01:38] all you have to do is hit create metric
+[00:01:39] and then you want to specifically search
+[00:01:41] for hook rate so that you can add it to
+[00:01:43] your custom column. Now the cool part is
+[00:01:44] you can look at this at each individual
+[00:01:46] creative. For example, these two
+[00:01:47] creatives here. This one has a hook rate
+[00:01:49] of 49%. That means about 50% of the
+[00:01:51] audience is sticking around to continue
+[00:01:53] watching the ad after 3 seconds of the
+[00:01:55] video has played. And then this one's
+[00:01:56] 36%. So the hook rate you should really
+[00:01:58] be shooting for. And this should be like
+[00:01:59] what you're trying to reach as a KPI is
+[00:02:02] 50%. If you have a hook rate of 50% or
+[00:02:05] more, that means that the hook of your
+[00:02:06] ad is really doing its job. It's very,
+[00:02:08] very much so performing really well. So
+[00:02:10] the question now becomes, how do we
+[00:02:11] actually find these? Well, what we're
+[00:02:13] going to do is we're going to hop into
+[00:02:14] an AI agent software. I've been using
+[00:02:16] one recently called GenSpark. It's
+[00:02:18] actually called GenSpark super agent.
+[00:02:20] It's kind of a little sub microcosm
+[00:02:22] within Gemspark, but you can also use
+[00:02:24] operator within Chacht. They all kind of
+[00:02:26] do the same thing, but this one in my
+[00:02:27] experience is just significantly faster
+[00:02:29] than Operator, which is like my biggest
+[00:02:31] complaint that I have about operator.
+[00:02:32] So, all you're going to do is paste in a
+[00:02:34] very simple prompt. Now, the prompt that
+[00:02:36] I have here is so freaking simple. I
+[00:02:37] don't even think I need to share it.
+[00:02:38] I'll put it in the description of this
+[00:02:40] video. Like, it's it's literally one
+[00:02:41] single line. But I did a little bit of
+[00:02:42] experimentation and what I realized is
+[00:02:44] that the longer I made the prompt, the
+[00:02:46] worse of an output that I actually got.
+[00:02:48] And so for this example, all I'm saying
+[00:02:49] is I want you to search on Tik Tok terms
+[00:02:51] around dog supplements. You can enter
+[00:02:53] your niche there and identify the videos
+[00:02:55] that have the highest performance in
+[00:02:56] relation to the overall channel size.
+[00:02:57] Favor the videos that have lots of views
+[00:02:59] but very few followers and identify the
+[00:03:01] winning hooks that are associated with
+[00:03:02] these videos. So, the reason that I had
+[00:03:04] that little stipulation in there is
+[00:03:05] because you could have a creator that
+[00:03:06] has millions and millions of followers
+[00:03:08] and they have a video that gets, you
+[00:03:09] know, 500,000 views or a million views,
+[00:03:11] but most of it is just the existing
+[00:03:12] audience. I want to see the videos that
+[00:03:14] are helping the smaller creators
+[00:03:16] completely pop off because that's how
+[00:03:17] you really know the hook and the content
+[00:03:18] of that video is very very strong. So,
+[00:03:20] in this case, let's use the the dog
+[00:03:22] supplements just as an example, but you
+[00:03:24] can put hair loss for women, hair loss
+[00:03:26] for men, you can put in baking products,
+[00:03:28] you can put in pet like just describe
+[00:03:30] the problem. Don't describe the product.
+[00:03:32] describe the specific problem like
+[00:03:34] whether that's weight loss, whether that
+[00:03:35] is survival, I don't care. Just describe
+[00:03:37] the problem and we're going to hit
+[00:03:38] enter. Now, like I said, the cool part
+[00:03:40] about this is just how fast it is. So,
+[00:03:42] the last time that I ran this prompt, I
+[00:03:43] believe it probably took me 30 to 45
+[00:03:45] seconds to get a fully finished analysis
+[00:03:47] of the top performing hooks. And really,
+[00:03:49] what we're doing here is we're looking
+[00:03:50] on TikTok for the top performing hooks
+[00:03:52] in a specific niche. And as a result,
+[00:03:54] because most content creators are not
+[00:03:56] good at monetizing their audience, we're
+[00:03:57] going to steal the hook, use it in our
+[00:03:58] ads, or at least use some variation of
+[00:04:00] it, and then actually use it to convert
+[00:04:02] people at a really, really high level.
+[00:04:03] And I'm not joking when I tell you this
+[00:04:05] guys, like this is one of the strategies
+[00:04:06] like the AI is new, but generally
+[00:04:08] looking at the organic hooks is
+[00:04:10] something that has significantly powered
+[00:04:12] our top ads like consistently. And
+[00:04:14] they're not always going to be on Tik
+[00:04:15] Tok. Sometimes I'll find them on
+[00:04:16] Instagram, sometimes I'll find them on
+[00:04:19] Facebook. Doesn't really matter. But the
+[00:04:20] short form, you have to be so aggressive
+[00:04:22] with getting people's attention, right?
+[00:04:23] because their attention span is so
+[00:04:24] freaking low. So, I took that into
+[00:04:26] consideration. I was just like, "Okay,
+[00:04:27] I'm going to go to the most aggressive
+[00:04:28] platform that there is in terms of
+[00:04:30] garnering that attention, which is Tik
+[00:04:31] Tok, the king of short form." Even
+[00:04:33] though, you know, I know IG Rios is on
+[00:04:34] come up, but Tik Tok is definitely the
+[00:04:36] king, and just find the top performing
+[00:04:37] hook. So, you can already see all these
+[00:04:39] hooks that we have here. Let's look
+[00:04:40] through one initially. So, let's look at
+[00:04:43] these hooks here. So, here's one. Here's
+[00:04:44] how I fix my dog's health problem in
+[00:04:47] just short time period. If your dog has
+[00:04:48] this symptom, stop giving them XYZ and
+[00:04:51] try this instead. this one supplement
+[00:04:53] that finally helped my dog's whatever
+[00:04:54] health issue. So let's say like they
+[00:04:56] struggle with like joint pain, right?
+[00:04:58] Here's how I fix my dog's joint pain in
+[00:04:59] just 7 days, in just 14 days, in just 30
+[00:05:02] days. If your dog has insert like big
+[00:05:04] dog symptom here, stop giving them
+[00:05:06] common thing and try. So it basically
+[00:05:08] gave you a formula that you can use, you
+[00:05:10] can steal that's been proven to convert.
+[00:05:12] Let's look at another one. So here we
+[00:05:14] have the surprise/discovery hooks,
+[00:05:15] right? I'll zoom in a little bit. I
+[00:05:17] can't believe what the vet said about
+[00:05:19] this dog supplement. The shocking
+[00:05:20] ingredient in most dog supplements
+[00:05:22] that's harming your pet. This one is
+[00:05:24] what I discovered after testing 12
+[00:05:26] different dog supplements. All right.
+[00:05:27] Now, we have another category of hooks.
+[00:05:29] Expert authority hook. As a vette for 10
+[00:05:31] years, here's the only supplement I give
+[00:05:33] for my dogs. Why most vets won't tell
+[00:05:34] you about this dog supplement. Three
+[00:05:36] supplements vetinarians actually
+[00:05:37] recommend for dogs. And it just
+[00:05:38] continues to go on. Like the fact that
+[00:05:40] this is available on the internet. You
+[00:05:42] don't even have to use the AI. I'm not
+[00:05:44] affiliated with this company. I just
+[00:05:45] started using them recently. But it just
+[00:05:47] speeds up the process. And I don't like
+[00:05:50] buying stuff. I like buying my time. And
+[00:05:52] that's one thing that I can really do
+[00:05:53] with AI agents like this. And so the
+[00:05:55] rest of this, you know, the content here
+[00:05:56] is mostly worthless. But if I just got
+[00:05:58] like what is it, three, six, nine, 12,
+[00:06:01] 15 really solid potential hook ideas.
+[00:06:04] And what I'll do is I'll copy all these
+[00:06:05] and go paste them in document. And I can
+[00:06:07] even like upload these to claude or to
+[00:06:08] chatb and start cross-analyzing and just
+[00:06:10] like give them all the information on my
+[00:06:12] product, everything, the market, all
+[00:06:13] those foundational documents that I
+[00:06:15] typically do and I can immediately just
+[00:06:17] start having a conversation and
+[00:06:19] producing better and better hooks over
+[00:06:22] and over again. So this is literally
+[00:06:23] like the infinite hook glitch. If you
+[00:06:25] use it, you can make incredible money
+[00:06:27] with it. Now, the hard part obviously is
+[00:06:30] continuing that attention along the rest
+[00:06:32] of the the ad, but the hook is like 90%
+[00:06:35] of your success because another thing
+[00:06:36] that I'll do, and it didn't drop the
+[00:06:38] links in this case, sometimes it drops
+[00:06:39] the links, but if I find a specific
+[00:06:41] video that has a really proven hook, I
+[00:06:44] want to also go look at the scroll
+[00:06:46] stopper. What is the actual video? What
+[00:06:48] is the the clip that's being used on top
+[00:06:51] of the actual hook? Because it's the
+[00:06:53] combination, right? The hook is made up
+[00:06:55] really of of three separate things.
+[00:06:57] Mostly people just think it's the text,
+[00:06:58] but it's actually three things. One is
+[00:07:00] the actual text, which is like the copy.
+[00:07:02] You know, definitely the most important,
+[00:07:03] probably 80% of your success right
+[00:07:05] there. The other 15% that'll get you 95%
+[00:07:08] total would be the scroll stopper,
+[00:07:10] right? And this is the video or image
+[00:07:12] that's actually associated with the
+[00:07:14] text. And finally, you have the audio.
+[00:07:16] It's not the most important thing, not
+[00:07:17] very important at all typically cuz a
+[00:07:19] lot of people watch these with no audio
+[00:07:20] in general, but let's say it's 5% of the
+[00:07:22] equation. So, if this is what makes a
+[00:07:24] successful hook, then we just got all of
+[00:07:26] this. What I'm going to do is find those
+[00:07:27] hooks and then go look specifically at
+[00:07:29] the scroll stoppers that they are using
+[00:07:31] because obviously that combination
+[00:07:33] worked that got people's attention.
+[00:07:34] That's all marketing is like at its
+[00:07:37] core. It's just getting people's
+[00:07:38] attention and converting it. That is
+[00:07:39] literally it. That's it. And so if you
+[00:07:41] figure out at a core that content
+[00:07:43] creators make really really good
+[00:07:45] attention grabbing videos but are
+[00:07:47] terrible at converting it. Just take the
+[00:07:48] attention part and then apply that to
+[00:07:49] your ads. Like it's it's as simple as
+[00:07:51] that. So this is obviously stuff that I
+[00:07:53] just obsess over. And so if you want
+[00:07:55] like really really the creative the ad
+[00:07:59] sauce, this is everything that we put
+[00:08:00] inside of our program, Brand Builders
+[00:08:02] Academy. This is the mentorship program
+[00:08:03] that I own with Alex Fedoff. If you're
+[00:08:05] interested in applying, cool. You can
+[00:08:06] click the first link in the description,
+[00:08:07] fill out an application. We don't accept
+[00:08:09] everybody, but if you want to, first
+[00:08:10] thing in the description. If not, that's
+[00:08:11] cool. The last thing that I want to say
+[00:08:13] is I have a good friend of mine that
+[00:08:14] owns this company called Disputifier. If
+[00:08:17] you run an e-commerce brand, you know
+[00:08:19] very very well that
+[00:08:21] handling handling payment processors is
+[00:08:24] a continual pain in the ass. But what
+[00:08:26] this company does is it basically gets
+[00:08:27] in front of chargebacks and refunds
+[00:08:29] before they actually come in to help
+[00:08:31] improve the relationship that you have
+[00:08:32] with your payment processor. Cuz I can
+[00:08:34] tell you from experience multiple times,
+[00:08:36] the worst thing to happen when you're
+[00:08:37] selling stuff on the internet, like
+[00:08:38] you're scaling, you're making money, is
+[00:08:40] when you lose a payment processor
+[00:08:42] completely or you get a hold or you get
+[00:08:44] banned and god forbid you get put on the
+[00:08:46] match list, which is like the absolute
+[00:08:48] last thing you would ever want, right?
+[00:08:50] And so, if you guys want to check out
+[00:08:52] this company, I highly recommend it if
+[00:08:53] you're doing volume. If you're not,
+[00:08:55] probably not worth your time. But if
+[00:08:56] you're doing over, you know, 100K a
+[00:08:57] month, check these guys out. I'll drop
+[00:08:59] them in the description as well. Other
+[00:09:00] than that, y'all have a great video.
+[00:09:01] I'll see you on the next one. Peace.

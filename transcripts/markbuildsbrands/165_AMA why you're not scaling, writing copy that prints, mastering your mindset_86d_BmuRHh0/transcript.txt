@@ -1,0 +1,1346 @@
+# AMA: why you're not scaling, writing copy that prints, mastering your mindset
+URL: https://www.youtube.com/watch?v=86d_BmuRHh0
+Category: stream
+Duration: 3112s
+Published: 20250321
+Transcript Type: auto
+
+============================================================
+
+[00:00:02] What is
+[00:00:03] up, legends? It's Mark here and we're
+[00:00:06] live, baby. We're [ __ ]
+[00:00:09] live. And I went live about five minutes
+[00:00:12] ago and the chat wasn't working for some
+[00:00:13] reason. Hopefully, it's working now. Um,
+[00:00:16] I'm going to get it pulled up, but you
+[00:00:17] guys know the drill. Let me know where
+[00:00:18] you're listening in from. It's been a
+[00:00:19] little minute since I've been live, so
+[00:00:20] let's make this a really, really good
+[00:00:21] one. I got some very cool stuff to share
+[00:00:24] with you guys, um, that I've been
+[00:00:25] working on recently, hence the reason
+[00:00:27] that I haven't been going live as much.
+[00:00:28] but it's gonna make you some funasa. So,
+[00:00:32] drop it in the chat. Let me know where
+[00:00:33] you're listening in from. Let me make
+[00:00:34] sure I didn't [ __ ] this [ __ ] up
+[00:00:39] again. Ah, there we go.
+[00:00:42] Cool. All right. What's up, guys? What's
+[00:00:44] up,
+[00:00:45] Veto Adrian from Tampa, what's up,
+[00:00:49] man? Burger
+[00:00:52] Brains. Jeremy Cologne in the building.
+[00:00:55] Germany clone. What's
+[00:00:57] up from co Croatia? Martin, what's up
+[00:01:01] man? Jaka, what's
+[00:01:04] up? Weird stack. Yo, Mark, I got two
+[00:01:06] million views on my page but no sales.
+[00:01:08] You doing organic on Tik Tok? Give me
+[00:01:09] some more details, bro. Let's figure it
+[00:01:11] out. Uh Jaylen from the Bay Area. Got
+[00:01:14] Avo
+[00:01:17] Arizona. Anya Valentine, what's up, man?
+[00:01:21] Toronto in the building. Get Money Inc.
+[00:01:24] Beautiful, beautiful, beautiful,
+[00:01:26] beautiful. Greetings from Finland, my
+[00:01:29] Norwegian or no, my Scandinavian brother
+[00:01:32] from another mother country. What's up,
+[00:01:38] man? DF does it. Mark, how was Dubai,
+[00:01:41] dude? Dubai
+[00:01:43] was amazing. We I think Alex has a vlog
+[00:01:47] coming out either today or tomorrow
+[00:01:49] that's kind of a recap of the event. The
+[00:01:52] trip in Dubai was fantastic, man. The
+[00:01:54] event was by far the best event that
+[00:01:56] we've ever ever done. The total revenue
+[00:01:58] per year in that room was over $4
+[00:02:01] billion. So we had some really really
+[00:02:03] phenomenal entrepreneurs in there. Um
+[00:02:06] basically shared everything that we
+[00:02:07] possibly could, gave as much value as we
+[00:02:09] possibly could, connected with a lot of
+[00:02:10] really cool people. Um so if you were
+[00:02:12] there at Dubai, man, thank you for
+[00:02:13] coming. That was an amazing event. That
+[00:02:15] was awesome. Also got to speak on stage.
+[00:02:17] Spoke about funnel architecture, how to
+[00:02:20] scale to 100k a day, AOV maximization,
+[00:02:23] uh the Chad funnel structure, some other
+[00:02:25] really cool stuff. I don't know if I'm
+[00:02:27] going to release it uh
+[00:02:29] ever. Time will
+[00:02:32] tell. But yeah, dude, it was
+[00:02:41] fantastic, bro. I wanted to pull up, but
+[00:02:43] I'm still broke. In time, brother. In
+[00:02:45] time. You'll be there. Don't worry about
+[00:02:48] it. All right, guys. So, a few a few
+[00:02:50] things I wanted to go over before we hop
+[00:02:52] into like just straight Q&A and start
+[00:02:53] ripping questions.
+[00:02:57] Um, one of my favorite entrepreneurs out
+[00:02:59] there, his name is Tom Bilu. And Tom
+[00:03:02] Bilu said this one phrase that always
+[00:03:05] stuck with me and I didn't really
+[00:03:06] understand it until I studied it a
+[00:03:08] little bit more. But I think if you want
+[00:03:10] to learn the best way to like start and
+[00:03:12] grow a business or like handle
+[00:03:13] relationships with people or just do
+[00:03:15] anything in your life honestly the best
+[00:03:17] thing to do is to look at nature. This
+[00:03:19] is something that Marcus Aurelius would
+[00:03:21] do
+[00:03:22] frequently. He would look at what is
+[00:03:25] nature doing and if it's natural in
+[00:03:26] nature then it's not necessarily good or
+[00:03:28] bad. Right? Nothing is really good or
+[00:03:30] bad in this life but thinking makes it
+[00:03:32] so. We have all this external stimuli
+[00:03:36] being fed into our brain. We're just
+[00:03:37] trying to make sense of it 247. Nothing
+[00:03:39] is actually good or bad. It's all about
+[00:03:42] how you personally frame it. And so one
+[00:03:46] of the things that Tom Billy would talk
+[00:03:47] about is the laws of thermodynamics. I
+[00:03:50] mean we know the first law of
+[00:03:51] thermodynamics, but how many people know
+[00:03:53] the second law of thermodynamics, which
+[00:03:56] is that over time everything moves
+[00:03:58] towards entropy, which is
+[00:04:01] chaos. Everything over time moves in
+[00:04:03] chaos. Moves towards chaos. And I think
+[00:04:05] this is like super super applicable to
+[00:04:07] everything that we do in business,
+[00:04:09] especially for me right now. Like I'm
+[00:04:11] starting to see all this stuff come
+[00:04:12] together. And the only way to reduce
+[00:04:15] entropy and everything moving towards
+[00:04:17] chaos is to inject energy into the
+[00:04:22] system. And so in life, a lot of times
+[00:04:24] you guys are probably, you know, you
+[00:04:27] guys are probably pretty aware of this,
+[00:04:29] but
+[00:04:32] um I have no idea where I was going with
+[00:04:34] that [ __ ] thought. I'm not going to
+[00:04:35] lie. But the the point is like in your
+[00:04:38] life and business, you always think that
+[00:04:40] like, okay, after I get through this
+[00:04:41] difficult phase, it's going to be a lot
+[00:04:43] easier, right? That's like the way that
+[00:04:45] our brains work. It's like, all right,
+[00:04:46] I'm going to go through the [ __ ] It's
+[00:04:48] going to suck, but as soon as I get out
+[00:04:50] of it, everything's going to be okay.
+[00:04:52] it's going to be good. I'm going to be
+[00:04:53] making money. I'm gonna have no problems
+[00:04:54] in the world. In reality, that's not
+[00:04:56] true at all. What is actually true is
+[00:05:00] that you get through this, you know, you
+[00:05:03] climb one mountain and your problems
+[00:05:05] don't go away. They just change. So,
+[00:05:07] when you solve the problem of being
+[00:05:09] broke, the next problem the next problem
+[00:05:13] you have to you have to solve is
+[00:05:15] consistently not being broke. Anybody
+[00:05:17] can make 10K in a month. How many people
+[00:05:19] can make 10K a month for a year? And
+[00:05:20] then it's like, okay, I made 10K ak
+[00:05:22] month for a year. That's basically like
+[00:05:25] that's it's not a lot of money anymore.
+[00:05:26] Now I need to go to like 50k a month to
+[00:05:28] 100k a month. And it's like as soon as
+[00:05:30] you kind of get over like this first
+[00:05:33] mountain, if you're right here, you're
+[00:05:36] like, dude, I've been doing everything
+[00:05:38] that I can. I just need to I just got to
+[00:05:40] get up this freaking hill. They're like,
+[00:05:42] as soon as I'm over it, it's going to be
+[00:05:44] easy. But little do you know, you can't
+[00:05:46] see. You can't see over the first
+[00:05:48] mountain. But as soon as you get over
+[00:05:49] it, there's like a mountain that's like
+[00:05:50] twice the size. And then you make it
+[00:05:52] past the first one and you're like,
+[00:05:54] "Shit, you tell me I got to do this [ __ ]
+[00:05:56] again?" Okay, one last time. One last
+[00:05:58] time, I'll get over this mountain and
+[00:06:00] then it'll be good. And then of course,
+[00:06:02] there's like another mountain right
+[00:06:04] after it. This is just life. Problems do
+[00:06:07] not go away. And in fact, they typically
+[00:06:10] get even more complex to solve. Like
+[00:06:11] your problems never go away. They just
+[00:06:13] change, right? That's literally it. And
+[00:06:15] so your life like as a human being it's
+[00:06:17] always moving in the direction of
+[00:06:20] entropy. It's moving towards
+[00:06:23] chaos. And if you don't continually
+[00:06:28] inject
+[00:06:30] energy, then your life is just going to
+[00:06:33] get more and more chaotic. So there's a
+[00:06:36] there's a level that you have to get to.
+[00:06:38] Every single [ __ ] time you you cross
+[00:06:40] one of these mountains. You have to
+[00:06:42] elevate again and again and again.
+[00:06:45] Nothing in this life, guys, is ever
+[00:06:47] stagnant. Nothing is ever staying the
+[00:06:49] same. Imagine if you're like in a race,
+[00:06:52] like you're running a 5K, right?
+[00:06:53] Everybody's kind of jogging at their
+[00:06:55] pace, you know, 6, seven, 8 minute mile
+[00:06:57] pace. That's just normal to finish the
+[00:06:59] race. To win the race, you have to
+[00:07:01] [ __ ] sprint. And most of you aren't
+[00:07:04] even moving. Most of you are like
+[00:07:05] walking or just standing still, in which
+[00:07:07] case everybody is passing you. The only
+[00:07:09] way to really get ahead is inject an
+[00:07:11] inordinate amount of energy into the
+[00:07:14] system, into your business, into your
+[00:07:16] life to actually get the results that
+[00:07:17] you want. So, this is the the second law
+[00:07:20] of thermodynamics. Like I said, looking
+[00:07:21] to nature and seeing the laws that apply
+[00:07:24] there and applying them to your
+[00:07:25] business. Super super
+[00:07:28] uh valuable. So, one quick little thing
+[00:07:30] I want to share with you guys. And then
+[00:07:32] one other thing, for those of you that
+[00:07:34] are
+[00:07:36] watching my content, you know that I'm a
+[00:07:38] total [ __ ] copyrightiting
+[00:07:40] nerd. You guys want to make some real
+[00:07:42] money? What you got to
+[00:07:45] do? Number one, use chatbt and not
+[00:07:47] claude. Number two, use chatbt 4.5. It's
+[00:07:50] actually it's actually substantially
+[00:07:52] better than any other OpenAI model in my
+[00:07:54] opinion. Um, like it's it's quite a bit
+[00:07:57] better. Usually there's like small
+[00:07:58] increments from like, you know, 3.5 to
+[00:08:00] 40 and then 40 to like No, this one this
+[00:08:02] one is pretty substantial actually,
+[00:08:04] especially in terms of writing copy.
+[00:08:05] It's significantly better.
+[00:08:10] And you you have to you have to use this
+[00:08:13] new tool inside of JBT called deep
+[00:08:16] research. Use that for your
+[00:08:17] copyrightiting research. I'm going to go
+[00:08:18] over this in my video tomorrow. I'm
+[00:08:20] uploading a video on advtorials. The
+[00:08:23] only reason I didn't upload it today is
+[00:08:25] because I'm working it hard. working at
+[00:08:26] it. I'm working. I'm I'm I'm I'm hard
+[00:08:30] basically is what I'm trying to
+[00:08:32] say. No, I was busting my ass on this
+[00:08:34] video because this is the type of thing
+[00:08:36] where like anybody could watch it and
+[00:08:37] just start putting out bomb bomb [ __ ]
+[00:08:42] advvertorials. Really, really good
+[00:08:44] advtorials without like barely even
+[00:08:46] trying, barely even thinking. And so,
+[00:08:49] yeah, that video is going to come out
+[00:08:50] tomorrow as you can tell. I'm pretty
+[00:08:51] excited for it. I think you guys are
+[00:08:53] going to love it.
+[00:08:55] Um, with that
+[00:08:57] said, let's hop into the
+[00:09:11] Q&A. Sleepy, what's up,
+[00:09:15] bro? Mark is young maxing.
+[00:09:18] Wait. Yeah. Hey, man. If you know, you
+[00:09:22] know.
+[00:09:23] If you guys want to do some really
+[00:09:25] interesting reading and you I think
+[00:09:27] everybody in life has those people that
+[00:09:29] just said you aren't going to accomplish
+[00:09:31] your goals. Like that's crazy. Nobody
+[00:09:33] could ever make that amount of money.
+[00:09:35] Nobody can ever make that amount of
+[00:09:36] money on the internet. I think every
+[00:09:37] single person has at least one person in
+[00:09:40] their life that just doubted them. That
+[00:09:42] just doubted the [ __ ] out of them. And I
+[00:09:44] don't know about you guys, but that [ __ ]
+[00:09:46] lights me the
+[00:09:48] [ __ ] up.
+[00:09:51] If you thought I was motivated before,
+[00:09:52] if somebody tells me that I can't do
+[00:09:54] something, bro, I have like unlimited
+[00:09:57] motivation for the next like six months.
+[00:10:00] The problem is I don't have enough
+[00:10:01] people doubting me now. So, I think that
+[00:10:04] means that I need to make my goals
+[00:10:06] bigger. Um, but the reason I brought
+[00:10:09] that up is because when I was in
+[00:10:10] college, I started diving really deep
+[00:10:12] into this concept of the shadow, which
+[00:10:15] was originally invented by Carl Young.
+[00:10:17] It's basically the shadow is the side of
+[00:10:19] your personality that integrates all of
+[00:10:21] the deep, dark, terrible, oftentimes um
+[00:10:25] aspects of your character, of your
+[00:10:28] personality. And most people, like the
+[00:10:30] big mistake is that most people try to
+[00:10:33] repress this. The repression of your
+[00:10:36] shadow is a terrible, terrible thing to
+[00:10:39] do. Terrible thing to do. Because when
+[00:10:42] you repress your shadow, what happens is
+[00:10:44] it still pops up just without your
+[00:10:46] control.
+[00:10:47] For example, in in this context of like
+[00:10:49] there's somebody in your life that's
+[00:10:51] been doubting you. It's just like
+[00:10:52] pissing you the [ __ ]
+[00:10:53] off. The way to integrate that is to use
+[00:10:56] that as productive
+[00:10:58] energy to run your business or to make
+[00:11:01] money online, whatever that is for you,
+[00:11:03] right? That is really how you use that
+[00:11:07] productively. But if you don't, if you
+[00:11:08] just take that and you like repress it,
+[00:11:10] it's going to naturally come up and
+[00:11:11] actually be destructive. It's going to
+[00:11:13] be destructive against you, against your
+[00:11:15] relationships. Like if you have a girl
+[00:11:19] and Yeah, you lost me at if you have a
+[00:11:21] girl cuz you know I'm just kidding. If
+[00:11:24] you have a girl
+[00:11:26] and my mind is all over the place right
+[00:11:29] now. If you have a girl and you're not
+[00:11:31] repressing your shadow, like god forbid
+[00:11:34] you start treating her in a bad way,
+[00:11:36] like you don't speak to her with respect
+[00:11:39] and then next thing you know, fine [ __ ]
+[00:11:41] leaves
+[00:11:43] you. That was a joke. Haha. Okay. Very
+[00:11:46] good. Senna, what's up, bro? Run more
+[00:11:50] ads. Run more ads. Run more ads. Run
+[00:11:51] more
+[00:11:52] ads. Run more ads. Run more ads. Run
+[00:11:55] more ads. Run more ads to fight the
+[00:12:03] CPMs. All right, let me get to some some
+[00:12:05] good questions here. Uh, yo, man. So, my
+[00:12:08] Q is kind of work ethic related. I've
+[00:12:10] know you from the NHB group. Uh, and
+[00:12:12] from what I hear and see, you're a
+[00:12:14] beast. How do you do it?
+[00:12:22] Um, just work my [ __ ] ass off, man. I
+[00:12:25] mean, I think I think it comes down to
+[00:12:27] uh I love Allen, by the way. Allan is a
+[00:12:29] freaking man.
+[00:12:30] Um, I really have love for the game in
+[00:12:33] the same way that he does, and I just
+[00:12:36] love the process of getting better, man.
+[00:12:38] There's nothing more that I like than
+[00:12:40] building stuff and getting better. Like
+[00:12:42] the process of building a company, of
+[00:12:45] building anything, building a skill set
+[00:12:47] is like so addictive to me. That's like
+[00:12:50] the real video game that I'm playing.
+[00:12:51] You guys play video games. I play video
+[00:12:53] games in real life. And to me, that's
+[00:12:54] like leveling up my character with the
+[00:12:56] skills that I personally have. That [ __ ]
+[00:12:58] is so [ __ ] fun to me that all these
+[00:13:00] people, they come and they ask like,
+[00:13:02] "Mark, how do you stay so disciplined?
+[00:13:03] How do you stay so focused, so
+[00:13:05] motivated?" I'm not always motivated,
+[00:13:07] but it's like I really really enjoy
+[00:13:09] this. Like if I find a piece of copy or
+[00:13:12] new copywriter or some like weird rabbit
+[00:13:14] hole that has to do with copywriting and
+[00:13:16] direct response, I just totally nerd out
+[00:13:18] and get really obsessive about it and
+[00:13:20] learn everything there is to know. Like
+[00:13:22] I know a good amount about the history
+[00:13:23] of the game and I've only been in it for
+[00:13:25] like seven years. There's a lot of
+[00:13:26] people that know a lot more than me. Um
+[00:13:28] but I just love the process of getting
+[00:13:30] better, dude. Testing new stuff,
+[00:13:32] figuring out stuff that works. I love
+[00:13:33] that and I think that's why I've been
+[00:13:34] able to be successful is cuz it's really
+[00:13:36] authentic love for the game. Honestly,
+[00:13:39] you can ask anybody around me, any of my
+[00:13:41] friends, any of my team members, they
+[00:13:42] know because I talk about it non-stop
+[00:13:44] that this is really the reason that I'm
+[00:13:47] here. It's because I actually love the
+[00:13:49] game.
+[00:13:51] One of my one of my favorite quotes is
+[00:13:53] uh it's actually something I relay to my
+[00:13:55] team constantly and it says the man that
+[00:13:59] loves walking will always walk farther
+[00:14:01] than the man who is in love with the
+[00:14:04] destination. I know Sam Solic said that
+[00:14:06] at one point. I don't know who he got it
+[00:14:08] from, but I just I just love that man.
+[00:14:10] And I think it's so true. So so
+[00:14:15] true, dude. What is this
+[00:14:19] name? All right, guys. We got a question
+[00:14:22] from Billy Ricky James Jordan Alexander
+[00:14:25] John
+[00:14:28] III said, "My Tik Tok ads manager has
+[00:14:30] been suspended for order fulfillment
+[00:14:31] verification. Tried appealing three
+[00:14:32] times
+[00:14:34] nothing." Brother, you're going to have
+[00:14:36] to get a new account, man. I mean, you
+[00:14:37] can try opening another one yourself. If
+[00:14:38] not, you're going to have to use some
+[00:14:39] insiders to get it
+[00:14:43] back. Uh, ciao.
+[00:14:53] this guy. Candace, what's up, Candace? I
+[00:14:56] know that's just going to be a a joke,
+[00:14:58] but I'm going to say it anyways. It's a
+[00:15:00] one-way conversation here. Uh, all
+[00:15:02] right. Intelligent money. Mark, what do
+[00:15:04] you think about mixing a common LP with
+[00:15:06] a consciousness scale?
+[00:15:08] So, it's not going to be quite as linear
+[00:15:10] because in my opinion, the best way to
+[00:15:13] apply like the consciousness related
+[00:15:14] things is to VSSLs because you have
+[00:15:16] their attention in isolation. With a TSL
+[00:15:19] or a regular sales page, they're going
+[00:15:21] to be skimming. They're going to be
+[00:15:22] bouncing all over. They're going to look
+[00:15:23] at photos more than they're looking at
+[00:15:24] text. And so, how can you really control
+[00:15:27] the state that somebody's in if you
+[00:15:28] can't even control their attention? So,
+[00:15:30] you can do your best to do it. You can
+[00:15:31] still channel it. Um, especially in like
+[00:15:33] traditional long form sales letters, you
+[00:15:36] can definitely do it that way because
+[00:15:37] those are actually meant to be read like
+[00:15:38] top to bottom. Most people don't, but
+[00:15:40] they'll still read relatively linearly,
+[00:15:43] but with the the consciousness stuff, I
+[00:15:45] think it's best applied to VSSLs. But
+[00:15:47] you can definitely use it. You can use
+[00:15:48] it with anything, man. Any any landing
+[00:15:50] page, any ad, you should be thinking
+[00:15:52] about that. It should be in the back of
+[00:15:54] your
+[00:15:57] mind. Uh, ciao. Hello, Mark. How many
+[00:15:59] hours did you focus on your project
+[00:16:01] during college? I only have four hours.
+[00:16:03] Well, we all have the same amount of
+[00:16:05] time, my man. The only thing that
+[00:16:07] changes is how effective we are at
+[00:16:11] manipulating time. And so for me, when I
+[00:16:14] was in college, I would always
+[00:16:16] prioritize the business. Like
+[00:16:21] you there's a saying that goes like
+[00:16:23] money flows where your attention goes.
+[00:16:26] And if your number one priority when
+[00:16:28] you're in school is school, then you're
+[00:16:30] going to be really good at school. And
+[00:16:32] you're not going to be as good with
+[00:16:33] business. For me, I structured my days
+[00:16:34] to do the majority of my most important
+[00:16:36] work for my business early in the
+[00:16:37] morning because where your attention
+[00:16:40] goes, energy flows. Where your attention
+[00:16:42] goes, money flows. So, I really, really
+[00:16:44] wanted to make sure that I was growing
+[00:16:46] my business. So, I literally prioritize
+[00:16:47] that like first thing in the morning.
+[00:16:48] That was always the first thing that I
+[00:16:50] always worked
+[00:16:51] on. Raphael, what's up, man? Mark, I
+[00:16:55] know you say that you can sell any
+[00:16:57] product if ads are good and that testing
+[00:16:59] a lot of ads is great, but when I should
+[00:17:03] actually move on to another product when
+[00:17:04] testing product over the last 5 days.
+[00:17:05] So, I would base it off of the KPIs and
+[00:17:09] the metrics that you have for your ads
+[00:17:10] that are running right now. So, if you
+[00:17:12] run for 5 days, number one, I want to
+[00:17:13] know like how much did you spend on that
+[00:17:14] particular test? And number two, is it
+[00:17:17] worth a a readjustment and relaunch? So,
+[00:17:19] if I am going through and like looking
+[00:17:21] at my data, uh, for
+[00:17:23] example, and I have like CPCs that are
+[00:17:27] over like
+[00:17:29] $2 in the US, my
+[00:17:31] CTR
+[00:17:33] CTR across all my ads is like under 1%.
+[00:17:38] But but there's one
+[00:17:44] ad there's one ad that's at like a 2%
+[00:17:47] CTR and a $1
+[00:17:50] CPC and it's actually profitable. Like
+[00:17:52] if you launch 10 ads, one of them is
+[00:17:55] actually profitable. You want to analyze
+[00:17:56] that one specifically. And so I'm going
+[00:17:59] to be looking at the data, man based off
+[00:18:01] of how much that you spend, your overall
+[00:18:02] profitability. Is actually there any
+[00:18:05] desire for this product? And if I find
+[00:18:07] that this one creative is the one that's
+[00:18:08] actually converting the best, is it
+[00:18:10] worth a relaunch and launching more
+[00:18:13] creatives that are most specific to this
+[00:18:15] one winner that I had? If the answer is
+[00:18:18] yes, then I'm going to relaunch once,
+[00:18:20] see if I can get some more life out of
+[00:18:22] the product, read the data again.
+[00:18:24] Remember, with Facebook, with anytime
+[00:18:26] you're running ads in general, you're
+[00:18:27] never losing money. You're buying data.
+[00:18:29] You're buying data. And so I launch,
+[00:18:33] spend
+[00:18:34] money, see how much I make back, look at
+[00:18:37] my ad side metrics, look at the the uh
+[00:18:39] adside metrics on my ads, look at my
+[00:18:41] funnel. How's the funnel converting? Is
+[00:18:43] it ad problem or a creative problem or a
+[00:18:45] landing page problem? And then go
+[00:18:47] through that whole process that I've
+[00:18:48] gone through many many times.
+[00:18:51] And yeah, bro, that's really it. And if
+[00:18:53] it's worth a relaunch, relaunch once.
+[00:18:55] And if it still doesn't work after that,
+[00:18:56] I'd move on to the next one. Simple as
+[00:18:58] that. Because the the truth of
+[00:19:00] situation, man, is I I mean, I'm a
+[00:19:02] little I'm a little delusional, but I
+[00:19:04] honestly believe that I can make most
+[00:19:07] products work if you give me enough time
+[00:19:09] and enough money, which I have plenty of
+[00:19:11] money. It's just like, is it actually
+[00:19:12] worth the opportunity cost of continuing
+[00:19:15] to try to make this product work
+[00:19:16] compared to, you know, uh moving on to
+[00:19:19] another product? Because there's some
+[00:19:20] companies out there, man, not drop
+[00:19:21] shipping businesses, but there's some
+[00:19:22] companies out there that you literally
+[00:19:24] can't just move on to another product.
+[00:19:25] Like, this is your one product. you
+[00:19:27] manufacture 10,000 units and you have to
+[00:19:30] sell them period. What are you going to
+[00:19:32] do? Move on to another product? No,
+[00:19:33] because you don't have another product.
+[00:19:35] This is the only product that you have.
+[00:19:37] So, drop shippers are very unique and
+[00:19:39] they can actually, you know, control
+[00:19:41] that a little bit. You can move on to
+[00:19:42] another
+[00:19:46] product. Uh, veto, most my adsets have
+[00:19:49] over 3% CTR, but CBC is like $3.50.
+[00:19:53] So, that sounds like a high CPM problem
+[00:19:55] in that case because that is very good
+[00:19:56] CTR. Um, you could try warming up your
+[00:19:58] ad account a little bit and relaunching,
+[00:20:00] but it sounds like you have something
+[00:20:01] that's working. I would want to know
+[00:20:02] what your funnel metrics
+[00:20:04] are. Daniel Clark, hey Mark, starting my
+[00:20:07] first beauty store next month. Wondering
+[00:20:08] what I should start with funnel-wise.
+[00:20:11] Just VSSL the PDP or should we start
+[00:20:12] with VSL avatar the sales page for new
+[00:20:14] store? Um, dude, I don't know what kind
+[00:20:16] of results you have. For me, I go
+[00:20:18] straight to funnels, but that's because
+[00:20:20] I've been doing it for a while and I
+[00:20:21] have the capital to lose a little bit
+[00:20:23] more upfront and I'm good at like
+[00:20:25] manipulating the variables with my
+[00:20:26] creatives in my funnel. If that's not
+[00:20:28] you, what you should do is and and you
+[00:20:31] haven't generated, let's say, like 100K
+[00:20:33] at least with with ecom online, then I
+[00:20:36] would just go straight to PDP, standard
+[00:20:37] Shopify funnel. Get that initial
+[00:20:39] validation of the product because it's
+[00:20:40] so much easier to check that box, be
+[00:20:42] like, "Okay, people actually want this
+[00:20:44] thing. They actually want to buy my
+[00:20:45] product." and then move to funnels.
+[00:20:47] That's going to be a lot better compared
+[00:20:48] to just going straight to funnels cuz
+[00:20:50] the the work required to do a whole like
+[00:20:53] funnelish funnel, the Chad funnel that I
+[00:20:54] talk about all the time, that takes a
+[00:20:56] lot of work to put together, man. That
+[00:20:58] takes probably five times the amount of
+[00:21:00] time compared to like a standard
+[00:21:02] PDP. So, if you want to test quickly,
+[00:21:06] then that's probably the way that you
+[00:21:07] should do it. specifically if you don't
+[00:21:08] have a lot of revenue under your belt in
+[00:21:10] the first
+[00:21:18] place. Uh Louise, I like that name.
+[00:21:21] Mark, can you do like a fully done down
+[00:21:24] guide to advertising like how to create
+[00:21:26] and use them effectively? So, dude, I
+[00:21:28] did a whole video on Facebook ads
+[00:21:30] specifically like just setting them up
+[00:21:32] and I have a whole video on creatives
+[00:21:34] and I have a whole video on funnels. So,
+[00:21:36] just combine them all, you know, bring
+[00:21:38] them all together. I'm thinking of doing
+[00:21:40] a full like branded drop shipping
+[00:21:42] tutorial like start to finish. It'll
+[00:21:44] probably be
+[00:21:45] like three or four hours
+[00:21:52] long. I'm thinking of doing that. We'll
+[00:21:54] see. We'll see. It'd be very very
+[00:21:58] valuable for sure, but it's it's like
+[00:22:00] three four hours of my time, you know?
+[00:22:01] Like, [ __ ]
+[00:22:04] Uh, at Influence Mark, did you have any
+[00:22:07] problems with meta ad accounts being
+[00:22:09] banned when running ads? Yes, dude. I
+[00:22:12] have been through the ringer with
+[00:22:14] Facebook before. Um, now I'm doing much
+[00:22:17] better. Thank you for asking. U, but
+[00:22:19] yeah, dude. I definitely went through it
+[00:22:20] with Facebook. There was a period of
+[00:22:21] time for me. It started in
+[00:22:23] 2019 where I got my first ad account
+[00:22:26] shutdown. And I'll never forget it
+[00:22:29] because I didn't even know that was a
+[00:22:31] thing that they could do. I was like,
+[00:22:33] "What does this even mean?" And now it's
+[00:22:36] it's becoming it it's not becoming it is
+[00:22:38] like significantly more common, but they
+[00:22:41] didn't used to just like shut down ad
+[00:22:43] accounts for no reason back then. Now
+[00:22:46] they do, but when everybody started
+[00:22:47] flooding to Facebook, they, you know,
+[00:22:50] increase how strict they are with their
+[00:22:51] policies and whatnot.
+[00:22:55] Uh,
+[00:22:57] cryptonict crypto
+[00:23:04] something. Do you think it's feasible to
+[00:23:07] run a profitable shapewware store
+[00:23:09] running image ads with advtorials or
+[00:23:10] will video ads be ideal for niche like
+[00:23:13] that? So, in terms of like doing video
+[00:23:15] and this is a good lesson for everybody.
+[00:23:17] It's like video versus
+[00:23:20] uh versus image
+[00:23:23] ads. The standard rule of thumb here,
+[00:23:25] bro,
+[00:23:26] is, you know, can you make a product
+[00:23:28] work with images, image ads versus video
+[00:23:31] ads? Can your product, the question you
+[00:23:34] should ask is, can your product be
+[00:23:37] completely understood without a
+[00:23:40] video? Um, perfect example, right? This
+[00:23:44] mouse right here. you probably are going
+[00:23:46] to want a video because if I just gave
+[00:23:48] you a picture of this mouse, you're not
+[00:23:50] going to be see you're not going to be
+[00:23:51] able to see all the functionality that
+[00:23:53] it has. The fact that there's these two
+[00:23:55] hidden buttons on the side that you
+[00:23:56] can't really see that you can control do
+[00:23:58] whatever you want or that there's a
+[00:23:58] third button right here or that there's
+[00:24:00] a horizontal scroller right here. So,
+[00:24:03] same process with ecom products. If you
+[00:24:06] have a product that can be sold without
+[00:24:08] needing a long explanation in a video,
+[00:24:11] then just use an image. That's why most
+[00:24:14] of the fashion drop shippers typically
+[00:24:16] only use images because they can just
+[00:24:17] test so quickly
+[00:24:19] and they don't need to give a massive
+[00:24:22] explanation for the
+[00:24:33] product. Bro, Leo Mark, I became lazy
+[00:24:37] after learning about the woo woo side of
+[00:24:39] money and success. Please help. This is
+[00:24:41] something that I learned too. I didn't
+[00:24:43] get lazy, but I noticed that the amount
+[00:24:46] of money that I made went down because
+[00:24:49] like most things in life, right? It's a
+[00:24:55] counterbalance. This is a
+[00:24:56] counterbalance, by the way. I don't
+[00:24:58] believe in balance. And I say that
+[00:24:59] frequently because balance is like
+[00:25:02] stacking thing after thing after thing
+[00:25:05] directly on top of each other. And then
+[00:25:07] the more that you add, like the more
+[00:25:08] difficult it's going to be to like stack
+[00:25:10] everything together, right? This is what
+[00:25:12] balance is. This is why I think balance
+[00:25:14] is [ __ ] stupid. What I do instead is
+[00:25:17] what's called counterbalance where you
+[00:25:19] have something on one side balancing out
+[00:25:21] something on the other side. Right? I
+[00:25:22] like to live at least a little bit. I
+[00:25:24] like to live at the extremes, you know,
+[00:25:26] not really, for example, with my life,
+[00:25:28] not doing anything, not, you know, not
+[00:25:31] doing anything highly dopamine inducing
+[00:25:33] for months and then have like a few days
+[00:25:37] or a week where I I do what I want, you
+[00:25:39] know? And that's the same concept here
+[00:25:41] because I noticed when
+[00:25:44] uh I noticed when I got really into the
+[00:25:46] spirituality side of success and money
+[00:25:48] and law of attraction and consciousness
+[00:25:50] and all this [ __ ] I went too
+[00:25:52] deep. I went too deep. And it needs to
+[00:25:56] be a balance between the let's just call
+[00:25:58] it like the woo
+[00:26:01] woo and the
+[00:26:04] practical. The practical is honestly
+[00:26:08] directly what's going to make you the
+[00:26:09] most amount of money. Right? You can get
+[00:26:11] all you can get as spiritual as you
+[00:26:13] want. I promise you you can get all into
+[00:26:17] degrees of consciousness. You can read
+[00:26:20] every consciousness book that there is.
+[00:26:22] Everything about energy, about law of
+[00:26:24] attraction. At the end of the day, you
+[00:26:25] still got to write some winning [ __ ]
+[00:26:27] ads, bro. You still got to you still got
+[00:26:28] to pull up that [ __ ] Facebook ad
+[00:26:30] account and start scaling your [ __ ]
+[00:26:33] business. You still have to make split
+[00:26:35] tests to your landing page to increase
+[00:26:36] your conversion rate. You still have to
+[00:26:37] set up funnels that maximize your AOV.
+[00:26:40] That's not very woowoo, but it is
+[00:26:42] actually the thing that makes you more
+[00:26:44] money. This is just the woowoo stuff is
+[00:26:45] basically setting the frame, right? It's
+[00:26:48] setting the frame for you to live your
+[00:26:49] life and then make as much money as
+[00:26:51] possible within that frame, right? In
+[00:26:54] the same way that a picture frame holds
+[00:26:55] a picture, the frame of consciousness
+[00:26:57] allows you to be as successful as
+[00:26:58] possible. But once you're in here and
+[00:27:00] you have that frame created, the reason
+[00:27:02] I drew this is because you don't want to
+[00:27:04] spend more than 20% of your time here in
+[00:27:06] the woowoo stuff. Honestly, it should
+[00:27:09] probably be even
+[00:27:11] less. For me, I really like learning
+[00:27:13] about all the woowoo stuff right before
+[00:27:15] I go to bed because I know that really
+[00:27:17] cool things happen when you plant ideas
+[00:27:19] into your subconscious brain right
+[00:27:21] before you go to sleep. Right before you
+[00:27:23] go to sleep and right when you wake up
+[00:27:25] is when your brain is most suggestible.
+[00:27:27] There's a specific energy state
+[00:27:29] associated with right before you go to
+[00:27:31] bed or right before you wake up and it's
+[00:27:32] called the theta wave state. T H E TA
+[00:27:35] the theta state. And with theta brain
+[00:27:38] waves, they move much more slowly and
+[00:27:40] it's like right before you're drifting
+[00:27:42] off into sleep. This is when you're most
+[00:27:43] suggestible. Imagine with like a
+[00:27:45] hypnotist. This is the state that they
+[00:27:47] try to get you in. This relaxed state
+[00:27:50] of relaxation. It's just super super
+[00:27:53] deep, but you're not quite asleep yet.
+[00:27:56] That is when you are most suggestible.
+[00:27:57] That's the state that they get you in
+[00:27:59] and then install beliefs in you or
+[00:28:01] install actions that when you get
+[00:28:02] whipped out of that state, you start
+[00:28:04] acting like a completely different human
+[00:28:05] being or you just completely forget
+[00:28:07] something. That's how they do what they
+[00:28:08] do. I've studied hypnosis actually
+[00:28:12] uh not super extensively, but I've
+[00:28:14] studied it a little bit and this is
+[00:28:16] exactly what they do to try to creep
+[00:28:17] into your subconscious brain.
+[00:28:22] So that's my answer for getting like too
+[00:28:25] deep into the spirituality stuff,
+[00:28:27] man. You still gota you still got to
+[00:28:30] build some [ __ ] at the end of the
+[00:28:32] day. You still got to do hard things.
+[00:28:35] You still have to be disciplined. You
+[00:28:38] still have to do the boring things every
+[00:28:39] single day that you know for a fact make
+[00:28:40] you better, but they're still boring.
+[00:28:42] It's why Kobe Bryant would get a
+[00:28:44] thousand made shots a day outside of
+[00:28:47] practice.
+[00:28:50] Still got to do the [ __ ] work. Solo
+[00:28:53] range. What's up,
+[00:28:56] bro? How much should I get charging for
+[00:28:58] something like CMOS gummies if I'm
+[00:28:59] running VSSL to an advvertorial since I
+[00:29:01] know low AOV actually hurts CVR in an
+[00:29:04] Avitorial? Low AOV
+[00:29:06] hurts CVR and Avitorial. Yeah, there is
+[00:29:10] some there is some truth to that.
+[00:29:12] Um I think you're asking like how much
+[00:29:14] would you charge? So, I would go for
+[00:29:16] like the $40 to $50 range for one. But
+[00:29:18] you with supplements, bro, you really
+[00:29:19] want to push people to buy that three or
+[00:29:21] six month bundle. And yeah, man,
+[00:29:25] supplements are are really really fun to
+[00:29:27] sell. But that that's what you're going
+[00:29:28] to want to do. And then have a bunch of
+[00:29:29] order bumps and cross sales before they
+[00:29:31] even complete their purchase to maximize
+[00:29:32] the pre-purchase AOV because AOV is
+[00:29:37] twofold, right? You have pre purchase
+[00:29:40] and then you have post-purchase, right?
+[00:29:42] So let's say the payment is captured
+[00:29:45] right here. You have pre- purchase
+[00:29:47] upselles and then you have post purchase
+[00:29:50] upsells. Now post obviously going to be
+[00:29:52] more effective. You're going to have
+[00:29:54] higher take rates and you can have a
+[00:29:55] higher AOV contribution, higher price
+[00:29:57] price elasticity because you have their
+[00:29:59] credit card information captured already
+[00:30:00] and you have them in the most emotional
+[00:30:02] state that they'll ever be in the
+[00:30:03] history of your business. So you can you
+[00:30:05] can use your copy to get them in the
+[00:30:07] right state significantly more than they
+[00:30:09] do pre- purchase, right? because they've
+[00:30:10] already put their trust in you as a
+[00:30:12] business to buy your
+[00:30:17] product. And so for you, man, in terms
+[00:30:20] of like maximizing, you're basically
+[00:30:21] asking about maximizing the
+[00:30:24] pre preurchase AOV, right? It's going to
+[00:30:28] be it's going to be bundles, that's
+[00:30:30] going to be order bumps, it's going to
+[00:30:31] be quantity discounts.
+[00:30:38] Cobra Kai, what would you recommend
+[00:30:40] building a store with? Most of the
+[00:30:41] stores on your VSSL doc aren't built
+[00:30:43] with Shopify. Yeah, I know. The reason
+[00:30:47] why they're not built with Shopify is
+[00:30:49] because Shopify is not very superior in
+[00:30:52] terms of like AOV maximization and
+[00:30:54] conversion rate. A lot of them are using
+[00:30:55] either Checkout Champ or Funnelish. And
+[00:30:58] you can see that, by the way, if you go
+[00:31:00] to
+[00:31:01] uh if you go to like get hooked, for
+[00:31:04] example. Let me see if I can find a good
+[00:31:06] This is my favorite search term right
+[00:31:07] here. Or not search term, but search
+[00:31:09] filter for
+[00:31:10] VSSLs. Go to one of these. And let's Oh,
+[00:31:14] this is going right to the checkout or
+[00:31:16] no. Okay, this is
+[00:31:19] advtorial. So, with this advtorial for
+[00:31:22] example, I'm sorry if this is your
+[00:31:23] brand. Nobody copy this. What you can do
+[00:31:27] is rightclick and do view page source.
+[00:31:29] Literally search
+[00:31:30] for You see that right there?
+[00:31:35] assets.outchamp.com. That's how you know
+[00:31:36] it's built on checkout
+[00:31:38] champ. And you do the same thing if it
+[00:31:41] was
+[00:31:43] funnelish. As you can see, nothing from
+[00:31:46] funnelish
+[00:31:52] there. Next question.
+[00:32:03] V. How do I say his name? Vaj
+[00:32:06] Vaja Bruce Brk. I don't know, bro.
+[00:32:10] You're gonna have to help me out with
+[00:32:11] that. Where are you from, dude? That is
+[00:32:12] such a unique name. I'm waiting till you
+[00:32:14] start talking about Plato, Socrates,
+[00:32:16] Freud at this point. You can bet your
+[00:32:18] ass I have read plenty of Plato,
+[00:32:20] Socrates. Not a lot of Sigma Freud
+[00:32:22] though. Socrates is really, really good.
+[00:32:25] Plato is fantastic. If you haven't read
+[00:32:28] um the allegory of the
+[00:32:31] cave, it's basically the life that we're
+[00:32:33] living right now. So, go [ __ ] read
+[00:32:35] it. The point of running a business,
+[00:32:38] like being an entrepreneur, yes, you
+[00:32:39] want to make money, but you also still
+[00:32:40] want to be a well-rounded human being. I
+[00:32:42] read a lot of weird [ __ ] Like, I read I
+[00:32:45] read some self-help stuff. Yes. But like
+[00:32:47] the book that Where the [ __ ] is it? Ah
+[00:32:50] [ __ ] I'm reading a book on um on how
+[00:32:53] they got of how they got people to be
+[00:32:57] recruited for cults in the government.
+[00:33:00] Um I'm read I read books about hypnosis.
+[00:33:02] I read um like I'm looking at my
+[00:33:05] bookshelf over here. I have The
+[00:33:07] Principia by Isaac Newton. I have The
+[00:33:09] Origin of Species by Charles Darwin. I
+[00:33:11] have some fiction books here and there.
+[00:33:13] Like it's not just all self-development,
+[00:33:15] growth, like focus, productivity, blah
+[00:33:17] blah blah. Because when you take these
+[00:33:20] like like the minds and the strategies
+[00:33:21] and the ideas that stick around for
+[00:33:24] centuries or even thousands of years,
+[00:33:26] like think of like the Bible, the Quran,
+[00:33:28] there's probably more wisdom in those
+[00:33:31] books compared to this guy that's like
+[00:33:34] an Amazon bestseller when he launched
+[00:33:36] one book, right? So, I think there's you
+[00:33:38] should be learning from everything
+[00:33:39] because then you become an actual uh
+[00:33:41] like a real actualized human being
+[00:33:43] that's diverse and you have unique
+[00:33:44] ideas, right? If I just thought the same
+[00:33:46] as everybody
+[00:33:47] else, none of you would be here. There's
+[00:33:50] a reason that you're watching my content
+[00:33:52] right now and not somebody else because
+[00:33:54] I have this unique philosophy, right?
+[00:33:56] Well, I didn't get the unique philosophy
+[00:33:58] by not being unique myself. I have to go
+[00:34:01] outside of myself and look at look at
+[00:34:04] nature, look at history, look at the
+[00:34:07] masters of their craft. Like for
+[00:34:08] example, I love um listening to jazz
+[00:34:12] music. I
+[00:34:13] really Yeah, I [ __ ] love jazz because
+[00:34:15] I play piano. I've played piano
+[00:34:17] for oh god uh 18 18
+[00:34:21] years. I I play piano I think since I
+[00:34:23] was 6 years old. I've played for a very
+[00:34:25] long time. And so I I like using that as
+[00:34:29] well. And it's just bringing all these
+[00:34:32] sources of knowledge to become like one
+[00:34:35] well-rounded, you know,
+[00:34:38] successful individual.
+[00:34:41] That's why I think it's so funny that I
+[00:34:43] film these with my shirt off because I
+[00:34:45] walk around with my shirt off all the
+[00:34:46] time. But if you were to just look at me
+[00:34:49] walking in the street, right? You
+[00:34:51] probably make all of these judgments
+[00:34:53] about who this guy
+[00:34:55] is, and most of them are are probably
+[00:34:58] dead ass wrong. And that's why that's
+[00:34:59] why I [ __ ] love that's why I love
+[00:35:01] that [ __ ] Um, next question.
+[00:35:14] Oh, great question here. Health goddess.
+[00:35:16] Better to run advtorial to PDP or
+[00:35:18] squeeze page to VSSL than
+[00:35:20] PDP? So, if you're doing a VSSL, bro, I
+[00:35:24] know one thing about running like
+[00:35:25] traffic to a VSS, By the way, I mean
+[00:35:27] VSSL pages, not like VSSL ads. VSSL ads
+[00:35:29] are great. Running uh ads to a VSSL page
+[00:35:32] where there's just like a blank page and
+[00:35:34] video, like that's it. Um, I think jump
+[00:35:36] pages or squeeze pages are best to drive
+[00:35:39] the traffic to first because I know for
+[00:35:40] a fact that Facebook hates taking people
+[00:35:43] off their platform just to watch another
+[00:35:45] video. Like you think about it in
+[00:35:47] Facebook's terms, right? Their goal is
+[00:35:49] to maximize the amount of time that a
+[00:35:51] user spends on their platform so that
+[00:35:53] they can sell more ad space. That's like
+[00:35:54] the sole goal of Facebook. You
+[00:35:57] immediately take people off the platform
+[00:35:59] and they stay off the platform for
+[00:36:00] however long your VSSL is. If I were
+[00:36:03] Facebook, I would say, "Fuck this guy.
+[00:36:05] I'm turning off his ads. I'm I'm
+[00:36:07] restricting his ad
+[00:36:09] account." So, when you do a squeeze page
+[00:36:12] beforehand, I I bet you right now I
+[00:36:14] could find like
+[00:36:15] a an advtorial here or not avitorial, a
+[00:36:19] uh a jump page
+[00:36:21] here in like 30 seconds. You can [ __ ]
+[00:36:23] time me. And it's probably going to slow
+[00:36:26] down because there's so many [ __ ]
+[00:36:27] things on this
+[00:36:36] Boom.
+[00:36:39] Wait.
+[00:36:41] No, never mind.
+[00:36:44] Advatorial. Okay, there we go. Jump page
+[00:36:46] right there
+[00:36:47] in I don't know why it's trying to
+[00:36:49] translate to Portuguese, but yeah, as
+[00:36:51] you can see, bro, perfect example right
+[00:36:53] here. Right. If you were to go to I know
+[00:36:54] my my video is probably [ __ ] right now,
+[00:36:56] but you can still hear me. If I click
+[00:36:58] this, that's when I actually go to the
+[00:36:59] VSSL. There's a reason that they're not
+[00:37:01] driving people directly to this VSSL
+[00:37:03] page, right? There's a reason that this
+[00:37:04] jump page is here in the first place.
+[00:37:06] So, keep that in mind. Facebook doesn't
+[00:37:08] like it when you drive traffic directly
+[00:37:10] to a VSSL page. So, you know, don't
+[00:37:19] uh can
+[00:37:22] Candice Mark, how do you push on even
+[00:37:25] after reaching the goal you had set? I
+[00:37:26] find it very hard to go even harder
+[00:37:27] after hitting goals.
+[00:37:33] Um, I think every successful
+[00:37:35] entrepreneur goes through something like
+[00:37:37] this, bro, where they they like quote
+[00:37:38] unquote make it and they're not really
+[00:37:40] worried about their survival anymore.
+[00:37:41] Like you have you're making money. In
+[00:37:42] fact, you're making a lot of money. How
+[00:37:44] do you continue to push? And you can do
+[00:37:48] one of two things here. You can lean
+[00:37:51] heavier into the goals and just be like,
+[00:37:54] "Okay, accomplished that. What's another
+[00:37:55] goal that just like lights me the [ __ ]
+[00:37:57] up that that I could just wake up and
+[00:38:00] immediately I have energy for it? Like
+[00:38:01] it makes me excited just to [ __ ]
+[00:38:03] think about that. Like what is that goal
+[00:38:05] so exciting, so big, it's going to
+[00:38:06] involve and impact so many people. You
+[00:38:08] could go that route or you can go the
+[00:38:11] route of actually [ __ ] enjoying the
+[00:38:14] process, right? The quote that I said
+[00:38:15] earlier, the man who loves walking will
+[00:38:17] always walk more than the man who's in
+[00:38:19] love with the destination. So, how can
+[00:38:21] you focus all of your energy on enjoying
+[00:38:23] the process more than the goals? And I
+[00:38:26] found that my affinity for life and how
+[00:38:30] much I enjoy my day-to-day significantly
+[00:38:32] goes up when I do the latter of those
+[00:38:34] two and I actually focus on enjoying the
+[00:38:37] process. Like my goals, I have goals,
+[00:38:39] but it's like me putting a letter in a
+[00:38:41] mailbox and like not thinking about it
+[00:38:43] because I know the mail is going to be
+[00:38:45] delivered. I know the goal is going to
+[00:38:46] be achieved, but I'm not going and
+[00:38:48] checking the mail like every single day
+[00:38:50] to make sure that the person mailed
+[00:38:52] back, right? I just send it and I let it
+[00:38:54] go. David Hawkins type. So that's um
+[00:38:59] yeah, that's my advice to you, bro.
+[00:39:00] Hopefully that
+[00:39:06] helps. Uh Daniel Clark, hi Mark. I'm
+[00:39:08] Irish. Do you think it'd be a good idea
+[00:39:11] to start out running ads in Ireland? and
+[00:39:12] CPMs would probably be great frequency,
+[00:39:14] but it could be high super fast. I think
+[00:39:15] Harvey Carnegie tried
+[00:39:17] this. Typically, I'm pretty bullish,
+[00:39:20] man, on on selling in your own market
+[00:39:23] because you speak that specific
+[00:39:32] language. Um, I'm not sure if Harvey had
+[00:39:35] success or not, but I know a lot of guys
+[00:39:36] that are exclusively selling in Europe,
+[00:39:38] dude, and they destroyed. The only thing
+[00:39:40] that you have to keep in mind is that a
+[00:39:41] lot of the guys that destroy in Europe,
+[00:39:43] they eventually try to move to the
+[00:39:44] United States at some point like they
+[00:39:47] can make 10, 20, $50 million in Europe,
+[00:39:49] but eventually they want to move to US.
+[00:39:50] Why? Why do they want to move to US?
+[00:39:52] It's
+[00:39:53] because of payment processors and the
+[00:39:56] type of customers that we have in the
+[00:39:57] US. We have some of the if not the best
+[00:39:59] customers in the US period. Like not
+[00:40:02] even not even close. The customers that
+[00:40:04] are willing to spend the most amount of
+[00:40:05] money with you. C like Americans, bro.
+[00:40:07] We just [ __ ] buy [ __ ] Like we're
+[00:40:09] always just [ __ ] buying [ __ ] Always.
+[00:40:11] And not only are we buying [ __ ] we're
+[00:40:12] buying [ __ ] that we can't afford. That
+[00:40:14] doesn't happen nearly as much in
+[00:40:16] European countries. It just doesn't. It
+[00:40:19] still happens. But like you have to keep
+[00:40:20] in mind the payment processors because
+[00:40:22] when I was giving my speech in Dubai, I
+[00:40:24] had to have this whole section where I
+[00:40:26] was speaking specifically to the guys
+[00:40:28] exclusively selling in Europe, which was
+[00:40:29] a good portion of the audience. And I
+[00:40:30] was like, "Look, you guys are limited
+[00:40:32] with your payment processing options,
+[00:40:33] right?
+[00:40:36] Like CLA is great. You h you kind of you
+[00:40:39] almost have to have it in some countries
+[00:40:41] in some markets, but the post purchase
+[00:40:44] upsell path is basically [ __ ] with
+[00:40:45] CLA. Like you have you're going to have
+[00:40:46] to re-enter your credit card info
+[00:40:48] because Clara doesn't currently support
+[00:40:50] Otto
+[00:40:55] functionality. So yeah, hopefully that
+[00:40:57] helps.
+[00:41:08] Uh, Mondo
+[00:41:10] AZ071 just joined 5 a.m. from Australia.
+[00:41:12] My man. My man. I think we still have
+[00:41:15] some team members in Australia. So,
+[00:41:18] that's freaking awesome, dude. That's a
+[00:41:20] real one right there.
+[00:41:31] All right, we got a we got another
+[00:41:32] tactical one from Veto. Let's see,
+[00:41:36] man. Hey, Mark. Related to my question
+[00:41:38] before about very high CPMs, $100 plus
+[00:41:40] on very high CBC 3
+[00:41:44] $34. I think you mean three to four. KPI
+[00:41:50] uh KPI 141 sessions on site, nine at a
+[00:41:53] car, six, one sale, $300 on ads, $100 a
+[00:41:56] day. Okay, so your CPA is like $300. You
+[00:41:59] have one sale to me. I mean, yeah, your
+[00:42:03] conversion rate is low. So that's
+[00:42:04] definitely you have both problems right
+[00:42:05] now. You have a funnel problem and you
+[00:42:07] have a creative problem. And by creative
+[00:42:09] problem, I really mean ad account
+[00:42:11] problem because your CP your CTR was
+[00:42:14] good. If I'm thinking about the same
+[00:42:15] guy, your CTRs were good. CPCs were too
+[00:42:17] high, which means your CPMs were high,
+[00:42:18] which I was exactly right about that.
+[00:42:20] It's over $100. So, you're going to have
+[00:42:22] to do some things to get those CPMs
+[00:42:24] down. And that's uh that could be a
+[00:42:27] whole video in and of itself. And now
+[00:42:29] that I'm saying this out loud, I should
+[00:42:30] create a video on this because this is
+[00:42:31] really, really important. Um, but in
+[00:42:34] addition to that, those are all the ad
+[00:42:35] side problems. You also have funnel
+[00:42:37] problems, which is your conversion rate
+[00:42:40] is like sub 1%. So, I don't know how
+[00:42:42] much your product is. Even if it's like
+[00:42:44] $100 plus, that's honestly too low.
+[00:42:48] Um, the add to cart to purchase ratio is
+[00:42:51] a little low and the add to cart ratio
+[00:42:53] is also a little bit low. It's sub 10%
+[00:42:55] which KPI is 10%. And the uh add to cart
+[00:42:59] to purchase ratio is also sub 30%.
+[00:43:02] Right? You have one sale and nine add
+[00:43:03] cards. That's only whatever percent that
+[00:43:06] [ __ ] is, you know, like 13% or
+[00:43:08] something. So, not great. Um, you got to
+[00:43:12] make better, you know, the creatives are
+[00:43:14] good. So, you have to adjust some things
+[00:43:15] in your ad account, warm it up. Um, try
+[00:43:18] using an agency ad
+[00:43:19] account. CPMs are complicated, man. I'm
+[00:43:21] not going to lie to you. I can do a
+[00:43:23] whole video on them if you're
+[00:43:24] interested.
+[00:43:26] But, yeah, you're going to have to
+[00:43:28] adjust some things in your ad account to
+[00:43:30] lower those CPMs. Then, you got to make
+[00:43:32] some changes to your funnel, man. It's
+[00:43:33] looking that that landing page that
+[00:43:35] you're sending traffic to is not doing
+[00:43:36] its job. it's not really convincing
+[00:43:38] people that uh they should add the
+[00:43:41] product to their cart and purchase it.
+[00:43:43] Which could also mean that yes, your CTR
+[00:43:46] is good, but are you getting buyers
+[00:43:48] intent to your website? Like it's really
+[00:43:51] perfect example, dude. I ran an offer
+[00:43:52] one time. I had a 10% CTR on my ads.
+[00:43:57] 10%. Did I scale it to a million
+[00:43:59] dollars? No. Because nobody [ __ ]
+[00:44:01] bought. I was getting what's called
+[00:44:03] curiosity clicks. I got people that are
+[00:44:05] really, really interested, but they
+[00:44:07] weren't bought in. They weren't like,
+[00:44:08] "Oh, this is something I want to buy."
+[00:44:10] They're just like, "Oh, I kind of want
+[00:44:11] to see what this is about." You see the
+[00:44:13] difference? And so, sometimes being
+[00:44:15] direct and having lower CTRs and lower
+[00:44:17] CPC, uh, higher CPC is actually a good
+[00:44:20] thing because you're going to convert
+[00:44:21] more of them. Um, it's like being
+[00:44:24] product aware versus just being problem
+[00:44:27] or solution
+[00:44:30] aware. Hopefully that helps.
+[00:44:34] Yeah, I'll I'll I'll put together that
+[00:44:35] CPM video because I have a lot of guys
+[00:44:37] asking. I put together a video a few
+[00:44:39] months ago about some things that we did
+[00:44:41] to reduce our CPMs because like one time
+[00:44:43] just overnight our CPMs literally
+[00:44:45] doubled. They went from like 30 on
+[00:44:47] average to like $80 on average. And that
+[00:44:50] was like really really problematic. And
+[00:44:52] so we tested a [ __ ] ton. Like we tested
+[00:44:55] so many things. And eventually we there
+[00:44:57] was like three main things that actually
+[00:44:59] allowed us to uh to scale.
+[00:45:03] So, if you want that uh if you want that
+[00:45:06] Loom video, again, it's a little old. It
+[00:45:08] still works. I still use some of those
+[00:45:09] things, but you can just DM me the word
+[00:45:11] CPM on Instagram, and I can send that
+[00:45:13] Loom video over to
+[00:45:15] you. H. All
+[00:45:19] right. All right, guys. I'm going to
+[00:45:20] have to hop off pretty soon here, so
+[00:45:23] let's get a few last questions in here
+[00:45:27] and see what else we got. Man, solar.
+[00:45:30] Yo, bro. Nothing to ask. just thanking
+[00:45:32] you for what you do. Keep it up,
+[00:45:34] bro. You know, man, I needed to hear
+[00:45:36] that. Thank
+[00:45:39] you. Next
+[00:45:46] question. Benle, uh, Mark Brands, what's
+[00:45:49] your opinion on making natural looking
+[00:45:51] creatives, lower CPMs? Because whenever
+[00:45:52] I use salesy ads, it's high CPMs. Super
+[00:45:54] bullish on it, bro. We should come up
+[00:45:56] with a term for this. I used to call
+[00:45:57] them like native ads, but native ads are
+[00:46:00] something completely separate. Um, but
+[00:46:03] yeah, I I know exactly what you're
+[00:46:04] talking about. Almost every time that I
+[00:46:06] do this, all right, you guys you guys
+[00:46:07] want to make some good [ __ ] ads.
+[00:46:08] Here's here's a little hack for you. Um,
+[00:46:11] whatever product it is that you're
+[00:46:12] selling, understand the niche that it
+[00:46:14] is. For example, let's say health and
+[00:46:16] beauty, you're selling a product related
+[00:46:18] to like knee pain, right? What you
+[00:46:20] should do is go to Tik Tok and search
+[00:46:23] knee pain, not the product. search the
+[00:46:26] problem knee pain and look at the videos
+[00:46:29] with the most amount of views and look
+[00:46:30] at the hooks specifically of those
+[00:46:32] organic
+[00:46:33] videos. The same concept of hooks
+[00:46:36] applies to organic. It's a little bit
+[00:46:37] different because you need conversions
+[00:46:38] on paid compared to organic. You're just
+[00:46:40] getting views. However, you'll get a
+[00:46:42] really good understanding of the first
+[00:46:44] initial clips and hooks that work really
+[00:46:46] really well. And that's all quote
+[00:46:48] unquote natural content, right? That's a
+[00:46:50] natty content. It looks super
+[00:46:52] non-invasive on your feed. just looks
+[00:46:54] like another regular post. Um, every
+[00:46:56] time I go in that direction, dude, it
+[00:46:58] works really well and I make some good
+[00:46:59] money. So, I'm super bullish on
+[00:47:03] that. Um, Cal
+[00:47:06] McIrior, are VSSL good for any
+[00:47:09] product? No, they're they're totally
+[00:47:12] unnecessary for some product, man. Not
+[00:47:14] going to lie, totally unnecessary. Um,
+[00:47:16] fashion, perfect example. You could make
+[00:47:19] a V a VSSL work for fashion,
+[00:47:23] but so
+[00:47:25] unnecessary. But refer to what I was
+[00:47:27] talking about with like the, you know,
+[00:47:30] uh, image ads versus video
+[00:47:33] ads. So, go back a little bit in the
+[00:47:35] live if you don't remember
+[00:47:37] that. Best way to keep CPMs low at a
+[00:47:40] start. I mean, warm up the ad account,
+[00:47:42] warm up the page. It's going to be your
+[00:47:43] best bet.
+[00:47:56] Avo Mark, do all the concepts you talk
+[00:47:58] about relating to paid ads transfer over
+[00:48:00] fully to organic or there are any
+[00:48:02] notable differences? So, there actually
+[00:48:04] there actually is uh some notable
+[00:48:06] differences, man. Exactly what I said
+[00:48:08] previously
+[00:48:09] because with ads you have to always have
+[00:48:12] the conversion in mind, the sale in
+[00:48:15] mind. A lot of times you can get views
+[00:48:19] on an organic video and still make some
+[00:48:21] money, but if you're not getting
+[00:48:23] conversions and that's like a serious
+[00:48:24] problem. You need conversions from day
+[00:48:25] one with ads.
+[00:48:32] Bruce Willis
+[00:48:37] disp hopefully I got that name right.
+[00:48:39] Avatar work well for info products
+[00:48:41] especially for trip wires leading to
+[00:48:42] higher ticket. Uh you had me until you
+[00:48:45] said higher ticket. Um so I was going to
+[00:48:48] say yes but like especially for trip
+[00:48:50] wires leading to higher ticket. If
+[00:48:52] you're doing higher ticket, I would just
+[00:48:53] do like optin page to VSSL
+[00:48:56] or yeah, you can still use like
+[00:48:58] pre-sales pages, like prevsl pages, like
+[00:49:01] a jump page maybe, but
+[00:49:04] going yeah, using like an
+[00:49:08] avitorial for high ticket, I probably
+[00:49:10] wouldn't do it. Not to say that it can't
+[00:49:12] work. I'm sure some people have done it
+[00:49:14] successfully, but those are typically
+[00:49:16] more for like the lower emotional state,
+[00:49:18] you know, audiences.
+[00:49:21] Um, oh, great question here. Mark, will
+[00:49:23] she text me
+[00:49:28] back? That depends, man. Are you worth
+[00:49:30] texting
+[00:49:34] back? Universe is a
+[00:49:40] mirror. All right.
+[00:49:45] Uh, let's end let's end on a good one
+[00:49:48] here.
+[00:50:01] Uh, all right. So, I I can end on this
+[00:50:03] one because this is a this is a
+[00:50:05] interesting one for me. So, I see some
+[00:50:07] of you guys asking about like, "Mark,
+[00:50:09] who do you think about, you know, Samir?
+[00:50:10] Who do you think about or what do you
+[00:50:12] think about this person, that person?"
+[00:50:14] Uh, dude, I live under a [ __ ] rock.
+[00:50:18] I barely see the sun. I concern myself
+[00:50:22] with my skill set and not a whole lot
+[00:50:32] else. So, in terms of like what do you
+[00:50:35] think of this guy? I I don't know, man.
+[00:50:37] I stay in my own [ __ ]
+[00:50:38] lane. I really do. Like, I
+[00:50:41] just I just
+[00:50:43] do. I'm sure he's a good guy. I don't
+[00:50:45] know.
+[00:50:55] Bro said, "Yeah, but I lowkey messed
+[00:50:57] up." [ __ ] happens, man. [ __ ] happens.
+[00:51:00] Sometimes you just got to take the L and
+[00:51:02] move on,
+[00:51:04] dude. That's all life is, man. Remember,
+[00:51:07] it's all about learning. And if it's
+[00:51:09] really in the cards, the person will
+[00:51:10] come back for
+[00:51:12] you. David Quan, Mark, do you care about
+[00:51:15] Rolexes?
+[00:51:16] I don't give a flying [ __ ] about
+[00:51:18] Rolexes,
+[00:51:25] bro. All right, guys. That was a blast.
+[00:51:28] I got to run because I got some other
+[00:51:29] [ __ ] to do.
+[00:51:31] Um, but I appreciate all you guys. This
+[00:51:34] been a good live, man. I'm gonna I'll
+[00:51:36] get back to doing them regularly, pretty
+[00:51:38] soon. Likely next week. Honestly, part
+[00:51:40] of the reason I I haven't gone live
+[00:51:41] because I [ __ ] hate this background,
+[00:51:43] bro. I want to be in the dark. [ __ ]
+[00:51:46] sunlight distracting me. All right,
+[00:51:48] anyways guys, have a great one. Peace.

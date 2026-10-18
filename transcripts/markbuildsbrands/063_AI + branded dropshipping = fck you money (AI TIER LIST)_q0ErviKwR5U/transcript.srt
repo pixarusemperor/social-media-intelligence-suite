@@ -1,0 +1,2168 @@
+1
+00:00:00,000 --> 00:00:03,600
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,600 --> 00:00:04,800
+going to be ranking the best AI tools
+
+3
+00:00:03,600 --> 00:00:06,800
+that you can use for branded drop
+
+4
+00:00:04,800 --> 00:00:08,400
+shipping right now in 2025. We're
+
+5
+00:00:06,800 --> 00:00:09,600
+literally existing in an AI revolution
+
+6
+00:00:08,400 --> 00:00:11,280
+right now. And if you're not taking full
+
+7
+00:00:09,600 --> 00:00:12,240
+advantage and just obsessing over this
+
+8
+00:00:11,280 --> 00:00:14,240
+stuff, then you're just not going to
+
+9
+00:00:12,240 --> 00:00:16,640
+make it. First up, we have Claude.
+
+10
+00:00:14,240 --> 00:00:18,480
+Claude is an LLM, large language model,
+
+11
+00:00:16,640 --> 00:00:19,920
+that was developed by the company called
+
+12
+00:00:18,480 --> 00:00:22,000
+Anthropic. And I'm specifically
+
+13
+00:00:19,920 --> 00:00:24,080
+referring to Claude 3.7 Sonnet. Now,
+
+14
+00:00:22,000 --> 00:00:25,600
+Claude is really, really good for very
+
+15
+00:00:24,080 --> 00:00:27,120
+specific things and then really, really,
+
+16
+00:00:25,600 --> 00:00:28,480
+really, really bad at other very
+
+17
+00:00:27,120 --> 00:00:29,920
+specific things. So you'll notice like
+
+18
+00:00:28,480 --> 00:00:31,520
+when I'm ranking all these tools, some
+
+19
+00:00:29,920 --> 00:00:32,800
+of them are great for one thing, but
+
+20
+00:00:31,520 --> 00:00:34,880
+they're just dog [ __ ] at everything
+
+21
+00:00:32,800 --> 00:00:37,600
+else. Claude is really really good at
+
+22
+00:00:34,880 --> 00:00:39,520
+specifically writing creative copy. So
+
+23
+00:00:37,600 --> 00:00:41,040
+when it comes to direct response copy, a
+
+24
+00:00:39,520 --> 00:00:42,160
+lot of these really really intelligent
+
+25
+00:00:41,040 --> 00:00:44,160
+models, like if you think of something
+
+26
+00:00:42,160 --> 00:00:46,160
+like Gemini, which typically ranks like
+
+27
+00:00:44,160 --> 00:00:47,440
+the highest out of any LLM in terms of
+
+28
+00:00:46,160 --> 00:00:48,960
+just like pure intelligence, they're not
+
+29
+00:00:47,440 --> 00:00:50,640
+always the best in terms of copywriting
+
+30
+00:00:48,960 --> 00:00:52,240
+just right out of the box. But Claude is
+
+31
+00:00:50,640 --> 00:00:53,440
+one where even if you're just dog [ __ ]
+
+32
+00:00:52,240 --> 00:00:55,920
+prompting it, you're still going to get
+
+33
+00:00:53,440 --> 00:00:58,000
+relatively good outputs from it. What I
+
+34
+00:00:55,920 --> 00:00:59,760
+typically use this for is writing ad
+
+35
+00:00:58,000 --> 00:01:01,200
+scripts, writing hooks, and not using
+
+36
+00:00:59,760 --> 00:01:03,040
+anything intelligent, but really tapping
+
+37
+00:01:01,200 --> 00:01:04,880
+into that creativity aspect. Because
+
+38
+00:01:03,040 --> 00:01:06,480
+when I compare Claude to something like
+
+39
+00:01:04,880 --> 00:01:08,640
+uh, you know, for example, OpenAI's new
+
+40
+00:01:06,480 --> 00:01:10,000
+model 4.1, which is really, really
+
+41
+00:01:08,640 --> 00:01:11,280
+solid, pretty good at creative writing
+
+42
+00:01:10,000 --> 00:01:13,120
+as well. I actually think that Claude is
+
+43
+00:01:11,280 --> 00:01:14,880
+superior. And I split tested this across
+
+44
+00:01:13,120 --> 00:01:16,640
+a variety of different types of copy,
+
+45
+00:01:14,880 --> 00:01:18,160
+landing pages, ads, etc. Claude was
+
+46
+00:01:16,640 --> 00:01:19,680
+king, but it's not the best. Really,
+
+47
+00:01:18,160 --> 00:01:21,280
+really good, but I've actually found new
+
+48
+00:01:19,680 --> 00:01:22,480
+solutions that are even better. So, for
+
+49
+00:01:21,280 --> 00:01:23,920
+that reason, Claude is really, really
+
+50
+00:01:22,480 --> 00:01:25,600
+solid. We're going to put Claude in the
+
+51
+00:01:23,920 --> 00:01:28,320
+A tier. Next up on the list, we have
+
+52
+00:01:25,600 --> 00:01:29,760
+Cling AI. Now, Cling AI is once again
+
+53
+00:01:28,320 --> 00:01:31,760
+really, really good at one very specific
+
+54
+00:01:29,760 --> 00:01:33,360
+thing. That is taking an image and
+
+55
+00:01:31,760 --> 00:01:35,520
+turning it into a very, very high
+
+56
+00:01:33,360 --> 00:01:37,680
+quality video. And so, the main purpose
+
+57
+00:01:35,520 --> 00:01:39,680
+that I use Cling AI for, especially with
+
+58
+00:01:37,680 --> 00:01:41,360
+their new model 2.0, it's very, very,
+
+59
+00:01:39,680 --> 00:01:43,280
+very solid. And what I use it for is
+
+60
+00:01:41,360 --> 00:01:45,520
+I'll basically go to something like Chad
+
+61
+00:01:43,280 --> 00:01:46,880
+McKe for brand new image creation. And
+
+62
+00:01:45,520 --> 00:01:48,800
+if I want to create a new piece, for
+
+63
+00:01:46,880 --> 00:01:50,320
+example, of custom UGC content where
+
+64
+00:01:48,800 --> 00:01:52,160
+there's a creator that's holding a photo
+
+65
+00:01:50,320 --> 00:01:55,120
+of my product and I want to animate that
+
+66
+00:01:52,160 --> 00:01:56,720
+into a video, Cling is by far the best
+
+67
+00:01:55,120 --> 00:01:58,160
+way to actually do that as of right now.
+
+68
+00:01:56,720 --> 00:01:59,520
+Now, a little disclaimer right now. I'm
+
+69
+00:01:58,160 --> 00:02:01,360
+giving you guys all these AI tools. They
+
+70
+00:01:59,520 --> 00:02:02,880
+work fantastic. But the speed with which
+
+71
+00:02:01,360 --> 00:02:04,880
+AI is developing is like it's
+
+72
+00:02:02,880 --> 00:02:06,400
+unprecedented. And so what I use right
+
+73
+00:02:04,880 --> 00:02:07,840
+now is literally going to be completely
+
+74
+00:02:06,400 --> 00:02:09,040
+different in the next like 1 to 3
+
+75
+00:02:07,840 --> 00:02:10,560
+months. So take this with a grain of
+
+76
+00:02:09,040 --> 00:02:12,320
+salt and just always stay on top of it.
+
+77
+00:02:10,560 --> 00:02:13,840
+Cling is very, very good. It's not
+
+78
+00:02:12,320 --> 00:02:15,040
+perfect, right? We're still not at the
+
+79
+00:02:13,840 --> 00:02:16,400
+point where everything is going to be
+
+80
+00:02:15,040 --> 00:02:17,680
+perfect. Sometimes it still takes you a
+
+81
+00:02:16,400 --> 00:02:20,320
+few different generations to get that
+
+82
+00:02:17,680 --> 00:02:23,040
+like S tier quality video, but still for
+
+83
+00:02:20,320 --> 00:02:24,800
+AI UGC clips, not like full videos, but
+
+84
+00:02:23,040 --> 00:02:26,320
+clips is very good. It is on the
+
+85
+00:02:24,800 --> 00:02:28,320
+downside a little bit more on the costly
+
+86
+00:02:26,320 --> 00:02:29,600
+side if you make a lot a lot of runs and
+
+87
+00:02:28,320 --> 00:02:31,520
+use up a lot of tokens. So, for that
+
+88
+00:02:29,600 --> 00:02:33,760
+reason, we're going to put Cling AI as
+
+89
+00:02:31,520 --> 00:02:37,840
+well in the A tier. Next up on the list,
+
+90
+00:02:33,760 --> 00:02:39,440
+we have N8N. So, N8N is an AI agent
+
+91
+00:02:37,840 --> 00:02:41,120
+workflow and automation software.
+
+92
+00:02:39,440 --> 00:02:42,880
+Basically, what you can do is you can
+
+93
+00:02:41,120 --> 00:02:44,800
+create AI agents with it and you can
+
+94
+00:02:42,880 --> 00:02:46,640
+connect all these various LLMs together
+
+95
+00:02:44,800 --> 00:02:47,680
+into one workflow that basically works
+
+96
+00:02:46,640 --> 00:02:49,200
+around the clock. So, if you've ever
+
+97
+00:02:47,680 --> 00:02:50,800
+heard people talking about like this AI
+
+98
+00:02:49,200 --> 00:02:52,480
+agent term, there's various levels of
+
+99
+00:02:50,800 --> 00:02:54,000
+using AI. There's like just popping into
+
+100
+00:02:52,480 --> 00:02:55,440
+Chat GBT and like asking questions,
+
+101
+00:02:54,000 --> 00:02:57,360
+that's like level one. And then you move
+
+102
+00:02:55,440 --> 00:02:58,800
+to like Claude or to like Gemini, you're
+
+103
+00:02:57,360 --> 00:03:00,480
+still kind of in level one. The only
+
+104
+00:02:58,800 --> 00:03:02,560
+time that you really get to level two is
+
+105
+00:03:00,480 --> 00:03:04,640
+when you add the agent component. And
+
+106
+00:03:02,560 --> 00:03:07,040
+what makes something an AI agent is that
+
+107
+00:03:04,640 --> 00:03:08,720
+it's basically autonomous. It has agency
+
+108
+00:03:07,040 --> 00:03:10,560
+which means it'll make decisions based
+
+109
+00:03:08,720 --> 00:03:12,720
+off the inputs that you give it. So is
+
+110
+00:03:10,560 --> 00:03:14,880
+this for example an ad that should be
+
+111
+00:03:12,720 --> 00:03:16,800
+pushed to our video editing team and
+
+112
+00:03:14,880 --> 00:03:19,200
+turned into like a real actual creative
+
+113
+00:03:16,800 --> 00:03:20,720
+for example. This workflow through NAN
+
+114
+00:03:19,200 --> 00:03:22,560
+would be able to actually say yes this
+
+115
+00:03:20,720 --> 00:03:24,320
+is a good ad or no this is a good ad if
+
+116
+00:03:22,560 --> 00:03:26,080
+you prompt it correctly. One of the main
+
+117
+00:03:24,320 --> 00:03:27,440
+takeaways with AI in general is that the
+
+118
+00:03:26,080 --> 00:03:28,800
+quality of output that you get is
+
+119
+00:03:27,440 --> 00:03:30,240
+directly predicated on the quality of
+
+120
+00:03:28,800 --> 00:03:32,000
+input that you give it. And so if you're
+
+121
+00:03:30,240 --> 00:03:34,080
+complaining about oh my output from
+
+122
+00:03:32,000 --> 00:03:35,600
+Claude isn't good output from Chachi Bat
+
+123
+00:03:34,080 --> 00:03:36,880
+isn't good. No, you just suck at
+
+124
+00:03:35,600 --> 00:03:38,640
+prompting or you're just not using the
+
+125
+00:03:36,880 --> 00:03:40,800
+right model. Naden combines these tools
+
+126
+00:03:38,640 --> 00:03:42,560
+together and literally automates [ __ ]
+
+127
+00:03:40,800 --> 00:03:43,920
+So like if you're worried about AI
+
+128
+00:03:42,560 --> 00:03:45,520
+taking your job, it's not going to be
+
+129
+00:03:43,920 --> 00:03:47,520
+chatbt that takes your job. It's going
+
+130
+00:03:45,520 --> 00:03:49,040
+to be softwares like Naden. And so for
+
+131
+00:03:47,520 --> 00:03:50,400
+that reason, I'm building a lot of stuff
+
+132
+00:03:49,040 --> 00:03:51,920
+with N8 right now. We're going to put
+
+133
+00:03:50,400 --> 00:03:53,520
+this in the S tier because this is
+
+134
+00:03:51,920 --> 00:03:55,200
+literally going to be something that is
+
+135
+00:03:53,520 --> 00:03:56,320
+changing everything right now. And if
+
+136
+00:03:55,200 --> 00:03:57,680
+you're not using it, you need to learn
+
+137
+00:03:56,320 --> 00:03:59,680
+how. Next up on the list, we have Gum
+
+138
+00:03:57,680 --> 00:04:02,080
+Loop. Gum loop is very very similar to
+
+139
+00:03:59,680 --> 00:04:03,440
+N8N but it differs in one very very
+
+140
+00:04:02,080 --> 00:04:05,680
+specific way which is that it's much
+
+141
+00:04:03,440 --> 00:04:07,200
+more userfriendly right with NAND if
+
+142
+00:04:05,680 --> 00:04:08,880
+you're building a workflow like I'm not
+
+143
+00:04:07,200 --> 00:04:10,640
+a technical person I know very very
+
+144
+00:04:08,880 --> 00:04:12,160
+basic fundamentals when it comes to to
+
+145
+00:04:10,640 --> 00:04:13,520
+coding and programming I couldn't like
+
+146
+00:04:12,160 --> 00:04:14,800
+code a website from the ground up I
+
+147
+00:04:13,520 --> 00:04:16,640
+can't code applications from the ground
+
+148
+00:04:14,800 --> 00:04:18,240
+up I can't even vibe code my way there
+
+149
+00:04:16,640 --> 00:04:19,760
+if I really really wanted to right with
+
+150
+00:04:18,240 --> 00:04:21,680
+Gum Loop it's significantly more
+
+151
+00:04:19,760 --> 00:04:23,040
+userfriendly now the limitations are
+
+152
+00:04:21,680 --> 00:04:24,320
+significantly greater compared to
+
+153
+00:04:23,040 --> 00:04:26,080
+something like NADN where it's more
+
+154
+00:04:24,320 --> 00:04:27,200
+versatility however it's so user
+
+155
+00:04:26,080 --> 00:04:28,480
+friendly it's like the textbook
+
+156
+00:04:27,200 --> 00:04:30,720
+difference between a software like
+
+157
+00:04:28,480 --> 00:04:32,000
+make.com and Zap year. Like Zapier, you
+
+158
+00:04:30,720 --> 00:04:32,960
+can throw anybody in there and you're
+
+159
+00:04:32,000 --> 00:04:34,320
+just you're going to understand it
+
+160
+00:04:32,960 --> 00:04:35,600
+within like the first few hours. On the
+
+161
+00:04:34,320 --> 00:04:37,280
+other side, make obviously takes a
+
+162
+00:04:35,600 --> 00:04:38,400
+little bit of of time, a little bit of
+
+163
+00:04:37,280 --> 00:04:39,920
+coding experience to really understand
+
+164
+00:04:38,400 --> 00:04:40,960
+how it works. So, for that reason, we're
+
+165
+00:04:39,920 --> 00:04:42,640
+going to take Gum Loop. We're actually
+
+166
+00:04:40,960 --> 00:04:44,080
+going to put this in the B tier. The
+
+167
+00:04:42,640 --> 00:04:45,360
+coolest part about Gum Loop, in my
+
+168
+00:04:44,080 --> 00:04:47,600
+opinion, is that you can actually create
+
+169
+00:04:45,360 --> 00:04:49,840
+custom API integrations as long as a
+
+170
+00:04:47,600 --> 00:04:51,280
+company has API documentation. You can
+
+171
+00:04:49,840 --> 00:04:53,440
+just go in there and copy it and it'll
+
+172
+00:04:51,280 --> 00:04:55,600
+custom create a new node based off the
+
+173
+00:04:53,440 --> 00:04:56,960
+API documentation. A lot of times you're
+
+174
+00:04:55,600 --> 00:04:58,560
+limited with softwares because they
+
+175
+00:04:56,960 --> 00:04:59,760
+don't have open APIs, but as long as
+
+176
+00:04:58,560 --> 00:05:01,360
+they have the documentation, you can
+
+177
+00:04:59,760 --> 00:05:02,960
+create a custom, which is super cool.
+
+178
+00:05:01,360 --> 00:05:04,720
+And if you don't know what I just said,
+
+179
+00:05:02,960 --> 00:05:06,560
+just go do some searches on Gum Loop and
+
+180
+00:05:04,720 --> 00:05:07,840
+I'm sure you'll be just as fascinated as
+
+181
+00:05:06,560 --> 00:05:09,840
+me. Next up on the list, we have
+
+182
+00:05:07,840 --> 00:05:12,000
+Perplexity. Now, Perplexity is another
+
+183
+00:05:09,840 --> 00:05:13,680
+LLM, but specifically what I really like
+
+184
+00:05:12,000 --> 00:05:16,080
+about Perplexity is their deep research
+
+185
+00:05:13,680 --> 00:05:17,440
+model. Now, I actually just replaced
+
+186
+00:05:16,080 --> 00:05:18,720
+Perplexity with a new model that I'm
+
+187
+00:05:17,440 --> 00:05:20,400
+going to get to in just a second, but
+
+188
+00:05:18,720 --> 00:05:21,600
+this used to be my go-to for deep
+
+189
+00:05:20,400 --> 00:05:23,360
+research. When you think of deep
+
+190
+00:05:21,600 --> 00:05:25,040
+research, this is where particular LLM
+
+191
+00:05:23,360 --> 00:05:27,280
+will actually start to think about how
+
+192
+00:05:25,040 --> 00:05:28,400
+to conduct research in depth on a very
+
+193
+00:05:27,280 --> 00:05:30,160
+specific project based off the
+
+194
+00:05:28,400 --> 00:05:32,320
+instructions that you give it. And with
+
+195
+00:05:30,160 --> 00:05:34,320
+perplexity, it was significantly better
+
+196
+00:05:32,320 --> 00:05:35,920
+than Chat GBT's deep research in my
+
+197
+00:05:34,320 --> 00:05:37,280
+experience. It would go through and find
+
+198
+00:05:35,920 --> 00:05:38,960
+more sources. It would create a more
+
+199
+00:05:37,280 --> 00:05:40,000
+comprehensive and emotional report. The
+
+200
+00:05:38,960 --> 00:05:41,280
+way that I would use this most
+
+201
+00:05:40,000 --> 00:05:42,560
+specifically is for copywriting
+
+202
+00:05:41,280 --> 00:05:44,720
+research, right? I'll look at our top
+
+203
+00:05:42,560 --> 00:05:46,400
+performing ads. I'll look through Amazon
+
+204
+00:05:44,720 --> 00:05:47,840
+reviews, Reddit reviews, etc., and have
+
+205
+00:05:46,400 --> 00:05:49,680
+all that data consolidated. But
+
+206
+00:05:47,840 --> 00:05:51,360
+Perplexity actually just failed in
+
+207
+00:05:49,680 --> 00:05:52,720
+comparison to another software that I'm
+
+208
+00:05:51,360 --> 00:05:53,840
+going to get to in just one second. So,
+
+209
+00:05:52,720 --> 00:05:55,680
+for that reason, we're actually going to
+
+210
+00:05:53,840 --> 00:05:56,960
+put this at the C tier. It's probably
+
+211
+00:05:55,680 --> 00:05:58,640
+like the lowest ranking that I'm going
+
+212
+00:05:56,960 --> 00:06:00,320
+to give in this entire video. It really
+
+213
+00:05:58,640 --> 00:06:02,000
+is still quite good. It's just
+
+214
+00:06:00,320 --> 00:06:03,280
+developing so quickly. There's already
+
+215
+00:06:02,000 --> 00:06:04,240
+something better. And when I talk about
+
+216
+00:06:03,280 --> 00:06:06,000
+something that's better, what I'm
+
+217
+00:06:04,240 --> 00:06:08,160
+talking about is Gemini. Now, this is
+
+218
+00:06:06,000 --> 00:06:09,680
+Google's main LLM that they've been
+
+219
+00:06:08,160 --> 00:06:11,440
+working on. I believe it's the first
+
+220
+00:06:09,680 --> 00:06:13,200
+what's called omnimodal model which
+
+221
+00:06:11,440 --> 00:06:14,800
+means not only is it an LLM which can
+
+222
+00:06:13,200 --> 00:06:16,880
+like manage all these these texts but it
+
+223
+00:06:14,800 --> 00:06:18,720
+can also analyze image and video and
+
+224
+00:06:16,880 --> 00:06:20,400
+voice. So it can like combine all these
+
+225
+00:06:18,720 --> 00:06:22,400
+things together which is insane but
+
+226
+00:06:20,400 --> 00:06:25,280
+what's really insane is just how
+
+227
+00:06:22,400 --> 00:06:27,600
+intelligent the the the deep researches
+
+228
+00:06:25,280 --> 00:06:29,280
+within Gemini just fair comparison right
+
+229
+00:06:27,600 --> 00:06:30,800
+I ran the exact same prompt for
+
+230
+00:06:29,280 --> 00:06:33,120
+copyrightiting research through Gemini
+
+231
+00:06:30,800 --> 00:06:35,280
+and also through Perplexity. Perplexity
+
+232
+00:06:33,120 --> 00:06:37,360
+gave me I think around 50 to 60
+
+233
+00:06:35,280 --> 00:06:38,960
+different sources pretty solid report.
+
+234
+00:06:37,360 --> 00:06:40,640
+It ended up being around six six or
+
+235
+00:06:38,960 --> 00:06:42,400
+seven pages worth of research. Exact
+
+236
+00:06:40,640 --> 00:06:45,920
+same prompt I put into Gemini. Gemini
+
+237
+00:06:42,400 --> 00:06:47,440
+gave me 226 sources and 36 pages of
+
+238
+00:06:45,920 --> 00:06:49,120
+research. And I read every single
+
+239
+00:06:47,440 --> 00:06:50,720
+[ __ ] page because it is
+
+240
+00:06:49,120 --> 00:06:52,320
+actually very very good. I really wanted
+
+241
+00:06:50,720 --> 00:06:54,960
+to see which was the best. And Gemini,
+
+242
+00:06:52,320 --> 00:06:56,880
+specifically Gemini 2.5 Pro Experimental
+
+243
+00:06:54,960 --> 00:07:00,160
+is really, really solid. And honestly,
+
+244
+00:06:56,880 --> 00:07:02,480
+it's probably my go-to LLM right now for
+
+245
+00:07:00,160 --> 00:07:04,160
+just regular day-to-day tasks. And so
+
+246
+00:07:02,480 --> 00:07:05,600
+the only downside to this is potentially
+
+247
+00:07:04,160 --> 00:07:06,880
+the cost. It can get a little bit
+
+248
+00:07:05,600 --> 00:07:08,800
+costly, especially at scale if you're
+
+249
+00:07:06,880 --> 00:07:10,160
+using automations and workflows, but
+
+250
+00:07:08,800 --> 00:07:11,760
+it's still so freaking good. For that
+
+251
+00:07:10,160 --> 00:07:13,680
+reason, this one is going to be going
+
+252
+00:07:11,760 --> 00:07:15,600
+into the S tier. Next up on the list, we
+
+253
+00:07:13,680 --> 00:07:17,360
+have Grock. Obviously, this is the the
+
+254
+00:07:15,600 --> 00:07:19,200
+AI model that's associated with Elon
+
+255
+00:07:17,360 --> 00:07:21,040
+Musk with X and with, you know, all that
+
+256
+00:07:19,200 --> 00:07:22,240
+[ __ ] And it's very very good. I'm not
+
+257
+00:07:21,040 --> 00:07:24,400
+going to lie to you. If you look at the
+
+258
+00:07:22,240 --> 00:07:25,920
+ranking of the intelligence of these
+
+259
+00:07:24,400 --> 00:07:28,000
+models, it typically ranks pretty high
+
+260
+00:07:25,920 --> 00:07:29,360
+and it's not super costly. I have used
+
+261
+00:07:28,000 --> 00:07:31,040
+the deep research and the deeper
+
+262
+00:07:29,360 --> 00:07:32,000
+research functions within Grock. And to
+
+263
+00:07:31,040 --> 00:07:33,680
+be honest with you, I was a little
+
+264
+00:07:32,000 --> 00:07:34,960
+disappointed and I was also disappointed
+
+265
+00:07:33,680 --> 00:07:36,880
+in the creativity when it came to
+
+266
+00:07:34,960 --> 00:07:38,640
+writing copy. Beyond that, I haven't
+
+267
+00:07:36,880 --> 00:07:40,400
+used Grock a lot. So if you guys have
+
+268
+00:07:38,640 --> 00:07:41,280
+specific applications and use cases for
+
+269
+00:07:40,400 --> 00:07:42,960
+Grock, you can let me know in the
+
+270
+00:07:41,280 --> 00:07:44,320
+comments, but for me, I basically never
+
+271
+00:07:42,960 --> 00:07:46,240
+use this. And for that reason, we're
+
+272
+00:07:44,320 --> 00:07:48,960
+going to put this at the C tier. Next up
+
+273
+00:07:46,240 --> 00:07:50,480
+on the list, we have Pika. Now, Pika is
+
+274
+00:07:48,960 --> 00:07:52,480
+my newest fascination when it comes to
+
+275
+00:07:50,480 --> 00:07:54,800
+AI tools where you can take any image or
+
+276
+00:07:52,480 --> 00:07:56,400
+video, basically add new visual elements
+
+277
+00:07:54,800 --> 00:07:57,680
+to that video. For example, you see me
+
+278
+00:07:56,400 --> 00:07:59,200
+recording this YouTube video right now.
+
+279
+00:07:57,680 --> 00:08:00,720
+If I were using Pika, I can have just
+
+280
+00:07:59,200 --> 00:08:01,840
+like a dragon just randomly appear
+
+281
+00:08:00,720 --> 00:08:03,600
+behind me and it's going to be
+
+282
+00:08:01,840 --> 00:08:05,040
+completely seamless, flawless, and you
+
+283
+00:08:03,600 --> 00:08:06,240
+wouldn't even be able to to tell that
+
+284
+00:08:05,040 --> 00:08:07,760
+dragons aren't even actually [ __ ]
+
+285
+00:08:06,240 --> 00:08:09,200
+real. That's how good it is. It's really
+
+286
+00:08:07,760 --> 00:08:10,800
+good. Now, in terms of practical
+
+287
+00:08:09,200 --> 00:08:12,560
+applications into business and into
+
+288
+00:08:10,800 --> 00:08:13,920
+e-commerce, there's only a few that I've
+
+289
+00:08:12,560 --> 00:08:15,760
+personally seen. What I'll do is I'll
+
+290
+00:08:13,920 --> 00:08:17,200
+take a piece specifically of UGC
+
+291
+00:08:15,760 --> 00:08:18,880
+content, and if there's something that's
+
+292
+00:08:17,200 --> 00:08:20,400
+not really the way that I want it to be
+
+293
+00:08:18,880 --> 00:08:21,680
+with the UGC content, like something is
+
+294
+00:08:20,400 --> 00:08:23,040
+just a little bit off or the background
+
+295
+00:08:21,680 --> 00:08:24,640
+is off or something with the speakers
+
+296
+00:08:23,040 --> 00:08:25,920
+off, I want to like add glasses on the
+
+297
+00:08:24,640 --> 00:08:27,680
+creator, for example, that's something
+
+298
+00:08:25,920 --> 00:08:29,120
+that Pika can do. It's very solid for
+
+299
+00:08:27,680 --> 00:08:30,720
+that reason. In terms of the overall
+
+300
+00:08:29,120 --> 00:08:32,480
+value ad, it's more of just like a cool
+
+301
+00:08:30,720 --> 00:08:33,680
+tool to use. Like if you get an account,
+
+302
+00:08:32,480 --> 00:08:35,360
+you'll just probably just play around
+
+303
+00:08:33,680 --> 00:08:36,880
+with it for fun. But practical
+
+304
+00:08:35,360 --> 00:08:38,080
+applications, I think it lacks a little
+
+305
+00:08:36,880 --> 00:08:40,960
+bit. So for that reason, we're going to
+
+306
+00:08:38,080 --> 00:08:42,960
+put Pika in the B tier. Next up on the
+
+307
+00:08:40,960 --> 00:08:45,280
+list, we have OpenAI and specifically
+
+308
+00:08:42,960 --> 00:08:46,960
+all their Chad CBT models. Now OpenAI
+
+309
+00:08:45,280 --> 00:08:49,200
+recently, literally last week, launched
+
+310
+00:08:46,960 --> 00:08:51,600
+a few new models that are the most
+
+311
+00:08:49,200 --> 00:08:52,800
+intelligent and lowcost and fastest
+
+312
+00:08:51,600 --> 00:08:53,920
+models that they've ever produced in
+
+313
+00:08:52,800 --> 00:08:55,520
+history of the company. What I'm
+
+314
+00:08:53,920 --> 00:08:58,800
+referring to specifically is the 03 and
+
+315
+00:08:55,520 --> 00:09:01,440
+04 models within chatb and also their
+
+316
+00:08:58,800 --> 00:09:04,080
+new 4.1 model which is going to trump
+
+317
+00:09:01,440 --> 00:09:05,360
+the existing 4.5 model. So for me chat
+
+318
+00:09:04,080 --> 00:09:06,320
+is basically like all reliable, you
+
+319
+00:09:05,360 --> 00:09:08,400
+know, it's always there when you need
+
+320
+00:09:06,320 --> 00:09:10,400
+it. If I do want like something really
+
+321
+00:09:08,400 --> 00:09:11,680
+really quick, I have keyboard shortcuts.
+
+322
+00:09:10,400 --> 00:09:13,280
+So if I need something really really
+
+323
+00:09:11,680 --> 00:09:15,600
+quickly, I'll just pop open a chatbt
+
+324
+00:09:13,280 --> 00:09:17,200
+window. Now for anything that involves
+
+325
+00:09:15,600 --> 00:09:18,800
+advanced reasoning where you need a
+
+326
+00:09:17,200 --> 00:09:20,800
+larger context window, which means like
+
+327
+00:09:18,800 --> 00:09:23,040
+if you want to send a lot a lot of data
+
+328
+00:09:20,800 --> 00:09:24,560
+into chatbt, I wouldn't use it. I would
+
+329
+00:09:23,040 --> 00:09:26,320
+go into something like Gemini because it
+
+330
+00:09:24,560 --> 00:09:28,240
+has a significantly greater context
+
+331
+00:09:26,320 --> 00:09:30,400
+window. Typically a little bit better at
+
+332
+00:09:28,240 --> 00:09:32,000
+reasoning and honestly for copywriting
+
+333
+00:09:30,400 --> 00:09:33,920
+purposes I don't use it a lot either
+
+334
+00:09:32,000 --> 00:09:35,760
+there I would go to something like
+
+335
+00:09:33,920 --> 00:09:36,880
+Lauder even the Gemini if you prompt it
+
+336
+00:09:35,760 --> 00:09:38,400
+well enough Gemini could be really
+
+337
+00:09:36,880 --> 00:09:40,720
+really good for writing copy. So use
+
+338
+00:09:38,400 --> 00:09:42,400
+cases here just general allrounder you
+
+339
+00:09:40,720 --> 00:09:44,240
+know it's like the it's like your daily
+
+340
+00:09:42,400 --> 00:09:45,920
+driver you know but for specific use
+
+341
+00:09:44,240 --> 00:09:46,880
+cases I always go to other softwares
+
+342
+00:09:45,920 --> 00:09:48,640
+that I've shown you on this list
+
+343
+00:09:46,880 --> 00:09:50,240
+already. So for that reason or reliable
+
+344
+00:09:48,640 --> 00:09:52,240
+chat sheet we're going to put this rate
+
+345
+00:09:50,240 --> 00:09:54,800
+at the A tier. Next up on the list, we
+
+346
+00:09:52,240 --> 00:09:57,200
+have Get Hooked. This is a super not
+
+347
+00:09:54,800 --> 00:09:58,640
+humble, not biased brag. Uh, but this is
+
+348
+00:09:57,200 --> 00:10:00,000
+the software that, you know, me and my
+
+349
+00:09:58,640 --> 00:10:02,000
+team have been building over the past
+
+350
+00:10:00,000 --> 00:10:03,840
+year and a half, 2 years. And this is
+
+351
+00:10:02,000 --> 00:10:05,200
+specifically applicable to if you're
+
+352
+00:10:03,840 --> 00:10:06,880
+running ads. So, if you're running ads
+
+353
+00:10:05,200 --> 00:10:08,160
+and you go to the ad library constantly,
+
+354
+00:10:06,880 --> 00:10:09,840
+you got to stop that and get yourself a
+
+355
+00:10:08,160 --> 00:10:11,280
+Get Hook subscription because you can
+
+356
+00:10:09,840 --> 00:10:12,800
+basically have significantly more
+
+357
+00:10:11,280 --> 00:10:14,240
+clarity around the ads that are
+
+358
+00:10:12,800 --> 00:10:15,840
+performing best, the ads that are
+
+359
+00:10:14,240 --> 00:10:17,360
+getting the most amount of conversions
+
+360
+00:10:15,840 --> 00:10:19,120
+for your competitors. You can analyze
+
+361
+00:10:17,360 --> 00:10:21,120
+how many creatives your competitors are
+
+362
+00:10:19,120 --> 00:10:23,040
+testing testing on a monthly basis. all
+
+363
+00:10:21,120 --> 00:10:24,160
+types of cool stuff. And once you find a
+
+364
+00:10:23,040 --> 00:10:26,320
+winning ad, you can literally recreate
+
+365
+00:10:24,160 --> 00:10:27,920
+it 100% with AI. So for that reason,
+
+366
+00:10:26,320 --> 00:10:29,040
+obviously I love Get Hooked. I am super
+
+367
+00:10:27,920 --> 00:10:30,160
+biased. That was a joke in the
+
+368
+00:10:29,040 --> 00:10:31,440
+beginning, but definitely check it out.
+
+369
+00:10:30,160 --> 00:10:33,120
+We're gonna be putting Get Hooked in the
+
+370
+00:10:31,440 --> 00:10:35,920
+S tier. Next up on the list, we have
+
+371
+00:10:33,120 --> 00:10:38,400
+Manis. Manis is the newest general AI
+
+372
+00:10:35,920 --> 00:10:40,160
+agent on the block, and it is very,
+
+373
+00:10:38,400 --> 00:10:41,680
+very, very sharp. And there's one other
+
+374
+00:10:40,160 --> 00:10:43,200
+AI agent I'm going to get to in just one
+
+375
+00:10:41,680 --> 00:10:44,960
+second that's also very good. But in
+
+376
+00:10:43,200 --> 00:10:46,400
+many cases, I actually prefer Manis for
+
+377
+00:10:44,960 --> 00:10:48,960
+one specific reason. If you guys are
+
+378
+00:10:46,400 --> 00:10:51,120
+familiar with Chachi Bet's operator
+
+379
+00:10:48,960 --> 00:10:53,040
+model or OpenAI's operator model, this
+
+380
+00:10:51,120 --> 00:10:54,400
+basically an independent AI agent that
+
+381
+00:10:53,040 --> 00:10:56,320
+you can prompt it to do whatever you
+
+382
+00:10:54,400 --> 00:10:58,400
+want and it'll literally open a cloud
+
+383
+00:10:56,320 --> 00:10:59,280
+browser and start to do everything that
+
+384
+00:10:58,400 --> 00:11:01,360
+you want it and follow your
+
+385
+00:10:59,280 --> 00:11:02,960
+instructions. Now, I think this
+
+386
+00:11:01,360 --> 00:11:05,120
+technology is going to evolve a lot. As
+
+387
+00:11:02,960 --> 00:11:07,360
+of right now, sometimes if you give it
+
+388
+00:11:05,120 --> 00:11:08,720
+your login, for example, to your Google
+
+389
+00:11:07,360 --> 00:11:10,160
+Drive and you want it to do some things
+
+390
+00:11:08,720 --> 00:11:12,320
+with your documents, it can do all of
+
+391
+00:11:10,160 --> 00:11:15,200
+that for you as long as you supply those
+
+392
+00:11:12,320 --> 00:11:17,120
+login to Manis. The problem is sometimes
+
+393
+00:11:15,200 --> 00:11:18,640
+Manis could be a little [ __ ] stupid.
+
+394
+00:11:17,120 --> 00:11:20,720
+It can't figure out some things that are
+
+395
+00:11:18,640 --> 00:11:22,240
+even relatively simple. So I think that
+
+396
+00:11:20,720 --> 00:11:23,920
+this isn't the fault of Manis. This is
+
+397
+00:11:22,240 --> 00:11:25,280
+more so just general the advancement of
+
+398
+00:11:23,920 --> 00:11:26,640
+AI and where we are in the general
+
+399
+00:11:25,280 --> 00:11:28,240
+landscape. It's still really really
+
+400
+00:11:26,640 --> 00:11:30,560
+good. And my favorite application for
+
+401
+00:11:28,240 --> 00:11:32,240
+Manis actually is anytime that I leave
+
+402
+00:11:30,560 --> 00:11:34,000
+my laptop and I'm like going to the gym
+
+403
+00:11:32,240 --> 00:11:35,520
+or I'm going to sleep, I always have a
+
+404
+00:11:34,000 --> 00:11:36,560
+prompt running while I'm sleeping or
+
+405
+00:11:35,520 --> 00:11:38,320
+while I'm working. So I'm literally
+
+406
+00:11:36,560 --> 00:11:39,520
+working even when I'm not working. It's
+
+407
+00:11:38,320 --> 00:11:41,120
+really really great for a lot of that
+
+408
+00:11:39,520 --> 00:11:42,640
+manual work that you know needs to get
+
+409
+00:11:41,120 --> 00:11:44,560
+done but you don't want to be the one
+
+410
+00:11:42,640 --> 00:11:46,480
+that actually does it. Just create some
+
+411
+00:11:44,560 --> 00:11:47,920
+type of SOP and feed it into Manis. Give
+
+412
+00:11:46,480 --> 00:11:49,440
+it the login that it needs and then
+
+413
+00:11:47,920 --> 00:11:50,800
+it'll go and execute that while you're
+
+414
+00:11:49,440 --> 00:11:52,720
+asleep. So whatever that like really
+
+415
+00:11:50,800 --> 00:11:53,920
+annoying manual work, Manis can do that.
+
+416
+00:11:52,720 --> 00:11:55,440
+The second really really cool
+
+417
+00:11:53,920 --> 00:11:57,520
+application here is that Manis can
+
+418
+00:11:55,440 --> 00:11:58,880
+actually build like web applications for
+
+419
+00:11:57,520 --> 00:12:01,520
+you and deploy them on their own
+
+420
+00:11:58,880 --> 00:12:03,200
+external URL. So, for example, I built a
+
+421
+00:12:01,520 --> 00:12:05,680
+very, very simple tool that'll basically
+
+422
+00:12:03,200 --> 00:12:07,040
+analyze and pre-validate if a specific
+
+423
+00:12:05,680 --> 00:12:08,560
+ad creative hook is going to be
+
+424
+00:12:07,040 --> 00:12:10,560
+successful before you test it. So, I'll
+
+425
+00:12:08,560 --> 00:12:12,000
+feed all my previous ad data, feed it a
+
+426
+00:12:10,560 --> 00:12:13,120
+bunch of other stuff that I don't really
+
+427
+00:12:12,000 --> 00:12:14,800
+want to get into right now, and then
+
+428
+00:12:13,120 --> 00:12:16,320
+it'll basically give it a score of how
+
+429
+00:12:14,800 --> 00:12:17,680
+likely that ad is to perform. You can
+
+430
+00:12:16,320 --> 00:12:19,280
+create applications like that without
+
+431
+00:12:17,680 --> 00:12:20,560
+knowing how to code through a tool like
+
+432
+00:12:19,280 --> 00:12:22,080
+Manis. So, for that reason, we're
+
+433
+00:12:20,560 --> 00:12:24,080
+actually going to put Manis in S tier.
+
+434
+00:12:22,080 --> 00:12:25,760
+Phenomenal, phenomenal software. Still a
+
+435
+00:12:24,080 --> 00:12:27,120
+lot to be done, of course, but I think
+
+436
+00:12:25,760 --> 00:12:28,160
+again, all these tools are only going to
+
+437
+00:12:27,120 --> 00:12:29,520
+get better. They're only going to get
+
+438
+00:12:28,160 --> 00:12:31,040
+smarter and they're only going to get
+
+439
+00:12:29,520 --> 00:12:32,800
+cheaper. We see that with every single
+
+440
+00:12:31,040 --> 00:12:34,720
+new update that's being announced. Next
+
+441
+00:12:32,800 --> 00:12:36,560
+up on the list, we have GenSpark is
+
+442
+00:12:34,720 --> 00:12:39,600
+specifically super agent within
+
+443
+00:12:36,560 --> 00:12:41,280
+GenSpark. Genpark is another general AI
+
+444
+00:12:39,600 --> 00:12:43,040
+agent that you can use to do basically
+
+445
+00:12:41,280 --> 00:12:45,040
+anything. Really cool feature that it
+
+446
+00:12:43,040 --> 00:12:47,200
+has is that it can actually call on your
+
+447
+00:12:45,040 --> 00:12:49,120
+behalf to businesses and do it
+
+448
+00:12:47,200 --> 00:12:51,040
+completely using AI. So, for example, if
+
+449
+00:12:49,120 --> 00:12:53,440
+I wanted to find the best sushi
+
+450
+00:12:51,040 --> 00:12:55,360
+restaurant within a six mile radius that
+
+451
+00:12:53,440 --> 00:12:56,480
+has a very specific type of sushi that I
+
+452
+00:12:55,360 --> 00:12:58,560
+like and I want to call and make a
+
+453
+00:12:56,480 --> 00:13:00,240
+reservation for two Thursday night at 6
+
+454
+00:12:58,560 --> 00:13:01,760
+p.m. JSmart can literally do all that.
+
+455
+00:13:00,240 --> 00:13:02,880
+It'll not only find the restaurant and
+
+456
+00:13:01,760 --> 00:13:04,720
+do all that stuff, but it'll actually
+
+457
+00:13:02,880 --> 00:13:06,640
+call to make the reservation, make sure
+
+458
+00:13:04,720 --> 00:13:07,920
+they have the specific type of sushi,
+
+459
+00:13:06,640 --> 00:13:09,440
+and then send you the confirmation
+
+460
+00:13:07,920 --> 00:13:10,880
+afterwards. So, it's really cool. You
+
+461
+00:13:09,440 --> 00:13:12,160
+can kind of listen to the call as it
+
+462
+00:13:10,880 --> 00:13:13,600
+happens as well, but they're calling on
+
+463
+00:13:12,160 --> 00:13:15,760
+your behalf. So, you have to put your
+
+464
+00:13:13,600 --> 00:13:17,760
+number in there. But GenSpark Super Asia
+
+465
+00:13:15,760 --> 00:13:19,600
+is actually phenomenally smart and
+
+466
+00:13:17,760 --> 00:13:21,280
+really really good. The one downside is
+
+467
+00:13:19,600 --> 00:13:22,800
+that it's wicked fast. And you would
+
+468
+00:13:21,280 --> 00:13:24,400
+think that's not a downside, but it is
+
+469
+00:13:22,800 --> 00:13:26,640
+because a lot of times it's not taking
+
+470
+00:13:24,400 --> 00:13:28,000
+the time to reason through specific
+
+471
+00:13:26,640 --> 00:13:30,000
+tasks in the right way. It's just like
+
+472
+00:13:28,000 --> 00:13:31,440
+speed, speed, speed. Whereas Manis will
+
+473
+00:13:30,000 --> 00:13:33,440
+take a little bit longer to complete a
+
+474
+00:13:31,440 --> 00:13:35,120
+specific task, but the infrastructure
+
+475
+00:13:33,440 --> 00:13:36,240
+with which that task is built is
+
+476
+00:13:35,120 --> 00:13:38,400
+significantly better than something like
+
+477
+00:13:36,240 --> 00:13:40,080
+GenSpark. So Genspark is still amazing.
+
+478
+00:13:38,400 --> 00:13:41,120
+I use it still every single day. And for
+
+479
+00:13:40,080 --> 00:13:42,880
+that reason, we're going to put that in
+
+480
+00:13:41,120 --> 00:13:45,280
+the A tier. And finally, last up on the
+
+481
+00:13:42,880 --> 00:13:46,960
+list, we have Make UGC. I've done a lot
+
+482
+00:13:45,280 --> 00:13:50,080
+of testing recently, guys, on the best
+
+483
+00:13:46,960 --> 00:13:52,320
+AI UGC softwares out there. And some of
+
+484
+00:13:50,080 --> 00:13:54,400
+them are really, really good. Very, very
+
+485
+00:13:52,320 --> 00:13:55,760
+few of them are great. And Make UGC, in
+
+486
+00:13:54,400 --> 00:13:57,360
+my opinion, is one that is great. I have
+
+487
+00:13:55,760 --> 00:13:58,480
+no affiliation with this company. I'm
+
+488
+00:13:57,360 --> 00:14:00,480
+actually not going to put them in the S
+
+489
+00:13:58,480 --> 00:14:01,760
+tier. Quick spoiler alert. The reason
+
+490
+00:14:00,480 --> 00:14:03,440
+why is because their videos are so
+
+491
+00:14:01,760 --> 00:14:06,080
+freaking good, but they take forever to
+
+492
+00:14:03,440 --> 00:14:08,720
+render, and they're expensive. It ends
+
+493
+00:14:06,080 --> 00:14:10,640
+up coming out to like $7 to $10 per
+
+494
+00:14:08,720 --> 00:14:12,160
+video that you make. Now, if that's
+
+495
+00:14:10,640 --> 00:14:14,080
+worth it for you, you got the budget,
+
+496
+00:14:12,160 --> 00:14:15,200
+which I do. I use them a lot. But if you
+
+497
+00:14:14,080 --> 00:14:17,040
+don't have the budget, it's not really
+
+498
+00:14:15,200 --> 00:14:18,640
+that great and you're limited to like a
+
+499
+00:14:17,040 --> 00:14:19,760
+very specific number of videos based off
+
+500
+00:14:18,640 --> 00:14:20,800
+the plan that you have, I still
+
+501
+00:14:19,760 --> 00:14:22,640
+recommend you check them out, but for
+
+502
+00:14:20,800 --> 00:14:24,880
+that reason, we're going to put Make UGC
+
+503
+00:14:22,640 --> 00:14:26,880
+in the A tier. As a final note, guys,
+
+504
+00:14:24,880 --> 00:14:28,160
+these AI tools are going to come and go,
+
+505
+00:14:26,880 --> 00:14:29,600
+but it's very, very important that you
+
+506
+00:14:28,160 --> 00:14:31,360
+stay on top of your [ __ ] with AI right
+
+507
+00:14:29,600 --> 00:14:32,240
+now. I really believe that the next 6 to
+
+508
+00:14:31,360 --> 00:14:33,840
+12 months is going to be
+
+509
+00:14:32,240 --> 00:14:35,680
+transformational, and if you're able to
+
+510
+00:14:33,840 --> 00:14:37,200
+properly apply AI to your business, you
+
+511
+00:14:35,680 --> 00:14:39,440
+can make so much [ __ ] money. Like it
+
+512
+00:14:37,200 --> 00:14:40,720
+just makes me mad even thinking about
+
+513
+00:14:39,440 --> 00:14:41,840
+how much money some of you guys going to
+
+514
+00:14:40,720 --> 00:14:43,120
+make because I want to make all of it.
+
+515
+00:14:41,840 --> 00:14:44,880
+No, in all seriousness, you need to be
+
+516
+00:14:43,120 --> 00:14:46,720
+obsessing over this, you know, as much
+
+517
+00:14:44,880 --> 00:14:48,080
+as me. And if there's any tools that I
+
+518
+00:14:46,720 --> 00:14:49,280
+missed, I'm trying to be the best at
+
+519
+00:14:48,080 --> 00:14:50,320
+this in the same way that you are. If
+
+520
+00:14:49,280 --> 00:14:51,600
+there's something that I missed, drop it
+
+521
+00:14:50,320 --> 00:14:52,720
+in the comment section below. We're all
+
+522
+00:14:51,600 --> 00:14:53,920
+trying to learn and get better. Just
+
+523
+00:14:52,720 --> 00:14:54,880
+drop it. I want to learn from you guys
+
+524
+00:14:53,920 --> 00:14:56,160
+in the same way that you learned from
+
+525
+00:14:54,880 --> 00:14:57,360
+me. Obviously, there's a lot more I
+
+526
+00:14:56,160 --> 00:14:59,360
+could have put on this list, but these
+
+527
+00:14:57,360 --> 00:15:01,040
+are the ones that I use mostly on a
+
+528
+00:14:59,360 --> 00:15:02,240
+day-to-day basis. So other than that
+
+529
+00:15:01,040 --> 00:15:04,000
+guys, if you're interested in like
+
+530
+00:15:02,240 --> 00:15:05,600
+applying these specifically to building
+
+531
+00:15:04,000 --> 00:15:06,880
+an e-commerce brand, that's everything
+
+532
+00:15:05,600 --> 00:15:08,000
+that we do inside of Brand Builders
+
+533
+00:15:06,880 --> 00:15:09,600
+Academy. So if you want to see if you're
+
+534
+00:15:08,000 --> 00:15:11,040
+a good fit, you can click the first link
+
+535
+00:15:09,600 --> 00:15:13,120
+in the description or just join my
+
+536
+00:15:11,040 --> 00:15:14,400
+Telegram. It's not as good as BBA, but
+
+537
+00:15:13,120 --> 00:15:15,760
+it's, you know, I drop a little sauce in
+
+538
+00:15:14,400 --> 00:15:17,120
+there every now and then. So if you want
+
+539
+00:15:15,760 --> 00:15:18,240
+to join that, you can check the link in
+
+540
+00:15:17,120 --> 00:15:19,280
+the description as well. Check out Get
+
+541
+00:15:18,240 --> 00:15:22,560
+Hooked. Other than that, y'all see in
+
+542
+00:15:19,280 --> 00:15:22,560
+the next video. Peace.
+

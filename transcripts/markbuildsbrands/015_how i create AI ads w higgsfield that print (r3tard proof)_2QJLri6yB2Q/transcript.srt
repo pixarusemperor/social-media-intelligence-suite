@@ -1,0 +1,2036 @@
+1
+00:00:00,000 --> 00:00:03,720
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,520 --> 00:00:05,520
+going to be going over how I make AI ads
+
+3
+00:00:03,720 --> 00:00:07,960
+on Higgsfield that print. I made this
+
+4
+00:00:05,520 --> 00:00:09,240
+process extremely simple and truthfully,
+
+5
+00:00:07,960 --> 00:00:10,520
+you just need to follow along and do
+
+6
+00:00:09,240 --> 00:00:12,000
+exactly what I do and you'll get some
+
+7
+00:00:10,520 --> 00:00:13,600
+amazing ads. And by the end of this
+
+8
+00:00:12,000 --> 00:00:15,160
+video, you should know how exactly to
+
+9
+00:00:13,600 --> 00:00:16,960
+create a little something like this in
+
+10
+00:00:15,160 --> 00:00:18,640
+under 60 seconds and as a little sneak
+
+11
+00:00:16,960 --> 00:00:19,080
+peek, a video like this in under 30
+
+12
+00:00:18,640 --> 00:00:20,720
+minutes.
+
+13
+00:00:19,080 --> 00:00:22,480
+>> Here's what doctors never tell you. When
+
+14
+00:00:20,720 --> 00:00:24,560
+you age, your body loses its That's
+
+15
+00:00:22,480 --> 00:00:26,040
+where NMN comes in. So, let's get into
+
+16
+00:00:24,560 --> 00:00:27,480
+it. Now, making ads with AI, there's
+
+17
+00:00:26,040 --> 00:00:28,880
+really two kinds of ads that you can
+
+18
+00:00:27,480 --> 00:00:30,400
+make, right? You have image ads and
+
+19
+00:00:28,880 --> 00:00:32,480
+video, right? Nothing really
+
+20
+00:00:30,400 --> 00:00:34,760
+groundbreaking there. So, let's first
+
+21
+00:00:32,480 --> 00:00:35,920
+talk about image ads. I love image ads
+
+22
+00:00:34,760 --> 00:00:38,240
+and the reason why I love them is
+
+23
+00:00:35,920 --> 00:00:40,400
+because they are super duper cheap to
+
+24
+00:00:38,240 --> 00:00:42,360
+produce. They are very very fast,
+
+25
+00:00:40,400 --> 00:00:44,320
+meaning you can produce and test a high
+
+26
+00:00:42,360 --> 00:00:46,320
+quantity of them very very quickly and
+
+27
+00:00:44,320 --> 00:00:48,480
+they allow you to test a variety of
+
+28
+00:00:46,320 --> 00:00:50,560
+different angles, messaging, avatars,
+
+29
+00:00:48,480 --> 00:00:52,640
+etc. So, you can find your core winning
+
+30
+00:00:50,560 --> 00:00:54,880
+message before you spend the time and
+
+31
+00:00:52,640 --> 00:00:56,680
+money and invest it into video ads.
+
+32
+00:00:54,880 --> 00:00:58,960
+Plus, with the stage that we're at in AI
+
+33
+00:00:56,680 --> 00:01:00,320
+now, it is so freaking easy. Like, I
+
+34
+00:00:58,960 --> 00:01:02,040
+can't even tell you. You'll see what I
+
+35
+00:01:00,320 --> 00:01:03,920
+mean. But, the ultimate purpose here
+
+36
+00:01:02,040 --> 00:01:05,960
+with image ads is you want to be able to
+
+37
+00:01:03,920 --> 00:01:07,640
+find what I call your winning sales
+
+38
+00:01:05,960 --> 00:01:09,360
+message. Everybody kind of talks about,
+
+39
+00:01:07,640 --> 00:01:10,960
+you know, winning ad this, winning ad
+
+40
+00:01:09,360 --> 00:01:12,560
+that, but the best thing that you're
+
+41
+00:01:10,960 --> 00:01:14,360
+really looking for is your winning sales
+
+42
+00:01:12,560 --> 00:01:16,960
+message because as soon as you have that
+
+43
+00:01:14,360 --> 00:01:18,720
+message, that can be transmuted into
+
+44
+00:01:16,960 --> 00:01:22,520
+videos, into different formats of
+
+45
+00:01:18,720 --> 00:01:26,000
+images, into UGC, into a VSL, into a
+
+46
+00:01:22,520 --> 00:01:28,040
+short form video, into founder UGC, into
+
+47
+00:01:26,000 --> 00:01:30,280
+all different kinds of image ads as
+
+48
+00:01:28,040 --> 00:01:32,160
+well, native statics, bottom of funnel,
+
+49
+00:01:30,280 --> 00:01:33,680
+everything you could possibly imagine.
+
+50
+00:01:32,160 --> 00:01:35,120
+And it all comes from finding your
+
+51
+00:01:33,680 --> 00:01:36,760
+winning sales message. And of course,
+
+52
+00:01:35,120 --> 00:01:38,080
+images are the fastest way to find that.
+
+53
+00:01:36,760 --> 00:01:40,520
+Now, generally speaking, there's two
+
+54
+00:01:38,080 --> 00:01:42,680
+ways that you can create winning image
+
+55
+00:01:40,520 --> 00:01:44,840
+ads. Number one is you can do what's
+
+56
+00:01:42,680 --> 00:01:46,760
+called swiping, which is where you find
+
+57
+00:01:44,840 --> 00:01:47,760
+a competitor, either direct or indirect,
+
+58
+00:01:46,760 --> 00:01:49,120
+you take their ad, use it for
+
+59
+00:01:47,760 --> 00:01:50,680
+inspiration and just create your own
+
+60
+00:01:49,120 --> 00:01:52,560
+little twist of it, which is good
+
+61
+00:01:50,680 --> 00:01:54,320
+because you get to use something that's
+
+62
+00:01:52,560 --> 00:01:55,920
+already working and proven to work, so
+
+63
+00:01:54,320 --> 00:01:58,040
+you're reducing your variables. And then
+
+64
+00:01:55,920 --> 00:01:59,720
+second is going to be new concepts. And
+
+65
+00:01:58,040 --> 00:02:01,640
+truthfully, I think that both of these
+
+66
+00:01:59,720 --> 00:02:03,720
+are equally powerful. I think new
+
+67
+00:02:01,640 --> 00:02:05,280
+concepts are relatively slept on and the
+
+68
+00:02:03,720 --> 00:02:07,440
+reason why is because most people in the
+
+69
+00:02:05,280 --> 00:02:08,800
+space only know how to copy. Like, they
+
+70
+00:02:07,440 --> 00:02:10,360
+have no ounce of originality in their
+
+71
+00:02:08,800 --> 00:02:12,680
+life, but you can use AI to be
+
+72
+00:02:10,360 --> 00:02:14,120
+originality now, all right? That's not
+
+73
+00:02:12,680 --> 00:02:15,240
+an issue anymore. Now, for this video,
+
+74
+00:02:14,120 --> 00:02:17,120
+I'm going to be covering both, all
+
+75
+00:02:15,240 --> 00:02:19,000
+right? So, let's first cover swiping.
+
+76
+00:02:17,120 --> 00:02:20,720
+Now, both of these ways of creating
+
+77
+00:02:19,000 --> 00:02:22,720
+winning image ads starts with your
+
+78
+00:02:20,720 --> 00:02:24,120
+foundational docs, which I've linked the
+
+79
+00:02:22,720 --> 00:02:26,520
+SOP that you can use to create your
+
+80
+00:02:24,120 --> 00:02:28,360
+foundational docs in the second link in
+
+81
+00:02:26,520 --> 00:02:30,360
+this video description. Basically, what
+
+82
+00:02:28,360 --> 00:02:32,160
+you're going to do is do incredibly deep
+
+83
+00:02:30,360 --> 00:02:33,400
+psychological and psychographic research
+
+84
+00:02:32,160 --> 00:02:34,920
+on your customer so that you know the
+
+85
+00:02:33,400 --> 00:02:37,040
+exact words that they speak, you know
+
+86
+00:02:34,920 --> 00:02:38,120
+their emotional hot points, you know the
+
+87
+00:02:37,040 --> 00:02:39,480
+stage of sophistication, level of
+
+88
+00:02:38,120 --> 00:02:41,800
+awareness, everything is done for you.
+
+89
+00:02:39,480 --> 00:02:43,360
+But, that is like your home. Everything
+
+90
+00:02:41,800 --> 00:02:44,720
+is going to stem from your research
+
+91
+00:02:43,360 --> 00:02:46,600
+because as we know, the greatest
+
+92
+00:02:44,720 --> 00:02:48,360
+copywriters in history all say the same
+
+93
+00:02:46,600 --> 00:02:49,480
+thing and it is true that the money's in
+
+94
+00:02:48,360 --> 00:02:50,800
+the research. But, you don't have to
+
+95
+00:02:49,480 --> 00:02:52,040
+spend hours upon hours doing that
+
+96
+00:02:50,800 --> 00:02:53,840
+anymore like you used to. Now, for
+
+97
+00:02:52,040 --> 00:02:55,120
+swiping, you have to have an ad to swipe
+
+98
+00:02:53,840 --> 00:02:56,760
+in the first place. My favorite place to
+
+99
+00:02:55,120 --> 00:02:58,200
+look for winning ads to swipe is going
+
+100
+00:02:56,760 --> 00:02:59,720
+to be Get Hooked. If you want to get a
+
+101
+00:02:58,200 --> 00:03:01,040
+subscription, I'll also leave it in the
+
+102
+00:02:59,720 --> 00:03:03,000
+description. But, what I'll look for
+
+103
+00:03:01,040 --> 00:03:04,960
+here, for example, is specifically ads
+
+104
+00:03:03,000 --> 00:03:06,800
+that are four or five stars, which is
+
+105
+00:03:04,960 --> 00:03:08,320
+winning ads, and images running
+
+106
+00:03:06,800 --> 00:03:09,960
+specifically in the English language.
+
+107
+00:03:08,320 --> 00:03:11,720
+And I'll just scroll through these until
+
+108
+00:03:09,960 --> 00:03:13,320
+I find one that I want to swipe for my
+
+109
+00:03:11,720 --> 00:03:15,160
+own market. If you want to get even more
+
+110
+00:03:13,320 --> 00:03:16,880
+granular, you could even select the the
+
+111
+00:03:15,160 --> 00:03:18,600
+exact niche that you're in here so that
+
+112
+00:03:16,880 --> 00:03:19,800
+you swipe directly from your own niche,
+
+113
+00:03:18,600 --> 00:03:21,600
+but that doesn't have to be a rule. A
+
+114
+00:03:19,800 --> 00:03:23,400
+lot of times you can find fantastic ads
+
+115
+00:03:21,600 --> 00:03:25,080
+by swiping cross niches. So, let's say
+
+116
+00:03:23,400 --> 00:03:26,880
+I'm scrolling, I really wanted to remake
+
+117
+00:03:25,080 --> 00:03:28,240
+this ad. All I'm going to do is hit
+
+118
+00:03:26,880 --> 00:03:30,520
+download media right here. We're going
+
+119
+00:03:28,240 --> 00:03:32,840
+to go over to Claude, go to the projects
+
+120
+00:03:30,520 --> 00:03:33,800
+section, select new project, name it
+
+121
+00:03:32,840 --> 00:03:35,600
+whatever you want. I'm going to be
+
+122
+00:03:33,800 --> 00:03:38,680
+selling an NMN powder, which is like a
+
+123
+00:03:35,600 --> 00:03:39,720
+NAD+ booster, apparently. For the files,
+
+124
+00:03:38,680 --> 00:03:41,080
+you're going to upload those
+
+125
+00:03:39,720 --> 00:03:43,360
+foundational docs. And for the
+
+126
+00:03:41,080 --> 00:03:45,320
+instructions, just paste in my special
+
+127
+00:03:43,360 --> 00:03:46,880
+set of instructions. If you want this
+
+128
+00:03:45,320 --> 00:03:48,760
+actual, like, word-for-word prompt,
+
+129
+00:03:46,880 --> 00:03:50,840
+exactly what to send in here, just go to
+
+130
+00:03:48,760 --> 00:03:52,440
+my Instagram at Mark Builds Brands, DM
+
+131
+00:03:50,840 --> 00:03:53,320
+me the word print and I'll send it over
+
+132
+00:03:52,440 --> 00:03:54,880
+to you for free. All right, for the
+
+133
+00:03:53,320 --> 00:03:56,480
+model, you can keep Sonnet selected.
+
+134
+00:03:54,880 --> 00:03:58,720
+This is pretty simple stuff here. And
+
+135
+00:03:56,480 --> 00:04:00,000
+just upload the image, click enter, and
+
+136
+00:03:58,720 --> 00:04:01,480
+just let it cook. That's all you got to
+
+137
+00:04:00,000 --> 00:04:02,960
+do. You don't have to send a single
+
+138
+00:04:01,480 --> 00:04:05,880
+word. Basically, what it's going to be
+
+139
+00:04:02,960 --> 00:04:07,400
+doing is first analyzing why this ad was
+
+140
+00:04:05,880 --> 00:04:09,800
+successful in the first place and then
+
+141
+00:04:07,400 --> 00:04:11,520
+second, reverse engineering every single
+
+142
+00:04:09,800 --> 00:04:13,760
+individual element of this ad from the
+
+143
+00:04:11,520 --> 00:04:15,440
+copy to the colors, everything, so that
+
+144
+00:04:13,760 --> 00:04:17,440
+it matches my brand. Now, you don't need
+
+145
+00:04:15,440 --> 00:04:18,800
+to go and actually look at what it's
+
+146
+00:04:17,440 --> 00:04:20,760
+saying word-for-word. You can scroll
+
+147
+00:04:18,800 --> 00:04:22,880
+right down to the text to image prompt
+
+148
+00:04:20,760 --> 00:04:25,600
+section because not only did it analyze
+
+149
+00:04:22,880 --> 00:04:26,440
+your entire swipe, it also made a prompt
+
+150
+00:04:25,600 --> 00:04:27,960
+so that you don't have to write one
+
+151
+00:04:26,440 --> 00:04:29,560
+yourself. So, we're going to copy and go
+
+152
+00:04:27,960 --> 00:04:32,040
+right into Higgsfield and then we're
+
+153
+00:04:29,560 --> 00:04:33,640
+going to go to the image section, select
+
+154
+00:04:32,040 --> 00:04:35,280
+create image, and make sure that you
+
+155
+00:04:33,640 --> 00:04:37,040
+have Nano Banana Pro selected. I'm going
+
+156
+00:04:35,280 --> 00:04:38,640
+to keep it 9 by 16 format with four
+
+157
+00:04:37,040 --> 00:04:40,080
+variations. I'm going to paste a prompt
+
+158
+00:04:38,640 --> 00:04:41,640
+right there. And then most importantly,
+
+159
+00:04:40,080 --> 00:04:44,000
+as you can tell by these images here, I
+
+160
+00:04:41,640 --> 00:04:46,040
+didn't do it, you want to also upload a
+
+161
+00:04:44,000 --> 00:04:47,760
+PNG of your image on a white background.
+
+162
+00:04:46,040 --> 00:04:49,040
+And we hit generate. And while those
+
+163
+00:04:47,760 --> 00:04:50,880
+images are being created, by the way,
+
+164
+00:04:49,040 --> 00:04:53,280
+the cool thing about this prompt is that
+
+165
+00:04:50,880 --> 00:04:55,240
+it also gives you adapted variations in
+
+166
+00:04:53,280 --> 00:04:56,880
+the case you want to change the copy or
+
+167
+00:04:55,240 --> 00:04:58,480
+just the layout or something like that,
+
+168
+00:04:56,880 --> 00:04:59,640
+you can just simply select one of these
+
+169
+00:04:58,480 --> 00:05:01,520
+and give the feedback directly to
+
+170
+00:04:59,640 --> 00:05:03,160
+Claude. Claude will adjust the prompt,
+
+171
+00:05:01,520 --> 00:05:05,040
+paste a new prompt, get new images. Just
+
+172
+00:05:03,160 --> 00:05:07,120
+like that, you have multiple variations
+
+173
+00:05:05,040 --> 00:05:08,920
+of that original swiped image, exactly
+
+174
+00:05:07,120 --> 00:05:10,960
+with your brand details, everything A to
+
+175
+00:05:08,920 --> 00:05:13,080
+Z. Now, look closely. Do you see any
+
+176
+00:05:10,960 --> 00:05:15,000
+text here that is misspelled? Do you see
+
+177
+00:05:13,080 --> 00:05:17,080
+anything that's off? No, it's 100%
+
+178
+00:05:15,000 --> 00:05:19,200
+perfect. That all comes down to the
+
+179
+00:05:17,080 --> 00:05:21,200
+prompting. If you ever struggle with
+
+180
+00:05:19,200 --> 00:05:22,640
+having like text being off on an image
+
+181
+00:05:21,200 --> 00:05:24,720
+or a video, it's because you didn't go
+
+182
+00:05:22,640 --> 00:05:27,200
+into enough depth on the prompt. These
+
+183
+00:05:24,720 --> 00:05:28,560
+LLMs can't extract everything from an
+
+184
+00:05:27,200 --> 00:05:30,120
+image. They can get pretty close, but if
+
+185
+00:05:28,560 --> 00:05:32,440
+you add in the details where it's
+
+186
+00:05:30,120 --> 00:05:34,480
+missing, it can create flawless images
+
+187
+00:05:32,440 --> 00:05:37,120
+and videos. Now, swiping, as we can see,
+
+188
+00:05:34,480 --> 00:05:38,640
+super duper easy, takes virtually zero
+
+189
+00:05:37,120 --> 00:05:40,400
+time whatsoever. How about new concepts?
+
+190
+00:05:38,640 --> 00:05:42,160
+Well, as I said, most of you are not
+
+191
+00:05:40,400 --> 00:05:44,440
+original, not able to think, me either,
+
+192
+00:05:42,160 --> 00:05:46,080
+you know? But, what you can do is use AI
+
+193
+00:05:44,440 --> 00:05:48,440
+to help you think. And one thing that I
+
+194
+00:05:46,080 --> 00:05:51,200
+put together on that exact same SOP,
+
+195
+00:05:48,440 --> 00:05:52,400
+again, DM me the word print on IG if you
+
+196
+00:05:51,200 --> 00:05:53,800
+want to get it. But, one thing that I
+
+197
+00:05:52,400 --> 00:05:55,720
+included, you won't be able to see this,
+
+198
+00:05:53,800 --> 00:05:59,440
+of course, but is the exact prompt that
+
+199
+00:05:55,720 --> 00:06:01,200
+you can use for ideation instead of just
+
+200
+00:05:59,440 --> 00:06:02,760
+raw swiping. Follow the exact same
+
+201
+00:06:01,200 --> 00:06:04,360
+process. You just take the prompt, plug
+
+202
+00:06:02,760 --> 00:06:05,840
+it into into Claude with with your
+
+203
+00:06:04,360 --> 00:06:06,960
+foundational docs, you get the text to
+
+204
+00:06:05,840 --> 00:06:08,480
+image prompt, send that directly to
+
+205
+00:06:06,960 --> 00:06:09,920
+Higgsfield, you get the images. It's so
+
+206
+00:06:08,480 --> 00:06:11,080
+incredibly simple, but this one is
+
+207
+00:06:09,920 --> 00:06:12,880
+completely new concepts that you've
+
+208
+00:06:11,080 --> 00:06:14,840
+never seen before. So, image ads, just
+
+209
+00:06:12,880 --> 00:06:16,480
+like that, solved, cracked, never need
+
+210
+00:06:14,840 --> 00:06:18,280
+to get any other software for the rest
+
+211
+00:06:16,480 --> 00:06:20,360
+of your life. Cool. Let's move on to
+
+212
+00:06:18,280 --> 00:06:21,720
+video ads because naturally, video ads
+
+213
+00:06:20,360 --> 00:06:23,360
+are a little bit trickier. But, even
+
+214
+00:06:21,720 --> 00:06:25,800
+with videos, the technology has gotten
+
+215
+00:06:23,360 --> 00:06:27,600
+so incredibly insane. I mean, you saw in
+
+216
+00:06:25,800 --> 00:06:29,120
+the original portion of the video where
+
+217
+00:06:27,600 --> 00:06:31,680
+I teased a little bit of the ad that I
+
+218
+00:06:29,120 --> 00:06:33,480
+made, you can do just about anything.
+
+219
+00:06:31,680 --> 00:06:34,880
+But, before I get into that, why video
+
+220
+00:06:33,480 --> 00:06:36,200
+ads in the first place? Well, video ads
+
+221
+00:06:34,880 --> 00:06:38,520
+are great number one because they're
+
+222
+00:06:36,200 --> 00:06:40,640
+typically more scalable than images.
+
+223
+00:06:38,520 --> 00:06:42,360
+Image ads can saturate very very
+
+224
+00:06:40,640 --> 00:06:44,680
+quickly. I don't know the exact reason
+
+225
+00:06:42,360 --> 00:06:46,160
+why, but I do know that in terms of how
+
+226
+00:06:44,680 --> 00:06:48,840
+much top of funnel reach that they can
+
+227
+00:06:46,160 --> 00:06:50,720
+have profitably, it's nowhere near video
+
+228
+00:06:48,840 --> 00:06:52,240
+ads. The second reason also is because
+
+229
+00:06:50,720 --> 00:06:54,200
+typically you will see also higher
+
+230
+00:06:52,240 --> 00:06:56,240
+conversion rates from videos as well.
+
+231
+00:06:54,200 --> 00:06:57,760
+It's not a total rule, but just on
+
+232
+00:06:56,240 --> 00:06:59,280
+average I would say you see higher
+
+233
+00:06:57,760 --> 00:07:01,200
+conversion rates because people are
+
+234
+00:06:59,280 --> 00:07:02,760
+consuming more. They're consuming not
+
+235
+00:07:01,200 --> 00:07:04,480
+just visually, but also through the
+
+236
+00:07:02,760 --> 00:07:06,200
+audio and you have what's called their
+
+237
+00:07:04,480 --> 00:07:07,640
+attention in isolation. Like, if you're
+
+238
+00:07:06,200 --> 00:07:09,000
+looking at an image, they're bouncing
+
+239
+00:07:07,640 --> 00:07:10,880
+around, their eyes are all over. If
+
+240
+00:07:09,000 --> 00:07:11,920
+you're looking at a video, you have 100%
+
+241
+00:07:10,880 --> 00:07:13,520
+of their attention while they're
+
+242
+00:07:11,920 --> 00:07:14,520
+watching that video, which is part of
+
+243
+00:07:13,520 --> 00:07:16,080
+the reason why the conversion rate is
+
+244
+00:07:14,520 --> 00:07:17,880
+higher. And as we know, the law of
+
+245
+00:07:16,080 --> 00:07:19,600
+consumption, the longer you can get a
+
+246
+00:07:17,880 --> 00:07:20,800
+person to interact with your brand, the
+
+247
+00:07:19,600 --> 00:07:23,000
+higher that conversion rate is going to
+
+248
+00:07:20,800 --> 00:07:25,120
+be. Now, my actual process for creating
+
+249
+00:07:23,000 --> 00:07:26,560
+winning video ads is and like I mean,
+
+250
+00:07:25,120 --> 00:07:28,440
+good video ads is is pretty
+
+251
+00:07:26,560 --> 00:07:29,920
+straightforward. It's a five-step
+
+252
+00:07:28,440 --> 00:07:31,680
+process, all right? First, you're going
+
+253
+00:07:29,920 --> 00:07:32,760
+to find a swipe. Just as a place to
+
+254
+00:07:31,680 --> 00:07:34,000
+begin with, it doesn't have to be a
+
+255
+00:07:32,760 --> 00:07:35,440
+swipe, but it's a good place to begin
+
+256
+00:07:34,000 --> 00:07:37,000
+with. Next, you're going to script the
+
+257
+00:07:35,440 --> 00:07:38,320
+ad specifically for your brand and then
+
+258
+00:07:37,000 --> 00:07:40,440
+you're going to storyboard it, which
+
+259
+00:07:38,320 --> 00:07:42,080
+means parsing out the script to match
+
+260
+00:07:40,440 --> 00:07:43,800
+with a specific video clip. Then, you
+
+261
+00:07:42,080 --> 00:07:45,480
+create the prompts to actually make
+
+262
+00:07:43,800 --> 00:07:46,760
+those individual clips. And the last
+
+263
+00:07:45,480 --> 00:07:48,680
+piece, you edit all together until you
+
+264
+00:07:46,760 --> 00:07:50,080
+have your fully formed created ad.
+
+265
+00:07:48,680 --> 00:07:51,000
+Before I actually follow this exact
+
+266
+00:07:50,080 --> 00:07:53,040
+thing step by step, you have to
+
+267
+00:07:51,000 --> 00:07:54,800
+understand that it's not even worth your
+
+268
+00:07:53,040 --> 00:07:56,880
+time running video ads unless you
+
+269
+00:07:54,800 --> 00:07:58,240
+understand this, which is 90% of your
+
+270
+00:07:56,880 --> 00:08:00,040
+success in video ads is going to come
+
+271
+00:07:58,240 --> 00:08:01,240
+down to having a really really good
+
+272
+00:08:00,040 --> 00:08:03,440
+hook, which is the first three to five
+
+273
+00:08:01,240 --> 00:08:05,560
+seconds of your video ad. But, your hook
+
+274
+00:08:03,440 --> 00:08:07,920
+is actually broken down into three
+
+275
+00:08:05,560 --> 00:08:11,000
+different pieces. The first is the copy,
+
+276
+00:08:07,920 --> 00:08:12,480
+which I would say is about 70 to 80% of
+
+277
+00:08:11,000 --> 00:08:14,640
+your success right there. Then, you have
+
+278
+00:08:12,480 --> 00:08:16,040
+the actual clip itself, which is like
+
+279
+00:08:14,640 --> 00:08:17,840
+the video, what we call the scroll
+
+280
+00:08:16,040 --> 00:08:19,280
+stopper. And then the final piece is the
+
+281
+00:08:17,840 --> 00:08:21,640
+audio in the background, which is
+
+282
+00:08:19,280 --> 00:08:23,440
+typically some sort of voiceover or just
+
+283
+00:08:21,640 --> 00:08:25,320
+directly voice from the character itself
+
+284
+00:08:23,440 --> 00:08:26,360
+or something else. That is the least of
+
+285
+00:08:25,320 --> 00:08:27,880
+your worries. The most important is
+
+286
+00:08:26,360 --> 00:08:29,960
+going to be the copy and of course, the
+
+287
+00:08:27,880 --> 00:08:32,480
+scroll stopping clip. Once you have the
+
+288
+00:08:29,960 --> 00:08:35,480
+hook of your video ad, the other two
+
+289
+00:08:32,480 --> 00:08:36,880
+pieces are very very simple, right? So,
+
+290
+00:08:35,480 --> 00:08:38,920
+first you just hook them in and get the
+
+291
+00:08:36,880 --> 00:08:40,560
+attention. Second is you create the body
+
+292
+00:08:38,920 --> 00:08:41,640
+to actually sell the freaking product
+
+293
+00:08:40,560 --> 00:08:42,640
+cuz first you just you got to get the
+
+294
+00:08:41,640 --> 00:08:44,120
+attention. If you don't have attention,
+
+295
+00:08:42,640 --> 00:08:45,440
+you don't have anything. And then you
+
+296
+00:08:44,120 --> 00:08:47,040
+use the body to actually sell the
+
+297
+00:08:45,440 --> 00:08:48,280
+product, show your mechanism, show how
+
+298
+00:08:47,040 --> 00:08:49,240
+you're different than everybody else and
+
+299
+00:08:48,280 --> 00:08:50,520
+why your product is the best thing to
+
+300
+00:08:49,240 --> 00:08:52,360
+ever touch the face of the earth. And
+
+301
+00:08:50,520 --> 00:08:54,280
+then third, throw a nice hard right
+
+302
+00:08:52,360 --> 00:08:55,640
+hook, call to action, get them on your
+
+303
+00:08:54,280 --> 00:08:57,280
+website, get them to buy. Now, let me
+
+304
+00:08:55,640 --> 00:08:58,600
+kind of break down how this process
+
+305
+00:08:57,280 --> 00:08:59,840
+works cuz it sounds like I'm just
+
+306
+00:08:58,600 --> 00:09:01,760
+throwing a bunch of random words on the
+
+307
+00:08:59,840 --> 00:09:03,280
+screen and expecting you to get it. So,
+
+308
+00:09:01,760 --> 00:09:04,760
+let me show you how this works
+
+309
+00:09:03,280 --> 00:09:06,680
+tactically, okay? The first thing you
+
+310
+00:09:04,760 --> 00:09:09,080
+want to do is of course, find a
+
+311
+00:09:06,680 --> 00:09:10,760
+competitor's ad where you can swipe the
+
+312
+00:09:09,080 --> 00:09:12,560
+transcript specifically and be able to
+
+313
+00:09:10,760 --> 00:09:14,680
+rewrite that based off of your specific
+
+314
+00:09:12,560 --> 00:09:16,120
+brand, aka your lovely foundational
+
+315
+00:09:14,680 --> 00:09:17,560
+docs. So, let's say I'm scrolling Get
+
+316
+00:09:16,120 --> 00:09:19,280
+Hooked, I found this lovely ad right
+
+317
+00:09:17,560 --> 00:09:21,480
+here. And so, now that I have the swipe
+
+318
+00:09:19,280 --> 00:09:23,400
+already, this first piece has been
+
+319
+00:09:21,480 --> 00:09:25,160
+checked off, okay? I found the swipe,
+
+320
+00:09:23,400 --> 00:09:26,840
+we're already 1/5 of the way through.
+
+321
+00:09:25,160 --> 00:09:29,040
+Now, to actually rewrite the script,
+
+322
+00:09:26,840 --> 00:09:31,520
+this is incredibly easy. All you have to
+
+323
+00:09:29,040 --> 00:09:32,920
+do is upload your foundational docs to
+
+324
+00:09:31,520 --> 00:09:35,760
+either a Claude project or just in a
+
+325
+00:09:32,920 --> 00:09:37,320
+conversation and then send the full
+
+326
+00:09:35,760 --> 00:09:39,040
+script. So, I would come to this
+
+327
+00:09:37,320 --> 00:09:40,840
+competitor, copy transcript, send it,
+
+328
+00:09:39,040 --> 00:09:42,360
+and have it rewrite it based off of your
+
+329
+00:09:40,840 --> 00:09:44,040
+specific foundational docs, your
+
+330
+00:09:42,360 --> 00:09:45,760
+research, your emotional pain points
+
+331
+00:09:44,040 --> 00:09:48,000
+with your product and your brand. Then,
+
+332
+00:09:45,760 --> 00:09:49,280
+you'll have the script. And from there,
+
+333
+00:09:48,000 --> 00:09:50,920
+you want to start the storyboarding
+
+334
+00:09:49,280 --> 00:09:52,880
+process, which is where you take one
+
+335
+00:09:50,920 --> 00:09:55,440
+individual line or two lines of your
+
+336
+00:09:52,880 --> 00:09:57,240
+script and create one clip specifically
+
+337
+00:09:55,440 --> 00:09:59,120
+for that script. That's a pretty easy
+
+338
+00:09:57,240 --> 00:10:01,680
+process. It's typically matching one
+
+339
+00:09:59,120 --> 00:10:04,000
+sentence equals one or two clips. Now,
+
+340
+00:10:01,680 --> 00:10:05,960
+the prompting process is an interesting
+
+341
+00:10:04,000 --> 00:10:07,320
+one because it's actually a two-part
+
+342
+00:10:05,960 --> 00:10:09,800
+process. The first thing that you want
+
+343
+00:10:07,320 --> 00:10:12,320
+to do is you want to generate a
+
+344
+00:10:09,800 --> 00:10:14,080
+text-to-image prompt on Claude and then
+
+345
+00:10:12,320 --> 00:10:16,840
+send that prompt into Higgs Field
+
+346
+00:10:14,080 --> 00:10:19,320
+specifically using Nano Banana Pro to
+
+347
+00:10:16,840 --> 00:10:20,800
+actually create the starting frame of
+
+348
+00:10:19,320 --> 00:10:22,640
+your video. Once you have the starting
+
+349
+00:10:20,800 --> 00:10:25,040
+frame, again, this is all done in Higgs
+
+350
+00:10:22,640 --> 00:10:26,680
+Field and after you have that individual
+
+351
+00:10:25,040 --> 00:10:30,040
+starting frame created, you're going to
+
+352
+00:10:26,680 --> 00:10:32,240
+do image-to-video using Kling 3. And you
+
+353
+00:10:30,040 --> 00:10:33,680
+have to make sure you have a good prompt
+
+354
+00:10:32,240 --> 00:10:35,760
+for the image-to-video. Like just
+
+355
+00:10:33,680 --> 00:10:37,320
+getting the image as a starting frame is
+
+356
+00:10:35,760 --> 00:10:38,520
+only half of it. You have to make sure
+
+357
+00:10:37,320 --> 00:10:39,680
+you have a really good prompt with it as
+
+358
+00:10:38,520 --> 00:10:41,480
+well, which I'll show you how to do. And
+
+359
+00:10:39,680 --> 00:10:43,440
+so after that, you'll have each
+
+360
+00:10:41,480 --> 00:10:45,800
+individual clip exactly as you want it.
+
+361
+00:10:43,440 --> 00:10:46,760
+So the prompt process is now complete
+
+362
+00:10:45,800 --> 00:10:48,320
+and then you just have to piece them
+
+363
+00:10:46,760 --> 00:10:50,240
+together, edit them, and they're good to
+
+364
+00:10:48,320 --> 00:10:51,840
+go. So now I'm going to go through an
+
+365
+00:10:50,240 --> 00:10:53,960
+example of me following this process
+
+366
+00:10:51,840 --> 00:10:55,520
+step-by-step to actually create one of
+
+367
+00:10:53,960 --> 00:10:56,640
+the clips that I made in the video. And
+
+368
+00:10:55,520 --> 00:10:58,280
+by the way, everything that I just
+
+369
+00:10:56,640 --> 00:11:00,000
+touched on, I'm going to actually go and
+
+370
+00:10:58,280 --> 00:11:02,040
+do it now. But if you want the actual
+
+371
+00:11:00,000 --> 00:11:03,320
+like step-by-step exactly what to do and
+
+372
+00:11:02,040 --> 00:11:05,800
+then you can even upload this into
+
+373
+00:11:03,320 --> 00:11:07,200
+Claude and be able to have most of this
+
+374
+00:11:05,800 --> 00:11:09,600
+done for you on autopilot, I put
+
+375
+00:11:07,200 --> 00:11:11,480
+together this full AI video ad creation
+
+376
+00:11:09,600 --> 00:11:13,000
+SOP. You can follow this to the T,
+
+377
+00:11:11,480 --> 00:11:14,120
+upload it into Claude code and have it
+
+378
+00:11:13,000 --> 00:11:15,280
+do it for you automatically. I don't
+
+379
+00:11:14,120 --> 00:11:17,520
+really care. You take it, do what you
+
+380
+00:11:15,280 --> 00:11:20,080
+want with it. Just go to my Instagram,
+
+381
+00:11:17,520 --> 00:11:21,200
+DM me the word Higgs Field, and I'll
+
+382
+00:11:20,080 --> 00:11:22,280
+send it to you for free. All right, so
+
+383
+00:11:21,200 --> 00:11:23,920
+let's go through an example of me
+
+384
+00:11:22,280 --> 00:11:25,840
+actually following this process. So
+
+385
+00:11:23,920 --> 00:11:27,960
+since I already have my script done, all
+
+386
+00:11:25,840 --> 00:11:29,640
+I need to do is take one specific line
+
+387
+00:11:27,960 --> 00:11:32,120
+and be able to feed that into Claude so
+
+388
+00:11:29,640 --> 00:11:33,560
+that I get a text-to-image prompt of
+
+389
+00:11:32,120 --> 00:11:35,440
+what that first starting frame should
+
+390
+00:11:33,560 --> 00:11:37,120
+look like. All right, so I got the exact
+
+391
+00:11:35,440 --> 00:11:38,200
+prompt from Claude. Again, to get these
+
+392
+00:11:37,120 --> 00:11:40,520
+kind of prompts, just make sure you
+
+393
+00:11:38,200 --> 00:11:42,680
+follow that SOP to the T. Copy-paste
+
+394
+00:11:40,520 --> 00:11:43,800
+over into Higgs Field, and this was the
+
+395
+00:11:42,680 --> 00:11:45,760
+output that I got here. This is
+
+396
+00:11:43,800 --> 00:11:48,320
+basically perfect. What I'm shooting for
+
+397
+00:11:45,760 --> 00:11:50,280
+here, and again, it's all in the SOP, is
+
+398
+00:11:48,320 --> 00:11:52,600
+I wanted a product shot specifically
+
+399
+00:11:50,280 --> 00:11:54,240
+showing this product in action. So now
+
+400
+00:11:52,600 --> 00:11:55,960
+that I have this image, I'm going to go
+
+401
+00:11:54,240 --> 00:11:57,920
+and download this right here, go to
+
+402
+00:11:55,960 --> 00:11:59,880
+video and select Kling 3. And now we
+
+403
+00:11:57,920 --> 00:12:01,640
+need the image-to-video prompt to
+
+404
+00:11:59,880 --> 00:12:03,600
+actually bring this to life. So you'll
+
+405
+00:12:01,640 --> 00:12:05,160
+enter a very specific portion of your
+
+406
+00:12:03,600 --> 00:12:07,120
+script. Make sure you have the prompt
+
+407
+00:12:05,160 --> 00:12:09,840
+along to go with it. So we will go right
+
+408
+00:12:07,120 --> 00:12:12,120
+here and copy. So first we're going to
+
+409
+00:12:09,840 --> 00:12:14,280
+upload this individual photo as a start
+
+410
+00:12:12,120 --> 00:12:16,240
+frame. I'm going to paste in my prompt,
+
+411
+00:12:14,280 --> 00:12:18,080
+and then I'm going to select the length
+
+412
+00:12:16,240 --> 00:12:19,720
+that I want this video to be. I believe
+
+413
+00:12:18,080 --> 00:12:20,800
+Claude said this clip was going to be 6
+
+414
+00:12:19,720 --> 00:12:22,320
+to 8 seconds. So I'm going to put it
+
+415
+00:12:20,800 --> 00:12:24,320
+right in the middle at 7 and hit
+
+416
+00:12:22,320 --> 00:12:25,480
+generate. A few minutes later, this is
+
+417
+00:12:24,320 --> 00:12:25,840
+the output that we got. Let's take a
+
+418
+00:12:25,480 --> 00:12:28,360
+look.
+
+419
+00:12:25,840 --> 00:12:30,280
+>> One scoop every morning gives your cells
+
+420
+00:12:28,360 --> 00:12:32,840
+what they've been running short on.
+
+421
+00:12:30,280 --> 00:12:34,600
+Sweet. So very simple. I think it's
+
+422
+00:12:32,840 --> 00:12:36,160
+relatively well explained. There's no
+
+423
+00:12:34,600 --> 00:12:37,760
+issues with the packaging on the
+
+424
+00:12:36,160 --> 00:12:39,720
+product. This clip is good to go. As you
+
+425
+00:12:37,760 --> 00:12:43,080
+can see, you can follow this exact same
+
+426
+00:12:39,720 --> 00:12:43,440
+process for UGC style clips exactly like
+
+427
+00:12:43,080 --> 00:12:45,800
+this.
+
+428
+00:12:43,440 --> 00:12:48,080
+>> Trust me and give it a try. You can use
+
+429
+00:12:45,800 --> 00:12:48,840
+this for scroll stoppers like I did You
+
+430
+00:12:48,080 --> 00:12:50,440
+being tired
+
+431
+00:12:48,840 --> 00:12:52,240
+>> like this where this lady's legs are
+
+432
+00:12:50,440 --> 00:12:53,280
+just gone. Like a scroll stopper should
+
+433
+00:12:52,240 --> 00:12:55,160
+be something you look at and you
+
+434
+00:12:53,280 --> 00:12:56,680
+literally have to be like, what the
+
+435
+00:12:55,160 --> 00:12:58,600
+did I just look at? So I tried to
+
+436
+00:12:56,680 --> 00:13:00,120
+capture this. This was Claude's idea
+
+437
+00:12:58,600 --> 00:13:01,400
+where her legs just kind of melted
+
+438
+00:13:00,120 --> 00:13:03,360
+because she has zero energy.
+
+439
+00:13:01,400 --> 00:13:05,520
+>> You being tired isn't about sleep,
+
+440
+00:13:03,360 --> 00:13:07,280
+stress, or genetics. And as a nice
+
+441
+00:13:05,520 --> 00:13:09,240
+little touch, what I did at the end here
+
+442
+00:13:07,280 --> 00:13:11,880
+is something else for retention. Keep
+
+443
+00:13:09,240 --> 00:13:11,880
+watching.
+
+444
+00:13:12,200 --> 00:13:14,800
+SO SOMETHING WEIRD THAT MAKES YOU SAY,
+
+445
+00:13:13,600 --> 00:13:16,120
+"WHAT THE FUCK?" Is this the best I
+
+446
+00:13:14,800 --> 00:13:17,600
+could do? No, but this was Claude's
+
+447
+00:13:16,120 --> 00:13:20,000
+idea. I think it's pretty funny. And you
+
+448
+00:13:17,600 --> 00:13:22,600
+can even follow this process for these
+
+449
+00:13:20,000 --> 00:13:24,840
+animation style clips where you have
+
+450
+00:13:22,600 --> 00:13:27,040
+animated figures talking like this. When
+
+451
+00:13:24,840 --> 00:13:29,400
+you age, your body loses its ability to
+
+452
+00:13:27,040 --> 00:13:31,120
+produce NAD+ a little molecule your
+
+453
+00:13:29,400 --> 00:13:34,120
+cells use to generate energy at a
+
+454
+00:13:31,120 --> 00:13:36,360
+biological level. There's basically zero
+
+455
+00:13:34,120 --> 00:13:37,600
+that you can't do and you can do it all
+
+456
+00:13:36,360 --> 00:13:39,400
+inside of Higgs Field because it's just
+
+457
+00:13:37,600 --> 00:13:41,200
+using the APIs from all these technology
+
+458
+00:13:39,400 --> 00:13:43,000
+and aggregating them in one place. So
+
+459
+00:13:41,200 --> 00:13:45,960
+whether you need B-roll, whether you
+
+460
+00:13:43,000 --> 00:13:48,280
+want a scroll stopper, you need regular
+
+461
+00:13:45,960 --> 00:13:50,080
+UGC, you want podcasts, everything can
+
+462
+00:13:48,280 --> 00:13:51,960
+be built here. It's just creating a
+
+463
+00:13:50,080 --> 00:13:54,280
+really good image with Nano Banana Pro
+
+464
+00:13:51,960 --> 00:13:55,880
+and having good prompting there and then
+
+465
+00:13:54,280 --> 00:13:57,240
+image-to-video with good prompting as
+
+466
+00:13:55,880 --> 00:13:59,160
+well. At this point, you have all the
+
+467
+00:13:57,240 --> 00:14:01,840
+clips created. All that's left to do is
+
+468
+00:13:59,160 --> 00:14:03,440
+just assemble them, add some captions,
+
+469
+00:14:01,840 --> 00:14:05,640
+maybe a few cuts, and you're good to go.
+
+470
+00:14:03,440 --> 00:14:07,280
+This is the final ad that I created in a
+
+471
+00:14:05,640 --> 00:14:09,920
+pretty short period of time. If you wake
+
+472
+00:14:07,280 --> 00:14:11,680
+up feeling like this and need coffee
+
+473
+00:14:09,920 --> 00:14:15,000
+after coffee just to get through the
+
+474
+00:14:11,680 --> 00:14:15,000
+day, keep watching.
+
+475
+00:14:15,480 --> 00:14:20,200
+DOCTORS never tell you about why you
+
+476
+00:14:17,600 --> 00:14:22,160
+constantly feel tired no matter how much
+
+477
+00:14:20,200 --> 00:14:24,760
+caffeine you take. When you age, your
+
+478
+00:14:22,160 --> 00:14:26,280
+body loses its ability to produce NAD+ a
+
+479
+00:14:24,760 --> 00:14:28,320
+little molecule your cells use to
+
+480
+00:14:26,280 --> 00:14:30,200
+generate energy at a biological level.
+
+481
+00:14:28,320 --> 00:14:32,480
+>> You being tired isn't about sleep,
+
+482
+00:14:30,200 --> 00:14:34,160
+stress, or genetics. Your cells are just
+
+483
+00:14:32,480 --> 00:14:36,200
+running on fumes and no amount of
+
+484
+00:14:34,160 --> 00:14:38,200
+caffeine will fix that. That's where NMN
+
+485
+00:14:36,200 --> 00:14:41,840
+comes in. It's the direct precursor your
+
+486
+00:14:38,200 --> 00:14:43,680
+body uses to produce NAD+. One scoop
+
+487
+00:14:41,840 --> 00:14:45,720
+every morning gives your cells what
+
+488
+00:14:43,680 --> 00:14:48,960
+they've been running short on.
+
+489
+00:14:45,720 --> 00:14:51,160
+No spike, no crash, just you with real
+
+490
+00:14:48,960 --> 00:14:53,520
+energy really functioning at your best.
+
+491
+00:14:51,160 --> 00:14:56,040
+Ladies, just trust me and give it a try.
+
+492
+00:14:53,520 --> 00:14:57,800
+Get your 30-day supply of NMN powder by
+
+493
+00:14:56,040 --> 00:14:59,080
+tapping the link below this video.
+
+494
+00:14:57,800 --> 00:15:00,840
+>> Now, shameless plug. If you liked all
+
+495
+00:14:59,080 --> 00:15:03,200
+this stuff, then you will love it inside
+
+496
+00:15:00,840 --> 00:15:05,800
+of BBA. I'm literally filming new
+
+497
+00:15:03,200 --> 00:15:07,920
+content this weekend specifically around
+
+498
+00:15:05,800 --> 00:15:09,520
+AI that I haven't put out anywhere. So
+
+499
+00:15:07,920 --> 00:15:10,880
+if you want to learn how to start a real
+
+500
+00:15:09,520 --> 00:15:12,320
+e-commerce brand using all these AI
+
+501
+00:15:10,880 --> 00:15:13,800
+tools, just click the first link in the
+
+502
+00:15:12,320 --> 00:15:15,600
+description and see if you're a good fit
+
+503
+00:15:13,800 --> 00:15:17,120
+for BBA. Full transparency, we don't
+
+504
+00:15:15,600 --> 00:15:18,440
+accept everybody, but if you're a good
+
+505
+00:15:17,120 --> 00:15:20,080
+fit, we will let you know. Other than
+
+506
+00:15:18,440 --> 00:15:21,120
+that, make sure you get my SOPs and
+
+507
+00:15:20,080 --> 00:15:22,720
+everything that you need to make these
+
+508
+00:15:21,120 --> 00:15:25,560
+videos, and I'll see you on the next
+
+509
+00:15:22,720 --> 00:15:25,560
+one. Peace.
+

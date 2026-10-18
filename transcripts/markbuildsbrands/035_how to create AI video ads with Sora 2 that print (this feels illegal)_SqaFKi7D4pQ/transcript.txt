@@ -1,0 +1,462 @@
+# how to create AI video ads with Sora 2 that print (this feels illegal)
+URL: https://www.youtube.com/watch?v=SqaFKi7D4pQ
+Category: video
+Duration: 752s
+Published: 20251031
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video I'm
+[00:00:01] going to show you how to make Sora 2
+[00:00:02] video ads that absolutely print. Here's
+[00:00:05] a quick sneak peek of one of the video
+[00:00:06] ads we're going to be creating today.
+[00:00:07] >> steroid creams and my eczema
+[00:00:09] >> [music]
+[00:00:10] >> It works on your face and body. Yes,
+[00:00:11] that is 100% AI, 100% Sora 2. Now, let's
+[00:00:15] get into actually how to do it and we'll
+[00:00:17] watch the full ad at the end of the
+[00:00:18] video. So, the process for creating Sora
+[00:00:20] 2 videos is very simple. It's actually
+[00:00:22] five steps. The first step is you want
+[00:00:24] to identify swipe. Next, you want to
+[00:00:25] write the script. Next is you want to
+[00:00:27] storyboard the ad and I'll explain
+[00:00:28] exactly what that is in a second. Number
+[00:00:29] four is you want to actually generate
+[00:00:31] the prompts for Sora 2 and then the
+[00:00:32] final piece is you actually generate and
+[00:00:34] create the clips on Sora 2 and piece
+[00:00:35] them together into a fully cohesive ad.
+[00:00:37] That is it. And you can do all of this
+[00:00:39] and make the ad that I just showed you
+[00:00:40] at the beginning of this video in like
+[00:00:42] under an hour, no problem. so let's
+[00:00:43] begin with the first step, which is
+[00:00:44] going to be identifying a swipe. A swipe
+[00:00:46] is literally just a ad that is running
+[00:00:48] for a competitor that is performing
+[00:00:49] very, very well that you want to
+[00:00:51] emulate. Don't rip it one-to-one. It's a
+[00:00:52] great way to get
+[00:00:54] DMCA'd and a bunch of terrible things
+[00:00:56] happen to your ad account. Don't do it.
+[00:00:57] Just identify the top-performing ads,
+[00:00:59] take inspiration, and use that to create
+[00:01:01] your new creative. So, my favorite place
+[00:01:02] to do that is my software Get Hooked. If
+[00:01:04] you want to get a trial for this, you
+[00:01:05] can click the link in the description,
+[00:01:07] but the cool part is like this is
+[00:01:08] basically the Facebook Ads Library on
+[00:01:10] steroids. And if you look over to the
+[00:01:11] left here, you can select filters to
+[00:01:13] identify specifically ads that are
+[00:01:15] winning and a bunch of other criteria.
+[00:01:16] So, for this example, I'm going to
+[00:01:18] select four and five-star ads, videos,
+[00:01:20] status is still running, language I'm
+[00:01:22] going to put English. And last thing,
+[00:01:24] you can't see it cuz my fat-ass face is
+[00:01:26] in the way, but it's going to be the
+[00:01:27] video length. I want to choose videos
+[00:01:28] that are under 1 minute long. All right,
+[00:01:30] so I select all of these pieces of
+[00:01:31] criteria. Now, let's go ahead and move
+[00:01:33] forward. All right, so I spent a little
+[00:01:34] bit of time scrolling and I found this
+[00:01:35] ad here that is a bunch of different
+[00:01:37] highly unique clips and I think it'll be
+[00:01:39] a great challenge to make this Sora 2
+[00:01:40] video about. Check it out.
+[00:01:41] >> I was so skeptical, but yes, Arctic
+[00:01:44] Planks got rid of my acne in a week. I'm
+[00:01:46] 28 and I struggled with acne for 8 years
+[00:01:49] until I found this. Now, you're not
+[00:01:51] going to find this product in a
+[00:01:51] drugstore. It's not a prescription that
+[00:01:53] comes with crazy side effects. Been
+[00:01:55] there, will never do it again.
+[00:01:56] >> It's totally natural, no harsh
+[00:01:58] chemicals, and it's stopping me from
+[00:02:00] ever taking Accutane again. You want to
+[00:02:01] get this balm? It's made from Arctic
+[00:02:03] Herbs and it's from Norse Organic. It's
+[00:02:04] extremely potent because there's no
+[00:02:06] water or fillers in it, so you just need
+[00:02:08] a small amount. And it's got sea
+[00:02:09] buckthorn extract and marigold oil in
+[00:02:11] it, which actually kills the bacteria
+[00:02:13] that causes the acne. It targets the
+[00:02:15] root cause and prevents acne from coming
+[00:02:17] back. I like the Kill Acne and Redness
+[00:02:18] Ritual because it includes this
+[00:02:20] moisturizer that literally makes my skin
+[00:02:22] glow all day long. And this scrub that's
+[00:02:24] made with rose flower that's super
+[00:02:25] gentle and clears out all my All right,
+[00:02:27] so now that we have the swipe
+[00:02:28] identified, um we can actually move on
+[00:02:30] to the next step. See how easy that was?
+[00:02:31] Boom, done. Now, the second step in the
+[00:02:33] process is going to be to actually
+[00:02:34] script the ad, which is where you take
+[00:02:36] the swipe and you take the transcript
+[00:02:37] from that and you just use AI to rewrite
+[00:02:39] it according to your specific brand
+[00:02:41] identity guidelines and what you
+[00:02:43] actually believe and stand for. Now, my
+[00:02:44] favorite process for writing AI copy is
+[00:02:47] going to be stupid easy. The first thing
+[00:02:48] you're going to want to do is go through
+[00:02:50] this foundational docs SOP, all right?
+[00:02:51] I've done this countless times on my
+[00:02:53] channel, so if you don't know how to do
+[00:02:54] it, I can't help you, but it's literally
+[00:02:56] spoon-feeding exactly what to do using
+[00:02:57] AI. And what it's doing is deep research
+[00:02:59] to understand what are the real
+[00:03:01] emotional triggers that gets your
+[00:03:02] audience to actually convert because
+[00:03:04] most people write copy at a surface
+[00:03:05] level and the reason that your ads
+[00:03:07] aren't converting is simply because the
+[00:03:08] way that you're writing is not actually
+[00:03:09] speaking to people. So, the foundational
+[00:03:10] docs process completely removes that as
+[00:03:13] an excuse for why your ads aren't
+[00:03:14] working. So, I'm going to go through
+[00:03:15] this and what'll happen is you'll get an
+[00:03:16] output of four documents, your research
+[00:03:19] doc, your avatar doc, your offer brief,
+[00:03:21] and your necessary beliefs document.
+[00:03:22] You're going to take all four of those
+[00:03:24] documents, then we're going to go to
+[00:03:25] Claude.ai. We are going to go to
+[00:03:27] projects and we are going to select new
+[00:03:30] project. You can call this project
+[00:03:31] whatever you want, just know that it's
+[00:03:32] going to be around creating the script
+[00:03:34] for your ads. Now that we're in the
+[00:03:35] project, first thing we're going to do
+[00:03:36] is go to the instructions. Now, for the
+[00:03:38] instructions, what you want to do is
+[00:03:40] take this SOP that I have here for
+[00:03:42] creating the instructions specifically
+[00:03:44] surrounding your brand and then paste it
+[00:03:46] directly into the instructions, okay?
+[00:03:48] So, if you want access to this document
+[00:03:49] that is the SOP for creating the
+[00:03:51] instructions for this Claude project, go
+[00:03:53] to my IG, it's @markbuildsbrands and DM
+[00:03:55] me the word Sora, s o r a, and I'll send
+[00:03:58] it to you along with every other
+[00:03:59] resource with this video. So, I went
+[00:04:00] through and filled this out. This is all
+[00:04:01] the details here. I'm just going to copy
+[00:04:03] this, paste it directly into the Claude
+[00:04:04] project. And then the only other thing
+[00:04:06] we have to do for this Claude project to
+[00:04:07] work is we're going to go to the files
+[00:04:09] and we're going to upload all of our
+[00:04:10] foundational documents. That is it. It's
+[00:04:13] so incredibly simple, super duper easy,
+[00:04:15] and let me show you how it works. So,
+[00:04:16] now we're going to go back to Get
+[00:04:17] Hooked, to that ad, that swipe that we
+[00:04:19] saved. We're going to go to the
+[00:04:20] transcription, which is auto-generated
+[00:04:22] by AI. We're just going to hit copy, go
+[00:04:23] over into our Claude project, going to
+[00:04:25] paste that, and then one stupidly simple
+[00:04:27] line right above it. And by the way,
+[00:04:29] this is so idiot-proof, like it's
+[00:04:31] insane. You don't need prompt
+[00:04:32] engineering skills when you have a
+[00:04:34] really solid foundation built with the
+[00:04:36] Claude project. You just don't because
+[00:04:37] you already did all of the hard work.
+[00:04:39] The foundational doc instructions, it's
+[00:04:40] already done. So, you can just talk to
+[00:04:41] it as if it's a human being that's
+[00:04:43] writing copy for you. So, for example
+[00:04:44] purposes, I literally just said, "Can
+[00:04:45] you rewrite this ad before my brand?"
+[00:04:47] Stupid simple, all right? And then
+[00:04:48] you're just going to hit enter. What
+[00:04:49] it's going to do is reference all the
+[00:04:50] knowledge in that Claude project to
+[00:04:51] rewrite your ad script from scratch
+[00:04:54] based off of a already pre-existing
+[00:04:55] proven winner. And boom, just like that,
+[00:04:58] we have the entire script. If you want,
+[00:04:59] you can go and chief it. I would highly
+[00:05:01] recommend that, but for example
+[00:05:02] purposes, I'm just going to move pretty
+[00:05:03] quickly and move to the next step. But
+[00:05:04] look at that, we literally just already
+[00:05:06] have two steps done. Now, we have to
+[00:05:07] move on to step number three, which is
+[00:05:08] storyboarding the ad. Now, the main
+[00:05:11] constraint with Sora 2, if you use it in
+[00:05:12] the platform itself, is there's a
+[00:05:14] limitation of the max length of clip
+[00:05:17] that you can use is 15 seconds, which
+[00:05:18] means if we're creating an ad in this
+[00:05:20] case that's around 60 seconds long, we
+[00:05:21] have to individually generate around
+[00:05:23] four separate Sora clips. And so, what
+[00:05:25] that means is you have to take your
+[00:05:26] script and segment it into specific
+[00:05:28] sections because each output is going to
+[00:05:30] return a specific clip that you piece
+[00:05:33] together to fully form the ad. If you
+[00:05:35] skip this step, what's going to happen
+[00:05:37] is you're going to have terrible clips,
+[00:05:38] you're going to have clips that are
+[00:05:40] trying to match like a UGC versus like a
+[00:05:42] B-roll clip and it's just not going to
+[00:05:43] look good. So, this step is incredibly
+[00:05:46] crucial, but once again, I have it
+[00:05:47] stupid simple for you guys to
+[00:05:48] understand. So, for storyboarding, all I
+[00:05:50] like to do is take my script, paste it
+[00:05:52] into a Google Doc, and segment it into
+[00:05:54] individual clips. So, for example, the
+[00:05:56] first clip is a creator walking through
+[00:05:58] a drugstore. I only have those specific
+[00:06:00] lines associated with that clip. The
+[00:06:02] second is going to be B-roll of like the
+[00:06:04] inside of a pharmacy, like a CVS. The
+[00:06:06] next is going to be a straight-up
+[00:06:07] typical UGC clip. And then the final is
+[00:06:09] going to be another UGC clip from our
+[00:06:11] main UGC creator, okay? That's it. It
+[00:06:13] doesn't need to be super complicated,
+[00:06:14] but you need to give details around
+[00:06:16] every individual clip that you're using.
+[00:06:17] And this is like storyboarding 101. You
+[00:06:19] could take it so much farther, but this
+[00:06:21] is just a good foundation for you to
+[00:06:22] understand how to actually use this
+[00:06:24] technology because if you don't
+[00:06:25] storyboard, it's not going to work very
+[00:06:27] well. And boom, just like that, we got
+[00:06:28] step number three complete. Now, we move
+[00:06:30] on to generating the prompts for Sora 2
+[00:06:33] to actually function and generate good
+[00:06:35] outputs. This is probably the most
+[00:06:36] difficult piece, but once again, I got
+[00:06:38] y'all covered. All right, let's do it.
+[00:06:39] You are going to go back to Claude. You
+[00:06:41] are going to go to projects and you are
+[00:06:42] going to create a new project once
+[00:06:43] again. This one is going to be
+[00:06:45] specifically for Sora 2 prompting, all
+[00:06:47] right? That is it. That is the sole
+[00:06:49] goal. You can call it whatever you want,
+[00:06:50] all right? Let's move on. Now, for this
+[00:06:51] project, you do not need to upload any
+[00:06:53] knowledge, but what you do need to
+[00:06:54] upload is instructions. Once again, I
+[00:06:56] have it all already laid out for you.
+[00:06:58] There is literally nothing that you need
+[00:06:59] to change about this prompt. Like you
+[00:07:01] don't need to go in and edit anything.
+[00:07:02] We're just going to copy all of it, go
+[00:07:03] into the project, and paste it. Now,
+[00:07:05] we're going to go back to our
+[00:07:06] storyboarding document and we're going
+[00:07:07] to take this first initial portion of
+[00:07:09] the script, we're going to copy it,
+[00:07:11] paste it directly into Claude right
+[00:07:12] here, and then do a few spaces. And what
+[00:07:14] you want to do is before you send this
+[00:07:15] prompt, you want to give it a little bit
+[00:07:17] of guidance and detail about the kind of
+[00:07:19] clip that you were trying to create.
+[00:07:21] Now, if I was super duper extra, I could
+[00:07:23] go into like Gemini, which is a
+[00:07:25] multimodal model, which means that it
+[00:07:26] can analyze videos, and you can have it
+[00:07:28] extract like metadata and everything
+[00:07:29] around a specific video. If you want to
+[00:07:31] do that, you totally can. What I have
+[00:07:32] found is that simplicity often works
+[00:07:34] very, very well, especially when it
+[00:07:36] comes to Sora 2. So, in this case, the
+[00:07:39] first clip is this woman walking through
+[00:07:40] a CVS. So, I would put a very basic
+[00:07:42] prompt like this. I want a young,
+[00:07:43] attractive blonde 25-year-old woman at
+[00:07:45] CVS looking at her phone camera and says
+[00:07:47] the following energetically at a fast
+[00:07:49] pace. Again, I could go deeper into
+[00:07:50] this, but simplicity is king and
+[00:07:53] creating that feedback loop where you
+[00:07:55] get a clip, you see if it's what you
+[00:07:56] want, you make adjustments, and you just
+[00:07:57] continue that process. So, we're going
+[00:07:58] to go ahead and hit enter here. We have
+[00:08:00] Opus 4.1 selected. You don't need to use
+[00:08:02] 4.1, you could totally use Claude Sonnet
+[00:08:04] and it'll do the job just fine. And as
+[00:08:05] you can see, it creates this entire kind
+[00:08:08] of prompt here that we can literally
+[00:08:09] copy and paste directly into Sora 2. So,
+[00:08:12] that's what we're going to do, all
+[00:08:13] right? But now, once again, we have this
+[00:08:15] four-step created. Now, we can move on
+[00:08:17] to the final piece, which is actually
+[00:08:18] creating the clip on Sora 2. All right,
+[00:08:21] so we're here in Sora 2. I'm going to
+[00:08:22] paste that entire long prompt directly
+[00:08:25] into Sora 2. I'm using Sora 2 Pro. It's
+[00:08:28] not necessary, but it's very easy to
+[00:08:30] remove watermarks if that's what you're
+[00:08:31] worried about. There's like a million
+[00:08:32] websites that do that. Landscape, we're
+[00:08:34] going to do portrait, resolution, we're
+[00:08:36] going to keep it at standard, and
+[00:08:37] duration at 15 seconds. So, I'm going to
+[00:08:39] hit enter and let this cook. All right,
+[00:08:40] so we got the first clip already
+[00:08:41] created. Let's take a little peek, see
+[00:08:43] how it looks.
+[00:08:43] >> Okay, so
+[00:08:45] I quit steroid creams and my eczema like
+[00:08:47] literally exploded until I found this
+[00:08:49] Nordic balm with Manuka honey that
+[00:08:50] actually heals your barrier. I'm 27 and
+[00:08:53] I've battled eczema since I was a kid.
+[00:08:55] Steroids thinned my skin and made flares
+[00:08:56] worse.
+[00:08:57] >> I have no adjustments to make to this.
+[00:08:58] This is like the very first try and this
+[00:09:00] is exactly what we got. This is perfect.
+[00:09:02] Now, let's move on to the next clip. So,
+[00:09:03] we're going to copy this portion of the
+[00:09:04] script, paste it directly into Claude
+[00:09:06] project, get a few enters, and then
+[00:09:08] write a little blurb of the exact
+[00:09:09] content that we want. Now, this clip is
+[00:09:10] not UGC. This is actually B-roll of the
+[00:09:13] inside of a pharmacy and showing like a
+[00:09:15] steroid medication on a counter, all
+[00:09:17] right? So, once again, simple prompt,
+[00:09:19] hit enter. So, we're going to take this
+[00:09:20] prompt, pop it into Sora 2, and while
+[00:09:22] that's going, let's actually move on to
+[00:09:23] the next one and do just all these
+[00:09:24] prompts at once. I believe you can run a
+[00:09:26] total of three Sora 2 generations at one
+[00:09:28] time, at least if I do more than that,
+[00:09:30] it doesn't work for me. But now, we're
+[00:09:31] getting into the actual UGC. So, same
+[00:09:33] process as always, I'm not going to show
+[00:09:35] it start to finish, but copy it, add
+[00:09:36] into Claude project, give details of
+[00:09:38] exactly what you want, then send it
+[00:09:39] directly to Sora 2. All right, so we got
+[00:09:41] our first UGC clip. Let's take a look
+[00:09:42] and see how it came out. Okay, Freya
+[00:09:43] Organics is different. It's from Norway,
+[00:09:45] made with Manuka honey that's been used
+[00:09:46] for like centuries to heal skin. It's
+[00:09:48] not watered down, it's pure concentrated
+[00:09:50] healing. The Manuka honey fights
+[00:09:52] inflammation and bacteria naturally
+[00:09:53] while Nordic Botanicals Okay, you get
+[00:09:55] the idea. This is [ __ ] insane. Let me
+[00:09:57] show you one of the other clips I made.
+[00:09:58] Now, this clip is actually some b-roll
+[00:10:00] of the product actually in use and just
+[00:10:02] take a look at the prompt here. You can
+[00:10:03] see I switched it up a little bit. With
+[00:10:04] the b-roll, it's incredibly important to
+[00:10:06] keep it stupid, stupid simple. Check
+[00:10:09] this out.
+[00:10:11] >> [snorts]
+[00:10:16] >> So, it's not perfect, but it is a
+[00:10:17] amazing clip to use in b-roll
+[00:10:20] back-to-back. You can do it in the fully
+[00:10:22] packaged product. You can do it actually
+[00:10:23] using the product. You can do it
+[00:10:24] applying the product to your face, but
+[00:10:26] then it doesn't really become b-roll.
+[00:10:27] That's actually like UGC. But at this
+[00:10:28] stage, I have completed every single
+[00:10:30] individual clip here. Let's finally put
+[00:10:33] it all together, cross this, you know,
+[00:10:34] [ __ ] off. We did all five steps and look
+[00:10:36] at the fully finished ad we created.
+[00:10:38] >> Okay, so I quit steroid creams and my
+[00:10:40] eczema like literally exploded until I
+[00:10:42] found this Nordic balm with manuka honey
+[00:10:44] that actually heals your barrier. I'm 27
+[00:10:46] and I battled eczema since I was a kid.
+[00:10:48] Steroids thin my skin and made flares
+[00:10:50] worse. Now, you're not going to find
+[00:10:52] this product in a drugstore. It's not a
+[00:10:54] prescription that comes with crazy side
+[00:10:55] effects. Been there, will never do it
+[00:10:57] again. Okay, Fraya Organics is
+[00:10:59] different. It's from Norway made with
+[00:11:00] manuka honey that's been used for like
+[00:11:02] centuries to heal skin. It's not watered
+[00:11:04] down. It's pure concentrated healing.
+[00:11:06] The manuka honey fights inflammation and
+[00:11:07] bacteria naturally while Nordic
+[00:11:09] botanicals rebuild your barrier. It
+[00:11:10] works on your face and body, absorbs
+[00:11:12] fast, and doesn't leave you feeling like
+[00:11:13] a grease turkey. After years of
+[00:11:15] disappointment, Fraya actually worked.
+[00:11:17] My flares are rare now and when they
+[00:11:19] happen, this stops them fast. 60-day
+[00:11:21] guarantee, so you literally have nothing
+[00:11:22] to lose.
+[00:11:23] >> So, that's pretty damn good. If I had to
+[00:11:25] give a complaint about this particular
+[00:11:26] creative that I made, it would be
+[00:11:28] there's very, very, very slight
+[00:11:30] variations in the character, but that
+[00:11:32] has actually been solved by Sora 2
+[00:11:33] recently. You can create custom
+[00:11:35] characters and I was just too lazy to do
+[00:11:37] it for this video, but if you download
+[00:11:38] the actual Sora 2 mobile app, you can
+[00:11:41] create unique characters and character
+[00:11:43] identities that you can continue to
+[00:11:44] reuse over and over again with
+[00:11:45] consistent characters and consistent
+[00:11:47] voices. To me, this technology is
+[00:11:49] absolutely [ __ ] insane and I think
+[00:11:52] that if you're able to use these ads and
+[00:11:54] create an ad like I just there, you are
+[00:11:56] on a great path to actually like finally
+[00:11:58] making e-com work and scaling your
+[00:12:00] brand. Now, the one caveat here is just
+[00:12:02] because you have good ads, if you're
+[00:12:03] sending all your ads to a shitty funnel,
+[00:12:05] you're not going to scale, all right?
+[00:12:06] So, that's why I built Brand Builders
+[00:12:08] Academy cuz we don't actually just show
+[00:12:09] you all this cool AI stuff with the Sora
+[00:12:11] 2 and everything, but actually the full
+[00:12:12] process A to Z, product, funnel,
+[00:12:14] creative, everything. So, if you want to
+[00:12:15] join that, you can fill out an
+[00:12:16] application below, click the first link
+[00:12:18] in the description, and we'll see if
+[00:12:19] you're a good fit. Other than that,
+[00:12:20] guys, thank you so much for watching.
+[00:12:21] Hope you enjoyed this one. This was a
+[00:12:22] long time in the making and I actually
+[00:12:24] filmed this video, I think, seven total
+[00:12:25] times, but my OBS kept crashing, so we
+[00:12:28] finally made it. Thank you so much for
+[00:12:29] watching. I'll see you on the next one.
+[00:12:30] Run more ads. Peace.

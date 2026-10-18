@@ -1,0 +1,2372 @@
+1
+00:00:00,000 --> 00:00:02,680
+Hey guys, Mark here. In this video, I'm
+
+2
+00:00:01,400 --> 00:00:04,920
+going to be showing you how I asked
+
+3
+00:00:02,680 --> 00:00:06,920
+Claude to find me a 1K per day product
+
+4
+00:00:04,920 --> 00:00:08,440
+and it worked. And the cool part is this
+
+5
+00:00:06,920 --> 00:00:10,200
+process is actually relatively simple.
+
+6
+00:00:08,440 --> 00:00:12,000
+There's only really five things that you
+
+7
+00:00:10,200 --> 00:00:13,360
+need in order to find a really solid
+
+8
+00:00:12,000 --> 00:00:15,000
+product for you to sell and actually be
+
+9
+00:00:13,360 --> 00:00:16,680
+able to scale to 1K per day. First,
+
+10
+00:00:15,000 --> 00:00:18,160
+we're going to find a market to sell to.
+
+11
+00:00:16,680 --> 00:00:20,200
+Second, we're going to identify a
+
+12
+00:00:18,160 --> 00:00:21,880
+problem specifically within that market.
+
+13
+00:00:20,200 --> 00:00:23,120
+Third, we're going to actually select
+
+14
+00:00:21,880 --> 00:00:24,880
+the actual product. You would think it
+
+15
+00:00:23,120 --> 00:00:26,480
+ends here, but it doesn't. Fourth, we
+
+16
+00:00:24,880 --> 00:00:28,400
+are actually going to validate that that
+
+17
+00:00:26,480 --> 00:00:30,000
+is the right product to sell using real
+
+18
+00:00:28,400 --> 00:00:31,720
+data. And then fifth, we're going to
+
+19
+00:00:30,000 --> 00:00:33,400
+create a game plan to actually sell it
+
+20
+00:00:31,720 --> 00:00:35,920
+successfully. Now, before you just run
+
+21
+00:00:33,400 --> 00:00:37,720
+into Claude and say, "Find me a 1K per
+
+22
+00:00:35,920 --> 00:00:39,120
+day product and make no mistakes," you
+
+23
+00:00:37,720 --> 00:00:40,760
+want to start with something a little
+
+24
+00:00:39,120 --> 00:00:42,000
+bit earlier, which is the market. The
+
+25
+00:00:40,760 --> 00:00:44,000
+market is one of these things that
+
+26
+00:00:42,000 --> 00:00:45,760
+influences how successful the product is
+
+27
+00:00:44,000 --> 00:00:47,680
+going to be way beyond the product
+
+28
+00:00:45,760 --> 00:00:49,960
+itself. This is the equivalent of
+
+29
+00:00:47,680 --> 00:00:52,080
+selling umbrellas in a thunderstorm
+
+30
+00:00:49,960 --> 00:00:53,400
+versus selling umbrellas on a bright
+
+31
+00:00:52,080 --> 00:00:54,880
+sunny day. One of them, you're going to
+
+32
+00:00:53,400 --> 00:00:56,000
+have substantially more sales, even
+
+33
+00:00:54,880 --> 00:00:58,440
+though you're technically selling the
+
+34
+00:00:56,000 --> 00:00:59,880
+same product. And that is the power of
+
+35
+00:00:58,440 --> 00:01:01,920
+the market. Most people fall into
+
+36
+00:00:59,880 --> 00:01:03,400
+product research, but in reality, you
+
+37
+00:01:01,920 --> 00:01:04,720
+should really starting with market
+
+38
+00:01:03,400 --> 00:01:06,000
+research. But, here's the good news.
+
+39
+00:01:04,720 --> 00:01:07,240
+This is actually one of the easiest
+
+40
+00:01:06,000 --> 00:01:08,840
+parts of this process. I'm really going
+
+41
+00:01:07,240 --> 00:01:10,080
+to give you a list to choose from
+
+42
+00:01:08,840 --> 00:01:12,320
+because I could say, "Oh, you need to do
+
+43
+00:01:10,080 --> 00:01:14,000
+XYZ," but in reality, we all know you
+
+44
+00:01:12,320 --> 00:01:16,400
+want some spoon-fed answer. But, this is
+
+45
+00:01:14,000 --> 00:01:18,240
+a pretty easy piece. So, here are some
+
+46
+00:01:16,400 --> 00:01:20,720
+good markets that you can choose from to
+
+47
+00:01:18,240 --> 00:01:22,120
+actually sell in. First, we have the pet
+
+48
+00:01:20,720 --> 00:01:23,680
+market. The only thing that people love
+
+49
+00:01:22,120 --> 00:01:25,120
+more than their own children is their
+
+50
+00:01:23,680 --> 00:01:26,640
+pets. Next, we have the weight loss
+
+51
+00:01:25,120 --> 00:01:28,040
+market. Most people are fat. That's a
+
+52
+00:01:26,640 --> 00:01:30,000
+problem. They want solutions. Hair
+
+53
+00:01:28,040 --> 00:01:32,160
+growth is a great market to get into and
+
+54
+00:01:30,000 --> 00:01:33,520
+honestly anything cosmetic related where
+
+55
+00:01:32,160 --> 00:01:35,760
+there can be a very clear
+
+56
+00:01:33,520 --> 00:01:37,520
+transformation, a very clear before and
+
+57
+00:01:35,760 --> 00:01:39,320
+after. For this reason, skin care, you
+
+58
+00:01:37,520 --> 00:01:41,480
+can also see is on here. Supplements is
+
+59
+00:01:39,320 --> 00:01:43,040
+a great, never-ending market to be in.
+
+60
+00:01:41,480 --> 00:01:45,240
+It can be challenging, but it is a great
+
+61
+00:01:43,040 --> 00:01:47,000
+market to be in from a long-term
+
+62
+00:01:45,240 --> 00:01:48,360
+perspective. The beauty market is great,
+
+63
+00:01:47,000 --> 00:01:50,520
+health and wellness, anything within
+
+64
+00:01:48,360 --> 00:01:53,040
+these markets and you can confidently
+
+65
+00:01:50,520 --> 00:01:54,600
+say that the market is not the reason
+
+66
+00:01:53,040 --> 00:01:56,320
+for your business to not be successful.
+
+67
+00:01:54,600 --> 00:01:58,000
+Don't overthink this piece, okay? Just
+
+68
+00:01:56,320 --> 00:01:59,800
+select a market and move on. All right,
+
+69
+00:01:58,000 --> 00:02:01,760
+now I want to talk about identifying a
+
+70
+00:01:59,800 --> 00:02:03,600
+problem. I'm a huge fan of doing problem
+
+71
+00:02:01,760 --> 00:02:06,000
+research before you do product research
+
+72
+00:02:03,600 --> 00:02:07,440
+because every top-selling product in the
+
+73
+00:02:06,000 --> 00:02:09,040
+freaking world is designed to solve a
+
+74
+00:02:07,440 --> 00:02:11,040
+problem, but it's specifically designed
+
+75
+00:02:09,040 --> 00:02:12,560
+to solve an emotional problem in a
+
+76
+00:02:11,040 --> 00:02:14,520
+passionate market. So, we already have
+
+77
+00:02:12,560 --> 00:02:16,320
+that market piece kind of covered. So,
+
+78
+00:02:14,520 --> 00:02:18,400
+now we want to work on identifying a
+
+79
+00:02:16,320 --> 00:02:20,040
+problem that we can sell to. And the
+
+80
+00:02:18,400 --> 00:02:23,080
+cool part about this is when you find
+
+81
+00:02:20,040 --> 00:02:25,520
+kind of a winning problem, you can fit
+
+82
+00:02:23,080 --> 00:02:27,480
+10, 20, a hundred different products
+
+83
+00:02:25,520 --> 00:02:29,280
+that actually tackles that one very
+
+84
+00:02:27,480 --> 00:02:31,000
+specific problem. If you take something
+
+85
+00:02:29,280 --> 00:02:33,360
+like migraines, for example, you can
+
+86
+00:02:31,000 --> 00:02:35,040
+solve that problem with supplements, you
+
+87
+00:02:33,360 --> 00:02:36,160
+can solve that problem with a band that
+
+88
+00:02:35,040 --> 00:02:37,840
+you put around your head, you can solve
+
+89
+00:02:36,160 --> 00:02:39,440
+that problem with a chiropractor visit,
+
+90
+00:02:37,840 --> 00:02:41,560
+maybe some sort of like massage gun,
+
+91
+00:02:39,440 --> 00:02:43,880
+massage therapy, something to fix your
+
+92
+00:02:41,560 --> 00:02:45,200
+neck and shin and like a traction device
+
+93
+00:02:43,880 --> 00:02:46,320
+on your neck. Like there's just endless
+
+94
+00:02:45,200 --> 00:02:48,000
+products that you can sell if you have a
+
+95
+00:02:46,320 --> 00:02:49,400
+winning problem. And this is where we're
+
+96
+00:02:48,000 --> 00:02:50,840
+going to start to use Claude. So, we're
+
+97
+00:02:49,400 --> 00:02:52,080
+going to go directly into Claude. We
+
+98
+00:02:50,840 --> 00:02:53,800
+don't need to use Fable for this. You
+
+99
+00:02:52,080 --> 00:02:55,480
+can use something like Opus 4.8. Even
+
+100
+00:02:53,800 --> 00:02:57,360
+Sonnet would be probably fine. I'm going
+
+101
+00:02:55,480 --> 00:02:58,360
+to stick with Opus cuz it's old reliable
+
+102
+00:02:57,360 --> 00:03:00,480
+at this point. And then we're going to
+
+103
+00:02:58,360 --> 00:03:01,400
+paste in this massive prompt right here.
+
+104
+00:03:00,480 --> 00:03:02,800
+By the way, guys, if you want all the
+
+105
+00:03:01,400 --> 00:03:04,320
+prompts associated with this video, just
+
+106
+00:03:02,800 --> 00:03:08,280
+go to my Instagram at Mark Builds
+
+107
+00:03:04,320 --> 00:03:10,640
+Brands. DM me the word Carl, c a r l,
+
+108
+00:03:08,280 --> 00:03:12,480
+for Magnus Carlsen, of course. And we're
+
+109
+00:03:10,640 --> 00:03:13,880
+going to hit enter. All right, so Claude
+
+110
+00:03:12,480 --> 00:03:18,000
+just finished up cooking here. We now
+
+111
+00:03:13,880 --> 00:03:19,680
+have a list of 30 emotional sub niches
+
+112
+00:03:18,000 --> 00:03:21,720
+for D2C beginner brands. So, this is
+
+113
+00:03:19,680 --> 00:03:23,360
+basically downstream from the market.
+
+114
+00:03:21,720 --> 00:03:25,240
+So, we find the market first. Now we
+
+115
+00:03:23,360 --> 00:03:26,720
+have to narrow down into specific
+
+116
+00:03:25,240 --> 00:03:29,160
+problems. So, you can see each one of
+
+117
+00:03:26,720 --> 00:03:31,280
+these is a winning problem. First, we
+
+118
+00:03:29,160 --> 00:03:32,800
+have lower back stiffness. We have neck
+
+119
+00:03:31,280 --> 00:03:35,240
+and shoulder tension. If you know
+
+120
+00:03:32,800 --> 00:03:37,280
+anything about these sub niches, like
+
+121
+00:03:35,240 --> 00:03:39,960
+plantar fasciitis, holy [ __ ] Each one
+
+122
+00:03:37,280 --> 00:03:41,440
+of these is a huge money-making market.
+
+123
+00:03:39,960 --> 00:03:43,400
+If you have made any money in e-comm
+
+124
+00:03:41,440 --> 00:03:45,520
+before and you know the space, you know
+
+125
+00:03:43,400 --> 00:03:47,480
+that every single one of these has
+
+126
+00:03:45,520 --> 00:03:49,200
+multiple seven, if not eight figures,
+
+127
+00:03:47,480 --> 00:03:50,600
+hidden inside of it. So, that is how
+
+128
+00:03:49,200 --> 00:03:51,360
+powerful this process is. So, what
+
+129
+00:03:50,600 --> 00:03:53,480
+you're going to do is you're going to
+
+130
+00:03:51,360 --> 00:03:55,000
+scroll through and just pick five of
+
+131
+00:03:53,480 --> 00:03:56,120
+these sub niches that you like the most
+
+132
+00:03:55,000 --> 00:03:58,240
+because we're going to work these into
+
+133
+00:03:56,120 --> 00:03:59,560
+the next step of the process, which is
+
+134
+00:03:58,240 --> 00:04:01,440
+going to be actually finding a product
+
+135
+00:03:59,560 --> 00:04:03,840
+within that sub niche. So, at this point
+
+136
+00:04:01,440 --> 00:04:05,400
+we can say the problem piece is now also
+
+137
+00:04:03,840 --> 00:04:06,840
+complete. So, let's move on to actually
+
+138
+00:04:05,400 --> 00:04:08,680
+identifying a product and this is where
+
+139
+00:04:06,840 --> 00:04:10,320
+things get really fun. All right, so
+
+140
+00:04:08,680 --> 00:04:12,400
+follow me very carefully. First, you're
+
+141
+00:04:10,320 --> 00:04:14,280
+going to want to go to gethooked.ai and
+
+142
+00:04:12,400 --> 00:04:16,080
+get yourself a free trial here. Next,
+
+143
+00:04:14,280 --> 00:04:17,920
+you're going to go to your account in
+
+144
+00:04:16,080 --> 00:04:20,240
+the bottom left-hand corner and select
+
+145
+00:04:17,920 --> 00:04:23,160
+AI and MCP. So, what we're going to do
+
+146
+00:04:20,240 --> 00:04:25,240
+here is attach the Get Hooked MCP, which
+
+147
+00:04:23,160 --> 00:04:26,720
+is a Get Hooked is a massive aggregator
+
+148
+00:04:25,240 --> 00:04:28,120
+of all the top winning ads across a
+
+149
+00:04:26,720 --> 00:04:30,600
+bunch of different ad platforms, most
+
+150
+00:04:28,120 --> 00:04:33,600
+specifically Facebook/Meta. So, we are
+
+151
+00:04:30,600 --> 00:04:35,720
+going to attach the MCP into Claude so
+
+152
+00:04:33,600 --> 00:04:36,880
+we can use both of these in tandem to
+
+153
+00:04:35,720 --> 00:04:38,240
+find a winning product incredibly
+
+154
+00:04:36,880 --> 00:04:40,520
+quickly. So, you're going to scroll past
+
+155
+00:04:38,240 --> 00:04:42,880
+the API and look at this connect to AI
+
+156
+00:04:40,520 --> 00:04:45,160
+agent section where it says MCP. We are
+
+157
+00:04:42,880 --> 00:04:45,960
+going to copy this MCP URL. Inside of
+
+158
+00:04:45,160 --> 00:04:47,840
+Claude, you're going to go to the
+
+159
+00:04:45,960 --> 00:04:49,520
+left-hand side, select customize, hit
+
+160
+00:04:47,840 --> 00:04:51,760
+connectors, select this little plus
+
+161
+00:04:49,520 --> 00:04:53,280
+icon, and then add custom connector. For
+
+162
+00:04:51,760 --> 00:04:55,640
+the name, you can just put Get Hooked.
+
+163
+00:04:53,280 --> 00:04:57,720
+You're going to paste in your MCP server
+
+164
+00:04:55,640 --> 00:05:00,000
+URL. And then, you're also going to copy
+
+165
+00:04:57,720 --> 00:05:01,440
+this OAuth client ID, go back into
+
+166
+00:05:00,000 --> 00:05:02,960
+Claude and paste that right there, and
+
+167
+00:05:01,440 --> 00:05:05,400
+go ahead and select add. So, now we
+
+168
+00:05:02,960 --> 00:05:07,760
+basically have Claude plus the Facebook
+
+169
+00:05:05,400 --> 00:05:09,160
+Ads Library on steroids all in front of
+
+170
+00:05:07,760 --> 00:05:11,720
+us right now. Now, we're going to paste
+
+171
+00:05:09,160 --> 00:05:13,480
+in another prompt that has a whole bunch
+
+172
+00:05:11,720 --> 00:05:14,840
+of information on the MCP, how to use
+
+173
+00:05:13,480 --> 00:05:17,120
+it, the process to follow, in addition
+
+174
+00:05:14,840 --> 00:05:19,240
+to the five sub niches that you want Get
+
+175
+00:05:17,120 --> 00:05:20,440
+Hooked to generally work within. After
+
+176
+00:05:19,240 --> 00:05:21,600
+this done, we're going to select enter
+
+177
+00:05:20,440 --> 00:05:22,520
+and now we're going to let Claude cook.
+
+178
+00:05:21,600 --> 00:05:24,120
+This is going to take a few minutes, so
+
+179
+00:05:22,520 --> 00:05:25,920
+go touch grass. All right, so Claude
+
+180
+00:05:24,120 --> 00:05:28,320
+just finished up and as you can see, it
+
+181
+00:05:25,920 --> 00:05:30,320
+did a lot of research within each
+
+182
+00:05:28,320 --> 00:05:32,440
+individual sub niche. And if you scroll
+
+183
+00:05:30,320 --> 00:05:35,040
+keep scrolling down close to the bottom,
+
+184
+00:05:32,440 --> 00:05:37,000
+you'll see the actual brands that
+
+185
+00:05:35,040 --> 00:05:39,520
+qualify, meaning they're running enough
+
+186
+00:05:37,000 --> 00:05:41,200
+active ads, their sub niche is actually
+
+187
+00:05:39,520 --> 00:05:42,840
+within the general list of sub niches
+
+188
+00:05:41,200 --> 00:05:44,720
+that you inputted in that initial
+
+189
+00:05:42,840 --> 00:05:46,920
+prompt. And it even identifies the
+
+190
+00:05:44,720 --> 00:05:48,840
+product, the pain point, the ad pattern
+
+191
+00:05:46,920 --> 00:05:50,080
+that they typically use, the funnel
+
+192
+00:05:48,840 --> 00:05:51,880
+architecture that they're typically
+
+193
+00:05:50,080 --> 00:05:53,280
+using. Are they driving to a PDP? Are
+
+194
+00:05:51,880 --> 00:05:55,000
+they going to an advertorial? And a
+
+195
+00:05:53,280 --> 00:05:56,880
+bunch of other cool stuff in addition to
+
+196
+00:05:55,000 --> 00:05:59,040
+their top-performing ad. So, what I
+
+197
+00:05:56,880 --> 00:06:00,720
+found here is this Facebook page called
+
+198
+00:05:59,040 --> 00:06:02,480
+Fall Prevention Tips. They have 232
+
+199
+00:06:00,720 --> 00:06:04,320
+active ads running right now. They have
+
+200
+00:06:02,480 --> 00:06:07,440
+a few subdomains, and they're basically
+
+201
+00:06:04,320 --> 00:06:08,800
+selling wide toe box barefoot shoes that
+
+202
+00:06:07,440 --> 00:06:10,800
+are specifically marketed using the
+
+203
+00:06:08,800 --> 00:06:12,840
+angle of eliminating foot pain, as you
+
+204
+00:06:10,800 --> 00:06:14,680
+can see. So, just like that, the product
+
+205
+00:06:12,840 --> 00:06:16,920
+selection piece is already done. When
+
+206
+00:06:14,680 --> 00:06:19,000
+you have the right
+
+207
+00:06:16,920 --> 00:06:20,680
+then this process of finding a solid
+
+208
+00:06:19,000 --> 00:06:22,280
+product should never take you more than
+
+209
+00:06:20,680 --> 00:06:24,720
+like an hour. So, at this point, the
+
+210
+00:06:22,280 --> 00:06:26,600
+product selection is entirely done, and
+
+211
+00:06:24,720 --> 00:06:28,360
+we can move on to what I believe is one
+
+212
+00:06:26,600 --> 00:06:29,760
+of the most important steps, but GetHulk
+
+213
+00:06:28,360 --> 00:06:31,480
+already kind of did a lot of it for you,
+
+214
+00:06:29,760 --> 00:06:32,640
+which is to validate the product. And
+
+215
+00:06:31,480 --> 00:06:34,560
+what does validation really mean? Well,
+
+216
+00:06:32,640 --> 00:06:36,120
+validation means how can we prove that
+
+217
+00:06:34,560 --> 00:06:37,520
+this business is actually making money?
+
+218
+00:06:36,120 --> 00:06:39,040
+Now, unfortunately, it's not like we
+
+219
+00:06:37,520 --> 00:06:41,720
+have access to their financials. A lot
+
+220
+00:06:39,040 --> 00:06:42,960
+of tools are just general estimations of
+
+221
+00:06:41,720 --> 00:06:45,080
+how much money they're making, but
+
+222
+00:06:42,960 --> 00:06:46,560
+there's one thing that is actually
+
+223
+00:06:45,080 --> 00:06:47,920
+public and that you can see, and that is
+
+224
+00:06:46,560 --> 00:06:49,400
+generally the traffic that they are
+
+225
+00:06:47,920 --> 00:06:51,480
+sending to their website. So, we're
+
+226
+00:06:49,400 --> 00:06:53,080
+going to use a SimilarWeb extension,
+
+227
+00:06:51,480 --> 00:06:55,000
+which you can also use. I think you get
+
+228
+00:06:53,080 --> 00:06:57,160
+like three free searches per day. And
+
+229
+00:06:55,000 --> 00:06:58,520
+what we're really looking for is we want
+
+230
+00:06:57,160 --> 00:07:02,000
+to see a company that's making
+
+231
+00:06:58,520 --> 00:07:03,360
+approximately at least $300,000 per
+
+232
+00:07:02,000 --> 00:07:04,840
+month. Now, you may be asking, "Mark,
+
+233
+00:07:03,360 --> 00:07:06,440
+how the hell are you able to calculate
+
+234
+00:07:04,840 --> 00:07:08,240
+exactly how much money?" Well, I can't.
+
+235
+00:07:06,440 --> 00:07:09,400
+I can't I can't calculate the exact
+
+236
+00:07:08,240 --> 00:07:11,040
+amount, but I can get a rough
+
+237
+00:07:09,400 --> 00:07:13,240
+estimation. And the way that you do that
+
+238
+00:07:11,040 --> 00:07:15,080
+is just by calculating with a simple
+
+239
+00:07:13,240 --> 00:07:17,840
+formula. So, what I like to do typically
+
+240
+00:07:15,080 --> 00:07:19,120
+is a 2 to 3% conversion rate on average,
+
+241
+00:07:17,840 --> 00:07:21,040
+depending on the price of the product.
+
+242
+00:07:19,120 --> 00:07:24,440
+So, this is the actual ad that was found
+
+243
+00:07:21,040 --> 00:07:25,760
+here. And if we open the URL, enable our
+
+244
+00:07:24,440 --> 00:07:28,280
+SimilarWeb extension, we can see that
+
+245
+00:07:25,760 --> 00:07:29,880
+they're driving heaps heaps of traffic
+
+246
+00:07:28,280 --> 00:07:31,320
+to this page, over a million visitors
+
+247
+00:07:29,880 --> 00:07:32,720
+per month. Now, let's go ahead and
+
+248
+00:07:31,320 --> 00:07:34,000
+quickly browse through the funnel here.
+
+249
+00:07:32,720 --> 00:07:37,680
+We can see that they're selling these
+
+250
+00:07:34,000 --> 00:07:39,040
+shoes for one pair for $70. And I reckon
+
+251
+00:07:37,680 --> 00:07:41,560
+they can probably get these shoes
+
+252
+00:07:39,040 --> 00:07:43,160
+sourced for, I don't know, 10 bucks, 10
+
+253
+00:07:41,560 --> 00:07:45,000
+to 15 bucks. But, that's not the point.
+
+254
+00:07:43,160 --> 00:07:46,840
+We care mostly about approximating
+
+255
+00:07:45,000 --> 00:07:48,840
+revenue. But, I would say if I was being
+
+256
+00:07:46,840 --> 00:07:50,480
+conservative, this particular store
+
+257
+00:07:48,840 --> 00:07:52,240
+would be operating at like a 2%
+
+258
+00:07:50,480 --> 00:07:56,040
+conversion rate. Typically, I'm going
+
+259
+00:07:52,240 --> 00:07:58,040
+anywhere from like 1.5 to 3.5% in my
+
+260
+00:07:56,040 --> 00:07:59,280
+estimation calculation, I guess you
+
+261
+00:07:58,040 --> 00:08:00,640
+could say. The more expensive the
+
+262
+00:07:59,280 --> 00:08:01,840
+product, naturally, the lower the
+
+263
+00:08:00,640 --> 00:08:03,160
+conversion rate is going to be. So,
+
+264
+00:08:01,840 --> 00:08:05,360
+let's say they're converting at 2%
+
+265
+00:08:03,160 --> 00:08:06,680
+currently. Let's also be generous and
+
+266
+00:08:05,360 --> 00:08:09,080
+conservative and say that they're
+
+267
+00:08:06,680 --> 00:08:10,320
+generating on average only 1.5 million
+
+268
+00:08:09,080 --> 00:08:11,640
+visits per month. They're actually
+
+269
+00:08:10,320 --> 00:08:13,200
+pretty much at 2 million per month. But,
+
+270
+00:08:11,640 --> 00:08:14,360
+let's just say, again, conservative,
+
+271
+00:08:13,200 --> 00:08:16,920
+which I like to be conservative with
+
+272
+00:08:14,360 --> 00:08:19,080
+estimations like this, they're at 1.5
+
+273
+00:08:16,920 --> 00:08:20,120
+million visits per month. Now, all you
+
+274
+00:08:19,080 --> 00:08:23,000
+got to do is multiply those two
+
+275
+00:08:20,120 --> 00:08:25,520
+together. So, it's going to be 0.02 *
+
+276
+00:08:23,000 --> 00:08:27,240
+1.5 million visits per month. 2%
+
+277
+00:08:25,520 --> 00:08:29,840
+conversion rate, 1.5 million visitors.
+
+278
+00:08:27,240 --> 00:08:33,440
+And that would be a total of roughly
+
+279
+00:08:29,840 --> 00:08:34,920
+30,000, not dollars, but 30,000 orders
+
+280
+00:08:33,440 --> 00:08:36,480
+per month. Now, we still need the
+
+281
+00:08:34,920 --> 00:08:38,680
+revenue. So, what we have to do now is
+
+282
+00:08:36,480 --> 00:08:40,440
+make an approximation on their average
+
+283
+00:08:38,680 --> 00:08:42,800
+order value. Once again, I like to be
+
+284
+00:08:40,440 --> 00:08:44,280
+conservative. They have a decent offer
+
+285
+00:08:42,800 --> 00:08:47,040
+stack here. I'd say their average order
+
+286
+00:08:44,280 --> 00:08:49,360
+value is probably about 90 to $100, and
+
+287
+00:08:47,040 --> 00:08:51,840
+that's being conservative. Let's use 90
+
+288
+00:08:49,360 --> 00:08:53,080
+as a, you know, a nice average number.
+
+289
+00:08:51,840 --> 00:08:55,200
+So, we're going to take that 30,000
+
+290
+00:08:53,080 --> 00:08:58,320
+number, multiply that by 90, and that
+
+291
+00:08:55,200 --> 00:08:59,600
+would be a grand total of $2.7 million
+
+292
+00:08:58,320 --> 00:09:01,720
+per month. So, these guys are driving a
+
+293
+00:08:59,600 --> 00:09:03,120
+lot of traffic. Not every single store
+
+294
+00:09:01,720 --> 00:09:04,880
+that you see that you get from Get
+
+295
+00:09:03,120 --> 00:09:06,600
+Hooked MCP is going to be a number this
+
+296
+00:09:04,880 --> 00:09:08,240
+high. You really only want to see
+
+297
+00:09:06,600 --> 00:09:10,120
+something that's above like 2 to 300K
+
+298
+00:09:08,240 --> 00:09:11,560
+per month in revenue. That's like the
+
+299
+00:09:10,120 --> 00:09:12,880
+bare minimum, in my opinion. So, now we
+
+300
+00:09:11,560 --> 00:09:14,160
+can confidently say that, you know, we
+
+301
+00:09:12,880 --> 00:09:15,760
+were able to find a product, we were
+
+302
+00:09:14,160 --> 00:09:17,200
+able to prove that it was a good
+
+303
+00:09:15,760 --> 00:09:19,160
+product, we were able to prove that it
+
+304
+00:09:17,200 --> 00:09:21,000
+was found in a passionate market, and it
+
+305
+00:09:19,160 --> 00:09:23,080
+is solving a painful problem. And best
+
+306
+00:09:21,000 --> 00:09:24,840
+of all, we just validated that it's
+
+307
+00:09:23,080 --> 00:09:25,840
+actually selling at a high scale. So,
+
+308
+00:09:24,840 --> 00:09:27,400
+pretty much everything that we're
+
+309
+00:09:25,840 --> 00:09:28,840
+looking for at this point has been
+
+310
+00:09:27,400 --> 00:09:31,120
+solved. The final piece that I would
+
+311
+00:09:28,840 --> 00:09:33,480
+like to add here is going to be simply
+
+312
+00:09:31,120 --> 00:09:35,360
+the margins. See, when you're looking at
+
+313
+00:09:33,480 --> 00:09:36,400
+competitors, a lot of times they've been
+
+314
+00:09:35,360 --> 00:09:38,040
+running their business for longer than
+
+315
+00:09:36,400 --> 00:09:39,480
+you. So, that they can, you know,
+
+316
+00:09:38,040 --> 00:09:41,400
+negotiate with their suppliers and get
+
+317
+00:09:39,480 --> 00:09:43,440
+better rates in terms of how much they
+
+318
+00:09:41,400 --> 00:09:45,200
+are able to get their product at cost
+
+319
+00:09:43,440 --> 00:09:46,440
+compared to you who is probably drop
+
+320
+00:09:45,200 --> 00:09:48,520
+shipping to get this brand off of the
+
+321
+00:09:46,440 --> 00:09:50,560
+ground, right? So, you have to keep that
+
+322
+00:09:48,520 --> 00:09:52,040
+in mind. I have two very simple rules
+
+323
+00:09:50,560 --> 00:09:53,720
+for you here, all right? Rule number one
+
+324
+00:09:52,040 --> 00:09:55,480
+is you want to have at least three extra
+
+325
+00:09:53,720 --> 00:09:57,240
+cost of goods sold for your price point.
+
+326
+00:09:55,480 --> 00:09:59,360
+So, if you're able to get this product
+
+327
+00:09:57,240 --> 00:10:01,000
+sourced, shipped for let's say, I don't
+
+328
+00:09:59,360 --> 00:10:02,800
+know, 15 bucks, you want to sell it for
+
+329
+00:10:01,000 --> 00:10:04,120
+a minimum of 45. I'm not talking about
+
+330
+00:10:02,800 --> 00:10:05,680
+the shoes in particular, just as a
+
+331
+00:10:04,120 --> 00:10:07,880
+general rule three extra cost of goods.
+
+332
+00:10:05,680 --> 00:10:09,760
+And second rule, I'm going to put $30 of
+
+333
+00:10:07,880 --> 00:10:11,400
+margin. I used to have $20. I think in
+
+334
+00:10:09,760 --> 00:10:13,200
+this day and age Facebook ad cost
+
+335
+00:10:11,400 --> 00:10:15,280
+increasing every goddamn day, $30
+
+336
+00:10:13,200 --> 00:10:17,040
+margins is a good place to be. Which
+
+337
+00:10:15,280 --> 00:10:19,040
+means if you are selling that product
+
+338
+00:10:17,040 --> 00:10:21,000
+for, let's say, $50 and you're getting
+
+339
+00:10:19,040 --> 00:10:23,480
+it sourced for 15, that means that your
+
+340
+00:10:21,000 --> 00:10:25,600
+gross margin in this case is $35. Very
+
+341
+00:10:23,480 --> 00:10:27,160
+good. Very, very good elementary school
+
+342
+00:10:25,600 --> 00:10:29,240
+math right there. So, you are able to
+
+343
+00:10:27,160 --> 00:10:30,720
+satisfy both rules of three extra cogs
+
+344
+00:10:29,240 --> 00:10:32,560
+and $30 margin, all right? So, let's
+
+345
+00:10:30,720 --> 00:10:34,360
+move on past the margins and talk about
+
+346
+00:10:32,560 --> 00:10:36,160
+one of the most overlooked pieces of
+
+347
+00:10:34,360 --> 00:10:38,040
+product research in general, which is
+
+348
+00:10:36,160 --> 00:10:40,560
+the game plan. And the entire reason I
+
+349
+00:10:38,040 --> 00:10:42,200
+included this piece in this freaking
+
+350
+00:10:40,560 --> 00:10:43,440
+video is because I know exactly what's
+
+351
+00:10:42,200 --> 00:10:44,480
+going to happen. Like most of you are
+
+352
+00:10:43,440 --> 00:10:45,600
+probably going to stop watching the
+
+353
+00:10:44,480 --> 00:10:46,840
+video at this point. You're going to
+
+354
+00:10:45,600 --> 00:10:47,680
+immediately go try this method and
+
+355
+00:10:46,840 --> 00:10:48,800
+you're going to try testing this
+
+356
+00:10:47,680 --> 00:10:49,640
+product, spend some money on ads, it's
+
+357
+00:10:48,800 --> 00:10:51,520
+going to fail, and you're going to come
+
+358
+00:10:49,640 --> 00:10:53,720
+back and be like, "Mark, [ __ ] you, man.
+
+359
+00:10:51,520 --> 00:10:56,000
+This was a stupid method. It doesn't
+
+360
+00:10:53,720 --> 00:10:59,200
+work. This is a scam. It's all a big
+
+361
+00:10:56,000 --> 00:11:02,520
+scam. God damn it." And to you, I say,
+
+362
+00:10:59,200 --> 00:11:04,200
+"Listen here, [ __ ] This isn't 2018
+
+363
+00:11:02,520 --> 00:11:06,680
+general store drop shipping anymore, all
+
+364
+00:11:04,200 --> 00:11:08,320
+right, pal? This Things have evolved and
+
+365
+00:11:06,680 --> 00:11:10,640
+the whole point of me saying that is
+
+366
+00:11:08,320 --> 00:11:12,720
+that the product is not everything. The
+
+367
+00:11:10,640 --> 00:11:14,120
+product is not like, you know, you're
+
+368
+00:11:12,720 --> 00:11:16,520
+you're at a [ __ ] casino and you're
+
+369
+00:11:14,120 --> 00:11:18,800
+just trying to hit the [ __ ] jackpot.
+
+370
+00:11:16,520 --> 00:11:21,200
+The product is not everything. There's
+
+371
+00:11:18,800 --> 00:11:23,240
+many, many more pieces that go into
+
+372
+00:11:21,200 --> 00:11:24,920
+being successful in general with a
+
+373
+00:11:23,240 --> 00:11:26,200
+product test. Because most people will
+
+374
+00:11:24,920 --> 00:11:27,560
+probably test a product, they'll see
+
+375
+00:11:26,200 --> 00:11:28,680
+that it's not immediately profitable,
+
+376
+00:11:27,560 --> 00:11:29,960
+they're not immediately a winner,
+
+377
+00:11:28,680 --> 00:11:30,920
+they're not immediately a [ __ ]
+
+378
+00:11:29,960 --> 00:11:32,640
+millionaire, and then they're going to
+
+379
+00:11:30,920 --> 00:11:34,200
+quit. They're going to just say this
+
+380
+00:11:32,640 --> 00:11:35,480
+whole online business thing is a scam.
+
+381
+00:11:34,200 --> 00:11:36,560
+When in reality, you just don't know how
+
+382
+00:11:35,480 --> 00:11:38,880
+to think, and you don't know how to
+
+383
+00:11:36,560 --> 00:11:40,600
+properly problem-solve. God forbid, you
+
+384
+00:11:38,880 --> 00:11:42,520
+know, you are forced to use one of the
+
+385
+00:11:40,600 --> 00:11:44,600
+two brain cells rattling around in your
+
+386
+00:11:42,520 --> 00:11:46,640
+skull right now. You know, Jesus, [ __ ]
+
+387
+00:11:44,600 --> 00:11:48,760
+So, what you need to do after you test
+
+388
+00:11:46,640 --> 00:11:50,880
+this product and it doesn't go well is
+
+389
+00:11:48,760 --> 00:11:52,280
+ask a very simple question, which is
+
+390
+00:11:50,880 --> 00:11:54,520
+why. I know, you're going to have to
+
+391
+00:11:52,280 --> 00:11:58,040
+think. Put put on your [ __ ] thinking
+
+392
+00:11:54,520 --> 00:12:00,040
+cap, sorry. And this is a actually not a
+
+393
+00:11:58,040 --> 00:12:02,120
+super difficult question to answer.
+
+394
+00:12:00,040 --> 00:12:03,440
+Anytime you test a product, it's not
+
+395
+00:12:02,120 --> 00:12:05,360
+always the product that's the issue. In
+
+396
+00:12:03,440 --> 00:12:07,240
+fact, very rarely is it the product. If
+
+397
+00:12:05,360 --> 00:12:09,080
+you go look at some of the top brands
+
+398
+00:12:07,240 --> 00:12:11,200
+that are doing six, seven, eight figures
+
+399
+00:12:09,080 --> 00:12:12,480
+per month, they're not selling anything
+
+400
+00:12:11,200 --> 00:12:14,600
+that special. They're not selling
+
+401
+00:12:12,480 --> 00:12:16,480
+anything that crazy, but they do have
+
+402
+00:12:14,600 --> 00:12:18,200
+two very important things outside of the
+
+403
+00:12:16,480 --> 00:12:19,920
+product that are dialed in. So, when you
+
+404
+00:12:18,200 --> 00:12:22,040
+ask yourself this question, you need to
+
+405
+00:12:19,920 --> 00:12:24,040
+be able to deduce it's from one of these
+
+406
+00:12:22,040 --> 00:12:26,160
+two things. Number one, this is some
+
+407
+00:12:24,040 --> 00:12:28,080
+ad-related issue, my ads aren't good
+
+408
+00:12:26,160 --> 00:12:30,160
+enough. Or this is some funnel-related
+
+409
+00:12:28,080 --> 00:12:31,520
+issue, like my Shopify store, my
+
+410
+00:12:30,160 --> 00:12:32,960
+advertorial, whatever kind of funnel
+
+411
+00:12:31,520 --> 00:12:34,240
+that you're really running is not good
+
+412
+00:12:32,960 --> 00:12:35,920
+enough. Now, how do you actually
+
+413
+00:12:34,240 --> 00:12:38,360
+identify which of these two problems it
+
+414
+00:12:35,920 --> 00:12:40,120
+is? Well, I'll give you some KPIs that
+
+415
+00:12:38,360 --> 00:12:42,280
+you can kind of keep in your mind to
+
+416
+00:12:40,120 --> 00:12:44,040
+know which issue it actually is. So,
+
+417
+00:12:42,280 --> 00:12:46,120
+with ads, there's three metrics you want
+
+418
+00:12:44,040 --> 00:12:48,480
+to look at. I could go so deep into ads,
+
+419
+00:12:46,120 --> 00:12:50,920
+but really most of it comes down to
+
+420
+00:12:48,480 --> 00:12:53,520
+three metrics. The first is your CPC,
+
+421
+00:12:50,920 --> 00:12:55,920
+second is your CTR, and third is your
+
+422
+00:12:53,520 --> 00:12:58,480
+CPMs, okay? Now, your CPC, if you're
+
+423
+00:12:55,920 --> 00:13:01,560
+selling in the US, your goal is to be at
+
+424
+00:12:58,480 --> 00:13:04,200
+roughly $1.50 in terms of your CPC,
+
+425
+00:13:01,560 --> 00:13:05,960
+which means you're paying Facebook $1.50
+
+426
+00:13:04,200 --> 00:13:07,560
+for every single click that they get
+
+427
+00:13:05,960 --> 00:13:09,880
+people off of Facebook. This is your
+
+428
+00:13:07,560 --> 00:13:12,080
+link CPC, just to be clear. If it is
+
+429
+00:13:09,880 --> 00:13:13,760
+super elevated, like two, three, four
+
+430
+00:13:12,080 --> 00:13:15,560
+dollars, it's because of one of these
+
+431
+00:13:13,760 --> 00:13:17,040
+two reasons. This is ultimately just an
+
+432
+00:13:15,560 --> 00:13:18,160
+indicator. It's like the check engine
+
+433
+00:13:17,040 --> 00:13:19,880
+light of your car. It doesn't tell you
+
+434
+00:13:18,160 --> 00:13:22,040
+what's wrong, but it tells you something
+
+435
+00:13:19,880 --> 00:13:23,240
+is wrong. If it is elevated, now we have
+
+436
+00:13:22,040 --> 00:13:25,040
+to look at these two, which is going to
+
+437
+00:13:23,240 --> 00:13:27,720
+be your CTR. Your KPI should be a
+
+438
+00:13:25,040 --> 00:13:30,240
+minimum of 3%, and honestly, I would
+
+439
+00:13:27,720 --> 00:13:33,680
+probably say closer to 4% but if you
+
+440
+00:13:30,240 --> 00:13:35,280
+have a sub 3% CTR, you have a serious
+
+441
+00:13:33,680 --> 00:13:36,920
+creative issue. Your creatives are not
+
+442
+00:13:35,280 --> 00:13:38,240
+that good. You need to go watch my other
+
+443
+00:13:36,920 --> 00:13:40,560
+videos on how to make winning ads,
+
+444
+00:13:38,240 --> 00:13:43,200
+simple as that. Now, if your CTR is
+
+445
+00:13:40,560 --> 00:13:44,880
+good, maybe it's 4%, 5%, your CPC is
+
+446
+00:13:43,200 --> 00:13:46,560
+still elevated, the only other thing it
+
+447
+00:13:44,880 --> 00:13:48,600
+could possibly be is very, very high
+
+448
+00:13:46,560 --> 00:13:51,080
+CPMs. I don't actually even have a KPI
+
+449
+00:13:48,600 --> 00:13:53,040
+for CPMs, but let's just say it's it's
+
+450
+00:13:51,080 --> 00:13:54,160
+super, super niche dependent and
+
+451
+00:13:53,040 --> 00:13:56,480
+location dependent. Let's say you're
+
+452
+00:13:54,160 --> 00:13:59,120
+selling in the US and you have CPMs
+
+453
+00:13:56,480 --> 00:14:00,320
+generally that are over like 80 bucks,
+
+454
+00:13:59,120 --> 00:14:02,280
+right? That would be what I would
+
+455
+00:14:00,320 --> 00:14:03,920
+consider a little bit on the higher end.
+
+456
+00:14:02,280 --> 00:14:06,000
+It's all very relative, but I'll say
+
+457
+00:14:03,920 --> 00:14:08,280
+over 80 bucks is like a good place to
+
+458
+00:14:06,000 --> 00:14:10,160
+kind of draw that line. CPMs are a
+
+459
+00:14:08,280 --> 00:14:13,120
+difficult issue to solve. Some of the
+
+460
+00:14:10,160 --> 00:14:15,240
+issue with CPMs could go right back to
+
+461
+00:14:13,120 --> 00:14:17,280
+your creatives. Facebook likes to reward
+
+462
+00:14:15,240 --> 00:14:19,160
+people that have really good creatives,
+
+463
+00:14:17,280 --> 00:14:21,000
+really engaging creatives without
+
+464
+00:14:19,160 --> 00:14:23,680
+pissing off all their users with low
+
+465
+00:14:21,000 --> 00:14:25,520
+CPMs. So, it's kind of like a
+
+466
+00:14:23,680 --> 00:14:26,720
+self-consuming issue. your creatives
+
+467
+00:14:25,520 --> 00:14:28,280
+aren't good enough, your CPMs will be
+
+468
+00:14:26,720 --> 00:14:29,720
+higher and your CTR will be lower. So,
+
+469
+00:14:28,280 --> 00:14:33,120
+it's a perfect shitstorm for a really
+
+470
+00:14:29,720 --> 00:14:35,640
+high CPC. Ultimately, 90% of the issues
+
+471
+00:14:33,120 --> 00:14:37,600
+that I see is ad-related issues and it's
+
+472
+00:14:35,640 --> 00:14:39,360
+specifically because people think they
+
+473
+00:14:37,600 --> 00:14:40,640
+have great ads when in reality, they
+
+474
+00:14:39,360 --> 00:14:41,800
+don't. They don't know how to write good
+
+475
+00:14:40,640 --> 00:14:43,280
+copy, they don't know how to write good
+
+476
+00:14:41,800 --> 00:14:45,640
+hooks, they don't know how to generate
+
+477
+00:14:43,280 --> 00:14:47,520
+ads that Facebook wants to push out to
+
+478
+00:14:45,640 --> 00:14:49,880
+its users. That is like the crux of the
+
+479
+00:14:47,520 --> 00:14:51,920
+issue 90% of the time. The one concern
+
+480
+00:14:49,880 --> 00:14:53,880
+here I have is that some of you guys are
+
+481
+00:14:51,920 --> 00:14:56,240
+going to try to max out these metrics
+
+482
+00:14:53,880 --> 00:14:58,080
+for vanity. You still have to sell [ __ ]
+
+483
+00:14:56,240 --> 00:15:00,400
+I see so many people that are running
+
+484
+00:14:58,080 --> 00:15:02,440
+like very high curiosity native static
+
+485
+00:15:00,400 --> 00:15:04,400
+type images or videos and like, "Well
+
+486
+00:15:02,440 --> 00:15:05,560
+Mark, my CTR is so high, but I'm not
+
+487
+00:15:04,400 --> 00:15:07,000
+converting people." Well yeah, cuz you
+
+488
+00:15:05,560 --> 00:15:08,400
+forgot to sell them, [ __ ] You're
+
+489
+00:15:07,000 --> 00:15:09,680
+not a content creator, you're not trying
+
+490
+00:15:08,400 --> 00:15:10,680
+to get likes and engagement, you're
+
+491
+00:15:09,680 --> 00:15:13,520
+trying to sell people. So, it's a
+
+492
+00:15:10,680 --> 00:15:15,160
+balance between conversions and
+
+493
+00:15:13,520 --> 00:15:16,920
+engagement, which is the numbers that
+
+494
+00:15:15,160 --> 00:15:19,080
+you're looking at here. Now, over here
+
+495
+00:15:16,920 --> 00:15:20,240
+on the funnel side, here are a few
+
+496
+00:15:19,080 --> 00:15:21,960
+metrics you want to keep in mind, all
+
+497
+00:15:20,240 --> 00:15:23,320
+right? Metric number one is going to be
+
+498
+00:15:21,960 --> 00:15:25,200
+what I call your add to cart ratio,
+
+499
+00:15:23,320 --> 00:15:27,840
+which is of all the people that click
+
+500
+00:15:25,200 --> 00:15:29,280
+and actually land on your first landing
+
+501
+00:15:27,840 --> 00:15:30,600
+page, whatever the first one is, whether
+
+502
+00:15:29,280 --> 00:15:32,240
+that's a
+
+503
+00:15:30,600 --> 00:15:34,800
+advertorial pre-sales page, or directly
+
+504
+00:15:32,240 --> 00:15:37,160
+to your PDP, the ratio of people that
+
+505
+00:15:34,800 --> 00:15:39,440
+add your product to cart should be no
+
+506
+00:15:37,160 --> 00:15:40,720
+less than 10%. This is a little bit
+
+507
+00:15:39,440 --> 00:15:42,440
+dependent on the price of product. You
+
+508
+00:15:40,720 --> 00:15:43,640
+can bring it down to 8 or 9% if you're
+
+509
+00:15:42,440 --> 00:15:45,280
+selling something more expensive, but
+
+510
+00:15:43,640 --> 00:15:47,240
+generally 10% is a good place to be. If
+
+511
+00:15:45,280 --> 00:15:49,240
+it's under this, your funnel is not good
+
+512
+00:15:47,240 --> 00:15:51,360
+enough, or your ads are driving
+
+513
+00:15:49,240 --> 00:15:54,000
+unqualified traffic. The second thing is
+
+514
+00:15:51,360 --> 00:15:56,240
+your add to cart to purchase ratio. What
+
+515
+00:15:54,000 --> 00:15:58,600
+you should look for here is typically
+
+516
+00:15:56,240 --> 00:16:00,160
+30% completion, meaning if you have 10
+
+517
+00:15:58,600 --> 00:16:01,240
+add to carts, at least three should
+
+518
+00:16:00,160 --> 00:16:02,280
+actually go through and purchase. If
+
+519
+00:16:01,240 --> 00:16:04,040
+it's anything lower than that, there's
+
+520
+00:16:02,280 --> 00:16:05,680
+some issue between the time that they
+
+521
+00:16:04,040 --> 00:16:07,560
+add to cart and purchase. So, it's very
+
+522
+00:16:05,680 --> 00:16:09,360
+straightforward, but sometimes people
+
+523
+00:16:07,560 --> 00:16:11,560
+don't check their payment processors and
+
+524
+00:16:09,360 --> 00:16:13,040
+they have some kind of issue with
+
+525
+00:16:11,560 --> 00:16:15,040
+approval rates or something like that,
+
+526
+00:16:13,040 --> 00:16:16,520
+or maybe their checkout process is just
+
+527
+00:16:15,040 --> 00:16:18,920
+too complicated. They try to do too
+
+528
+00:16:16,520 --> 00:16:20,200
+much. Simplicity in the checkouts is
+
+529
+00:16:18,920 --> 00:16:21,600
+key. Like, you'll be much better
+
+530
+00:16:20,200 --> 00:16:23,560
+removing things than you are like trying
+
+531
+00:16:21,600 --> 00:16:25,040
+to add all these various things to try
+
+532
+00:16:23,560 --> 00:16:26,400
+to bump your conversion rate. And then
+
+533
+00:16:25,040 --> 00:16:29,160
+the final thing is just going to be
+
+534
+00:16:26,400 --> 00:16:31,000
+either your AOV or your LTV, kind of
+
+535
+00:16:29,160 --> 00:16:32,720
+depending on what model you're running
+
+536
+00:16:31,000 --> 00:16:34,720
+with your particular store. Most of it
+
+537
+00:16:32,720 --> 00:16:36,400
+comes down to LTV cuz AOV actually fits
+
+538
+00:16:34,720 --> 00:16:38,120
+within LTV, but this is just a fancy way
+
+539
+00:16:36,400 --> 00:16:40,240
+to say that maybe you are acquiring
+
+540
+00:16:38,120 --> 00:16:41,680
+customers pretty decently well, but
+
+541
+00:16:40,240 --> 00:16:42,800
+you're not getting enough money from
+
+542
+00:16:41,680 --> 00:16:44,520
+them. That's either going to be on the
+
+543
+00:16:42,800 --> 00:16:45,920
+first purchase, so you don't have any
+
+544
+00:16:44,520 --> 00:16:48,640
+upsells or downsells, which is going to
+
+545
+00:16:45,920 --> 00:16:50,400
+be reflected in a low AOV, or it's going
+
+546
+00:16:48,640 --> 00:16:51,800
+to be in a low LTV if you're running
+
+547
+00:16:50,400 --> 00:16:53,960
+like a subscription model or you're
+
+548
+00:16:51,800 --> 00:16:55,800
+heavy on retention in some way or
+
+549
+00:16:53,960 --> 00:16:57,560
+another. So, you want to see, if you're
+
+550
+00:16:55,800 --> 00:17:01,000
+just doing straight Shopify, you should
+
+551
+00:16:57,560 --> 00:17:02,400
+aim for your AOV to be 20 to 40% above
+
+552
+00:17:01,000 --> 00:17:03,880
+your selling price. So, if you're
+
+553
+00:17:02,400 --> 00:17:06,000
+selling your main like one product for
+
+554
+00:17:03,880 --> 00:17:08,160
+like 40 bucks, you want to push that AOV
+
+555
+00:17:06,000 --> 00:17:10,400
+up on I would say even like 50% above
+
+556
+00:17:08,160 --> 00:17:12,360
+that number to be in a decent range.
+
+557
+00:17:10,400 --> 00:17:14,560
+LTV, however, should be substantially
+
+558
+00:17:12,360 --> 00:17:16,560
+higher. So, I'm not going to make a
+
+559
+00:17:14,560 --> 00:17:18,760
+product research video without something
+
+560
+00:17:16,560 --> 00:17:20,040
+like this because I watched so many
+
+561
+00:17:18,760 --> 00:17:21,240
+videos that was like, "All you have to
+
+562
+00:17:20,040 --> 00:17:22,680
+do is this with this. Boom, winning
+
+563
+00:17:21,240 --> 00:17:24,400
+product. You're good to go." No, the
+
+564
+00:17:22,680 --> 00:17:25,880
+product is one piece of the equation.
+
+565
+00:17:24,400 --> 00:17:27,200
+There's so much more that goes into it.
+
+566
+00:17:25,880 --> 00:17:28,880
+That's why I think one of those valuable
+
+567
+00:17:27,200 --> 00:17:30,520
+things that you can have in your e-com
+
+568
+00:17:28,880 --> 00:17:32,040
+journey is just guidance because you
+
+569
+00:17:30,520 --> 00:17:34,040
+don't know what you don't know. And a
+
+570
+00:17:32,040 --> 00:17:35,920
+lot of times, there's so much that goes
+
+571
+00:17:34,040 --> 00:17:38,920
+into this analysis right here between
+
+572
+00:17:35,920 --> 00:17:41,280
+the funnel or the ads or maybe by some
+
+573
+00:17:38,920 --> 00:17:43,360
+miracle it actually is a product-related
+
+574
+00:17:41,280 --> 00:17:44,280
+issue, then you need somebody who's way
+
+575
+00:17:43,360 --> 00:17:45,680
+smarter than you and way more
+
+576
+00:17:44,280 --> 00:17:48,040
+experienced than you to be able to tell
+
+577
+00:17:45,680 --> 00:17:50,000
+you. That's why I built BBA, Brand
+
+578
+00:17:48,040 --> 00:17:51,520
+Builders Academy, which is my mentorship
+
+579
+00:17:50,000 --> 00:17:52,880
+program that I've owned for years now to
+
+580
+00:17:51,520 --> 00:17:54,400
+help people with this exact thing cuz I
+
+581
+00:17:52,880 --> 00:17:56,280
+can hop on a call with them, which I do
+
+582
+00:17:54,400 --> 00:17:57,280
+every Monday, and say, "Okay, these are
+
+583
+00:17:56,280 --> 00:17:58,320
+your numbers. This is exactly where
+
+584
+00:17:57,280 --> 00:18:00,680
+you're going wrong. This is exactly how
+
+585
+00:17:58,320 --> 00:18:02,040
+to fix it. Come to me next week and be
+
+586
+00:18:00,680 --> 00:18:03,560
+[ __ ] killing it." So, if you ever
+
+587
+00:18:02,040 --> 00:18:05,320
+want to apply for something like that,
+
+588
+00:18:03,560 --> 00:18:06,880
+work with me more closely, just click
+
+589
+00:18:05,320 --> 00:18:08,520
+the first link in the description, fill
+
+590
+00:18:06,880 --> 00:18:09,920
+out the application, and see if you're a
+
+591
+00:18:08,520 --> 00:18:11,120
+good fit. Other than that, guys, thank
+
+592
+00:18:09,920 --> 00:18:14,480
+you so much for watching this video. See
+
+593
+00:18:11,120 --> 00:18:14,480
+you on the next one. Peace.
+

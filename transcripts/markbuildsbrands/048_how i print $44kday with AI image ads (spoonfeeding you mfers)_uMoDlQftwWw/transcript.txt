@@ -1,0 +1,598 @@
+# how i print $44k/day with AI image ads (spoonfeeding you mfers)
+URL: https://www.youtube.com/watch?v=uMoDlQftwWw
+Category: video
+Duration: 1071s
+Published: 20250730
+Transcript Type: auto
+
+============================================================
+
+[00:00:00] Hey guys, Mark here. In this video, I'm
+[00:00:01] going to show you how I print 44K a day
+[00:00:03] using almost exclusively image ads. If
+[00:00:06] you've never cracked image ads before,
+[00:00:07] you probably don't know why they're
+[00:00:08] actually so great. So, let me first tell
+[00:00:10] you why image ads are so amazing. All
+[00:00:12] right, number one is that you can
+[00:00:14] iterate so quickly. I believe that money
+[00:00:17] loves speed. And if you can move quick
+[00:00:19] and you can test angles extremely fast,
+[00:00:22] it's a fantastic way to get your brand
+[00:00:23] off the ground and even to scale it and
+[00:00:25] just test new concepts without having to
+[00:00:26] send stuff to a video editor or edit
+[00:00:28] videos yourself. And then number two,
+[00:00:30] just in the context of AI, is going to
+[00:00:32] be you can create these 100% yourself.
+[00:00:34] You don't need an editor. And with some
+[00:00:36] of the tools I'm going to show you in
+[00:00:37] this video, you can literally make like
+[00:00:38] a full batch of like 20 creatives that
+[00:00:40] are really, really high quality without
+[00:00:42] a designer in under an hour. It's just
+[00:00:44] absolutely absurd. And if you think that
+[00:00:46] like harder to make money with image
+[00:00:47] ads, it's actually not true. You can
+[00:00:48] make a lot of money with image ads,
+[00:00:49] sometimes even more than videos. The one
+[00:00:51] caveat that I want to say about image
+[00:00:53] ads is that typically they tend to die
+[00:00:55] out and get fatigued a little bit
+[00:00:57] faster. But if you're just starting out,
+[00:00:58] doesn't matter. You don't have to worry
+[00:01:00] about fatigue with a specific creative
+[00:01:01] until you get to like 10 to 50K in spend
+[00:01:04] for that particular creative. But let's
+[00:01:05] not talk about that for now. Let's
+[00:01:06] actually talk about how to create these
+[00:01:08] image ads because I really believe this
+[00:01:10] is one of the most underrated things in
+[00:01:11] e-commerce right now cuz everybody is
+[00:01:13] just obsessed with videos. I mean,
+[00:01:14] everybody's doing one thing. You ideally
+[00:01:16] want to go and do the other. Now, what
+[00:01:17] most people try to do when it comes to
+[00:01:19] creating image ads is they'll go on
+[00:01:21] Facebook ads library. They'll go on Get
+[00:01:22] Hooked. They'll find some pretty decent
+[00:01:24] looking image ad. They'll pop in a
+[00:01:26] chatbt and say, "Hey, remake this, but
+[00:01:28] for my brand." And it ends up looking
+[00:01:30] like AI generated [ __ ] show that is not
+[00:01:32] going to convert anybody. There's no
+[00:01:33] emotional triggers whatsoever. And then
+[00:01:35] you throw it up in your ad account, put
+[00:01:36] some spending behind it, and wonder why
+[00:01:37] you're not a millionaire overnight.
+[00:01:39] Well, your ads actually suck. And so, in
+[00:01:41] this video, I'm going to show you the
+[00:01:42] process that you can use to actually tap
+[00:01:44] into these emotional angles. Because in
+[00:01:46] the same way that you have like a hook
+[00:01:47] with a video ad, you have the same thing
+[00:01:49] with a static image. But the hook in and
+[00:01:51] of itself is the creative. And the power
+[00:01:53] in the hook is basically created in one
+[00:01:56] of two ways, right? The first way is in
+[00:01:59] what we call like a transformation,
+[00:02:01] right? So I went from X to Y. So I was
+[00:02:04] in this terrible, terrible state. I was
+[00:02:06] super super overweight and then boom, I
+[00:02:08] took this magic pill and now I'm 225 lbs
+[00:02:11] lean, six-pack, shredded. I bench 500
+[00:02:14] lb. All the girls won me. It's amazing,
+[00:02:16] right? That's a transformational hook. I
+[00:02:18] went from this the nightmare situation
+[00:02:20] to this, the ultimate dream scenario. So
+[00:02:22] that's number one. The other type of
+[00:02:23] hook that is super powerful is just the
+[00:02:25] first half, which is basically only
+[00:02:27] going to be the nightmare. Right now,
+[00:02:29] these are a little bit more tricky for
+[00:02:31] you to figure out. But with the
+[00:02:33] nightmare transformation, you
+[00:02:35] essentially want to create a static
+[00:02:36] image that is centered around the
+[00:02:37] nightmare scenario. So imagine like a
+[00:02:39] super overweight person looking down at
+[00:02:41] a scale and instead of the scale saying
+[00:02:43] like 300 lb or whatever, it just says
+[00:02:44] like you're fat, you know, like that's
+[00:02:46] the nightmare situation for somebody
+[00:02:48] who's struggling with their weight, for
+[00:02:49] example. The reason this is a little bit
+[00:02:51] more tricky is because there's not the
+[00:02:52] emotional contrast. And in the process,
+[00:02:54] I'm going to show you guys in just one
+[00:02:56] second, you can actually use AI to find
+[00:02:58] these very specific transformations so
+[00:03:00] that you don't even have to come up with
+[00:03:02] these yourself. Like, I am quite
+[00:03:03] literally spoon feeding you
+[00:03:05] [ __ ] exactly what you need to
+[00:03:07] do to create winning static ads at scale
+[00:03:10] that print you crazy cash. The first
+[00:03:12] step in this entire process is just to
+[00:03:14] actually do your research. Okay? And
+[00:03:15] now, of course, yes, we're going to use
+[00:03:17] AI for this process, but you could [ __ ]
+[00:03:19] up everything else. If you get this one
+[00:03:21] part right, I promise you, you're
+[00:03:23] already ahead of like 99% of
+[00:03:25] entrepreneurs out there because what
+[00:03:26] they do is exactly what I said in the
+[00:03:27] beginning. They just like scroll in the
+[00:03:29] ad library, look on get hooked, and they
+[00:03:31] try to just replicate an ad, not really
+[00:03:33] knowing the deep emotional triggers that
+[00:03:36] it's going to get somebody to buy. You
+[00:03:37] don't just guess. This is what I really
+[00:03:39] believe about AI, guys. Long term, where
+[00:03:41] there's not going to be a game of
+[00:03:42] guessing and testing to see if an ad is
+[00:03:45] going to be successful. You have all the
+[00:03:46] research in the world, all these AI
+[00:03:48] tools in your belt. Why would you not
+[00:03:50] use them to validate if this trigger is
+[00:03:52] going to work or not before you put any
+[00:03:54] ad spend behind it? Like just the risk
+[00:03:55] and barrier to entry is so freaking low.
+[00:03:57] It's absolutely absurd. And so with the
+[00:03:59] research process, again, what we're
+[00:04:00] really looking for is the hook, like the
+[00:04:02] transformation, the specific quotes, the
+[00:04:04] voice of the customer, right? And so
+[00:04:06] what we do to actually get the research
+[00:04:07] is we follow my foundational docs
+[00:04:10] resource which is essentially a series
+[00:04:12] of four different documents that you use
+[00:04:14] yes AI to create. But when you have
+[00:04:17] these when you feed these into AI you're
+[00:04:19] able to create images that are like 100
+[00:04:21] times better than if you were to just
+[00:04:24] like type your own little prompt into
+[00:04:25] chatbt or to another like text to image
+[00:04:27] software. So let's quickly create the
+[00:04:29] foundational docs because this is going
+[00:04:30] to be one of the most valuable things
+[00:04:32] that you would learn in this video. So,
+[00:04:33] I'll make sure to, you know, drop the
+[00:04:35] link below this video. But here's the
+[00:04:36] SOP once again. Spoonfed. All right. All
+[00:04:39] you have to do, let's go to prompt
+[00:04:41] number one. We're going to go over to
+[00:04:42] chat GBT. The model that you want to be
+[00:04:44] using in this particular case is going
+[00:04:45] to be 40. That's all you need to do for
+[00:04:47] these initial prompts before we get into
+[00:04:49] any deep research. Right? So, you're
+[00:04:51] basically going to paste this in and
+[00:04:52] fill in some information. So, I did a
+[00:04:54] little bit of research before this
+[00:04:55] particular video and I found this brand
+[00:04:57] here that if we open up the similar web,
+[00:04:59] we can see that they're doing 300,000
+[00:05:00] visitors per month. But more
+[00:05:01] importantly, they are scaling and
+[00:05:03] they're scaling, you know, relatively
+[00:05:05] moderately aggressively, which is
+[00:05:07] fantastic. And there's just so much that
+[00:05:08] we can tap into like with this
+[00:05:10] particular angle. I haven't made the ads
+[00:05:11] yet, but this is going to be fun. So,
+[00:05:13] all I'm going to do, I'm going to use
+[00:05:14] this extension right up here and hit
+[00:05:16] capture entire page. And this is like a
+[00:05:18] free extension, I think. But all it's
+[00:05:19] going to do is screenshot the entire
+[00:05:21] sales page here so that I can feed this
+[00:05:23] into AI to help create a prompt to go
+[00:05:26] and actually do the deep research. So,
+[00:05:28] because if you're just like a total
+[00:05:30] novice with using AI, you're going to
+[00:05:32] write your own prompts. You should have
+[00:05:33] AI writing prompts for you. And that's
+[00:05:35] what we're doing with this initial step.
+[00:05:36] So, let's go ahead and save this PDF.
+[00:05:38] Then, we're going to go back into chat,
+[00:05:39] upload that PDF right there. And as soon
+[00:05:41] as this load, we're going to hit enter.
+[00:05:42] While that's going, let's move on to
+[00:05:44] prompt two. All right, we can go through
+[00:05:45] this super duper fast. So, we're going
+[00:05:47] to paste prompt two. And once again,
+[00:05:49] we're just going to upload these two
+[00:05:50] documents here and here and let it run.
+[00:05:53] So, we hit enter there. Let's move on to
+[00:05:54] the next prompt. We just paste it right
+[00:05:56] in. We're going to hit enter. And now we
+[00:05:58] actually have the fun part. So that
+[00:05:59] entire, you know, three prompt process
+[00:06:01] right there was literally just for us to
+[00:06:03] get an actually good prompt that we can
+[00:06:06] resend into a new prompt inside of Chad
+[00:06:07] GBT and enable deep research. Right? So
+[00:06:10] we're going to go to the bottom, hit
+[00:06:11] copy, and go to a new window, hit paste,
+[00:06:13] and make sure we delete any of this
+[00:06:15] nonsense up here that is just totally
+[00:06:17] not necessary. And same thing at the
+[00:06:18] bottom. And then we're going to go to
+[00:06:19] tools. We are going to hit deep research
+[00:06:21] and hit enter. every single time you run
+[00:06:23] deep research and honestly this is like
+[00:06:25] a pet peeve of mine. JBT will ask you a
+[00:06:27] few questions. So let's just quickly
+[00:06:28] answer those.
+[00:06:32] All right, so we hit enter after
+[00:06:33] answering those questions and now as you
+[00:06:34] can see it's starting the research. So
+[00:06:37] let's fast forward through this [ __ ]
+[00:06:39] [ __ ] All righty. So here we are. We got
+[00:06:40] the entire research document completely
+[00:06:43] done here. As you can see, this is just
+[00:06:46] I can't even tell you how much freaking
+[00:06:47] gold there is in this entire, you know,
+[00:06:50] many many multiple page long research.
+[00:06:52] And the best part is this is only one of
+[00:06:54] the foundational documents. All right,
+[00:06:56] so what we're going to do is we're going
+[00:06:57] to copy this entire thing and go ahead
+[00:06:58] and paste it into a document and save
+[00:07:00] that document, download it as a DOCX and
+[00:07:03] just keep it in your back pocket. In the
+[00:07:04] meantime, let's move on to the next
+[00:07:05] prompt. We're just going to copy this
+[00:07:07] right here, go into chat, paste it,
+[00:07:10] attach the avatar sheet template, and
+[00:07:11] hit enter. All right, so we got the full
+[00:07:13] avatar sheet. Same process as before,
+[00:07:15] guys. We're just going to upload this
+[00:07:16] into Google Doc, download it, and keep
+[00:07:18] it in your back pocket. Let's move on to
+[00:07:21] next prompt, which is going to be this
+[00:07:22] one right here. So, let's copy this,
+[00:07:23] paste it in, attach the opera brief
+[00:07:25] document, and hit enter. All right. Now,
+[00:07:27] we're going to move on to the necessary
+[00:07:28] beliefs, which is the final document
+[00:07:30] here. So, let's copy all this text right
+[00:07:32] here, go back into chat, paste it in,
+[00:07:34] and hit enter. All right. And the very
+[00:07:36] final prompt here, let's go ahead and
+[00:07:38] copy all this. We're going to reattach
+[00:07:41] the three documents that we already have
+[00:07:42] so we can complete the final document
+[00:07:44] which is the necessary beliefs document.
+[00:07:46] We're going to paste that right in and
+[00:07:48] hit enter. All righty. So at this stage
+[00:07:50] we have all the foundational docs
+[00:07:52] actually created. So like the first step
+[00:07:54] is done. The boring part is done and now
+[00:07:56] we can move on and have some fun and
+[00:07:58] start creating these creatives. Okay. So
+[00:08:00] like I said the first process is
+[00:08:02] research first step right that's done.
+[00:08:03] Step number two is going to be to
+[00:08:06] identify the existing proven formats
+[00:08:08] that are actually working in the market
+[00:08:10] right now. So when it comes to like
+[00:08:12] testing static ads, I typically follow
+[00:08:14] the 80/20 principle, which means 80% of
+[00:08:16] the testing that I do is iterations of
+[00:08:18] existing winners. Now, if you don't have
+[00:08:20] successful ads in your account yet, that
+[00:08:22] means that you can go to a tool like Git
+[00:08:23] Hook, which I'll show you, and you can
+[00:08:25] identify winning creatives and just have
+[00:08:27] AI remake those. Simple as that. All
+[00:08:28] right, that's number one. If you have
+[00:08:30] winning static ads already, you can
+[00:08:31] upload those as references and make
+[00:08:33] iterations. The other 20% is going to be
+[00:08:36] completely new concepts that you create
+[00:08:38] from scratch. Okay, so let's just act as
+[00:08:40] if this is a brand that we've never
+[00:08:42] actually ran before. We have zero static
+[00:08:44] ads running whatsoever. What we're going
+[00:08:45] to do is open a new tab and go over to
+[00:08:48] get hooked. And all I'm looking for here
+[00:08:49] right now is existing winning ads that
+[00:08:53] are running in the supplement space. So
+[00:08:54] let me show you the exact criteria that
+[00:08:56] I'm going to select here because this is
+[00:08:58] very important. All right. So, for
+[00:08:59] performance, we're going to do four and
+[00:09:01] five star. Ad format is going to be
+[00:09:03] image. Static ad style, we're going to
+[00:09:04] leave that blank for now. Status is
+[00:09:06] still running. Runtime is going to be a
+[00:09:08] minimum of 7 days. Language is going to
+[00:09:10] be English. Channels, let's do Facebook
+[00:09:12] and Instagram. Creative usage, let's do
+[00:09:15] more than three. And brand active ads, I
+[00:09:17] want to see a minimum of 100 ads in the
+[00:09:19] ad library. All right. And that's going
+[00:09:20] to be it for these filters. So, let's
+[00:09:22] quickly identify, right, some pretty
+[00:09:25] good creatives, specifically statics
+[00:09:27] that I like that kind of like stand out.
+[00:09:29] You have like traditional before and
+[00:09:30] afters, comparisons. Those will be
+[00:09:32] pretty easy. Like one thing when it
+[00:09:33] comes to creating static images, guys,
+[00:09:35] is like there's a lot of format. And
+[00:09:36] that's one cool thing about Get Hook
+[00:09:38] that you can actually do is the static
+[00:09:39] ad style, right? If you only want to see
+[00:09:41] before and afters, boom, all the before
+[00:09:43] and afters, right? If you only want to
+[00:09:44] see uh FAQ explainers, boom, you have
+[00:09:47] them all there. So, there's a bunch of
+[00:09:49] different styles that you can kind of
+[00:09:50] play around with. And of course, you can
+[00:09:51] always just scroll through like I am and
+[00:09:54] find some good formats. Right. So, the
+[00:09:56] first thing that I want to do is let's
+[00:09:59] see, let me find one that stands out
+[00:10:02] here.
+[00:10:04] I actually really like the format of
+[00:10:06] this creative right here. Let me zoom in
+[00:10:07] to make sure that you guys can see it.
+[00:10:09] But it is technically before and after,
+[00:10:10] but it's animated. Like, one of the
+[00:10:12] risks with running before and afters is
+[00:10:14] you're very likely to get that ad
+[00:10:15] rejected and potentially even your
+[00:10:17] entire ad account shut down. So, I don't
+[00:10:18] necessarily recommend them, but if
+[00:10:20] they're animated like this, they're a
+[00:10:22] lot more likely to be approved. So, what
+[00:10:25] we're going to do is we're going to go
+[00:10:26] right to download media. Hit that so
+[00:10:27] that we have that image saved. And next
+[00:10:30] step, we're going to go back to chatbt
+[00:10:32] and open up a new window. All right,
+[00:10:33] guys. So, next we're going to take this
+[00:10:34] prompt right here. This is another
+[00:10:36] prompt that I wrote for image app
+[00:10:38] creation. Once again, you'll notice it's
+[00:10:40] a prompt to write a prompt. And this is
+[00:10:42] like one of the most important steps cuz
+[00:10:44] if you don't understand prompt
+[00:10:45] engineering, you're never going to get
+[00:10:46] the output that you want. And typically
+[00:10:47] humans just suck at at writing prompts
+[00:10:49] in general. Why not use the AI for what
+[00:10:50] it's good for? So if you want this
+[00:10:51] entire prompt right here, just DM me the
+[00:10:53] word image on IG. It's Markbuild Brands
+[00:10:55] and I'll send it to you over for free.
+[00:10:56] So I pasted the prompt, adjusted all the
+[00:10:58] custom info. Now we're going to add
+[00:10:59] those four foundational documents that
+[00:11:01] we just created before. And let's hit
+[00:11:03] enter. And again, guys, you can still
+[00:11:04] use the model 40 for this because we're
+[00:11:07] doing something very, very simple. We're
+[00:11:08] literally just going to be creating
+[00:11:09] prompts with this. All right, so the
+[00:11:11] next step, we're going to upload that
+[00:11:12] swipe image, right? That example image
+[00:11:14] that we found on Get Hook with a simple
+[00:11:15] line. You don't even need a prompt for
+[00:11:17] this. Can you please create a prompt to
+[00:11:18] recreate this image, but for my brand?
+[00:11:20] So, because we already did all the hard
+[00:11:22] work of creating the foundational
+[00:11:23] documents and having some good prompt
+[00:11:25] engineering here. Now, we can be all
+[00:11:27] lazy and Chad and just say, "Hey, I need
+[00:11:29] you to remake this now." All right. So,
+[00:11:31] it's going to create the prompt right
+[00:11:33] here as we can see. And what we're going
+[00:11:34] to do now, this is like the most
+[00:11:36] important part of this entire video.
+[00:11:37] We're going to copy this section right
+[00:11:39] here. That is the actual prompt. And
+[00:11:41] then we're going to go over to my
+[00:11:43] favorite text to image software that is
+[00:11:45] on the market right now, Higsfield. So
+[00:11:47] Higsfield.ai is a very, very high
+[00:11:51] quality text to image software that you
+[00:11:53] can use. And truthfully, I have no
+[00:11:55] relationship with this company and maybe
+[00:11:56] I will in the future, but I'm sharing it
+[00:11:58] because I use them and I've produced a
+[00:12:00] lot of winning creatives using this
+[00:12:01] software right here. What's really cool
+[00:12:03] is if you go down, I my camera may be
+[00:12:05] covering it. If you select where it says
+[00:12:06] soul, you can essentially see that
+[00:12:08] there's three different models down
+[00:12:09] here. We have Higsfield Soul, Flux
+[00:12:11] Context Max and GPT image. So these are
+[00:12:13] obviously three different uh text image
+[00:12:16] models that you can use to create
+[00:12:18] images. But what's interesting is that
+[00:12:19] each of them has a very distinct
+[00:12:21] advantage, right? Higsfield Soul for
+[00:12:23] example, if you look at these four
+[00:12:25] photos at the very top right here, very
+[00:12:26] very good for creating the most
+[00:12:28] realistic UGC type images, right?
+[00:12:31] Basically indistinguishable from taking
+[00:12:33] photos like with an iPhone, right? A few
+[00:12:35] of these down here also same kind of
+[00:12:37] sync. Flux context in my opinion is
+[00:12:40] really good with animation. So if you
+[00:12:41] want to create like an animated woman
+[00:12:43] driving a car for example, not animated
+[00:12:45] as in like a video but like an image
+[00:12:47] very very good at creating those. I've
+[00:12:49] also made multiple winners on that. And
+[00:12:51] then finally for GBT this is the best
+[00:12:53] model for adding text on an image. It's
+[00:12:55] not perfect but Higsfield is definitely
+[00:12:57] not there. Flux in my experience is also
+[00:12:59] not there. So GBT is the closest one. So
+[00:13:01] in this particular case we're only going
+[00:13:03] to use GPT for this particular brief.
+[00:13:05] So, let's just send this in and hit
+[00:13:07] generate. But what I'll usually do,
+[00:13:08] guys, is if I have idea for a brief,
+[00:13:11] I'll actually launch it on all three
+[00:13:13] models. I'll launch it on GPT, I'll
+[00:13:15] launch it on Flux, and I'll launch it on
+[00:13:16] Higsfield. And I'll see which one
+[00:13:18] returns the highest quality output. But
+[00:13:20] I'll tell you right now, if you're going
+[00:13:21] to have text on your image creative,
+[00:13:23] ChatGpt is most likely still going to be
+[00:13:26] your best option. If you guys have
+[00:13:27] better solutions, I'm always eager to
+[00:13:29] learn. Just drop it in the comments. But
+[00:13:30] for me, I produce so many winners with
+[00:13:32] this model that it's what's working the
+[00:13:33] best for me right now. All right. So,
+[00:13:34] just like that, we got the image
+[00:13:35] actually super duper fast. And we can
+[00:13:37] see the man boob fixed before
+[00:13:39] overweight. Dude, again, this is not
+[00:13:41] going to work if this was like a
+[00:13:43] realistic image. If you try to do a
+[00:13:45] weight loss before and after, oh my god,
+[00:13:47] you want to talk about having compliance
+[00:13:49] issues with Facebook, that is just like
+[00:13:51] the perfect recipe for Zuck to hate you.
+[00:13:54] But as you can see, puffy chest gymia,
+[00:13:56] soft and tired physique, low libido and
+[00:13:58] drive, shame and insecurity. All right.
+[00:14:00] And then on the right hand side, got a
+[00:14:02] guy that looks a little bit like me. Not
+[00:14:03] quite as good-looking, unfortunately.
+[00:14:05] But lean, hard chest, high energy and
+[00:14:08] focus, reignited sex drive, masculine
+[00:14:10] confidence. So great. So amazing. Wow.
+[00:14:12] Truthfully, this is really good. A lot
+[00:14:14] of times when there's a lot of text on
+[00:14:15] the image, tattooing will totally [ __ ]
+[00:14:17] up. But it was flawless in this
+[00:14:19] particular case. The reason why is
+[00:14:21] because again, all the hard work that we
+[00:14:23] did before. So, this entire video, I
+[00:14:25] don't know how long this video is going
+[00:14:26] to end up being, but if you put in the
+[00:14:28] work, you build the foundational
+[00:14:29] documents, and you have the right
+[00:14:31] prompting using AI, everything else is
+[00:14:33] just so much easier from there on out.
+[00:14:36] Let's do another one real quick, but in
+[00:14:37] a different format, right?
+[00:14:42] Let's take this one as an example. Sold
+[00:14:44] out in a blink. I kind of like this. And
+[00:14:45] this could be a good ad potentially for
+[00:14:47] retargeting, right? Maybe for cold
+[00:14:49] traffic, probably not. But we're going
+[00:14:50] to hit download. upload that right into
+[00:14:52] our chat GBT. Simple simple simple
+[00:14:54] prompt right here. No need to do it in a
+[00:14:56] new window because we're doing super
+[00:14:57] duper basic low context window. We
+[00:14:59] already did all the training, so let's
+[00:15:01] just get this tech to image prompt. And
+[00:15:03] then we'll go ahead and paste it into
+[00:15:05] Higsfield. Once again, this one is
+[00:15:06] probably going to be best for the chatbt
+[00:15:08] model. I know I'm using chatbt in
+[00:15:10] Higsfield, so it's kind of ironic that
+[00:15:11] I'm using Higsfield period. But like I
+[00:15:13] said, you can try to run this with other
+[00:15:15] models, but with text on the image, I
+[00:15:17] promise you, it's typically going to be
+[00:15:19] better if you use the chatbt model. But
+[00:15:22] if you want to do something very, very
+[00:15:24] realistic, then then you absolutely can.
+[00:15:26] In fact, we'll do that just one more
+[00:15:27] test after this. And here we go. We got
+[00:15:29] the creative right here. Obviously, this
+[00:15:30] is not going to be what the actual
+[00:15:32] bottle looks like. If I wanted to add
+[00:15:33] the bottle in, I could very easily. I
+[00:15:35] just didn't upload PNG file of what the
+[00:15:37] bottle looks like. But this looks really
+[00:15:39] good. Honestly, the branding is going to
+[00:15:41] change a little bit because of the
+[00:15:42] bottle, but to be honest, I didn't
+[00:15:43] really give it that context. So, just
+[00:15:45] give it the context and expect it to
+[00:15:46] give you a much better output. But let's
+[00:15:48] use the Higsfield model, Higsfield Soul
+[00:15:51] specifically, just one time. So, another
+[00:15:53] thing that you guys can do is down here,
+[00:15:55] instead of sending a swipe or an example
+[00:15:58] from get hooked, you can just have it
+[00:15:59] create one from scratch.
+[00:16:02] So, in this case, the prompt I use, can
+[00:16:03] you create a text prompt image for
+[00:16:05] hyperrealistic image of the nightmare
+[00:16:07] scenario? completely misspelled like
+[00:16:08] half the words in that sentence, but
+[00:16:09] [ __ ] it. And we're going to take this
+[00:16:11] entire prompt right here. Once again,
+[00:16:12] very extensive. It's not always the case
+[00:16:15] that like the longer the prompt is going
+[00:16:17] to give you a better output. And in
+[00:16:18] fact, often times it's not, but you
+[00:16:20] know, let's see what we can do. We're
+[00:16:21] going to paste this in. Select Higfield.
+[00:16:23] I didn't even read it, but let's see
+[00:16:24] what it looks like. When it comes to
+[00:16:25] realistic images, by the way, once
+[00:16:27] again, within Higsfield Soul, I do like
+[00:16:29] to use the realistic model. the iPhone
+[00:16:32] model can work very very well, but I
+[00:16:34] truthfully stick to these two for like
+[00:16:36] 90% of the ads that I'm doing. All
+[00:16:38] right, and here we got the images. Now,
+[00:16:41] really important caveat here. Obviously,
+[00:16:43] this is not going to be something that
+[00:16:44] you run on Facebook. This is literally
+[00:16:46] just for example purposes, but this does
+[00:16:48] show you how realistic some of the
+[00:16:51] images can look. I don't know why it
+[00:16:53] made uh his eyes look so dark, like he
+[00:16:56] just got into a fight with 10 dudes and
+[00:16:58] got completely [ __ ] up, but hey, still
+[00:17:00] very realistic. That's really the point.
+[00:17:02] And I think you can see even by some of
+[00:17:03] these images below just how realistic
+[00:17:06] you can make these images look with the
+[00:17:07] right prompting. In this case, I
+[00:17:08] actually think that I overprompted just
+[00:17:10] a little bit. But that's not the point.
+[00:17:11] The point is to show you how cool this
+[00:17:13] technology is and how amazing it can be
+[00:17:14] if you use it correctly. Again, get
+[00:17:17] creative. You know, experiment with the
+[00:17:18] different models and I promise you, you
+[00:17:20] can create a creative that looks really,
+[00:17:22] really good and fits the exact style
+[00:17:24] that you kind of want. So, that's going
+[00:17:25] to be it for this video, guys. Again,
+[00:17:26] thank you so much for watching. If you
+[00:17:28] want more info like this, we literally
+[00:17:30] just built an entire AI section in my
+[00:17:32] mentorship program called Brand Builders
+[00:17:34] Academy. So, if you like this, we have
+[00:17:35] stuff way better than this inside. So,
+[00:17:37] if you want in, you can click the first
+[00:17:39] link in the description and check that
+[00:17:40] out. We have a full application process.
+[00:17:41] So, we're very clear. We don't want to
+[00:17:43] accept everybody, but if you're serious,
+[00:17:44] got some capital set aside, click the
+[00:17:46] link and you can apply. Other than that,
+[00:17:47] I'll see you on the next video. Peace.
+[00:17:50] Run more ads.
