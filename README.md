@@ -86,7 +86,7 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 ### 1. YouTube Livestream Archiving & 3-Tier Verification
 - **Target Channels:**
   - `@vitalnasser` (4 complete broadcasts, 2.42 GB)
-  - `@produitsdigitauxtorif` (1 complete broadcast, 501.7 MB)
+  - `@produitsdigitauxtorif` (4 complete broadcasts, 2.56 GB, 13h 53m)
   - `@nolimitvousdv` (26 live broadcasts cataloged, latest stream downloaded, 480.8 MB)
 - **3-Tier Automated QA Pipeline:**
   - **Tier 1 (Container & Duration):** Validates MP4 `moov` atom integrity, dual-stream (AVC/AAC) synchronization, and duration matching within a 0.5-second tolerance.
@@ -237,8 +237,10 @@ Commercial scraping proxies charge between **$2.50 to $15.00 per GB**, which qui
 │   ├── markbuildsbrands/                      # Clean .txt, .srt, and .json transcripts
 │   └── raw/                                   # Original timestamped caption segments
 │
-├── vitalnasser/                               # YouTube Livestreams Archive 1 (4 broadcasts)
-├── produitsdigitauxtorif/                     # YouTube Livestreams Archive 2 (1 broadcast)
+├── vitalnasser/                               # YouTube Livestreams Archive 1 (4 broadcasts, 2.42 GB)
+├── produitsdigitauxtorif/                     # YouTube Livestreams Archive 2 (4 complete broadcasts, 2.56 GB)
+│   ├── CATALOG.md                             # Channel overview and 3-tier QA audit catalog
+│   └── 01_... to 04_...                       # Broadcast packages (metadata, thumb, 720p MP4, preview grid)
 └── nolimitvousdv/                             # YouTube Livestreams Archive 3 (26 cataloged)
 ```
 

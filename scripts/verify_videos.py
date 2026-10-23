@@ -185,10 +185,12 @@ def verify_single_video(folder):
 
     # Duration
     actual_duration = float(probe.get("format", {}).get("duration", 0))
-    expected_duration_str = metadata.get("duration", "")
+    expected_duration_val = metadata.get("duration", "")
     expected_duration = 0
-    if expected_duration_str:
-        parts = [int(p) for p in expected_duration_str.split(":") if p.isdigit()]
+    if isinstance(expected_duration_val, (int, float)):
+        expected_duration = float(expected_duration_val)
+    elif isinstance(expected_duration_val, str) and expected_duration_val:
+        parts = [int(p) for p in expected_duration_val.split(":") if p.isdigit()]
         if len(parts) == 3:
             expected_duration = parts[0] * 3600 + parts[1] * 60 + parts[2]
         elif len(parts) == 2:

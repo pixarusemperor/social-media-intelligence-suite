@@ -1,85 +1,5 @@
 [
   {
-    "channel": "vitalnasser",
-    "folder": "01_Jour 33 Mon cadeau pour l'Afrique(Je t'aide \u00e0 cr\u00e9er ta boutique en live)_WHSAbye-2zg",
-    "video_file": "WHSAbye-2zg.mp4",
-    "title": "Jour 3/3 || Mon cadeau pour l'Afrique(Je t'aide \u00e0 cr\u00e9er ta boutique en live)",
-    "size_mb": 518.69,
-    "checks": {
-      "container": "PASSED",
-      "streams": "PASSED (Video: av1 1280x720, Audio: opus)",
-      "duration": "PASSED (Actual: 8946s vs Expected: 8947s, diff: 0.4s)",
-      "seek_and_decode": "PASSED",
-      "audio_activity": "PASSED: Audio active (mean: -23.3 dB, max: -7.1 dB)",
-      "preview_grid": "PASSED (preview_grid.jpg)"
-    },
-    "resolution": "1280x720",
-    "video_codec": "av1",
-    "audio_codec": "opus",
-    "actual_duration_sec": 8946.6,
-    "overall_status": "100% VERIFIED & READY TO WATCH"
-  },
-  {
-    "channel": "vitalnasser",
-    "folder": "02_Jour 13 Mes 3 secrets de r\u00e9ussite en e-commerce en Afrique_brSksQmoFhQ",
-    "video_file": "brSksQmoFhQ.mp4",
-    "title": "Jour 1/3 || Mes 3 secrets de r\u00e9ussite en e-commerce en Afrique",
-    "size_mb": 764.08,
-    "checks": {
-      "container": "PASSED",
-      "streams": "PASSED (Video: av1 1280x720, Audio: opus)",
-      "duration": "PASSED (Actual: 14892s vs Expected: 14893s, diff: 0.3s)",
-      "seek_and_decode": "PASSED",
-      "audio_activity": "PASSED: Audio active (mean: -30.1 dB, max: -9.0 dB)",
-      "preview_grid": "PASSED (preview_grid.jpg)"
-    },
-    "resolution": "1280x720",
-    "video_codec": "av1",
-    "audio_codec": "opus",
-    "actual_duration_sec": 14892.7,
-    "overall_status": "100% VERIFIED & READY TO WATCH"
-  },
-  {
-    "channel": "vitalnasser",
-    "folder": "03_Jour Bonus_0skjrBGauDs",
-    "video_file": "0skjrBGauDs.mp4",
-    "title": "Jour Bonus",
-    "size_mb": 469.03,
-    "checks": {
-      "container": "PASSED",
-      "streams": "PASSED (Video: av1 1280x720, Audio: opus)",
-      "duration": "PASSED (Actual: 7170s vs Expected: 7171s, diff: 0.1s)",
-      "seek_and_decode": "PASSED",
-      "audio_activity": "PASSED: Audio active (mean: -22.8 dB, max: -2.0 dB)",
-      "preview_grid": "PASSED (preview_grid.jpg)"
-    },
-    "resolution": "1280x720",
-    "video_codec": "av1",
-    "audio_codec": "opus",
-    "actual_duration_sec": 7170.9,
-    "overall_status": "100% VERIFIED & READY TO WATCH"
-  },
-  {
-    "channel": "vitalnasser",
-    "folder": "04_Jour 23 On se lance de z\u00e9ro (Je te donne tout)_v4oR7k1HxMI",
-    "video_file": "v4oR7k1HxMI.mp4",
-    "title": "Jour 2/3 || On se lance de z\u00e9ro (Je te donne tout)",
-    "size_mb": 665.41,
-    "checks": {
-      "container": "PASSED",
-      "streams": "PASSED (Video: av1 1280x720, Audio: opus)",
-      "duration": "PASSED (Actual: 10143s vs Expected: 10144s, diff: 0.1s)",
-      "seek_and_decode": "PASSED",
-      "audio_activity": "PASSED: Audio active (mean: -18.9 dB, max: -0.6 dB)",
-      "preview_grid": "PASSED (preview_grid.jpg)"
-    },
-    "resolution": "1280x720",
-    "video_codec": "av1",
-    "audio_codec": "opus",
-    "actual_duration_sec": 10143.9,
-    "overall_status": "100% VERIFIED & READY TO WATCH"
-  },
-  {
     "channel": "produitsdigitauxtorif",
     "folder": "01_De Simples Africains G\u00e9n\u00e8rent Entre 1500\u20ac ET 2500\u20ac Par Mois Avec L\u2019ia Sans Montrer Leur Visage ._1sb5k9uIGWI",
     "video_file": "1sb5k9uIGWI.mp4",
@@ -100,23 +20,63 @@
     "overall_status": "100% VERIFIED & READY TO WATCH"
   },
   {
-    "channel": "nolimitvousdv",
-    "folder": "24_POURQUOI M\u00caME LES C\u00c9L\u00c9BRIT\u00c9S ONT DU MAL AVEC LES FEMMES (HYPERGAMIE)_macbYitqP_k",
-    "video_file": "macbYitqP_k.mp4",
-    "title": "POURQUOI M\u00caME LES C\u00c9L\u00c9BRIT\u00c9S ONT DU MAL AVEC LES FEMMES (HYPERGAMIE)",
-    "size_mb": 480.77,
+    "channel": "produitsdigitauxtorif",
+    "folder": "02_JOUR 1 - La nouvelle opportunit\u00e9 de march\u00e9 : Produits digitaux 2.0_HpPOLKtf-ss",
+    "video_file": "HpPOLKtf-ss.mp4",
+    "title": "JOUR 1 - La nouvelle opportunit\u00e9 de march\u00e9 : Produits digitaux 2.0",
+    "size_mb": 962.26,
     "checks": {
       "container": "PASSED",
-      "streams": "PASSED (Video: av1 1920x1080, Audio: opus)",
-      "duration": "PASSED (Actual: 4071s vs Expected: 4072s, diff: 0.3s)",
+      "streams": "PASSED (Video: vp9 1280x720, Audio: opus)",
+      "duration": "PASSED (Actual: 13114s vs Expected: 13115.0s, diff: 0.5s)",
       "seek_and_decode": "PASSED",
-      "audio_activity": "PASSED: Audio active (mean: -27.8 dB, max: -8.2 dB)",
+      "audio_activity": "PASSED: Audio active (mean: -23.6 dB, max: -4.5 dB)",
       "preview_grid": "PASSED (preview_grid.jpg)"
     },
-    "resolution": "1920x1080",
-    "video_codec": "av1",
+    "resolution": "1280x720",
+    "video_codec": "vp9",
     "audio_codec": "opus",
-    "actual_duration_sec": 4071.7,
+    "actual_duration_sec": 13114.5,
+    "overall_status": "100% VERIFIED & READY TO WATCH"
+  },
+  {
+    "channel": "produitsdigitauxtorif",
+    "folder": "03_JOUR 2 - Comment trouver des produits digitaux que le march\u00e9 est pr\u00eat \u00e0 acheter_nyWGqQqHcUs",
+    "video_file": "nyWGqQqHcUs.mp4",
+    "title": "JOUR 2 - Comment trouver des produits digitaux que le march\u00e9 est pr\u00eat \u00e0 acheter",
+    "size_mb": 627.31,
+    "checks": {
+      "container": "PASSED",
+      "streams": "PASSED (Video: h264 1280x720, Audio: aac)",
+      "duration": "PASSED (Actual: 11554s vs Expected: 11555.0s, diff: 0.1s)",
+      "seek_and_decode": "PASSED",
+      "audio_activity": "PASSED: Audio active (mean: -19.2 dB, max: -6.0 dB)",
+      "preview_grid": "PASSED (preview_grid.jpg)"
+    },
+    "resolution": "1280x720",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "actual_duration_sec": 11554.9,
+    "overall_status": "100% VERIFIED & READY TO WATCH"
+  },
+  {
+    "channel": "produitsdigitauxtorif",
+    "folder": "04_JOUR 3 - Un plan d'action pour vous aider \u00e0 vendre des produits digitaux sans montrer votre visage_SVAu8URLebg",
+    "video_file": "SVAu8URLebg.mp4",
+    "title": "JOUR 3 - Un plan d'action  pour vous aider \u00e0 vendre des produits digitaux sans montrer votre visage",
+    "size_mb": 474.51,
+    "checks": {
+      "container": "PASSED",
+      "streams": "PASSED (Video: h264 1280x720, Audio: opus)",
+      "duration": "PASSED (Actual: 13521s vs Expected: 13521.0s, diff: 0.4s)",
+      "seek_and_decode": "PASSED",
+      "audio_activity": "PASSED: Audio active (mean: -19.3 dB, max: -5.8 dB)",
+      "preview_grid": "PASSED (preview_grid.jpg)"
+    },
+    "resolution": "1280x720",
+    "video_codec": "h264",
+    "audio_codec": "opus",
+    "actual_duration_sec": 13521.4,
     "overall_status": "100% VERIFIED & READY TO WATCH"
   }
 ]
