@@ -29,6 +29,7 @@ node_modules/
 .cursor/
 .claude/
 .agents/
+.commandcode/
 .cursorrules
 .windsurfrules
 
@@ -41,3 +42,7 @@ mcp.json
 tmp_frame_*.jpg
 .pytest_cache/
 scratch/
+loom_downloads/
+facebook/LalyShopOnline/
+facebook/OfficialCaresOneNo/
+facebook/les_hommes_tendus_61593527086207/

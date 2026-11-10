@@ -363,6 +363,9 @@ Detailed engineering write-ups and analysis reports are located in the [`docs/`]
 | [`docs/VERIFICATION_PIPELINE.md`](docs/VERIFICATION_PIPELINE.md) | Detailed 3-tier QA validation pipeline specification (containers, audio levels, preview grids). |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Tor + Privoxy proxy bridge architecture and network flow diagrams. |
 | [`docs/FAILURES_AND_CRITERIA.md`](docs/FAILURES_AND_CRITERIA.md) | 10 livestream failure modes and scoring criteria for archival integrity. |
+| [`docs/session_archive/SESSION_OPERATIONAL_HANDOFF.md`](docs/session_archive/SESSION_OPERATIONAL_HANDOFF.md) | Full operational handoff of the 3,622-step session: 22 channels, 17,774 transcripts, Tor stream isolation, and Groq Whisper pipelines. |
+| [`docs/session_archive/REUSABLE_SKILLS_AND_AUTOMATIONS.md`](docs/session_archive/REUSABLE_SKILLS_AND_AUTOMATIONS.md) | Blueprint for turning session extraction pipelines into reusable Antigravity skills and background automations. |
+| [`docs/session_archive/FULL_SESSION_TRANSCRIPT.md`](docs/session_archive/FULL_SESSION_TRANSCRIPT.md) | Complete, no-loss, redacted verbatim transcript across 3,622 steps. |
 
 ---
 
